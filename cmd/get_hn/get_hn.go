@@ -2,6 +2,7 @@ package main
 
 import (
 	"encoding/json"
+	"flag"
 	"fmt"
 	"io"
 	"log"
@@ -14,25 +15,27 @@ import (
 	"github.com/otiai10/opengraph/v2"
 )
 
-const (
-	NumStories = 70
-	OutFile    = "hn_topstories.json"
-	Verbose    = true
+var (
+	numStories int
+	outFile    string
+	verbose    bool
 )
 
 type Item struct {
-	By          string `json:"by"`
-	Descendants int    `json:"descendants"`
-	Icon        string `json:"icon"`
-	ID          int    `json:"id"`
-	Image       string `json:"image"`
-	Kids        []int  `json:"kids"`
-	Publisher   string `json:"publisher"`
-	Score       int    `json:"score"`
-	Time        int    `json:"time"`
-	Title       string `json:"title"`
-	Type        string `json:"type"`
-	URL         string `json:"url"`
+	By            string `json:"by"`
+	Descendants   int    `json:"descendants"`
+	Icon          string `json:"icon"`
+	ID            int    `json:"id"`
+	Image         string `json:"image"`
+	Kids          []int  `json:"kids"`
+	OGDescription string `json:"og_description"`
+	OGTitle       string `json:"og_title"`
+	Publisher     string `json:"publisher"`
+	Score         int    `json:"score"`
+	Time          int    `json:"time"`
+	Title         string `json:"title"`
+	Type          string `json:"type"`
+	URL           string `json:"url"`
 }
 
 // Get top 70 Hacker News stories. If there are no errors, writes to tn_topstories.json.
@@ -41,8 +44,15 @@ type Item struct {
 // Uses a Go library to get additional Open Graph data for the article (image, icon, and publisher).
 //   https://github.com/otiai10/opengraph
 // To Do:
-//   - Support command line flags to set out file and verbosity.
+//   - Support using the previous file as a cache.
+//   - Try to set publisher and icon if not set.
 func main() {
+	// Parse command line flags.
+	flag.IntVar(&numStories, "num", 70, "number of top stories to get")
+	flag.StringVar(&outFile, "out", "hn_topstories.json", "output file JSON")
+	flag.BoolVar(&verbose, "verbose", false, "verbose output")
+	flag.Parse()
+
 	ids, err := getTopStories()
 	if err != nil {
 		log.Fatalf("Problem getting top stories: %s", err)
@@ -51,7 +61,7 @@ func main() {
 	var items []Item
 	for i, id := range ids {
 		time.Sleep(200 * time.Millisecond)
-		if i >= NumStories {
+		if i >= numStories {
 			break
 		}
 		item, err := getItem(id)
@@ -60,7 +70,7 @@ func main() {
 			return
 		}
 		addOGData(&item)
-		if Verbose {
+		if verbose {
 			fmt.Printf("%9d  %s\n", item.ID, item.Title)
 		}
 		items = append(items, item)
@@ -71,7 +81,7 @@ func main() {
 		return
 	}
 
-	err = os.WriteFile(OutFile, data, 0644)
+	err = os.WriteFile(outFile, data, 0644)
 	if err != nil {
 		log.Fatalf("Problem saving to file: %s", err)
 		return
@@ -89,6 +99,8 @@ func addOGData(item *Item) (err error) {
 		item.Image = sanitizeURL(item.URL, ogp.Image[0].URL)
 	}
 	item.Publisher = ogp.SiteName
+	item.OGDescription = ogp.Description
+	item.OGTitle = ogp.Title
 	return
 }
 
@@ -141,6 +153,12 @@ func getItem(id int) (item Item, err error) {
 		log.Fatalln(err)
 	}
 	err = json.Unmarshal(b, &item)
+	if err != nil {
+		return
+	}
+	if item.URL == "" && strings.HasPrefix(item.Title, "Ask HN") {
+		item.URL = fmt.Sprintf("https://news.ycombinator.com/item?id=%d", item.ID)
+	}
 	return
 }
 
