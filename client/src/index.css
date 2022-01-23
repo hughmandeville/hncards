@@ -1,0 +1,18 @@
+@font-face {
+  font-family: "nyt-karnak";
+  src: url(https://g1.nyt.com/fonts/family/karnak/karnak-normal-400.woff)
+    format("woff");
+  font-style: normal;
+  font-weight: 400;
+}
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  color: #000000;
+  background: #ffffff;
+  text-align: center;
+  font-family: "nyt-franklin", "Roboto", "Helvetica Neue", garamond, helvetica,
+    sans serif;
+}
