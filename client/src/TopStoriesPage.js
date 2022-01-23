@@ -9,11 +9,19 @@ class TopStoriesPage extends React.Component {
       showMenu: false,
     };
   }
-
   componentDidMount() {}
 
   render() {
-    return <div id="ts-page">TBD</div>;
+    return (
+      <div id="ts-page">
+        <div id="nav">
+          <img id="nav-logo" src="ycombinator.png" alt="Y Combinator" />
+          <div id="nav-title">
+            <a href="https://news.ycombinator.com/news">Hacker News</a>
+          </div>
+        </div>
+      </div>
+    );
   }
 }
 
