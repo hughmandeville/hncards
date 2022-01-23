@@ -1,4 +1,6 @@
 import React from "react";
+import ItemBoxes from "./ItemBoxes";
+import NavBar from "./NavBar";
 import "./TopStoriesPage.css";
 
 // TopStoriesPage - Render Top Stories page.
@@ -6,20 +8,43 @@ class TopStoriesPage extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
-      showMenu: false,
+      error: "",
+      items: {},
     };
   }
-  componentDidMount() {}
+  componentDidMount() {
+    fetch("hn_topstories.json")
+      .then((response) => response.json())
+      .then((items) => {
+        this.setState({
+          error: "",
+          items,
+        });
+      })
+      .catch((error) => {
+        this.setState({
+          error: error.message,
+          items: {},
+        });
+      });
+  }
 
   render() {
+    let outputHTML = "";
+    if (this.state.error && this.state.error !== "") {
+      outputHTML = <div className="error">{this.state.error}</div>;
+    } else {
+      outputHTML = (
+        <div className="boxes">
+          <ItemBoxes items={this.state.items} />
+        </div>
+      );
+    }
+
     return (
       <div id="ts-page">
-        <div id="nav">
-          <img id="nav-logo" src="ycombinator.png" alt="Y Combinator" />
-          <div id="nav-title">
-            <a href="https://news.ycombinator.com/news">Hacker News</a>
-          </div>
-        </div>
+        <NavBar />
+        <div>{outputHTML}</div>
       </div>
     );
   }
