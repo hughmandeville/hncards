@@ -1,1 +1,1 @@
-# hnui
+# Hacker News Alternative UI
