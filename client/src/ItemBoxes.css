@@ -1,0 +1,63 @@
+.repos-repo {
+    position: relative;
+}
+
+.repos-table {
+    position: relative;
+    width: 400px;
+    padding: 20px;
+    margin: 20px;
+    background: #ffffff;
+    border: 1px solid #e0e0e0;
+    background: #f7f7f7;
+}
+
+.repos-table,
+.repos-table tr,
+.repos-table th,
+.repos-table td {
+    border-spacing: 0;
+    border-collapse: collapse;
+    text-align: left;
+}
+
+.repos-table table,
+.repos-table tr {
+    margin: 0;
+    padding: 0;
+}
+
+.repos-table tr:hover td,
+.repos-table tr th {
+    background: #f4f4f4;
+}
+
+.repos-table th,
+.repos-table td {
+    position: relative;
+    background: #ffffff;
+    padding: 10px;
+    margin: 0;
+    border: 1px solid #e0e0e0;
+}
+
+.repos-repo-title {
+    font-size: 20px;
+    font-weight: 700;
+    font-family: 'nyt-karnak', 'Roboto', 'Helvetica Neue', garamond, helvetica, sans serif;
+    margin-bottom: 10px;
+}
+
+
+.org {
+    position: absolute;
+    color: #9e9e9e;
+    bottom: 2px;
+    right: 6px;
+    font-size: 12px;
+    display: none;
+}
+
+.repos-table tr:hover .org {
+    display: block;
+}
