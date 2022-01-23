@@ -15,7 +15,7 @@ import (
 )
 
 const (
-	NumStories = 10
+	NumStories = 70
 	OutFile    = "hn_topstories.json"
 	Verbose    = true
 )
