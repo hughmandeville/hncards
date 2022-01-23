@@ -17,25 +17,24 @@ function ItemBoxes(props) {
       title = item.title;
     }
 
+    let img = "";
+    let titleClass = "title";
     if (item.image !== "") {
-      return (
-        <div className="box" key={"item-" + item.id}>
-          <div
-            className="img"
-            style={{
-              backgroundImage: `url(${item.image})`,
-            }}
-          ></div>
-          <div className="title">
-            <a href={item.url}>{title}</a>
-          </div>
-        </div>
+      titleClass = "title-with-img";
+      img = (
+        <div
+          className="img"
+          style={{
+            backgroundImage: `url(${item.image})`,
+          }}
+        ></div>
       );
     }
 
     return (
       <div className="box" key={"item-" + item.id}>
-        <div className="title2">
+        {img}
+        <div className={titleClass}>
           <a href={item.url}>{title}</a>
         </div>
         <div className="desc">{item.og_description}</div>

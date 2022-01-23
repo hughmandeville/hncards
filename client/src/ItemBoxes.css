@@ -16,6 +16,7 @@
   margin: 20px;
   background: #ffffff;
   border: 1px solid #e0e0e0;
+  word-break: break-all;
 }
 
 .box .img {
@@ -33,17 +34,17 @@
 }
 
 .title,
-.title2 {
+.title-with-img {
   font-weight: 700;
   font-family: "nyt-franklin", "Roboto", "Helvetica Neue", garamond, helvetica,
     sans serif;
   margin: 10px 20px;
 }
 .title {
-  font-size: 24px;
-}
-.title2 {
   font-size: 28px;
+}
+.title-with-img {
+  font-size: 24px;
 }
 .desc {
   margin: 10px 20px;
