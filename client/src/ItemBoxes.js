@@ -12,6 +12,11 @@ function ItemBoxes(props) {
   }
 
   const boxes = props.items.map((item) => {
+    let title = item.og_title;
+    if (title === "") {
+      title = item.title;
+    }
+
     if (item.image !== "") {
       return (
         <div className="box" key={"item-" + item.id}>
@@ -22,7 +27,7 @@ function ItemBoxes(props) {
             }}
           ></div>
           <div className="title">
-            <a href={item.url}>{item.title}</a>
+            <a href={item.url}>{title}</a>
           </div>
         </div>
       );
@@ -31,7 +36,7 @@ function ItemBoxes(props) {
     return (
       <div className="box" key={"item-" + item.id}>
         <div className="title2">
-          <a href={item.url}>{item.og_title}</a>
+          <a href={item.url}>{title}</a>
         </div>
         <div className="desc">{item.og_description}</div>
       </div>
