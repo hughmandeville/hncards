@@ -22,7 +22,7 @@ Creates the `build` folder.
 
 ## Dependencies
 
-Besides React and Babel, this project uses [react-router-dom](https://v5.reactrouter.com/web/guides/quick-start).
+Besides React and Babel, this project uses [react-router-dom](https://reactrouter.com/docs/en/v6/getting-started/overview).
 
 ```sh
 yarn add react-router-dom
