@@ -1,6 +1,5 @@
 .boxes {
   margin: 20px auto;
-  width: 90%;
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
@@ -27,7 +26,7 @@
 .title {
   font-size: 20px;
   font-weight: 700;
-  font-family: "nyt-karnak", "Roboto", "Helvetica Neue", garamond, helvetica,
+  font-family: "nyt-franklin", "Roboto", "Helvetica Neue", garamond, helvetica,
     sans serif;
   margin-bottom: 10px;
 }

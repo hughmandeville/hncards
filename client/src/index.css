@@ -16,3 +16,8 @@ body {
   font-family: "nyt-franklin", "Roboto", "Helvetica Neue", garamond, helvetica,
     sans serif;
 }
+
+a {
+  color: inherit;
+  text-decoration: none;
+}

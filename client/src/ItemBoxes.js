@@ -2,10 +2,15 @@ import "./ItemBoxes.css";
 
 // ItemBoxews - Render item boxes.
 function ItemBoxes(props) {
-  if (!props.items) {
+  if (
+    (undefined === props.items ||
+      undefined === props.items.length ||
+      props.items.length < 1) &&
+    (undefined === props.error || props.error === "")
+  ) {
     return null;
   }
-  console.log("items: ", props.items);
+
   const boxes = props.items.map((item) => {
     return (
       <div className="box" key={"item-" + item.id}>
