@@ -1,18 +1,14 @@
 import React from "react";
-import ReactDOM from "react-dom";
-import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
+import { render } from "react-dom";
+import { BrowserRouter, Routes, Route } from "react-router-dom";
 import "./index.css";
 import { TopStoriesPage } from "./TopStoriesPage";
 
-ReactDOM.render(
-  <React.StrictMode>
-    <Router>
-      <Routes>
-        <Route path="/">
-          <TopStoriesPage />
-        </Route>
-      </Routes>
-    </Router>
-  </React.StrictMode>,
+render(
+  <BrowserRouter>
+    <Routes>
+      <Route path="/" element={<TopStoriesPage />}></Route>
+    </Routes>
+  </BrowserRouter>,
   document.getElementById("root")
 );
