@@ -12,11 +12,28 @@ function ItemBoxes(props) {
   }
 
   const boxes = props.items.map((item) => {
+    if (item.image !== "") {
+      return (
+        <div className="box" key={"item-" + item.id}>
+          <div
+            className="img"
+            style={{
+              backgroundImage: `url(${item.image})`,
+            }}
+          ></div>
+          <div className="title">
+            <a href={item.url}>{item.title}</a>
+          </div>
+        </div>
+      );
+    }
+
     return (
       <div className="box" key={"item-" + item.id}>
-        <div className="title">
-          <a href={item.url}>{item.title}</a>
+        <div className="title2">
+          <a href={item.url}>{item.og_title}</a>
         </div>
+        <div className="desc">{item.og_description}</div>
       </div>
     );
   });
