@@ -75,6 +75,10 @@ func main() {
 		}
 		items = append(items, item)
 	}
+	if len(items) < 10 {
+		fmt.Printf("Hacker News API returned less than 10 stories, so not writing to %s.\n", outFile)
+		return
+	}
 	data, err := json.Marshal(items)
 	if err != nil {
 		log.Fatalf("Problem marshalling items: %s", err)
@@ -106,8 +110,8 @@ func addOGData(item *Item) (err error) {
 
 // Turn relative URLs into absolute URLs (/foo/bar.jpg -> https://example.com/foo/bar.jpg).
 func sanitizeURL(parentURL string, childURL string) (sanitizedURL string) {
-	sanitizedURL = childURL
-	if childURL == "" || strings.HasPrefix(childURL, "http:") || strings.HasPrefix(childURL, "https:") {
+	sanitizedURL = strings.TrimSpace(childURL)
+	if sanitizedURL == "" || strings.HasPrefix(sanitizedURL, "http:") || strings.HasPrefix(sanitizedURL, "https:") {
 		return
 	}
 	if strings.HasPrefix(childURL, "//") {
