@@ -45,6 +45,8 @@ type Item struct {
 // To Do:
 //   - Support using the previous file as a cache.
 //   - Show published time.
+//   - Show points and comments in box footer.
+//   - Show updated time in page footer.
 func main() {
 	// Parse command line flags.
 	flag.IntVar(&numStories, "num", 70, "number of top stories to get")
