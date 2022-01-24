@@ -102,7 +102,15 @@ func addOGData(item *Item) (err error) {
 	if len(ogp.Image) > 0 {
 		item.Image = sanitizeURL(item.URL, ogp.Image[0].URL)
 	}
-	item.Publisher = ogp.SiteName
+	item.Publisher = strings.TrimSpace(ogp.SiteName)
+	// if publisher not set, use the URL's domain name
+	if item.Publisher == "" {
+		pu, err := url.Parse(item.URL)
+		if err == nil {
+			item.Publisher = pu.Hostname()
+			item.Publisher = strings.TrimPrefix(item.Publisher, "www.")
+		}
+	}
 	item.OGDescription = ogp.Description
 	item.OGTitle = ogp.Title
 	return
