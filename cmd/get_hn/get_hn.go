@@ -18,7 +18,6 @@ import (
 var (
 	numStories int
 	outFile    string
-	verbose    bool
 )
 
 type Item struct {
@@ -45,13 +44,17 @@ type Item struct {
 //   https://github.com/otiai10/opengraph
 // To Do:
 //   - Support using the previous file as a cache.
-//   - Try to set publisher and icon if not set.
+//   - Show published time.
 func main() {
 	// Parse command line flags.
 	flag.IntVar(&numStories, "num", 70, "number of top stories to get")
 	flag.StringVar(&outFile, "out", "hn_topstories.json", "output file JSON")
-	flag.BoolVar(&verbose, "verbose", false, "verbose output")
 	flag.Parse()
+
+	fmt.Printf("Get Hacker News Top Stories\n")
+	fmt.Printf("---------------------------\n")
+	fmt.Printf("Out File:    %s\n", outFile)
+	fmt.Printf("Num Stories: %d\n\n", numStories)
 
 	ids, err := getTopStories()
 	if err != nil {
@@ -70,9 +73,7 @@ func main() {
 			return
 		}
 		addOGData(&item)
-		if verbose {
-			fmt.Printf("%9d  %s\n", item.ID, item.Title)
-		}
+		fmt.Printf(" %9d  %s\n", item.ID, item.Title)
 		items = append(items, item)
 	}
 	if len(items) < 10 {
@@ -94,16 +95,7 @@ func main() {
 
 // Add Open Graph data to the item (image, icon, and publisher).
 func addOGData(item *Item) (err error) {
-	ogp, err := opengraph.Fetch(item.URL)
-	if err != nil {
-		return
-	}
-	item.Icon = sanitizeURL(item.URL, ogp.Favicon.URL)
-	if len(ogp.Image) > 0 {
-		item.Image = sanitizeURL(item.URL, ogp.Image[0].URL)
-	}
-	item.Publisher = strings.TrimSpace(ogp.SiteName)
-	// if publisher not set, use the URL's domain name
+	// set publisher to the URL's domain name by default
 	if item.Publisher == "" {
 		pu, err := url.Parse(item.URL)
 		if err == nil {
@@ -111,6 +103,26 @@ func addOGData(item *Item) (err error) {
 			item.Publisher = strings.TrimPrefix(item.Publisher, "www.")
 		}
 	}
+
+	ogp, err := opengraph.Fetch(item.URL)
+	if err != nil {
+		return
+	}
+	icon := sanitizeURL(item.URL, ogp.Favicon.URL)
+	if icon != "" {
+		if icon == "https://news.ycombinator.com/item/favicon.ico" {
+			icon = "https://news.ycombinator.com/favicon.ico"
+		}
+		item.Icon = icon
+	}
+	if len(ogp.Image) > 0 {
+		item.Image = sanitizeURL(item.URL, ogp.Image[0].URL)
+	}
+	publisher := strings.TrimSpace(ogp.SiteName)
+	if publisher != "" {
+		item.Publisher = publisher
+	}
+
 	item.OGDescription = ogp.Description
 	item.OGTitle = ogp.Title
 	return
@@ -168,7 +180,9 @@ func getItem(id int) (item Item, err error) {
 	if err != nil {
 		return
 	}
-	if item.URL == "" && strings.HasPrefix(item.Title, "Ask HN") {
+	if item.URL == "" {
+		item.Publisher = "Hacker News"
+		item.Icon = "https://news.ycombinator.com/favicon.ico"
 		item.URL = fmt.Sprintf("https://news.ycombinator.com/item?id=%d", item.ID)
 	}
 	return
