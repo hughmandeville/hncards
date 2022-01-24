@@ -14,7 +14,6 @@
   overflow-x: hidden;
   margin: 20px;
   background: #ffffff;
-  border: 1px solid #e0e0e0;
 }
 
 .box .img {
@@ -23,12 +22,6 @@
   background-repeat: no-repeat; /* <- missing semi-colon */
   background-position: center center;
   background-size: cover;
-}
-
-.box:hover {
-  background: #ffffff;
-  border: 1px solid #bdbdbd;
-  color: #000000;
 }
 
 .title,
@@ -70,6 +63,23 @@
 .publisher-text {
   display: inline-block;
   vertical-align: middle;
+  color: #757575;
+}
+
+.box-footer {
+  margin: 10px 20px;
+  font-size: 16px;
+  vertical-align: middle;
+  color: #ffffff;
+}
+
+.box-footer a:hover {
+  text-decoration: underline;
+  color: #ff6600;
+}
+
+.box:hover .box-footer {
+  display: block;
   color: #757575;
 }
 

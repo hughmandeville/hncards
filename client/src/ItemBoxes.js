@@ -21,6 +21,7 @@ function ItemBoxes(props) {
     let pubIcon = "";
     let img = "";
     let desc = "";
+    let footer = "";
     let titleClass = "title";
     if (item.icon) {
       pubIcon = (
@@ -55,6 +56,24 @@ function ItemBoxes(props) {
       desc = <div className="desc">{item.og_description}</div>;
     }
 
+    let comments = "";
+    if (item.kids && item.kids.length > 0) {
+      comments = (
+        <span>
+          <div className="dot">&bull;</div>{" "}
+          <a href={"https://news.ycombinator.com/item?id=" + item.id}>
+            {item.kids.length} cmts
+          </a>
+        </span>
+      );
+    }
+    footer = (
+      <div className="box-footer">
+        by {item.by} <div className="dot">&bull;</div> {item.score} pts{" "}
+        {comments}
+      </div>
+    );
+
     return (
       <div className="box" key={"item-" + item.id}>
         {img}
@@ -63,6 +82,7 @@ function ItemBoxes(props) {
           <a href={item.url}>{title}</a>
         </div>
         {desc}
+        {footer}
       </div>
     );
   });
