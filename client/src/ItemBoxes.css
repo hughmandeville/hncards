@@ -10,13 +10,11 @@
 .box {
   position: relative;
   width: 320px;
-  height: 360px;
-  max-height: 360px;
   overflow-y: scroll;
+  overflow-x: hidden;
   margin: 20px;
   background: #ffffff;
   border: 1px solid #e0e0e0;
-  word-break: break-all;
 }
 
 .box .img {
@@ -48,4 +46,11 @@
 }
 .desc {
   margin: 10px 20px;
+  font-size: 20px;
+  line-height: 1.2em;
+  max-height: 155px;
+  overflow-y: hidden;
+  background: linear-gradient(#000, #fff);
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
 }

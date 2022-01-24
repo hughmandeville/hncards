@@ -12,23 +12,28 @@ function ItemBoxes(props) {
   }
 
   const boxes = props.items.map((item) => {
-    let title = item.og_title;
+    let title = item.title;
     if (title === "") {
-      title = item.title;
+      title = item.og_title;
     }
 
+    let desc = "";
     let img = "";
     let titleClass = "title";
     if (item.image !== "") {
       titleClass = "title-with-img";
       img = (
-        <div
-          className="img"
-          style={{
-            backgroundImage: `url(${item.image})`,
-          }}
-        ></div>
+        <div>
+          <div
+            className="img"
+            style={{
+              backgroundImage: `url(${item.image})`,
+            }}
+          ></div>
+        </div>
       );
+    } else if (item.og_description !== "") {
+      desc = <div className="desc">{item.og_description}</div>;
     }
 
     return (
@@ -37,7 +42,7 @@ function ItemBoxes(props) {
         <div className={titleClass}>
           <a href={item.url}>{title}</a>
         </div>
-        <div className="desc">{item.og_description}</div>
+        {desc}
       </div>
     );
   });
