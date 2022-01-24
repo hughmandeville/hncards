@@ -17,20 +17,39 @@ function ItemBoxes(props) {
       title = item.og_title;
     }
 
-    let desc = "";
+    let pub = "";
+    let pubIcon = "";
     let img = "";
+    let desc = "";
     let titleClass = "title";
+    if (item.icon) {
+      pubIcon = (
+        <img
+          className="icon"
+          src={item.icon}
+          alt={item.publisher}
+          onError={(event) => (event.target.style.display = "none")}
+        />
+      );
+    }
+    pub = (
+      <div className="publisher">
+        {pubIcon}
+        <div className="publisher-text">
+          {item.publisher} <div className="dot">&bull;</div> time
+        </div>
+      </div>
+    );
+
     if (item.image !== "") {
       titleClass = "title-with-img";
       img = (
-        <div>
-          <div
-            className="img"
-            style={{
-              backgroundImage: `url(${item.image})`,
-            }}
-          ></div>
-        </div>
+        <div
+          className="img"
+          style={{
+            backgroundImage: `url(${item.image})`,
+          }}
+        ></div>
       );
     } else if (item.og_description !== "") {
       desc = <div className="desc">{item.og_description}</div>;
@@ -39,6 +58,7 @@ function ItemBoxes(props) {
     return (
       <div className="box" key={"item-" + item.id}>
         {img}
+        {pub}
         <div className={titleClass}>
           <a href={item.url}>{title}</a>
         </div>
