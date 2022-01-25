@@ -43,7 +43,10 @@ type Item struct {
 // Uses a Go library to get additional Open Graph data for the article (image, icon, and publisher).
 //   https://github.com/otiai10/opengraph
 // To Do:
-//   - Support using the previous file as a cache.
+//   - Support using the previous file as a cache for the OG values.
+//   - Add missing icons for well known publishers.
+//   - Setup cron to update data every 10 minutes.
+//   - Set user agent when calling URLs.
 func main() {
 	// Parse command line flags.
 	flag.IntVar(&numStories, "num", 70, "number of top stories to get")
@@ -62,7 +65,7 @@ func main() {
 	}
 	var items []Item
 	for i, id := range ids {
-		time.Sleep(200 * time.Millisecond)
+		time.Sleep(300 * time.Millisecond)
 		if i >= numStories {
 			break
 		}
@@ -94,13 +97,17 @@ func main() {
 
 // Add Open Graph data to the item (image, icon, and publisher).
 func addOGData(item *Item) (err error) {
+
+	// Get URL's domain name and remove www.
+	domain := ""
+	pu, err := url.Parse(item.URL)
+	if err != nil {
+		domain = pu.Hostname()
+		domain = strings.TrimPrefix(domain, "www.")
+	}
 	// set publisher to the URL's domain name by default
 	if item.Publisher == "" {
-		pu, err := url.Parse(item.URL)
-		if err == nil {
-			item.Publisher = pu.Hostname()
-			item.Publisher = strings.TrimPrefix(item.Publisher, "www.")
-		}
+		item.Publisher = domain
 	}
 
 	ogp, err := opengraph.Fetch(item.URL)
@@ -108,6 +115,15 @@ func addOGData(item *Item) (err error) {
 		return
 	}
 	icon := sanitizeURL(item.URL, ogp.Favicon.URL)
+	// set icon if missing for well know publishers if missing
+	if icon == "" {
+		switch item.Publisher {
+		case "bloomberg.com":
+			icon = "https://assets.bwbx.io/s3/javelin/public/hub/images/favicon-black-63fe5249d3.png"
+		case "wpr.org":
+			icon = "https://www.wpr.org/sites/default/files/favicon_0_0.ico"
+		}
+	}
 	if icon != "" {
 		if icon == "https://news.ycombinator.com/item/favicon.ico" {
 			icon = "https://news.ycombinator.com/favicon.ico"
