@@ -77,6 +77,15 @@ run-client:
 run-server:
 	cd cmd/server; go run ./...
 
+
+## :
+## GITHUB_PAGES:
+
+.PHONY: gh-deploy
+## gh-deploy: Deploy React client to GitHub Pages.
+gh-deploy:
+	cd client; yarn deploy
+
 ## :
 ## TOP_STORIES:
 
