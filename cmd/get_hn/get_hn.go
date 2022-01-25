@@ -121,30 +121,34 @@ func addOGData(item *Item) (err error) {
 	if err != nil {
 		return
 	}
-	icon := sanitizeURL(item.URL, ogp.Favicon.URL)
+
+	// Set icon.
+	item.Icon = sanitizeURL(item.URL, ogp.Favicon.URL)
 	// set icon if missing for some well known publishers
-	if icon == "" {
+	if item.Icon == "" {
 		switch strings.ToLower(domain) {
 		case "npr.org":
-			icon = "https://www.npr.org/favicon.ico"
+			item.Icon = "https://www.npr.org/favicon.ico"
 		case "ourworldindata.org":
-			icon = "https://ourworldindata.org/favicon.ico"
+			item.Icon = "https://ourworldindata.org/favicon.ico"
 		case "wpr.org":
-			icon = "https://www.wpr.org/sites/default/files/favicon_0_0.ico"
+			item.Icon = "https://www.wpr.org/sites/default/files/favicon_0_0.ico"
 		}
 	}
-	if icon != "" {
-		// fix broken icons of some well known publishers
-		switch icon {
-		case "https://www.bloomberg.com/favicon.ico":
-			item.Icon = "https://assets.bwbx.io/s3/javelin/public/hub/images/favicon-black-63fe5249d3.png"
-		case "https://news.ycombinator.com/item/favicon.ico":
-			item.Icon = "https://news.ycombinator.com/favicon.ico"
-		}
+	// fix broken icons of some well known publishers
+	switch item.Icon {
+	case "https://www.bloomberg.com/favicon.ico":
+		item.Icon = "https://assets.bwbx.io/s3/javelin/public/hub/images/favicon-black-63fe5249d3.png"
+	case "https://news.ycombinator.com/item/favicon.ico":
+		item.Icon = "https://news.ycombinator.com/favicon.ico"
 	}
+
+	// Set image.
 	if len(ogp.Image) > 0 {
 		item.Image = sanitizeURL(item.URL, ogp.Image[0].URL)
 	}
+
+	// Set publisher.
 	publisher := strings.TrimSpace(ogp.SiteName)
 	if publisher != "" {
 		item.Publisher = publisher
