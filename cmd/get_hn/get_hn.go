@@ -161,7 +161,7 @@ func getItem(id int) (item Item, err error) {
 	if err != nil {
 		return
 	}
-	client := &http.Client{Timeout: 1 * time.Second}
+	client := &http.Client{Timeout: 4 * time.Second}
 	resp, err := client.Do(req)
 	if err != nil {
 		return
@@ -194,7 +194,7 @@ func getTopStories() (itemIDs []int, err error) {
 	if err != nil {
 		return
 	}
-	client := &http.Client{Timeout: 1 * time.Second}
+	client := &http.Client{Timeout: 4 * time.Second}
 	resp, err := client.Do(req)
 	if err != nil {
 		return
