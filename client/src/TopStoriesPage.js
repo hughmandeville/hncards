@@ -1,6 +1,6 @@
 import React from "react";
-import ItemBoxes from "./ItemBoxes";
-import NavBar from "./NavBar";
+//import ItemBoxes from "./ItemBoxes";
+//import NavBar from "./NavBar";
 import "./TopStoriesPage.css";
 
 // TopStoriesPage - Render Top Stories page.
@@ -13,6 +13,7 @@ class TopStoriesPage extends React.Component {
     };
   }
   componentDidMount() {
+    /*
     fetch("/hnui/hn_topstories.json")
       .then((response) => response.json())
       .then((items) => {
@@ -27,9 +28,12 @@ class TopStoriesPage extends React.Component {
           items: {},
         });
       });
+      */
   }
 
   render() {
+    return <div id="ts-page">TBD: top stories</div>;
+    /*
     let outputHTML = "";
     if (this.state.error && this.state.error !== "") {
       outputHTML = <div className="error">{this.state.error}</div>;
@@ -40,13 +44,14 @@ class TopStoriesPage extends React.Component {
         </div>
       );
     }
-
     return (
       <div id="ts-page">
         <NavBar />
         <div>{outputHTML}</div>
       </div>
     );
+
+    */
   }
 }
 
