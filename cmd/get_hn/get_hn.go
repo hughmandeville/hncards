@@ -101,10 +101,10 @@ func addOGData(item *Item) (err error) {
 	// Get URL's domain name and remove www.
 	domain := ""
 	pu, err := url.Parse(item.URL)
-	if err != nil {
-		domain = pu.Hostname()
-		domain = strings.TrimPrefix(domain, "www.")
+	if err == nil {
+		domain = strings.TrimPrefix(pu.Hostname(), "www.")
 	}
+
 	// set publisher to the URL's domain name by default
 	if item.Publisher == "" {
 		item.Publisher = domain
