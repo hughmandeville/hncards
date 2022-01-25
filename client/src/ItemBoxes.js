@@ -60,11 +60,12 @@ function ItemBoxes(props) {
 
     let comments = "";
     if (item.kids && item.kids.length > 0) {
+      // put comment count in a comments icon
       comments = (
         <span>
           <div className="dot">&bull;</div>{" "}
           <a href={"https://news.ycombinator.com/item?id=" + item.id}>
-            {item.kids.length} cmts
+            {item.kids.length} comments
           </a>
         </span>
       );
