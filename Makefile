@@ -78,3 +78,11 @@ run-server:
 	cd cmd/server; go run ./...
 
 ## :
+## TOP_STORIES:
+
+.PHONY: get-hn-ts
+## get-hn-ts: Get Hacker News Top Stories.
+get-hn-ts:
+	go run cmd/get_hn/get_hn.go -out client/public/hn_topstories.json
+
+## :
