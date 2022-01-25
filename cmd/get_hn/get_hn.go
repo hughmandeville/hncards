@@ -44,6 +44,7 @@ type Item struct {
 //   https://github.com/otiai10/opengraph
 // To Do:
 //   - Support using the previous file as a cache for the OG values.
+//   - Set timeout on Open Graph fetch.
 //   - Add missing icons for well known publishers.
 //   - Setup cron to update data every 10 minutes.
 //   - Set user agent when calling URLs.
@@ -110,6 +111,7 @@ func addOGData(item *Item) (err error) {
 		item.Publisher = domain
 	}
 
+	// TBD: set timeout.
 	ogp, err := opengraph.Fetch(item.URL)
 	if err != nil {
 		return
