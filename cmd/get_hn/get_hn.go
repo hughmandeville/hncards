@@ -127,6 +127,8 @@ func addOGData(item *Item) (err error) {
 		switch strings.ToLower(domain) {
 		case "npr.org":
 			icon = "https://www.npr.org/favicon.ico"
+		case "ourworldindata.org":
+			icon = "https://ourworldindata.org/favicon.ico"
 		case "wpr.org":
 			icon = "https://www.wpr.org/sites/default/files/favicon_0_0.ico"
 		}
