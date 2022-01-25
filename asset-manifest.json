@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/hnui/static/css/main.1e0dde02.css",
-    "main.js": "/hnui/static/js/main.e6ba3255.js",
+    "main.js": "/hnui/static/js/main.bfb4a7f9.js",
     "index.html": "/hnui/index.html",
     "main.1e0dde02.css.map": "/hnui/static/css/main.1e0dde02.css.map",
-    "main.e6ba3255.js.map": "/hnui/static/js/main.e6ba3255.js.map"
+    "main.bfb4a7f9.js.map": "/hnui/static/js/main.bfb4a7f9.js.map"
   },
   "entrypoints": [
     "static/css/main.1e0dde02.css",
-    "static/js/main.e6ba3255.js"
+    "static/js/main.bfb4a7f9.js"
   ]
 }
