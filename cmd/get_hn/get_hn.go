@@ -125,6 +125,8 @@ func addOGData(item *Item) (err error) {
 	// set icon if missing for some well known publishers
 	if icon == "" {
 		switch item.Publisher {
+		case "npr.org":
+			icon = "https://www.npr.org/favicon.ico"
 		case "wpr.org":
 			icon = "https://www.wpr.org/sites/default/files/favicon_0_0.ico"
 		}
