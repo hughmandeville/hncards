@@ -95,6 +95,7 @@ func main() {
 		return
 	}
 	fmt.Printf("\nWrote:       %s (%d items, %d bytes).\n", outFile, len(items), len(data))
+	// TBD: add run time
 }
 
 // Add Open Graph data to the item (image, icon, and publisher).
@@ -121,20 +122,21 @@ func addOGData(item *Item) (err error) {
 		return
 	}
 	icon := sanitizeURL(item.URL, ogp.Favicon.URL)
-	// set icon if missing for well know publishers if missing
+	// set icon if missing for some well known publishers
 	if icon == "" {
 		switch item.Publisher {
-		case "bloomberg.com":
-			icon = "https://assets.bwbx.io/s3/javelin/public/hub/images/favicon-black-63fe5249d3.png"
 		case "wpr.org":
 			icon = "https://www.wpr.org/sites/default/files/favicon_0_0.ico"
 		}
 	}
 	if icon != "" {
-		if icon == "https://news.ycombinator.com/item/favicon.ico" {
-			icon = "https://news.ycombinator.com/favicon.ico"
+		// fix broken icons of some well known publishers
+		switch icon {
+		case "https://www.bloomberg.com/favicon.ico":
+			item.Icon = "https://assets.bwbx.io/s3/javelin/public/hub/images/favicon-black-63fe5249d3.png"
+		case "https://news.ycombinator.com/item/favicon.ico":
+			item.Icon = "https://news.ycombinator.com/favicon.ico"
 		}
-		item.Icon = icon
 	}
 	if len(ogp.Image) > 0 {
 		item.Image = sanitizeURL(item.URL, ogp.Image[0].URL)
