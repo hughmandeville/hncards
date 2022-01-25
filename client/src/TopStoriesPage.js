@@ -13,7 +13,7 @@ class TopStoriesPage extends React.Component {
     };
   }
   componentDidMount() {
-    fetch("hnui/hn_topstories.json")
+    fetch("/hnui/hn_topstories.json")
       .then((response) => response.json())
       .then((items) => {
         this.setState({
