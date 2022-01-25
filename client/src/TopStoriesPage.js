@@ -13,7 +13,9 @@ class TopStoriesPage extends React.Component {
     };
   }
   componentDidMount() {
-    fetch("/hnui/hn_topstories.json")
+    fetch(
+      "https://raw.githubusercontent.com/hughmandeville/hnui/main/client/public/hn_topstories.json"
+    )
       .then((response) => response.json())
       .then((items) => {
         this.setState({
