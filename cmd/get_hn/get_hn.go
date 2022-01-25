@@ -94,9 +94,11 @@ func main() {
 		log.Fatalf("Problem saving to file: %s", err)
 		return
 	}
+	fmt.Printf("\nWrote:       %s (%d items, %d bytes).\n", outFile, len(items), len(data))
 }
 
 // Add Open Graph data to the item (image, icon, and publisher).
+// https://pkg.go.dev/github.com/otiai10/opengraph
 func addOGData(item *Item) (err error) {
 
 	// Get URL's domain name and remove www.
@@ -112,6 +114,8 @@ func addOGData(item *Item) (err error) {
 	}
 
 	// TBD: set timeout.
+	//ctx, cancel := context.WithTimeout(context.Background(), 10*time.Second)
+	//defer cancel()
 	ogp, err := opengraph.Fetch(item.URL)
 	if err != nil {
 		return
