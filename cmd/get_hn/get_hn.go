@@ -48,6 +48,7 @@ type Item struct {
 //   - Add missing icons for well known publishers.
 //   - Setup cron to update data every 10 minutes.
 //   - Set user agent when calling URLs.
+//   - Add sanitfy check of data.
 func main() {
 	// Parse command line flags.
 	flag.IntVar(&numStories, "num", 70, "number of top stories to get")
