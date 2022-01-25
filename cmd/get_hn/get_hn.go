@@ -124,7 +124,7 @@ func addOGData(item *Item) (err error) {
 	icon := sanitizeURL(item.URL, ogp.Favicon.URL)
 	// set icon if missing for some well known publishers
 	if icon == "" {
-		switch item.Publisher {
+		switch strings.ToLower(domain) {
 		case "npr.org":
 			icon = "https://www.npr.org/favicon.ico"
 		case "wpr.org":
