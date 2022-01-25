@@ -1,8 +1,8 @@
 {
-  "name": "client",
+  "name": "hnui",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://hughmandeville.github.io/hnui/",
+  "homepage": "https://hughmandeville.github.io/hnui",
   "license": "UNLICENSED",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
@@ -16,7 +16,7 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "predeploy": "yarn build",
+    "predeploy": "yarn run build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
