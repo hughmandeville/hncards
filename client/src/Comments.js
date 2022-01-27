@@ -4,7 +4,6 @@ import './Comments.css';
 // Comments component
 const Comments = ({ kids, id }) => (
   <span>
-    <div className="dot">&bull;</div>{' '}
     <a href={'https://news.ycombinator.com/item?id=' + id}>
       <button type="button" className="commentsButtonClass" aria-label={kids.length}>
         <i className="iconClass">

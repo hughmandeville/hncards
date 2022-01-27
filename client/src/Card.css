@@ -1,9 +1,14 @@
 .card {
   position: relative;
+  cursor: pointer;
   overflow-y: scroll;
   overflow-x: hidden;
-  background: #ffffff;
+  background: #fff;
   box-shadow: 5px 5px 5px #e0e0e0;
+}
+
+.card:hover {
+  background: #fafafa;
 }
 
 @media only screen and (max-width: 480px) {
@@ -34,11 +39,6 @@
   font-weight: 700;
   font-family: 'nyt-franklin', 'Roboto', 'Helvetica Neue', garamond, helvetica, sans serif;
   margin: 10px 20px;
-}
-
-.title:hover,
-.title-with-img:hover {
-  color: rgb(83, 83, 83);
 }
 
 .title {
@@ -91,12 +91,4 @@
 .card:hover .card-footer {
   display: block;
   color: #757575;
-}
-
-.dot {
-  display: inline-block;
-  margin: 0 6px;
-  font-size: 6px;
-  font-weight: 200;
-  vertical-align: middle;
 }

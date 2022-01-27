@@ -51,7 +51,6 @@ const Card = ({ item }) => {
       {og_description && <div className="desc">{og_description}</div>}
       <div className="card-footer">
         by <a href={'https://news.ycombinator.com/user?id=' + by}>{by}</a>{' '}
-        <div className="dot">&bull;</div> {score} pts{' '}
         {kids?.length > 0 && <Comments kids={kids} id={id} />}
       </div>
     </div>
