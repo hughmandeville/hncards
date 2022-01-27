@@ -66,7 +66,7 @@ func main() {
 		}
 		addOGData(&item)
 		if verbose {
-			fmt.Printf(" %9d  %s\n", item.ID, item.Title)
+			fmt.Printf(" %9d  %-20s  %s\n", item.ID, item.Publisher, item.Title)
 		}
 		items = append(items, item)
 	}
@@ -282,6 +282,8 @@ func correctData(item *Item, domain string) {
 		item.Publisher = "Bloomberg"
 	case "business-standard.com":
 		item.Publisher = "Business Standard"
+	case "hudsonreview.com":
+		item.Publisher = "The Hudson Review"
 	case "kaggle.com":
 		item.Publisher = "Kaggle"
 	case "nasdaq.com":
@@ -294,5 +296,11 @@ func correctData(item *Item, domain string) {
 		item.Publisher = "The Local"
 	case "vice.com":
 		item.Publisher = "Vice"
+	}
+
+	// Shorten long publisher names with pipe symbol (|) by removing text after pipe symbol.
+	i := strings.Index(item.Publisher, "|")
+	if len(item.Publisher) > 20 && i > 3 {
+		item.Publisher = strings.TrimSpace(item.Publisher[:i-1])
 	}
 }
