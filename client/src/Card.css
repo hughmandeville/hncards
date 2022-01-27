@@ -35,6 +35,12 @@
   font-family: 'nyt-franklin', 'Roboto', 'Helvetica Neue', garamond, helvetica, sans serif;
   margin: 10px 20px;
 }
+
+.title:hover,
+.title-with-img:hover {
+  color: rgb(83, 83, 83);
+}
+
 .title {
   font-size: 28px;
 }

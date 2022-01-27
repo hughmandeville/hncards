@@ -72,3 +72,7 @@
   font-weight: bold;
   font-family: 'nyt-franklin', 'Roboto', 'Helvetica Neue', garamond, helvetica, sans serif;
 }
+
+.iconClass:hover .textClass {
+  color: #aaa;
+}
