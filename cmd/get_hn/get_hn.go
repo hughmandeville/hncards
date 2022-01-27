@@ -50,6 +50,8 @@ type Item struct {
 //   - Set user agent when calling URLs.
 //   - Add sanitfy check of data.
 func main() {
+	start := time.Now()
+
 	// Parse command line flags.
 	flag.IntVar(&numStories, "num", 70, "number of top stories to get")
 	flag.StringVar(&outFile, "out", "hn_topstories.json", "output file JSON")
@@ -84,7 +86,8 @@ func main() {
 		fmt.Printf("Hacker News API returned less than 10 stories, so not writing to %s.\n", outFile)
 		return
 	}
-	data, err := json.Marshal(items)
+
+	data, err := json.MarshalIndent(items, "", "  ")
 	if err != nil {
 		log.Fatalf("Problem marshalling items: %s", err)
 		return
@@ -95,8 +98,10 @@ func main() {
 		log.Fatalf("Problem saving to file: %s", err)
 		return
 	}
-	fmt.Printf("\nWrote:       %s (%d items, %d bytes).\n", outFile, len(items), len(data))
-	// TBD: add run time
+	fmt.Println()
+	fmt.Printf("Wrote:       %s (%d items, %d bytes).\n", outFile, len(items), len(data))
+	fmt.Printf("Took:        %s\n", time.Since(start))
+	fmt.Println()
 }
 
 // Add Open Graph data to the item (image, icon, and publisher).
