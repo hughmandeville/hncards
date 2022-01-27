@@ -1,0 +1,74 @@
+.commentsButtonClass {
+  background-color: transparent;
+  border: none;
+  bottom: 0.05rem;
+  cursor: pointer;
+  line-height: 1rem;
+  min-width: 24px;
+  overflow: visible;
+  padding: 0 0 4px;
+  position: relative;
+}
+
+.iconClass {
+  font: inherit;
+  border: 2px solid #666;
+  border-radius: 4px;
+  display: flex;
+  justify-content: center;
+  min-width: 26px;
+  min-height: 14px;
+  padding: 4px;
+  position: relative;
+  width: auto;
+}
+
+.iconClass:hover {
+  border: 2px solid #aaa;
+}
+
+.iconClass::before {
+  border-color: #666 transparent;
+  border-style: solid;
+  bottom: -8px;
+  border-width: 7px 0 0 9px;
+  content: '';
+  display: block;
+  left: 14px;
+  position: absolute;
+  width: 0;
+}
+
+.iconClass:hover::before {
+  border-color: #aaa transparent;
+}
+
+.iconClass::after {
+  border-color: #fff transparent;
+  border-style: solid;
+  border-width: 7px 0 0 9px;
+  bottom: -5px;
+  content: '';
+  display: block;
+  left: 13px;
+  position: absolute;
+  width: 0;
+}
+
+.textClass {
+  list-style: none;
+  cursor: pointer;
+  text-transform: uppercase;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  text-size-adjust: 100%;
+  font: inherit;
+  vertical-align: baseline;
+  color: #000;
+  font-size: 0.75rem;
+  line-height: 1rem;
+  margin-top: auto;
+  font-weight: bold;
+  font-family: 'nyt-franklin', 'Roboto', 'Helvetica Neue', garamond, helvetica, sans serif;
+}
