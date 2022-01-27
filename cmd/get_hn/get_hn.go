@@ -284,6 +284,8 @@ func correctData(item *Item, domain string) {
 		item.Publisher = "Business Standard"
 	case "kaggle.com":
 		item.Publisher = "Kaggle"
+	case "nasdaq.com":
+		item.Publisher = "Nasdaq"
 	case "nature.com":
 		item.Publisher = "Nature"
 	case "nytimes.com":
