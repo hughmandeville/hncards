@@ -1,17 +1,13 @@
+import React from 'react';
 import "./ItemBoxes.css";
+import { timeSince } from './utils';
 
 // ItemBoxews - Render item boxes.
-function ItemBoxes(props) {
-  if (
-    (undefined === props.items ||
-      undefined === props.items.length ||
-      props.items.length < 1) &&
-    (undefined === props.error || props.error === "")
-  ) {
-    return null;
-  }
+const ItemBoxes = ({ items }) => {
 
-  const boxes = props.items.map((item) => {
+  if (!items?.length) return null;
+
+  const boxes = items.map((item) => {
     let title = item.title;
     if (title === "") {
       title = item.og_title;
@@ -94,48 +90,6 @@ function ItemBoxes(props) {
   });
 
   return <div className="boxes">{boxes}</div>;
-}
-
-// Return time since in human readable format (e.g. "2 hrs", "on Sat").
-function timeSince(ts) {
-  var seconds = Math.floor((new Date() - ts * 1000) / 1000);
-
-  var interval = seconds / 31536000;
-
-  if (interval > 1) {
-    if (Math.floor(interval) === 1) {
-      return Math.floor(interval) + " yr";
-    }
-    return Math.floor(interval) + " yrs";
-  }
-  interval = seconds / 2592000;
-  if (interval > 1) {
-    if (Math.floor(interval) === 1) {
-      return Math.floor(interval) + " mon";
-    }
-    return Math.floor(interval) + " mons";
-  }
-  interval = seconds / 86400;
-  if (interval > 1) {
-    // If 2 to 5 days ago, show day of week (e.g. "on Sat").
-    if (Math.floor(interval) >= 2 && Math.floor(interval) <= 5) {
-      const d = new Date(ts * 1000);
-      return "on " + d.toLocaleDateString("en-US", { weekday: "short" });
-    }
-    return Math.floor(interval) + " d";
-  }
-  interval = seconds / 3600;
-  if (interval > 1) {
-    if (Math.floor(interval) === 1) {
-      return "1 hr";
-    }
-    return Math.floor(interval) + " hrs";
-  }
-  interval = seconds / 60;
-  if (interval > 1) {
-    return Math.floor(interval) + " mins";
-  }
-  return Math.floor(seconds) + " secs";
 }
 
 export default ItemBoxes;

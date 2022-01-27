@@ -1,55 +1,33 @@
-import React from "react";
+import React, { useEffect, useState }  from "react";
 import ItemBoxes from "./ItemBoxes";
 import NavBar from "./NavBar";
 import "./TopStoriesPage.css";
 
 // TopStoriesPage - Render Top Stories page.
-class TopStoriesPage extends React.Component {
-  constructor(props) {
-    super(props);
-    this.state = {
-      error: "",
-      items: {},
-    };
-  }
-  componentDidMount() {
+const TopStoriesPage = () => {
+  const [error, setError] = useState();
+  const [items, setItems] = useState();
+
+  useEffect(() => {
     fetch(
       "https://raw.githubusercontent.com/hughmandeville/hnui/main/client/public/hn_topstories.json"
     )
       .then((response) => response.json())
       .then((items) => {
-        this.setState({
-          error: "",
-          items,
-        });
+        setItems(items);
       })
       .catch((error) => {
-        this.setState({
-          error: error.message,
-          items: {},
-        });
+        setError(error);
       });
-  }
+  });
 
-  render() {
-    let outputHTML = "";
-    if (this.state.error && this.state.error !== "") {
-      outputHTML = <div className="error">{this.state.error}</div>;
-    } else {
-      outputHTML = (
-        <div className="boxes">
-          <ItemBoxes items={this.state.items} />
-        </div>
-      );
-    }
-
-    return (
-      <div id="ts-page">
-        <NavBar />
-        <div>{outputHTML}</div>
-      </div>
-    );
-  }
+  return (
+    <div id="ts-page">
+      <NavBar />
+      <div>{error ? <div className="error">{error}</div> : <div className="boxes">
+        <ItemBoxes items={items} />
+      </div>}</div>
+    </div>)
 }
 
-export { TopStoriesPage };
+export default TopStoriesPage;
