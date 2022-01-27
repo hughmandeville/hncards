@@ -275,8 +275,22 @@ func correctData(item *Item, domain string) {
 	}
 
 	// fix proublisher name for some well known publishers
-	switch item.Publisher {
+	switch strings.ToLower(item.Publisher) {
+	case "bbc.com":
+		item.Publisher = "BBC"
+	case "bloomberg.com":
+		item.Publisher = "Bloomberg"
+	case "business-standard.com":
+		item.Publisher = "Business Standard"
+	case "kaggle.com":
+		item.Publisher = "Kaggle"
+	case "nature.com":
+		item.Publisher = "Nature"
 	case "nytimes.com":
 		item.Publisher = "The New York Times"
+	case "thelocal.com":
+		item.Publisher = "The Local"
+	case "vice.com":
+		item.Publisher = "Vice"
 	}
 }
