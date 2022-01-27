@@ -45,10 +45,10 @@ type Item struct {
 // To Do:
 //   - Support using the previous file as a cache for the OG values.
 //   - Set timeout on Open Graph fetch.
-//   - Add missing icons for well known publishers.
 //   - Setup cron to update data every 10 minutes.
 //   - Set user agent when calling URLs.
 //   - Add sanitfy check of data.
+//   - Add verbose flag.
 func main() {
 	start := time.Now()
 
@@ -102,94 +102,6 @@ func main() {
 	fmt.Printf("Wrote:       %s (%d items, %d bytes).\n", outFile, len(items), len(data))
 	fmt.Printf("Took:        %s\n", time.Since(start))
 	fmt.Println()
-}
-
-// Add Open Graph data to the item (image, icon, and publisher).
-// https://pkg.go.dev/github.com/otiai10/opengraph
-func addOGData(item *Item) (err error) {
-
-	// Get URL's domain name and remove www.
-	domain := ""
-	pu, err := url.Parse(item.URL)
-	if err == nil {
-		domain = strings.TrimPrefix(pu.Hostname(), "www.")
-	}
-
-	// set publisher to the URL's domain name by default
-	if item.Publisher == "" {
-		item.Publisher = domain
-	}
-
-	// TBD: set timeout.
-	//ctx, cancel := context.WithTimeout(context.Background(), 10*time.Second)
-	//defer cancel()
-	ogp, err := opengraph.Fetch(item.URL)
-	if err != nil {
-		return
-	}
-
-	// Set icon.
-	item.Icon = sanitizeURL(item.URL, ogp.Favicon.URL)
-	// set icon if missing for some well known publishers
-	if item.Icon == "" {
-		switch strings.ToLower(domain) {
-		case "npr.org":
-			item.Icon = "https://www.npr.org/favicon.ico"
-		case "ourworldindata.org":
-			item.Icon = "https://ourworldindata.org/favicon.ico"
-		case "wpr.org":
-			item.Icon = "https://www.wpr.org/sites/default/files/favicon_0_0.ico"
-		}
-	}
-	// fix broken icons of some well known publishers
-	switch item.Icon {
-	case "https://www.bloomberg.com/favicon.ico":
-		item.Icon = "https://assets.bwbx.io/s3/javelin/public/hub/images/favicon-black-63fe5249d3.png"
-	case "https://news.ycombinator.com/item/favicon.ico":
-		item.Icon = "https://news.ycombinator.com/favicon.ico"
-	}
-
-	// Set image.
-	if len(ogp.Image) > 0 {
-		item.Image = sanitizeURL(item.URL, ogp.Image[0].URL)
-	}
-
-	// Set publisher.
-	publisher := strings.TrimSpace(ogp.SiteName)
-	if publisher != "" {
-		item.Publisher = publisher
-	}
-
-	item.OGDescription = ogp.Description
-	item.OGTitle = ogp.Title
-	return
-}
-
-// Turn relative URLs into absolute URLs (/foo/bar.jpg -> https://example.com/foo/bar.jpg).
-func sanitizeURL(parentURL string, childURL string) (sanitizedURL string) {
-	sanitizedURL = strings.TrimSpace(childURL)
-	if sanitizedURL == "" || strings.HasPrefix(sanitizedURL, "http:") || strings.HasPrefix(sanitizedURL, "https:") {
-		return
-	}
-	if strings.HasPrefix(childURL, "//") {
-		sanitizedURL = fmt.Sprintf("https:%s", childURL)
-		return
-	}
-	pu, err := url.Parse(parentURL)
-	if err != nil {
-		return
-	}
-	if strings.HasPrefix(childURL, "/") {
-		sanitizedURL = fmt.Sprintf("%s://%s%s", pu.Scheme, pu.Hostname(), childURL)
-		return
-	}
-	path := pu.Path
-	pi := strings.LastIndex(path, "/")
-	if pi > 0 {
-		path = path[:pi]
-	}
-	sanitizedURL = fmt.Sprintf("%s://%s%s/%s", pu.Scheme, pu.Hostname(), path, childURL)
-	return
 }
 
 // Get item info from the Hacker News API.
@@ -255,4 +167,106 @@ func getTopStories() (itemIDs []int, err error) {
 	}
 	err = json.Unmarshal(b, &itemIDs)
 	return
+}
+
+// Add Open Graph data to the item (image, icon, and publisher).
+// https://pkg.go.dev/github.com/otiai10/opengraph
+func addOGData(item *Item) (err error) {
+
+	// Get URL's domain name and remove www.
+	domain := ""
+	pu, err := url.Parse(item.URL)
+	if err == nil {
+		domain = strings.TrimPrefix(pu.Hostname(), "www.")
+	}
+
+	// set publisher to the URL's domain name by default
+	if item.Publisher == "" {
+		item.Publisher = domain
+	}
+
+	// TBD: set timeout.
+	//ctx, cancel := context.WithTimeout(context.Background(), 10*time.Second)
+	//defer cancel()
+	ogp, err := opengraph.Fetch(item.URL)
+	if err != nil {
+		return
+	}
+
+	// Set icon.
+	item.Icon = sanitizeURL(item.URL, ogp.Favicon.URL)
+
+	// Set image.
+	if len(ogp.Image) > 0 {
+		item.Image = sanitizeURL(item.URL, ogp.Image[0].URL)
+	}
+
+	// Set publisher.
+	publisher := strings.TrimSpace(ogp.SiteName)
+	if publisher != "" {
+		item.Publisher = publisher
+	}
+
+	// Fix bad data.
+	correctData(item, domain)
+
+	item.OGDescription = ogp.Description
+	item.OGTitle = ogp.Title
+	return
+}
+
+// Turn relative URLs into absolute URLs (/foo/bar.jpg -> https://example.com/foo/bar.jpg).
+func sanitizeURL(parentURL string, childURL string) (sanitizedURL string) {
+	sanitizedURL = strings.TrimSpace(childURL)
+	if sanitizedURL == "" || strings.HasPrefix(sanitizedURL, "http:") || strings.HasPrefix(sanitizedURL, "https:") {
+		return
+	}
+	if strings.HasPrefix(childURL, "//") {
+		sanitizedURL = fmt.Sprintf("https:%s", childURL)
+		return
+	}
+	pu, err := url.Parse(parentURL)
+	if err != nil {
+		return
+	}
+	if strings.HasPrefix(childURL, "/") {
+		sanitizedURL = fmt.Sprintf("%s://%s%s", pu.Scheme, pu.Hostname(), childURL)
+		return
+	}
+	path := pu.Path
+	pi := strings.LastIndex(path, "/")
+	if pi > 0 {
+		path = path[:pi]
+	}
+	sanitizedURL = fmt.Sprintf("%s://%s%s/%s", pu.Scheme, pu.Hostname(), path, childURL)
+	return
+}
+
+// Fix known images with icon, image, and publisher data.
+func correctData(item *Item, domain string) {
+	// set icon if missing for some well known publishers
+	if item.Icon == "" {
+		switch strings.ToLower(domain) {
+		case "npr.org":
+			item.Icon = "https://www.npr.org/favicon.ico"
+		case "ourworldindata.org":
+			item.Icon = "https://ourworldindata.org/favicon.ico"
+		case "wpr.org":
+			item.Icon = "https://www.wpr.org/sites/default/files/favicon_0_0.ico"
+		}
+	}
+
+	// fix broken icons of some well known publishers
+	switch item.Icon {
+	case "https://www.bloomberg.com/favicon.ico":
+		item.Icon = "https://assets.bwbx.io/s3/javelin/public/hub/images/favicon-black-63fe5249d3.png"
+	case "https://news.ycombinator.com/item/favicon.ico":
+		item.Icon = "https://news.ycombinator.com/favicon.ico"
+	}
+
+	// fix proublisher name for some well known publishers
+	switch item.Publisher {
+	case "nytimes.com":
+		item.Publisher = "The New York Times"
+	}
 }
