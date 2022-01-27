@@ -4,7 +4,7 @@ This project contains an [alternative web UI](https://hughmandeville.github.io/h
 
 <https://hughmandeville.github.io/hnui/>
 
-It consists of a React App and a Go script that gets the top stories from the [Hacker News API](https://github.com/HackerNews/API) and adds some Open Graph fields (image, icon, title, and description).
+It consists of a React App and a Go script that gets the top stories from the [Hacker News API](https://github.com/HackerNews/API) and adds some Open Graph fields (image, icon, title, and description). It calls the [GitHub API](https://docs.github.com/en/rest) to upload the data file ([hn_topstories.json](client/public/hn_topstories.json)) to GitHub.
 
 ## GitHub Pages
 
