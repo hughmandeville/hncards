@@ -50,7 +50,7 @@ function ItemBoxes(props) {
         <div
           className="img"
           style={{
-            backgroundImage: `url("${encodeURI(item.image)}")`,
+            backgroundImage: `url("${item.image}")`,
           }}
         ></div>
       );
