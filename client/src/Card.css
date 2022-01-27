@@ -5,6 +5,7 @@
   overflow-x: hidden;
   background: #fff;
   box-shadow: 5px 5px 5px #e0e0e0;
+  border-radius: 8px;
 }
 
 .card:hover {
@@ -42,11 +43,13 @@
 }
 
 .title {
-  font-size: 28px;
+  font-size: 32px;
+  margin-bottom: 20px;
 }
 .title-with-img {
   font-size: 24px;
 }
+
 .desc {
   margin: 10px 20px;
   font-size: 20px;
@@ -91,4 +94,12 @@
 .card:hover .card-footer {
   display: block;
   color: #757575;
+}
+
+.dot {
+  display: inline-block;
+  margin: 0 6px;
+  font-size: 6px;
+  font-weight: 200;
+  vertical-align: middle;
 }
