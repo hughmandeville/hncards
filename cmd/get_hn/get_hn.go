@@ -18,24 +18,8 @@ import (
 var (
 	numStories int
 	outFile    string
+	verbose    bool
 )
-
-type Item struct {
-	By            string `json:"by"`
-	Descendants   int    `json:"descendants"`
-	Icon          string `json:"icon"`
-	ID            int    `json:"id"`
-	Image         string `json:"image"`
-	Kids          []int  `json:"kids"`
-	OGDescription string `json:"og_description"`
-	OGTitle       string `json:"og_title"`
-	Publisher     string `json:"publisher"`
-	Score         int    `json:"score"`
-	Time          int    `json:"time"`
-	Title         string `json:"title"`
-	Type          string `json:"type"`
-	URL           string `json:"url"`
-}
 
 // Get top 70 Hacker News stories. If there are no errors, writes to tn_topstories.json.
 // Calls the Hacker News API.
@@ -48,19 +32,21 @@ type Item struct {
 //   - Setup cron to update data every 10 minutes.
 //   - Set user agent when calling URLs.
 //   - Add sanitfy check of data.
-//   - Add verbose flag.
 func main() {
 	start := time.Now()
 
 	// Parse command line flags.
 	flag.IntVar(&numStories, "num", 70, "number of top stories to get")
 	flag.StringVar(&outFile, "out", "hn_topstories.json", "output file JSON")
+	flag.BoolVar(&verbose, "verbose", false, "verbose output")
 	flag.Parse()
 
-	fmt.Printf("Get Hacker News Top Stories\n")
-	fmt.Printf("---------------------------\n")
-	fmt.Printf("Out File:    %s\n", outFile)
-	fmt.Printf("Num Stories: %d\n\n", numStories)
+	if verbose {
+		fmt.Printf("Get Hacker News Top Stories\n")
+		fmt.Printf("---------------------------\n")
+		fmt.Printf("Out File:    %s\n", outFile)
+		fmt.Printf("Num Stories: %d\n\n", numStories)
+	}
 
 	ids, err := getTopStories()
 	if err != nil {
@@ -79,7 +65,9 @@ func main() {
 			return
 		}
 		addOGData(&item)
-		fmt.Printf(" %9d  %s\n", item.ID, item.Title)
+		if verbose {
+			fmt.Printf(" %9d  %s\n", item.ID, item.Title)
+		}
 		items = append(items, item)
 	}
 	if len(items) < 10 {
@@ -98,13 +86,34 @@ func main() {
 		log.Fatalf("Problem saving to file: %s", err)
 		return
 	}
-	fmt.Println()
-	fmt.Printf("Wrote:       %s (%d items, %d bytes).\n", outFile, len(items), len(data))
-	fmt.Printf("Took:        %s\n", time.Since(start))
-	fmt.Println()
+	if verbose {
+		fmt.Println()
+		fmt.Printf("Wrote:       %s (%d items, %d bytes).\n", outFile, len(items), len(data))
+		fmt.Printf("Took:        %s\n", time.Since(start))
+		fmt.Println()
+	}
+}
+
+// Item data. Has fields from Hacker News top stories API and additional fields from Open Graph.
+type Item struct {
+	By            string `json:"by"`
+	Descendants   int    `json:"descendants"`
+	Icon          string `json:"icon"`
+	ID            int    `json:"id"`
+	Image         string `json:"image"`
+	Kids          []int  `json:"kids"`
+	OGDescription string `json:"og_description"`
+	OGTitle       string `json:"og_title"`
+	Publisher     string `json:"publisher"`
+	Score         int    `json:"score"`
+	Time          int    `json:"time"`
+	Title         string `json:"title"`
+	Type          string `json:"type"`
+	URL           string `json:"url"`
 }
 
 // Get item info from the Hacker News API.
+// https://github.com/HackerNews/API
 func getItem(id int) (item Item, err error) {
 	itemAPI := fmt.Sprintf("https://hacker-news.firebaseio.com/v0/item/%d.json", id)
 	req, err := http.NewRequest("GET", itemAPI, nil)
@@ -145,6 +154,7 @@ func getItem(id int) (item Item, err error) {
 }
 
 // Get top stories from the Hacker News API.
+// https://github.com/HackerNews/API
 func getTopStories() (itemIDs []int, err error) {
 	tsAPI := "https://hacker-news.firebaseio.com/v0/topstories.json"
 	req, err := http.NewRequest("GET", tsAPI, nil)

@@ -48,7 +48,7 @@ gh-deploy:
 .PHONY: get-hn-ts
 ## get-hn-ts: Get Hacker News Top Stories.
 get-hn-ts:
-	go run cmd/get_hn/get_hn.go -out client/public/hn_topstories.json
+	go run cmd/get_hn/get_hn.go -out client/public/hn_topstories.json -verbose
 
 ## :
 ## RUN:
