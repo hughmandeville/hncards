@@ -196,9 +196,16 @@ func getItem(id int) (item Item, err error) {
 	}
 	client := &http.Client{Timeout: 4 * time.Second}
 	resp, err := client.Do(req)
+
+	// if error sleep and try again
 	if err != nil {
-		return
+		time.Sleep(1 * time.Second)
+		resp, err = client.Do(req)
+		if err != nil {
+			return
+		}
 	}
+
 	defer resp.Body.Close()
 	if resp.StatusCode != http.StatusOK {
 		err = fmt.Errorf("HTTP error %s", resp.Status)
