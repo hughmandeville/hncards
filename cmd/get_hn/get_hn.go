@@ -26,6 +26,7 @@ var (
 // Uses a Go library to get additional Open Graph data for the article (image, icon, and publisher).
 //   https://github.com/otiai10/opengraph
 // To Do:
+//   - Remove or change HTTP icon and image URLs to HTTPS.
 //   - Support using the previous file as a cache for the OG values.
 //   - Set timeout on Open Graph fetch.
 //   - Setup cron to update data every 10 minutes.
