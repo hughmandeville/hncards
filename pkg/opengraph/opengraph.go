@@ -1,4 +1,4 @@
-// This package contains functions for getting OpenGraph data for an URL.
+// This package contains functions for getting Open Graph data for an URL.
 //   https://ogp.me/
 
 package opengraph
