@@ -14,7 +14,7 @@ The Go script gets the top stories from the [Hacker News API](https://github.com
 
 ## GitHub Pages
 
-Run `make gh-deploy` to devploy the React app to [GitHub Pages](https://hughmandeville.github.io/hnui/).
+Run `make gh-deploy` to deploy the React app to [GitHub Pages](https://hughmandeville.github.io/hnui/).
 
 ```sh
 make gh-deploy
@@ -28,7 +28,7 @@ Use `make run-node` to start up the React app on [port 3000](http://localhost:30
 make run-node
 ```
 
-Use `make get-hn-ts` to run the Go program that gets the top stories data.
+Use `make get-hn-ts` to run the Go program that gets the Hacker News top stories and Open Graph data.
 
 ```sh
 make get-hn-ts
