@@ -22,10 +22,10 @@ make get-hn-ts
 
 ## Running Locally
 
-Use `make run-client` to start up the React app.
+Use `make run-node` to start up the React app on [port 3000](http://localhost:3000/hnui).
 
 ```sh
-make run-client
+make run-node
 ```
 
 Use `make get-hn-ts` to run the Go program that gets the top stories data.
