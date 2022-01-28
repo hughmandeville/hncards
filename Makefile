@@ -45,6 +45,10 @@ dep-init-go:
 	go mod init
 	go mod tidy
 
+.PHONY: dep-update-all
+## dep-update-all: Update Go modules and Node modules.
+dep-update-all: dep-update-go dep-update-node
+
 .PHONY: dep-update-go
 ## dep-update-go: Update Go modules.
 dep-update-go:
