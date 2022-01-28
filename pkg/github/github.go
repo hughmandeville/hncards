@@ -140,7 +140,7 @@ func (gh *GitHubController) PutFile(path string, data []byte, sha string) (err e
 		return
 	}
 	req.Header.Set("Accept", "application/vnd.github.v3+json")
-	req.Header.Set("Authorization", "Token "+apiToken)
+	req.Header.Set("Authorization", "Token "+gh.AccessToken)
 	req.Header.Set("Content-Type", "application/json")
 
 	// Make request.
