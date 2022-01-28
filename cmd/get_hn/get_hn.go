@@ -4,14 +4,13 @@ import (
 	"encoding/json"
 	"flag"
 	"fmt"
-	"io"
 	"log"
-	"net/http"
 	"net/url"
 	"os"
 	"strings"
 	"time"
 
+	hn "github.com/hughmandeville/hnui/pkg/hackernews"
 	"github.com/otiai10/opengraph/v2"
 )
 
@@ -48,28 +47,22 @@ func main() {
 		fmt.Printf("Num Stories: %d\n\n", numStories)
 	}
 
-	ids, err := getTopStories()
+	// Get top stories from Hacker News.
+	items, err := hn.GetTopStories(numStories)
 	if err != nil {
 		log.Fatalf("Problem getting top stories: %s", err)
 		return
 	}
-	var items []Item
-	for i, id := range ids {
-		time.Sleep(300 * time.Millisecond)
-		if i >= numStories {
-			break
-		}
-		item, err := getItem(id)
-		if err != nil {
-			log.Fatalf("Problem getting item: %s", err)
-			return
-		}
+
+	// Add Open Graph data.
+	for _, item := range items {
+		time.Sleep(100 * time.Millisecond)
 		addOGData(&item)
 		if verbose {
 			fmt.Printf(" %9d  %-20s  %s\n", item.ID, item.Publisher, item.Title)
 		}
-		items = append(items, item)
 	}
+
 	if len(items) < 10 {
 		fmt.Printf("Hacker News API returned less than 10 stories, so not writing to %s.\n", outFile)
 		return
@@ -94,94 +87,9 @@ func main() {
 	}
 }
 
-// Item data. Has fields from Hacker News top stories API and additional fields from Open Graph.
-type Item struct {
-	By            string `json:"by"`
-	Descendants   int    `json:"descendants"`
-	Icon          string `json:"icon"`
-	ID            int    `json:"id"`
-	Image         string `json:"image"`
-	Kids          []int  `json:"kids"`
-	OGDescription string `json:"og_description"`
-	OGTitle       string `json:"og_title"`
-	Publisher     string `json:"publisher"`
-	Score         int    `json:"score"`
-	Time          int    `json:"time"`
-	Title         string `json:"title"`
-	Type          string `json:"type"`
-	URL           string `json:"url"`
-}
-
-// Get item info from the Hacker News API.
-// https://github.com/HackerNews/API
-func getItem(id int) (item Item, err error) {
-	itemAPI := fmt.Sprintf("https://hacker-news.firebaseio.com/v0/item/%d.json", id)
-	req, err := http.NewRequest("GET", itemAPI, nil)
-	if err != nil {
-		return
-	}
-	client := &http.Client{Timeout: 4 * time.Second}
-	resp, err := client.Do(req)
-
-	// if error sleep and try again
-	if err != nil {
-		time.Sleep(1 * time.Second)
-		resp, err = client.Do(req)
-		if err != nil {
-			return
-		}
-	}
-
-	defer resp.Body.Close()
-	if resp.StatusCode != http.StatusOK {
-		err = fmt.Errorf("HTTP error %s", resp.Status)
-		return
-	}
-	b, err := io.ReadAll(resp.Body)
-	if err != nil {
-		log.Fatalln(err)
-	}
-	err = json.Unmarshal(b, &item)
-	if err != nil {
-		return
-	}
-	if item.URL == "" {
-		item.Publisher = "Hacker News"
-		item.Icon = "https://news.ycombinator.com/favicon.ico"
-		item.URL = fmt.Sprintf("https://news.ycombinator.com/item?id=%d", item.ID)
-	}
-	return
-}
-
-// Get top stories from the Hacker News API.
-// https://github.com/HackerNews/API
-func getTopStories() (itemIDs []int, err error) {
-	tsAPI := "https://hacker-news.firebaseio.com/v0/topstories.json"
-	req, err := http.NewRequest("GET", tsAPI, nil)
-	if err != nil {
-		return
-	}
-	client := &http.Client{Timeout: 4 * time.Second}
-	resp, err := client.Do(req)
-	if err != nil {
-		return
-	}
-	defer resp.Body.Close()
-	if resp.StatusCode != http.StatusOK {
-		err = fmt.Errorf("HTTP error %s", resp.Status)
-		return
-	}
-	b, err := io.ReadAll(resp.Body)
-	if err != nil {
-		log.Fatalln(err)
-	}
-	err = json.Unmarshal(b, &itemIDs)
-	return
-}
-
 // Add Open Graph data to the item (image, icon, and publisher).
 // https://pkg.go.dev/github.com/otiai10/opengraph
-func addOGData(item *Item) (err error) {
+func addOGData(item *hn.Item) (err error) {
 
 	// Get URL's domain name and remove www.
 	domain := ""
@@ -253,7 +161,7 @@ func sanitizeURL(parentURL string, childURL string) (sanitizedURL string) {
 }
 
 // Fix known images with icon, image, and publisher data.
-func correctData(item *Item, domain string) {
+func correctData(item *hn.Item, domain string) {
 	// set icon if missing for some well known publishers
 	if item.Icon == "" {
 		switch strings.ToLower(domain) {
