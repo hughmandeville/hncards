@@ -190,6 +190,8 @@ func correctData(item *hn.Item, domain string) {
 		item.Publisher = "Bloomberg"
 	case "business-standard.com":
 		item.Publisher = "Business Standard"
+	case "ge.com":
+		item.Publisher = "GE"
 	case "hudsonreview.com":
 		item.Publisher = "The Hudson Review"
 	case "kaggle.com":
