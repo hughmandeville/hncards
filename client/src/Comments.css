@@ -7,8 +7,10 @@
   min-width: 24px;
   overflow: visible;
   padding: 0 0 4px;
-  position: relative;
-  margin-left: 10px;
+  position: absolute;
+  right: 20px;
+  bottom: 6px;
+  z-index: 10;
 }
 
 .iconClass {
@@ -25,7 +27,7 @@
 }
 
 .iconClass:hover {
-  border: 2px solid #666;
+  border: 2px solid #ff6600;
 }
 
 .iconClass::before {
@@ -41,7 +43,7 @@
 }
 
 .iconClass:hover::before {
-  border-color: #666 transparent;
+  border-color: #ff6600 transparent;
 }
 
 .iconClass::after {
@@ -66,7 +68,7 @@
   text-size-adjust: 100%;
   font: inherit;
   vertical-align: baseline;
-  color: #666;
+  color: #9e9e9e;
   font-size: 0.75rem;
   line-height: 1rem;
   margin-top: auto;
@@ -75,5 +77,5 @@
 }
 
 .iconClass:hover .textClass {
-  color: #000;
+  color: #ff6600;
 }
