@@ -8,16 +8,16 @@ This project contains an [alternative web UI](https://hughmandeville.github.io/h
 
 ## Overview
 
-The project consists of a React App to show the data and a Go script to get the data.
+This project consists of a Go script to get the HackerNews and OpenGraph data and a React App hosted in GitHub Pages to display it.
 
 The Go script gets the top stories from the [Hacker News API](https://github.com/HackerNews/API) and adds some Open Graph fields (image, icon, title, and description). It calls the [GitHub API](https://docs.github.com/en/rest) to upload the data file ([hn_topstories.json](client/public/hn_topstories.json)) to GitHub.
 
 ## GitHub Pages
 
-The React app is deployed to [GitHub Pages](https://hughmandeville.github.io/hnui/).
+Run `make gh-deploy` to devploy the React app to [GitHub Pages](https://hughmandeville.github.io/hnui/).
 
 ```sh
-make get-hn-ts
+make gh-deploy
 ```
 
 ## Running Locally
@@ -33,3 +33,10 @@ Use `make get-hn-ts` to run the Go program that gets the top stories data.
 ```sh
 make get-hn-ts
 ```
+
+## Misc. Links
+
+- [Facebook Sharing Debugger](https://developers.facebook.com/tools/debug/)
+- [Hacker News API](https://github.com/HackerNews/API)
+- [Material Design Colors](https://material.io/design/color/the-color-system.html)
+- [Twitter Card Validator](https://cards-dev.twitter.com/validator)
