@@ -55,11 +55,11 @@ func main() {
 	}
 
 	// Add Open Graph data.
-	for _, item := range items {
+	for i := 0; i < len(items); i++ {
 		time.Sleep(100 * time.Millisecond)
-		addOGData(&item)
+		addOGData(&items[i])
 		if verbose {
-			fmt.Printf(" %9d  %-20s  %s\n", item.ID, item.Publisher, item.Title)
+			fmt.Printf(" %9d  %-20s  %s\n", items[i].ID, items[i].Publisher, items[i].Title)
 		}
 	}
 
