@@ -1,0 +1,9 @@
+.error {
+  margin: 20px;
+  text-align: center;
+  font-family: Roboto, 'Helvetica Neue', sans-serif;
+  color: #616161;
+}
+.error img {
+  max-width: 80%;
+}
