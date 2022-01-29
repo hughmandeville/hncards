@@ -27,7 +27,8 @@ var (
 //   https://github.com/otiai10/opengraph
 // To Do:
 //   - Remove or change HTTP icon and image URLs to HTTPS.
-//  - Crop description at 400 characters.
+//   - Crop description at 400 characters.
+//   - Hide description if set to "We can’t find the page you are looking for.".
 //   - Support using the previous file as a cache for the OG values.
 //   - Set timeout on Open Graph fetch.
 //   - Setup cron to update data every 10 minutes.
