@@ -32,7 +32,7 @@ const TopStoriesPage = () => {
       <div>
         {error ? (
           <div className="error">
-            <img src="/hnui/meh.png" />
+            <img src="/hnui/meh.png" alt="meh" />
             <p>
               There was a problem getting the <a href={hnURL}>top stories data</a>.
             </p>
