@@ -26,9 +26,7 @@ var (
 // Uses a Go library to get additional Open Graph data for the article (image, icon, and publisher).
 //   https://github.com/otiai10/opengraph
 // To Do:
-//   - Remove or change HTTP icon and image URLs to HTTPS.
-//   - Crop description at 400 characters.
-//   - Hide description if set to "We can’t find the page you are looking for.".
+
 //   - Support using the previous file as a cache for the OG values.
 //   - Set timeout on Open Graph fetch.
 //   - Setup cron to update data every 10 minutes.
@@ -165,6 +163,16 @@ func sanitizeURL(parentURL string, childURL string) (sanitizedURL string) {
 
 // Fix known images with icon, image, and publisher data.
 func correctData(item *hn.Item, domain string) {
+	// if image http remove
+	if strings.HasPrefix(item.Image, "http:") {
+		item.Image = ""
+	}
+
+	// if icon http remove
+	if strings.HasPrefix(item.Icon, "http:") {
+		item.Icon = ""
+	}
+
 	// set icon if missing for some well known publishers
 	if item.Icon == "" {
 		switch strings.ToLower(domain) {
@@ -217,5 +225,15 @@ func correctData(item *hn.Item, domain string) {
 	i := strings.Index(item.Publisher, "|")
 	if len(item.Publisher) > 20 && i > 3 {
 		item.Publisher = strings.TrimSpace(item.Publisher[:i-1])
+	}
+
+	// crop description at 300 characters
+	if len(item.OGDescription) > 300 {
+		item.OGDescription = item.OGDescription[:297] + "..."
+	}
+
+	// unset bad descriptions
+	if item.OGDescription == "We can’t find the page you are looking for." {
+		item.OGDescription = ""
 	}
 }
