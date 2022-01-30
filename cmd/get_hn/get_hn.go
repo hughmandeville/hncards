@@ -8,12 +8,17 @@ import (
 	"os"
 	"time"
 
+	"github.com/hughmandeville/hnui/pkg/github"
 	"github.com/hughmandeville/hnui/pkg/hn_og_combo"
+)
+
+const (
+	filePath = "client/public/hn_topstories.json"
 )
 
 var (
 	numStories int
-	outFile    string
+	out        string
 	verbose    bool
 )
 
@@ -34,14 +39,18 @@ func main() {
 
 	// Parse command line flags.
 	flag.IntVar(&numStories, "num", 70, "number of top stories to get")
-	flag.StringVar(&outFile, "out", "hn_topstories.json", "output file JSON")
+	flag.StringVar(&out, "out", "github", "output location (file or github)")
 	flag.BoolVar(&verbose, "verbose", false, "verbose output")
 	flag.Parse()
+
+	if out == "github" && os.Getenv("GITHUB_TOKEN") == "" {
+		fmt.Printf("GITHUB_TOKEN environment variable must when outputing to GitHub.\n")
+	}
 
 	if verbose {
 		fmt.Printf("Get Hacker News Top Stories\n")
 		fmt.Printf("---------------------------\n")
-		fmt.Printf("Out File:    %s\n", outFile)
+		fmt.Printf("Output To:   %s\n", out)
 		fmt.Printf("Num Stories: %d\n\n", numStories)
 	}
 
@@ -52,7 +61,7 @@ func main() {
 	}
 
 	if len(items) < 10 {
-		fmt.Printf("Hacker News API returned less than 10 stories, so not writing to %s.\n", outFile)
+		fmt.Printf("Hacker News API returned less than 10 stories, so not writing to %s.\n", filePath)
 		return
 	}
 
@@ -61,15 +70,31 @@ func main() {
 		log.Fatalf("Problem marshalling items: %s", err)
 		return
 	}
+	fmt.Println()
+	if out == "github" {
+		ghc := github.NewGitHubController(os.Getenv("GITHUB_TOKEN"), "main", "hughmandeville", "hnui")
+		_, sha, err := ghc.GetFile(filePath)
+		if err != nil {
+			fmt.Printf("Problem getting data from GitHub: %s\n", err)
+		} else {
+			err = ghc.PutFile(filePath, data, sha)
+			if err != nil {
+				fmt.Printf("Problem committing data to GitHub: %s\n", err)
+			} else {
+				fmt.Printf("Committed:   %s (%d items, %d bytes).\n", filePath, len(items), len(data))
+			}
+		}
 
-	err = os.WriteFile(outFile, data, 0644)
-	if err != nil {
-		log.Fatalf("Problem saving to file: %s", err)
-		return
+	} else {
+		err = os.WriteFile(filePath, data, 0644)
+		if err != nil {
+			log.Fatalf("Problem saving to file: %s", err)
+			return
+		}
+		fmt.Printf("Wrote:       %s (%d items, %d bytes).\n", filePath, len(items), len(data))
 	}
 	if verbose {
-		fmt.Println()
-		fmt.Printf("Wrote:       %s (%d items, %d bytes).\n", outFile, len(items), len(data))
+
 		fmt.Printf("Took:        %s\n", time.Since(start))
 		fmt.Println()
 	}
