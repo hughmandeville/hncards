@@ -94,10 +94,6 @@ func correctData(item *Item) {
 		domain = strings.TrimPrefix(pu.Hostname(), "www.")
 	}
 
-	if item.Publisher == "" {
-		item.Publisher = domain
-	}
-
 	// if image http remove
 	if strings.HasPrefix(item.Image, "http:") {
 		item.Image = ""
@@ -128,6 +124,10 @@ func correctData(item *Item) {
 		item.Icon = "https://assets.bwbx.io/s3/javelin/public/hub/images/favicon-black-63fe5249d3.png"
 	case "https://news.ycombinator.com/item/favicon.ico":
 		item.Icon = "https://news.ycombinator.com/favicon.ico"
+	}
+
+	if item.Publisher == "" {
+		item.Publisher = domain
 	}
 
 	// fix publisher name for some well known publishers
