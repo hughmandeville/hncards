@@ -48,7 +48,7 @@ func main() {
 	fmt.Printf("Num Stories: %d\n\n", numStories)
 
 	if out == "github" {
-		err := hn_og_combo.SaveTopStoriesToGH(numStories, verbose)
+		err := hn_og_combo.SaveTopStoriesToGH(os.Getenv("GITHUB_TOKEN"), numStories, verbose)
 		if err != nil {
 			fmt.Printf("Problem saving top stories: %s\n", err)
 			return
