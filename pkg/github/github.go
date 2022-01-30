@@ -79,6 +79,12 @@ func (gh *GitHubController) GetFile(path string) (fileData []byte, fileSHA strin
 	if err != nil {
 		return
 	}
+
+	if resp.StatusCode != http.StatusOK {
+		err = fmt.Errorf("GitHub API returned %s: %s", resp.Status, body)
+		return
+	}
+
 	var data GHGetContentsResponse
 	err = json.Unmarshal(body, &data)
 	if err != nil {
