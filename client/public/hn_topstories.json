@@ -9,8 +9,8 @@
     "publisher": "jenson.org",
     "description": "",
     "by": "radley",
-    "points": 162,
-    "comment_count": 32,
+    "points": 202,
+    "comment_count": 39,
     "hn_item": {
       "by": "pabs3",
       "descendants": 11,
@@ -54,7 +54,7 @@
     "publisher": "fahrrad-tools.de",
     "description": "Which tire fits my bike? Tires are always flat and now buy a tire with puncture protection? Find the right tire now!",
     "by": "moasda",
-    "points": 400,
+    "points": 405,
     "comment_count": 36,
     "hn_item": {
       "by": "pabs3",
@@ -99,8 +99,8 @@
     "publisher": "Rest of World",
     "description": "As a hedge against American talent poachers, some exasperated founders are recruiting developers who can’t speak English.",
     "by": "braco_alva",
-    "points": 113,
-    "comment_count": 26,
+    "points": 119,
+    "comment_count": 27,
     "hn_item": {
       "by": "pabs3",
       "descendants": 11,
@@ -153,7 +153,7 @@
     "publisher": "hypercardsimulator.com",
     "description": "",
     "by": "alexmingoia",
-    "points": 147,
+    "points": 151,
     "comment_count": 12,
     "hn_item": {
       "by": "pabs3",
@@ -198,7 +198,7 @@
     "publisher": "leahneukirchen.org",
     "description": "",
     "by": "panic",
-    "points": 61,
+    "points": 65,
     "comment_count": 4,
     "hn_item": {
       "by": "pabs3",
@@ -243,7 +243,7 @@
     "publisher": "Vice",
     "description": "The Great Unconformity has baffled geologists for a century. New research points to glaciers being the culprit.",
     "by": "cbkeller",
-    "points": 26,
+    "points": 28,
     "comment_count": 3,
     "hn_item": {
       "by": "pabs3",
@@ -297,8 +297,8 @@
     "publisher": "tribunemag.co.uk",
     "description": "At workplaces like Amazon, algorithms have become the worst kind of boss – one who watches you constantly, makes impossible demands and then sacks you without explanation.",
     "by": "jrepinc",
-    "points": 34,
-    "comment_count": 2,
+    "points": 38,
+    "comment_count": 4,
     "hn_item": {
       "by": "pabs3",
       "descendants": 11,
@@ -396,16 +396,61 @@
     }
   },
   {
+    "id": 30141171,
+    "title": "Deep symbolic regression for recurrent sequences",
+    "url": "http://recur-env.eba-rm3fchmn.us-east-2.elasticbeanstalk.com/",
+    "time": 1643577344,
+    "image": "",
+    "icon": "",
+    "publisher": "recur-env.eba-rm3fchmn.us-eas…",
+    "description": "",
+    "by": "ShamelessC",
+    "points": 10,
+    "comment_count": 2,
+    "hn_item": {
+      "by": "pabs3",
+      "descendants": 11,
+      "id": 30134058,
+      "kids": [
+        30135407,
+        30135483,
+        30139645,
+        30134462
+      ],
+      "score": 57,
+      "time": 1643517260,
+      "title": "Tofuproxy – Web proxy, TLS terminator, X.509 TOFU manager, WARC/gemini browser",
+      "type": "story",
+      "url": "http://www.tofuproxy.stargrave.org/"
+    },
+    "og_item": {
+      "title": "Streamlit",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "./favicon.png"
+      }
+    }
+  },
+  {
     "id": 30138434,
     "title": "Beancount: Double-entry accounting from text files",
     "url": "https://github.com/beancount/beancount",
     "time": 1643559445,
-    "image": "https://opengraph.githubassets.com/357782e13bc27338769c72cca04682c74f489d711393e66725f951e440a0078d/beancount/beancount",
+    "image": "https://opengraph.githubassets.com/b15d7f722d5f1dcc0637436eb73b9c9d88b7c650e1a605488e7a967218be01d0/beancount/beancount",
     "icon": "https://github.githubassets.com/favicons/favicon.svg",
     "publisher": "GitHub",
     "description": "Beancount: Double-Entry Accounting from Text Files. - GitHub - beancount/beancount: Beancount: Double-Entry Accounting from Text Files.",
     "by": "techtalsky",
-    "points": 120,
+    "points": 122,
     "comment_count": 14,
     "hn_item": {
       "by": "pabs3",
@@ -428,7 +473,7 @@
       "type": "object",
       "image": [
         {
-          "url": "https://opengraph.githubassets.com/357782e13bc27338769c72cca04682c74f489d711393e66725f951e440a0078d/beancount/beancount",
+          "url": "https://opengraph.githubassets.com/b15d7f722d5f1dcc0637436eb73b9c9d88b7c650e1a605488e7a967218be01d0/beancount/beancount",
           "secure_url": "",
           "type": "",
           "width": 1200,
@@ -450,51 +495,6 @@
     }
   },
   {
-    "id": 30137681,
-    "title": "In defence of the boring web",
-    "url": "https://bastian.rieck.me/blog/posts/2022/boring/",
-    "time": 1643554351,
-    "image": "",
-    "icon": "https://bastian.rieck.me/favicon.ico",
-    "publisher": "bastian.rieck.me",
-    "description": "",
-    "by": "Topolomancer",
-    "points": 124,
-    "comment_count": 19,
-    "hn_item": {
-      "by": "pabs3",
-      "descendants": 11,
-      "id": 30134058,
-      "kids": [
-        30135407,
-        30135483,
-        30139645,
-        30134462
-      ],
-      "score": 57,
-      "time": 1643517260,
-      "title": "Tofuproxy – Web proxy, TLS terminator, X.509 TOFU manager, WARC/gemini browser",
-      "type": "story",
-      "url": "http://www.tofuproxy.stargrave.org/"
-    },
-    "og_item": {
-      "title": "In Defence of the Boring Web",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30119925,
     "title": "Message in a bottle from Scottish girl found in Norway after 25 years",
     "url": "https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-60121185",
@@ -504,8 +504,8 @@
     "publisher": "BBC News",
     "description": "The bottle Joanna Buchan dropped in the sea at Peterhead when she was eight has washed up in Norway.",
     "by": "LinuxBender",
-    "points": 33,
-    "comment_count": 6,
+    "points": 36,
+    "comment_count": 7,
     "hn_item": {
       "by": "pabs3",
       "descendants": 11,
@@ -549,6 +549,51 @@
     }
   },
   {
+    "id": 30137681,
+    "title": "In defence of the boring web",
+    "url": "https://bastian.rieck.me/blog/posts/2022/boring/",
+    "time": 1643554351,
+    "image": "",
+    "icon": "https://bastian.rieck.me/favicon.ico",
+    "publisher": "bastian.rieck.me",
+    "description": "",
+    "by": "Topolomancer",
+    "points": 128,
+    "comment_count": 19,
+    "hn_item": {
+      "by": "pabs3",
+      "descendants": 11,
+      "id": 30134058,
+      "kids": [
+        30135407,
+        30135483,
+        30139645,
+        30134462
+      ],
+      "score": 57,
+      "time": 1643517260,
+      "title": "Tofuproxy – Web proxy, TLS terminator, X.509 TOFU manager, WARC/gemini browser",
+      "type": "story",
+      "url": "http://www.tofuproxy.stargrave.org/"
+    },
+    "og_item": {
+      "title": "In Defence of the Boring Web",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30137864,
     "title": "Midnight Commander Tips and Tricks",
     "url": "http://www.softpanorama.org/OFM/MC/mc_tips.shtml",
@@ -558,7 +603,7 @@
     "publisher": "softpanorama.org",
     "description": "",
     "by": "ingve",
-    "points": 111,
+    "points": 112,
     "comment_count": 17,
     "hn_item": {
       "by": "pabs3",
@@ -603,7 +648,7 @@
     "publisher": "Eurogamer.net",
     "description": "",
     "by": "atombender",
-    "points": 157,
+    "points": 160,
     "comment_count": 22,
     "hn_item": {
       "by": "pabs3",
@@ -657,7 +702,7 @@
     "publisher": "win.tue.nl",
     "description": "",
     "by": "camnora",
-    "points": 76,
+    "points": 78,
     "comment_count": 7,
     "hn_item": {
       "by": "pabs3",
@@ -676,6 +721,105 @@
       "url": "http://www.tofuproxy.stargrave.org/"
     },
     "og_item": null
+  },
+  {
+    "id": 30128048,
+    "title": "COM+ Revisited",
+    "url": "https://lowleveldesign.org/2022/01/17/com-revisited/",
+    "time": 1643476281,
+    "image": "https://lowleveldesign.files.wordpress.com/2022/01/probe-mem-layout.png?w=1200",
+    "icon": "https://lowleveldesign.files.wordpress.com/2019/01/cropped-site_logo-1.png?w=192",
+    "publisher": "lowleveldesign.org",
+    "description": "More than ten years ago (how time flies!), when I published the basic sample of a COM+ server and client, I thought that I wouldn’t be touching this subject again. But here we are, in 2022, a…",
+    "by": "lowleveldesign",
+    "points": 40,
+    "comment_count": 7,
+    "hn_item": {
+      "by": "pabs3",
+      "descendants": 11,
+      "id": 30134058,
+      "kids": [
+        30135407,
+        30135483,
+        30139645,
+        30134462
+      ],
+      "score": 57,
+      "time": 1643517260,
+      "title": "Tofuproxy – Web proxy, TLS terminator, X.509 TOFU manager, WARC/gemini browser",
+      "type": "story",
+      "url": "http://www.tofuproxy.stargrave.org/"
+    },
+    "og_item": {
+      "title": "COM+ revisited",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://lowleveldesign.files.wordpress.com/2022/01/probe-mem-layout.png?w=1200",
+          "secure_url": "",
+          "type": "",
+          "width": 1200,
+          "height": 800,
+          "alt": ""
+        }
+      ],
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/",
+      "audio": [],
+      "description": "More than ten years ago (how time flies!), when I published the basic sample of a COM+ server and client, I thought that I wouldn’t be touching this subject again. But here we are, in 2022, a…",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "lowleveldesign.org",
+      "video": [],
+      "favicon": {
+        "url": "https://lowleveldesign.files.wordpress.com/2019/01/cropped-site_logo-1.png?w=192"
+      }
+    }
+  },
+  {
+    "id": 30139734,
+    "title": "Show the case against",
+    "url": "https://www.shubhro.com/2022/01/03/show-the-case-against/",
+    "time": 1643567644,
+    "image": "",
+    "icon": "https://www.shubhro.com/favicon.ico",
+    "publisher": "shubhro.com",
+    "description": "",
+    "by": "shbhrsaha",
+    "points": 29,
+    "comment_count": 4,
+    "hn_item": {
+      "by": "pabs3",
+      "descendants": 11,
+      "id": 30134058,
+      "kids": [
+        30135407,
+        30135483,
+        30139645,
+        30134462
+      ],
+      "score": 57,
+      "time": 1643517260,
+      "title": "Tofuproxy – Web proxy, TLS terminator, X.509 TOFU manager, WARC/gemini browser",
+      "type": "story",
+      "url": "http://www.tofuproxy.stargrave.org/"
+    },
+    "og_item": {
+      "title": "Show the case against - shubhro.com",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
   },
   {
     "id": 30120901,
@@ -732,17 +876,17 @@
     }
   },
   {
-    "id": 30128048,
-    "title": "COM+ Revisited",
-    "url": "https://lowleveldesign.org/2022/01/17/com-revisited/",
-    "time": 1643476281,
-    "image": "https://lowleveldesign.files.wordpress.com/2022/01/probe-mem-layout.png?w=1200",
-    "icon": "https://lowleveldesign.files.wordpress.com/2019/01/cropped-site_logo-1.png?w=192",
-    "publisher": "lowleveldesign.org",
-    "description": "More than ten years ago (how time flies!), when I published the basic sample of a COM+ server and client, I thought that I wouldn’t be touching this subject again. But here we are, in 2022, a…",
-    "by": "lowleveldesign",
-    "points": 39,
-    "comment_count": 7,
+    "id": 30136350,
+    "title": "The Game of War: Chess with Networks (2008)",
+    "url": "https://www.cabinetmagazine.org/issues/29/galloway.php",
+    "time": 1643544263,
+    "image": "https://cabinetmagazine.org/issues/29/cabinet_029_galloway_alexander_r_facebook.jpg",
+    "icon": "https://www.cabinetmagazine.org/favicon-128.png",
+    "publisher": "cabinetmagazine.org",
+    "description": "Chess with networks",
+    "by": "bshepard",
+    "points": 20,
+    "comment_count": 2,
     "hn_item": {
       "by": "pabs3",
       "descendants": 11,
@@ -760,118 +904,28 @@
       "url": "http://www.tofuproxy.stargrave.org/"
     },
     "og_item": {
-      "title": "COM+ revisited",
+      "title": "The Game of War: An Overview | Alexander R. Galloway",
       "type": "article",
       "image": [
         {
-          "url": "https://lowleveldesign.files.wordpress.com/2022/01/probe-mem-layout.png?w=1200",
+          "url": "https://cabinetmagazine.org/issues/29/cabinet_029_galloway_alexander_r_facebook.jpg",
           "secure_url": "",
           "type": "",
-          "width": 1200,
-          "height": 800,
+          "width": 52,
+          "height": 80,
           "alt": ""
         }
       ],
-      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/",
+      "url": "https://cabinetmagazine.org/issues/29/galloway.php",
       "audio": [],
-      "description": "More than ten years ago (how time flies!), when I published the basic sample of a COM+ server and client, I thought that I wouldn’t be touching this subject again. But here we are, in 2022, a…",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "lowleveldesign.org",
-      "video": [],
-      "favicon": {
-        "url": "https://lowleveldesign.files.wordpress.com/2019/01/cropped-site_logo-1.png?w=192"
-      }
-    }
-  },
-  {
-    "id": 30139734,
-    "title": "Show the case against",
-    "url": "https://www.shubhro.com/2022/01/03/show-the-case-against/",
-    "time": 1643567644,
-    "image": "",
-    "icon": "https://www.shubhro.com/favicon.ico",
-    "publisher": "shubhro.com",
-    "description": "",
-    "by": "shbhrsaha",
-    "points": 27,
-    "comment_count": 4,
-    "hn_item": {
-      "by": "pabs3",
-      "descendants": 11,
-      "id": 30134058,
-      "kids": [
-        30135407,
-        30135483,
-        30139645,
-        30134462
-      ],
-      "score": 57,
-      "time": 1643517260,
-      "title": "Tofuproxy – Web proxy, TLS terminator, X.509 TOFU manager, WARC/gemini browser",
-      "type": "story",
-      "url": "http://www.tofuproxy.stargrave.org/"
-    },
-    "og_item": {
-      "title": "Show the case against - shubhro.com",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
+      "description": "Chess with networks",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
       "site_name": "",
       "video": [],
       "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30141278,
-    "title": "The Story of Maxis Software (1999)",
-    "url": "https://web.archive.org/web/19991012021220/http://gamespot.com/features/maxis/index.html",
-    "time": 1643577913,
-    "image": "",
-    "icon": "https://web.archive.org/favicon.ico",
-    "publisher": "web.archive.org",
-    "description": "",
-    "by": "ecliptik",
-    "points": 4,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "pabs3",
-      "descendants": 11,
-      "id": 30134058,
-      "kids": [
-        30135407,
-        30135483,
-        30139645,
-        30134462
-      ],
-      "score": 57,
-      "time": 1643517260,
-      "title": "Tofuproxy – Web proxy, TLS terminator, X.509 TOFU manager, WARC/gemini browser",
-      "type": "story",
-      "url": "http://www.tofuproxy.stargrave.org/"
-    },
-    "og_item": {
-      "title": "GameSpot's SIMply Divine: The Story of Maxis Software",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
+        "url": "/favicon-128.png"
       }
     }
   },
@@ -930,17 +984,17 @@
     }
   },
   {
-    "id": 30136350,
-    "title": "The Game of War: Chess with Networks (2008)",
-    "url": "https://www.cabinetmagazine.org/issues/29/galloway.php",
-    "time": 1643544263,
-    "image": "https://cabinetmagazine.org/issues/29/cabinet_029_galloway_alexander_r_facebook.jpg",
-    "icon": "https://www.cabinetmagazine.org/favicon-128.png",
-    "publisher": "cabinetmagazine.org",
-    "description": "Chess with networks",
-    "by": "bshepard",
-    "points": 18,
-    "comment_count": 2,
+    "id": 30141278,
+    "title": "The Story of Maxis Software (1999)",
+    "url": "https://web.archive.org/web/19991012021220/http://gamespot.com/features/maxis/index.html",
+    "time": 1643577913,
+    "image": "",
+    "icon": "https://web.archive.org/favicon.ico",
+    "publisher": "web.archive.org",
+    "description": "",
+    "by": "ecliptik",
+    "points": 5,
+    "comment_count": 1,
     "hn_item": {
       "by": "pabs3",
       "descendants": 11,
@@ -958,28 +1012,73 @@
       "url": "http://www.tofuproxy.stargrave.org/"
     },
     "og_item": {
-      "title": "The Game of War: An Overview | Alexander R. Galloway",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://cabinetmagazine.org/issues/29/cabinet_029_galloway_alexander_r_facebook.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 52,
-          "height": 80,
-          "alt": ""
-        }
-      ],
-      "url": "https://cabinetmagazine.org/issues/29/galloway.php",
+      "title": "GameSpot's SIMply Divine: The Story of Maxis Software",
+      "type": "",
+      "image": [],
+      "url": "",
       "audio": [],
-      "description": "Chess with networks",
+      "description": "",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
       "site_name": "",
       "video": [],
       "favicon": {
-        "url": "/favicon-128.png"
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30135297,
+    "title": "The Dialectic of Enlightenment and modern life",
+    "url": "https://daily-philosophy.com/frankfurt-school-dialectic-enlightenment/",
+    "time": 1643534554,
+    "image": "https://daily-philosophy.com/frankfurt-school-dialectic-enlightenment/featured-500px.jpg",
+    "icon": "https://daily-philosophy.com/favicon.ico",
+    "publisher": "daily-philosophy.com",
+    "description": "The Frankfurt School is generally taken to mean a lose collection of thinkers who first congregated around the Institute for Social Research in Frankfurt am Main, Germany.",
+    "by": "moralrobots",
+    "points": 15,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "pabs3",
+      "descendants": 11,
+      "id": 30134058,
+      "kids": [
+        30135407,
+        30135483,
+        30139645,
+        30134462
+      ],
+      "score": 57,
+      "time": 1643517260,
+      "title": "Tofuproxy – Web proxy, TLS terminator, X.509 TOFU manager, WARC/gemini browser",
+      "type": "story",
+      "url": "http://www.tofuproxy.stargrave.org/"
+    },
+    "og_item": {
+      "title": "The Dialectic of Enlightenment",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://daily-philosophy.com/frankfurt-school-dialectic-enlightenment/featured-500px.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://daily-philosophy.com/frankfurt-school-dialectic-enlightenment/",
+      "audio": [],
+      "description": "The Frankfurt School is generally taken to mean a lose collection of thinkers who first congregated around the Institute for Social Research in Frankfurt am Main, Germany.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
       }
     }
   },
@@ -1038,141 +1137,6 @@
     }
   },
   {
-    "id": 30141171,
-    "title": "Deep symbolic regression for recurrent sequences",
-    "url": "http://recur-env.eba-rm3fchmn.us-east-2.elasticbeanstalk.com/",
-    "time": 1643577344,
-    "image": "",
-    "icon": "",
-    "publisher": "recur-env.eba-rm3fchmn.us-eas…",
-    "description": "",
-    "by": "ShamelessC",
-    "points": 6,
-    "comment_count": 1,
-    "hn_item": {
-      "by": "pabs3",
-      "descendants": 11,
-      "id": 30134058,
-      "kids": [
-        30135407,
-        30135483,
-        30139645,
-        30134462
-      ],
-      "score": 57,
-      "time": 1643517260,
-      "title": "Tofuproxy – Web proxy, TLS terminator, X.509 TOFU manager, WARC/gemini browser",
-      "type": "story",
-      "url": "http://www.tofuproxy.stargrave.org/"
-    },
-    "og_item": {
-      "title": "Streamlit",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "./favicon.png"
-      }
-    }
-  },
-  {
-    "id": 30139643,
-    "title": "Very Remote Lisp Debugging Story",
-    "url": "https://susam.net/maze/very-remote-debugging.html",
-    "time": 1643567057,
-    "image": "",
-    "icon": "https://susam.net/maze/favicon.png",
-    "publisher": "susam.net",
-    "description": "",
-    "by": "susam",
-    "points": 22,
-    "comment_count": 2,
-    "hn_item": {
-      "by": "pabs3",
-      "descendants": 11,
-      "id": 30134058,
-      "kids": [
-        30135407,
-        30135483,
-        30139645,
-        30134462
-      ],
-      "score": 57,
-      "time": 1643517260,
-      "title": "Tofuproxy – Web proxy, TLS terminator, X.509 TOFU manager, WARC/gemini browser",
-      "type": "story",
-      "url": "http://www.tofuproxy.stargrave.org/"
-    },
-    "og_item": {
-      "title": "Very Remote Lisp Debugging Story - Susam's Maze",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "favicon.png"
-      }
-    }
-  },
-  {
-    "id": 30120857,
-    "title": "Writing an efficient Vulkan renderer (2020)",
-    "url": "https://zeux.io/2020/02/27/writing-an-efficient-vulkan-renderer/",
-    "time": 1643406697,
-    "image": "",
-    "icon": "https://zeux.io/2020/02/27/writing-an-efficient-vulkan-renderer/data:;base64,iVBORw0KGgo=",
-    "publisher": "zeux.io",
-    "description": "",
-    "by": "nabla9",
-    "points": 68,
-    "comment_count": 4,
-    "hn_item": {
-      "by": "pabs3",
-      "descendants": 11,
-      "id": 30134058,
-      "kids": [
-        30135407,
-        30135483,
-        30139645,
-        30134462
-      ],
-      "score": 57,
-      "time": 1643517260,
-      "title": "Tofuproxy – Web proxy, TLS terminator, X.509 TOFU manager, WARC/gemini browser",
-      "type": "story",
-      "url": "http://www.tofuproxy.stargrave.org/"
-    },
-    "og_item": {
-      "title": "\n    zeux.io - Writing an efficient Vulkan renderer\n  ",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "data:;base64,iVBORw0KGgo="
-      }
-    }
-  },
-  {
     "id": 30138420,
     "title": "Autonomous battery-powered rail cars",
     "url": "https://arstechnica.com/cars/2022/01/moving-more-with-less-freight-startup-bets-on-autonomous-electric-rail-cars/",
@@ -1182,7 +1146,7 @@
     "publisher": "Ars Technica",
     "description": "Advances in batteries, autonomy could extend the reach of freight railroads.",
     "by": "vanburen",
-    "points": 55,
+    "points": 58,
     "comment_count": 13,
     "hn_item": {
       "by": "pabs3",
@@ -1227,17 +1191,17 @@
     }
   },
   {
-    "id": 30135297,
-    "title": "The Dialectic of Enlightenment and modern life",
-    "url": "https://daily-philosophy.com/frankfurt-school-dialectic-enlightenment/",
-    "time": 1643534554,
-    "image": "https://daily-philosophy.com/frankfurt-school-dialectic-enlightenment/featured-500px.jpg",
-    "icon": "https://daily-philosophy.com/favicon.ico",
-    "publisher": "daily-philosophy.com",
-    "description": "The Frankfurt School is generally taken to mean a lose collection of thinkers who first congregated around the Institute for Social Research in Frankfurt am Main, Germany.",
-    "by": "moralrobots",
-    "points": 14,
-    "comment_count": 0,
+    "id": 30139643,
+    "title": "Very Remote Lisp Debugging Story",
+    "url": "https://susam.net/maze/very-remote-debugging.html",
+    "time": 1643567057,
+    "image": "",
+    "icon": "https://susam.net/maze/favicon.png",
+    "publisher": "susam.net",
+    "description": "",
+    "by": "susam",
+    "points": 23,
+    "comment_count": 2,
     "hn_item": {
       "by": "pabs3",
       "descendants": 11,
@@ -1255,21 +1219,57 @@
       "url": "http://www.tofuproxy.stargrave.org/"
     },
     "og_item": {
-      "title": "The Dialectic of Enlightenment",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://daily-philosophy.com/frankfurt-school-dialectic-enlightenment/featured-500px.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://daily-philosophy.com/frankfurt-school-dialectic-enlightenment/",
+      "title": "Very Remote Lisp Debugging Story - Susam's Maze",
+      "type": "",
+      "image": [],
+      "url": "",
       "audio": [],
-      "description": "The Frankfurt School is generally taken to mean a lose collection of thinkers who first congregated around the Institute for Social Research in Frankfurt am Main, Germany.",
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "favicon.png"
+      }
+    }
+  },
+  {
+    "id": 30122435,
+    "title": "DDS: Build and library management tool for C, C++",
+    "url": "https://vector-of-bool.github.io/docs/dds/index.html",
+    "time": 1643416395,
+    "image": "",
+    "icon": "https://vector-of-bool.github.io/favicon.ico",
+    "publisher": "vector-of-bool.github.io",
+    "description": "",
+    "by": "oumua_don17",
+    "points": 20,
+    "comment_count": 2,
+    "hn_item": {
+      "by": "pabs3",
+      "descendants": 11,
+      "id": 30134058,
+      "kids": [
+        30135407,
+        30135483,
+        30139645,
+        30134462
+      ],
+      "score": 57,
+      "time": 1643517260,
+      "title": "Tofuproxy – Web proxy, TLS terminator, X.509 TOFU manager, WARC/gemini browser",
+      "type": "story",
+      "url": "http://www.tofuproxy.stargrave.org/"
+    },
+    "og_item": {
+      "title": "DDS — dds 0.1.0-alpha.3 documentation",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
@@ -1277,6 +1277,96 @@
       "video": [],
       "favicon": {
         "url": "/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30120857,
+    "title": "Writing an efficient Vulkan renderer (2020)",
+    "url": "https://zeux.io/2020/02/27/writing-an-efficient-vulkan-renderer/",
+    "time": 1643406697,
+    "image": "",
+    "icon": "https://zeux.io/2020/02/27/writing-an-efficient-vulkan-renderer/data:;base64,iVBORw0KGgo=",
+    "publisher": "zeux.io",
+    "description": "",
+    "by": "nabla9",
+    "points": 69,
+    "comment_count": 4,
+    "hn_item": {
+      "by": "pabs3",
+      "descendants": 11,
+      "id": 30134058,
+      "kids": [
+        30135407,
+        30135483,
+        30139645,
+        30134462
+      ],
+      "score": 57,
+      "time": 1643517260,
+      "title": "Tofuproxy – Web proxy, TLS terminator, X.509 TOFU manager, WARC/gemini browser",
+      "type": "story",
+      "url": "http://www.tofuproxy.stargrave.org/"
+    },
+    "og_item": {
+      "title": "\n    zeux.io - Writing an efficient Vulkan renderer\n  ",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "data:;base64,iVBORw0KGgo="
+      }
+    }
+  },
+  {
+    "id": 30138669,
+    "title": "Ask HN: Has anyone leveraged GDPR to overturn automated bans?",
+    "url": "https://news.ycombinator.com/item?id=30138669",
+    "time": 1643561257,
+    "image": "",
+    "icon": "https://news.ycombinator.com/favicon.ico",
+    "publisher": "Hacker News",
+    "description": "",
+    "by": "ndmrs",
+    "points": 121,
+    "comment_count": 10,
+    "hn_item": {
+      "by": "pabs3",
+      "descendants": 11,
+      "id": 30134058,
+      "kids": [
+        30135407,
+        30135483,
+        30139645,
+        30134462
+      ],
+      "score": 57,
+      "time": 1643517260,
+      "title": "Tofuproxy – Web proxy, TLS terminator, X.509 TOFU manager, WARC/gemini browser",
+      "type": "story",
+      "url": "http://www.tofuproxy.stargrave.org/"
+    },
+    "og_item": {
+      "title": "Ask HN: Has anyone leveraged GDPR to overturn automated bans? | Hacker News",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "favicon.ico"
       }
     }
   },
@@ -1326,96 +1416,6 @@
     }
   },
   {
-    "id": 30138669,
-    "title": "Ask HN: Has anyone leveraged GDPR to overturn automated bans?",
-    "url": "https://news.ycombinator.com/item?id=30138669",
-    "time": 1643561257,
-    "image": "",
-    "icon": "https://news.ycombinator.com/favicon.ico",
-    "publisher": "Hacker News",
-    "description": "",
-    "by": "ndmrs",
-    "points": 118,
-    "comment_count": 10,
-    "hn_item": {
-      "by": "pabs3",
-      "descendants": 11,
-      "id": 30134058,
-      "kids": [
-        30135407,
-        30135483,
-        30139645,
-        30134462
-      ],
-      "score": 57,
-      "time": 1643517260,
-      "title": "Tofuproxy – Web proxy, TLS terminator, X.509 TOFU manager, WARC/gemini browser",
-      "type": "story",
-      "url": "http://www.tofuproxy.stargrave.org/"
-    },
-    "og_item": {
-      "title": "Ask HN: Has anyone leveraged GDPR to overturn automated bans? | Hacker News",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30122435,
-    "title": "DDS: Build and library management tool for C, C++",
-    "url": "https://vector-of-bool.github.io/docs/dds/index.html",
-    "time": 1643416395,
-    "image": "",
-    "icon": "https://vector-of-bool.github.io/favicon.ico",
-    "publisher": "vector-of-bool.github.io",
-    "description": "",
-    "by": "oumua_don17",
-    "points": 17,
-    "comment_count": 2,
-    "hn_item": {
-      "by": "pabs3",
-      "descendants": 11,
-      "id": 30134058,
-      "kids": [
-        30135407,
-        30135483,
-        30139645,
-        30134462
-      ],
-      "score": 57,
-      "time": 1643517260,
-      "title": "Tofuproxy – Web proxy, TLS terminator, X.509 TOFU manager, WARC/gemini browser",
-      "type": "story",
-      "url": "http://www.tofuproxy.stargrave.org/"
-    },
-    "og_item": {
-      "title": "DDS — dds 0.1.0-alpha.3 documentation",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30117131,
     "title": "How to excel in tech without learning to code",
     "url": "https://future.a16z.com/excel-in-tech-without-learning-to-code/",
@@ -1425,7 +1425,7 @@
     "publisher": "Future",
     "description": "Technical literacy is key to career success, even for non-engineers. Learn how to master the tools of your trade and build a solid tech foundation.",
     "by": "jseliger",
-    "points": 94,
+    "points": 97,
     "comment_count": 10,
     "hn_item": {
       "by": "pabs3",
@@ -1479,7 +1479,7 @@
     "publisher": "Tim's Blog",
     "description": "The RGB curtain predictably turns into a mess of wires when not used according to instructions. As should be obvious from this blog, I am somewhat drawn to clever and minimalistic implementations o…",
     "by": "cpldcpu",
-    "points": 135,
+    "points": 136,
     "comment_count": 6,
     "hn_item": {
       "by": "pabs3",
@@ -1533,7 +1533,7 @@
     "publisher": "sbcl.org",
     "description": "",
     "by": "susam",
-    "points": 82,
+    "points": 84,
     "comment_count": 5,
     "hn_item": {
       "by": "pabs3",
@@ -1569,60 +1569,6 @@
     }
   },
   {
-    "id": 30136969,
-    "title": "GoSTL: Algorithm and datastructure library for Go similar to C++ STL",
-    "url": "https://github.com/liyue201/gostl",
-    "time": 1643549145,
-    "image": "https://opengraph.githubassets.com/8b7cc10668d0241344c276eba11c43d81a905ab7adcb017ead600f917237daa1/liyue201/gostl",
-    "icon": "https://github.githubassets.com/favicons/favicon.svg",
-    "publisher": "GitHub",
-    "description": "Data structure and algorithm library for go, designed to provide functions similar to C++ STL - GitHub - liyue201/gostl: Data structure and algorithm library for go, designed to provide functions s...",
-    "by": "gmgn",
-    "points": 80,
-    "comment_count": 9,
-    "hn_item": {
-      "by": "pabs3",
-      "descendants": 11,
-      "id": 30134058,
-      "kids": [
-        30135407,
-        30135483,
-        30139645,
-        30134462
-      ],
-      "score": 57,
-      "time": 1643517260,
-      "title": "Tofuproxy – Web proxy, TLS terminator, X.509 TOFU manager, WARC/gemini browser",
-      "type": "story",
-      "url": "http://www.tofuproxy.stargrave.org/"
-    },
-    "og_item": {
-      "title": "GitHub - liyue201/gostl: Data structure and algorithm library for go, designed to provide functions similar to C++ STL",
-      "type": "object",
-      "image": [
-        {
-          "url": "https://opengraph.githubassets.com/8b7cc10668d0241344c276eba11c43d81a905ab7adcb017ead600f917237daa1/liyue201/gostl",
-          "secure_url": "",
-          "type": "",
-          "width": 1200,
-          "height": 600,
-          "alt": ""
-        }
-      ],
-      "url": "https://github.com/liyue201/gostl",
-      "audio": [],
-      "description": "Data structure and algorithm library for go, designed to provide functions similar to C++ STL - GitHub - liyue201/gostl: Data structure and algorithm library for go, designed to provide functions s...",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "GitHub",
-      "video": [],
-      "favicon": {
-        "url": "https://github.githubassets.com/favicons/favicon.svg"
-      }
-    }
-  },
-  {
     "id": 30124569,
     "title": "Dennis Ritchie Home Page (2006)",
     "url": "https://www.bell-labs.com/usr/dmr/www/",
@@ -1632,7 +1578,7 @@
     "publisher": "bell-labs.com",
     "description": "",
     "by": "mehdix",
-    "points": 204,
+    "points": 205,
     "comment_count": 18,
     "hn_item": {
       "by": "pabs3",
@@ -1668,6 +1614,60 @@
     }
   },
   {
+    "id": 30136969,
+    "title": "GoSTL: Algorithm and datastructure library for Go similar to C++ STL",
+    "url": "https://github.com/liyue201/gostl",
+    "time": 1643549145,
+    "image": "https://opengraph.githubassets.com/31ac6d37d25154b4ff3e1c90c5d8da720ee548b61ec2a8890dd161ffab979058/liyue201/gostl",
+    "icon": "https://github.githubassets.com/favicons/favicon.svg",
+    "publisher": "GitHub",
+    "description": "Data structure and algorithm library for go, designed to provide functions similar to C++ STL - GitHub - liyue201/gostl: Data structure and algorithm library for go, designed to provide functions s...",
+    "by": "gmgn",
+    "points": 80,
+    "comment_count": 9,
+    "hn_item": {
+      "by": "pabs3",
+      "descendants": 11,
+      "id": 30134058,
+      "kids": [
+        30135407,
+        30135483,
+        30139645,
+        30134462
+      ],
+      "score": 57,
+      "time": 1643517260,
+      "title": "Tofuproxy – Web proxy, TLS terminator, X.509 TOFU manager, WARC/gemini browser",
+      "type": "story",
+      "url": "http://www.tofuproxy.stargrave.org/"
+    },
+    "og_item": {
+      "title": "GitHub - liyue201/gostl: Data structure and algorithm library for go, designed to provide functions similar to C++ STL",
+      "type": "object",
+      "image": [
+        {
+          "url": "https://opengraph.githubassets.com/31ac6d37d25154b4ff3e1c90c5d8da720ee548b61ec2a8890dd161ffab979058/liyue201/gostl",
+          "secure_url": "",
+          "type": "",
+          "width": 1200,
+          "height": 600,
+          "alt": ""
+        }
+      ],
+      "url": "https://github.com/liyue201/gostl",
+      "audio": [],
+      "description": "Data structure and algorithm library for go, designed to provide functions similar to C++ STL - GitHub - liyue201/gostl: Data structure and algorithm library for go, designed to provide functions s...",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "GitHub",
+      "video": [],
+      "favicon": {
+        "url": "https://github.githubassets.com/favicons/favicon.svg"
+      }
+    }
+  },
+  {
     "id": 30125931,
     "title": "Fluid Simulation – Siggraph 2007 Course Notes [pdf]",
     "url": "https://www.cs.ubc.ca/~rbridson/fluidsimulation/fluids_notes.pdf",
@@ -1677,7 +1677,7 @@
     "publisher": "cs.ubc.ca",
     "description": "",
     "by": "creata",
-    "points": 27,
+    "points": 28,
     "comment_count": 3,
     "hn_item": {
       "by": "pabs3",
@@ -1702,13 +1702,13 @@
     "title": "Why is Harvard astrophysicist Avi Loeb working with ardent UFO believers?",
     "url": "https://www.science.org/content/article/why-is-harvard-astrophysicist-working-with-ufo-buffs",
     "time": 1643570644,
-    "image": "",
+    "image": "https://www.science.org/do/10.1126/science.ada0631/abs/_20220128_nf_flying_saucer.jpg",
     "icon": "https://www.science.org/favicon.ico",
-    "publisher": "AAAS",
-    "description": "",
+    "publisher": "science.org",
+    "description": "Avi Loeb’s Galileo Project will search for sky-prowling aliens, but some worry about the influence of pseudoscience",
     "by": "tejohnso",
     "points": 33,
-    "comment_count": 4,
+    "comment_count": 5,
     "hn_item": {
       "by": "pabs3",
       "descendants": 11,
@@ -1726,16 +1726,25 @@
       "url": "http://www.tofuproxy.stargrave.org/"
     },
     "og_item": {
-      "title": "Science | AAAS",
-      "type": "Website",
-      "image": [],
-      "url": "",
+      "title": "Why is a Harvard astrophysicist working with UFO buffs?",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://www.science.org/do/10.1126/science.ada0631/abs/_20220128_nf_flying_saucer.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://www.science.org/content/article/why-is-harvard-astrophysicist-working-with-ufo-buffs",
       "audio": [],
-      "description": "",
+      "description": "Avi Loeb’s Galileo Project will search for sky-prowling aliens, but some worry about the influence of pseudoscience",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "AAAS",
+      "site_name": "",
       "video": [],
       "favicon": {
         "url": "/favicon.ico"
@@ -1752,7 +1761,7 @@
     "publisher": "Energy.gov",
     "description": "Our flagship effort over the next five years is the Frontier Observatory for Research in Geothermal Energy (FORGE) initiative — the first...",
     "by": "manicennui",
-    "points": 59,
+    "points": 60,
     "comment_count": 5,
     "hn_item": {
       "by": "pabs3",
@@ -1784,6 +1793,51 @@
       "video": [],
       "favicon": {
         "url": "/themes/particle/apps/drupal/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30141380,
+    "title": "Doctors forced to work while Covid+",
+    "url": "https://drlaurenserino.substack.com/p/on-literally-working-with-covid-19",
+    "time": 1643578644,
+    "image": "",
+    "icon": "https://cdn.substack.com/icons/substack/favicon-32x32.png",
+    "publisher": "drlaurenserino.substack.com",
+    "description": "Why are doctors being told to come to work while sick with COVID?",
+    "by": "Disgruntled_Doc",
+    "points": 5,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "pabs3",
+      "descendants": 11,
+      "id": 30134058,
+      "kids": [
+        30135407,
+        30135483,
+        30139645,
+        30134462
+      ],
+      "score": 57,
+      "time": 1643517260,
+      "title": "Tofuproxy – Web proxy, TLS terminator, X.509 TOFU manager, WARC/gemini browser",
+      "type": "story",
+      "url": "http://www.tofuproxy.stargrave.org/"
+    },
+    "og_item": {
+      "title": "On literally working with COVID-19",
+      "type": "article",
+      "image": [],
+      "url": "https://drlaurenserino.substack.com/p/on-literally-working-with-covid-19",
+      "audio": [],
+      "description": "Why are doctors being told to come to work while sick with COVID?",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "https://cdn.substack.com/icons/substack/favicon-32x32.png"
       }
     }
   },
@@ -1833,6 +1887,60 @@
     }
   },
   {
+    "id": 30140790,
+    "title": "Spotify’s Platform Rules and Approach to Covid-19",
+    "url": "https://newsroom.spotify.com/2022-01-30/spotifys-platform-rules-and-approach-to-covid-19/",
+    "time": 1643574556,
+    "image": "https://storage.googleapis.com/pr-newsroom-wp/1/2022/01/Spotify-Generic-Header-1440x820-1.png",
+    "icon": "https://storage.googleapis.com/pr-newsroom-wp/1/2018/11/favicon-32x32.png",
+    "publisher": "Spotify",
+    "description": "A decade ago, we created Spotify to enable the work of creators around the world to be heard and enjoyed by listeners around the world. To our very core, we believe that listening is everything. Pick almost any issue and you will find people and opinions on either side of it. Personally, there ar…",
+    "by": "TigeriusKirk",
+    "points": 19,
+    "comment_count": 5,
+    "hn_item": {
+      "by": "pabs3",
+      "descendants": 11,
+      "id": 30134058,
+      "kids": [
+        30135407,
+        30135483,
+        30139645,
+        30134462
+      ],
+      "score": 57,
+      "time": 1643517260,
+      "title": "Tofuproxy – Web proxy, TLS terminator, X.509 TOFU manager, WARC/gemini browser",
+      "type": "story",
+      "url": "http://www.tofuproxy.stargrave.org/"
+    },
+    "og_item": {
+      "title": "Spotify’s Platform Rules and Approach to COVID-19 — Spotify",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://storage.googleapis.com/pr-newsroom-wp/1/2022/01/Spotify-Generic-Header-1440x820-1.png",
+          "secure_url": "",
+          "type": "",
+          "width": 1440,
+          "height": 816,
+          "alt": ""
+        }
+      ],
+      "url": "https://newsroom.spotify.com/2022-01-30/spotifys-platform-rules-and-approach-to-covid-19/",
+      "audio": [],
+      "description": "A decade ago, we created Spotify to enable the work of creators around the world to be heard and enjoyed by listeners around the world. To our very core, we believe that listening is everything. Pick almost any issue and you will find people and opinions on either side of it. Personally, there are plenty... Read more »",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Spotify",
+      "video": [],
+      "favicon": {
+        "url": "https://storage.googleapis.com/pr-newsroom-wp/1/2018/11/favicon-32x32.png"
+      }
+    }
+  },
+  {
     "id": 30135758,
     "title": "Uninitialized memory: Unsafe Rust is too hard",
     "url": "https://lucumr.pocoo.org/2022/1/30/unsafe-rust/",
@@ -1842,7 +1950,7 @@
     "publisher": "lucumr.pocoo.org",
     "description": "Why unsafe Rust is a complex and user unfriendly experience.",
     "by": "drrlvn",
-    "points": 94,
+    "points": 95,
     "comment_count": 14,
     "hn_item": {
       "by": "pabs3",
@@ -1928,60 +2036,6 @@
       "video": [],
       "favicon": {
         "url": "/favicon-16x16.png"
-      }
-    }
-  },
-  {
-    "id": 30140790,
-    "title": "Spotify’s Platform Rules and Approach to Covid-19",
-    "url": "https://newsroom.spotify.com/2022-01-30/spotifys-platform-rules-and-approach-to-covid-19/",
-    "time": 1643574556,
-    "image": "https://storage.googleapis.com/pr-newsroom-wp/1/2022/01/Spotify-Generic-Header-1440x820-1.png",
-    "icon": "https://storage.googleapis.com/pr-newsroom-wp/1/2018/11/favicon-32x32.png",
-    "publisher": "Spotify",
-    "description": "A decade ago, we created Spotify to enable the work of creators around the world to be heard and enjoyed by listeners around the world. To our very core, we believe that listening is everything. Pick almost any issue and you will find people and opinions on either side of it. Personally, there ar…",
-    "by": "TigeriusKirk",
-    "points": 17,
-    "comment_count": 4,
-    "hn_item": {
-      "by": "pabs3",
-      "descendants": 11,
-      "id": 30134058,
-      "kids": [
-        30135407,
-        30135483,
-        30139645,
-        30134462
-      ],
-      "score": 57,
-      "time": 1643517260,
-      "title": "Tofuproxy – Web proxy, TLS terminator, X.509 TOFU manager, WARC/gemini browser",
-      "type": "story",
-      "url": "http://www.tofuproxy.stargrave.org/"
-    },
-    "og_item": {
-      "title": "Spotify’s Platform Rules and Approach to COVID-19 — Spotify",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://storage.googleapis.com/pr-newsroom-wp/1/2022/01/Spotify-Generic-Header-1440x820-1.png",
-          "secure_url": "",
-          "type": "",
-          "width": 1440,
-          "height": 816,
-          "alt": ""
-        }
-      ],
-      "url": "https://newsroom.spotify.com/2022-01-30/spotifys-platform-rules-and-approach-to-covid-19/",
-      "audio": [],
-      "description": "A decade ago, we created Spotify to enable the work of creators around the world to be heard and enjoyed by listeners around the world. To our very core, we believe that listening is everything. Pick almost any issue and you will find people and opinions on either side of it. Personally, there are plenty... Read more »",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Spotify",
-      "video": [],
-      "favicon": {
-        "url": "https://storage.googleapis.com/pr-newsroom-wp/1/2018/11/favicon-32x32.png"
       }
     }
   },
@@ -2085,6 +2139,51 @@
     }
   },
   {
+    "id": 30140593,
+    "title": "Apple removes Grindr from the Chinese app store",
+    "url": "https://applecensorship.com/app-store-monitor/",
+    "time": 1643573198,
+    "image": "",
+    "icon": "https://i2.wp.com/applecensorship.com/wp-content/uploads/2020/12/cropped-fav.png?fit=192%2C192\u0026ssl=1",
+    "publisher": "applecensorship.com",
+    "description": "",
+    "by": "cryoz",
+    "points": 30,
+    "comment_count": 7,
+    "hn_item": {
+      "by": "pabs3",
+      "descendants": 11,
+      "id": 30134058,
+      "kids": [
+        30135407,
+        30135483,
+        30139645,
+        30134462
+      ],
+      "score": 57,
+      "time": 1643517260,
+      "title": "Tofuproxy – Web proxy, TLS terminator, X.509 TOFU manager, WARC/gemini browser",
+      "type": "story",
+      "url": "http://www.tofuproxy.stargrave.org/"
+    },
+    "og_item": {
+      "title": "App Store Monitor – Apple Censorship",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "https://i2.wp.com/applecensorship.com/wp-content/uploads/2020/12/cropped-fav.png?fit=192%2C192\u0026ssl=1"
+      }
+    }
+  },
+  {
     "id": 30114787,
     "title": "The Society of the Spectacle",
     "url": "https://unredacted-word.pub/",
@@ -2139,6 +2238,51 @@
     }
   },
   {
+    "id": 30139793,
+    "title": "Dave Packard's Simple Rules for Getting Along with Others (2013)",
+    "url": "https://fs.blog/dave-packards-11-simple-rules/",
+    "time": 1643568051,
+    "image": "",
+    "icon": "https://149664534.v2.pressablecdn.com/wp-content/uploads/2015/06/cropped-farnamstreet-300x300.png",
+    "publisher": "Farnam Street",
+    "description": "These 11 simple rules for getting along with others were first presented by Dave Packard at HP's second annual management conference in 1958.",
+    "by": "Tomte",
+    "points": 10,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "pabs3",
+      "descendants": 11,
+      "id": 30134058,
+      "kids": [
+        30135407,
+        30135483,
+        30139645,
+        30134462
+      ],
+      "score": 57,
+      "time": 1643517260,
+      "title": "Tofuproxy – Web proxy, TLS terminator, X.509 TOFU manager, WARC/gemini browser",
+      "type": "story",
+      "url": "http://www.tofuproxy.stargrave.org/"
+    },
+    "og_item": {
+      "title": "11 Simple Rules For Getting Along With Others",
+      "type": "article",
+      "image": [],
+      "url": "https://fs.blog/dave-packards-11-simple-rules/",
+      "audio": [],
+      "description": "These 11 simple rules for getting along with others were first presented by Dave Packard at HP's second annual management conference in 1958.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Farnam Street",
+      "video": [],
+      "favicon": {
+        "url": "https://149664534.v2.pressablecdn.com/wp-content/uploads/2015/06/cropped-farnamstreet-300x300.png"
+      }
+    }
+  },
+  {
     "id": 30132612,
     "title": "John Locke’s recipe for Pancakes (2021)",
     "url": "https://rarecooking.com/2021/12/14/john-lockes-recipe-for-pancakes/",
@@ -2189,6 +2333,51 @@
       "video": [],
       "favicon": {
         "url": "https://s0.wp.com/i/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30128627,
+    "title": "Tech debt gets worse before it gets better",
+    "url": "https://jeremymikkola.com/posts/2022_01_29_tech_debt_gets_worse_before_it_gets_beffer.html",
+    "time": 1643479251,
+    "image": "",
+    "icon": "https://jeremymikkola.com/favicon.ico",
+    "publisher": "jeremymikkola.com",
+    "description": "",
+    "by": "piinbinary",
+    "points": 123,
+    "comment_count": 12,
+    "hn_item": {
+      "by": "pabs3",
+      "descendants": 11,
+      "id": 30134058,
+      "kids": [
+        30135407,
+        30135483,
+        30139645,
+        30134462
+      ],
+      "score": 57,
+      "time": 1643517260,
+      "title": "Tofuproxy – Web proxy, TLS terminator, X.509 TOFU manager, WARC/gemini browser",
+      "type": "story",
+      "url": "http://www.tofuproxy.stargrave.org/"
+    },
+    "og_item": {
+      "title": "Jeremy Mikkola - Tech debt gets worse before it gets better",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
       }
     }
   },
@@ -2292,56 +2481,11 @@
     }
   },
   {
-    "id": 30128627,
-    "title": "Tech debt gets worse before it gets better",
-    "url": "https://jeremymikkola.com/posts/2022_01_29_tech_debt_gets_worse_before_it_gets_beffer.html",
-    "time": 1643479251,
-    "image": "",
-    "icon": "https://jeremymikkola.com/favicon.ico",
-    "publisher": "jeremymikkola.com",
-    "description": "",
-    "by": "piinbinary",
-    "points": 123,
-    "comment_count": 12,
-    "hn_item": {
-      "by": "pabs3",
-      "descendants": 11,
-      "id": 30134058,
-      "kids": [
-        30135407,
-        30135483,
-        30139645,
-        30134462
-      ],
-      "score": 57,
-      "time": 1643517260,
-      "title": "Tofuproxy – Web proxy, TLS terminator, X.509 TOFU manager, WARC/gemini browser",
-      "type": "story",
-      "url": "http://www.tofuproxy.stargrave.org/"
-    },
-    "og_item": {
-      "title": "Jeremy Mikkola - Tech debt gets worse before it gets better",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30139637,
     "title": "Show HN: I reverse engineered and documented United Airlines in flight API",
     "url": "https://github.com/greatjack1/United-In-Flight-Api",
     "time": 1643567025,
-    "image": "https://opengraph.githubassets.com/56e5a2bed193e5c291c6f43e1933c10c7c4dedabf27ed169550649d9c5928631/greatjack1/United-In-Flight-Api",
+    "image": "https://opengraph.githubassets.com/e2fe84659cd22520d99d644d3265fa678f2205d60805a8de7fc425d4c2674bf8/greatjack1/United-In-Flight-Api",
     "icon": "https://github.githubassets.com/favicons/favicon.svg",
     "publisher": "GitHub",
     "description": "Postman collection for United's internal in-flight wifi api - GitHub - greatjack1/United-In-Flight-Api: Postman collection for United's internal in-flight wifi api",
@@ -2369,7 +2513,7 @@
       "type": "object",
       "image": [
         {
-          "url": "https://opengraph.githubassets.com/56e5a2bed193e5c291c6f43e1933c10c7c4dedabf27ed169550649d9c5928631/greatjack1/United-In-Flight-Api",
+          "url": "https://opengraph.githubassets.com/e2fe84659cd22520d99d644d3265fa678f2205d60805a8de7fc425d4c2674bf8/greatjack1/United-In-Flight-Api",
           "secure_url": "",
           "type": "",
           "width": 1200,
@@ -2387,51 +2531,6 @@
       "video": [],
       "favicon": {
         "url": "https://github.githubassets.com/favicons/favicon.svg"
-      }
-    }
-  },
-  {
-    "id": 30141380,
-    "title": "Doctors forced to work while Covid+",
-    "url": "https://drlaurenserino.substack.com/p/on-literally-working-with-covid-19",
-    "time": 1643578644,
-    "image": "",
-    "icon": "https://cdn.substack.com/icons/substack/favicon-32x32.png",
-    "publisher": "drlaurenserino.substack.com",
-    "description": "Why are doctors being told to come to work while sick with COVID?",
-    "by": "Disgruntled_Doc",
-    "points": 3,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "pabs3",
-      "descendants": 11,
-      "id": 30134058,
-      "kids": [
-        30135407,
-        30135483,
-        30139645,
-        30134462
-      ],
-      "score": 57,
-      "time": 1643517260,
-      "title": "Tofuproxy – Web proxy, TLS terminator, X.509 TOFU manager, WARC/gemini browser",
-      "type": "story",
-      "url": "http://www.tofuproxy.stargrave.org/"
-    },
-    "og_item": {
-      "title": "On literally working with COVID-19",
-      "type": "article",
-      "image": [],
-      "url": "https://drlaurenserino.substack.com/p/on-literally-working-with-covid-19",
-      "audio": [],
-      "description": "Why are doctors being told to come to work while sick with COVID?",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "https://cdn.substack.com/icons/substack/favicon-32x32.png"
       }
     }
   },
@@ -2509,7 +2608,7 @@
     "description": "",
     "by": "hprotagonist",
     "points": 20,
-    "comment_count": 4,
+    "comment_count": 5,
     "hn_item": {
       "by": "pabs3",
       "descendants": 11,
@@ -2540,51 +2639,6 @@
       "video": [],
       "favicon": {
         "url": "//web.archive.org/web/20200417180912im_/https://xiph.org/images/logos/xiph.ico"
-      }
-    }
-  },
-  {
-    "id": 30140593,
-    "title": "Apple removes Grindr from the Chinese app store",
-    "url": "https://applecensorship.com/app-store-monitor/",
-    "time": 1643573198,
-    "image": "",
-    "icon": "https://i2.wp.com/applecensorship.com/wp-content/uploads/2020/12/cropped-fav.png?fit=192%2C192\u0026ssl=1",
-    "publisher": "applecensorship.com",
-    "description": "",
-    "by": "cryoz",
-    "points": 25,
-    "comment_count": 7,
-    "hn_item": {
-      "by": "pabs3",
-      "descendants": 11,
-      "id": 30134058,
-      "kids": [
-        30135407,
-        30135483,
-        30139645,
-        30134462
-      ],
-      "score": 57,
-      "time": 1643517260,
-      "title": "Tofuproxy – Web proxy, TLS terminator, X.509 TOFU manager, WARC/gemini browser",
-      "type": "story",
-      "url": "http://www.tofuproxy.stargrave.org/"
-    },
-    "og_item": {
-      "title": "App Store Monitor – Apple Censorship",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "https://i2.wp.com/applecensorship.com/wp-content/uploads/2020/12/cropped-fav.png?fit=192%2C192\u0026ssl=1"
       }
     }
   },
@@ -2643,6 +2697,51 @@
     }
   },
   {
+    "id": 30140757,
+    "title": "Windows 11 update changed default browser to Edge, Chrome search-engine to Bing",
+    "url": "https://old.reddit.com/r/sysadmin/comments/sbgmab/last_windows_11_update_changed_default_browser_to/",
+    "time": 1643574322,
+    "image": "",
+    "icon": "https://old.reddit.com/favicon.ico",
+    "publisher": "old.reddit.com",
+    "description": "",
+    "by": "qwertyuiop_",
+    "points": 14,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "pabs3",
+      "descendants": 11,
+      "id": 30134058,
+      "kids": [
+        30135407,
+        30135483,
+        30139645,
+        30134462
+      ],
+      "score": 57,
+      "time": 1643517260,
+      "title": "Tofuproxy – Web proxy, TLS terminator, X.509 TOFU manager, WARC/gemini browser",
+      "type": "story",
+      "url": "http://www.tofuproxy.stargrave.org/"
+    },
+    "og_item": {
+      "title": "Too Many Requests",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30139920,
     "title": "How to auto-generate GraphQL schema?",
     "url": "https://graphqlite.com/guides/schema-generator",
@@ -2684,150 +2783,6 @@
       "video": [],
       "favicon": {
         "url": "/favicon-16x16.png"
-      }
-    }
-  },
-  {
-    "id": 30140757,
-    "title": "Windows 11 update changed default browser to Edge, Chrome search-engine to Bing",
-    "url": "https://old.reddit.com/r/sysadmin/comments/sbgmab/last_windows_11_update_changed_default_browser_to/",
-    "time": 1643574322,
-    "image": "",
-    "icon": "https://old.reddit.com/favicon.ico",
-    "publisher": "old.reddit.com",
-    "description": "",
-    "by": "qwertyuiop_",
-    "points": 12,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "pabs3",
-      "descendants": 11,
-      "id": 30134058,
-      "kids": [
-        30135407,
-        30135483,
-        30139645,
-        30134462
-      ],
-      "score": 57,
-      "time": 1643517260,
-      "title": "Tofuproxy – Web proxy, TLS terminator, X.509 TOFU manager, WARC/gemini browser",
-      "type": "story",
-      "url": "http://www.tofuproxy.stargrave.org/"
-    },
-    "og_item": {
-      "title": "Too Many Requests",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30139793,
-    "title": "Dave Packard's Simple Rules for Getting Along with Others (2013)",
-    "url": "https://fs.blog/dave-packards-11-simple-rules/",
-    "time": 1643568051,
-    "image": "",
-    "icon": "https://149664534.v2.pressablecdn.com/wp-content/uploads/2015/06/cropped-farnamstreet-300x300.png",
-    "publisher": "Farnam Street",
-    "description": "These 11 simple rules for getting along with others were first presented by Dave Packard at HP's second annual management conference in 1958.",
-    "by": "Tomte",
-    "points": 8,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "pabs3",
-      "descendants": 11,
-      "id": 30134058,
-      "kids": [
-        30135407,
-        30135483,
-        30139645,
-        30134462
-      ],
-      "score": 57,
-      "time": 1643517260,
-      "title": "Tofuproxy – Web proxy, TLS terminator, X.509 TOFU manager, WARC/gemini browser",
-      "type": "story",
-      "url": "http://www.tofuproxy.stargrave.org/"
-    },
-    "og_item": {
-      "title": "11 Simple Rules For Getting Along With Others",
-      "type": "article",
-      "image": [],
-      "url": "https://fs.blog/dave-packards-11-simple-rules/",
-      "audio": [],
-      "description": "These 11 simple rules for getting along with others were first presented by Dave Packard at HP's second annual management conference in 1958.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Farnam Street",
-      "video": [],
-      "favicon": {
-        "url": "https://149664534.v2.pressablecdn.com/wp-content/uploads/2015/06/cropped-farnamstreet-300x300.png"
-      }
-    }
-  },
-  {
-    "id": 30139317,
-    "title": "QRImage: Web app to generate QR codes with images",
-    "url": "https://github.com/HughChen/qr_image",
-    "time": 1643565111,
-    "image": "https://opengraph.githubassets.com/2ec3fe4ca1d722af34ea26460a9acb18f536b07bd66c555fd223db8927e2747a/HughChen/qr_image",
-    "icon": "https://github.githubassets.com/favicons/favicon.svg",
-    "publisher": "GitHub",
-    "description": "A web app to generate valid QR codes with readable images. - GitHub - HughChen/qr_image: A web app to generate valid QR codes with readable images.",
-    "by": "modinfo",
-    "points": 8,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "pabs3",
-      "descendants": 11,
-      "id": 30134058,
-      "kids": [
-        30135407,
-        30135483,
-        30139645,
-        30134462
-      ],
-      "score": 57,
-      "time": 1643517260,
-      "title": "Tofuproxy – Web proxy, TLS terminator, X.509 TOFU manager, WARC/gemini browser",
-      "type": "story",
-      "url": "http://www.tofuproxy.stargrave.org/"
-    },
-    "og_item": {
-      "title": "GitHub - HughChen/qr_image: A web app to generate valid QR codes with readable images.",
-      "type": "object",
-      "image": [
-        {
-          "url": "https://opengraph.githubassets.com/2ec3fe4ca1d722af34ea26460a9acb18f536b07bd66c555fd223db8927e2747a/HughChen/qr_image",
-          "secure_url": "",
-          "type": "",
-          "width": 1200,
-          "height": 600,
-          "alt": ""
-        }
-      ],
-      "url": "https://github.com/HughChen/qr_image",
-      "audio": [],
-      "description": "A web app to generate valid QR codes with readable images. - GitHub - HughChen/qr_image: A web app to generate valid QR codes with readable images.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "GitHub",
-      "video": [],
-      "favicon": {
-        "url": "https://github.githubassets.com/favicons/favicon.svg"
       }
     }
   },
@@ -2902,6 +2857,60 @@
     }
   },
   {
+    "id": 30139317,
+    "title": "QRImage: Web app to generate QR codes with images",
+    "url": "https://github.com/HughChen/qr_image",
+    "time": 1643565111,
+    "image": "https://opengraph.githubassets.com/7254beb71b7c74898a4ed3a26d390db961d31a6003bd70bf2b702160cdf03c5b/HughChen/qr_image",
+    "icon": "https://github.githubassets.com/favicons/favicon.svg",
+    "publisher": "GitHub",
+    "description": "A web app to generate valid QR codes with readable images. - GitHub - HughChen/qr_image: A web app to generate valid QR codes with readable images.",
+    "by": "modinfo",
+    "points": 8,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "pabs3",
+      "descendants": 11,
+      "id": 30134058,
+      "kids": [
+        30135407,
+        30135483,
+        30139645,
+        30134462
+      ],
+      "score": 57,
+      "time": 1643517260,
+      "title": "Tofuproxy – Web proxy, TLS terminator, X.509 TOFU manager, WARC/gemini browser",
+      "type": "story",
+      "url": "http://www.tofuproxy.stargrave.org/"
+    },
+    "og_item": {
+      "title": "GitHub - HughChen/qr_image: A web app to generate valid QR codes with readable images.",
+      "type": "object",
+      "image": [
+        {
+          "url": "https://opengraph.githubassets.com/7254beb71b7c74898a4ed3a26d390db961d31a6003bd70bf2b702160cdf03c5b/HughChen/qr_image",
+          "secure_url": "",
+          "type": "",
+          "width": 1200,
+          "height": 600,
+          "alt": ""
+        }
+      ],
+      "url": "https://github.com/HughChen/qr_image",
+      "audio": [],
+      "description": "A web app to generate valid QR codes with readable images. - GitHub - HughChen/qr_image: A web app to generate valid QR codes with readable images.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "GitHub",
+      "video": [],
+      "favicon": {
+        "url": "https://github.githubassets.com/favicons/favicon.svg"
+      }
+    }
+  },
+  {
     "id": 30134790,
     "title": "One more small step toward the right to software repair",
     "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/",
@@ -2952,6 +2961,150 @@
       "video": [],
       "favicon": {
         "url": "/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30141460,
+    "title": "Royal Society cautions against censorship of scientific misinformation online",
+    "url": "https://royalsociety.org/news/2022/01/scientific-misinformation-report/",
+    "time": 1643579230,
+    "image": "https://royalsociety.org/images/Redesign2015/RSSocialShare.jpg",
+    "icon": "https://royalsociety.org/images/Main/favIcon.ico",
+    "publisher": "royalsociety.org",
+    "description": "The Online Information Environment report discusses how to limit the harm of scientific misinformation online",
+    "by": "steelstraw",
+    "points": 6,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "pabs3",
+      "descendants": 11,
+      "id": 30134058,
+      "kids": [
+        30135407,
+        30135483,
+        30139645,
+        30134462
+      ],
+      "score": 57,
+      "time": 1643517260,
+      "title": "Tofuproxy – Web proxy, TLS terminator, X.509 TOFU manager, WARC/gemini browser",
+      "type": "story",
+      "url": "http://www.tofuproxy.stargrave.org/"
+    },
+    "og_item": {
+      "title": "Royal Society cautions against censorship of scientific misinformation online | Royal Society",
+      "type": "website",
+      "image": [
+        {
+          "url": "https://royalsociety.org/images/Redesign2015/RSSocialShare.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://royalsociety.org/news/2022/01/scientific-misinformation-report/",
+      "audio": [],
+      "description": "The Online Information Environment report discusses how to limit the harm of scientific misinformation online",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/images/Main/favIcon.ico"
+      }
+    }
+  },
+  {
+    "id": 30137127,
+    "title": "Reducing the Size of Large PDFs",
+    "url": "https://leancrew.com/all-this/2022/01/reducing-the-size-of-large-pdfs/",
+    "time": 1643550336,
+    "image": "",
+    "icon": "https://leancrew.com/all-this/2022/01/reducing-the-size-of-large-pdfs/../../../resources/snowman-200.png",
+    "publisher": "leancrew.com",
+    "description": "",
+    "by": "ingve",
+    "points": 18,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "pabs3",
+      "descendants": 11,
+      "id": 30134058,
+      "kids": [
+        30135407,
+        30135483,
+        30139645,
+        30134462
+      ],
+      "score": 57,
+      "time": 1643517260,
+      "title": "Tofuproxy – Web proxy, TLS terminator, X.509 TOFU manager, WARC/gemini browser",
+      "type": "story",
+      "url": "http://www.tofuproxy.stargrave.org/"
+    },
+    "og_item": {
+      "title": "Reducing the size of large PDFs - All this",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "../../../resources/snowman-200.png"
+      }
+    }
+  },
+  {
+    "id": 30128061,
+    "title": "Nuanced communication usually doesn't work at scale",
+    "url": "https://twitter.com/danluu/status/1487228574608211969",
+    "time": 1643476385,
+    "image": "",
+    "icon": "https://abs.twimg.com/favicons/twitter.2.ico",
+    "publisher": "Twitter",
+    "description": "",
+    "by": "tagolli",
+    "points": 687,
+    "comment_count": 70,
+    "hn_item": {
+      "by": "pabs3",
+      "descendants": 11,
+      "id": 30134058,
+      "kids": [
+        30135407,
+        30135483,
+        30139645,
+        30134462
+      ],
+      "score": 57,
+      "time": 1643517260,
+      "title": "Tofuproxy – Web proxy, TLS terminator, X.509 TOFU manager, WARC/gemini browser",
+      "type": "story",
+      "url": "http://www.tofuproxy.stargrave.org/"
+    },
+    "og_item": {
+      "title": "",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Twitter",
+      "video": [],
+      "favicon": {
+        "url": "//abs.twimg.com/favicons/twitter.2.ico"
       }
     }
   },
@@ -3010,51 +3163,6 @@
     }
   },
   {
-    "id": 30128061,
-    "title": "Nuanced communication usually doesn't work at scale",
-    "url": "https://twitter.com/danluu/status/1487228574608211969",
-    "time": 1643476385,
-    "image": "",
-    "icon": "https://abs.twimg.com/favicons/twitter.2.ico",
-    "publisher": "Twitter",
-    "description": "",
-    "by": "tagolli",
-    "points": 687,
-    "comment_count": 70,
-    "hn_item": {
-      "by": "pabs3",
-      "descendants": 11,
-      "id": 30134058,
-      "kids": [
-        30135407,
-        30135483,
-        30139645,
-        30134462
-      ],
-      "score": 57,
-      "time": 1643517260,
-      "title": "Tofuproxy – Web proxy, TLS terminator, X.509 TOFU manager, WARC/gemini browser",
-      "type": "story",
-      "url": "http://www.tofuproxy.stargrave.org/"
-    },
-    "og_item": {
-      "title": "",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Twitter",
-      "video": [],
-      "favicon": {
-        "url": "//abs.twimg.com/favicons/twitter.2.ico"
-      }
-    }
-  },
-  {
     "id": 30139925,
     "title": "New Book called “What if? 2” by Xkcd creator Randall Munroe",
     "url": "https://www.amazon.com/What-Additional-Scientific-Hypothetical-Questions/dp/0525537112",
@@ -3064,7 +3172,7 @@
     "publisher": "amazon.com",
     "description": "What If? 2: Additional Serious Scientific Answers to Absurd Hypothetical Questions [Munroe, Randall] on Amazon.com. *FREE* shipping on qualifying offers. What If? 2: Additional Serious Scientific Answers to Absurd Hypothetical Questions",
     "by": "mccorrinall",
-    "points": 27,
+    "points": 28,
     "comment_count": 3,
     "hn_item": {
       "by": "pabs3",
@@ -3199,51 +3307,6 @@
     }
   },
   {
-    "id": 30137127,
-    "title": "Reducing the Size of Large PDFs",
-    "url": "https://leancrew.com/all-this/2022/01/reducing-the-size-of-large-pdfs/",
-    "time": 1643550336,
-    "image": "",
-    "icon": "https://leancrew.com/all-this/2022/01/reducing-the-size-of-large-pdfs/../../../resources/snowman-200.png",
-    "publisher": "leancrew.com",
-    "description": "",
-    "by": "ingve",
-    "points": 15,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "pabs3",
-      "descendants": 11,
-      "id": 30134058,
-      "kids": [
-        30135407,
-        30135483,
-        30139645,
-        30134462
-      ],
-      "score": 57,
-      "time": 1643517260,
-      "title": "Tofuproxy – Web proxy, TLS terminator, X.509 TOFU manager, WARC/gemini browser",
-      "type": "story",
-      "url": "http://www.tofuproxy.stargrave.org/"
-    },
-    "og_item": {
-      "title": "Reducing the size of large PDFs - All this",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "../../../resources/snowman-200.png"
-      }
-    }
-  },
-  {
     "id": 30131628,
     "title": "Phone is still the best way to order pizza",
     "url": "https://dan.bulwinkle.net/blog/phone-is-still-the-best-way-to-order-pizza/",
@@ -3336,60 +3399,6 @@
       "locale": "",
       "locale_alternate": [],
       "site_name": "Motor1.com",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30139041,
-    "title": "Colleges and universities across the US are moving to ban caste discrimination",
-    "url": "https://www.cnn.com/2022/01/30/us/csu-caste-protections-universities-cec/index.html",
-    "time": 1643563529,
-    "image": "https://cdn.cnn.com/cnnnext/dam/assets/220127184201-san-diego-state-university-file-2020-restricted-super-tease.jpg",
-    "icon": "https://www.cnn.com/favicon.ico",
-    "publisher": "CNN",
-    "description": "A tweak to California State University's anti-discrimination policy that quietly went into effect on January 1 acknowledges caste discrimination. Now that the largest university system in the country's most populous state has committed to caste protections, many hope the movement for caste equity…",
-    "by": "xqcgrek2",
-    "points": 24,
-    "comment_count": 6,
-    "hn_item": {
-      "by": "pabs3",
-      "descendants": 11,
-      "id": 30134058,
-      "kids": [
-        30135407,
-        30135483,
-        30139645,
-        30134462
-      ],
-      "score": 57,
-      "time": 1643517260,
-      "title": "Tofuproxy – Web proxy, TLS terminator, X.509 TOFU manager, WARC/gemini browser",
-      "type": "story",
-      "url": "http://www.tofuproxy.stargrave.org/"
-    },
-    "og_item": {
-      "title": "Colleges and universities across the US are moving to ban caste discrimination",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220127184201-san-diego-state-university-file-2020-restricted-super-tease.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 1100,
-          "height": 619,
-          "alt": ""
-        }
-      ],
-      "url": "https://www.cnn.com/2022/01/30/us/csu-caste-protections-universities-cec/index.html",
-      "audio": [],
-      "description": "A tweak to California State University's anti-discrimination policy that quietly went into effect on January 1 acknowledges caste discrimination. Now that the largest university system in the country's most populous state has committed to caste protections, many hope the movement for caste equity will continue to grow. ",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "CNN",
       "video": [],
       "favicon": {
         "url": "/favicon.ico"
