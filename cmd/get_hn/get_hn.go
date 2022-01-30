@@ -54,7 +54,7 @@ func main() {
 		fmt.Printf("Num Stories: %d\n\n", numStories)
 	}
 
-	items, err := hn_og_combo.GetTopStories(numStories)
+	items, err := hn_og_combo.GetTopStories(numStories, verbose)
 	if err != nil {
 		fmt.Printf("Problem getting top stories: %s\n", err)
 		return

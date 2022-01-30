@@ -27,7 +27,7 @@ type Item struct {
 	OGItem       *opengraph.OpenGraph `json:"og_item"`
 }
 
-func GetTopStories(numStories int) (items []Item, err error) {
+func GetTopStories(numStories int, verbose bool) (items []Item, err error) {
 	// Get top stories from Hacker News.
 	hnItems, err := hn.GetTopStories(numStories)
 	if err != nil {
@@ -74,7 +74,9 @@ func GetTopStories(numStories int) (items []Item, err error) {
 		correctData(&item)
 		items = append(items, item)
 
-		fmt.Printf(" %9d  %-30s  %s\n", item.ID, item.Publisher, item.Title)
+		if verbose {
+			fmt.Printf(" %9d  %-30s  %s\n", item.ID, item.Publisher, item.Title)
+		}
 	}
 	return
 }
