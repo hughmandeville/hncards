@@ -8,7 +8,6 @@ import (
 	"os"
 	"time"
 
-	"github.com/hughmandeville/hnui/pkg/github"
 	"github.com/hughmandeville/hnui/pkg/hn_og_combo"
 )
 
@@ -43,50 +42,33 @@ func main() {
 	flag.BoolVar(&verbose, "verbose", false, "verbose output")
 	flag.Parse()
 
-	if out == "github" && os.Getenv("GITHUB_TOKEN") == "" {
-		fmt.Printf("GITHUB_TOKEN environment variable must bet set when outputing to GitHub.\n")
-		return
-	}
+	fmt.Printf("Get Hacker News Top Stories\n")
+	fmt.Printf("---------------------------\n")
+	fmt.Printf("Output To:   %s\n", out)
+	fmt.Printf("Num Stories: %d\n\n", numStories)
 
-	if verbose {
-		fmt.Printf("Get Hacker News Top Stories\n")
-		fmt.Printf("---------------------------\n")
-		fmt.Printf("Output To:   %s\n", out)
-		fmt.Printf("Num Stories: %d\n\n", numStories)
-	}
-
-	items, err := hn_og_combo.GetTopStories(numStories, verbose)
-	if err != nil {
-		fmt.Printf("Problem getting top stories: %s\n", err)
-		return
-	}
-
-	if len(items) < 10 {
-		fmt.Printf("Hacker News API returned less than 10 stories, so not writing to %s.\n", filePath)
-		return
-	}
-
-	data, err := json.MarshalIndent(items, "", "  ")
-	if err != nil {
-		log.Fatalf("Problem marshalling items: %s", err)
-		return
-	}
-	fmt.Println()
 	if out == "github" {
-		ghc := github.NewGitHubController(os.Getenv("GITHUB_TOKEN"), "main", "hughmandeville", "hnui")
-		_, sha, err := ghc.GetFile(filePath)
+		err := hn_og_combo.SaveTopStoriesToGH(numStories, verbose)
 		if err != nil {
-			fmt.Printf("Problem getting data from GitHub: %s\n", err)
-		} else {
-			err = ghc.PutFile(filePath, data, sha)
-			if err != nil {
-				fmt.Printf("Problem committing data to GitHub: %s\n", err)
-			} else {
-				fmt.Printf("Committed:   %s (%d items, %d bytes).\n", filePath, len(items), len(data))
-			}
+			fmt.Printf("Problem saving top stories: %s\n", err)
+			return
 		}
-
+		fmt.Printf("File saved to GitHub.\n")
 	} else {
+		items, err := hn_og_combo.GetTopStories(numStories, verbose)
+		if err != nil {
+			fmt.Printf("Problem getting top stories: %s\n", err)
+			return
+		}
+		if len(items) < 10 {
+			fmt.Printf("Hacker News API returned less than 10 stories, so skipping.\n")
+			return
+		}
+		data, err := json.MarshalIndent(items, "", "  ")
+		if err != nil {
+			log.Fatalf("Problem marshalling items: %s", err)
+			return
+		}
 		err = os.WriteFile(filePath, data, 0644)
 		if err != nil {
 			log.Fatalf("Problem saving to file: %s", err)
@@ -94,8 +76,7 @@ func main() {
 		}
 		fmt.Printf("Wrote:       %s (%d items, %d bytes).\n", filePath, len(items), len(data))
 	}
-	if verbose {
-		fmt.Printf("Took:        %s\n", time.Since(start))
-		fmt.Println()
-	}
+
+	fmt.Printf("Took:        %s\n", time.Since(start))
+	fmt.Println()
 }
