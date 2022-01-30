@@ -5,7 +5,6 @@ import (
 	"fmt"
 	"log"
 	"net/url"
-	"os"
 	"strings"
 	"time"
 
@@ -31,14 +30,12 @@ type Item struct {
 }
 
 // Get top stories from Hacker News with Open Graph data and save to GitHub.
-func SaveTopStoriesToGH(numStories int, verbose bool) (err error) {
-	filePath := "client/public/hn_topstories.json"
-	ghToken := os.Getenv("GITHUB_TOKEN")
+func SaveTopStoriesToGH(ghToken string, numStories int, verbose bool) (err error) {
 	if ghToken == "" {
-		err = fmt.Errorf("GITHUB_TOKEN environment variable not set")
+		err = fmt.Errorf("ghToken is empty")
 		return
 	}
-
+	filePath := "client/public/hn_topstories.json"
 	items, err := GetTopStories(numStories, verbose)
 	if err != nil {
 		return
