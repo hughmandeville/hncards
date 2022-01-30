@@ -1,12 +1,15 @@
 package hn_og_combo
 
 import (
+	"encoding/json"
 	"fmt"
 	"log"
 	"net/url"
+	"os"
 	"strings"
 	"time"
 
+	"github.com/hughmandeville/hnui/pkg/github"
 	hn "github.com/hughmandeville/hnui/pkg/hackernews"
 	"github.com/otiai10/opengraph/v2"
 )
@@ -27,6 +30,38 @@ type Item struct {
 	OGItem       *opengraph.OpenGraph `json:"og_item"`
 }
 
+// Get top stories from Hacker News with Open Graph data and save to GitHub.
+func SaveTopStoriesToGH(numStories int, verbose bool) (err error) {
+	filePath := "client/public/hn_topstories.json"
+	ghToken := os.Getenv("GITHUB_TOKEN")
+	if ghToken == "" {
+		err = fmt.Errorf("GITHUB_TOKEN environment variable not set")
+		return
+	}
+
+	items, err := GetTopStories(numStories, verbose)
+	if err != nil {
+		return
+	}
+	if len(items) < 10 {
+		err = fmt.Errorf("skipping Hacker News API returned less than 10 stories")
+		return
+	}
+	data, err := json.MarshalIndent(items, "", "  ")
+	if err != nil {
+		return
+	}
+
+	ghc := github.NewGitHubController(ghToken, "main", "hughmandeville", "hnui")
+	_, sha, err := ghc.GetFile(filePath)
+	if err != nil {
+		return
+	}
+	err = ghc.PutFile(filePath, data, sha)
+	return
+}
+
+// Gets the Top Stories data from Hacker News with Open Graph data.
 func GetTopStories(numStories int, verbose bool) (items []Item, err error) {
 	// Get top stories from Hacker News.
 	hnItems, err := hn.GetTopStories(numStories)
