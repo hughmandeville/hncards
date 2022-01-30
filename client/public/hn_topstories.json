@@ -1,5 +1,47 @@
 [
   {
+    "id": 30140984,
+    "title": "A UX designer walks into a Tesla Bar",
+    "url": "https://jenson.org/tesla/",
+    "time": 1643576121,
+    "image": "",
+    "icon": "https://jenson.org/wp-content/uploads/2015/09/out-200x200.png",
+    "publisher": "jenson.org",
+    "description": "",
+    "by": "radley",
+    "points": 111,
+    "comment_count": 23,
+    "hn_item": {
+      "by": "anfal_alatawi",
+      "descendants": 1,
+      "id": 30136844,
+      "kids": [
+        30136845
+      ],
+      "score": 15,
+      "time": 1643548001,
+      "title": "Knowledge Bases for Software Teams: What, Why and How?",
+      "type": "story",
+      "url": "https://anfalatawi.github.io/Docs/"
+    },
+    "og_item": {
+      "title": "A UX designer walks into a Tesla Bar – Scott Jenson",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "https://jenson.org/wp-content/uploads/2015/09/out-200x200.png"
+      }
+    }
+  },
+  {
     "id": 30137984,
     "title": "Show HN: Web page that parses and explains the label on a bike tire",
     "url": "https://fahrrad-tools.de/tire.html",
@@ -9,20 +51,20 @@
     "publisher": "fahrrad-tools.de",
     "description": "Which tire fits my bike? Tires are always flat and now buy a tire with puncture protection? Find the right tire now!",
     "by": "moasda",
-    "points": 190,
-    "comment_count": 17,
+    "points": 395,
+    "comment_count": 36,
     "hn_item": {
-      "by": "drdee",
-      "descendants": 3,
-      "id": 30110655,
+      "by": "anfal_alatawi",
+      "descendants": 1,
+      "id": 30136844,
       "kids": [
-        30137570
+        30136845
       ],
-      "score": 17,
-      "time": 1643343398,
-      "title": "Possible Ninja Weapon Prototypes Discovered Among the Ruins of Castles in Japan",
+      "score": 15,
+      "time": 1643548001,
+      "title": "Knowledge Bases for Software Teams: What, Why and How?",
       "type": "story",
-      "url": "https://allthatsinteresting.com/ninja-weapons-prototypes"
+      "url": "https://anfalatawi.github.io/Docs/"
     },
     "og_item": {
       "title": "Bike Tire | Fahrrad-Tools.de",
@@ -42,6 +84,57 @@
     }
   },
   {
+    "id": 30137720,
+    "title": "U.S. companies are hiring Latin America’s tech talent",
+    "url": "https://restofworld.org/2022/latin-america-startup-developer-scarcity/",
+    "time": 1643554658,
+    "image": "https://149346090.v2.pressablecdn.com/wp-content/uploads/2022/01/GettyImages-531336444-1600x900.jpg",
+    "icon": "https://149346090.v2.pressablecdn.com/wp-content/themes/orbis/assets/icons/icon-196.png",
+    "publisher": "Rest of World",
+    "description": "As a hedge against American talent poachers, some exasperated founders are recruiting developers who can’t speak English.",
+    "by": "braco_alva",
+    "points": 105,
+    "comment_count": 26,
+    "hn_item": {
+      "by": "anfal_alatawi",
+      "descendants": 1,
+      "id": 30136844,
+      "kids": [
+        30136845
+      ],
+      "score": 15,
+      "time": 1643548001,
+      "title": "Knowledge Bases for Software Teams: What, Why and How?",
+      "type": "story",
+      "url": "https://anfalatawi.github.io/Docs/"
+    },
+    "og_item": {
+      "title": "“It’s a bloodbath”: U.S. companies are pillaging Latin America’s tech talent",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://149346090.v2.pressablecdn.com/wp-content/uploads/2022/01/GettyImages-531336444-1600x900.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 1600,
+          "height": 900,
+          "alt": ""
+        }
+      ],
+      "url": "https://restofworld.org/2022/latin-america-startup-developer-scarcity/",
+      "audio": [],
+      "description": "As a hedge against American talent poachers, some exasperated founders are recruiting developers who can’t speak English.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Rest of World",
+      "video": [],
+      "favicon": {
+        "url": "https://149346090.v2.pressablecdn.com/wp-content/themes/orbis/assets/icons/icon-196.png"
+      }
+    }
+  },
+  {
     "id": 30138533,
     "title": "Hypercard Simulator",
     "url": "https://hypercardsimulator.com/",
@@ -51,20 +144,20 @@
     "publisher": "hypercardsimulator.com",
     "description": "",
     "by": "alexmingoia",
-    "points": 60,
-    "comment_count": 4,
+    "points": 142,
+    "comment_count": 12,
     "hn_item": {
-      "by": "drdee",
-      "descendants": 3,
-      "id": 30110655,
+      "by": "anfal_alatawi",
+      "descendants": 1,
+      "id": 30136844,
       "kids": [
-        30137570
+        30136845
       ],
-      "score": 17,
-      "time": 1643343398,
-      "title": "Possible Ninja Weapon Prototypes Discovered Among the Ruins of Castles in Japan",
+      "score": 15,
+      "time": 1643548001,
+      "title": "Knowledge Bases for Software Teams: What, Why and How?",
       "type": "story",
-      "url": "https://allthatsinteresting.com/ninja-weapons-prototypes"
+      "url": "https://anfalatawi.github.io/Docs/"
     },
     "og_item": {
       "title": "HyperCardSimulator",
@@ -84,36 +177,231 @@
     }
   },
   {
+    "id": 30134367,
+    "title": "The case of the mysterious --help directory (2020)",
+    "url": "https://leahneukirchen.org/blog/archive/2020/05/the-case-of-the-mysterious-help-directory.html",
+    "time": 1643520785,
+    "image": "",
+    "icon": "https://leahneukirchen.org/favicon.ico",
+    "publisher": "leahneukirchen.org",
+    "description": "",
+    "by": "panic",
+    "points": 60,
+    "comment_count": 4,
+    "hn_item": {
+      "by": "anfal_alatawi",
+      "descendants": 1,
+      "id": 30136844,
+      "kids": [
+        30136845
+      ],
+      "score": 15,
+      "time": 1643548001,
+      "title": "Knowledge Bases for Software Teams: What, Why and How?",
+      "type": "story",
+      "url": "https://anfalatawi.github.io/Docs/"
+    },
+    "og_item": {
+      "title": "leah blogs: The case of the mysterious --help directory",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30140464,
+    "title": "The Great Unconformity: Research points to glaciers being the culprit",
+    "url": "https://www.vice.com/en/article/wxdzzb/a-billion-years-of-time-are-mysteriously-missing-scientists-think-they-know-why",
+    "time": 1643572375,
+    "image": "https://video-images.vice.com/articles/61f2a92be1de8b0094f51e5e/lede/1643293461145-screen-shot-2022-01-27-at-92341-am.png?image-resize-opts=Y3JvcD0xeHc6MC44NDUxeGg7MHh3LDAuMTE0OXhoJnJlc2l6ZT0xMjAwOiomcmVzaXplPTEyMDA6Kg",
+    "icon": "https://vice-web-statics-cdn.vice.com/favicons/vice/favicon-16x16.png",
+    "publisher": "Vice",
+    "description": "The Great Unconformity has baffled geologists for a century. New research points to glaciers being the culprit.",
+    "by": "cbkeller",
+    "points": 26,
+    "comment_count": 3,
+    "hn_item": {
+      "by": "anfal_alatawi",
+      "descendants": 1,
+      "id": 30136844,
+      "kids": [
+        30136845
+      ],
+      "score": 15,
+      "time": 1643548001,
+      "title": "Knowledge Bases for Software Teams: What, Why and How?",
+      "type": "story",
+      "url": "https://anfalatawi.github.io/Docs/"
+    },
+    "og_item": {
+      "title": "A Billion Years of Time Are Mysteriously Missing. Scientists Think They Know Why.",
+      "type": "website",
+      "image": [
+        {
+          "url": "https://video-images.vice.com/articles/61f2a92be1de8b0094f51e5e/lede/1643293461145-screen-shot-2022-01-27-at-92341-am.png?image-resize-opts=Y3JvcD0xeHc6MC44NDUxeGg7MHh3LDAuMTE0OXhoJnJlc2l6ZT0xMjAwOiomcmVzaXplPTEyMDA6Kg",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://www.vice.com/en/article/wxdzzb/a-billion-years-of-time-are-mysteriously-missing-scientists-think-they-know-why",
+      "audio": [],
+      "description": "The Great Unconformity has baffled geologists for a century. New research points to glaciers being the culprit.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "https://vice-web-statics-cdn.vice.com/favicons/vice/favicon-16x16.png"
+      }
+    }
+  },
+  {
+    "id": 30141022,
+    "title": "BuildZoom (better way to build custom homes) Is hiring a Principal Engineer",
+    "url": "https://jobs.lever.co/buildzoom",
+    "time": 1643576404,
+    "image": "https://lever-client-logos.s3.amazonaws.com/a3b2b6dd-16cf-45aa-a206-a4216631569d-1492712480375.png",
+    "icon": "https://jobs.lever.co/favicon.ico",
+    "publisher": "jobs.lever.co",
+    "description": "Job openings at BuildZoom",
+    "by": "the_economist",
+    "points": 1,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "anfal_alatawi",
+      "descendants": 1,
+      "id": 30136844,
+      "kids": [
+        30136845
+      ],
+      "score": 15,
+      "time": 1643548001,
+      "title": "Knowledge Bases for Software Teams: What, Why and How?",
+      "type": "story",
+      "url": "https://anfalatawi.github.io/Docs/"
+    },
+    "og_item": {
+      "title": "BuildZoom jobs",
+      "type": "",
+      "image": [
+        {
+          "url": "https://lever-client-logos.s3.amazonaws.com/a3b2b6dd-16cf-45aa-a206-a4216631569d-1492712480375.png",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 200,
+          "alt": ""
+        }
+      ],
+      "url": "https://jobs.lever.co/buildzoom",
+      "audio": [],
+      "description": "Job openings at BuildZoom",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30140270,
+    "title": "When the algorithm is your boss",
+    "url": "https://tribunemag.co.uk/2022/01/amazon-algorithm-human-resource-management-tech-worker-surveillance",
+    "time": 1643570984,
+    "image": "https://images.jacobinmag.com/wp-content/uploads/sites/4/2022/01/26134053/GettyImages-454598586.jpg",
+    "icon": "https://tribunemag.co.uk/static/img/logo/logo-favicon.png",
+    "publisher": "tribunemag.co.uk",
+    "description": "At workplaces like Amazon, algorithms have become the worst kind of boss – one who watches you constantly, makes impossible demands and then sacks you without explanation.",
+    "by": "jrepinc",
+    "points": 34,
+    "comment_count": 2,
+    "hn_item": {
+      "by": "anfal_alatawi",
+      "descendants": 1,
+      "id": 30136844,
+      "kids": [
+        30136845
+      ],
+      "score": 15,
+      "time": 1643548001,
+      "title": "Knowledge Bases for Software Teams: What, Why and How?",
+      "type": "story",
+      "url": "https://anfalatawi.github.io/Docs/"
+    },
+    "og_item": {
+      "title": "When the Algorithm Is Your Boss",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://images.jacobinmag.com/wp-content/uploads/sites/4/2022/01/26134053/GettyImages-454598586.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://tribunemag.co.uk/2022/01/amazon-algorithm-human-resource-management-tech-worker-surveillance",
+      "audio": [],
+      "description": "At workplaces like Amazon, algorithms have become the worst kind of boss – one who watches you constantly, makes impossible demands and then sacks you without explanation.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/static/img/logo/logo-favicon.png"
+      }
+    }
+  },
+  {
     "id": 30138434,
-    "title": "Beancount: Double-Entry Accounting from Text Files",
+    "title": "Beancount: Double-entry accounting from text files",
     "url": "https://github.com/beancount/beancount",
     "time": 1643559445,
-    "image": "https://opengraph.githubassets.com/072202c2ca0a700b02b2ccc2104220e671314e9b839726bf6d864b543cba5cb8/beancount/beancount",
+    "image": "https://opengraph.githubassets.com/8191a8c59d4692ca3b89d06ddc647a757cb9c8dea755abc54075f53d10821542/beancount/beancount",
     "icon": "https://github.githubassets.com/favicons/favicon.svg",
     "publisher": "GitHub",
     "description": "Beancount: Double-Entry Accounting from Text Files. - GitHub - beancount/beancount: Beancount: Double-Entry Accounting from Text Files.",
     "by": "techtalsky",
-    "points": 32,
-    "comment_count": 8,
+    "points": 117,
+    "comment_count": 14,
     "hn_item": {
-      "by": "drdee",
-      "descendants": 3,
-      "id": 30110655,
+      "by": "anfal_alatawi",
+      "descendants": 1,
+      "id": 30136844,
       "kids": [
-        30137570
+        30136845
       ],
-      "score": 17,
-      "time": 1643343398,
-      "title": "Possible Ninja Weapon Prototypes Discovered Among the Ruins of Castles in Japan",
+      "score": 15,
+      "time": 1643548001,
+      "title": "Knowledge Bases for Software Teams: What, Why and How?",
       "type": "story",
-      "url": "https://allthatsinteresting.com/ninja-weapons-prototypes"
+      "url": "https://anfalatawi.github.io/Docs/"
     },
     "og_item": {
       "title": "GitHub - beancount/beancount: Beancount: Double-Entry Accounting from Text Files.",
       "type": "object",
       "image": [
         {
-          "url": "https://opengraph.githubassets.com/072202c2ca0a700b02b2ccc2104220e671314e9b839726bf6d864b543cba5cb8/beancount/beancount",
+          "url": "https://opengraph.githubassets.com/8191a8c59d4692ca3b89d06ddc647a757cb9c8dea755abc54075f53d10821542/beancount/beancount",
           "secure_url": "",
           "type": "",
           "width": 1200,
@@ -135,147 +423,36 @@
     }
   },
   {
-    "id": 30137864,
-    "title": "Midnight Commander Tips and Tricks",
-    "url": "http://www.softpanorama.org/OFM/MC/mc_tips.shtml",
-    "time": 1643555741,
-    "image": "",
-    "icon": "",
-    "publisher": "softpanorama.org",
-    "description": "",
-    "by": "ingve",
-    "points": 52,
-    "comment_count": 9,
-    "hn_item": {
-      "by": "drdee",
-      "descendants": 3,
-      "id": 30110655,
-      "kids": [
-        30137570
-      ],
-      "score": 17,
-      "time": 1643343398,
-      "title": "Possible Ninja Weapon Prototypes Discovered Among the Ruins of Castles in Japan",
-      "type": "story",
-      "url": "https://allthatsinteresting.com/ninja-weapons-prototypes"
-    },
-    "og_item": {
-      "title": "Midnight Commander Tips and Tricks",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30138468,
-    "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
-    "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf",
-    "time": 1643559712,
-    "image": "",
-    "icon": "",
-    "publisher": "win.tue.nl",
-    "description": "",
-    "by": "camnora",
-    "points": 27,
-    "comment_count": 2,
-    "hn_item": {
-      "by": "drdee",
-      "descendants": 3,
-      "id": 30110655,
-      "kids": [
-        30137570
-      ],
-      "score": 17,
-      "time": 1643343398,
-      "title": "Possible Ninja Weapon Prototypes Discovered Among the Ruins of Castles in Japan",
-      "type": "story",
-      "url": "https://allthatsinteresting.com/ninja-weapons-prototypes"
-    },
-    "og_item": null
-  },
-  {
-    "id": 30138277,
-    "title": "Setup a Website with Nim (2019)",
-    "url": "https://ttj.dk/blog/2019/01/20/setup-a-website-with-nim",
-    "time": 1643558464,
-    "image": "",
-    "icon": "https://ttj.dk/images/favicon-ttj.png",
-    "publisher": "ttj.dk",
-    "description": "This small tutorial will help you create a website with Nim. We'll use libraries from the standard library and some externals from Nim-users. You will learn to create a small webserver with an admin user who has access to the secret area.",
-    "by": "melissalobos",
+    "id": 30119925,
+    "title": "Message in a bottle from Scottish girl found in Norway after 25 years",
+    "url": "https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-60121185",
+    "time": 1643401844,
+    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/16512/production/_123001419_joanna2.jpg",
+    "icon": "https://www.bbc.co.uk/favicon.ico",
+    "publisher": "BBC News",
+    "description": "The bottle Joanna Buchan dropped in the sea at Peterhead when she was eight has washed up in Norway.",
+    "by": "LinuxBender",
     "points": 32,
     "comment_count": 5,
     "hn_item": {
-      "by": "drdee",
-      "descendants": 3,
-      "id": 30110655,
+      "by": "anfal_alatawi",
+      "descendants": 1,
+      "id": 30136844,
       "kids": [
-        30137570
+        30136845
       ],
-      "score": 17,
-      "time": 1643343398,
-      "title": "Possible Ninja Weapon Prototypes Discovered Among the Ruins of Castles in Japan",
+      "score": 15,
+      "time": 1643548001,
+      "title": "Knowledge Bases for Software Teams: What, Why and How?",
       "type": "story",
-      "url": "https://allthatsinteresting.com/ninja-weapons-prototypes"
+      "url": "https://anfalatawi.github.io/Docs/"
     },
     "og_item": {
-      "title": " Nim tutorial for setting up a website. ",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "This small tutorial will help you create a website with Nim. We'll use libraries from the standard library and some externals from Nim-users. You will learn to create a small webserver with an admin user who has access to the secret area.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/images/favicon-ttj.png"
-      }
-    }
-  },
-  {
-    "id": 30125933,
-    "title": "Dataset and Model for “I built a system to take photos of planes over my house”",
-    "url": "https://universe.roboflow.com/skybot-cam/overhead-plane-detector",
-    "time": 1643461275,
-    "image": "https://storage.googleapis.com/roboflow-platform-sources/maZc6wDMWx22k97NXin0/au2uG2Q36nwt1EybZdwS/original.jpg",
-    "icon": "https://universe.roboflow.com/favicon.ico",
-    "publisher": "Roboflow",
-    "description": "Download 250 free images labeled with bounding boxes for object detection.",
-    "by": "yeldarb",
-    "points": 60,
-    "comment_count": 1,
-    "hn_item": {
-      "by": "drdee",
-      "descendants": 3,
-      "id": 30110655,
-      "kids": [
-        30137570
-      ],
-      "score": 17,
-      "time": 1643343398,
-      "title": "Possible Ninja Weapon Prototypes Discovered Among the Ruins of Castles in Japan",
-      "type": "story",
-      "url": "https://allthatsinteresting.com/ninja-weapons-prototypes"
-    },
-    "og_item": {
-      "title": "Overhead Plane Detector Object Detection Dataset",
-      "type": "website",
+      "title": "Message in a bottle from Scottish girl found in Norway after 25 years",
+      "type": "article",
       "image": [
         {
-          "url": "https://storage.googleapis.com/roboflow-platform-sources/maZc6wDMWx22k97NXin0/au2uG2Q36nwt1EybZdwS/original.jpg",
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/16512/production/_123001419_joanna2.jpg",
           "secure_url": "",
           "type": "",
           "width": 0,
@@ -283,13 +460,13 @@
           "alt": ""
         }
       ],
-      "url": "https://universe.roboflow.com/skybot-cam/overhead-plane-detector",
+      "url": "https://www.bbc.com/news/uk-scotland-north-east-orkney-shetland-60121185",
       "audio": [],
-      "description": "Download 250 free images labeled with bounding boxes for object detection.",
+      "description": "The bottle Joanna Buchan dropped in the sea at Peterhead when she was eight has washed up in Norway.",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "Roboflow",
+      "site_name": "BBC News",
       "video": [],
       "favicon": {
         "url": "/favicon.ico"
@@ -297,59 +474,8 @@
     }
   },
   {
-    "id": 30138797,
-    "title": "OneSignal (YC S11) is hiring engineers with distributed systems experience",
-    "url": "https://onesignal.com/careers/9e1d251c-c1f9-49c7-98e9-c883e519f902",
-    "time": 1643562012,
-    "image": "https://media.onesignal.com/cms/_1200x630_crop_center-center_82_none/OneSignal-Facebook.png",
-    "icon": "https://onesignal.com/favicon-16x16.png",
-    "publisher": "OneSignal",
-    "description": "The world's leader for mobile push notifications, web push, SMS, email and in-app messaging. Trusted by 1 million+ businesses to send 10 billion messages per day.",
-    "by": "gdeglin",
-    "points": 1,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "drdee",
-      "descendants": 3,
-      "id": 30110655,
-      "kids": [
-        30137570
-      ],
-      "score": 17,
-      "time": 1643343398,
-      "title": "Possible Ninja Weapon Prototypes Discovered Among the Ruins of Castles in Japan",
-      "type": "story",
-      "url": "https://allthatsinteresting.com/ninja-weapons-prototypes"
-    },
-    "og_item": {
-      "title": "High Volume Mobile and Web Push Notifications",
-      "type": "website",
-      "image": [
-        {
-          "url": "https://media.onesignal.com/cms/_1200x630_crop_center-center_82_none/OneSignal-Facebook.png",
-          "secure_url": "",
-          "type": "",
-          "width": 1200,
-          "height": 630,
-          "alt": ""
-        }
-      ],
-      "url": "https://onesignal.com/careers/9e1d251c-c1f9-49c7-98e9-c883e519f902",
-      "audio": [],
-      "description": "The world's leader for mobile push notifications, web push, SMS, email and in-app messaging. Trusted by 1 million+ businesses to send 10 billion messages per day.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "OneSignal",
-      "video": [],
-      "favicon": {
-        "url": "/favicon-16x16.png"
-      }
-    }
-  },
-  {
     "id": 30137681,
-    "title": "In Defence of the Boring Web",
+    "title": "In defence of the boring web",
     "url": "https://bastian.rieck.me/blog/posts/2022/boring/",
     "time": 1643554351,
     "image": "",
@@ -357,20 +483,20 @@
     "publisher": "bastian.rieck.me",
     "description": "",
     "by": "Topolomancer",
-    "points": 48,
-    "comment_count": 8,
+    "points": 119,
+    "comment_count": 19,
     "hn_item": {
-      "by": "drdee",
-      "descendants": 3,
-      "id": 30110655,
+      "by": "anfal_alatawi",
+      "descendants": 1,
+      "id": 30136844,
       "kids": [
-        30137570
+        30136845
       ],
-      "score": 17,
-      "time": 1643343398,
-      "title": "Possible Ninja Weapon Prototypes Discovered Among the Ruins of Castles in Japan",
+      "score": 15,
+      "time": 1643548001,
+      "title": "Knowledge Bases for Software Teams: What, Why and How?",
       "type": "story",
-      "url": "https://allthatsinteresting.com/ninja-weapons-prototypes"
+      "url": "https://anfalatawi.github.io/Docs/"
     },
     "og_item": {
       "title": "In Defence of the Boring Web",
@@ -390,83 +516,32 @@
     }
   },
   {
-    "id": 30138420,
-    "title": "Autonomous battery-powered rail cars",
-    "url": "https://arstechnica.com/cars/2022/01/moving-more-with-less-freight-startup-bets-on-autonomous-electric-rail-cars/",
-    "time": 1643559370,
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/01/Parallel_Landscape_cropped-e1642613980939-760x380.jpg",
-    "icon": "https://cdn.arstechnica.net/wp-content/themes/ars/assets/img/material-ars-db41652381.png",
-    "publisher": "Ars Technica",
-    "description": "Advances in batteries, autonomy could extend the reach of freight railroads.",
-    "by": "vanburen",
-    "points": 22,
-    "comment_count": 7,
-    "hn_item": {
-      "by": "drdee",
-      "descendants": 3,
-      "id": 30110655,
-      "kids": [
-        30137570
-      ],
-      "score": 17,
-      "time": 1643343398,
-      "title": "Possible Ninja Weapon Prototypes Discovered Among the Ruins of Castles in Japan",
-      "type": "story",
-      "url": "https://allthatsinteresting.com/ninja-weapons-prototypes"
-    },
-    "og_item": {
-      "title": "Autonomous battery-powered rail cars could steal shipments from truckers",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/01/Parallel_Landscape_cropped-e1642613980939-760x380.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://arstechnica.com/cars/2022/01/moving-more-with-less-freight-startup-bets-on-autonomous-electric-rail-cars/",
-      "audio": [],
-      "description": "Advances in batteries, autonomy could extend the reach of freight railroads.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Ars Technica",
-      "video": [],
-      "favicon": {
-        "url": "https://cdn.arstechnica.net/wp-content/themes/ars/assets/img/material-ars-db41652381.png"
-      }
-    }
-  },
-  {
-    "id": 30120857,
-    "title": "Writing an Efficient Vulkan Renderer",
-    "url": "https://zeux.io/2020/02/27/writing-an-efficient-vulkan-renderer/",
-    "time": 1643406697,
+    "id": 30137864,
+    "title": "Midnight Commander Tips and Tricks",
+    "url": "http://www.softpanorama.org/OFM/MC/mc_tips.shtml",
+    "time": 1643555741,
     "image": "",
-    "icon": "https://zeux.io/2020/02/27/writing-an-efficient-vulkan-renderer/data:;base64,iVBORw0KGgo=",
-    "publisher": "zeux.io",
+    "icon": "",
+    "publisher": "softpanorama.org",
     "description": "",
-    "by": "nabla9",
-    "points": 24,
-    "comment_count": 0,
+    "by": "ingve",
+    "points": 110,
+    "comment_count": 17,
     "hn_item": {
-      "by": "drdee",
-      "descendants": 3,
-      "id": 30110655,
+      "by": "anfal_alatawi",
+      "descendants": 1,
+      "id": 30136844,
       "kids": [
-        30137570
+        30136845
       ],
-      "score": 17,
-      "time": 1643343398,
-      "title": "Possible Ninja Weapon Prototypes Discovered Among the Ruins of Castles in Japan",
+      "score": 15,
+      "time": 1643548001,
+      "title": "Knowledge Bases for Software Teams: What, Why and How?",
       "type": "story",
-      "url": "https://allthatsinteresting.com/ninja-weapons-prototypes"
+      "url": "https://anfalatawi.github.io/Docs/"
     },
     "og_item": {
-      "title": "\n    zeux.io - Writing an efficient Vulkan renderer\n  ",
+      "title": "Midnight Commander Tips and Tricks",
       "type": "",
       "image": [],
       "url": "",
@@ -478,9 +553,87 @@
       "site_name": "",
       "video": [],
       "favicon": {
-        "url": "data:;base64,iVBORw0KGgo="
+        "url": "/favicon.ico"
       }
     }
+  },
+  {
+    "id": 30120901,
+    "title": "Using tree data structures to implement terminal split panes",
+    "url": "https://blog.warp.dev/using-tree-data-structures-to-implement-terminal-split-panes-more-fun-than-it-sounds/",
+    "time": 1643406883,
+    "image": "https://blog.warp.dev/content/images/2022/01/terminal_split_panes.png",
+    "icon": "https://blog.warp.dev/favicon.png",
+    "publisher": "Warp - Blog",
+    "description": "This is how we used tree data structures to build split panes in our terminal app.",
+    "by": "lukastyrychtr",
+    "points": 30,
+    "comment_count": 5,
+    "hn_item": {
+      "by": "anfal_alatawi",
+      "descendants": 1,
+      "id": 30136844,
+      "kids": [
+        30136845
+      ],
+      "score": 15,
+      "time": 1643548001,
+      "title": "Knowledge Bases for Software Teams: What, Why and How?",
+      "type": "story",
+      "url": "https://anfalatawi.github.io/Docs/"
+    },
+    "og_item": {
+      "title": "Using tree data structures to implement terminal split panes - more fun than it sounds",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://blog.warp.dev/content/images/2022/01/terminal_split_panes.png",
+          "secure_url": "",
+          "type": "",
+          "width": 1600,
+          "height": 1133,
+          "alt": ""
+        }
+      ],
+      "url": "https://blog.warp.dev/using-tree-data-structures-to-implement-terminal-split-panes-more-fun-than-it-sounds/",
+      "audio": [],
+      "description": "This is how we used tree data structures to build split panes in our terminal app.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Warp - Blog",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.png"
+      }
+    }
+  },
+  {
+    "id": 30138468,
+    "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
+    "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf",
+    "time": 1643559712,
+    "image": "",
+    "icon": "",
+    "publisher": "win.tue.nl",
+    "description": "",
+    "by": "camnora",
+    "points": 73,
+    "comment_count": 7,
+    "hn_item": {
+      "by": "anfal_alatawi",
+      "descendants": 1,
+      "id": 30136844,
+      "kids": [
+        30136845
+      ],
+      "score": 15,
+      "time": 1643548001,
+      "title": "Knowledge Bases for Software Teams: What, Why and How?",
+      "type": "story",
+      "url": "https://anfalatawi.github.io/Docs/"
+    },
+    "og_item": null
   },
   {
     "id": 30122128,
@@ -492,20 +645,20 @@
     "publisher": "Eurogamer.net",
     "description": "",
     "by": "atombender",
-    "points": 68,
-    "comment_count": 11,
+    "points": 156,
+    "comment_count": 22,
     "hn_item": {
-      "by": "drdee",
-      "descendants": 3,
-      "id": 30110655,
+      "by": "anfal_alatawi",
+      "descendants": 1,
+      "id": 30136844,
       "kids": [
-        30137570
+        30136845
       ],
-      "score": 17,
-      "time": 1643343398,
-      "title": "Possible Ninja Weapon Prototypes Discovered Among the Ruins of Castles in Japan",
+      "score": 15,
+      "time": 1643548001,
+      "title": "Knowledge Bases for Software Teams: What, Why and How?",
       "type": "story",
-      "url": "https://allthatsinteresting.com/ninja-weapons-prototypes"
+      "url": "https://anfalatawi.github.io/Docs/"
     },
     "og_item": {
       "title": "Sega quits Japanese arcade business after 50 years",
@@ -534,83 +687,32 @@
     }
   },
   {
-    "id": 30136969,
-    "title": "GoSTL: Algorithm and datastructure library for Go similar to C++ STL",
-    "url": "https://github.com/liyue201/gostl",
-    "time": 1643549145,
-    "image": "https://opengraph.githubassets.com/319b1dcb3a1c931082ed7a954cb597b45f12be87375fc74016b7487f44572fa0/liyue201/gostl",
-    "icon": "https://github.githubassets.com/favicons/favicon.svg",
-    "publisher": "GitHub",
-    "description": "Data structure and algorithm library for go, designed to provide functions similar to C++ STL - GitHub - liyue201/gostl: Data structure and algorithm library for go, designed to provide functions s...",
-    "by": "gmgn",
-    "points": 55,
-    "comment_count": 8,
-    "hn_item": {
-      "by": "drdee",
-      "descendants": 3,
-      "id": 30110655,
-      "kids": [
-        30137570
-      ],
-      "score": 17,
-      "time": 1643343398,
-      "title": "Possible Ninja Weapon Prototypes Discovered Among the Ruins of Castles in Japan",
-      "type": "story",
-      "url": "https://allthatsinteresting.com/ninja-weapons-prototypes"
-    },
-    "og_item": {
-      "title": "GitHub - liyue201/gostl: Data structure and algorithm library for go, designed to provide functions similar to C++ STL",
-      "type": "object",
-      "image": [
-        {
-          "url": "https://opengraph.githubassets.com/319b1dcb3a1c931082ed7a954cb597b45f12be87375fc74016b7487f44572fa0/liyue201/gostl",
-          "secure_url": "",
-          "type": "",
-          "width": 1200,
-          "height": 600,
-          "alt": ""
-        }
-      ],
-      "url": "https://github.com/liyue201/gostl",
-      "audio": [],
-      "description": "Data structure and algorithm library for go, designed to provide functions similar to C++ STL - GitHub - liyue201/gostl: Data structure and algorithm library for go, designed to provide functions s...",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "GitHub",
-      "video": [],
-      "favicon": {
-        "url": "https://github.githubassets.com/favicons/favicon.svg"
-      }
-    }
-  },
-  {
-    "id": 30139142,
-    "title": "SBCL: New in Version 2.2.1",
-    "url": "http://www.sbcl.org/all-news.html?2.2.1#2.2.1",
-    "time": 1643564118,
+    "id": 30139734,
+    "title": "Show the case against",
+    "url": "https://www.shubhro.com/2022/01/03/show-the-case-against/",
+    "time": 1643567644,
     "image": "",
-    "icon": "",
-    "publisher": "sbcl.org",
+    "icon": "https://www.shubhro.com/favicon.ico",
+    "publisher": "shubhro.com",
     "description": "",
-    "by": "susam",
-    "points": 6,
-    "comment_count": 0,
+    "by": "shbhrsaha",
+    "points": 27,
+    "comment_count": 4,
     "hn_item": {
-      "by": "drdee",
-      "descendants": 3,
-      "id": 30110655,
+      "by": "anfal_alatawi",
+      "descendants": 1,
+      "id": 30136844,
       "kids": [
-        30137570
+        30136845
       ],
-      "score": 17,
-      "time": 1643343398,
-      "title": "Possible Ninja Weapon Prototypes Discovered Among the Ruins of Castles in Japan",
+      "score": 15,
+      "time": 1643548001,
+      "title": "Knowledge Bases for Software Teams: What, Why and How?",
       "type": "story",
-      "url": "https://allthatsinteresting.com/ninja-weapons-prototypes"
+      "url": "https://anfalatawi.github.io/Docs/"
     },
     "og_item": {
-      "title": "All News - Steel Bank Common Lisp",
+      "title": "Show the case against - shubhro.com",
       "type": "",
       "image": [],
       "url": "",
@@ -627,8 +729,566 @@
     }
   },
   {
+    "id": 30128048,
+    "title": "COM+ Revisited",
+    "url": "https://lowleveldesign.org/2022/01/17/com-revisited/",
+    "time": 1643476281,
+    "image": "https://lowleveldesign.files.wordpress.com/2022/01/probe-mem-layout.png?w=1200",
+    "icon": "https://lowleveldesign.files.wordpress.com/2019/01/cropped-site_logo-1.png?w=192",
+    "publisher": "lowleveldesign.org",
+    "description": "More than ten years ago (how time flies!), when I published the basic sample of a COM+ server and client, I thought that I wouldn’t be touching this subject again. But here we are, in 2022, a…",
+    "by": "lowleveldesign",
+    "points": 37,
+    "comment_count": 6,
+    "hn_item": {
+      "by": "anfal_alatawi",
+      "descendants": 1,
+      "id": 30136844,
+      "kids": [
+        30136845
+      ],
+      "score": 15,
+      "time": 1643548001,
+      "title": "Knowledge Bases for Software Teams: What, Why and How?",
+      "type": "story",
+      "url": "https://anfalatawi.github.io/Docs/"
+    },
+    "og_item": {
+      "title": "COM+ revisited",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://lowleveldesign.files.wordpress.com/2022/01/probe-mem-layout.png?w=1200",
+          "secure_url": "",
+          "type": "",
+          "width": 1200,
+          "height": 800,
+          "alt": ""
+        }
+      ],
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/",
+      "audio": [],
+      "description": "More than ten years ago (how time flies!), when I published the basic sample of a COM+ server and client, I thought that I wouldn’t be touching this subject again. But here we are, in 2022, a…",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "lowleveldesign.org",
+      "video": [],
+      "favicon": {
+        "url": "https://lowleveldesign.files.wordpress.com/2019/01/cropped-site_logo-1.png?w=192"
+      }
+    }
+  },
+  {
+    "id": 30136350,
+    "title": "The Game of War: Chess with Networks (2008)",
+    "url": "https://www.cabinetmagazine.org/issues/29/galloway.php",
+    "time": 1643544263,
+    "image": "https://cabinetmagazine.org/issues/29/cabinet_029_galloway_alexander_r_facebook.jpg",
+    "icon": "https://www.cabinetmagazine.org/favicon-128.png",
+    "publisher": "cabinetmagazine.org",
+    "description": "Chess with networks",
+    "by": "bshepard",
+    "points": 18,
+    "comment_count": 2,
+    "hn_item": {
+      "by": "anfal_alatawi",
+      "descendants": 1,
+      "id": 30136844,
+      "kids": [
+        30136845
+      ],
+      "score": 15,
+      "time": 1643548001,
+      "title": "Knowledge Bases for Software Teams: What, Why and How?",
+      "type": "story",
+      "url": "https://anfalatawi.github.io/Docs/"
+    },
+    "og_item": {
+      "title": "The Game of War: An Overview | Alexander R. Galloway",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://cabinetmagazine.org/issues/29/cabinet_029_galloway_alexander_r_facebook.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 52,
+          "height": 80,
+          "alt": ""
+        }
+      ],
+      "url": "https://cabinetmagazine.org/issues/29/galloway.php",
+      "audio": [],
+      "description": "Chess with networks",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon-128.png"
+      }
+    }
+  },
+  {
+    "id": 30141171,
+    "title": "Deep symbolic regression for recurrent sequences",
+    "url": "http://recur-env.eba-rm3fchmn.us-east-2.elasticbeanstalk.com/",
+    "time": 1643577344,
+    "image": "",
+    "icon": "",
+    "publisher": "recur-env.eba-rm3fchmn.us-eas…",
+    "description": "",
+    "by": "ShamelessC",
+    "points": 6,
+    "comment_count": 1,
+    "hn_item": {
+      "by": "anfal_alatawi",
+      "descendants": 1,
+      "id": 30136844,
+      "kids": [
+        30136845
+      ],
+      "score": 15,
+      "time": 1643548001,
+      "title": "Knowledge Bases for Software Teams: What, Why and How?",
+      "type": "story",
+      "url": "https://anfalatawi.github.io/Docs/"
+    },
+    "og_item": {
+      "title": "Streamlit",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "./favicon.png"
+      }
+    }
+  },
+  {
+    "id": 30125933,
+    "title": "Dataset and Model for “I built a system to take photos of planes over my house”",
+    "url": "https://universe.roboflow.com/skybot-cam/overhead-plane-detector",
+    "time": 1643461275,
+    "image": "https://storage.googleapis.com/roboflow-platform-sources/maZc6wDMWx22k97NXin0/au2uG2Q36nwt1EybZdwS/original.jpg",
+    "icon": "https://universe.roboflow.com/favicon.ico",
+    "publisher": "Roboflow",
+    "description": "Download 250 free images labeled with bounding boxes for object detection.",
+    "by": "yeldarb",
+    "points": 101,
+    "comment_count": 6,
+    "hn_item": {
+      "by": "anfal_alatawi",
+      "descendants": 1,
+      "id": 30136844,
+      "kids": [
+        30136845
+      ],
+      "score": 15,
+      "time": 1643548001,
+      "title": "Knowledge Bases for Software Teams: What, Why and How?",
+      "type": "story",
+      "url": "https://anfalatawi.github.io/Docs/"
+    },
+    "og_item": {
+      "title": "Overhead Plane Detector Object Detection Dataset",
+      "type": "website",
+      "image": [
+        {
+          "url": "https://storage.googleapis.com/roboflow-platform-sources/maZc6wDMWx22k97NXin0/au2uG2Q36nwt1EybZdwS/original.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://universe.roboflow.com/skybot-cam/overhead-plane-detector",
+      "audio": [],
+      "description": "Download 250 free images labeled with bounding boxes for object detection.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Roboflow",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30134301,
+    "title": "The Basilikon Doron of King James VI and I",
+    "url": "https://blogs.bl.uk/digitisedmanuscripts/2022/01/how-to-be-an-effective-ruler.html",
+    "time": 1643520119,
+    "image": "https://blogs.bl.uk/.a/6a00d8341c464853ef0282e1411f9e200b-pi",
+    "icon": "https://www.bl.uk/britishlibrary/resources/global/images/favicon.ico",
+    "publisher": "blogs.bl.uk",
+    "description": "The British Library’s current major exhibition, Elizabeth and Mary: Royal Cousins, Rival Queens, charts the relationship and the lives of Elizabeth I and Mary, Queen of Scots, as well as the significant figures who were part of their courts and inner circles. One of the concluding sections of t…",
+    "by": "drdee",
+    "points": 10,
+    "comment_count": 2,
+    "hn_item": {
+      "by": "anfal_alatawi",
+      "descendants": 1,
+      "id": 30136844,
+      "kids": [
+        30136845
+      ],
+      "score": 15,
+      "time": 1643548001,
+      "title": "Knowledge Bases for Software Teams: What, Why and How?",
+      "type": "story",
+      "url": "https://anfalatawi.github.io/Docs/"
+    },
+    "og_item": {
+      "title": "How to be an effective ruler: the Basilikon Doron of King James VI and I",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://blogs.bl.uk/.a/6a00d8341c464853ef0282e1411f9e200b-pi",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://blogs.bl.uk/digitisedmanuscripts/2022/01/how-to-be-an-effective-ruler.html",
+      "audio": [],
+      "description": "The British Library’s current major exhibition, Elizabeth and Mary: Royal Cousins, Rival Queens, charts the relationship and the lives of Elizabeth I and Mary, Queen of Scots, as well as the significant figures who were part of their courts and inner circles. One of the concluding sections of the exhibition...",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "https://www.bl.uk/britishlibrary/resources/global/images/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30139643,
+    "title": "Very Remote Lisp Debugging Story",
+    "url": "https://susam.net/maze/very-remote-debugging.html",
+    "time": 1643567057,
+    "image": "",
+    "icon": "https://susam.net/maze/favicon.png",
+    "publisher": "susam.net",
+    "description": "",
+    "by": "susam",
+    "points": 22,
+    "comment_count": 2,
+    "hn_item": {
+      "by": "anfal_alatawi",
+      "descendants": 1,
+      "id": 30136844,
+      "kids": [
+        30136845
+      ],
+      "score": 15,
+      "time": 1643548001,
+      "title": "Knowledge Bases for Software Teams: What, Why and How?",
+      "type": "story",
+      "url": "https://anfalatawi.github.io/Docs/"
+    },
+    "og_item": {
+      "title": "Very Remote Lisp Debugging Story - Susam's Maze",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "favicon.png"
+      }
+    }
+  },
+  {
+    "id": 30135297,
+    "title": "The Dialectic of Enlightenment and modern life",
+    "url": "https://daily-philosophy.com/frankfurt-school-dialectic-enlightenment/",
+    "time": 1643534554,
+    "image": "https://daily-philosophy.com/frankfurt-school-dialectic-enlightenment/featured-500px.jpg",
+    "icon": "https://daily-philosophy.com/favicon.ico",
+    "publisher": "daily-philosophy.com",
+    "description": "The Frankfurt School is generally taken to mean a lose collection of thinkers who first congregated around the Institute for Social Research in Frankfurt am Main, Germany.",
+    "by": "moralrobots",
+    "points": 13,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "anfal_alatawi",
+      "descendants": 1,
+      "id": 30136844,
+      "kids": [
+        30136845
+      ],
+      "score": 15,
+      "time": 1643548001,
+      "title": "Knowledge Bases for Software Teams: What, Why and How?",
+      "type": "story",
+      "url": "https://anfalatawi.github.io/Docs/"
+    },
+    "og_item": {
+      "title": "The Dialectic of Enlightenment",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://daily-philosophy.com/frankfurt-school-dialectic-enlightenment/featured-500px.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://daily-philosophy.com/frankfurt-school-dialectic-enlightenment/",
+      "audio": [],
+      "description": "The Frankfurt School is generally taken to mean a lose collection of thinkers who first congregated around the Institute for Social Research in Frankfurt am Main, Germany.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30122435,
+    "title": "DDS: Build and library management tool for C, C++",
+    "url": "https://vector-of-bool.github.io/docs/dds/index.html",
+    "time": 1643416395,
+    "image": "",
+    "icon": "https://vector-of-bool.github.io/favicon.ico",
+    "publisher": "vector-of-bool.github.io",
+    "description": "",
+    "by": "oumua_don17",
+    "points": 17,
+    "comment_count": 2,
+    "hn_item": {
+      "by": "anfal_alatawi",
+      "descendants": 1,
+      "id": 30136844,
+      "kids": [
+        30136845
+      ],
+      "score": 15,
+      "time": 1643548001,
+      "title": "Knowledge Bases for Software Teams: What, Why and How?",
+      "type": "story",
+      "url": "https://anfalatawi.github.io/Docs/"
+    },
+    "og_item": {
+      "title": "DDS — dds 0.1.0-alpha.3 documentation",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30120857,
+    "title": "Writing an efficient Vulkan renderer (2020)",
+    "url": "https://zeux.io/2020/02/27/writing-an-efficient-vulkan-renderer/",
+    "time": 1643406697,
+    "image": "",
+    "icon": "https://zeux.io/2020/02/27/writing-an-efficient-vulkan-renderer/data:;base64,iVBORw0KGgo=",
+    "publisher": "zeux.io",
+    "description": "",
+    "by": "nabla9",
+    "points": 66,
+    "comment_count": 4,
+    "hn_item": {
+      "by": "anfal_alatawi",
+      "descendants": 1,
+      "id": 30136844,
+      "kids": [
+        30136845
+      ],
+      "score": 15,
+      "time": 1643548001,
+      "title": "Knowledge Bases for Software Teams: What, Why and How?",
+      "type": "story",
+      "url": "https://anfalatawi.github.io/Docs/"
+    },
+    "og_item": {
+      "title": "\n    zeux.io - Writing an efficient Vulkan renderer\n  ",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "data:;base64,iVBORw0KGgo="
+      }
+    }
+  },
+  {
+    "id": 30138420,
+    "title": "Autonomous battery-powered rail cars",
+    "url": "https://arstechnica.com/cars/2022/01/moving-more-with-less-freight-startup-bets-on-autonomous-electric-rail-cars/",
+    "time": 1643559370,
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/01/Parallel_Landscape_cropped-e1642613980939-760x380.jpg",
+    "icon": "https://cdn.arstechnica.net/wp-content/themes/ars/assets/img/material-ars-db41652381.png",
+    "publisher": "Ars Technica",
+    "description": "Advances in batteries, autonomy could extend the reach of freight railroads.",
+    "by": "vanburen",
+    "points": 54,
+    "comment_count": 13,
+    "hn_item": {
+      "by": "anfal_alatawi",
+      "descendants": 1,
+      "id": 30136844,
+      "kids": [
+        30136845
+      ],
+      "score": 15,
+      "time": 1643548001,
+      "title": "Knowledge Bases for Software Teams: What, Why and How?",
+      "type": "story",
+      "url": "https://anfalatawi.github.io/Docs/"
+    },
+    "og_item": {
+      "title": "Autonomous battery-powered rail cars could steal shipments from truckers",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/01/Parallel_Landscape_cropped-e1642613980939-760x380.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://arstechnica.com/cars/2022/01/moving-more-with-less-freight-startup-bets-on-autonomous-electric-rail-cars/",
+      "audio": [],
+      "description": "Advances in batteries, autonomy could extend the reach of freight railroads.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Ars Technica",
+      "video": [],
+      "favicon": {
+        "url": "https://cdn.arstechnica.net/wp-content/themes/ars/assets/img/material-ars-db41652381.png"
+      }
+    }
+  },
+  {
+    "id": 30138669,
+    "title": "Ask HN: Has anyone leveraged GDPR to overturn automated bans?",
+    "url": "https://news.ycombinator.com/item?id=30138669",
+    "time": 1643561257,
+    "image": "",
+    "icon": "https://news.ycombinator.com/favicon.ico",
+    "publisher": "Hacker News",
+    "description": "",
+    "by": "ndmrs",
+    "points": 116,
+    "comment_count": 10,
+    "hn_item": {
+      "by": "anfal_alatawi",
+      "descendants": 1,
+      "id": 30136844,
+      "kids": [
+        30136845
+      ],
+      "score": 15,
+      "time": 1643548001,
+      "title": "Knowledge Bases for Software Teams: What, Why and How?",
+      "type": "story",
+      "url": "https://anfalatawi.github.io/Docs/"
+    },
+    "og_item": {
+      "title": "Ask HN: Has anyone leveraged GDPR to overturn automated bans? | Hacker News",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30138277,
+    "title": "Set up a website with Nim (2019)",
+    "url": "https://ttj.dk/blog/2019/01/20/setup-a-website-with-nim",
+    "time": 1643558464,
+    "image": "",
+    "icon": "https://ttj.dk/images/favicon-ttj.png",
+    "publisher": "ttj.dk",
+    "description": "This small tutorial will help you create a website with Nim. We'll use libraries from the standard library and some externals from Nim-users. You will learn to create a small webserver with an admin user who has access to the secret area.",
+    "by": "melissalobos",
+    "points": 64,
+    "comment_count": 6,
+    "hn_item": {
+      "by": "anfal_alatawi",
+      "descendants": 1,
+      "id": 30136844,
+      "kids": [
+        30136845
+      ],
+      "score": 15,
+      "time": 1643548001,
+      "title": "Knowledge Bases for Software Teams: What, Why and How?",
+      "type": "story",
+      "url": "https://anfalatawi.github.io/Docs/"
+    },
+    "og_item": {
+      "title": " Nim tutorial for setting up a website. ",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "This small tutorial will help you create a website with Nim. We'll use libraries from the standard library and some externals from Nim-users. You will learn to create a small webserver with an admin user who has access to the secret area.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/images/favicon-ttj.png"
+      }
+    }
+  },
+  {
     "id": 30117131,
-    "title": "How to Excel in Tech Without Learning to Code",
+    "title": "How to excel in tech without learning to code",
     "url": "https://future.a16z.com/excel-in-tech-without-learning-to-code/",
     "time": 1643388553,
     "image": "https://future.a16z.com/wp-content/uploads/2022/01/Technical-Literacy-for-Non-Engineers-Social_Share-FINAL.png",
@@ -636,20 +1296,20 @@
     "publisher": "Future",
     "description": "Technical literacy is key to career success, even for non-engineers. Learn how to master the tools of your trade and build a solid tech foundation.",
     "by": "jseliger",
-    "points": 44,
-    "comment_count": 6,
+    "points": 93,
+    "comment_count": 10,
     "hn_item": {
-      "by": "drdee",
-      "descendants": 3,
-      "id": 30110655,
+      "by": "anfal_alatawi",
+      "descendants": 1,
+      "id": 30136844,
       "kids": [
-        30137570
+        30136845
       ],
-      "score": 17,
-      "time": 1643343398,
-      "title": "Possible Ninja Weapon Prototypes Discovered Among the Ruins of Castles in Japan",
+      "score": 15,
+      "time": 1643548001,
+      "title": "Knowledge Bases for Software Teams: What, Why and How?",
       "type": "story",
-      "url": "https://allthatsinteresting.com/ninja-weapons-prototypes"
+      "url": "https://anfalatawi.github.io/Docs/"
     },
     "og_item": {
       "title": "How to Excel in Tech Without Learning to Code | Future",
@@ -678,174 +1338,6 @@
     }
   },
   {
-    "id": 30124569,
-    "title": "Dennis Ritchie Home Page (2006)",
-    "url": "https://www.bell-labs.com/usr/dmr/www/",
-    "time": 1643442151,
-    "image": "",
-    "icon": "https://www.bell-labs.com/favicon.ico",
-    "publisher": "bell-labs.com",
-    "description": "",
-    "by": "mehdix",
-    "points": 179,
-    "comment_count": 16,
-    "hn_item": {
-      "by": "drdee",
-      "descendants": 3,
-      "id": 30110655,
-      "kids": [
-        30137570
-      ],
-      "score": 17,
-      "time": 1643343398,
-      "title": "Possible Ninja Weapon Prototypes Discovered Among the Ruins of Castles in Japan",
-      "type": "story",
-      "url": "https://allthatsinteresting.com/ninja-weapons-prototypes"
-    },
-    "og_item": {
-      "title": "Dennis Ritchie Home Page",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30111373,
-    "title": "What Is Forge?",
-    "url": "https://www.energy.gov/eere/geothermal/what-forge",
-    "time": 1643351840,
-    "image": "",
-    "icon": "https://www.energy.gov/themes/particle/apps/drupal/favicon.ico",
-    "publisher": "Energy.gov",
-    "description": "Our flagship effort over the next five years is the Frontier Observatory for Research in Geothermal Energy (FORGE) initiative — the first...",
-    "by": "manicennui",
-    "points": 43,
-    "comment_count": 5,
-    "hn_item": {
-      "by": "drdee",
-      "descendants": 3,
-      "id": 30110655,
-      "kids": [
-        30137570
-      ],
-      "score": 17,
-      "time": 1643343398,
-      "title": "Possible Ninja Weapon Prototypes Discovered Among the Ruins of Castles in Japan",
-      "type": "story",
-      "url": "https://allthatsinteresting.com/ninja-weapons-prototypes"
-    },
-    "og_item": {
-      "title": "What is FORGE?",
-      "type": "article",
-      "image": [],
-      "url": "https://www.energy.gov/eere/geothermal/what-forge",
-      "audio": [],
-      "description": "Our flagship effort over the next five years is the Frontier Observatory for Research in Geothermal Energy (FORGE) initiative — the first...",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Energy.gov",
-      "video": [],
-      "favicon": {
-        "url": "/themes/particle/apps/drupal/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30119748,
-    "title": "In Defense of NIR",
-    "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/",
-    "time": 1643400958,
-    "image": "",
-    "icon": "https://www.jlekstrand.net/favicon.ico",
-    "publisher": "jlekstrand.net",
-    "description": "",
-    "by": "JNRowe",
-    "points": 9,
-    "comment_count": 1,
-    "hn_item": {
-      "by": "drdee",
-      "descendants": 3,
-      "id": 30110655,
-      "kids": [
-        30137570
-      ],
-      "score": 17,
-      "time": 1643343398,
-      "title": "Possible Ninja Weapon Prototypes Discovered Among the Ruins of Castles in Japan",
-      "type": "story",
-      "url": "https://allthatsinteresting.com/ninja-weapons-prototypes"
-    },
-    "og_item": {
-      "title": "In defense of NIR",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30125758,
-    "title": "Fun with DBM-type databases (2018)",
-    "url": "https://www.openwall.com/lists/oss-security/2018/06/17/1",
-    "time": 1643459431,
-    "image": "",
-    "icon": "https://www.openwall.com/favicon.ico",
-    "publisher": "openwall.com",
-    "description": "",
-    "by": "rdpintqogeogsaa",
-    "points": 5,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "drdee",
-      "descendants": 3,
-      "id": 30110655,
-      "kids": [
-        30137570
-      ],
-      "score": 17,
-      "time": 1643343398,
-      "title": "Possible Ninja Weapon Prototypes Discovered Among the Ruins of Castles in Japan",
-      "type": "story",
-      "url": "https://allthatsinteresting.com/ninja-weapons-prototypes"
-    },
-    "og_item": {
-      "title": "oss-security - Fun with DBM-type databases...",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30128379,
     "title": "Controlling RGB LEDs with only powerlines: Anatomy of a Christmas light string",
     "url": "https://cpldcpu.wordpress.com/2022/01/23/controlling-rgb-leds-with-only-the-powerlines-anatomy-of-a-christmas-light-string/",
@@ -855,20 +1347,20 @@
     "publisher": "Tim's Blog",
     "description": "The RGB curtain predictably turns into a mess of wires when not used according to instructions. As should be obvious from this blog, I am somewhat drawn to clever and minimalistic implementations o…",
     "by": "cpldcpu",
-    "points": 108,
-    "comment_count": 4,
+    "points": 133,
+    "comment_count": 6,
     "hn_item": {
-      "by": "drdee",
-      "descendants": 3,
-      "id": 30110655,
+      "by": "anfal_alatawi",
+      "descendants": 1,
+      "id": 30136844,
       "kids": [
-        30137570
+        30136845
       ],
-      "score": 17,
-      "time": 1643343398,
-      "title": "Possible Ninja Weapon Prototypes Discovered Among the Ruins of Castles in Japan",
+      "score": 15,
+      "time": 1643548001,
+      "title": "Knowledge Bases for Software Teams: What, Why and How?",
       "type": "story",
-      "url": "https://allthatsinteresting.com/ninja-weapons-prototypes"
+      "url": "https://anfalatawi.github.io/Docs/"
     },
     "og_item": {
       "title": "Controlling RGB LEDs With Only the Powerlines: Anatomy of a Christmas Light String",
@@ -897,8 +1389,263 @@
     }
   },
   {
+    "id": 30139142,
+    "title": "SBCL: New in Version 2.2.1",
+    "url": "http://www.sbcl.org/all-news.html?2.2.1#2.2.1",
+    "time": 1643564118,
+    "image": "",
+    "icon": "",
+    "publisher": "sbcl.org",
+    "description": "",
+    "by": "susam",
+    "points": 82,
+    "comment_count": 5,
+    "hn_item": {
+      "by": "anfal_alatawi",
+      "descendants": 1,
+      "id": 30136844,
+      "kids": [
+        30136845
+      ],
+      "score": 15,
+      "time": 1643548001,
+      "title": "Knowledge Bases for Software Teams: What, Why and How?",
+      "type": "story",
+      "url": "https://anfalatawi.github.io/Docs/"
+    },
+    "og_item": {
+      "title": "All News - Steel Bank Common Lisp",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30136969,
+    "title": "GoSTL: Algorithm and datastructure library for Go similar to C++ STL",
+    "url": "https://github.com/liyue201/gostl",
+    "time": 1643549145,
+    "image": "https://opengraph.githubassets.com/8b7cc10668d0241344c276eba11c43d81a905ab7adcb017ead600f917237daa1/liyue201/gostl",
+    "icon": "https://github.githubassets.com/favicons/favicon.svg",
+    "publisher": "GitHub",
+    "description": "Data structure and algorithm library for go, designed to provide functions similar to C++ STL - GitHub - liyue201/gostl: Data structure and algorithm library for go, designed to provide functions s...",
+    "by": "gmgn",
+    "points": 80,
+    "comment_count": 9,
+    "hn_item": {
+      "by": "anfal_alatawi",
+      "descendants": 1,
+      "id": 30136844,
+      "kids": [
+        30136845
+      ],
+      "score": 15,
+      "time": 1643548001,
+      "title": "Knowledge Bases for Software Teams: What, Why and How?",
+      "type": "story",
+      "url": "https://anfalatawi.github.io/Docs/"
+    },
+    "og_item": {
+      "title": "GitHub - liyue201/gostl: Data structure and algorithm library for go, designed to provide functions similar to C++ STL",
+      "type": "object",
+      "image": [
+        {
+          "url": "https://opengraph.githubassets.com/8b7cc10668d0241344c276eba11c43d81a905ab7adcb017ead600f917237daa1/liyue201/gostl",
+          "secure_url": "",
+          "type": "",
+          "width": 1200,
+          "height": 600,
+          "alt": ""
+        }
+      ],
+      "url": "https://github.com/liyue201/gostl",
+      "audio": [],
+      "description": "Data structure and algorithm library for go, designed to provide functions similar to C++ STL - GitHub - liyue201/gostl: Data structure and algorithm library for go, designed to provide functions s...",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "GitHub",
+      "video": [],
+      "favicon": {
+        "url": "https://github.githubassets.com/favicons/favicon.svg"
+      }
+    }
+  },
+  {
+    "id": 30124569,
+    "title": "Dennis Ritchie Home Page (2006)",
+    "url": "https://www.bell-labs.com/usr/dmr/www/",
+    "time": 1643442151,
+    "image": "",
+    "icon": "https://www.bell-labs.com/favicon.ico",
+    "publisher": "bell-labs.com",
+    "description": "",
+    "by": "mehdix",
+    "points": 204,
+    "comment_count": 18,
+    "hn_item": {
+      "by": "anfal_alatawi",
+      "descendants": 1,
+      "id": 30136844,
+      "kids": [
+        30136845
+      ],
+      "score": 15,
+      "time": 1643548001,
+      "title": "Knowledge Bases for Software Teams: What, Why and How?",
+      "type": "story",
+      "url": "https://anfalatawi.github.io/Docs/"
+    },
+    "og_item": {
+      "title": "Dennis Ritchie Home Page",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30125931,
+    "title": "Fluid Simulation – Siggraph 2007 Course Notes [pdf]",
+    "url": "https://www.cs.ubc.ca/~rbridson/fluidsimulation/fluids_notes.pdf",
+    "time": 1643461256,
+    "image": "",
+    "icon": "",
+    "publisher": "cs.ubc.ca",
+    "description": "",
+    "by": "creata",
+    "points": 27,
+    "comment_count": 3,
+    "hn_item": {
+      "by": "anfal_alatawi",
+      "descendants": 1,
+      "id": 30136844,
+      "kids": [
+        30136845
+      ],
+      "score": 15,
+      "time": 1643548001,
+      "title": "Knowledge Bases for Software Teams: What, Why and How?",
+      "type": "story",
+      "url": "https://anfalatawi.github.io/Docs/"
+    },
+    "og_item": null
+  },
+  {
+    "id": 30140210,
+    "title": "Why is Harvard astrophysicist Avi Loeb working with ardent UFO believers?",
+    "url": "https://www.science.org/content/article/why-is-harvard-astrophysicist-working-with-ufo-buffs",
+    "time": 1643570644,
+    "image": "https://www.science.org/do/10.1126/science.ada0631/abs/_20220128_nf_flying_saucer.jpg",
+    "icon": "https://www.science.org/favicon.ico",
+    "publisher": "science.org",
+    "description": "Avi Loeb’s Galileo Project will search for sky-prowling aliens, but some worry about the influence of pseudoscience",
+    "by": "tejohnso",
+    "points": 32,
+    "comment_count": 4,
+    "hn_item": {
+      "by": "anfal_alatawi",
+      "descendants": 1,
+      "id": 30136844,
+      "kids": [
+        30136845
+      ],
+      "score": 15,
+      "time": 1643548001,
+      "title": "Knowledge Bases for Software Teams: What, Why and How?",
+      "type": "story",
+      "url": "https://anfalatawi.github.io/Docs/"
+    },
+    "og_item": {
+      "title": "Why is a Harvard astrophysicist working with UFO buffs?",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://www.science.org/do/10.1126/science.ada0631/abs/_20220128_nf_flying_saucer.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://www.science.org/content/article/why-is-harvard-astrophysicist-working-with-ufo-buffs",
+      "audio": [],
+      "description": "Avi Loeb’s Galileo Project will search for sky-prowling aliens, but some worry about the influence of pseudoscience",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30111373,
+    "title": "What is FORGE?",
+    "url": "https://www.energy.gov/eere/geothermal/what-forge",
+    "time": 1643351840,
+    "image": "",
+    "icon": "https://www.energy.gov/themes/particle/apps/drupal/favicon.ico",
+    "publisher": "Energy.gov",
+    "description": "Our flagship effort over the next five years is the Frontier Observatory for Research in Geothermal Energy (FORGE) initiative — the first...",
+    "by": "manicennui",
+    "points": 59,
+    "comment_count": 5,
+    "hn_item": {
+      "by": "anfal_alatawi",
+      "descendants": 1,
+      "id": 30136844,
+      "kids": [
+        30136845
+      ],
+      "score": 15,
+      "time": 1643548001,
+      "title": "Knowledge Bases for Software Teams: What, Why and How?",
+      "type": "story",
+      "url": "https://anfalatawi.github.io/Docs/"
+    },
+    "og_item": {
+      "title": "What is FORGE?",
+      "type": "article",
+      "image": [],
+      "url": "https://www.energy.gov/eere/geothermal/what-forge",
+      "audio": [],
+      "description": "Our flagship effort over the next five years is the Frontier Observatory for Research in Geothermal Energy (FORGE) initiative — the first...",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Energy.gov",
+      "video": [],
+      "favicon": {
+        "url": "/themes/particle/apps/drupal/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30135346,
-    "title": "If It Were My Home",
+    "title": "If it were my home",
     "url": "http://www.ifitweremyhome.com/",
     "time": 1643535010,
     "image": "",
@@ -906,20 +1653,20 @@
     "publisher": "ifitweremyhome.com",
     "description": "",
     "by": "kkwteh",
-    "points": 168,
-    "comment_count": 28,
+    "points": 201,
+    "comment_count": 31,
     "hn_item": {
-      "by": "drdee",
-      "descendants": 3,
-      "id": 30110655,
+      "by": "anfal_alatawi",
+      "descendants": 1,
+      "id": 30136844,
       "kids": [
-        30137570
+        30136845
       ],
-      "score": 17,
-      "time": 1643343398,
-      "title": "Possible Ninja Weapon Prototypes Discovered Among the Ruins of Castles in Japan",
+      "score": 15,
+      "time": 1643548001,
+      "title": "Knowledge Bases for Software Teams: What, Why and How?",
       "type": "story",
-      "url": "https://allthatsinteresting.com/ninja-weapons-prototypes"
+      "url": "https://anfalatawi.github.io/Docs/"
     },
     "og_item": {
       "title": "If It Were My Home",
@@ -940,7 +1687,7 @@
   },
   {
     "id": 30135758,
-    "title": "Uninitialized Memory: Unsafe Rust Is Too Hard",
+    "title": "Uninitialized memory: Unsafe Rust is too hard",
     "url": "https://lucumr.pocoo.org/2022/1/30/unsafe-rust/",
     "time": 1643539905,
     "image": "",
@@ -948,20 +1695,20 @@
     "publisher": "lucumr.pocoo.org",
     "description": "Why unsafe Rust is a complex and user unfriendly experience.",
     "by": "drrlvn",
-    "points": 65,
-    "comment_count": 10,
+    "points": 94,
+    "comment_count": 14,
     "hn_item": {
-      "by": "drdee",
-      "descendants": 3,
-      "id": 30110655,
+      "by": "anfal_alatawi",
+      "descendants": 1,
+      "id": 30136844,
       "kids": [
-        30137570
+        30136845
       ],
-      "score": 17,
-      "time": 1643343398,
-      "title": "Possible Ninja Weapon Prototypes Discovered Among the Ruins of Castles in Japan",
+      "score": 15,
+      "time": 1643548001,
+      "title": "Knowledge Bases for Software Teams: What, Why and How?",
       "type": "story",
-      "url": "https://allthatsinteresting.com/ninja-weapons-prototypes"
+      "url": "https://anfalatawi.github.io/Docs/"
     },
     "og_item": {
       "title": "Uninitialized Memory: Unsafe Rust is Too Hard",
@@ -981,57 +1728,6 @@
     }
   },
   {
-    "id": 30138545,
-    "title": "Would you take free land in rural America?",
-    "url": "https://thehustle.co/would-you-take-free-land-in-rural-america/",
-    "time": 1643560362,
-    "image": "https://thehustle.co/wp-content/uploads/2022/01/share-4.jpg",
-    "icon": "https://thehustle.co/wp-content/uploads/2020/04/cropped-logomark_blackbox-300x300.jpg",
-    "publisher": "The Hustle",
-    "description": "In the midst of a national housing shortage, towns on the Kansas plains are giving away free land and ultra-cheap houses. Is the offer worth it?",
-    "by": "Anon84",
-    "points": 39,
-    "comment_count": 18,
-    "hn_item": {
-      "by": "drdee",
-      "descendants": 3,
-      "id": 30110655,
-      "kids": [
-        30137570
-      ],
-      "score": 17,
-      "time": 1643343398,
-      "title": "Possible Ninja Weapon Prototypes Discovered Among the Ruins of Castles in Japan",
-      "type": "story",
-      "url": "https://allthatsinteresting.com/ninja-weapons-prototypes"
-    },
-    "og_item": {
-      "title": "Would you take free land in rural America?",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://thehustle.co/wp-content/uploads/2022/01/share-4.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 600,
-          "height": 330,
-          "alt": ""
-        }
-      ],
-      "url": "https://thehustle.co/would-you-take-free-land-in-rural-america/",
-      "audio": [],
-      "description": "In the midst of a national housing shortage, towns on the Kansas plains are giving away free land and ultra-cheap houses. Is the offer worth it?",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "The Hustle",
-      "video": [],
-      "favicon": {
-        "url": "https://thehustle.co/wp-content/uploads/2020/04/cropped-logomark_blackbox-300x300.jpg"
-      }
-    }
-  },
-  {
     "id": 30129571,
     "title": "How to avoid layout shifts caused by web fonts",
     "url": "https://simonhearne.com/2021/layout-shifts-webfonts/",
@@ -1041,20 +1737,20 @@
     "publisher": "Simon Hearne",
     "description": "One of the biggest causes of layout shifts for my clients is late-loading web fonts, let's look at how to optimise them!",
     "by": "joshbetz",
-    "points": 160,
+    "points": 181,
     "comment_count": 14,
     "hn_item": {
-      "by": "drdee",
-      "descendants": 3,
-      "id": 30110655,
+      "by": "anfal_alatawi",
+      "descendants": 1,
+      "id": 30136844,
       "kids": [
-        30137570
+        30136845
       ],
-      "score": 17,
-      "time": 1643343398,
-      "title": "Possible Ninja Weapon Prototypes Discovered Among the Ruins of Castles in Japan",
+      "score": 15,
+      "time": 1643548001,
+      "title": "Knowledge Bases for Software Teams: What, Why and How?",
       "type": "story",
-      "url": "https://allthatsinteresting.com/ninja-weapons-prototypes"
+      "url": "https://anfalatawi.github.io/Docs/"
     },
     "og_item": {
       "title": "How to avoid layout shifts caused by web fonts",
@@ -1083,53 +1779,95 @@
     }
   },
   {
-    "id": 30138266,
-    "title": "Hollows Hunter – Scans all running processes",
-    "url": "https://github.com/hasherezade/hollows_hunter",
-    "time": 1643558423,
-    "image": "https://opengraph.githubassets.com/b99c5fffa24080a64ee286092622dc7d0c5943c32cf685a5f10f538bc30a3b2f/hasherezade/hollows_hunter",
-    "icon": "https://github.githubassets.com/favicons/favicon.svg",
-    "publisher": "GitHub",
-    "description": "Scans all running processes. Recognizes and dumps a variety of potentially malicious implants (replaced/implanted PEs, shellcodes, hooks, in-memory patches). - GitHub - hasherezade/hollows_hunter: ...",
-    "by": "maydemir",
-    "points": 9,
-    "comment_count": 0,
+    "id": 30139971,
+    "title": "The UN is testing technology that processes data confidentially",
+    "url": "https://www.economist.com/science-and-technology/the-un-is-testing-technology-that-processes-data-confidentially/21807385",
+    "time": 1643569114,
+    "image": "https://www.economist.com/img/b/1280/720/90/sites/default/files/images/2022/01/articles/main/20220129_stp004.jpg",
+    "icon": "https://www.economist.com/engassets/ico/favicon.f1ea908894.ico",
+    "publisher": "The Economist",
+    "description": "How to analyse data without revealing their secrets",
+    "by": "jkuria",
+    "points": 7,
+    "comment_count": 1,
     "hn_item": {
-      "by": "drdee",
-      "descendants": 3,
-      "id": 30110655,
+      "by": "anfal_alatawi",
+      "descendants": 1,
+      "id": 30136844,
       "kids": [
-        30137570
+        30136845
       ],
-      "score": 17,
-      "time": 1643343398,
-      "title": "Possible Ninja Weapon Prototypes Discovered Among the Ruins of Castles in Japan",
+      "score": 15,
+      "time": 1643548001,
+      "title": "Knowledge Bases for Software Teams: What, Why and How?",
       "type": "story",
-      "url": "https://allthatsinteresting.com/ninja-weapons-prototypes"
+      "url": "https://anfalatawi.github.io/Docs/"
     },
     "og_item": {
-      "title": "GitHub - hasherezade/hollows_hunter: Scans all running processes. Recognizes and dumps a variety of potentially malicious implants (replaced/implanted PEs, shellcodes, hooks, in-memory patches).",
-      "type": "object",
+      "title": "The UN is testing technology that processes data confidentially",
+      "type": "Article",
       "image": [
         {
-          "url": "https://opengraph.githubassets.com/b99c5fffa24080a64ee286092622dc7d0c5943c32cf685a5f10f538bc30a3b2f/hasherezade/hollows_hunter",
+          "url": "https://www.economist.com/img/b/1280/720/90/sites/default/files/images/2022/01/articles/main/20220129_stp004.jpg",
           "secure_url": "",
           "type": "",
-          "width": 1200,
-          "height": 600,
+          "width": 0,
+          "height": 0,
           "alt": ""
         }
       ],
-      "url": "https://github.com/hasherezade/hollows_hunter",
+      "url": "https://www.economist.com/science-and-technology/the-un-is-testing-technology-that-processes-data-confidentially/21807385",
       "audio": [],
-      "description": "Scans all running processes. Recognizes and dumps a variety of potentially malicious implants (replaced/implanted PEs, shellcodes, hooks, in-memory patches). - GitHub - hasherezade/hollows_hunter: ...",
+      "description": "How to analyse data without revealing their secrets",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "GitHub",
+      "site_name": "The Economist",
       "video": [],
       "favicon": {
-        "url": "https://github.githubassets.com/favicons/favicon.svg"
+        "url": "/engassets/ico/favicon.f1ea908894.ico"
+      }
+    }
+  },
+  {
+    "id": 30125758,
+    "title": "Fun with DBM-type databases (2018)",
+    "url": "https://www.openwall.com/lists/oss-security/2018/06/17/1",
+    "time": 1643459431,
+    "image": "",
+    "icon": "https://www.openwall.com/favicon.ico",
+    "publisher": "openwall.com",
+    "description": "",
+    "by": "rdpintqogeogsaa",
+    "points": 18,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "anfal_alatawi",
+      "descendants": 1,
+      "id": 30136844,
+      "kids": [
+        30136845
+      ],
+      "score": 15,
+      "time": 1643548001,
+      "title": "Knowledge Bases for Software Teams: What, Why and How?",
+      "type": "story",
+      "url": "https://anfalatawi.github.io/Docs/"
+    },
+    "og_item": {
+      "title": "oss-security - Fun with DBM-type databases...",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
       }
     }
   },
@@ -1143,20 +1881,20 @@
     "publisher": "unredacted-word.pub",
     "description": "Unredacted Word: publisher of words, code \u0026 data. Our new edition of The Society of the Spectacle is out now 💥.",
     "by": "raldu",
-    "points": 79,
-    "comment_count": 7,
+    "points": 91,
+    "comment_count": 10,
     "hn_item": {
-      "by": "drdee",
-      "descendants": 3,
-      "id": 30110655,
+      "by": "anfal_alatawi",
+      "descendants": 1,
+      "id": 30136844,
       "kids": [
-        30137570
+        30136845
       ],
-      "score": 17,
-      "time": 1643343398,
-      "title": "Possible Ninja Weapon Prototypes Discovered Among the Ruins of Castles in Japan",
+      "score": 15,
+      "time": 1643548001,
+      "title": "Knowledge Bases for Software Teams: What, Why and How?",
       "type": "story",
-      "url": "https://allthatsinteresting.com/ninja-weapons-prototypes"
+      "url": "https://anfalatawi.github.io/Docs/"
     },
     "og_item": {
       "title": "Unredacted Word",
@@ -1185,32 +1923,83 @@
     }
   },
   {
-    "id": 30128627,
-    "title": "Tech debt gets worse before it gets better",
-    "url": "https://jeremymikkola.com/posts/2022_01_29_tech_debt_gets_worse_before_it_gets_beffer.html",
-    "time": 1643479251,
-    "image": "",
-    "icon": "https://jeremymikkola.com/favicon.ico",
-    "publisher": "jeremymikkola.com",
-    "description": "",
-    "by": "piinbinary",
-    "points": 105,
-    "comment_count": 12,
+    "id": 30136479,
+    "title": "Socrates on the blessing of being refuted",
+    "url": "https://antigonejournal.com/2022/01/socrates-being-refuted/",
+    "time": 1643545027,
+    "image": "https://antigonejournal.com/wp-content/uploads/2022/01/HWDrops.png",
+    "icon": "https://i0.wp.com/antigonejournal.com/wp-content/uploads/2021/03/cropped-Ant.png?fit=192%2C192\u0026ssl=1",
+    "publisher": "Antigone",
+    "description": "ANDREW BEER The genuine pleasure of yielding to better arguments.",
+    "by": "AverilS",
+    "points": 10,
+    "comment_count": 0,
     "hn_item": {
-      "by": "drdee",
-      "descendants": 3,
-      "id": 30110655,
+      "by": "anfal_alatawi",
+      "descendants": 1,
+      "id": 30136844,
       "kids": [
-        30137570
+        30136845
       ],
-      "score": 17,
-      "time": 1643343398,
-      "title": "Possible Ninja Weapon Prototypes Discovered Among the Ruins of Castles in Japan",
+      "score": 15,
+      "time": 1643548001,
+      "title": "Knowledge Bases for Software Teams: What, Why and How?",
       "type": "story",
-      "url": "https://allthatsinteresting.com/ninja-weapons-prototypes"
+      "url": "https://anfalatawi.github.io/Docs/"
     },
     "og_item": {
-      "title": "Jeremy Mikkola - Tech debt gets worse before it gets better",
+      "title": "Socrates on the Blessing of Being Refuted - Antigone",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://antigonejournal.com/wp-content/uploads/2022/01/HWDrops.png",
+          "secure_url": "",
+          "type": "",
+          "width": 1049,
+          "height": 539,
+          "alt": ""
+        }
+      ],
+      "url": "https://antigonejournal.com/2022/01/socrates-being-refuted/",
+      "audio": [],
+      "description": "ANDREW BEER The genuine pleasure of yielding to better arguments.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Antigone",
+      "video": [],
+      "favicon": {
+        "url": "https://i0.wp.com/antigonejournal.com/wp-content/uploads/2021/03/cropped-Ant.png?fit=192%2C192\u0026ssl=1"
+      }
+    }
+  },
+  {
+    "id": 30119748,
+    "title": "In Defense of NIR",
+    "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/",
+    "time": 1643400958,
+    "image": "",
+    "icon": "https://www.jlekstrand.net/favicon.ico",
+    "publisher": "jlekstrand.net",
+    "description": "",
+    "by": "JNRowe",
+    "points": 25,
+    "comment_count": 4,
+    "hn_item": {
+      "by": "anfal_alatawi",
+      "descendants": 1,
+      "id": 30136844,
+      "kids": [
+        30136845
+      ],
+      "score": 15,
+      "time": 1643548001,
+      "title": "Knowledge Bases for Software Teams: What, Why and How?",
+      "type": "story",
+      "url": "https://anfalatawi.github.io/Docs/"
+    },
+    "og_item": {
+      "title": "In defense of NIR",
       "type": "",
       "image": [],
       "url": "",
@@ -1236,20 +2025,20 @@
     "publisher": "Cooking in the Archives",
     "description": "A collection of philosopher John Locke’s papers at the Bodleian Library includes letters, accounts, poetry, notes on medicine and books, and recipes. When David Armitage posted this recipe fo…",
     "by": "pepys",
-    "points": 239,
+    "points": 253,
     "comment_count": 32,
     "hn_item": {
-      "by": "drdee",
-      "descendants": 3,
-      "id": 30110655,
+      "by": "anfal_alatawi",
+      "descendants": 1,
+      "id": 30136844,
       "kids": [
-        30137570
+        30136845
       ],
-      "score": 17,
-      "time": 1643343398,
-      "title": "Possible Ninja Weapon Prototypes Discovered Among the Ruins of Castles in Japan",
+      "score": 15,
+      "time": 1643548001,
+      "title": "Knowledge Bases for Software Teams: What, Why and How?",
       "type": "story",
-      "url": "https://allthatsinteresting.com/ninja-weapons-prototypes"
+      "url": "https://anfalatawi.github.io/Docs/"
     },
     "og_item": {
       "title": "John Locke’s recipe for Pancakes",
@@ -1278,44 +2067,188 @@
     }
   },
   {
-    "id": 30117637,
-    "title": "Things we finally know about network queues (2017)",
-    "url": "https://apenwarr.ca/log/20170814",
-    "time": 1643390700,
-    "image": "",
-    "icon": "https://apenwarr.ca/img/chicken.gif",
-    "publisher": "apenwarr.ca",
-    "description": "How big should your queue be, and what should you do when it fills up?  Many\ntimes, we implement or even deploy a networking system before w...",
-    "by": "Tomte",
-    "points": 147,
-    "comment_count": 9,
+    "id": 30139637,
+    "title": "Show HN: I reverse engineered and documented United Airlines in flight API",
+    "url": "https://github.com/greatjack1/United-In-Flight-Api",
+    "time": 1643567025,
+    "image": "https://opengraph.githubassets.com/56e5a2bed193e5c291c6f43e1933c10c7c4dedabf27ed169550649d9c5928631/greatjack1/United-In-Flight-Api",
+    "icon": "https://github.githubassets.com/favicons/favicon.svg",
+    "publisher": "GitHub",
+    "description": "Postman collection for United's internal in-flight wifi api - GitHub - greatjack1/United-In-Flight-Api: Postman collection for United's internal in-flight wifi api",
+    "by": "greatjack613",
+    "points": 9,
+    "comment_count": 2,
     "hn_item": {
-      "by": "drdee",
-      "descendants": 3,
-      "id": 30110655,
+      "by": "anfal_alatawi",
+      "descendants": 1,
+      "id": 30136844,
       "kids": [
-        30137570
+        30136845
       ],
-      "score": 17,
-      "time": 1643343398,
-      "title": "Possible Ninja Weapon Prototypes Discovered Among the Ruins of Castles in Japan",
+      "score": 15,
+      "time": 1643548001,
+      "title": "Knowledge Bases for Software Teams: What, Why and How?",
       "type": "story",
-      "url": "https://allthatsinteresting.com/ninja-weapons-prototypes"
+      "url": "https://anfalatawi.github.io/Docs/"
     },
     "og_item": {
-      "title": "Things we (finally) know about network queues",
+      "title": "GitHub - greatjack1/United-In-Flight-Api: Postman collection for United's internal in-flight wifi api",
+      "type": "object",
+      "image": [
+        {
+          "url": "https://opengraph.githubassets.com/56e5a2bed193e5c291c6f43e1933c10c7c4dedabf27ed169550649d9c5928631/greatjack1/United-In-Flight-Api",
+          "secure_url": "",
+          "type": "",
+          "width": 1200,
+          "height": 600,
+          "alt": ""
+        }
+      ],
+      "url": "https://github.com/greatjack1/United-In-Flight-Api",
+      "audio": [],
+      "description": "Postman collection for United's internal in-flight wifi api - GitHub - greatjack1/United-In-Flight-Api: Postman collection for United's internal in-flight wifi api",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "GitHub",
+      "video": [],
+      "favicon": {
+        "url": "https://github.githubassets.com/favicons/favicon.svg"
+      }
+    }
+  },
+  {
+    "id": 30140790,
+    "title": "Spotify’s Platform Rules and Approach to Covid-19",
+    "url": "https://newsroom.spotify.com/2022-01-30/spotifys-platform-rules-and-approach-to-covid-19/",
+    "time": 1643574556,
+    "image": "https://storage.googleapis.com/pr-newsroom-wp/1/2022/01/Spotify-Generic-Header-1440x820-1.png",
+    "icon": "https://storage.googleapis.com/pr-newsroom-wp/1/2018/11/favicon-32x32.png",
+    "publisher": "Spotify",
+    "description": "A decade ago, we created Spotify to enable the work of creators around the world to be heard and enjoyed by listeners around the world. To our very core, we believe that listening is everything. Pick almost any issue and you will find people and opinions on either side of it. Personally, there ar…",
+    "by": "TigeriusKirk",
+    "points": 14,
+    "comment_count": 4,
+    "hn_item": {
+      "by": "anfal_alatawi",
+      "descendants": 1,
+      "id": 30136844,
+      "kids": [
+        30136845
+      ],
+      "score": 15,
+      "time": 1643548001,
+      "title": "Knowledge Bases for Software Teams: What, Why and How?",
+      "type": "story",
+      "url": "https://anfalatawi.github.io/Docs/"
+    },
+    "og_item": {
+      "title": "Spotify’s Platform Rules and Approach to COVID-19 — Spotify",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://storage.googleapis.com/pr-newsroom-wp/1/2022/01/Spotify-Generic-Header-1440x820-1.png",
+          "secure_url": "",
+          "type": "",
+          "width": 1440,
+          "height": 816,
+          "alt": ""
+        }
+      ],
+      "url": "https://newsroom.spotify.com/2022-01-30/spotifys-platform-rules-and-approach-to-covid-19/",
+      "audio": [],
+      "description": "A decade ago, we created Spotify to enable the work of creators around the world to be heard and enjoyed by listeners around the world. To our very core, we believe that listening is everything. Pick almost any issue and you will find people and opinions on either side of it. Personally, there are plenty... Read more »",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Spotify",
+      "video": [],
+      "favicon": {
+        "url": "https://storage.googleapis.com/pr-newsroom-wp/1/2018/11/favicon-32x32.png"
+      }
+    }
+  },
+  {
+    "id": 30128627,
+    "title": "Tech debt gets worse before it gets better",
+    "url": "https://jeremymikkola.com/posts/2022_01_29_tech_debt_gets_worse_before_it_gets_beffer.html",
+    "time": 1643479251,
+    "image": "",
+    "icon": "https://jeremymikkola.com/favicon.ico",
+    "publisher": "jeremymikkola.com",
+    "description": "",
+    "by": "piinbinary",
+    "points": 123,
+    "comment_count": 12,
+    "hn_item": {
+      "by": "anfal_alatawi",
+      "descendants": 1,
+      "id": 30136844,
+      "kids": [
+        30136845
+      ],
+      "score": 15,
+      "time": 1643548001,
+      "title": "Knowledge Bases for Software Teams: What, Why and How?",
+      "type": "story",
+      "url": "https://anfalatawi.github.io/Docs/"
+    },
+    "og_item": {
+      "title": "Jeremy Mikkola - Tech debt gets worse before it gets better",
       "type": "",
       "image": [],
       "url": "",
       "audio": [],
-      "description": "How big should your queue be, and what should you do when it fills up?  Many\ntimes, we implement or even deploy a networking system before w...",
+      "description": "",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
       "site_name": "",
       "video": [],
       "favicon": {
-        "url": "/img/chicken.gif"
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30138561,
+    "title": "24/192 Music Downloads and why they make no sense (2012)",
+    "url": "https://web.archive.org/web/20200417180912/https://people.xiph.org/~xiphmont/demo/neil-young.html",
+    "time": 1643560439,
+    "image": "",
+    "icon": "https://web.archive.org/web/20200417180912im_/https://xiph.org/images/logos/xiph.ico",
+    "publisher": "web.archive.org",
+    "description": "",
+    "by": "hprotagonist",
+    "points": 19,
+    "comment_count": 4,
+    "hn_item": {
+      "by": "anfal_alatawi",
+      "descendants": 1,
+      "id": 30136844,
+      "kids": [
+        30136845
+      ],
+      "score": 15,
+      "time": 1643548001,
+      "title": "Knowledge Bases for Software Teams: What, Why and How?",
+      "type": "story",
+      "url": "https://anfalatawi.github.io/Docs/"
+    },
+    "og_item": {
+      "title": "24/192 Music Downloads are Very Silly Indeed",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "//web.archive.org/web/20200417180912im_/https://xiph.org/images/logos/xiph.ico"
       }
     }
   },
@@ -1329,20 +2262,20 @@
     "publisher": "YouTube",
     "description": "Amiga 500 RAM can be a bit of a mystery, like ghosts. But once you understand it, you'll never not understand it again. In this episode of \"How Things Probab...",
     "by": "doener",
-    "points": 40,
-    "comment_count": 3,
+    "points": 48,
+    "comment_count": 5,
     "hn_item": {
-      "by": "drdee",
-      "descendants": 3,
-      "id": 30110655,
+      "by": "anfal_alatawi",
+      "descendants": 1,
+      "id": 30136844,
       "kids": [
-        30137570
+        30136845
       ],
-      "score": 17,
-      "time": 1643343398,
-      "title": "Possible Ninja Weapon Prototypes Discovered Among the Ruins of Castles in Japan",
+      "score": 15,
+      "time": 1643548001,
+      "title": "Knowledge Bases for Software Teams: What, Why and How?",
       "type": "story",
-      "url": "https://allthatsinteresting.com/ninja-weapons-prototypes"
+      "url": "https://anfalatawi.github.io/Docs/"
     },
     "og_item": {
       "title": "How Amiga 500 RAM Probably Works | How Things Probably Work",
@@ -1380,83 +2313,83 @@
     }
   },
   {
-    "id": 30138536,
-    "title": "Bubble sort: an archaeological algorithmic analysis",
-    "url": "https://www.semanticscholar.org/paper/Bubble-sort%3A-an-archaeological-algorithmic-analysis-Astrachan/9109f7043198ea2d8f43f15a2ff7afa8e7c15f8d",
-    "time": 1643560272,
-    "image": "https://www.semanticscholar.org/img/semantic_scholar_og.png",
-    "icon": "https://cdn.semanticscholar.org/00074304eea6145c/img/favicon-128.png",
-    "publisher": "semanticscholar.org",
-    "description": "The history of bubble sort, its popularity, and its endurance in the face of pedagogical assertions that code and algorithmic examples used in early courses should be of high quality and adhere to established best practices are traced. Text books, including books for general audiences, invariably…",
-    "by": "melissalobos",
-    "points": 4,
-    "comment_count": 1,
+    "id": 30138266,
+    "title": "Hollows Hunter – Scans all running processes",
+    "url": "https://github.com/hasherezade/hollows_hunter",
+    "time": 1643558423,
+    "image": "https://opengraph.githubassets.com/c6c7823e0210fccadfc88ff9f05b3d8c5f0260208cfbe66065a4d4b84fc08d39/hasherezade/hollows_hunter",
+    "icon": "https://github.githubassets.com/favicons/favicon.svg",
+    "publisher": "GitHub",
+    "description": "Scans all running processes. Recognizes and dumps a variety of potentially malicious implants (replaced/implanted PEs, shellcodes, hooks, in-memory patches). - GitHub - hasherezade/hollows_hunter: ...",
+    "by": "maydemir",
+    "points": 20,
+    "comment_count": 2,
     "hn_item": {
-      "by": "drdee",
-      "descendants": 3,
-      "id": 30110655,
+      "by": "anfal_alatawi",
+      "descendants": 1,
+      "id": 30136844,
       "kids": [
-        30137570
+        30136845
       ],
-      "score": 17,
-      "time": 1643343398,
-      "title": "Possible Ninja Weapon Prototypes Discovered Among the Ruins of Castles in Japan",
+      "score": 15,
+      "time": 1643548001,
+      "title": "Knowledge Bases for Software Teams: What, Why and How?",
       "type": "story",
-      "url": "https://allthatsinteresting.com/ninja-weapons-prototypes"
+      "url": "https://anfalatawi.github.io/Docs/"
     },
     "og_item": {
-      "title": "[PDF] Bubble sort: an archaeological algorithmic analysis | Semantic Scholar",
-      "type": "website",
+      "title": "GitHub - hasherezade/hollows_hunter: Scans all running processes. Recognizes and dumps a variety of potentially malicious implants (replaced/implanted PEs, shellcodes, hooks, in-memory patches).",
+      "type": "object",
       "image": [
         {
-          "url": "https://www.semanticscholar.org/img/semantic_scholar_og.png",
+          "url": "https://opengraph.githubassets.com/c6c7823e0210fccadfc88ff9f05b3d8c5f0260208cfbe66065a4d4b84fc08d39/hasherezade/hollows_hunter",
           "secure_url": "",
           "type": "",
-          "width": 1110,
-          "height": 582,
+          "width": 1200,
+          "height": 600,
           "alt": ""
         }
       ],
-      "url": "",
+      "url": "https://github.com/hasherezade/hollows_hunter",
       "audio": [],
-      "description": "The history of bubble sort, its popularity, and its endurance in the face of pedagogical assertions that code and algorithmic examples used in early courses should be of high quality and adhere to established best practices are traced. Text books, including books for general audiences, invariably mention bubble sort in discussions of elementary sorting algorithms. We trace the history of bubble sort, its popularity, and its endurance in the face of pedagogical assertions that code and algorithmic examples used in early courses should be of high quality and adhere to established best practices. This paper is more an historical analysis than a philosophical treatise for the exclusion of bubble sort from books and courses. However, sentiments for exclusion are supported by Knuth [17], \"In short, the bubble sort seems to have nothing to recommend it, except a catchy name and the fact that it leads to some interesting theoretical problems.\" Although bubble sort may not be a best practice sort, perhaps the weight of history is more than enough to compensate and provide for its longevity.",
+      "description": "Scans all running processes. Recognizes and dumps a variety of potentially malicious implants (replaced/implanted PEs, shellcodes, hooks, in-memory patches). - GitHub - hasherezade/hollows_hunter: ...",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "",
+      "site_name": "GitHub",
       "video": [],
       "favicon": {
-        "url": "https://cdn.semanticscholar.org/00074304eea6145c/img/favicon-128.png"
+        "url": "https://github.githubassets.com/favicons/favicon.svg"
       }
     }
   },
   {
-    "id": 30134500,
-    "title": "Did I just lose half a million dollars?",
-    "url": "https://www.reddit.com/r/ethereum/comments/sfz4kw/did_i_just_lose_half_a_million_dollars_by_sending/",
-    "time": 1643522384,
+    "id": 30140593,
+    "title": "Apple removes Grindr from the Chinese app store",
+    "url": "https://applecensorship.com/app-store-monitor/",
+    "time": 1643573198,
     "image": "",
-    "icon": "https://www.redditstatic.com/desktop2x/img/favicon/favicon-16x16.png",
-    "publisher": "reddit",
+    "icon": "https://i2.wp.com/applecensorship.com/wp-content/uploads/2020/12/cropped-fav.png?fit=192%2C192\u0026ssl=1",
+    "publisher": "applecensorship.com",
     "description": "",
-    "by": "olegious",
-    "points": 495,
-    "comment_count": 51,
+    "by": "cryoz",
+    "points": 23,
+    "comment_count": 7,
     "hn_item": {
-      "by": "drdee",
-      "descendants": 3,
-      "id": 30110655,
+      "by": "anfal_alatawi",
+      "descendants": 1,
+      "id": 30136844,
       "kids": [
-        30137570
+        30136845
       ],
-      "score": 17,
-      "time": 1643343398,
-      "title": "Possible Ninja Weapon Prototypes Discovered Among the Ruins of Castles in Japan",
+      "score": 15,
+      "time": 1643548001,
+      "title": "Knowledge Bases for Software Teams: What, Why and How?",
       "type": "story",
-      "url": "https://allthatsinteresting.com/ninja-weapons-prototypes"
+      "url": "https://anfalatawi.github.io/Docs/"
     },
     "og_item": {
-      "title": "Reddit - Dive into anything",
+      "title": "App Store Monitor – Apple Censorship",
       "type": "",
       "image": [],
       "url": "",
@@ -1465,45 +2398,180 @@
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "reddit",
+      "site_name": "",
       "video": [],
       "favicon": {
-        "url": "https://www.redditstatic.com/desktop2x/img/favicon/favicon-16x16.png"
+        "url": "https://i2.wp.com/applecensorship.com/wp-content/uploads/2020/12/cropped-fav.png?fit=192%2C192\u0026ssl=1"
       }
     }
   },
   {
-    "id": 30112906,
-    "title": "Hoare’s Rebuttal and Bubble Sort’s Comeback",
-    "url": "https://blog.reverberate.org/2020/05/29/hoares-rebuttal-bubble-sorts-comeback.html",
-    "time": 1643365893,
+    "id": 30139920,
+    "title": "How to auto-generate GraphQL schema?",
+    "url": "https://graphqlite.com/guides/schema-generator",
+    "time": 1643568747,
     "image": "",
-    "icon": "https://blog.reverberate.org/favicon.ico",
-    "publisher": "blog.reverberate.org",
-    "description": "Editor’s note: For this blog entry I welcome my friend and colleague Gerben Stavengaas a guest author.",
-    "by": "blopeur",
-    "points": 87,
-    "comment_count": 9,
+    "icon": "https://graphqlite.com/favicon-16x16.png",
+    "publisher": "graphqlite.com",
+    "description": "Rapid GraphQL prototyping, development, and testing.",
+    "by": "relatedcode",
+    "points": 4,
+    "comment_count": 1,
     "hn_item": {
-      "by": "drdee",
-      "descendants": 3,
-      "id": 30110655,
+      "by": "anfal_alatawi",
+      "descendants": 1,
+      "id": 30136844,
       "kids": [
-        30137570
+        30136845
       ],
-      "score": 17,
-      "time": 1643343398,
-      "title": "Possible Ninja Weapon Prototypes Discovered Among the Ruins of Castles in Japan",
+      "score": 15,
+      "time": 1643548001,
+      "title": "Knowledge Bases for Software Teams: What, Why and How?",
       "type": "story",
-      "url": "https://allthatsinteresting.com/ninja-weapons-prototypes"
+      "url": "https://anfalatawi.github.io/Docs/"
     },
     "og_item": {
-      "title": "Hoare’s Rebuttal and Bubble Sort’s Comeback",
+      "title": "Schema Generator | GraphQLite",
       "type": "",
       "image": [],
       "url": "",
       "audio": [],
-      "description": "Editor’s note: For this blog entry I welcome my friend and colleague Gerben Stavengaas a guest author.",
+      "description": "Rapid GraphQL prototyping, development, and testing.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon-16x16.png"
+      }
+    }
+  },
+  {
+    "id": 30139793,
+    "title": "Dave Packard's Simple Rules for Getting Along with Others (2013)",
+    "url": "https://fs.blog/dave-packards-11-simple-rules/",
+    "time": 1643568051,
+    "image": "",
+    "icon": "https://149664534.v2.pressablecdn.com/wp-content/uploads/2015/06/cropped-farnamstreet-300x300.png",
+    "publisher": "Farnam Street",
+    "description": "These 11 simple rules for getting along with others were first presented by Dave Packard at HP's second annual management conference in 1958.",
+    "by": "Tomte",
+    "points": 8,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "anfal_alatawi",
+      "descendants": 1,
+      "id": 30136844,
+      "kids": [
+        30136845
+      ],
+      "score": 15,
+      "time": 1643548001,
+      "title": "Knowledge Bases for Software Teams: What, Why and How?",
+      "type": "story",
+      "url": "https://anfalatawi.github.io/Docs/"
+    },
+    "og_item": {
+      "title": "11 Simple Rules For Getting Along With Others",
+      "type": "article",
+      "image": [],
+      "url": "https://fs.blog/dave-packards-11-simple-rules/",
+      "audio": [],
+      "description": "These 11 simple rules for getting along with others were first presented by Dave Packard at HP's second annual management conference in 1958.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Farnam Street",
+      "video": [],
+      "favicon": {
+        "url": "https://149664534.v2.pressablecdn.com/wp-content/uploads/2015/06/cropped-farnamstreet-300x300.png"
+      }
+    }
+  },
+  {
+    "id": 30139317,
+    "title": "QRImage: Web app to generate QR codes with images",
+    "url": "https://github.com/HughChen/qr_image",
+    "time": 1643565111,
+    "image": "https://opengraph.githubassets.com/5a1492f1260ae09ecc1d646a5c0c34287805e04ba77cf820b04364f192bcef32/HughChen/qr_image",
+    "icon": "https://github.githubassets.com/favicons/favicon.svg",
+    "publisher": "GitHub",
+    "description": "A web app to generate valid QR codes with readable images. - GitHub - HughChen/qr_image: A web app to generate valid QR codes with readable images.",
+    "by": "modinfo",
+    "points": 8,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "anfal_alatawi",
+      "descendants": 1,
+      "id": 30136844,
+      "kids": [
+        30136845
+      ],
+      "score": 15,
+      "time": 1643548001,
+      "title": "Knowledge Bases for Software Teams: What, Why and How?",
+      "type": "story",
+      "url": "https://anfalatawi.github.io/Docs/"
+    },
+    "og_item": {
+      "title": "GitHub - HughChen/qr_image: A web app to generate valid QR codes with readable images.",
+      "type": "object",
+      "image": [
+        {
+          "url": "https://opengraph.githubassets.com/5a1492f1260ae09ecc1d646a5c0c34287805e04ba77cf820b04364f192bcef32/HughChen/qr_image",
+          "secure_url": "",
+          "type": "",
+          "width": 1200,
+          "height": 600,
+          "alt": ""
+        }
+      ],
+      "url": "https://github.com/HughChen/qr_image",
+      "audio": [],
+      "description": "A web app to generate valid QR codes with readable images. - GitHub - HughChen/qr_image: A web app to generate valid QR codes with readable images.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "GitHub",
+      "video": [],
+      "favicon": {
+        "url": "https://github.githubassets.com/favicons/favicon.svg"
+      }
+    }
+  },
+  {
+    "id": 30140757,
+    "title": "Windows 11 update changed default browser to Edge, Chrome search-engine to Bing",
+    "url": "https://old.reddit.com/r/sysadmin/comments/sbgmab/last_windows_11_update_changed_default_browser_to/",
+    "time": 1643574322,
+    "image": "",
+    "icon": "https://old.reddit.com/favicon.ico",
+    "publisher": "old.reddit.com",
+    "description": "",
+    "by": "qwertyuiop_",
+    "points": 10,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "anfal_alatawi",
+      "descendants": 1,
+      "id": 30136844,
+      "kids": [
+        30136845
+      ],
+      "score": 15,
+      "time": 1643548001,
+      "title": "Knowledge Bases for Software Teams: What, Why and How?",
+      "type": "story",
+      "url": "https://anfalatawi.github.io/Docs/"
+    },
+    "og_item": {
+      "title": "Too Many Requests",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
@@ -1519,38 +2587,30 @@
     "title": "Applying Offensive Reverse Engineering to Facebook Gameroom (2021)",
     "url": "https://spaceraccoon.dev/applying-offensive-reverse-engineering-to-facebook-gameroom",
     "time": 1643528608,
-    "image": "https://i.snap.as/1WqTF9Js.png",
+    "image": "https://i.snap.as/jjQW80ts.png",
     "icon": "https://cdn.writeas.net/favicon.ico",
     "publisher": "spaceraccoon.dev",
     "description": "Late last year, I was invited to Facebook's Bountycon event, which is an invitation-only application security conference with a live-hack...",
     "by": "redbell",
-    "points": 54,
+    "points": 60,
     "comment_count": 1,
     "hn_item": {
-      "by": "drdee",
-      "descendants": 3,
-      "id": 30110655,
+      "by": "anfal_alatawi",
+      "descendants": 1,
+      "id": 30136844,
       "kids": [
-        30137570
+        30136845
       ],
-      "score": 17,
-      "time": 1643343398,
-      "title": "Possible Ninja Weapon Prototypes Discovered Among the Ruins of Castles in Japan",
+      "score": 15,
+      "time": 1643548001,
+      "title": "Knowledge Bases for Software Teams: What, Why and How?",
       "type": "story",
-      "url": "https://allthatsinteresting.com/ninja-weapons-prototypes"
+      "url": "https://anfalatawi.github.io/Docs/"
     },
     "og_item": {
       "title": "Applying Offensive Reverse Engineering to Facebook Gameroom",
       "type": "article",
       "image": [
-        {
-          "url": "https://i.snap.as/1WqTF9Js.png",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        },
         {
           "url": "https://i.snap.as/jjQW80ts.png",
           "secure_url": "",
@@ -1561,6 +2621,14 @@
         },
         {
           "url": "https://i.snap.as/87VMrxlZ.png",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        },
+        {
+          "url": "https://i.snap.as/1WqTF9Js.png",
           "secure_url": "",
           "type": "",
           "width": 0,
@@ -1591,20 +2659,20 @@
     "publisher": "Software Freedom Conservancy",
     "description": "Our Motion to Remand in Vizio Lawsuit Shows How the Law Brings Software Freedom to All Users Yesterday afternoon, we filed a Motion for Remand in our\nlawsuit against Vizio for their flagrant GPL \u0026 LGPL violations, alleged\nwith great detail in our complaint in California state\ncourt.  Vizio's resp…",
     "by": "pabs3",
-    "points": 174,
+    "points": 188,
     "comment_count": 7,
     "hn_item": {
-      "by": "drdee",
-      "descendants": 3,
-      "id": 30110655,
+      "by": "anfal_alatawi",
+      "descendants": 1,
+      "id": 30136844,
       "kids": [
-        30137570
+        30136845
       ],
-      "score": 17,
-      "time": 1643343398,
-      "title": "Possible Ninja Weapon Prototypes Discovered Among the Ruins of Castles in Japan",
+      "score": 15,
+      "time": 1643548001,
+      "title": "Knowledge Bases for Software Teams: What, Why and How?",
       "type": "story",
-      "url": "https://allthatsinteresting.com/ninja-weapons-prototypes"
+      "url": "https://anfalatawi.github.io/Docs/"
     },
     "og_item": {
       "title": "One More Small Step Toward The Right to Software Repair",
@@ -1633,61 +2701,407 @@
     }
   },
   {
-    "id": 30134135,
-    "title": "RIP Stack Overflow Jobs",
-    "url": "https://blog.tdwright.co.uk/2022/01/29/only-the-great-die-at-11-rip-stack-overflow-jobs/",
-    "time": 1643518143,
-    "image": "",
-    "icon": "https://i0.wp.com/blog.tdwright.co.uk/wp-content/uploads/2020/05/cropped-android-chrome-512x512-1.png?fit=192%2C192\u0026ssl=1",
-    "publisher": "Tom Wrights Code",
-    "description": "Stack Overflow have announced they are going to kill off sunset their popular Jobs product. In this post, I talk about what Jobs was, why it was great, and why so many (myself included) will be sad…",
-    "by": "signa11",
-    "points": 88,
+    "id": 30139764,
+    "title": "Reducing inequality can reverse political polarisation: study",
+    "url": "https://www.thesaint.scot/post/university-study-finds-reducing-inequality-can-reverse-political-polarisation",
+    "time": 1643567828,
+    "image": "https://static.wixstatic.com/media/aa276a_6a650222c79e42e4b19de23ecce86c83~mv2.jpeg/v1/fit/w_1000%2Ch_1000%2Cal_c%2Cq_80/file.jpeg",
+    "icon": "https://static.parastorage.com/client/pfavico.ico",
+    "publisher": "The Saint",
+    "description": "Political attitudes that have become increasingly polarised could be prevented by the redistribution of wealth, a new study by the University of St Andrews suggests.\nThe study – led by Dr Alexander Stewart of the School of Mathematics and Statistics – found that polarised political attitudes …",
+    "by": "krigath",
+    "points": 92,
     "comment_count": 16,
     "hn_item": {
-      "by": "drdee",
-      "descendants": 3,
-      "id": 30110655,
+      "by": "anfal_alatawi",
+      "descendants": 1,
+      "id": 30136844,
       "kids": [
-        30137570
+        30136845
       ],
-      "score": 17,
-      "time": 1643343398,
-      "title": "Possible Ninja Weapon Prototypes Discovered Among the Ruins of Castles in Japan",
+      "score": 15,
+      "time": 1643548001,
+      "title": "Knowledge Bases for Software Teams: What, Why and How?",
       "type": "story",
-      "url": "https://allthatsinteresting.com/ninja-weapons-prototypes"
+      "url": "https://anfalatawi.github.io/Docs/"
     },
     "og_item": {
-      "title": "Only the great die at 11 (RIP Stack Overflow Jobs)",
+      "title": "University Study Finds Reducing Inequality Can Reverse Political Polarisation",
       "type": "article",
       "image": [
         {
-          "url": "",
+          "url": "https://static.wixstatic.com/media/aa276a_6a650222c79e42e4b19de23ecce86c83~mv2.jpeg/v1/fit/w_1000%2Ch_1000%2Cal_c%2Cq_80/file.jpeg",
+          "secure_url": "",
+          "type": "",
+          "width": 1916,
+          "height": 2253,
+          "alt": ""
+        }
+      ],
+      "url": "https://www.thesaint.scot/post/university-study-finds-reducing-inequality-can-reverse-political-polarisation",
+      "audio": [],
+      "description": "Political attitudes that have become increasingly polarised could be prevented by the redistribution of wealth, a new study by the University of St Andrews suggests.\nThe study – led by Dr Alexander Stewart of the School of Mathematics and Statistics – found that polarised political attitudes are exacerbated when economic hardship, inequality and racial conflict become aligned with existing political divisions.\nFollowing the Brexit vote, many UK voters still held onto rigid identities of Leaver o",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "The Saint",
+      "video": [],
+      "favicon": {
+        "url": "https://static.parastorage.com/client/pfavico.ico"
+      }
+    }
+  },
+  {
+    "id": 30139925,
+    "title": "New Book called “What if? 2” by Xkcd creator Randall Munroe",
+    "url": "https://www.amazon.com/What-Additional-Scientific-Hypothetical-Questions/dp/0525537112",
+    "time": 1643568806,
+    "image": "",
+    "icon": "https://www.amazon.com/favicon.ico",
+    "publisher": "amazon.com",
+    "description": "What If? 2: Additional Serious Scientific Answers to Absurd Hypothetical Questions [Munroe, Randall] on Amazon.com. *FREE* shipping on qualifying offers. What If? 2: Additional Serious Scientific Answers to Absurd Hypothetical Questions",
+    "by": "mccorrinall",
+    "points": 27,
+    "comment_count": 3,
+    "hn_item": {
+      "by": "anfal_alatawi",
+      "descendants": 1,
+      "id": 30136844,
+      "kids": [
+        30136845
+      ],
+      "score": 15,
+      "time": 1643548001,
+      "title": "Knowledge Bases for Software Teams: What, Why and How?",
+      "type": "story",
+      "url": "https://anfalatawi.github.io/Docs/"
+    },
+    "og_item": {
+      "title": "What If? 2: Additional Serious Scientific Answers to Absurd Hypothetical Questions: Munroe, Randall: 9780525537113: Amazon.com: Books",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "What If? 2: Additional Serious Scientific Answers to Absurd Hypothetical Questions [Munroe, Randall] on Amazon.com. *FREE* shipping on qualifying offers. What If? 2: Additional Serious Scientific Answers to Absurd Hypothetical Questions",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30128061,
+    "title": "Nuanced communication usually doesn't work at scale",
+    "url": "https://twitter.com/danluu/status/1487228574608211969",
+    "time": 1643476385,
+    "image": "",
+    "icon": "https://abs.twimg.com/favicons/twitter.2.ico",
+    "publisher": "Twitter",
+    "description": "",
+    "by": "tagolli",
+    "points": 687,
+    "comment_count": 70,
+    "hn_item": {
+      "by": "anfal_alatawi",
+      "descendants": 1,
+      "id": 30136844,
+      "kids": [
+        30136845
+      ],
+      "score": 15,
+      "time": 1643548001,
+      "title": "Knowledge Bases for Software Teams: What, Why and How?",
+      "type": "story",
+      "url": "https://anfalatawi.github.io/Docs/"
+    },
+    "og_item": {
+      "title": "",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Twitter",
+      "video": [],
+      "favicon": {
+        "url": "//abs.twimg.com/favicons/twitter.2.ico"
+      }
+    }
+  },
+  {
+    "id": 30139457,
+    "title": "What is the best way to learn Python for Bioinformatics?",
+    "url": "https://news.ycombinator.com/item?id=30139457",
+    "time": 1643565919,
+    "image": "",
+    "icon": "https://news.ycombinator.com/favicon.ico",
+    "publisher": "Hacker News",
+    "description": "",
+    "by": "sam537",
+    "points": 10,
+    "comment_count": 5,
+    "hn_item": {
+      "by": "anfal_alatawi",
+      "descendants": 1,
+      "id": 30136844,
+      "kids": [
+        30136845
+      ],
+      "score": 15,
+      "time": 1643548001,
+      "title": "Knowledge Bases for Software Teams: What, Why and How?",
+      "type": "story",
+      "url": "https://anfalatawi.github.io/Docs/"
+    },
+    "og_item": {
+      "title": "What is the best way to learn Python for Bioinformatics? | Hacker News",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30138546,
+    "title": "Show HN: A Safari web extension to access alternate news",
+    "url": "https://stayobjective.com/",
+    "time": 1643560364,
+    "image": "https://stayobjective.com/social.jpg",
+    "icon": "https://stayobjective.com/favicon.ico",
+    "publisher": "stayobjective.com",
+    "description": "A privacy focused iOS Safari News Extension to fight against misinformation and stay objective",
+    "by": "lintfail",
+    "points": 7,
+    "comment_count": 2,
+    "hn_item": {
+      "by": "anfal_alatawi",
+      "descendants": 1,
+      "id": 30136844,
+      "kids": [
+        30136845
+      ],
+      "score": 15,
+      "time": 1643548001,
+      "title": "Knowledge Bases for Software Teams: What, Why and How?",
+      "type": "story",
+      "url": "https://anfalatawi.github.io/Docs/"
+    },
+    "og_item": {
+      "title": "Objective News App \u0026 Safari Extension",
+      "type": "website",
+      "image": [
+        {
+          "url": "https://stayobjective.com/social.jpg",
           "secure_url": "",
           "type": "",
           "width": 0,
           "height": 0,
           "alt": ""
-        },
-        {
-          "url": "https://blog.tdwright.co.uk/wp-content/uploads/2022/01/image.png",
-          "secure_url": "",
-          "type": "",
-          "width": 1456,
-          "height": 1078,
-          "alt": ""
         }
       ],
-      "url": "https://blog.tdwright.co.uk/2022/01/29/only-the-great-die-at-11-rip-stack-overflow-jobs/",
+      "url": "https://stayobjective.com/",
       "audio": [],
-      "description": "Stack Overflow have announced they are going to kill off sunset their popular Jobs product. In this post, I talk about what Jobs was, why it was great, and why so many (myself included) will be sad…",
+      "description": "A privacy focused iOS Safari News Extension to fight against misinformation and stay objective",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "Tom Wrights Code",
+      "site_name": "",
       "video": [],
       "favicon": {
-        "url": "https://i0.wp.com/blog.tdwright.co.uk/wp-content/uploads/2020/05/cropped-android-chrome-512x512-1.png?fit=192%2C192\u0026ssl=1"
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30137127,
+    "title": "Reducing the Size of Large PDFs",
+    "url": "https://leancrew.com/all-this/2022/01/reducing-the-size-of-large-pdfs/",
+    "time": 1643550336,
+    "image": "",
+    "icon": "https://leancrew.com/all-this/2022/01/reducing-the-size-of-large-pdfs/../../../resources/snowman-200.png",
+    "publisher": "leancrew.com",
+    "description": "",
+    "by": "ingve",
+    "points": 15,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "anfal_alatawi",
+      "descendants": 1,
+      "id": 30136844,
+      "kids": [
+        30136845
+      ],
+      "score": 15,
+      "time": 1643548001,
+      "title": "Knowledge Bases for Software Teams: What, Why and How?",
+      "type": "story",
+      "url": "https://anfalatawi.github.io/Docs/"
+    },
+    "og_item": {
+      "title": "Reducing the size of large PDFs - All this",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "../../../resources/snowman-200.png"
+      }
+    }
+  },
+  {
+    "id": 30131628,
+    "title": "Phone is still the best way to order pizza",
+    "url": "https://dan.bulwinkle.net/blog/phone-is-still-the-best-way-to-order-pizza/",
+    "time": 1643498299,
+    "image": "",
+    "icon": "https://dan.bulwinkle.net/img/favicon.ico",
+    "publisher": "dan.bulwinkle.net",
+    "description": "Apps create more friction for ordering pizza",
+    "by": "pilingual",
+    "points": 329,
+    "comment_count": 106,
+    "hn_item": {
+      "by": "anfal_alatawi",
+      "descendants": 1,
+      "id": 30136844,
+      "kids": [
+        30136845
+      ],
+      "score": 15,
+      "time": 1643548001,
+      "title": "Knowledge Bases for Software Teams: What, Why and How?",
+      "type": "story",
+      "url": "https://anfalatawi.github.io/Docs/"
+    },
+    "og_item": {
+      "title": "Phone is Still the Best Way to Order Pizza",
+      "type": "article",
+      "image": [],
+      "url": "https://dan.bulwinkle.net/blog/phone-is-still-the-best-way-to-order-pizza/",
+      "audio": [],
+      "description": "Apps create more friction for ordering pizza",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "https://dan.bulwinkle.net/img/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30136835,
+    "title": "New engine could save internal combustion from the scrap heap",
+    "url": "https://www.motor1.com/news/563664/new-omega-combustion-engine-design/",
+    "time": 1643547924,
+    "image": "https://cdn.motor1.com/images/mgl/6ZpjWX/s1/omega-1-engine.jpg",
+    "icon": "https://www.motor1.com/favicon.ico",
+    "publisher": "Motor1.com",
+    "description": "A new engine technology could reinvent the internal combustion engine for the future, capable of better efficiency and fewer emissions.",
+    "by": "bobajeff",
+    "points": 15,
+    "comment_count": 3,
+    "hn_item": {
+      "by": "anfal_alatawi",
+      "descendants": 1,
+      "id": 30136844,
+      "kids": [
+        30136845
+      ],
+      "score": 15,
+      "time": 1643548001,
+      "title": "Knowledge Bases for Software Teams: What, Why and How?",
+      "type": "story",
+      "url": "https://anfalatawi.github.io/Docs/"
+    },
+    "og_item": {
+      "title": "This New Engine Could Save Internal Combustion From The Scrap Heap",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://cdn.motor1.com/images/mgl/6ZpjWX/s1/omega-1-engine.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 1920,
+          "height": 1080,
+          "alt": ""
+        }
+      ],
+      "url": "https://www.motor1.com/news/563664/new-omega-combustion-engine-design/",
+      "audio": [],
+      "description": "A new engine technology could reinvent the internal combustion engine for the future, capable of better efficiency and fewer emissions. ",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Motor1.com",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30134058,
+    "title": "Tofuproxy – Web proxy, TLS terminator, X.509 TOFU manager, WARC/gemini browser",
+    "url": "http://www.tofuproxy.stargrave.org/",
+    "time": 1643517260,
+    "image": "",
+    "icon": "",
+    "publisher": "tofuproxy.stargrave.org",
+    "description": "tofuproxy (tofuproxy)",
+    "by": "pabs3",
+    "points": 57,
+    "comment_count": 4,
+    "hn_item": {
+      "by": "anfal_alatawi",
+      "descendants": 1,
+      "id": 30136844,
+      "kids": [
+        30136845
+      ],
+      "score": 15,
+      "time": 1643548001,
+      "title": "Knowledge Bases for Software Teams: What, Why and How?",
+      "type": "story",
+      "url": "https://anfalatawi.github.io/Docs/"
+    },
+    "og_item": {
+      "title": "tofuproxy (tofuproxy)",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "tofuproxy (tofuproxy)",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
       }
     }
   },
@@ -1701,20 +3115,20 @@
     "publisher": "CNN",
     "description": "A tweak to California State University's anti-discrimination policy that quietly went into effect on January 1 acknowledges caste discrimination. Now that the largest university system in the country's most populous state has committed to caste protections, many hope the movement for caste equity…",
     "by": "xqcgrek2",
-    "points": 7,
-    "comment_count": 1,
+    "points": 23,
+    "comment_count": 6,
     "hn_item": {
-      "by": "drdee",
-      "descendants": 3,
-      "id": 30110655,
+      "by": "anfal_alatawi",
+      "descendants": 1,
+      "id": 30136844,
       "kids": [
-        30137570
+        30136845
       ],
-      "score": 17,
-      "time": 1643343398,
-      "title": "Possible Ninja Weapon Prototypes Discovered Among the Ruins of Castles in Japan",
+      "score": 15,
+      "time": 1643548001,
+      "title": "Knowledge Bases for Software Teams: What, Why and How?",
       "type": "story",
-      "url": "https://allthatsinteresting.com/ninja-weapons-prototypes"
+      "url": "https://anfalatawi.github.io/Docs/"
     },
     "og_item": {
       "title": "Colleges and universities across the US are moving to ban caste discrimination",
@@ -1743,626 +3157,44 @@
     }
   },
   {
-    "id": 30138445,
-    "title": "Nils Lofgren Pulls Music from Spotify in Solidarity with Neil Young",
-    "url": "https://www.rollingstone.com/music/music-news/nils-lofgren-spotify-neil-young-1292480/",
-    "time": 1643559488,
-    "image": "https://www.rollingstone.com/wp-content/uploads/2022/01/GettyImages-538378964.jpg",
-    "icon": "https://www.rollingstone.com/wp-content/uploads/2018/07/cropped-rs-favicon.png?w=192",
-    "publisher": "Rolling Stone",
-    "description": "“We encourage all musicians, artists and music lovers everywhere, to stand with us all, and cut ties with Spotify,” guitarist writes",
-    "by": "basisword",
-    "points": 11,
-    "comment_count": 2,
-    "hn_item": {
-      "by": "drdee",
-      "descendants": 3,
-      "id": 30110655,
-      "kids": [
-        30137570
-      ],
-      "score": 17,
-      "time": 1643343398,
-      "title": "Possible Ninja Weapon Prototypes Discovered Among the Ruins of Castles in Japan",
-      "type": "story",
-      "url": "https://allthatsinteresting.com/ninja-weapons-prototypes"
-    },
-    "og_item": {
-      "title": "Nils Lofgren Pulls Music From Spotify in Solidarity With Neil Young",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://www.rollingstone.com/wp-content/uploads/2022/01/GettyImages-538378964.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 1024,
-          "height": 682,
-          "alt": ""
-        }
-      ],
-      "url": "https://www.rollingstone.com/music/music-news/nils-lofgren-spotify-neil-young-1292480/",
-      "audio": [],
-      "description": "“We encourage all musicians, artists and music lovers everywhere, to stand with us all, and cut ties with Spotify,” guitarist writes",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Rolling Stone",
-      "video": [],
-      "favicon": {
-        "url": "https://www.rollingstone.com/wp-content/uploads/2018/07/cropped-rs-favicon.png?w=192"
-      }
-    }
-  },
-  {
-    "id": 30123773,
-    "title": "Decoupled Transactions: Low Tail Latency Transactions Atop Jittery Servers",
-    "url": "http://muratbuffalo.blogspot.com/2022/01/decoupled-transactions-low-tail-latency.html",
-    "time": 1643430201,
-    "image": "https://blogger.googleusercontent.com/img/a/AVvXsEgX-op1SnGCcrDHVY5il-ZDt8iALe2_XUuazzABlZ_fpLj2mu3BQDEyeJMFZ0Nr_xHT6q38JdXAJAFWMbJp3Udaox7dVc78gwTsmORDyWlu286mOcwqhJjVxNfZpUlaDdUkJBRmFXvApzSHf39UvuK9EgaQPqUCyygA49QnpK8teEtZuod8PpW-dk5w=w1200-h630-p-k-no-nu",
-    "icon": "",
-    "publisher": "muratbuffalo.blogspot.com",
-    "description": "This is a CIDR22 paper by Pat Helland.  It is a long paper at 18 pages, followed by 12 pages of  appendix. Since he wrote such a long paper,...",
-    "by": "zdw",
-    "points": 13,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "drdee",
-      "descendants": 3,
-      "id": 30110655,
-      "kids": [
-        30137570
-      ],
-      "score": 17,
-      "time": 1643343398,
-      "title": "Possible Ninja Weapon Prototypes Discovered Among the Ruins of Castles in Japan",
-      "type": "story",
-      "url": "https://allthatsinteresting.com/ninja-weapons-prototypes"
-    },
-    "og_item": {
-      "title": " Decoupled Transactions: Low Tail Latency Online Transactions Atop Jittery Servers (CIDR 2022)",
-      "type": "",
-      "image": [
-        {
-          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEgX-op1SnGCcrDHVY5il-ZDt8iALe2_XUuazzABlZ_fpLj2mu3BQDEyeJMFZ0Nr_xHT6q38JdXAJAFWMbJp3Udaox7dVc78gwTsmORDyWlu286mOcwqhJjVxNfZpUlaDdUkJBRmFXvApzSHf39UvuK9EgaQPqUCyygA49QnpK8teEtZuod8PpW-dk5w=w1200-h630-p-k-no-nu",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "http://muratbuffalo.blogspot.com/2022/01/decoupled-transactions-low-tail-latency.html",
-      "audio": [],
-      "description": "This is a CIDR22 paper by Pat Helland.  It is a long paper at 18 pages, followed by 12 pages of  appendix. Since he wrote such a long paper,...",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "http://muratbuffalo.blogspot.com/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30128061,
-    "title": "Nuanced communication usually doesn't work at scale",
-    "url": "https://twitter.com/danluu/status/1487228574608211969",
-    "time": 1643476385,
+    "id": 30117637,
+    "title": "Things we finally know about network queues (2017)",
+    "url": "https://apenwarr.ca/log/20170814",
+    "time": 1643390700,
     "image": "",
-    "icon": "https://abs.twimg.com/favicons/twitter.2.ico",
-    "publisher": "Twitter",
-    "description": "",
-    "by": "tagolli",
-    "points": 677,
-    "comment_count": 70,
+    "icon": "https://apenwarr.ca/img/chicken.gif",
+    "publisher": "apenwarr.ca",
+    "description": "How big should your queue be, and what should you do when it fills up?  Many\ntimes, we implement or even deploy a networking system before w...",
+    "by": "Tomte",
+    "points": 159,
+    "comment_count": 10,
     "hn_item": {
-      "by": "drdee",
-      "descendants": 3,
-      "id": 30110655,
+      "by": "anfal_alatawi",
+      "descendants": 1,
+      "id": 30136844,
       "kids": [
-        30137570
+        30136845
       ],
-      "score": 17,
-      "time": 1643343398,
-      "title": "Possible Ninja Weapon Prototypes Discovered Among the Ruins of Castles in Japan",
+      "score": 15,
+      "time": 1643548001,
+      "title": "Knowledge Bases for Software Teams: What, Why and How?",
       "type": "story",
-      "url": "https://allthatsinteresting.com/ninja-weapons-prototypes"
+      "url": "https://anfalatawi.github.io/Docs/"
     },
     "og_item": {
-      "title": "",
+      "title": "Things we (finally) know about network queues",
       "type": "",
       "image": [],
       "url": "",
       "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Twitter",
-      "video": [],
-      "favicon": {
-        "url": "//abs.twimg.com/favicons/twitter.2.ico"
-      }
-    }
-  },
-  {
-    "id": 30136831,
-    "title": "Ask HN: Is it worth it to learn C to better understand Python?",
-    "url": "https://news.ycombinator.com/item?id=30136831",
-    "time": 1643547876,
-    "image": "",
-    "icon": "https://news.ycombinator.com/favicon.ico",
-    "publisher": "Hacker News",
-    "description": "",
-    "by": "Takizawamura",
-    "points": 30,
-    "comment_count": 37,
-    "hn_item": {
-      "by": "drdee",
-      "descendants": 3,
-      "id": 30110655,
-      "kids": [
-        30137570
-      ],
-      "score": 17,
-      "time": 1643343398,
-      "title": "Possible Ninja Weapon Prototypes Discovered Among the Ruins of Castles in Japan",
-      "type": "story",
-      "url": "https://allthatsinteresting.com/ninja-weapons-prototypes"
-    },
-    "og_item": {
-      "title": "Ask HN: Is it worth it to learn C to better understand Python? | Hacker News",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
+      "description": "How big should your queue be, and what should you do when it fills up?  Many\ntimes, we implement or even deploy a networking system before w...",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
       "site_name": "",
       "video": [],
       "favicon": {
-        "url": "favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30114592,
-    "title": "Can medieval sleeping habits fix America’s insomnia?",
-    "url": "https://www.theatlantic.com/ideas/archive/2022/01/medieval-sleeping-habits-insomnia-segmented-biphasic/621372/",
-    "time": 1643378246,
-    "image": "https://cdn.theatlantic.com/thumbor/MxdLIKMQpSK2AnZ3-baUtzJIqOs=/0x43:2000x1085/960x500/media/img/mt/2022/01/MidevalSleep/original.jpg",
-    "icon": "https://cdn.theatlantic.com/_next/static/images/favicon-3888b0e329526a975703e3059a02b92d.ico",
-    "publisher": "The Atlantic",
-    "description": "The history of “first sleep” and “second sleep” holds surprising lessons about preindustrial life, 21st-century anxiety, and the problem with digging for utopia in the past.",
-    "by": "pseudolus",
-    "points": 82,
-    "comment_count": 30,
-    "hn_item": {
-      "by": "drdee",
-      "descendants": 3,
-      "id": 30110655,
-      "kids": [
-        30137570
-      ],
-      "score": 17,
-      "time": 1643343398,
-      "title": "Possible Ninja Weapon Prototypes Discovered Among the Ruins of Castles in Japan",
-      "type": "story",
-      "url": "https://allthatsinteresting.com/ninja-weapons-prototypes"
-    },
-    "og_item": {
-      "title": "Can Medieval Sleeping Habits Fix America’s Insomnia?",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://cdn.theatlantic.com/thumbor/MxdLIKMQpSK2AnZ3-baUtzJIqOs=/0x43:2000x1085/960x500/media/img/mt/2022/01/MidevalSleep/original.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://www.theatlantic.com/ideas/archive/2022/01/medieval-sleeping-habits-insomnia-segmented-biphasic/621372/",
-      "audio": [],
-      "description": "The history of “first sleep” and “second sleep” holds surprising lessons about preindustrial life, 21st-century anxiety, and the problem with digging for utopia in the past.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "The Atlantic",
-      "video": [],
-      "favicon": {
-        "url": "https://cdn.theatlantic.com/_next/static/images/favicon-3888b0e329526a975703e3059a02b92d.ico"
-      }
-    }
-  },
-  {
-    "id": 30138314,
-    "title": "Computers Don't Argue",
-    "url": "https://en.wikipedia.org/wiki/Computers_Don%27t_Argue",
-    "time": 1643558676,
-    "image": "",
-    "icon": "https://en.wikipedia.org/static/favicon/wikipedia.ico",
-    "publisher": "en.wikipedia.org",
-    "description": "",
-    "by": "josephcsible",
-    "points": 10,
-    "comment_count": 3,
-    "hn_item": {
-      "by": "drdee",
-      "descendants": 3,
-      "id": 30110655,
-      "kids": [
-        30137570
-      ],
-      "score": 17,
-      "time": 1643343398,
-      "title": "Possible Ninja Weapon Prototypes Discovered Among the Ruins of Castles in Japan",
-      "type": "story",
-      "url": "https://allthatsinteresting.com/ninja-weapons-prototypes"
-    },
-    "og_item": {
-      "title": "Computers Don't Argue - Wikipedia",
-      "type": "website",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/static/favicon/wikipedia.ico"
-      }
-    }
-  },
-  {
-    "id": 30131628,
-    "title": "Phone is still the best way to order pizza",
-    "url": "https://dan.bulwinkle.net/blog/phone-is-still-the-best-way-to-order-pizza/",
-    "time": 1643498299,
-    "image": "",
-    "icon": "https://dan.bulwinkle.net/img/favicon.ico",
-    "publisher": "dan.bulwinkle.net",
-    "description": "Apps create more friction for ordering pizza",
-    "by": "pilingual",
-    "points": 314,
-    "comment_count": 104,
-    "hn_item": {
-      "by": "drdee",
-      "descendants": 3,
-      "id": 30110655,
-      "kids": [
-        30137570
-      ],
-      "score": 17,
-      "time": 1643343398,
-      "title": "Possible Ninja Weapon Prototypes Discovered Among the Ruins of Castles in Japan",
-      "type": "story",
-      "url": "https://allthatsinteresting.com/ninja-weapons-prototypes"
-    },
-    "og_item": {
-      "title": "Phone is Still the Best Way to Order Pizza",
-      "type": "article",
-      "image": [],
-      "url": "https://dan.bulwinkle.net/blog/phone-is-still-the-best-way-to-order-pizza/",
-      "audio": [],
-      "description": "Apps create more friction for ordering pizza",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "https://dan.bulwinkle.net/img/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30134058,
-    "title": "Tofuproxy – Web proxy, TLS terminator, X.509 TOFU manager, WARC/gemini browser",
-    "url": "http://www.tofuproxy.stargrave.org/",
-    "time": 1643517260,
-    "image": "",
-    "icon": "",
-    "publisher": "tofuproxy.stargrave.org",
-    "description": "tofuproxy (tofuproxy)",
-    "by": "pabs3",
-    "points": 55,
-    "comment_count": 3,
-    "hn_item": {
-      "by": "drdee",
-      "descendants": 3,
-      "id": 30110655,
-      "kids": [
-        30137570
-      ],
-      "score": 17,
-      "time": 1643343398,
-      "title": "Possible Ninja Weapon Prototypes Discovered Among the Ruins of Castles in Japan",
-      "type": "story",
-      "url": "https://allthatsinteresting.com/ninja-weapons-prototypes"
-    },
-    "og_item": {
-      "title": "tofuproxy (tofuproxy)",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "tofuproxy (tofuproxy)",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30124253,
-    "title": "Investigating how artists in Roman Egypt customized portraits for the dead",
-    "url": "https://www.archaeology.org/issues/451-2201/features/10182-egypt-mummy-portraits",
-    "time": 1643437758,
-    "image": "",
-    "icon": "https://www.archaeology.org/templates/arkystar/favicon.ico",
-    "publisher": "archaeology.org",
-    "description": "Researchers are using new scientific methods to\ninvestigate how artists in Roman Egypt\ncustomized portraits for the dead",
-    "by": "diodorus",
-    "points": 15,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "drdee",
-      "descendants": 3,
-      "id": 30110655,
-      "kids": [
-        30137570
-      ],
-      "score": 17,
-      "time": 1643343398,
-      "title": "Possible Ninja Weapon Prototypes Discovered Among the Ruins of Castles in Japan",
-      "type": "story",
-      "url": "https://allthatsinteresting.com/ninja-weapons-prototypes"
-    },
-    "og_item": {
-      "title": "At Face Value - Archaeology Magazine",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "Researchers are using new scientific methods to\ninvestigate how artists in Roman Egypt\ncustomized portraits for the dead",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/templates/arkystar/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30136586,
-    "title": "Steampunk Machine Learning",
-    "url": "https://queue.acm.org/detail.cfm?id=3511543",
-    "time": 1643545859,
-    "image": "",
-    "icon": "https://queue.acm.org/detail.cfm/favicon.ico",
-    "publisher": "queue.acm.org",
-    "description": "",
-    "by": "yurivish",
-    "points": 7,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "drdee",
-      "descendants": 3,
-      "id": 30110655,
-      "kids": [
-        30137570
-      ],
-      "score": 17,
-      "time": 1643343398,
-      "title": "Possible Ninja Weapon Prototypes Discovered Among the Ruins of Castles in Japan",
-      "type": "story",
-      "url": "https://allthatsinteresting.com/ninja-weapons-prototypes"
-    },
-    "og_item": {
-      "title": "Steampunk Machine Learning - ACM Queue",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30097586,
-    "title": "A pipe operator for JavaScript: introduction and use cases",
-    "url": "https://2ality.com/2022/01/pipe-operator.html",
-    "time": 1643270437,
-    "image": "",
-    "icon": "https://2ality.com/2022/01/../../img/favicon.png",
-    "publisher": "2ality.com",
-    "description": "",
-    "by": "mariuz",
-    "points": 55,
-    "comment_count": 11,
-    "hn_item": {
-      "by": "drdee",
-      "descendants": 3,
-      "id": 30110655,
-      "kids": [
-        30137570
-      ],
-      "score": 17,
-      "time": 1643343398,
-      "title": "Possible Ninja Weapon Prototypes Discovered Among the Ruins of Castles in Japan",
-      "type": "story",
-      "url": "https://allthatsinteresting.com/ninja-weapons-prototypes"
-    },
-    "og_item": {
-      "title": "A pipe operator for JavaScript: introduction and use cases",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "../../img/favicon.png"
-      }
-    }
-  },
-  {
-    "id": 30138669,
-    "title": "Ask HN: Has anyone leveraged GDPR to overturn automated bans?",
-    "url": "https://news.ycombinator.com/item?id=30138669",
-    "time": 1643561257,
-    "image": "",
-    "icon": "https://news.ycombinator.com/favicon.ico",
-    "publisher": "Hacker News",
-    "description": "",
-    "by": "ndmrs",
-    "points": 3,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "drdee",
-      "descendants": 3,
-      "id": 30110655,
-      "kids": [
-        30137570
-      ],
-      "score": 17,
-      "time": 1643343398,
-      "title": "Possible Ninja Weapon Prototypes Discovered Among the Ruins of Castles in Japan",
-      "type": "story",
-      "url": "https://allthatsinteresting.com/ninja-weapons-prototypes"
-    },
-    "og_item": {
-      "title": "Ask HN: Has anyone leveraged GDPR to overturn automated bans? | Hacker News",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30112547,
-    "title": "Topos Theory in a Nutshell",
-    "url": "https://math.ucr.edu/home/baez/topos.html",
-    "time": 1643362482,
-    "image": "",
-    "icon": "https://math.ucr.edu/favicon.ico",
-    "publisher": "math.ucr.edu",
-    "description": "",
-    "by": "kondor",
-    "points": 35,
-    "comment_count": 3,
-    "hn_item": {
-      "by": "drdee",
-      "descendants": 3,
-      "id": 30110655,
-      "kids": [
-        30137570
-      ],
-      "score": 17,
-      "time": 1643343398,
-      "title": "Possible Ninja Weapon Prototypes Discovered Among the Ruins of Castles in Japan",
-      "type": "story",
-      "url": "https://allthatsinteresting.com/ninja-weapons-prototypes"
-    },
-    "og_item": {
-      "title": " topos ",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30130251,
-    "title": "Despite the hype, iPhone security no match for NSO spyware (2021)",
-    "url": "https://www.washingtonpost.com/technology/2021/07/19/apple-iphone-nso/",
-    "time": 1643489237,
-    "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IC73FIPDO5BOBEAGUPUKRWKOLM.jpg\u0026w=1440",
-    "icon": "https://www.washingtonpost.com/wp-stat/assets/favicons/touch-icon-iphone.png",
-    "publisher": "Washington Post",
-    "description": "An international investigation found 23 Apple devices that were successfully hacked. “Zero-click” attacks, as they are called within the surveillance industry, can work on even the newest generations of iPhones, even after years of effort in which Apple attempted to close the door against una…",
-    "by": "Scramblejams",
-    "points": 259,
-    "comment_count": 23,
-    "hn_item": {
-      "by": "drdee",
-      "descendants": 3,
-      "id": 30110655,
-      "kids": [
-        30137570
-      ],
-      "score": 17,
-      "time": 1643343398,
-      "title": "Possible Ninja Weapon Prototypes Discovered Among the Ruins of Castles in Japan",
-      "type": "story",
-      "url": "https://allthatsinteresting.com/ninja-weapons-prototypes"
-    },
-    "og_item": {
-      "title": "Despite the hype, iPhone security no match for NSO spyware",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IC73FIPDO5BOBEAGUPUKRWKOLM.jpg\u0026w=1440",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://www.washingtonpost.com/technology/2021/07/19/apple-iphone-nso/",
-      "audio": [],
-      "description": "An international investigation found 23 Apple devices that were successfully hacked. “Zero-click” attacks, as they are called within the surveillance industry, can work on even the newest generations of iPhones, even after years of effort in which Apple attempted to close the door against unauthorized surveillance.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Washington Post",
-      "video": [],
-      "favicon": {
-        "url": "https://www.washingtonpost.com/wp-stat/assets/favicons/touch-icon-iphone.png"
+        "url": "/img/chicken.gif"
       }
     }
   },
@@ -2376,20 +3208,20 @@
     "publisher": "anfalatawi.github.io",
     "description": "",
     "by": "anfal_alatawi",
-    "points": 6,
+    "points": 15,
     "comment_count": 1,
     "hn_item": {
-      "by": "drdee",
-      "descendants": 3,
-      "id": 30110655,
+      "by": "anfal_alatawi",
+      "descendants": 1,
+      "id": 30136844,
       "kids": [
-        30137570
+        30136845
       ],
-      "score": 17,
-      "time": 1643343398,
-      "title": "Possible Ninja Weapon Prototypes Discovered Among the Ruins of Castles in Japan",
+      "score": 15,
+      "time": 1643548001,
+      "title": "Knowledge Bases for Software Teams: What, Why and How?",
       "type": "story",
-      "url": "https://allthatsinteresting.com/ninja-weapons-prototypes"
+      "url": "https://anfalatawi.github.io/Docs/"
     },
     "og_item": {
       "title": "Knowledge Base - your company’s undervalued asset",
@@ -2405,877 +3237,6 @@
       "video": [],
       "favicon": {
         "url": "/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30099207,
-    "title": "Show HN: GravaMetrics – Powerful Dashboards made simple",
-    "url": "https://gravametrics.com/",
-    "time": 1643283430,
-    "image": "",
-    "icon": "https://gravametrics.com//img/favicon.ico",
-    "publisher": "gravametrics.com",
-    "description": "GravaMetrics cloud analytics and business intelligence pull your data together for actionable insight.",
-    "by": "Dave3of5",
-    "points": 14,
-    "comment_count": 4,
-    "hn_item": {
-      "by": "drdee",
-      "descendants": 3,
-      "id": 30110655,
-      "kids": [
-        30137570
-      ],
-      "score": 17,
-      "time": 1643343398,
-      "title": "Possible Ninja Weapon Prototypes Discovered Among the Ruins of Castles in Japan",
-      "type": "story",
-      "url": "https://allthatsinteresting.com/ninja-weapons-prototypes"
-    },
-    "og_item": {
-      "title": "Pull your data together | GravaMetrics",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "GravaMetrics cloud analytics and business intelligence pull your data together for actionable insight.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "img/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30120732,
-    "title": "I haven’t been I: On Fernando Pessoa (2021)",
-    "url": "https://www.lrb.co.uk/the-paper/v43/n16/colm-toibin/i-haven-t-been-i",
-    "time": 1643406006,
-    "image": "https://www.lrb.co.uk/media/cache/social_image/var/site/storage/images/4/0/9/4/26654904-1-eng-GB/Toibin-Website.jpg",
-    "icon": "https://www.lrb.co.uk/favicon-16x16.png",
-    "publisher": "London Review of Books",
-    "description": "The Book of Disquiet is almost about philosophy; its tone is often casual and then deliberate. Pessoa loves aphorism,...",
-    "by": "benbreen",
-    "points": 45,
-    "comment_count": 4,
-    "hn_item": {
-      "by": "drdee",
-      "descendants": 3,
-      "id": 30110655,
-      "kids": [
-        30137570
-      ],
-      "score": 17,
-      "time": 1643343398,
-      "title": "Possible Ninja Weapon Prototypes Discovered Among the Ruins of Castles in Japan",
-      "type": "story",
-      "url": "https://allthatsinteresting.com/ninja-weapons-prototypes"
-    },
-    "og_item": {
-      "title": "Colm Tóibín · I haven’t been I: The Real Fernando Pessoa · LRB 12 August 2021",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://www.lrb.co.uk/media/cache/social_image/var/site/storage/images/4/0/9/4/26654904-1-eng-GB/Toibin-Website.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 1280,
-          "height": 720,
-          "alt": ""
-        }
-      ],
-      "url": "https://www.lrb.co.uk/the-paper/v43/n16/colm-toibin/i-haven-t-been-i",
-      "audio": [],
-      "description": "The Book of Disquiet is almost about philosophy; its tone is often casual and then deliberate. Pessoa loves aphorism,...",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "London Review of Books",
-      "video": [],
-      "favicon": {
-        "url": "/favicon-16x16.png"
-      }
-    }
-  },
-  {
-    "id": 30132947,
-    "title": "Building single-page-apps with PostgREST",
-    "url": "https://blog.polyglot.network/backend.sql-+-frontend.js-love",
-    "time": 1643507361,
-    "image": "",
-    "icon": "https://blog.polyglot.network/favicon.ico",
-    "publisher": "blog.polyglot.network",
-    "description": "",
-    "by": "nileshtrivedi",
-    "points": 143,
-    "comment_count": 17,
-    "hn_item": {
-      "by": "drdee",
-      "descendants": 3,
-      "id": 30110655,
-      "kids": [
-        30137570
-      ],
-      "score": 17,
-      "time": 1643343398,
-      "title": "Possible Ninja Weapon Prototypes Discovered Among the Ruins of Castles in Japan",
-      "type": "story",
-      "url": "https://allthatsinteresting.com/ninja-weapons-prototypes"
-    },
-    "og_item": {
-      "title": "Just a moment...",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30135264,
-    "title": "GDPR penalty for passing on of IP address to Google by using Google Fonts",
-    "url": "https://rewis.io/urteile/urteil/lhm-20-01-2022-3-o-1749320/",
-    "time": 1643534176,
-    "image": "https://rewis.io/static/images/logo/rewis_twitter_card.d49e6a6a985f.jpg",
-    "icon": "https://rewis.io/static/images/logo/pwa-icons/maskable_icon_x512.png.pagespeed.ce.33lQcZqXxo.png",
-    "publisher": "rewis.io",
-    "description": "Urteil des LG München vom 20.01.2022 im Volltext.\n    \n        Gegenstand: Unterlassungsanspruch und Schadensersatz (hier 100 €) wg. Weitergabe von IP-Adresse an Google durch Nutzung von Google Fonts",
-    "by": "sitting_duck",
-    "points": 325,
-    "comment_count": 45,
-    "hn_item": {
-      "by": "drdee",
-      "descendants": 3,
-      "id": 30110655,
-      "kids": [
-        30137570
-      ],
-      "score": 17,
-      "time": 1643343398,
-      "title": "Possible Ninja Weapon Prototypes Discovered Among the Ruins of Castles in Japan",
-      "type": "story",
-      "url": "https://allthatsinteresting.com/ninja-weapons-prototypes"
-    },
-    "og_item": {
-      "title": "\n        \n    LG München: 3 O 17493/20 vom 20.01.2022  | 3. Zivilkammer\n    Papierfundstellen: GRUR-RS 2022, 612 \n\n    ",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://rewis.io/static/images/logo/rewis_twitter_card.d49e6a6a985f.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://rewis.io/urteile/urteil/lhm-20-01-2022-3-o-1749320/",
-      "audio": [],
-      "description": "\n    Urteil des LG München vom 20.01.2022 im Volltext.\n    \n        Gegenstand: Unterlassungsanspruch und Schadensersatz (hier 100 €) wg. Weitergabe von IP-Adresse an Google durch Nutzung von Google Fonts\n    \n",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/static/images/logo/pwa-icons/maskable_icon_x512.png.pagespeed.ce.33lQcZqXxo.png"
-      }
-    }
-  },
-  {
-    "id": 30119970,
-    "title": "The “Legal Tender” Decision (1863)",
-    "url": "https://www.nytimes.com/1863/06/06/archives/the-legal-tender-decision.html",
-    "time": 1643402041,
-    "image": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png?year=1863",
-    "icon": "https://www.nytimes.com/vi-assets/static-assets/favicon-d2483f10ef688e6f89e23806b9700298.ico",
-    "publisher": "The New York Times",
-    "description": "Legal-Tender Question; Cor. TIMES (C. B.) upon the",
-    "by": "omarfarooq",
-    "points": 20,
-    "comment_count": 4,
-    "hn_item": {
-      "by": "drdee",
-      "descendants": 3,
-      "id": 30110655,
-      "kids": [
-        30137570
-      ],
-      "score": 17,
-      "time": 1643343398,
-      "title": "Possible Ninja Weapon Prototypes Discovered Among the Ruins of Castles in Japan",
-      "type": "story",
-      "url": "https://allthatsinteresting.com/ninja-weapons-prototypes"
-    },
-    "og_item": {
-      "title": "The \"Legal Tender\" Decision. (Published 1863)",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png?year=1863",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://www.nytimes.com/1863/06/06/archives/the-legal-tender-decision.html",
-      "audio": [],
-      "description": "Legal-Tender Question; Cor. TIMES (C. B.) upon the",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/vi-assets/static-assets/favicon-d2483f10ef688e6f89e23806b9700298.ico"
-      }
-    }
-  },
-  {
-    "id": 30137288,
-    "title": "Fpx: Easy USB‑C power for all your devices",
-    "url": "https://fpx.oxplot.com",
-    "time": 1643551542,
-    "image": "https://fpx.oxplot.com/fpx.png",
-    "icon": "https://fpx.oxplot.com/favicon.ico",
-    "publisher": "fpx.oxplot.com",
-    "description": "Tiny \u0026 easy to configure module that enables use of USB‑C (USB‑PD) chargers, adapters \u0026 power banks as power sources.",
-    "by": "colek42",
-    "points": 15,
-    "comment_count": 1,
-    "hn_item": {
-      "by": "drdee",
-      "descendants": 3,
-      "id": 30110655,
-      "kids": [
-        30137570
-      ],
-      "score": 17,
-      "time": 1643343398,
-      "title": "Possible Ninja Weapon Prototypes Discovered Among the Ruins of Castles in Japan",
-      "type": "story",
-      "url": "https://allthatsinteresting.com/ninja-weapons-prototypes"
-    },
-    "og_item": {
-      "title": "fpx: easy USB‑C power for all your devices",
-      "type": "website",
-      "image": [
-        {
-          "url": "https://fpx.oxplot.com/fpx.png",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://fpx.oxplot.com",
-      "audio": [],
-      "description": "Tiny \u0026 easy to configure module that enables use of USB‑C (USB‑PD) chargers, adapters \u0026 power banks as power sources.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30128740,
-    "title": "War Is a Racket (1933)",
-    "url": "https://man.fas.org/smedley.htm",
-    "time": 1643479885,
-    "image": "",
-    "icon": "https://man.fas.org/favicon.ico",
-    "publisher": "man.fas.org",
-    "description": "",
-    "by": "johnny313",
-    "points": 264,
-    "comment_count": 23,
-    "hn_item": {
-      "by": "drdee",
-      "descendants": 3,
-      "id": 30110655,
-      "kids": [
-        30137570
-      ],
-      "score": 17,
-      "time": 1643343398,
-      "title": "Possible Ninja Weapon Prototypes Discovered Among the Ruins of Castles in Japan",
-      "type": "story",
-      "url": "https://allthatsinteresting.com/ninja-weapons-prototypes"
-    },
-    "og_item": {
-      "title": "\nSmedley Butler on Interventionism\n\n",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30135176,
-    "title": "Alexa whistleblower demands Amazon apology after being jailed and tortured",
-    "url": "https://www.theguardian.com/technology/2022/jan/30/alexa-factory-whistleblower-i-was-tortured-and-jailed-now-amazon-should-apologise",
-    "time": 1643533007,
-    "image": "https://i.guim.co.uk/img/media/e99fe03c3c76d52c73906225c45071699834a525/0_108_1440_864/master/1440.jpg?width=1200\u0026height=630\u0026quality=85\u0026auto=format\u0026fit=crop\u0026overlay-align=bottom%2Cleft\u0026overlay-width=100p\u0026overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tZGVmYXVsdC5wbmc\u0026enable=upscale\u0026s=30e377f7d069cad86c6fc31503c2de1b",
-    "icon": "https://static.guim.co.uk/images/favicon-32x32.ico",
-    "publisher": "the Guardian",
-    "description": "Tang Mingfang is willing to risk reprisals to clear his name over Foxconn revelations – and to get backing from Jeff Bezos",
-    "by": "charlysl",
-    "points": 62,
-    "comment_count": 6,
-    "hn_item": {
-      "by": "drdee",
-      "descendants": 3,
-      "id": 30110655,
-      "kids": [
-        30137570
-      ],
-      "score": 17,
-      "time": 1643343398,
-      "title": "Possible Ninja Weapon Prototypes Discovered Among the Ruins of Castles in Japan",
-      "type": "story",
-      "url": "https://allthatsinteresting.com/ninja-weapons-prototypes"
-    },
-    "og_item": {
-      "title": "Alexa whistleblower demands Amazon apology after being jailed and tortured",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://i.guim.co.uk/img/media/e99fe03c3c76d52c73906225c45071699834a525/0_108_1440_864/master/1440.jpg?width=1200\u0026height=630\u0026quality=85\u0026auto=format\u0026fit=crop\u0026overlay-align=bottom%2Cleft\u0026overlay-width=100p\u0026overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tZGVmYXVsdC5wbmc\u0026enable=upscale\u0026s=30e377f7d069cad86c6fc31503c2de1b",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://www.theguardian.com/technology/2022/jan/30/alexa-factory-whistleblower-i-was-tortured-and-jailed-now-amazon-should-apologise",
-      "audio": [],
-      "description": "Tang Mingfang is willing to risk reprisals to clear his name over Foxconn revelations – and to get backing from Jeff Bezos",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "the Guardian",
-      "video": [],
-      "favicon": {
-        "url": "https://static.guim.co.uk/images/favicon-32x32.ico"
-      }
-    }
-  },
-  {
-    "id": 30098855,
-    "title": "Cthulix: a Single System Image construction kit that is currently in development",
-    "url": "http://cthulix.com/preview.html",
-    "time": 1643280839,
-    "image": "",
-    "icon": "",
-    "publisher": "cthulix.com",
-    "description": "",
-    "by": "teleforce",
-    "points": 103,
-    "comment_count": 13,
-    "hn_item": {
-      "by": "drdee",
-      "descendants": 3,
-      "id": 30110655,
-      "kids": [
-        30137570
-      ],
-      "score": 17,
-      "time": 1643343398,
-      "title": "Possible Ninja Weapon Prototypes Discovered Among the Ruins of Castles in Japan",
-      "type": "story",
-      "url": "https://allthatsinteresting.com/ninja-weapons-prototypes"
-    },
-    "og_item": {
-      "title": "",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30139200,
-    "title": "A Chinese Satellite Just Grappled Another and Pulled It Out of Orbit",
-    "url": "https://www.thedrive.com/the-war-zone/44054/a-chinese-satellite-just-grappled-another-and-pulled-it-out-of-orbit",
-    "time": 1643564410,
-    "image": "https://www.thedrive.com/content/2022/01/Shijian-21.jpg?quality=85",
-    "icon": "https://www.thedrive.com/images/fav/favicon-128.png",
-    "publisher": "The Drive",
-    "description": "The maneuver raises concerns about the potential militarization of satellites designed to inspect, manipulate, or relocate other satellites.",
-    "by": "SquibblesRedux",
-    "points": 6,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "drdee",
-      "descendants": 3,
-      "id": 30110655,
-      "kids": [
-        30137570
-      ],
-      "score": 17,
-      "time": 1643343398,
-      "title": "Possible Ninja Weapon Prototypes Discovered Among the Ruins of Castles in Japan",
-      "type": "story",
-      "url": "https://allthatsinteresting.com/ninja-weapons-prototypes"
-    },
-    "og_item": {
-      "title": "A Chinese Satellite Just Grappled Another And Pulled It Out Of Orbit",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://www.thedrive.com/content/2022/01/Shijian-21.jpg?quality=85",
-          "secure_url": "",
-          "type": "",
-          "width": 1920,
-          "height": 1080,
-          "alt": ""
-        }
-      ],
-      "url": "https://www.thedrive.com/the-war-zone/44054/a-chinese-satellite-just-grappled-another-and-pulled-it-out-of-orbit",
-      "audio": [],
-      "description": "The maneuver raises concerns about the potential militarization of satellites designed to inspect, manipulate, or relocate other satellites.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "The Drive",
-      "video": [],
-      "favicon": {
-        "url": "/images/fav/favicon-128.png"
-      }
-    }
-  },
-  {
-    "id": 30130274,
-    "title": "Plant-based epoxy enables recyclable carbon fiber",
-    "url": "https://www.nrel.gov/news/program/2022/plant-based-epoxy-enables-recyclable-carbon-fiber-improves-economics-for-mass-market-electric-vehicles.html",
-    "time": 1643489334,
-    "image": "",
-    "icon": "https://www.nrel.gov/favicon.ico",
-    "publisher": "nrel.gov",
-    "description": "Ten times stronger than steel, nearly half the weight of aluminum, far stiffer than fiberglass—carbon fiber carries a package of advantages, making it a preferred material for use in luxury sedans and Formula One racecars alike.",
-    "by": "kungfudoi",
-    "points": 166,
-    "comment_count": 7,
-    "hn_item": {
-      "by": "drdee",
-      "descendants": 3,
-      "id": 30110655,
-      "kids": [
-        30137570
-      ],
-      "score": 17,
-      "time": 1643343398,
-      "title": "Possible Ninja Weapon Prototypes Discovered Among the Ruins of Castles in Japan",
-      "type": "story",
-      "url": "https://allthatsinteresting.com/ninja-weapons-prototypes"
-    },
-    "og_item": {
-      "title": "Plant-Based Epoxy Enables Recyclable Carbon Fiber, Improves Economics for Mass Market Electric Vehicles",
-      "type": "website",
-      "image": [],
-      "url": "https://www.nrel.gov/news/program/2022/plant-based-epoxy-enables-recyclable-carbon-fiber-improves-economics-for-mass-market-electric-vehicles.html",
-      "audio": [],
-      "description": "Ten times stronger than steel, nearly half the weight of aluminum, far stiffer than fiberglass—carbon fiber carries a package of advantages, making it a preferred material for use in luxury sedans and Formula One racecars alike.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30134357,
-    "title": "Blueberry Earth or “what if the entire Earth was replaced with blueberries?“ (2018)",
-    "url": "https://arxiv.org/abs/1807.10553",
-    "time": 1643520671,
-    "image": "",
-    "icon": "https://static.arxiv.org/static/browse/0.3.2.8/images/icons/favicon.ico",
-    "publisher": "arXiv.org",
-    "description": "This paper explores the physics of the what-if question \"what if the entire\nEarth was instantaneously replaced with an equal volume of closely packed, but\nuncompressed blueberries?\" While the assumption may be absurd, the consequences\ncan be explored rigorously using elementary physics. The resul…",
-    "by": "stereoabuse",
-    "points": 92,
-    "comment_count": 16,
-    "hn_item": {
-      "by": "drdee",
-      "descendants": 3,
-      "id": 30110655,
-      "kids": [
-        30137570
-      ],
-      "score": 17,
-      "time": 1643343398,
-      "title": "Possible Ninja Weapon Prototypes Discovered Among the Ruins of Castles in Japan",
-      "type": "story",
-      "url": "https://allthatsinteresting.com/ninja-weapons-prototypes"
-    },
-    "og_item": {
-      "title": "Blueberry Earth",
-      "type": "",
-      "image": [],
-      "url": "https://arxiv.org/abs/1807.10553v1",
-      "audio": [],
-      "description": "This paper explores the physics of the what-if question \"what if the entire\nEarth was instantaneously replaced with an equal volume of closely packed, but\nuncompressed blueberries?\" While the assumption may be absurd, the consequences\ncan be explored rigorously using elementary physics. The result is not entirely\ndissimilar to a small ocean-world exoplanet.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "arXiv.org",
-      "video": [],
-      "favicon": {
-        "url": "https://static.arxiv.org/static/browse/0.3.2.8/images/icons/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30136366,
-    "title": "Scaling Kubernetes to Over 4k Nodes and 200k Pods",
-    "url": "https://medium.com/paypal-tech/scaling-kubernetes-to-over-4k-nodes-and-200k-pods-29988fad6ed",
-    "time": 1643544369,
-    "image": "https://miro.medium.com/max/1200/1*kqY65sTiETTDZwRwIODJSw.jpeg",
-    "icon": "https://medium.com/favicon.ico",
-    "publisher": "Medium",
-    "description": "Kubernetes’ scalability is not limited to the number of nodes \u0026 pods. Learn how PayPal solved the challenges of scaling Kubernetes…",
-    "by": "kiyanwang",
-    "points": 22,
-    "comment_count": 2,
-    "hn_item": {
-      "by": "drdee",
-      "descendants": 3,
-      "id": 30110655,
-      "kids": [
-        30137570
-      ],
-      "score": 17,
-      "time": 1643343398,
-      "title": "Possible Ninja Weapon Prototypes Discovered Among the Ruins of Castles in Japan",
-      "type": "story",
-      "url": "https://allthatsinteresting.com/ninja-weapons-prototypes"
-    },
-    "og_item": {
-      "title": "Scaling Kubernetes to Over 4k Nodes and 200k Pods",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://miro.medium.com/max/1200/1*kqY65sTiETTDZwRwIODJSw.jpeg",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://medium.com/paypal-tech/scaling-kubernetes-to-over-4k-nodes-and-200k-pods-29988fad6ed",
-      "audio": [],
-      "description": "Kubernetes’ scalability is not limited to the number of nodes \u0026 pods. Learn how PayPal solved the challenges of scaling Kubernetes…",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Medium",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30128011,
-    "title": "Don't you lecture me with your thirty dollar website",
-    "url": "https://gdcolon.com/🗿",
-    "time": 1643476078,
-    "image": "",
-    "icon": "https://gdcolon.com/🗿/🗿/assets/🗿.png",
-    "publisher": "gdcolon.com",
-    "description": "🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿",
-    "by": "TheresNoTime",
-    "points": 852,
-    "comment_count": 37,
-    "hn_item": {
-      "by": "drdee",
-      "descendants": 3,
-      "id": 30110655,
-      "kids": [
-        30137570
-      ],
-      "score": 17,
-      "time": 1643343398,
-      "title": "Possible Ninja Weapon Prototypes Discovered Among the Ruins of Castles in Japan",
-      "type": "story",
-      "url": "https://allthatsinteresting.com/ninja-weapons-prototypes"
-    },
-    "og_item": {
-      "title": "DON'T YOU LECTURE ME WITH YOUR THIRTY DOLLAR WEBSITE",
-      "type": "website",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "🗿/assets/🗿.png"
-      }
-    }
-  },
-  {
-    "id": 30127615,
-    "title": "How FreeDOS Grew Up and Became a Modern DOS (2021)",
-    "url": "https://www.cloudsavvyit.com/12250/how-freedos-grew-up-and-became-a-modern-dos/",
-    "time": 1643473703,
-    "image": "https://www.cloudsavvyit.com/p/uploads/2021/07/fbdabd7c.png",
-    "icon": "https://www.cloudsavvyit.com/wp-content/themes/lsm/icons/cloudsavvy/favicon-16x16.png",
-    "publisher": "cloudsavvyit.com",
-    "description": "I grew up in the 1970s and 1980s, and that meant I grew up with computers. Our first home computer was an Apple II, and my brother and I taught ourselves about BASIC programming on the Apple. I wrote a lot of games and math puzzles, because that’s really the limit of AppleSoft BASIC programming.",
-    "by": "ingve",
-    "points": 220,
-    "comment_count": 20,
-    "hn_item": {
-      "by": "drdee",
-      "descendants": 3,
-      "id": 30110655,
-      "kids": [
-        30137570
-      ],
-      "score": 17,
-      "time": 1643343398,
-      "title": "Possible Ninja Weapon Prototypes Discovered Among the Ruins of Castles in Japan",
-      "type": "story",
-      "url": "https://allthatsinteresting.com/ninja-weapons-prototypes"
-    },
-    "og_item": {
-      "title": "How FreeDOS Grew Up and Became a Modern DOS",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://www.cloudsavvyit.com/p/uploads/2021/07/fbdabd7c.png",
-          "secure_url": "",
-          "type": "",
-          "width": 1456,
-          "height": 804,
-          "alt": ""
-        }
-      ],
-      "url": "https://www.cloudsavvyit.com/12250/how-freedos-grew-up-and-became-a-modern-dos/",
-      "audio": [],
-      "description": "I grew up in the 1970s and 1980s, and that meant I grew up with computers. Our first home computer was an Apple II, and my brother and I taught ourselves about BASIC programming on the Apple. I wrote a lot of games and math puzzles, because that’s really the limit of AppleSoft BASIC programming.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "https://www.cloudsavvyit.com/wp-content/themes/lsm/icons/cloudsavvy/favicon-16x16.png"
-      }
-    }
-  },
-  {
-    "id": 30113312,
-    "title": "Foam Decentralised Location Service",
-    "url": "https://foam.space/location",
-    "time": 1643369127,
-    "image": "https://foam.space/OG.png",
-    "icon": "https://foam.space/favicon-16x16.png",
-    "publisher": "foam.space",
-    "description": "FOAM provides the tools to enable a crowdsourced map and decentralized location services.",
-    "by": "tsujp",
-    "points": 11,
-    "comment_count": 2,
-    "hn_item": {
-      "by": "drdee",
-      "descendants": 3,
-      "id": 30110655,
-      "kids": [
-        30137570
-      ],
-      "score": 17,
-      "time": 1643343398,
-      "title": "Possible Ninja Weapon Prototypes Discovered Among the Ruins of Castles in Japan",
-      "type": "story",
-      "url": "https://allthatsinteresting.com/ninja-weapons-prototypes"
-    },
-    "og_item": {
-      "title": "FOAM",
-      "type": "website",
-      "image": [
-        {
-          "url": "https://foam.space/OG.png",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://foam.space/token",
-      "audio": [],
-      "description": "FOAM provides the tools to enable a crowdsourced map and decentralized location services.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon-16x16.png"
-      }
-    }
-  },
-  {
-    "id": 30125037,
-    "title": "USB Type-C finally shows up in power tools",
-    "url": "https://www.xda-developers.com/usb-type-c-power-tools/",
-    "time": 1643448734,
-    "image": "https://www.xda-developers.com/files/2022/01/DCB094K_K1.jpg",
-    "icon": "https://www.xda-developers.com/favicon-16x16.png",
-    "publisher": "xda-developers",
-    "description": "DeWalt and Ryobi have both announced removable batteries for their tools powered by USB Type-C. Read on to find out more.",
-    "by": "webmobdev",
-    "points": 207,
-    "comment_count": 22,
-    "hn_item": {
-      "by": "drdee",
-      "descendants": 3,
-      "id": 30110655,
-      "kids": [
-        30137570
-      ],
-      "score": 17,
-      "time": 1643343398,
-      "title": "Possible Ninja Weapon Prototypes Discovered Among the Ruins of Castles in Japan",
-      "type": "story",
-      "url": "https://allthatsinteresting.com/ninja-weapons-prototypes"
-    },
-    "og_item": {
-      "title": "USB Type-C finally shows up in power tools, thanks to DeWalt and Ryobi",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://www.xda-developers.com/files/2022/01/DCB094K_K1.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 1200,
-          "height": 675,
-          "alt": ""
-        }
-      ],
-      "url": "https://www.xda-developers.com/usb-type-c-power-tools/",
-      "audio": [],
-      "description": "DeWalt and Ryobi have both announced removable batteries for their tools powered by USB Type-C. Read on to find out more.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "xda-developers",
-      "video": [],
-      "favicon": {
-        "url": "https://www.xda-developers.com/favicon-16x16.png"
-      }
-    }
-  },
-  {
-    "id": 30110655,
-    "title": "Possible Ninja Weapon Prototypes Discovered Among the Ruins of Castles in Japan",
-    "url": "https://allthatsinteresting.com/ninja-weapons-prototypes",
-    "time": 1643343398,
-    "image": "https://allthatsinteresting.com/wordpress/wp-content/uploads/2022/01/ninja-weapons-prototypes.png",
-    "icon": "https://allthatsinteresting.com/faviconhigh.png",
-    "publisher": "All That's Interesting",
-    "description": "The flat stones resembled shurikens, or throwing stars, while the clay balls are likely makibishi, or caltrops.",
-    "by": "drdee",
-    "points": 17,
-    "comment_count": 1,
-    "hn_item": {
-      "by": "drdee",
-      "descendants": 3,
-      "id": 30110655,
-      "kids": [
-        30137570
-      ],
-      "score": 17,
-      "time": 1643343398,
-      "title": "Possible Ninja Weapon Prototypes Discovered Among the Ruins of Castles in Japan",
-      "type": "story",
-      "url": "https://allthatsinteresting.com/ninja-weapons-prototypes"
-    },
-    "og_item": {
-      "title": "400-Year-Old Stone Objects Found Outside Tokyo Might Be The Very First Ninja Weapons",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://allthatsinteresting.com/wordpress/wp-content/uploads/2022/01/ninja-weapons-prototypes.png",
-          "secure_url": "",
-          "type": "",
-          "width": 700,
-          "height": 372,
-          "alt": ""
-        },
-        {
-          "url": "https://allthatsinteresting.com/wordpress/wp-content/uploads/2022/01/stone-shurikens-and-ninja.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        },
-        {
-          "url": "https://allthatsinteresting.com/wordpress/wp-content/uploads/2022/01/ninja-weapons-and-ninja.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://allthatsinteresting.com/ninja-weapons-prototypes",
-      "audio": [],
-      "description": "The flat stones resembled shurikens, or throwing stars, while the clay balls are likely makibishi, or caltrops.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "All That's Interesting",
-      "video": [],
-      "favicon": {
-        "url": "/faviconhigh.png"
       }
     }
   }
