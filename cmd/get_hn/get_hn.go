@@ -95,7 +95,6 @@ func main() {
 		fmt.Printf("Wrote:       %s (%d items, %d bytes).\n", filePath, len(items), len(data))
 	}
 	if verbose {
-
 		fmt.Printf("Took:        %s\n", time.Since(start))
 		fmt.Println()
 	}
