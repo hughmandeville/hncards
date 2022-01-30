@@ -1,47 +1,5 @@
 [
   {
-    "id": 30137984,
-    "title": "Show HN: Web page that parses and explains the label on a bike tire",
-    "url": "https://fahrrad-tools.de/tire.html",
-    "time": 1643556717,
-    "image": "",
-    "icon": "https://fahrrad-tools.de/tire.html/icon.png",
-    "publisher": "fahrrad-tools.de",
-    "description": "Which tire fits my bike? Tires are always flat and now buy a tire with puncture protection? Find the right tire now!",
-    "by": "moasda",
-    "points": 449,
-    "comment_count": 36,
-    "hn_item": {
-      "by": "redbell",
-      "descendants": 1,
-      "id": 30134916,
-      "kids": [
-        30137637
-      ],
-      "score": 61,
-      "time": 1643528608,
-      "title": "Applying Offensive Reverse Engineering to Facebook Gameroom (2021)",
-      "type": "story",
-      "url": "https://spaceraccoon.dev/applying-offensive-reverse-engineering-to-facebook-gameroom"
-    },
-    "og_item": {
-      "title": "Bike Tire | Fahrrad-Tools.de",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "Which tire fits my bike? Tires are always flat and now buy a tire with puncture protection? Find the right tire now!",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "icon.png"
-      }
-    }
-  },
-  {
     "id": 30141460,
     "title": "Royal Society cautions against censorship of scientific misinformation online",
     "url": "https://royalsociety.org/news/2022/01/scientific-misinformation-report/",
@@ -51,20 +9,26 @@
     "publisher": "royalsociety.org",
     "description": "The Online Information Environment report discusses how to limit the harm of scientific misinformation online",
     "by": "steelstraw",
-    "points": 37,
-    "comment_count": 3,
+    "points": 52,
+    "comment_count": 5,
     "hn_item": {
-      "by": "redbell",
-      "descendants": 1,
-      "id": 30134916,
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
       "kids": [
-        30137637
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
       ],
-      "score": 61,
-      "time": 1643528608,
-      "title": "Applying Offensive Reverse Engineering to Facebook Gameroom (2021)",
+      "score": 190,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
       "type": "story",
-      "url": "https://spaceraccoon.dev/applying-offensive-reverse-engineering-to-facebook-gameroom"
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
     },
     "og_item": {
       "title": "Royal Society cautions against censorship of scientific misinformation online | Royal Society",
@@ -93,6 +57,54 @@
     }
   },
   {
+    "id": 30137984,
+    "title": "Show HN: Web page that parses and explains the label on a bike tire",
+    "url": "https://fahrrad-tools.de/tire.html",
+    "time": 1643556717,
+    "image": "",
+    "icon": "https://fahrrad-tools.de/tire.html/icon.png",
+    "publisher": "fahrrad-tools.de",
+    "description": "Which tire fits my bike? Tires are always flat and now buy a tire with puncture protection? Find the right tire now!",
+    "by": "moasda",
+    "points": 456,
+    "comment_count": 36,
+    "hn_item": {
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
+      "kids": [
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
+      ],
+      "score": 190,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
+      "type": "story",
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
+    },
+    "og_item": {
+      "title": "Bike Tire | Fahrrad-Tools.de",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "Which tire fits my bike? Tires are always flat and now buy a tire with puncture protection? Find the right tire now!",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "icon.png"
+      }
+    }
+  },
+  {
     "id": 30141192,
     "title": "Don't forget Microsoft",
     "url": "https://luttig.substack.com/p/dont-forget-microsoft",
@@ -102,20 +114,26 @@
     "publisher": "luttig.substack.com",
     "description": "Understanding the behemoth in Redmond teaches us valuable lessons in cloud infrastructure, startup strategy, and the future of software.",
     "by": "SamvitJ",
-    "points": 33,
-    "comment_count": 9,
+    "points": 41,
+    "comment_count": 12,
     "hn_item": {
-      "by": "redbell",
-      "descendants": 1,
-      "id": 30134916,
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
       "kids": [
-        30137637
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
       ],
-      "score": 61,
-      "time": 1643528608,
-      "title": "Applying Offensive Reverse Engineering to Facebook Gameroom (2021)",
+      "score": 190,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
       "type": "story",
-      "url": "https://spaceraccoon.dev/applying-offensive-reverse-engineering-to-facebook-gameroom"
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
     },
     "og_item": {
       "title": "Don’t forget Microsoft",
@@ -153,20 +171,26 @@
     "publisher": "jenson.org",
     "description": "",
     "by": "radley",
-    "points": 366,
-    "comment_count": 62,
+    "points": 378,
+    "comment_count": 64,
     "hn_item": {
-      "by": "redbell",
-      "descendants": 1,
-      "id": 30134916,
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
       "kids": [
-        30137637
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
       ],
-      "score": 61,
-      "time": 1643528608,
-      "title": "Applying Offensive Reverse Engineering to Facebook Gameroom (2021)",
+      "score": 190,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
       "type": "story",
-      "url": "https://spaceraccoon.dev/applying-offensive-reverse-engineering-to-facebook-gameroom"
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
     },
     "og_item": {
       "title": "A UX designer walks into a Tesla Bar – Scott Jenson",
@@ -195,20 +219,26 @@
     "publisher": "American Affairs Journal",
     "description": "Operation Warp Speed1 (OWS) was launched on May 15, 2020. A partnership between the Departments of Health and Human Services (HHS) and Defense (DoD), other agencies, and the private sector, its goal was to “accelerate the testing, supply, development, and distribution of safe and effective vacc…",
     "by": "gok",
-    "points": 18,
+    "points": 19,
     "comment_count": 1,
     "hn_item": {
-      "by": "redbell",
-      "descendants": 1,
-      "id": 30134916,
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
       "kids": [
-        30137637
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
       ],
-      "score": 61,
-      "time": 1643528608,
-      "title": "Applying Offensive Reverse Engineering to Facebook Gameroom (2021)",
+      "score": 190,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
       "type": "story",
-      "url": "https://spaceraccoon.dev/applying-offensive-reverse-engineering-to-facebook-gameroom"
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
     },
     "og_item": {
       "title": "Inside Operation Warp Speed: A New Model for Industrial Policy - American Affairs Journal",
@@ -249,17 +279,23 @@
     "points": 166,
     "comment_count": 12,
     "hn_item": {
-      "by": "redbell",
-      "descendants": 1,
-      "id": 30134916,
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
       "kids": [
-        30137637
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
       ],
-      "score": 61,
-      "time": 1643528608,
-      "title": "Applying Offensive Reverse Engineering to Facebook Gameroom (2021)",
+      "score": 190,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
       "type": "story",
-      "url": "https://spaceraccoon.dev/applying-offensive-reverse-engineering-to-facebook-gameroom"
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
     },
     "og_item": {
       "title": "HyperCardSimulator",
@@ -288,20 +324,26 @@
     "publisher": "recur-env.eba-rm3fchmn.us-eas…",
     "description": "",
     "by": "ShamelessC",
-    "points": 29,
+    "points": 30,
     "comment_count": 8,
     "hn_item": {
-      "by": "redbell",
-      "descendants": 1,
-      "id": 30134916,
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
       "kids": [
-        30137637
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
       ],
-      "score": 61,
-      "time": 1643528608,
-      "title": "Applying Offensive Reverse Engineering to Facebook Gameroom (2021)",
+      "score": 190,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
       "type": "story",
-      "url": "https://spaceraccoon.dev/applying-offensive-reverse-engineering-to-facebook-gameroom"
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
     },
     "og_item": {
       "title": "Streamlit",
@@ -330,20 +372,26 @@
     "publisher": "leahneukirchen.org",
     "description": "",
     "by": "panic",
-    "points": 80,
+    "points": 82,
     "comment_count": 6,
     "hn_item": {
-      "by": "redbell",
-      "descendants": 1,
-      "id": 30134916,
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
       "kids": [
-        30137637
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
       ],
-      "score": 61,
-      "time": 1643528608,
-      "title": "Applying Offensive Reverse Engineering to Facebook Gameroom (2021)",
+      "score": 190,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
       "type": "story",
-      "url": "https://spaceraccoon.dev/applying-offensive-reverse-engineering-to-facebook-gameroom"
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
     },
     "og_item": {
       "title": "leah blogs: The case of the mysterious --help directory",
@@ -372,20 +420,26 @@
     "publisher": "tribunemag.co.uk",
     "description": "At workplaces like Amazon, algorithms have become the worst kind of boss – one who watches you constantly, makes impossible demands and then sacks you without explanation.",
     "by": "jrepinc",
-    "points": 50,
+    "points": 52,
     "comment_count": 7,
     "hn_item": {
-      "by": "redbell",
-      "descendants": 1,
-      "id": 30134916,
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
       "kids": [
-        30137637
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
       ],
-      "score": 61,
-      "time": 1643528608,
-      "title": "Applying Offensive Reverse Engineering to Facebook Gameroom (2021)",
+      "score": 190,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
       "type": "story",
-      "url": "https://spaceraccoon.dev/applying-offensive-reverse-engineering-to-facebook-gameroom"
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
     },
     "og_item": {
       "title": "When the Algorithm Is Your Boss",
@@ -426,17 +480,23 @@
     "points": 1,
     "comment_count": 0,
     "hn_item": {
-      "by": "redbell",
-      "descendants": 1,
-      "id": 30134916,
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
       "kids": [
-        30137637
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
       ],
-      "score": 61,
-      "time": 1643528608,
-      "title": "Applying Offensive Reverse Engineering to Facebook Gameroom (2021)",
+      "score": 190,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
       "type": "story",
-      "url": "https://spaceraccoon.dev/applying-offensive-reverse-engineering-to-facebook-gameroom"
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
     },
     "og_item": {
       "title": "BuildZoom jobs",
@@ -474,20 +534,26 @@
     "publisher": "Vice",
     "description": "The Great Unconformity has baffled geologists for a century. New research points to glaciers being the culprit.",
     "by": "cbkeller",
-    "points": 38,
+    "points": 39,
     "comment_count": 3,
     "hn_item": {
-      "by": "redbell",
-      "descendants": 1,
-      "id": 30134916,
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
       "kids": [
-        30137637
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
       ],
-      "score": 61,
-      "time": 1643528608,
-      "title": "Applying Offensive Reverse Engineering to Facebook Gameroom (2021)",
+      "score": 190,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
       "type": "story",
-      "url": "https://spaceraccoon.dev/applying-offensive-reverse-engineering-to-facebook-gameroom"
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
     },
     "og_item": {
       "title": "A Billion Years of Time Are Mysteriously Missing. Scientists Think They Know Why.",
@@ -516,57 +582,6 @@
     }
   },
   {
-    "id": 30135190,
-    "title": "FunctionStomping – A new shellcode injection technique",
-    "url": "https://github.com/Idov31/FunctionStomping",
-    "time": 1643533222,
-    "image": "https://opengraph.githubassets.com/fdfa02b5cc18f9b04c3d2a00ba3ed26939576e3db6e25b095668eea88bda2983/Idov31/FunctionStomping",
-    "icon": "https://github.githubassets.com/favicons/favicon.svg",
-    "publisher": "GitHub",
-    "description": "A new shellcode injection technique. Given as C++ header or standalone Rust program. - GitHub - Idov31/FunctionStomping: A new shellcode injection technique. Given as C++ header or standalone Rust ...",
-    "by": "maydemir",
-    "points": 15,
-    "comment_count": 1,
-    "hn_item": {
-      "by": "redbell",
-      "descendants": 1,
-      "id": 30134916,
-      "kids": [
-        30137637
-      ],
-      "score": 61,
-      "time": 1643528608,
-      "title": "Applying Offensive Reverse Engineering to Facebook Gameroom (2021)",
-      "type": "story",
-      "url": "https://spaceraccoon.dev/applying-offensive-reverse-engineering-to-facebook-gameroom"
-    },
-    "og_item": {
-      "title": "GitHub - Idov31/FunctionStomping: A new shellcode injection technique. Given as C++ header or standalone Rust program.",
-      "type": "object",
-      "image": [
-        {
-          "url": "https://opengraph.githubassets.com/fdfa02b5cc18f9b04c3d2a00ba3ed26939576e3db6e25b095668eea88bda2983/Idov31/FunctionStomping",
-          "secure_url": "",
-          "type": "",
-          "width": 1200,
-          "height": 600,
-          "alt": ""
-        }
-      ],
-      "url": "https://github.com/Idov31/FunctionStomping",
-      "audio": [],
-      "description": "A new shellcode injection technique. Given as C++ header or standalone Rust program. - GitHub - Idov31/FunctionStomping: A new shellcode injection technique. Given as C++ header or standalone Rust ...",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "GitHub",
-      "video": [],
-      "favicon": {
-        "url": "https://github.githubassets.com/favicons/favicon.svg"
-      }
-    }
-  },
-  {
     "id": 30141278,
     "title": "The Story of Maxis Software (1999)",
     "url": "https://web.archive.org/web/19991012021220/http://gamespot.com/features/maxis/index.html",
@@ -576,20 +591,26 @@
     "publisher": "web.archive.org",
     "description": "",
     "by": "ecliptik",
-    "points": 14,
+    "points": 17,
     "comment_count": 3,
     "hn_item": {
-      "by": "redbell",
-      "descendants": 1,
-      "id": 30134916,
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
       "kids": [
-        30137637
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
       ],
-      "score": 61,
-      "time": 1643528608,
-      "title": "Applying Offensive Reverse Engineering to Facebook Gameroom (2021)",
+      "score": 190,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
       "type": "story",
-      "url": "https://spaceraccoon.dev/applying-offensive-reverse-engineering-to-facebook-gameroom"
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
     },
     "og_item": {
       "title": "GameSpot's SIMply Divine: The Story of Maxis Software",
@@ -613,32 +634,38 @@
     "title": "Beancount: Double-entry accounting from text files",
     "url": "https://github.com/beancount/beancount",
     "time": 1643559445,
-    "image": "https://opengraph.githubassets.com/b21281b9587c94ad4b1e1f9e5a9e3d8d57a46866c09b6613527737dfae568906/beancount/beancount",
+    "image": "https://opengraph.githubassets.com/d254b5b0654d3a2e83d916dcb9ef8d27abb60bc76cbab047318f4bb9a73d7cd1/beancount/beancount",
     "icon": "https://github.githubassets.com/favicons/favicon.svg",
     "publisher": "GitHub",
     "description": "Beancount: Double-Entry Accounting from Text Files. - GitHub - beancount/beancount: Beancount: Double-Entry Accounting from Text Files.",
     "by": "techtalsky",
-    "points": 131,
+    "points": 134,
     "comment_count": 14,
     "hn_item": {
-      "by": "redbell",
-      "descendants": 1,
-      "id": 30134916,
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
       "kids": [
-        30137637
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
       ],
-      "score": 61,
-      "time": 1643528608,
-      "title": "Applying Offensive Reverse Engineering to Facebook Gameroom (2021)",
+      "score": 190,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
       "type": "story",
-      "url": "https://spaceraccoon.dev/applying-offensive-reverse-engineering-to-facebook-gameroom"
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
     },
     "og_item": {
       "title": "GitHub - beancount/beancount: Beancount: Double-Entry Accounting from Text Files.",
       "type": "object",
       "image": [
         {
-          "url": "https://opengraph.githubassets.com/b21281b9587c94ad4b1e1f9e5a9e3d8d57a46866c09b6613527737dfae568906/beancount/beancount",
+          "url": "https://opengraph.githubassets.com/d254b5b0654d3a2e83d916dcb9ef8d27abb60bc76cbab047318f4bb9a73d7cd1/beancount/beancount",
           "secure_url": "",
           "type": "",
           "width": 1200,
@@ -660,6 +687,63 @@
     }
   },
   {
+    "id": 30135190,
+    "title": "FunctionStomping – A new shellcode injection technique",
+    "url": "https://github.com/Idov31/FunctionStomping",
+    "time": 1643533222,
+    "image": "https://opengraph.githubassets.com/57c5f6c50eb118de07fb5e730f0aa09c9609922d2d286a8fca0bb3ae8ce7719d/Idov31/FunctionStomping",
+    "icon": "https://github.githubassets.com/favicons/favicon.svg",
+    "publisher": "GitHub",
+    "description": "A new shellcode injection technique. Given as C++ header or standalone Rust program. - GitHub - Idov31/FunctionStomping: A new shellcode injection technique. Given as C++ header or standalone Rust ...",
+    "by": "maydemir",
+    "points": 16,
+    "comment_count": 1,
+    "hn_item": {
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
+      "kids": [
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
+      ],
+      "score": 190,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
+      "type": "story",
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
+    },
+    "og_item": {
+      "title": "GitHub - Idov31/FunctionStomping: A new shellcode injection technique. Given as C++ header or standalone Rust program.",
+      "type": "object",
+      "image": [
+        {
+          "url": "https://opengraph.githubassets.com/57c5f6c50eb118de07fb5e730f0aa09c9609922d2d286a8fca0bb3ae8ce7719d/Idov31/FunctionStomping",
+          "secure_url": "",
+          "type": "",
+          "width": 1200,
+          "height": 600,
+          "alt": ""
+        }
+      ],
+      "url": "https://github.com/Idov31/FunctionStomping",
+      "audio": [],
+      "description": "A new shellcode injection technique. Given as C++ header or standalone Rust program. - GitHub - Idov31/FunctionStomping: A new shellcode injection technique. Given as C++ header or standalone Rust ...",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "GitHub",
+      "video": [],
+      "favicon": {
+        "url": "https://github.githubassets.com/favicons/favicon.svg"
+      }
+    }
+  },
+  {
     "id": 30119925,
     "title": "Message in a bottle from Scottish girl found in Norway after 25 years",
     "url": "https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-60121185",
@@ -669,20 +753,26 @@
     "publisher": "BBC News",
     "description": "The bottle Joanna Buchan dropped in the sea at Peterhead when she was eight has washed up in Norway.",
     "by": "LinuxBender",
-    "points": 48,
+    "points": 50,
     "comment_count": 7,
     "hn_item": {
-      "by": "redbell",
-      "descendants": 1,
-      "id": 30134916,
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
       "kids": [
-        30137637
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
       ],
-      "score": 61,
-      "time": 1643528608,
-      "title": "Applying Offensive Reverse Engineering to Facebook Gameroom (2021)",
+      "score": 190,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
       "type": "story",
-      "url": "https://spaceraccoon.dev/applying-offensive-reverse-engineering-to-facebook-gameroom"
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
     },
     "og_item": {
       "title": "Message in a bottle from Scottish girl found in Norway after 25 years",
@@ -720,20 +810,26 @@
     "publisher": "bastian.rieck.me",
     "description": "",
     "by": "Topolomancer",
-    "points": 140,
+    "points": 144,
     "comment_count": 20,
     "hn_item": {
-      "by": "redbell",
-      "descendants": 1,
-      "id": 30134916,
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
       "kids": [
-        30137637
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
       ],
-      "score": 61,
-      "time": 1643528608,
-      "title": "Applying Offensive Reverse Engineering to Facebook Gameroom (2021)",
+      "score": 190,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
       "type": "story",
-      "url": "https://spaceraccoon.dev/applying-offensive-reverse-engineering-to-facebook-gameroom"
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
     },
     "og_item": {
       "title": "In Defence of the Boring Web",
@@ -762,20 +858,26 @@
     "publisher": "Eurogamer.net",
     "description": "",
     "by": "atombender",
-    "points": 171,
+    "points": 175,
     "comment_count": 23,
     "hn_item": {
-      "by": "redbell",
-      "descendants": 1,
-      "id": 30134916,
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
       "kids": [
-        30137637
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
       ],
-      "score": 61,
-      "time": 1643528608,
-      "title": "Applying Offensive Reverse Engineering to Facebook Gameroom (2021)",
+      "score": 190,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
       "type": "story",
-      "url": "https://spaceraccoon.dev/applying-offensive-reverse-engineering-to-facebook-gameroom"
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
     },
     "og_item": {
       "title": "Sega quits Japanese arcade business after 50 years",
@@ -813,20 +915,26 @@
     "publisher": "softpanorama.org",
     "description": "",
     "by": "ingve",
-    "points": 119,
+    "points": 121,
     "comment_count": 17,
     "hn_item": {
-      "by": "redbell",
-      "descendants": 1,
-      "id": 30134916,
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
       "kids": [
-        30137637
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
       ],
-      "score": 61,
-      "time": 1643528608,
-      "title": "Applying Offensive Reverse Engineering to Facebook Gameroom (2021)",
+      "score": 190,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
       "type": "story",
-      "url": "https://spaceraccoon.dev/applying-offensive-reverse-engineering-to-facebook-gameroom"
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
     },
     "og_item": {
       "title": "Midnight Commander Tips and Tricks",
@@ -846,57 +954,6 @@
     }
   },
   {
-    "id": 30137720,
-    "title": "U.S. companies are hiring Latin America’s tech talent",
-    "url": "https://restofworld.org/2022/latin-america-startup-developer-scarcity/",
-    "time": 1643554658,
-    "image": "https://149346090.v2.pressablecdn.com/wp-content/uploads/2022/01/GettyImages-531336444-1600x900.jpg",
-    "icon": "https://149346090.v2.pressablecdn.com/wp-content/themes/orbis/assets/icons/icon-196.png",
-    "publisher": "Rest of World",
-    "description": "As a hedge against American talent poachers, some exasperated founders are recruiting developers who can’t speak English.",
-    "by": "braco_alva",
-    "points": 135,
-    "comment_count": 30,
-    "hn_item": {
-      "by": "redbell",
-      "descendants": 1,
-      "id": 30134916,
-      "kids": [
-        30137637
-      ],
-      "score": 61,
-      "time": 1643528608,
-      "title": "Applying Offensive Reverse Engineering to Facebook Gameroom (2021)",
-      "type": "story",
-      "url": "https://spaceraccoon.dev/applying-offensive-reverse-engineering-to-facebook-gameroom"
-    },
-    "og_item": {
-      "title": "“It’s a bloodbath”: U.S. companies are pillaging Latin America’s tech talent",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://149346090.v2.pressablecdn.com/wp-content/uploads/2022/01/GettyImages-531336444-1600x900.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 1600,
-          "height": 900,
-          "alt": ""
-        }
-      ],
-      "url": "https://restofworld.org/2022/latin-america-startup-developer-scarcity/",
-      "audio": [],
-      "description": "As a hedge against American talent poachers, some exasperated founders are recruiting developers who can’t speak English.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Rest of World",
-      "video": [],
-      "favicon": {
-        "url": "https://149346090.v2.pressablecdn.com/wp-content/themes/orbis/assets/icons/icon-196.png"
-      }
-    }
-  },
-  {
     "id": 30116262,
     "title": "A Padlock I’d Use [video]",
     "url": "https://www.youtube.com/watch?v=HrV86GqlY8o",
@@ -906,20 +963,26 @@
     "publisher": "YouTube",
     "description": "https://www.CovertInstruments.com",
     "by": "CraigJPerry",
-    "points": 116,
+    "points": 118,
     "comment_count": 7,
     "hn_item": {
-      "by": "redbell",
-      "descendants": 1,
-      "id": 30134916,
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
       "kids": [
-        30137637
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
       ],
-      "score": 61,
-      "time": 1643528608,
-      "title": "Applying Offensive Reverse Engineering to Facebook Gameroom (2021)",
+      "score": 190,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
       "type": "story",
-      "url": "https://spaceraccoon.dev/applying-offensive-reverse-engineering-to-facebook-gameroom"
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
     },
     "og_item": {
       "title": "[1398] A Padlock I’d Use: Abus Granit 37RK/80 (Pick \u0026 Gut)",
@@ -957,6 +1020,63 @@
     }
   },
   {
+    "id": 30137720,
+    "title": "U.S. companies are hiring Latin America’s tech talent",
+    "url": "https://restofworld.org/2022/latin-america-startup-developer-scarcity/",
+    "time": 1643554658,
+    "image": "https://149346090.v2.pressablecdn.com/wp-content/uploads/2022/01/GettyImages-531336444-1600x900.jpg",
+    "icon": "https://149346090.v2.pressablecdn.com/wp-content/themes/orbis/assets/icons/icon-196.png",
+    "publisher": "Rest of World",
+    "description": "As a hedge against American talent poachers, some exasperated founders are recruiting developers who can’t speak English.",
+    "by": "braco_alva",
+    "points": 136,
+    "comment_count": 30,
+    "hn_item": {
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
+      "kids": [
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
+      ],
+      "score": 190,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
+      "type": "story",
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
+    },
+    "og_item": {
+      "title": "“It’s a bloodbath”: U.S. companies are pillaging Latin America’s tech talent",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://149346090.v2.pressablecdn.com/wp-content/uploads/2022/01/GettyImages-531336444-1600x900.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 1600,
+          "height": 900,
+          "alt": ""
+        }
+      ],
+      "url": "https://restofworld.org/2022/latin-america-startup-developer-scarcity/",
+      "audio": [],
+      "description": "As a hedge against American talent poachers, some exasperated founders are recruiting developers who can’t speak English.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Rest of World",
+      "video": [],
+      "favicon": {
+        "url": "https://149346090.v2.pressablecdn.com/wp-content/themes/orbis/assets/icons/icon-196.png"
+      }
+    }
+  },
+  {
     "id": 30128048,
     "title": "COM+ Revisited",
     "url": "https://lowleveldesign.org/2022/01/17/com-revisited/",
@@ -969,17 +1089,23 @@
     "points": 47,
     "comment_count": 7,
     "hn_item": {
-      "by": "redbell",
-      "descendants": 1,
-      "id": 30134916,
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
       "kids": [
-        30137637
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
       ],
-      "score": 61,
-      "time": 1643528608,
-      "title": "Applying Offensive Reverse Engineering to Facebook Gameroom (2021)",
+      "score": 190,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
       "type": "story",
-      "url": "https://spaceraccoon.dev/applying-offensive-reverse-engineering-to-facebook-gameroom"
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
     },
     "og_item": {
       "title": "COM+ revisited",
@@ -1020,17 +1146,23 @@
     "points": 82,
     "comment_count": 7,
     "hn_item": {
-      "by": "redbell",
-      "descendants": 1,
-      "id": 30134916,
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
       "kids": [
-        30137637
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
       ],
-      "score": 61,
-      "time": 1643528608,
-      "title": "Applying Offensive Reverse Engineering to Facebook Gameroom (2021)",
+      "score": 190,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
       "type": "story",
-      "url": "https://spaceraccoon.dev/applying-offensive-reverse-engineering-to-facebook-gameroom"
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
     },
     "og_item": null
   },
@@ -1047,17 +1179,23 @@
     "points": 37,
     "comment_count": 5,
     "hn_item": {
-      "by": "redbell",
-      "descendants": 1,
-      "id": 30134916,
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
       "kids": [
-        30137637
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
       ],
-      "score": 61,
-      "time": 1643528608,
-      "title": "Applying Offensive Reverse Engineering to Facebook Gameroom (2021)",
+      "score": 190,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
       "type": "story",
-      "url": "https://spaceraccoon.dev/applying-offensive-reverse-engineering-to-facebook-gameroom"
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
     },
     "og_item": {
       "title": "Using tree data structures to implement terminal split panes - more fun than it sounds",
@@ -1086,90 +1224,6 @@
     }
   },
   {
-    "id": 30131387,
-    "title": "Game performance optimization – A practical example from Industry Idle",
-    "url": "https://ruoyusun.com/2022/01/28/game-pref.html",
-    "time": 1643496513,
-    "image": "",
-    "icon": "https://ruoyusun.com/favicon-16x16.png",
-    "publisher": "ruoyusun.com",
-    "description": "",
-    "by": "insraq",
-    "points": 7,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "redbell",
-      "descendants": 1,
-      "id": 30134916,
-      "kids": [
-        30137637
-      ],
-      "score": 61,
-      "time": 1643528608,
-      "title": "Applying Offensive Reverse Engineering to Facebook Gameroom (2021)",
-      "type": "story",
-      "url": "https://spaceraccoon.dev/applying-offensive-reverse-engineering-to-facebook-gameroom"
-    },
-    "og_item": {
-      "title": "Game Performance Optimization - A Practical Example From Industry Idle",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon-16x16.png"
-      }
-    }
-  },
-  {
-    "id": 30139734,
-    "title": "Show the case against",
-    "url": "https://www.shubhro.com/2022/01/03/show-the-case-against/",
-    "time": 1643567644,
-    "image": "",
-    "icon": "https://www.shubhro.com/favicon.ico",
-    "publisher": "shubhro.com",
-    "description": "",
-    "by": "shbhrsaha",
-    "points": 32,
-    "comment_count": 5,
-    "hn_item": {
-      "by": "redbell",
-      "descendants": 1,
-      "id": 30134916,
-      "kids": [
-        30137637
-      ],
-      "score": 61,
-      "time": 1643528608,
-      "title": "Applying Offensive Reverse Engineering to Facebook Gameroom (2021)",
-      "type": "story",
-      "url": "https://spaceraccoon.dev/applying-offensive-reverse-engineering-to-facebook-gameroom"
-    },
-    "og_item": {
-      "title": "Show the case against - shubhro.com",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30125933,
     "title": "Dataset and Model for “I built a system to take photos of planes over my house”",
     "url": "https://universe.roboflow.com/skybot-cam/overhead-plane-detector",
@@ -1179,20 +1233,26 @@
     "publisher": "Roboflow",
     "description": "Download 250 free images labeled with bounding boxes for object detection.",
     "by": "yeldarb",
-    "points": 105,
+    "points": 107,
     "comment_count": 7,
     "hn_item": {
-      "by": "redbell",
-      "descendants": 1,
-      "id": 30134916,
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
       "kids": [
-        30137637
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
       ],
-      "score": 61,
-      "time": 1643528608,
-      "title": "Applying Offensive Reverse Engineering to Facebook Gameroom (2021)",
+      "score": 190,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
       "type": "story",
-      "url": "https://spaceraccoon.dev/applying-offensive-reverse-engineering-to-facebook-gameroom"
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
     },
     "og_item": {
       "title": "Overhead Plane Detector Object Detection Dataset",
@@ -1221,6 +1281,102 @@
     }
   },
   {
+    "id": 30139734,
+    "title": "Show the case against",
+    "url": "https://www.shubhro.com/2022/01/03/show-the-case-against/",
+    "time": 1643567644,
+    "image": "",
+    "icon": "https://www.shubhro.com/favicon.ico",
+    "publisher": "shubhro.com",
+    "description": "",
+    "by": "shbhrsaha",
+    "points": 33,
+    "comment_count": 5,
+    "hn_item": {
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
+      "kids": [
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
+      ],
+      "score": 190,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
+      "type": "story",
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
+    },
+    "og_item": {
+      "title": "Show the case against - shubhro.com",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30131387,
+    "title": "Game performance optimization – A practical example from Industry Idle",
+    "url": "https://ruoyusun.com/2022/01/28/game-pref.html",
+    "time": 1643496513,
+    "image": "",
+    "icon": "https://ruoyusun.com/favicon-16x16.png",
+    "publisher": "ruoyusun.com",
+    "description": "",
+    "by": "insraq",
+    "points": 8,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
+      "kids": [
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
+      ],
+      "score": 190,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
+      "type": "story",
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
+    },
+    "og_item": {
+      "title": "Game Performance Optimization - A Practical Example From Industry Idle",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon-16x16.png"
+      }
+    }
+  },
+  {
     "id": 30136350,
     "title": "The Game of War: Chess with Networks (2008)",
     "url": "https://www.cabinetmagazine.org/issues/29/galloway.php",
@@ -1233,17 +1389,23 @@
     "points": 22,
     "comment_count": 2,
     "hn_item": {
-      "by": "redbell",
-      "descendants": 1,
-      "id": 30134916,
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
       "kids": [
-        30137637
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
       ],
-      "score": 61,
-      "time": 1643528608,
-      "title": "Applying Offensive Reverse Engineering to Facebook Gameroom (2021)",
+      "score": 190,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
       "type": "story",
-      "url": "https://spaceraccoon.dev/applying-offensive-reverse-engineering-to-facebook-gameroom"
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
     },
     "og_item": {
       "title": "The Game of War: An Overview | Alexander R. Galloway",
@@ -1281,20 +1443,26 @@
     "publisher": "Ars Technica",
     "description": "Advances in batteries, autonomy could extend the reach of freight railroads.",
     "by": "vanburen",
-    "points": 65,
+    "points": 66,
     "comment_count": 15,
     "hn_item": {
-      "by": "redbell",
-      "descendants": 1,
-      "id": 30134916,
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
       "kids": [
-        30137637
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
       ],
-      "score": 61,
-      "time": 1643528608,
-      "title": "Applying Offensive Reverse Engineering to Facebook Gameroom (2021)",
+      "score": 190,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
       "type": "story",
-      "url": "https://spaceraccoon.dev/applying-offensive-reverse-engineering-to-facebook-gameroom"
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
     },
     "og_item": {
       "title": "Autonomous battery-powered rail cars could steal shipments from truckers",
@@ -1332,20 +1500,26 @@
     "publisher": "Future",
     "description": "Technical literacy is key to career success, even for non-engineers. Learn how to master the tools of your trade and build a solid tech foundation.",
     "by": "jseliger",
-    "points": 102,
-    "comment_count": 12,
+    "points": 103,
+    "comment_count": 13,
     "hn_item": {
-      "by": "redbell",
-      "descendants": 1,
-      "id": 30134916,
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
       "kids": [
-        30137637
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
       ],
-      "score": 61,
-      "time": 1643528608,
-      "title": "Applying Offensive Reverse Engineering to Facebook Gameroom (2021)",
+      "score": 190,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
       "type": "story",
-      "url": "https://spaceraccoon.dev/applying-offensive-reverse-engineering-to-facebook-gameroom"
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
     },
     "og_item": {
       "title": "How to Excel in Tech Without Learning to Code | Future",
@@ -1374,57 +1548,6 @@
     }
   },
   {
-    "id": 30135297,
-    "title": "The Dialectic of Enlightenment and modern life",
-    "url": "https://daily-philosophy.com/frankfurt-school-dialectic-enlightenment/",
-    "time": 1643534554,
-    "image": "https://daily-philosophy.com/frankfurt-school-dialectic-enlightenment/featured-500px.jpg",
-    "icon": "https://daily-philosophy.com/favicon.ico",
-    "publisher": "daily-philosophy.com",
-    "description": "The Frankfurt School is generally taken to mean a lose collection of thinkers who first congregated around the Institute for Social Research in Frankfurt am Main, Germany.",
-    "by": "moralrobots",
-    "points": 18,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "redbell",
-      "descendants": 1,
-      "id": 30134916,
-      "kids": [
-        30137637
-      ],
-      "score": 61,
-      "time": 1643528608,
-      "title": "Applying Offensive Reverse Engineering to Facebook Gameroom (2021)",
-      "type": "story",
-      "url": "https://spaceraccoon.dev/applying-offensive-reverse-engineering-to-facebook-gameroom"
-    },
-    "og_item": {
-      "title": "The Dialectic of Enlightenment",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://daily-philosophy.com/frankfurt-school-dialectic-enlightenment/featured-500px.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://daily-philosophy.com/frankfurt-school-dialectic-enlightenment/",
-      "audio": [],
-      "description": "The Frankfurt School is generally taken to mean a lose collection of thinkers who first congregated around the Institute for Social Research in Frankfurt am Main, Germany.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30128379,
     "title": "Controlling RGB LEDs with only powerlines: Anatomy of a Christmas light string",
     "url": "https://cpldcpu.wordpress.com/2022/01/23/controlling-rgb-leds-with-only-the-powerlines-anatomy-of-a-christmas-light-string/",
@@ -1437,17 +1560,23 @@
     "points": 138,
     "comment_count": 6,
     "hn_item": {
-      "by": "redbell",
-      "descendants": 1,
-      "id": 30134916,
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
       "kids": [
-        30137637
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
       ],
-      "score": 61,
-      "time": 1643528608,
-      "title": "Applying Offensive Reverse Engineering to Facebook Gameroom (2021)",
+      "score": 190,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
       "type": "story",
-      "url": "https://spaceraccoon.dev/applying-offensive-reverse-engineering-to-facebook-gameroom"
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
     },
     "og_item": {
       "title": "Controlling RGB LEDs With Only the Powerlines: Anatomy of a Christmas Light String",
@@ -1476,6 +1605,63 @@
     }
   },
   {
+    "id": 30135297,
+    "title": "The Dialectic of Enlightenment and modern life",
+    "url": "https://daily-philosophy.com/frankfurt-school-dialectic-enlightenment/",
+    "time": 1643534554,
+    "image": "https://daily-philosophy.com/frankfurt-school-dialectic-enlightenment/featured-500px.jpg",
+    "icon": "https://daily-philosophy.com/favicon.ico",
+    "publisher": "daily-philosophy.com",
+    "description": "The Frankfurt School is generally taken to mean a lose collection of thinkers who first congregated around the Institute for Social Research in Frankfurt am Main, Germany.",
+    "by": "moralrobots",
+    "points": 18,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
+      "kids": [
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
+      ],
+      "score": 190,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
+      "type": "story",
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
+    },
+    "og_item": {
+      "title": "The Dialectic of Enlightenment",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://daily-philosophy.com/frankfurt-school-dialectic-enlightenment/featured-500px.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://daily-philosophy.com/frankfurt-school-dialectic-enlightenment/",
+      "audio": [],
+      "description": "The Frankfurt School is generally taken to mean a lose collection of thinkers who first congregated around the Institute for Social Research in Frankfurt am Main, Germany.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30120857,
     "title": "Writing an efficient Vulkan renderer (2020)",
     "url": "https://zeux.io/2020/02/27/writing-an-efficient-vulkan-renderer/",
@@ -1485,20 +1671,26 @@
     "publisher": "zeux.io",
     "description": "",
     "by": "nabla9",
-    "points": 70,
+    "points": 71,
     "comment_count": 4,
     "hn_item": {
-      "by": "redbell",
-      "descendants": 1,
-      "id": 30134916,
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
       "kids": [
-        30137637
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
       ],
-      "score": 61,
-      "time": 1643528608,
-      "title": "Applying Offensive Reverse Engineering to Facebook Gameroom (2021)",
+      "score": 190,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
       "type": "story",
-      "url": "https://spaceraccoon.dev/applying-offensive-reverse-engineering-to-facebook-gameroom"
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
     },
     "og_item": {
       "title": "\n    zeux.io - Writing an efficient Vulkan renderer\n  ",
@@ -1530,17 +1722,23 @@
     "points": 128,
     "comment_count": 11,
     "hn_item": {
-      "by": "redbell",
-      "descendants": 1,
-      "id": 30134916,
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
       "kids": [
-        30137637
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
       ],
-      "score": 61,
-      "time": 1643528608,
-      "title": "Applying Offensive Reverse Engineering to Facebook Gameroom (2021)",
+      "score": 190,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
       "type": "story",
-      "url": "https://spaceraccoon.dev/applying-offensive-reverse-engineering-to-facebook-gameroom"
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
     },
     "og_item": {
       "title": "Ask HN: Has anyone leveraged GDPR to overturn automated bans? | Hacker News",
@@ -1572,17 +1770,23 @@
     "points": 69,
     "comment_count": 6,
     "hn_item": {
-      "by": "redbell",
-      "descendants": 1,
-      "id": 30134916,
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
       "kids": [
-        30137637
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
       ],
-      "score": 61,
-      "time": 1643528608,
-      "title": "Applying Offensive Reverse Engineering to Facebook Gameroom (2021)",
+      "score": 190,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
       "type": "story",
-      "url": "https://spaceraccoon.dev/applying-offensive-reverse-engineering-to-facebook-gameroom"
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
     },
     "og_item": {
       "title": " Nim tutorial for setting up a website. ",
@@ -1602,48 +1806,6 @@
     }
   },
   {
-    "id": 30141215,
-    "title": "Show HN: BeanHub – A GitHub for Beancount",
-    "url": "https://beanhub.io/",
-    "time": 1643577545,
-    "image": "",
-    "icon": "https://beanhub.io/favicon.ico",
-    "publisher": "beanhub.io",
-    "description": "",
-    "by": "fangpenlin",
-    "points": 7,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "redbell",
-      "descendants": 1,
-      "id": 30134916,
-      "kids": [
-        30137637
-      ],
-      "score": 61,
-      "time": 1643528608,
-      "title": "Applying Offensive Reverse Engineering to Facebook Gameroom (2021)",
-      "type": "story",
-      "url": "https://spaceraccoon.dev/applying-offensive-reverse-engineering-to-facebook-gameroom"
-    },
-    "og_item": {
-      "title": "\n    BeanHub\n    ",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30124569,
     "title": "Dennis Ritchie Home Page (2006)",
     "url": "https://www.bell-labs.com/usr/dmr/www/",
@@ -1656,17 +1818,23 @@
     "points": 207,
     "comment_count": 18,
     "hn_item": {
-      "by": "redbell",
-      "descendants": 1,
-      "id": 30134916,
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
       "kids": [
-        30137637
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
       ],
-      "score": 61,
-      "time": 1643528608,
-      "title": "Applying Offensive Reverse Engineering to Facebook Gameroom (2021)",
+      "score": 190,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
       "type": "story",
-      "url": "https://spaceraccoon.dev/applying-offensive-reverse-engineering-to-facebook-gameroom"
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
     },
     "og_item": {
       "title": "Dennis Ritchie Home Page",
@@ -1686,44 +1854,50 @@
     }
   },
   {
-    "id": 30141426,
-    "title": "Ulysses at 100: The Birth of the Modern",
-    "url": "https://www.ft.com/content/609d5d0d-b666-4af8-af39-82ddaf5f28de",
-    "time": 1643579002,
+    "id": 30141215,
+    "title": "Show HN: BeanHub – A GitHub for Beancount",
+    "url": "https://beanhub.io/",
+    "time": 1643577545,
     "image": "",
-    "icon": "https://www.ft.com/__origami/service/image/v2/images/raw/ftlogo-v1%3Abrand-ft-logo-square-coloured?source=update-logos\u0026format=svg",
-    "publisher": "ft.com",
-    "description": "News, analysis and comment from the Financial Times, the worldʼs leading global business publication",
-    "by": "kkwteh",
-    "points": 4,
-    "comment_count": 1,
+    "icon": "https://beanhub.io/favicon.ico",
+    "publisher": "beanhub.io",
+    "description": "",
+    "by": "fangpenlin",
+    "points": 8,
+    "comment_count": 0,
     "hn_item": {
-      "by": "redbell",
-      "descendants": 1,
-      "id": 30134916,
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
       "kids": [
-        30137637
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
       ],
-      "score": 61,
-      "time": 1643528608,
-      "title": "Applying Offensive Reverse Engineering to Facebook Gameroom (2021)",
+      "score": 190,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
       "type": "story",
-      "url": "https://spaceraccoon.dev/applying-offensive-reverse-engineering-to-facebook-gameroom"
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
     },
     "og_item": {
-      "title": "Subscribe to read | Financial Times",
+      "title": "\n    BeanHub\n    ",
       "type": "",
       "image": [],
       "url": "",
       "audio": [],
-      "description": "News, analysis and comment from the Financial Times, the worldʼs leading global business publication",
+      "description": "",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
       "site_name": "",
       "video": [],
       "favicon": {
-        "url": "https://www.ft.com/__origami/service/image/v2/images/raw/ftlogo-v1%3Abrand-ft-logo-square-coloured?source=update-logos\u0026format=svg"
+        "url": "/favicon.ico"
       }
     }
   },
@@ -1740,17 +1914,23 @@
     "points": 21,
     "comment_count": 2,
     "hn_item": {
-      "by": "redbell",
-      "descendants": 1,
-      "id": 30134916,
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
       "kids": [
-        30137637
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
       ],
-      "score": 61,
-      "time": 1643528608,
-      "title": "Applying Offensive Reverse Engineering to Facebook Gameroom (2021)",
+      "score": 190,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
       "type": "story",
-      "url": "https://spaceraccoon.dev/applying-offensive-reverse-engineering-to-facebook-gameroom"
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
     },
     "og_item": {
       "title": "DDS — dds 0.1.0-alpha.3 documentation",
@@ -1782,17 +1962,23 @@
     "points": 82,
     "comment_count": 9,
     "hn_item": {
-      "by": "redbell",
-      "descendants": 1,
-      "id": 30134916,
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
       "kids": [
-        30137637
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
       ],
-      "score": 61,
-      "time": 1643528608,
-      "title": "Applying Offensive Reverse Engineering to Facebook Gameroom (2021)",
+      "score": 190,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
       "type": "story",
-      "url": "https://spaceraccoon.dev/applying-offensive-reverse-engineering-to-facebook-gameroom"
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
     },
     "og_item": {
       "title": "GitHub - liyue201/gostl: Data structure and algorithm library for go, designed to provide functions similar to C++ STL",
@@ -1821,6 +2007,54 @@
     }
   },
   {
+    "id": 30141426,
+    "title": "Ulysses at 100: The Birth of the Modern",
+    "url": "https://www.ft.com/content/609d5d0d-b666-4af8-af39-82ddaf5f28de",
+    "time": 1643579002,
+    "image": "",
+    "icon": "https://www.ft.com/__origami/service/image/v2/images/raw/ftlogo-v1%3Abrand-ft-logo-square-coloured?source=update-logos\u0026format=svg",
+    "publisher": "ft.com",
+    "description": "News, analysis and comment from the Financial Times, the worldʼs leading global business publication",
+    "by": "kkwteh",
+    "points": 6,
+    "comment_count": 1,
+    "hn_item": {
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
+      "kids": [
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
+      ],
+      "score": 190,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
+      "type": "story",
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
+    },
+    "og_item": {
+      "title": "Subscribe to read | Financial Times",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "News, analysis and comment from the Financial Times, the worldʼs leading global business publication",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "https://www.ft.com/__origami/service/image/v2/images/raw/ftlogo-v1%3Abrand-ft-logo-square-coloured?source=update-logos\u0026format=svg"
+      }
+    }
+  },
+  {
     "id": 30134301,
     "title": "The Basilikon Doron of King James VI and I",
     "url": "https://blogs.bl.uk/digitisedmanuscripts/2022/01/how-to-be-an-effective-ruler.html",
@@ -1833,17 +2067,23 @@
     "points": 10,
     "comment_count": 2,
     "hn_item": {
-      "by": "redbell",
-      "descendants": 1,
-      "id": 30134916,
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
       "kids": [
-        30137637
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
       ],
-      "score": 61,
-      "time": 1643528608,
-      "title": "Applying Offensive Reverse Engineering to Facebook Gameroom (2021)",
+      "score": 190,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
       "type": "story",
-      "url": "https://spaceraccoon.dev/applying-offensive-reverse-engineering-to-facebook-gameroom"
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
     },
     "og_item": {
       "title": "How to be an effective ruler: the Basilikon Doron of King James VI and I",
@@ -1884,17 +2124,23 @@
     "points": 30,
     "comment_count": 2,
     "hn_item": {
-      "by": "redbell",
-      "descendants": 1,
-      "id": 30134916,
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
       "kids": [
-        30137637
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
       ],
-      "score": 61,
-      "time": 1643528608,
-      "title": "Applying Offensive Reverse Engineering to Facebook Gameroom (2021)",
+      "score": 190,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
       "type": "story",
-      "url": "https://spaceraccoon.dev/applying-offensive-reverse-engineering-to-facebook-gameroom"
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
     },
     "og_item": {
       "title": "Very Remote Lisp Debugging Story - Susam's Maze",
@@ -1926,17 +2172,23 @@
     "points": 89,
     "comment_count": 5,
     "hn_item": {
-      "by": "redbell",
-      "descendants": 1,
-      "id": 30134916,
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
       "kids": [
-        30137637
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
       ],
-      "score": 61,
-      "time": 1643528608,
-      "title": "Applying Offensive Reverse Engineering to Facebook Gameroom (2021)",
+      "score": 190,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
       "type": "story",
-      "url": "https://spaceraccoon.dev/applying-offensive-reverse-engineering-to-facebook-gameroom"
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
     },
     "og_item": {
       "title": "All News - Steel Bank Common Lisp",
@@ -1968,17 +2220,23 @@
     "points": 30,
     "comment_count": 3,
     "hn_item": {
-      "by": "redbell",
-      "descendants": 1,
-      "id": 30134916,
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
       "kids": [
-        30137637
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
       ],
-      "score": 61,
-      "time": 1643528608,
-      "title": "Applying Offensive Reverse Engineering to Facebook Gameroom (2021)",
+      "score": 190,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
       "type": "story",
-      "url": "https://spaceraccoon.dev/applying-offensive-reverse-engineering-to-facebook-gameroom"
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
     },
     "og_item": null
   },
@@ -1995,17 +2253,23 @@
     "points": 207,
     "comment_count": 31,
     "hn_item": {
-      "by": "redbell",
-      "descendants": 1,
-      "id": 30134916,
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
       "kids": [
-        30137637
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
       ],
-      "score": 61,
-      "time": 1643528608,
-      "title": "Applying Offensive Reverse Engineering to Facebook Gameroom (2021)",
+      "score": 190,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
       "type": "story",
-      "url": "https://spaceraccoon.dev/applying-offensive-reverse-engineering-to-facebook-gameroom"
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
     },
     "og_item": {
       "title": "If It Were My Home",
@@ -2034,20 +2298,26 @@
     "publisher": "Energy.gov",
     "description": "Our flagship effort over the next five years is the Frontier Observatory for Research in Geothermal Energy (FORGE) initiative — the first...",
     "by": "manicennui",
-    "points": 62,
+    "points": 63,
     "comment_count": 5,
     "hn_item": {
-      "by": "redbell",
-      "descendants": 1,
-      "id": 30134916,
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
       "kids": [
-        30137637
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
       ],
-      "score": 61,
-      "time": 1643528608,
-      "title": "Applying Offensive Reverse Engineering to Facebook Gameroom (2021)",
+      "score": 190,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
       "type": "story",
-      "url": "https://spaceraccoon.dev/applying-offensive-reverse-engineering-to-facebook-gameroom"
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
     },
     "og_item": {
       "title": "What is FORGE?",
@@ -2079,17 +2349,23 @@
     "points": 97,
     "comment_count": 14,
     "hn_item": {
-      "by": "redbell",
-      "descendants": 1,
-      "id": 30134916,
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
       "kids": [
-        30137637
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
       ],
-      "score": 61,
-      "time": 1643528608,
-      "title": "Applying Offensive Reverse Engineering to Facebook Gameroom (2021)",
+      "score": 190,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
       "type": "story",
-      "url": "https://spaceraccoon.dev/applying-offensive-reverse-engineering-to-facebook-gameroom"
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
     },
     "og_item": {
       "title": "Uninitialized Memory: Unsafe Rust is Too Hard",
@@ -2098,57 +2374,6 @@
       "url": "",
       "audio": [],
       "description": "Why unsafe Rust is a complex and user unfriendly experience.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30140210,
-    "title": "Why is Harvard astrophysicist Avi Loeb working with ardent UFO believers?",
-    "url": "https://www.science.org/content/article/why-is-harvard-astrophysicist-working-with-ufo-buffs",
-    "time": 1643570644,
-    "image": "https://www.science.org/do/10.1126/science.ada0631/abs/_20220128_nf_flying_saucer.jpg",
-    "icon": "https://www.science.org/favicon.ico",
-    "publisher": "science.org",
-    "description": "Avi Loeb’s Galileo Project will search for sky-prowling aliens, but some worry about the influence of pseudoscience",
-    "by": "tejohnso",
-    "points": 35,
-    "comment_count": 6,
-    "hn_item": {
-      "by": "redbell",
-      "descendants": 1,
-      "id": 30134916,
-      "kids": [
-        30137637
-      ],
-      "score": 61,
-      "time": 1643528608,
-      "title": "Applying Offensive Reverse Engineering to Facebook Gameroom (2021)",
-      "type": "story",
-      "url": "https://spaceraccoon.dev/applying-offensive-reverse-engineering-to-facebook-gameroom"
-    },
-    "og_item": {
-      "title": "Why is a Harvard astrophysicist working with UFO buffs?",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://www.science.org/do/10.1126/science.ada0631/abs/_20220128_nf_flying_saucer.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://www.science.org/content/article/why-is-harvard-astrophysicist-working-with-ufo-buffs",
-      "audio": [],
-      "description": "Avi Loeb’s Galileo Project will search for sky-prowling aliens, but some worry about the influence of pseudoscience",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
@@ -2172,17 +2397,23 @@
     "points": 107,
     "comment_count": 8,
     "hn_item": {
-      "by": "redbell",
-      "descendants": 1,
-      "id": 30134916,
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
       "kids": [
-        30137637
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
       ],
-      "score": 61,
-      "time": 1643528608,
-      "title": "Applying Offensive Reverse Engineering to Facebook Gameroom (2021)",
+      "score": 190,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
       "type": "story",
-      "url": "https://spaceraccoon.dev/applying-offensive-reverse-engineering-to-facebook-gameroom"
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
     },
     "og_item": {
       "title": "Devious SQL: Message Queuing Using Native PostgreSQL",
@@ -2211,6 +2442,54 @@
     }
   },
   {
+    "id": 30140210,
+    "title": "Why is Harvard astrophysicist Avi Loeb working with ardent UFO believers?",
+    "url": "https://www.science.org/content/article/why-is-harvard-astrophysicist-working-with-ufo-buffs",
+    "time": 1643570644,
+    "image": "",
+    "icon": "https://www.science.org/favicon.ico",
+    "publisher": "AAAS",
+    "description": "",
+    "by": "tejohnso",
+    "points": 35,
+    "comment_count": 6,
+    "hn_item": {
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
+      "kids": [
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
+      ],
+      "score": 190,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
+      "type": "story",
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
+    },
+    "og_item": {
+      "title": "Science | AAAS",
+      "type": "Website",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "AAAS",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30111033,
     "title": "Toxic black mold is growing in my brain",
     "url": "https://www.buzzfeednews.com/article/tysonbottenus/black-mold-growing-toxic-brain-vacation",
@@ -2220,20 +2499,26 @@
     "publisher": "BuzzFeed News",
     "description": "I went on a vacation. I came home with a mysterious fungus in my brain that is so rare only about 120 cases have been confirmed worldwide since its discovery in 1911.",
     "by": "yellow_lead",
-    "points": 149,
+    "points": 150,
     "comment_count": 8,
     "hn_item": {
-      "by": "redbell",
-      "descendants": 1,
-      "id": 30134916,
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
       "kids": [
-        30137637
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
       ],
-      "score": 61,
-      "time": 1643528608,
-      "title": "Applying Offensive Reverse Engineering to Facebook Gameroom (2021)",
+      "score": 190,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
       "type": "story",
-      "url": "https://spaceraccoon.dev/applying-offensive-reverse-engineering-to-facebook-gameroom"
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
     },
     "og_item": {
       "title": "Toxic Black Mold Is Growing On My Brain",
@@ -2271,20 +2556,26 @@
     "publisher": "drlaurenserino.substack.com",
     "description": "Why are doctors being told to come to work while sick with COVID?",
     "by": "Disgruntled_Doc",
-    "points": 9,
+    "points": 11,
     "comment_count": 2,
     "hn_item": {
-      "by": "redbell",
-      "descendants": 1,
-      "id": 30134916,
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
       "kids": [
-        30137637
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
       ],
-      "score": 61,
-      "time": 1643528608,
-      "title": "Applying Offensive Reverse Engineering to Facebook Gameroom (2021)",
+      "score": 190,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
       "type": "story",
-      "url": "https://spaceraccoon.dev/applying-offensive-reverse-engineering-to-facebook-gameroom"
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
     },
     "og_item": {
       "title": "On literally working with COVID-19",
@@ -2304,6 +2595,54 @@
     }
   },
   {
+    "id": 30140641,
+    "title": "Mistakes I've Made Building a Music Reactive LED Matrix",
+    "url": "https://aradaelli.com/blog/music-reactive-led-matrix/",
+    "time": 1643573549,
+    "image": "",
+    "icon": "https://aradaelli.com/favicon.ico",
+    "publisher": "aradaelli.com",
+    "description": "",
+    "by": "aradaelli",
+    "points": 7,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
+      "kids": [
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
+      ],
+      "score": 190,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
+      "type": "story",
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
+    },
+    "og_item": {
+      "title": "\nMusic Reactive Led Matrix – Andrea Radaelli\n",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30139637,
     "title": "Show HN: I reverse engineered and documented United Airlines in flight API",
     "url": "https://github.com/greatjack1/United-In-Flight-Api",
@@ -2316,17 +2655,23 @@
     "points": 15,
     "comment_count": 2,
     "hn_item": {
-      "by": "redbell",
-      "descendants": 1,
-      "id": 30134916,
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
       "kids": [
-        30137637
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
       ],
-      "score": 61,
-      "time": 1643528608,
-      "title": "Applying Offensive Reverse Engineering to Facebook Gameroom (2021)",
+      "score": 190,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
       "type": "story",
-      "url": "https://spaceraccoon.dev/applying-offensive-reverse-engineering-to-facebook-gameroom"
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
     },
     "og_item": {
       "title": "GitHub - greatjack1/United-In-Flight-Api: Postman collection for United's internal in-flight wifi api",
@@ -2355,48 +2700,6 @@
     }
   },
   {
-    "id": 30141266,
-    "title": "Rpilocator – Find a Raspberry Pi in Stock",
-    "url": "https://rpilocator.com",
-    "time": 1643577841,
-    "image": "",
-    "icon": "https://rpilocator.com/favicon.ico",
-    "publisher": "rpilocator.com",
-    "description": "Find Raspberry Pi computers in stock with this simple to use web application.",
-    "by": "geerlingguy",
-    "points": 5,
-    "comment_count": 2,
-    "hn_item": {
-      "by": "redbell",
-      "descendants": 1,
-      "id": 30134916,
-      "kids": [
-        30137637
-      ],
-      "score": 61,
-      "time": 1643528608,
-      "title": "Applying Offensive Reverse Engineering to Facebook Gameroom (2021)",
-      "type": "story",
-      "url": "https://spaceraccoon.dev/applying-offensive-reverse-engineering-to-facebook-gameroom"
-    },
-    "og_item": {
-      "title": "rpilocator",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "Find Raspberry Pi computers in stock with this simple to use web application.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30125758,
     "title": "Fun with DBM-type databases (2018)",
     "url": "https://www.openwall.com/lists/oss-security/2018/06/17/1",
@@ -2409,17 +2712,23 @@
     "points": 20,
     "comment_count": 0,
     "hn_item": {
-      "by": "redbell",
-      "descendants": 1,
-      "id": 30134916,
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
       "kids": [
-        30137637
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
       ],
-      "score": 61,
-      "time": 1643528608,
-      "title": "Applying Offensive Reverse Engineering to Facebook Gameroom (2021)",
+      "score": 190,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
       "type": "story",
-      "url": "https://spaceraccoon.dev/applying-offensive-reverse-engineering-to-facebook-gameroom"
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
     },
     "og_item": {
       "title": "oss-security - Fun with DBM-type databases...",
@@ -2451,17 +2760,23 @@
     "points": 92,
     "comment_count": 10,
     "hn_item": {
-      "by": "redbell",
-      "descendants": 1,
-      "id": 30134916,
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
       "kids": [
-        30137637
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
       ],
-      "score": 61,
-      "time": 1643528608,
-      "title": "Applying Offensive Reverse Engineering to Facebook Gameroom (2021)",
+      "score": 190,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
       "type": "story",
-      "url": "https://spaceraccoon.dev/applying-offensive-reverse-engineering-to-facebook-gameroom"
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
     },
     "og_item": {
       "title": "Unredacted Word",
@@ -2490,192 +2805,6 @@
     }
   },
   {
-    "id": 30141205,
-    "title": "The Promise of Hierarchical Reinforcement Learning (2019)",
-    "url": "https://thegradient.pub/the-promise-of-hierarchical-reinforcement-learning/",
-    "time": 1643577464,
-    "image": "https://thegradient.pub/content/images/2019/03/photo-1502101872923-d48509bff386.jpeg",
-    "icon": "https://thegradient.pub/favicon.png",
-    "publisher": "The Gradient",
-    "description": "This idea of temporal abstraction, once incorporated into reinforcement learning (RL), converts it into *hierarchical* reinforcement learning (HRL).",
-    "by": "beefman",
-    "points": 5,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "redbell",
-      "descendants": 1,
-      "id": 30134916,
-      "kids": [
-        30137637
-      ],
-      "score": 61,
-      "time": 1643528608,
-      "title": "Applying Offensive Reverse Engineering to Facebook Gameroom (2021)",
-      "type": "story",
-      "url": "https://spaceraccoon.dev/applying-offensive-reverse-engineering-to-facebook-gameroom"
-    },
-    "og_item": {
-      "title": "The Promise of Hierarchical Reinforcement Learning",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://thegradient.pub/content/images/2019/03/photo-1502101872923-d48509bff386.jpeg",
-          "secure_url": "",
-          "type": "",
-          "width": 1489,
-          "height": 838,
-          "alt": ""
-        }
-      ],
-      "url": "https://thegradient.pub/the-promise-of-hierarchical-reinforcement-learning/",
-      "audio": [],
-      "description": "This idea of temporal abstraction, once incorporated into reinforcement learning (RL), converts it into *hierarchical* reinforcement learning (HRL).",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "The Gradient",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.png"
-      }
-    }
-  },
-  {
-    "id": 30132612,
-    "title": "John Locke’s recipe for Pancakes (2021)",
-    "url": "https://rarecooking.com/2021/12/14/john-lockes-recipe-for-pancakes/",
-    "time": 1643505299,
-    "image": "https://rarecooking.files.wordpress.com/2021/08/locke-pancakes-bodleian-ms-locke-c.25-f.85.png?w=900",
-    "icon": "https://s0.wp.com/i/favicon.ico",
-    "publisher": "Cooking in the Archives",
-    "description": "A collection of philosopher John Locke’s papers at the Bodleian Library includes letters, accounts, poetry, notes on medicine and books, and recipes. When David Armitage posted this recipe fo…",
-    "by": "pepys",
-    "points": 254,
-    "comment_count": 32,
-    "hn_item": {
-      "by": "redbell",
-      "descendants": 1,
-      "id": 30134916,
-      "kids": [
-        30137637
-      ],
-      "score": 61,
-      "time": 1643528608,
-      "title": "Applying Offensive Reverse Engineering to Facebook Gameroom (2021)",
-      "type": "story",
-      "url": "https://spaceraccoon.dev/applying-offensive-reverse-engineering-to-facebook-gameroom"
-    },
-    "og_item": {
-      "title": "John Locke’s recipe for Pancakes",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://rarecooking.files.wordpress.com/2021/08/locke-pancakes-bodleian-ms-locke-c.25-f.85.png?w=900",
-          "secure_url": "",
-          "type": "",
-          "width": 900,
-          "height": 1200,
-          "alt": ""
-        }
-      ],
-      "url": "https://rarecooking.com/2021/12/14/john-lockes-recipe-for-pancakes/",
-      "audio": [],
-      "description": "A collection of philosopher John Locke’s papers at the Bodleian Library includes letters, accounts, poetry, notes on medicine and books, and recipes. When David Armitage posted this recipe fo…",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Cooking in the Archives",
-      "video": [],
-      "favicon": {
-        "url": "https://s0.wp.com/i/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30140757,
-    "title": "Windows 11 update changed default browser to Edge, Chrome search-engine to Bing",
-    "url": "https://old.reddit.com/r/sysadmin/comments/sbgmab/last_windows_11_update_changed_default_browser_to/",
-    "time": 1643574322,
-    "image": "",
-    "icon": "https://old.reddit.com/favicon.ico",
-    "publisher": "old.reddit.com",
-    "description": "",
-    "by": "qwertyuiop_",
-    "points": 23,
-    "comment_count": 3,
-    "hn_item": {
-      "by": "redbell",
-      "descendants": 1,
-      "id": 30134916,
-      "kids": [
-        30137637
-      ],
-      "score": 61,
-      "time": 1643528608,
-      "title": "Applying Offensive Reverse Engineering to Facebook Gameroom (2021)",
-      "type": "story",
-      "url": "https://spaceraccoon.dev/applying-offensive-reverse-engineering-to-facebook-gameroom"
-    },
-    "og_item": {
-      "title": "Too Many Requests",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30128627,
-    "title": "Tech debt gets worse before it gets better",
-    "url": "https://jeremymikkola.com/posts/2022_01_29_tech_debt_gets_worse_before_it_gets_beffer.html",
-    "time": 1643479251,
-    "image": "",
-    "icon": "https://jeremymikkola.com/favicon.ico",
-    "publisher": "jeremymikkola.com",
-    "description": "",
-    "by": "piinbinary",
-    "points": 124,
-    "comment_count": 12,
-    "hn_item": {
-      "by": "redbell",
-      "descendants": 1,
-      "id": 30134916,
-      "kids": [
-        30137637
-      ],
-      "score": 61,
-      "time": 1643528608,
-      "title": "Applying Offensive Reverse Engineering to Facebook Gameroom (2021)",
-      "type": "story",
-      "url": "https://spaceraccoon.dev/applying-offensive-reverse-engineering-to-facebook-gameroom"
-    },
-    "og_item": {
-      "title": "Jeremy Mikkola - Tech debt gets worse before it gets better",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30141918,
     "title": "Tesla now monitors how often you adjust your seat position",
     "url": "https://driveteslacanada.ca/news/tesla-now-monitors-how-often-you-adjust-your-seat-position-and-will-disable-controls-for-chronic-abusers/",
@@ -2685,20 +2814,26 @@
     "publisher": "Drive Tesla",
     "description": "Tesla often takes advantage of the connected nature of their cars for good. They have warned owners of potential problems with their cars, or notified them to limit charging to help ease pressure on the [...]",
     "by": "rootusrootus",
-    "points": 5,
+    "points": 7,
     "comment_count": 1,
     "hn_item": {
-      "by": "redbell",
-      "descendants": 1,
-      "id": 30134916,
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
       "kids": [
-        30137637
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
       ],
-      "score": 61,
-      "time": 1643528608,
-      "title": "Applying Offensive Reverse Engineering to Facebook Gameroom (2021)",
+      "score": 190,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
       "type": "story",
-      "url": "https://spaceraccoon.dev/applying-offensive-reverse-engineering-to-facebook-gameroom"
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
     },
     "og_item": {
       "title": "Tesla now monitors how often you adjust your seat position and will disable controls for 'chronic abusers'",
@@ -2727,32 +2862,143 @@
     }
   },
   {
-    "id": 30140593,
-    "title": "Apple removes Grindr from the Chinese app store",
-    "url": "https://applecensorship.com/app-store-monitor/",
-    "time": 1643573198,
-    "image": "",
-    "icon": "https://i2.wp.com/applecensorship.com/wp-content/uploads/2020/12/cropped-fav.png?fit=192%2C192\u0026ssl=1",
-    "publisher": "applecensorship.com",
-    "description": "",
-    "by": "cryoz",
-    "points": 38,
-    "comment_count": 9,
+    "id": 30132612,
+    "title": "John Locke’s recipe for Pancakes (2021)",
+    "url": "https://rarecooking.com/2021/12/14/john-lockes-recipe-for-pancakes/",
+    "time": 1643505299,
+    "image": "https://rarecooking.files.wordpress.com/2021/08/locke-pancakes-bodleian-ms-locke-c.25-f.85.png?w=900",
+    "icon": "https://s0.wp.com/i/favicon.ico",
+    "publisher": "Cooking in the Archives",
+    "description": "A collection of philosopher John Locke’s papers at the Bodleian Library includes letters, accounts, poetry, notes on medicine and books, and recipes. When David Armitage posted this recipe fo…",
+    "by": "pepys",
+    "points": 254,
+    "comment_count": 32,
     "hn_item": {
-      "by": "redbell",
-      "descendants": 1,
-      "id": 30134916,
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
       "kids": [
-        30137637
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
       ],
-      "score": 61,
-      "time": 1643528608,
-      "title": "Applying Offensive Reverse Engineering to Facebook Gameroom (2021)",
+      "score": 190,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
       "type": "story",
-      "url": "https://spaceraccoon.dev/applying-offensive-reverse-engineering-to-facebook-gameroom"
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
     },
     "og_item": {
-      "title": "App Store Monitor – Apple Censorship",
+      "title": "John Locke’s recipe for Pancakes",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://rarecooking.files.wordpress.com/2021/08/locke-pancakes-bodleian-ms-locke-c.25-f.85.png?w=900",
+          "secure_url": "",
+          "type": "",
+          "width": 900,
+          "height": 1200,
+          "alt": ""
+        }
+      ],
+      "url": "https://rarecooking.com/2021/12/14/john-lockes-recipe-for-pancakes/",
+      "audio": [],
+      "description": "A collection of philosopher John Locke’s papers at the Bodleian Library includes letters, accounts, poetry, notes on medicine and books, and recipes. When David Armitage posted this recipe fo…",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Cooking in the Archives",
+      "video": [],
+      "favicon": {
+        "url": "https://s0.wp.com/i/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30141266,
+    "title": "Rpilocator – Find a Raspberry Pi in Stock",
+    "url": "https://rpilocator.com",
+    "time": 1643577841,
+    "image": "",
+    "icon": "https://rpilocator.com/favicon.ico",
+    "publisher": "rpilocator.com",
+    "description": "Find Raspberry Pi computers in stock with this simple to use web application.",
+    "by": "geerlingguy",
+    "points": 6,
+    "comment_count": 2,
+    "hn_item": {
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
+      "kids": [
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
+      ],
+      "score": 190,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
+      "type": "story",
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
+    },
+    "og_item": {
+      "title": "rpilocator",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "Find Raspberry Pi computers in stock with this simple to use web application.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30140757,
+    "title": "Windows 11 update changed default browser to Edge, Chrome search-engine to Bing",
+    "url": "https://old.reddit.com/r/sysadmin/comments/sbgmab/last_windows_11_update_changed_default_browser_to/",
+    "time": 1643574322,
+    "image": "",
+    "icon": "https://old.reddit.com/favicon.ico",
+    "publisher": "old.reddit.com",
+    "description": "",
+    "by": "qwertyuiop_",
+    "points": 24,
+    "comment_count": 3,
+    "hn_item": {
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
+      "kids": [
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
+      ],
+      "score": 190,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
+      "type": "story",
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
+    },
+    "og_item": {
+      "title": "Too Many Requests",
       "type": "",
       "image": [],
       "url": "",
@@ -2764,7 +3010,112 @@
       "site_name": "",
       "video": [],
       "favicon": {
-        "url": "https://i2.wp.com/applecensorship.com/wp-content/uploads/2020/12/cropped-fav.png?fit=192%2C192\u0026ssl=1"
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30141205,
+    "title": "The Promise of Hierarchical Reinforcement Learning (2019)",
+    "url": "https://thegradient.pub/the-promise-of-hierarchical-reinforcement-learning/",
+    "time": 1643577464,
+    "image": "https://thegradient.pub/content/images/2019/03/photo-1502101872923-d48509bff386.jpeg",
+    "icon": "https://thegradient.pub/favicon.png",
+    "publisher": "The Gradient",
+    "description": "This idea of temporal abstraction, once incorporated into reinforcement learning (RL), converts it into *hierarchical* reinforcement learning (HRL).",
+    "by": "beefman",
+    "points": 6,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
+      "kids": [
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
+      ],
+      "score": 190,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
+      "type": "story",
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
+    },
+    "og_item": {
+      "title": "The Promise of Hierarchical Reinforcement Learning",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://thegradient.pub/content/images/2019/03/photo-1502101872923-d48509bff386.jpeg",
+          "secure_url": "",
+          "type": "",
+          "width": 1489,
+          "height": 838,
+          "alt": ""
+        }
+      ],
+      "url": "https://thegradient.pub/the-promise-of-hierarchical-reinforcement-learning/",
+      "audio": [],
+      "description": "This idea of temporal abstraction, once incorporated into reinforcement learning (RL), converts it into *hierarchical* reinforcement learning (HRL).",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "The Gradient",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.png"
+      }
+    }
+  },
+  {
+    "id": 30128627,
+    "title": "Tech debt gets worse before it gets better",
+    "url": "https://jeremymikkola.com/posts/2022_01_29_tech_debt_gets_worse_before_it_gets_beffer.html",
+    "time": 1643479251,
+    "image": "",
+    "icon": "https://jeremymikkola.com/favicon.ico",
+    "publisher": "jeremymikkola.com",
+    "description": "",
+    "by": "piinbinary",
+    "points": 124,
+    "comment_count": 12,
+    "hn_item": {
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
+      "kids": [
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
+      ],
+      "score": 190,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
+      "type": "story",
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
+    },
+    "og_item": {
+      "title": "Jeremy Mikkola - Tech debt gets worse before it gets better",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
       }
     }
   },
@@ -2781,17 +3132,23 @@
     "points": 50,
     "comment_count": 6,
     "hn_item": {
-      "by": "redbell",
-      "descendants": 1,
-      "id": 30134916,
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
       "kids": [
-        30137637
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
       ],
-      "score": 61,
-      "time": 1643528608,
-      "title": "Applying Offensive Reverse Engineering to Facebook Gameroom (2021)",
+      "score": 190,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
       "type": "story",
-      "url": "https://spaceraccoon.dev/applying-offensive-reverse-engineering-to-facebook-gameroom"
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
     },
     "og_item": {
       "title": "How Amiga 500 RAM Probably Works | How Things Probably Work",
@@ -2829,6 +3186,54 @@
     }
   },
   {
+    "id": 30140593,
+    "title": "Apple removes Grindr from the Chinese app store",
+    "url": "https://applecensorship.com/app-store-monitor/",
+    "time": 1643573198,
+    "image": "",
+    "icon": "https://i2.wp.com/applecensorship.com/wp-content/uploads/2020/12/cropped-fav.png?fit=192%2C192\u0026ssl=1",
+    "publisher": "applecensorship.com",
+    "description": "",
+    "by": "cryoz",
+    "points": 38,
+    "comment_count": 9,
+    "hn_item": {
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
+      "kids": [
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
+      ],
+      "score": 190,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
+      "type": "story",
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
+    },
+    "og_item": {
+      "title": "App Store Monitor – Apple Censorship",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "https://i2.wp.com/applecensorship.com/wp-content/uploads/2020/12/cropped-fav.png?fit=192%2C192\u0026ssl=1"
+      }
+    }
+  },
+  {
     "id": 30119748,
     "title": "In Defense of NIR",
     "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/",
@@ -2841,62 +3246,26 @@
     "points": 27,
     "comment_count": 4,
     "hn_item": {
-      "by": "redbell",
-      "descendants": 1,
-      "id": 30134916,
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
       "kids": [
-        30137637
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
       ],
-      "score": 61,
-      "time": 1643528608,
-      "title": "Applying Offensive Reverse Engineering to Facebook Gameroom (2021)",
+      "score": 190,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
       "type": "story",
-      "url": "https://spaceraccoon.dev/applying-offensive-reverse-engineering-to-facebook-gameroom"
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
     },
     "og_item": {
       "title": "In defense of NIR",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30140641,
-    "title": "Mistakes I've Made Building a Music Reactive LED Matrix",
-    "url": "https://aradaelli.com/blog/music-reactive-led-matrix/",
-    "time": 1643573549,
-    "image": "",
-    "icon": "https://aradaelli.com/favicon.ico",
-    "publisher": "aradaelli.com",
-    "description": "",
-    "by": "aradaelli",
-    "points": 4,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "redbell",
-      "descendants": 1,
-      "id": 30134916,
-      "kids": [
-        30137637
-      ],
-      "score": 61,
-      "time": 1643528608,
-      "title": "Applying Offensive Reverse Engineering to Facebook Gameroom (2021)",
-      "type": "story",
-      "url": "https://spaceraccoon.dev/applying-offensive-reverse-engineering-to-facebook-gameroom"
-    },
-    "og_item": {
-      "title": "\nMusic Reactive Led Matrix – Andrea Radaelli\n",
       "type": "",
       "image": [],
       "url": "",
@@ -2925,17 +3294,23 @@
     "points": 8,
     "comment_count": 1,
     "hn_item": {
-      "by": "redbell",
-      "descendants": 1,
-      "id": 30134916,
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
       "kids": [
-        30137637
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
       ],
-      "score": 61,
-      "time": 1643528608,
-      "title": "Applying Offensive Reverse Engineering to Facebook Gameroom (2021)",
+      "score": 190,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
       "type": "story",
-      "url": "https://spaceraccoon.dev/applying-offensive-reverse-engineering-to-facebook-gameroom"
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
     },
     "og_item": {
       "title": "The UN is testing technology that processes data confidentially",
@@ -2976,17 +3351,23 @@
     "points": 12,
     "comment_count": 0,
     "hn_item": {
-      "by": "redbell",
-      "descendants": 1,
-      "id": 30134916,
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
       "kids": [
-        30137637
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
       ],
-      "score": 61,
-      "time": 1643528608,
-      "title": "Applying Offensive Reverse Engineering to Facebook Gameroom (2021)",
+      "score": 190,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
       "type": "story",
-      "url": "https://spaceraccoon.dev/applying-offensive-reverse-engineering-to-facebook-gameroom"
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
     },
     "og_item": {
       "title": "Socrates on the Blessing of Being Refuted - Antigone",
@@ -3015,48 +3396,6 @@
     }
   },
   {
-    "id": 30139793,
-    "title": "Dave Packard's Simple Rules for Getting Along with Others (2013)",
-    "url": "https://fs.blog/dave-packards-11-simple-rules/",
-    "time": 1643568051,
-    "image": "",
-    "icon": "https://149664534.v2.pressablecdn.com/wp-content/uploads/2015/06/cropped-farnamstreet-300x300.png",
-    "publisher": "Farnam Street",
-    "description": "These 11 simple rules for getting along with others were first presented by Dave Packard at HP's second annual management conference in 1958.",
-    "by": "Tomte",
-    "points": 11,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "redbell",
-      "descendants": 1,
-      "id": 30134916,
-      "kids": [
-        30137637
-      ],
-      "score": 61,
-      "time": 1643528608,
-      "title": "Applying Offensive Reverse Engineering to Facebook Gameroom (2021)",
-      "type": "story",
-      "url": "https://spaceraccoon.dev/applying-offensive-reverse-engineering-to-facebook-gameroom"
-    },
-    "og_item": {
-      "title": "11 Simple Rules For Getting Along With Others",
-      "type": "article",
-      "image": [],
-      "url": "https://fs.blog/dave-packards-11-simple-rules/",
-      "audio": [],
-      "description": "These 11 simple rules for getting along with others were first presented by Dave Packard at HP's second annual management conference in 1958.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Farnam Street",
-      "video": [],
-      "favicon": {
-        "url": "https://149664534.v2.pressablecdn.com/wp-content/uploads/2015/06/cropped-farnamstreet-300x300.png"
-      }
-    }
-  },
-  {
     "id": 30138266,
     "title": "Hollows Hunter – Scans all running processes",
     "url": "https://github.com/hasherezade/hollows_hunter",
@@ -3069,17 +3408,23 @@
     "points": 21,
     "comment_count": 2,
     "hn_item": {
-      "by": "redbell",
-      "descendants": 1,
-      "id": 30134916,
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
       "kids": [
-        30137637
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
       ],
-      "score": 61,
-      "time": 1643528608,
-      "title": "Applying Offensive Reverse Engineering to Facebook Gameroom (2021)",
+      "score": 190,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
       "type": "story",
-      "url": "https://spaceraccoon.dev/applying-offensive-reverse-engineering-to-facebook-gameroom"
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
     },
     "og_item": {
       "title": "GitHub - hasherezade/hollows_hunter: Scans all running processes. Recognizes and dumps a variety of potentially malicious implants (replaced/implanted PEs, shellcodes, hooks, in-memory patches).",
@@ -3108,6 +3453,54 @@
     }
   },
   {
+    "id": 30139793,
+    "title": "Dave Packard's Simple Rules for Getting Along with Others (2013)",
+    "url": "https://fs.blog/dave-packards-11-simple-rules/",
+    "time": 1643568051,
+    "image": "",
+    "icon": "https://149664534.v2.pressablecdn.com/wp-content/uploads/2015/06/cropped-farnamstreet-300x300.png",
+    "publisher": "Farnam Street",
+    "description": "These 11 simple rules for getting along with others were first presented by Dave Packard at HP's second annual management conference in 1958.",
+    "by": "Tomte",
+    "points": 12,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
+      "kids": [
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
+      ],
+      "score": 190,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
+      "type": "story",
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
+    },
+    "og_item": {
+      "title": "11 Simple Rules For Getting Along With Others",
+      "type": "article",
+      "image": [],
+      "url": "https://fs.blog/dave-packards-11-simple-rules/",
+      "audio": [],
+      "description": "These 11 simple rules for getting along with others were first presented by Dave Packard at HP's second annual management conference in 1958.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Farnam Street",
+      "video": [],
+      "favicon": {
+        "url": "https://149664534.v2.pressablecdn.com/wp-content/uploads/2015/06/cropped-farnamstreet-300x300.png"
+      }
+    }
+  },
+  {
     "id": 30138561,
     "title": "24/192 Music Downloads and why they make no sense (2012)",
     "url": "https://web.archive.org/web/20200417180912/https://people.xiph.org/~xiphmont/demo/neil-young.html",
@@ -3120,17 +3513,23 @@
     "points": 21,
     "comment_count": 5,
     "hn_item": {
-      "by": "redbell",
-      "descendants": 1,
-      "id": 30134916,
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
       "kids": [
-        30137637
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
       ],
-      "score": 61,
-      "time": 1643528608,
-      "title": "Applying Offensive Reverse Engineering to Facebook Gameroom (2021)",
+      "score": 190,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
       "type": "story",
-      "url": "https://spaceraccoon.dev/applying-offensive-reverse-engineering-to-facebook-gameroom"
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
     },
     "og_item": {
       "title": "24/192 Music Downloads are Very Silly Indeed",
@@ -3150,48 +3549,6 @@
     }
   },
   {
-    "id": 30139920,
-    "title": "How to auto-generate GraphQL schema?",
-    "url": "https://graphqlite.com/guides/schema-generator",
-    "time": 1643568747,
-    "image": "",
-    "icon": "https://graphqlite.com/favicon-16x16.png",
-    "publisher": "graphqlite.com",
-    "description": "Rapid GraphQL prototyping, development, and testing.",
-    "by": "relatedcode",
-    "points": 5,
-    "comment_count": 1,
-    "hn_item": {
-      "by": "redbell",
-      "descendants": 1,
-      "id": 30134916,
-      "kids": [
-        30137637
-      ],
-      "score": 61,
-      "time": 1643528608,
-      "title": "Applying Offensive Reverse Engineering to Facebook Gameroom (2021)",
-      "type": "story",
-      "url": "https://spaceraccoon.dev/applying-offensive-reverse-engineering-to-facebook-gameroom"
-    },
-    "og_item": {
-      "title": "Schema Generator | GraphQLite",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "Rapid GraphQL prototyping, development, and testing.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon-16x16.png"
-      }
-    }
-  },
-  {
     "id": 30134916,
     "title": "Applying Offensive Reverse Engineering to Facebook Gameroom (2021)",
     "url": "https://spaceraccoon.dev/applying-offensive-reverse-engineering-to-facebook-gameroom",
@@ -3204,17 +3561,23 @@
     "points": 61,
     "comment_count": 1,
     "hn_item": {
-      "by": "redbell",
-      "descendants": 1,
-      "id": 30134916,
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
       "kids": [
-        30137637
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
       ],
-      "score": 61,
-      "time": 1643528608,
-      "title": "Applying Offensive Reverse Engineering to Facebook Gameroom (2021)",
+      "score": 190,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
       "type": "story",
-      "url": "https://spaceraccoon.dev/applying-offensive-reverse-engineering-to-facebook-gameroom"
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
     },
     "og_item": {
       "title": "Applying Offensive Reverse Engineering to Facebook Gameroom",
@@ -3255,6 +3618,63 @@
       "video": [],
       "favicon": {
         "url": "https://cdn.writeas.net/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30134790,
+    "title": "One more small step toward the right to software repair",
+    "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/",
+    "time": 1643526869,
+    "image": "https://sfconservancy.org/img/conservancy-logo.png",
+    "icon": "https://sfconservancy.org/favicon.ico",
+    "publisher": "Software Freedom Conservancy",
+    "description": "Our Motion to Remand in Vizio Lawsuit Shows How the Law Brings Software Freedom to All Users Yesterday afternoon, we filed a Motion for Remand in our\nlawsuit against Vizio for their flagrant GPL \u0026 LGPL violations, alleged\nwith great detail in our complaint in California state\ncourt.  Vizio's resp…",
+    "by": "pabs3",
+    "points": 190,
+    "comment_count": 7,
+    "hn_item": {
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
+      "kids": [
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
+      ],
+      "score": 190,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
+      "type": "story",
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
+    },
+    "og_item": {
+      "title": "One More Small Step Toward The Right to Software Repair",
+      "type": "website",
+      "image": [
+        {
+          "url": "https://sfconservancy.org/img/conservancy-logo.png",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/",
+      "audio": [],
+      "description": "Our Motion to Remand in Vizio Lawsuit Shows How the Law Brings Software Freedom to All Users Yesterday afternoon, we filed a Motion for Remand in our\nlawsuit against Vizio for their flagrant GPL \u0026 LGPL violations, alleged\nwith great detail in our complaint in California state\ncourt.  Vizio's response to that complaint was to\n“remove” the case to federal\ncourt.  Vizio argues that the lawsuit can only be brought by a copyright\nholder as a copyright infringement lawsuit in federal court.  In response, we\nhave asked the federal court to return (“remand”) the case to\nstate court.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Software Freedom Conservancy",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
       }
     }
   }
