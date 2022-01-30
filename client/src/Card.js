@@ -5,21 +5,8 @@ import { timeSince } from './utils';
 
 // Card component
 const Card = ({ item }) => {
-  const {
-    title: titleField,
-    og_title,
-    og_description,
-    icon,
-    publisher,
-    time,
-    image,
-    kids,
-    by,
-    score,
-    id,
-    url,
-  } = item;
-  const title = titleField || og_title;
+  const { title, description, icon, publisher, time, image, comment_count, by, points, id, url } =
+    item;
   const titleClass = image ? 'title-with-img' : 'title';
 
   return (
@@ -48,11 +35,11 @@ const Card = ({ item }) => {
       <div className={titleClass}>
         <a href={url}>{title}</a>
       </div>
-      {og_description && <div className="desc">{og_description}</div>}
+      {description && <div className="desc">{description}</div>}
       <div className="card-footer">
         by <a href={'https://news.ycombinator.com/user?id=' + by}>{by}</a>{' '}
-        <div className="dot">&bull;</div> {score} pts{' '}
-        {kids?.length > 0 && <Comments kids={kids} id={id} />}
+        <div className="dot">&bull;</div> {points} pts{' '}
+        {comment_count > 0 && <Comments comment_count={comment_count} id={id} />}
       </div>
     </div>
   );
