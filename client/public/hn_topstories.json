@@ -9,24 +9,26 @@
     "publisher": "fahrrad-tools.de",
     "description": "Which tire fits my bike? Tires are always flat and now buy a tire with puncture protection? Find the right tire now!",
     "by": "moasda",
-    "points": 414,
+    "points": 425,
     "comment_count": 36,
     "hn_item": {
-      "by": "sam537",
-      "descendants": 5,
-      "id": 30139457,
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
       "kids": [
-        30139775,
-        30140875,
-        30140876,
-        30140804,
-        30139663
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
       ],
-      "score": 10,
-      "time": 1643565919,
-      "title": "What is the best way to learn Python for Bioinformatics?",
+      "score": 189,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
       "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30139457"
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
     },
     "og_item": {
       "title": "Bike Tire | Fahrrad-Tools.de",
@@ -55,24 +57,26 @@
     "publisher": "jenson.org",
     "description": "",
     "by": "radley",
-    "points": 270,
-    "comment_count": 45,
+    "points": 292,
+    "comment_count": 49,
     "hn_item": {
-      "by": "sam537",
-      "descendants": 5,
-      "id": 30139457,
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
       "kids": [
-        30139775,
-        30140875,
-        30140876,
-        30140804,
-        30139663
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
       ],
-      "score": 10,
-      "time": 1643565919,
-      "title": "What is the best way to learn Python for Bioinformatics?",
+      "score": 189,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
       "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30139457"
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
     },
     "og_item": {
       "title": "A UX designer walks into a Tesla Bar – Scott Jenson",
@@ -101,24 +105,26 @@
     "publisher": "recur-env.eba-rm3fchmn.us-eas…",
     "description": "",
     "by": "ShamelessC",
-    "points": 20,
-    "comment_count": 3,
+    "points": 22,
+    "comment_count": 5,
     "hn_item": {
-      "by": "sam537",
-      "descendants": 5,
-      "id": 30139457,
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
       "kids": [
-        30139775,
-        30140875,
-        30140876,
-        30140804,
-        30139663
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
       ],
-      "score": 10,
-      "time": 1643565919,
-      "title": "What is the best way to learn Python for Bioinformatics?",
+      "score": 189,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
       "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30139457"
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
     },
     "og_item": {
       "title": "Streamlit",
@@ -138,153 +144,6 @@
     }
   },
   {
-    "id": 30138533,
-    "title": "Hypercard Simulator",
-    "url": "https://hypercardsimulator.com/",
-    "time": 1643560248,
-    "image": "",
-    "icon": "https://hypercardsimulator.com/favicon.ico",
-    "publisher": "hypercardsimulator.com",
-    "description": "",
-    "by": "alexmingoia",
-    "points": 157,
-    "comment_count": 12,
-    "hn_item": {
-      "by": "sam537",
-      "descendants": 5,
-      "id": 30139457,
-      "kids": [
-        30139775,
-        30140875,
-        30140876,
-        30140804,
-        30139663
-      ],
-      "score": 10,
-      "time": 1643565919,
-      "title": "What is the best way to learn Python for Bioinformatics?",
-      "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30139457"
-    },
-    "og_item": {
-      "title": "HyperCardSimulator",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30134367,
-    "title": "The case of the mysterious --help directory (2020)",
-    "url": "https://leahneukirchen.org/blog/archive/2020/05/the-case-of-the-mysterious-help-directory.html",
-    "time": 1643520785,
-    "image": "",
-    "icon": "https://leahneukirchen.org/favicon.ico",
-    "publisher": "leahneukirchen.org",
-    "description": "",
-    "by": "panic",
-    "points": 71,
-    "comment_count": 4,
-    "hn_item": {
-      "by": "sam537",
-      "descendants": 5,
-      "id": 30139457,
-      "kids": [
-        30139775,
-        30140875,
-        30140876,
-        30140804,
-        30139663
-      ],
-      "score": 10,
-      "time": 1643565919,
-      "title": "What is the best way to learn Python for Bioinformatics?",
-      "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30139457"
-    },
-    "og_item": {
-      "title": "leah blogs: The case of the mysterious --help directory",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30140464,
-    "title": "The Great Unconformity: Research points to glaciers being the culprit",
-    "url": "https://www.vice.com/en/article/wxdzzb/a-billion-years-of-time-are-mysteriously-missing-scientists-think-they-know-why",
-    "time": 1643572375,
-    "image": "https://video-images.vice.com/articles/61f2a92be1de8b0094f51e5e/lede/1643293461145-screen-shot-2022-01-27-at-92341-am.png?image-resize-opts=Y3JvcD0xeHc6MC44NDUxeGg7MHh3LDAuMTE0OXhoJnJlc2l6ZT0xMjAwOiomcmVzaXplPTEyMDA6Kg",
-    "icon": "https://vice-web-statics-cdn.vice.com/favicons/vice/favicon-16x16.png",
-    "publisher": "Vice",
-    "description": "The Great Unconformity has baffled geologists for a century. New research points to glaciers being the culprit.",
-    "by": "cbkeller",
-    "points": 35,
-    "comment_count": 3,
-    "hn_item": {
-      "by": "sam537",
-      "descendants": 5,
-      "id": 30139457,
-      "kids": [
-        30139775,
-        30140875,
-        30140876,
-        30140804,
-        30139663
-      ],
-      "score": 10,
-      "time": 1643565919,
-      "title": "What is the best way to learn Python for Bioinformatics?",
-      "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30139457"
-    },
-    "og_item": {
-      "title": "A Billion Years of Time Are Mysteriously Missing. Scientists Think They Know Why.",
-      "type": "website",
-      "image": [
-        {
-          "url": "https://video-images.vice.com/articles/61f2a92be1de8b0094f51e5e/lede/1643293461145-screen-shot-2022-01-27-at-92341-am.png?image-resize-opts=Y3JvcD0xeHc6MC44NDUxeGg7MHh3LDAuMTE0OXhoJnJlc2l6ZT0xMjAwOiomcmVzaXplPTEyMDA6Kg",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://www.vice.com/en/article/wxdzzb/a-billion-years-of-time-are-mysteriously-missing-scientists-think-they-know-why",
-      "audio": [],
-      "description": "The Great Unconformity has baffled geologists for a century. New research points to glaciers being the culprit.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "https://vice-web-statics-cdn.vice.com/favicons/vice/favicon-16x16.png"
-      }
-    }
-  },
-  {
     "id": 30141439,
     "title": "Operation Warp Speed: A new model for industrial policy",
     "url": "https://americanaffairsjournal.org/2021/05/inside-operation-warp-speed-a-new-model-for-industrial-policy/",
@@ -294,24 +153,26 @@
     "publisher": "American Affairs Journal",
     "description": "Operation Warp Speed1 (OWS) was launched on May 15, 2020. A partnership between the Departments of Health and Human Services (HHS) and Defense (DoD), other agencies, and the private sector, its goal was to “accelerate the testing, supply, development, and distribution of safe and effective vacc…",
     "by": "gok",
-    "points": 9,
+    "points": 14,
     "comment_count": 1,
     "hn_item": {
-      "by": "sam537",
-      "descendants": 5,
-      "id": 30139457,
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
       "kids": [
-        30139775,
-        30140875,
-        30140876,
-        30140804,
-        30139663
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
       ],
-      "score": 10,
-      "time": 1643565919,
-      "title": "What is the best way to learn Python for Bioinformatics?",
+      "score": 189,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
       "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30139457"
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
     },
     "og_item": {
       "title": "Inside Operation Warp Speed: A New Model for Industrial Policy - American Affairs Journal",
@@ -340,6 +201,159 @@
     }
   },
   {
+    "id": 30138533,
+    "title": "Hypercard Simulator",
+    "url": "https://hypercardsimulator.com/",
+    "time": 1643560248,
+    "image": "",
+    "icon": "https://hypercardsimulator.com/favicon.ico",
+    "publisher": "hypercardsimulator.com",
+    "description": "",
+    "by": "alexmingoia",
+    "points": 161,
+    "comment_count": 12,
+    "hn_item": {
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
+      "kids": [
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
+      ],
+      "score": 189,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
+      "type": "story",
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
+    },
+    "og_item": {
+      "title": "HyperCardSimulator",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30134367,
+    "title": "The case of the mysterious --help directory (2020)",
+    "url": "https://leahneukirchen.org/blog/archive/2020/05/the-case-of-the-mysterious-help-directory.html",
+    "time": 1643520785,
+    "image": "",
+    "icon": "https://leahneukirchen.org/favicon.ico",
+    "publisher": "leahneukirchen.org",
+    "description": "",
+    "by": "panic",
+    "points": 73,
+    "comment_count": 4,
+    "hn_item": {
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
+      "kids": [
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
+      ],
+      "score": 189,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
+      "type": "story",
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
+    },
+    "og_item": {
+      "title": "leah blogs: The case of the mysterious --help directory",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30140464,
+    "title": "The Great Unconformity: Research points to glaciers being the culprit",
+    "url": "https://www.vice.com/en/article/wxdzzb/a-billion-years-of-time-are-mysteriously-missing-scientists-think-they-know-why",
+    "time": 1643572375,
+    "image": "https://video-images.vice.com/articles/61f2a92be1de8b0094f51e5e/lede/1643293461145-screen-shot-2022-01-27-at-92341-am.png?image-resize-opts=Y3JvcD0xeHc6MC44NDUxeGg7MHh3LDAuMTE0OXhoJnJlc2l6ZT0xMjAwOiomcmVzaXplPTEyMDA6Kg",
+    "icon": "https://vice-web-statics-cdn.vice.com/favicons/vice/favicon-16x16.png",
+    "publisher": "Vice",
+    "description": "The Great Unconformity has baffled geologists for a century. New research points to glaciers being the culprit.",
+    "by": "cbkeller",
+    "points": 36,
+    "comment_count": 3,
+    "hn_item": {
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
+      "kids": [
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
+      ],
+      "score": 189,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
+      "type": "story",
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
+    },
+    "og_item": {
+      "title": "A Billion Years of Time Are Mysteriously Missing. Scientists Think They Know Why.",
+      "type": "website",
+      "image": [
+        {
+          "url": "https://video-images.vice.com/articles/61f2a92be1de8b0094f51e5e/lede/1643293461145-screen-shot-2022-01-27-at-92341-am.png?image-resize-opts=Y3JvcD0xeHc6MC44NDUxeGg7MHh3LDAuMTE0OXhoJnJlc2l6ZT0xMjAwOiomcmVzaXplPTEyMDA6Kg",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://www.vice.com/en/article/wxdzzb/a-billion-years-of-time-are-mysteriously-missing-scientists-think-they-know-why",
+      "audio": [],
+      "description": "The Great Unconformity has baffled geologists for a century. New research points to glaciers being the culprit.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "https://vice-web-statics-cdn.vice.com/favicons/vice/favicon-16x16.png"
+      }
+    }
+  },
+  {
     "id": 30140270,
     "title": "When the algorithm is your boss",
     "url": "https://tribunemag.co.uk/2022/01/amazon-algorithm-human-resource-management-tech-worker-surveillance",
@@ -349,24 +363,26 @@
     "publisher": "tribunemag.co.uk",
     "description": "At workplaces like Amazon, algorithms have become the worst kind of boss – one who watches you constantly, makes impossible demands and then sacks you without explanation.",
     "by": "jrepinc",
-    "points": 40,
-    "comment_count": 5,
+    "points": 43,
+    "comment_count": 6,
     "hn_item": {
-      "by": "sam537",
-      "descendants": 5,
-      "id": 30139457,
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
       "kids": [
-        30139775,
-        30140875,
-        30140876,
-        30140804,
-        30139663
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
       ],
-      "score": 10,
-      "time": 1643565919,
-      "title": "What is the best way to learn Python for Bioinformatics?",
+      "score": 189,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
       "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30139457"
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
     },
     "og_item": {
       "title": "When the Algorithm Is Your Boss",
@@ -407,21 +423,23 @@
     "points": 1,
     "comment_count": 0,
     "hn_item": {
-      "by": "sam537",
-      "descendants": 5,
-      "id": 30139457,
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
       "kids": [
-        30139775,
-        30140875,
-        30140876,
-        30140804,
-        30139663
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
       ],
-      "score": 10,
-      "time": 1643565919,
-      "title": "What is the best way to learn Python for Bioinformatics?",
+      "score": 189,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
       "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30139457"
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
     },
     "og_item": {
       "title": "BuildZoom jobs",
@@ -450,11 +468,116 @@
     }
   },
   {
+    "id": 30141460,
+    "title": "Royal Society cautions against censorship of scientific misinformation online",
+    "url": "https://royalsociety.org/news/2022/01/scientific-misinformation-report/",
+    "time": 1643579230,
+    "image": "https://royalsociety.org/images/Redesign2015/RSSocialShare.jpg",
+    "icon": "https://royalsociety.org/images/Main/favIcon.ico",
+    "publisher": "royalsociety.org",
+    "description": "The Online Information Environment report discusses how to limit the harm of scientific misinformation online",
+    "by": "steelstraw",
+    "points": 12,
+    "comment_count": 1,
+    "hn_item": {
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
+      "kids": [
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
+      ],
+      "score": 189,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
+      "type": "story",
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
+    },
+    "og_item": {
+      "title": "Royal Society cautions against censorship of scientific misinformation online | Royal Society",
+      "type": "website",
+      "image": [
+        {
+          "url": "https://royalsociety.org/images/Redesign2015/RSSocialShare.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://royalsociety.org/news/2022/01/scientific-misinformation-report/",
+      "audio": [],
+      "description": "The Online Information Environment report discusses how to limit the harm of scientific misinformation online",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/images/Main/favIcon.ico"
+      }
+    }
+  },
+  {
+    "id": 30141278,
+    "title": "The Story of Maxis Software (1999)",
+    "url": "https://web.archive.org/web/19991012021220/http://gamespot.com/features/maxis/index.html",
+    "time": 1643577913,
+    "image": "",
+    "icon": "https://web.archive.org/favicon.ico",
+    "publisher": "web.archive.org",
+    "description": "",
+    "by": "ecliptik",
+    "points": 10,
+    "comment_count": 2,
+    "hn_item": {
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
+      "kids": [
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
+      ],
+      "score": 189,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
+      "type": "story",
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
+    },
+    "og_item": {
+      "title": "GameSpot's SIMply Divine: The Story of Maxis Software",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30138434,
     "title": "Beancount: Double-entry accounting from text files",
     "url": "https://github.com/beancount/beancount",
     "time": 1643559445,
-    "image": "https://opengraph.githubassets.com/56cf56e246a51baf309f1800d6147f8684bf977fcbb97ef785868b31d89252ce/beancount/beancount",
+    "image": "https://opengraph.githubassets.com/f8762da7bd11eb11594f3c734bf508a71c726edeb3d21660c901153c08e1e295/beancount/beancount",
     "icon": "https://github.githubassets.com/favicons/favicon.svg",
     "publisher": "GitHub",
     "description": "Beancount: Double-Entry Accounting from Text Files. - GitHub - beancount/beancount: Beancount: Double-Entry Accounting from Text Files.",
@@ -462,28 +585,30 @@
     "points": 125,
     "comment_count": 14,
     "hn_item": {
-      "by": "sam537",
-      "descendants": 5,
-      "id": 30139457,
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
       "kids": [
-        30139775,
-        30140875,
-        30140876,
-        30140804,
-        30139663
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
       ],
-      "score": 10,
-      "time": 1643565919,
-      "title": "What is the best way to learn Python for Bioinformatics?",
+      "score": 189,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
       "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30139457"
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
     },
     "og_item": {
       "title": "GitHub - beancount/beancount: Beancount: Double-Entry Accounting from Text Files.",
       "type": "object",
       "image": [
         {
-          "url": "https://opengraph.githubassets.com/56cf56e246a51baf309f1800d6147f8684bf977fcbb97ef785868b31d89252ce/beancount/beancount",
+          "url": "https://opengraph.githubassets.com/f8762da7bd11eb11594f3c734bf508a71c726edeb3d21660c901153c08e1e295/beancount/beancount",
           "secure_url": "",
           "type": "",
           "width": 1200,
@@ -505,48 +630,59 @@
     }
   },
   {
-    "id": 30141278,
-    "title": "The Story of Maxis Software (1999)",
-    "url": "https://web.archive.org/web/19991012021220/http://gamespot.com/features/maxis/index.html",
-    "time": 1643577913,
-    "image": "",
-    "icon": "https://web.archive.org/favicon.ico",
-    "publisher": "web.archive.org",
-    "description": "",
-    "by": "ecliptik",
-    "points": 9,
-    "comment_count": 2,
+    "id": 30135190,
+    "title": "FunctionStomping – A new shellcode injection technique",
+    "url": "https://github.com/Idov31/FunctionStomping",
+    "time": 1643533222,
+    "image": "https://opengraph.githubassets.com/7bd1027eb9e6b5b54ea141013d2fca28f98424ba5f0ed71236fc36d2909d6117/Idov31/FunctionStomping",
+    "icon": "https://github.githubassets.com/favicons/favicon.svg",
+    "publisher": "GitHub",
+    "description": "A new shellcode injection technique. Given as C++ header or standalone Rust program. - GitHub - Idov31/FunctionStomping: A new shellcode injection technique. Given as C++ header or standalone Rust ...",
+    "by": "maydemir",
+    "points": 11,
+    "comment_count": 1,
     "hn_item": {
-      "by": "sam537",
-      "descendants": 5,
-      "id": 30139457,
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
       "kids": [
-        30139775,
-        30140875,
-        30140876,
-        30140804,
-        30139663
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
       ],
-      "score": 10,
-      "time": 1643565919,
-      "title": "What is the best way to learn Python for Bioinformatics?",
+      "score": 189,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
       "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30139457"
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
     },
     "og_item": {
-      "title": "GameSpot's SIMply Divine: The Story of Maxis Software",
-      "type": "",
-      "image": [],
-      "url": "",
+      "title": "GitHub - Idov31/FunctionStomping: A new shellcode injection technique. Given as C++ header or standalone Rust program.",
+      "type": "object",
+      "image": [
+        {
+          "url": "https://opengraph.githubassets.com/7bd1027eb9e6b5b54ea141013d2fca28f98424ba5f0ed71236fc36d2909d6117/Idov31/FunctionStomping",
+          "secure_url": "",
+          "type": "",
+          "width": 1200,
+          "height": 600,
+          "alt": ""
+        }
+      ],
+      "url": "https://github.com/Idov31/FunctionStomping",
       "audio": [],
-      "description": "",
+      "description": "A new shellcode injection technique. Given as C++ header or standalone Rust program. - GitHub - Idov31/FunctionStomping: A new shellcode injection technique. Given as C++ header or standalone Rust ...",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "",
+      "site_name": "GitHub",
       "video": [],
       "favicon": {
-        "url": "/favicon.ico"
+        "url": "https://github.githubassets.com/favicons/favicon.svg"
       }
     }
   },
@@ -560,24 +696,26 @@
     "publisher": "BBC News",
     "description": "The bottle Joanna Buchan dropped in the sea at Peterhead when she was eight has washed up in Norway.",
     "by": "LinuxBender",
-    "points": 41,
+    "points": 43,
     "comment_count": 7,
     "hn_item": {
-      "by": "sam537",
-      "descendants": 5,
-      "id": 30139457,
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
       "kids": [
-        30139775,
-        30140875,
-        30140876,
-        30140804,
-        30139663
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
       ],
-      "score": 10,
-      "time": 1643565919,
-      "title": "What is the best way to learn Python for Bioinformatics?",
+      "score": 189,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
       "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30139457"
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
     },
     "og_item": {
       "title": "Message in a bottle from Scottish girl found in Norway after 25 years",
@@ -606,57 +744,59 @@
     }
   },
   {
-    "id": 30135190,
-    "title": "FunctionStomping – A new shellcode injection technique",
-    "url": "https://github.com/Idov31/FunctionStomping",
-    "time": 1643533222,
-    "image": "https://opengraph.githubassets.com/d33fc4cb4bcf0e7817af41bb37ec45b95d3a61d9cd8a87237e927d02e689e6c0/Idov31/FunctionStomping",
-    "icon": "https://github.githubassets.com/favicons/favicon.svg",
-    "publisher": "GitHub",
-    "description": "A new shellcode injection technique. Given as C++ header or standalone Rust program. - GitHub - Idov31/FunctionStomping: A new shellcode injection technique. Given as C++ header or standalone Rust ...",
-    "by": "maydemir",
-    "points": 8,
-    "comment_count": 0,
+    "id": 30141192,
+    "title": "Don't forget Microsoft",
+    "url": "https://luttig.substack.com/p/dont-forget-microsoft",
+    "time": 1643577413,
+    "image": "https://cdn.substack.com/image/fetch/w_1200,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8ddf68e0-c549-49b6-8751-226f54fd4e30_1280x720.jpeg",
+    "icon": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/9c349228-1ca8-4dba-b953-12d78b35ee45/favicon-32x32.png",
+    "publisher": "luttig.substack.com",
+    "description": "Understanding the behemoth in Redmond teaches us valuable lessons in cloud infrastructure, startup strategy, and the future of software.",
+    "by": "SamvitJ",
+    "points": 10,
+    "comment_count": 2,
     "hn_item": {
-      "by": "sam537",
-      "descendants": 5,
-      "id": 30139457,
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
       "kids": [
-        30139775,
-        30140875,
-        30140876,
-        30140804,
-        30139663
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
       ],
-      "score": 10,
-      "time": 1643565919,
-      "title": "What is the best way to learn Python for Bioinformatics?",
+      "score": 189,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
       "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30139457"
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
     },
     "og_item": {
-      "title": "GitHub - Idov31/FunctionStomping: A new shellcode injection technique. Given as C++ header or standalone Rust program.",
-      "type": "object",
+      "title": "Don’t forget Microsoft",
+      "type": "article",
       "image": [
         {
-          "url": "https://opengraph.githubassets.com/d33fc4cb4bcf0e7817af41bb37ec45b95d3a61d9cd8a87237e927d02e689e6c0/Idov31/FunctionStomping",
+          "url": "https://cdn.substack.com/image/fetch/w_1200,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8ddf68e0-c549-49b6-8751-226f54fd4e30_1280x720.jpeg",
           "secure_url": "",
           "type": "",
-          "width": 1200,
-          "height": 600,
+          "width": 0,
+          "height": 0,
           "alt": ""
         }
       ],
-      "url": "https://github.com/Idov31/FunctionStomping",
+      "url": "https://luttig.substack.com/p/dont-forget-microsoft",
       "audio": [],
-      "description": "A new shellcode injection technique. Given as C++ header or standalone Rust program. - GitHub - Idov31/FunctionStomping: A new shellcode injection technique. Given as C++ header or standalone Rust ...",
+      "description": "Understanding the behemoth in Redmond teaches us valuable lessons in cloud infrastructure, startup strategy, and the future of software.",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "GitHub",
+      "site_name": "",
       "video": [],
       "favicon": {
-        "url": "https://github.githubassets.com/favicons/favicon.svg"
+        "url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/9c349228-1ca8-4dba-b953-12d78b35ee45/favicon-32x32.png"
       }
     }
   },
@@ -670,24 +810,26 @@
     "publisher": "bastian.rieck.me",
     "description": "",
     "by": "Topolomancer",
-    "points": 133,
-    "comment_count": 19,
+    "points": 137,
+    "comment_count": 20,
     "hn_item": {
-      "by": "sam537",
-      "descendants": 5,
-      "id": 30139457,
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
       "kids": [
-        30139775,
-        30140875,
-        30140876,
-        30140804,
-        30139663
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
       ],
-      "score": 10,
-      "time": 1643565919,
-      "title": "What is the best way to learn Python for Bioinformatics?",
+      "score": 189,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
       "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30139457"
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
     },
     "og_item": {
       "title": "In Defence of the Boring Web",
@@ -716,24 +858,26 @@
     "publisher": "Rest of World",
     "description": "As a hedge against American talent poachers, some exasperated founders are recruiting developers who can’t speak English.",
     "by": "braco_alva",
-    "points": 127,
+    "points": 130,
     "comment_count": 30,
     "hn_item": {
-      "by": "sam537",
-      "descendants": 5,
-      "id": 30139457,
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
       "kids": [
-        30139775,
-        30140875,
-        30140876,
-        30140804,
-        30139663
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
       ],
-      "score": 10,
-      "time": 1643565919,
-      "title": "What is the best way to learn Python for Bioinformatics?",
+      "score": 189,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
       "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30139457"
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
     },
     "og_item": {
       "title": "“It’s a bloodbath”: U.S. companies are pillaging Latin America’s tech talent",
@@ -771,24 +915,26 @@
     "publisher": "softpanorama.org",
     "description": "",
     "by": "ingve",
-    "points": 115,
+    "points": 117,
     "comment_count": 17,
     "hn_item": {
-      "by": "sam537",
-      "descendants": 5,
-      "id": 30139457,
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
       "kids": [
-        30139775,
-        30140875,
-        30140876,
-        30140804,
-        30139663
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
       ],
-      "score": 10,
-      "time": 1643565919,
-      "title": "What is the best way to learn Python for Bioinformatics?",
+      "score": 189,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
       "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30139457"
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
     },
     "og_item": {
       "title": "Midnight Commander Tips and Tricks",
@@ -817,24 +963,26 @@
     "publisher": "Eurogamer.net",
     "description": "",
     "by": "atombender",
-    "points": 166,
+    "points": 169,
     "comment_count": 22,
     "hn_item": {
-      "by": "sam537",
-      "descendants": 5,
-      "id": 30139457,
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
       "kids": [
-        30139775,
-        30140875,
-        30140876,
-        30140804,
-        30139663
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
       ],
-      "score": 10,
-      "time": 1643565919,
-      "title": "What is the best way to learn Python for Bioinformatics?",
+      "score": 189,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
       "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30139457"
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
     },
     "og_item": {
       "title": "Sega quits Japanese arcade business after 50 years",
@@ -863,6 +1011,186 @@
     }
   },
   {
+    "id": 30119285,
+    "title": "Devious SQL: Message Queuing Using Native PostgreSQL",
+    "url": "https://blog.crunchydata.com/blog/message-queuing-using-native-postgresql",
+    "time": 1643398437,
+    "image": "https://blog.crunchydata.com/hubfs/goose_march.png#keepProtocol",
+    "icon": "https://blog.crunchydata.com/hubfs/Flat%20Logo_Color%20Icon.png",
+    "publisher": "blog.crunchydata.com",
+    "description": "An interesting question came up on the #postgresql IRC channel about how to use native PostgreSQL features to handle some sort of queuing behavior. While the specific usage was related to handling serialization of specific events to some external broker, the specifics are less important than the …",
+    "by": "Scramblejams",
+    "points": 107,
+    "comment_count": 8,
+    "hn_item": {
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
+      "kids": [
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
+      ],
+      "score": 189,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
+      "type": "story",
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
+    },
+    "og_item": {
+      "title": "Devious SQL: Message Queuing Using Native PostgreSQL",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://blog.crunchydata.com/hubfs/goose_march.png#keepProtocol",
+          "secure_url": "",
+          "type": "",
+          "width": 523,
+          "height": 273,
+          "alt": ""
+        }
+      ],
+      "url": "https://blog.crunchydata.com/blog/message-queuing-using-native-postgresql",
+      "audio": [],
+      "description": "An interesting question came up on the #postgresql IRC channel about how to use native PostgreSQL features to handle some sort of queuing behavior. While the specific usage was related to handling serialization of specific events to some external broker, the specifics are less important than the overall structure.\n\n",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "https://blog.crunchydata.com/hubfs/Flat%20Logo_Color%20Icon.png"
+      }
+    }
+  },
+  {
+    "id": 30111033,
+    "title": "Toxic black mold is growing in my brain",
+    "url": "https://www.buzzfeednews.com/article/tysonbottenus/black-mold-growing-toxic-brain-vacation",
+    "time": 1643348571,
+    "image": "https://img.buzzfeed.com/buzzfeed-static/static/2022-01/27/14/enhanced/bed7df749335/original-1777-1643292826-2.jpg?crop=1200:628;0,0",
+    "icon": "https://www.buzzfeednews.com/static-assets/img/favicon.40f4055ea10bb11593f4c85d55164232.ico",
+    "publisher": "BuzzFeed News",
+    "description": "I went on a vacation. I came home with a mysterious fungus in my brain that is so rare only about 120 cases have been confirmed worldwide since its discovery in 1911.",
+    "by": "yellow_lead",
+    "points": 145,
+    "comment_count": 8,
+    "hn_item": {
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
+      "kids": [
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
+      ],
+      "score": 189,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
+      "type": "story",
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
+    },
+    "og_item": {
+      "title": "Toxic Black Mold Is Growing On My Brain",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2022-01/27/14/enhanced/bed7df749335/original-1777-1643292826-2.jpg?crop=1200:628;0,0",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://www.buzzfeednews.com/article/tysonbottenus/black-mold-growing-toxic-brain-vacation",
+      "audio": [],
+      "description": "I went on a vacation. I came home with a mysterious fungus in my brain that is so rare only about 120 cases have been confirmed worldwide since its discovery in 1911.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "BuzzFeed News",
+      "video": [],
+      "favicon": {
+        "url": "/static-assets/img/favicon.40f4055ea10bb11593f4c85d55164232.ico"
+      }
+    }
+  },
+  {
+    "id": 30116262,
+    "title": "A Padlock I’d Use [video]",
+    "url": "https://www.youtube.com/watch?v=HrV86GqlY8o",
+    "time": 1643385483,
+    "image": "https://i.ytimg.com/vi/HrV86GqlY8o/hqdefault.jpg",
+    "icon": "https://www.youtube.com/s/desktop/ca9cd554/img/favicon_144x144.png",
+    "publisher": "YouTube",
+    "description": "https://www.CovertInstruments.com",
+    "by": "CraigJPerry",
+    "points": 110,
+    "comment_count": 7,
+    "hn_item": {
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
+      "kids": [
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
+      ],
+      "score": 189,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
+      "type": "story",
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
+    },
+    "og_item": {
+      "title": "[1398] A Padlock I’d Use: Abus Granit 37RK/80 (Pick \u0026 Gut)",
+      "type": "video.other",
+      "image": [
+        {
+          "url": "https://i.ytimg.com/vi/HrV86GqlY8o/hqdefault.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 480,
+          "height": 360,
+          "alt": ""
+        }
+      ],
+      "url": "https://www.youtube.com/watch?v=HrV86GqlY8o",
+      "audio": [],
+      "description": "https://www.CovertInstruments.com",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "YouTube",
+      "video": [
+        {
+          "url": "https://www.youtube.com/embed/HrV86GqlY8o",
+          "secure_url": "https://www.youtube.com/embed/HrV86GqlY8o",
+          "type": "text/html",
+          "width": 1280,
+          "height": 720,
+          "duration": 0
+        }
+      ],
+      "favicon": {
+        "url": "https://www.youtube.com/s/desktop/ca9cd554/img/favicon_144x144.png"
+      }
+    }
+  },
+  {
     "id": 30138468,
     "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
     "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf",
@@ -872,24 +1200,26 @@
     "publisher": "win.tue.nl",
     "description": "",
     "by": "camnora",
-    "points": 79,
+    "points": 80,
     "comment_count": 7,
     "hn_item": {
-      "by": "sam537",
-      "descendants": 5,
-      "id": 30139457,
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
       "kids": [
-        30139775,
-        30140875,
-        30140876,
-        30140804,
-        30139663
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
       ],
-      "score": 10,
-      "time": 1643565919,
-      "title": "What is the best way to learn Python for Bioinformatics?",
+      "score": 189,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
       "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30139457"
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
     },
     "og_item": null
   },
@@ -903,24 +1233,26 @@
     "publisher": "lowleveldesign.org",
     "description": "More than ten years ago (how time flies!), when I published the basic sample of a COM+ server and client, I thought that I wouldn’t be touching this subject again. But here we are, in 2022, a…",
     "by": "lowleveldesign",
-    "points": 42,
+    "points": 43,
     "comment_count": 7,
     "hn_item": {
-      "by": "sam537",
-      "descendants": 5,
-      "id": 30139457,
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
       "kids": [
-        30139775,
-        30140875,
-        30140876,
-        30140804,
-        30139663
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
       ],
-      "score": 10,
-      "time": 1643565919,
-      "title": "What is the best way to learn Python for Bioinformatics?",
+      "score": 189,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
       "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30139457"
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
     },
     "og_item": {
       "title": "COM+ revisited",
@@ -958,24 +1290,26 @@
     "publisher": "Warp - Blog",
     "description": "This is how we used tree data structures to build split panes in our terminal app.",
     "by": "lukastyrychtr",
-    "points": 32,
+    "points": 33,
     "comment_count": 5,
     "hn_item": {
-      "by": "sam537",
-      "descendants": 5,
-      "id": 30139457,
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
       "kids": [
-        30139775,
-        30140875,
-        30140876,
-        30140804,
-        30139663
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
       ],
-      "score": 10,
-      "time": 1643565919,
-      "title": "What is the best way to learn Python for Bioinformatics?",
+      "score": 189,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
       "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30139457"
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
     },
     "og_item": {
       "title": "Using tree data structures to implement terminal split panes - more fun than it sounds",
@@ -1016,21 +1350,23 @@
     "points": 29,
     "comment_count": 5,
     "hn_item": {
-      "by": "sam537",
-      "descendants": 5,
-      "id": 30139457,
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
       "kids": [
-        30139775,
-        30140875,
-        30140876,
-        30140804,
-        30139663
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
       ],
-      "score": 10,
-      "time": 1643565919,
-      "title": "What is the best way to learn Python for Bioinformatics?",
+      "score": 189,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
       "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30139457"
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
     },
     "og_item": {
       "title": "Show the case against - shubhro.com",
@@ -1050,61 +1386,6 @@
     }
   },
   {
-    "id": 30136350,
-    "title": "The Game of War: Chess with Networks (2008)",
-    "url": "https://www.cabinetmagazine.org/issues/29/galloway.php",
-    "time": 1643544263,
-    "image": "https://cabinetmagazine.org/issues/29/cabinet_029_galloway_alexander_r_facebook.jpg",
-    "icon": "https://www.cabinetmagazine.org/favicon-128.png",
-    "publisher": "cabinetmagazine.org",
-    "description": "Chess with networks",
-    "by": "bshepard",
-    "points": 20,
-    "comment_count": 2,
-    "hn_item": {
-      "by": "sam537",
-      "descendants": 5,
-      "id": 30139457,
-      "kids": [
-        30139775,
-        30140875,
-        30140876,
-        30140804,
-        30139663
-      ],
-      "score": 10,
-      "time": 1643565919,
-      "title": "What is the best way to learn Python for Bioinformatics?",
-      "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30139457"
-    },
-    "og_item": {
-      "title": "The Game of War: An Overview | Alexander R. Galloway",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://cabinetmagazine.org/issues/29/cabinet_029_galloway_alexander_r_facebook.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 52,
-          "height": 80,
-          "alt": ""
-        }
-      ],
-      "url": "https://cabinetmagazine.org/issues/29/galloway.php",
-      "audio": [],
-      "description": "Chess with networks",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon-128.png"
-      }
-    }
-  },
-  {
     "id": 30125933,
     "title": "Dataset and Model for “I built a system to take photos of planes over my house”",
     "url": "https://universe.roboflow.com/skybot-cam/overhead-plane-detector",
@@ -1114,24 +1395,26 @@
     "publisher": "Roboflow",
     "description": "Download 250 free images labeled with bounding boxes for object detection.",
     "by": "yeldarb",
-    "points": 103,
+    "points": 104,
     "comment_count": 7,
     "hn_item": {
-      "by": "sam537",
-      "descendants": 5,
-      "id": 30139457,
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
       "kids": [
-        30139775,
-        30140875,
-        30140876,
-        30140804,
-        30139663
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
       ],
-      "score": 10,
-      "time": 1643565919,
-      "title": "What is the best way to learn Python for Bioinformatics?",
+      "score": 189,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
       "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30139457"
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
     },
     "og_item": {
       "title": "Overhead Plane Detector Object Detection Dataset",
@@ -1160,57 +1443,155 @@
     }
   },
   {
-    "id": 30141192,
-    "title": "Don't forget Microsoft",
-    "url": "https://luttig.substack.com/p/dont-forget-microsoft",
-    "time": 1643577413,
-    "image": "https://cdn.substack.com/image/fetch/w_1200,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8ddf68e0-c549-49b6-8751-226f54fd4e30_1280x720.jpeg",
-    "icon": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/9c349228-1ca8-4dba-b953-12d78b35ee45/favicon-32x32.png",
-    "publisher": "luttig.substack.com",
-    "description": "Understanding the behemoth in Redmond teaches us valuable lessons in cloud infrastructure, startup strategy, and the future of software.",
-    "by": "SamvitJ",
-    "points": 5,
-    "comment_count": 0,
+    "id": 30136350,
+    "title": "The Game of War: Chess with Networks (2008)",
+    "url": "https://www.cabinetmagazine.org/issues/29/galloway.php",
+    "time": 1643544263,
+    "image": "https://cabinetmagazine.org/issues/29/cabinet_029_galloway_alexander_r_facebook.jpg",
+    "icon": "https://www.cabinetmagazine.org/favicon-128.png",
+    "publisher": "cabinetmagazine.org",
+    "description": "Chess with networks",
+    "by": "bshepard",
+    "points": 20,
+    "comment_count": 2,
     "hn_item": {
-      "by": "sam537",
-      "descendants": 5,
-      "id": 30139457,
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
       "kids": [
-        30139775,
-        30140875,
-        30140876,
-        30140804,
-        30139663
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
       ],
-      "score": 10,
-      "time": 1643565919,
-      "title": "What is the best way to learn Python for Bioinformatics?",
+      "score": 189,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
       "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30139457"
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
     },
     "og_item": {
-      "title": "Don’t forget Microsoft",
+      "title": "The Game of War: An Overview | Alexander R. Galloway",
       "type": "article",
       "image": [
         {
-          "url": "https://cdn.substack.com/image/fetch/w_1200,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8ddf68e0-c549-49b6-8751-226f54fd4e30_1280x720.jpeg",
+          "url": "https://cabinetmagazine.org/issues/29/cabinet_029_galloway_alexander_r_facebook.jpg",
           "secure_url": "",
           "type": "",
-          "width": 0,
-          "height": 0,
+          "width": 52,
+          "height": 80,
           "alt": ""
         }
       ],
-      "url": "https://luttig.substack.com/p/dont-forget-microsoft",
+      "url": "https://cabinetmagazine.org/issues/29/galloway.php",
       "audio": [],
-      "description": "Understanding the behemoth in Redmond teaches us valuable lessons in cloud infrastructure, startup strategy, and the future of software.",
+      "description": "Chess with networks",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
       "site_name": "",
       "video": [],
       "favicon": {
-        "url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/9c349228-1ca8-4dba-b953-12d78b35ee45/favicon-32x32.png"
+        "url": "/favicon-128.png"
+      }
+    }
+  },
+  {
+    "id": 30141426,
+    "title": "Ulysses at 100: The Birth of the Modern",
+    "url": "https://www.ft.com/content/609d5d0d-b666-4af8-af39-82ddaf5f28de",
+    "time": 1643579002,
+    "image": "",
+    "icon": "https://www.ft.com/__origami/service/image/v2/images/raw/ftlogo-v1%3Abrand-ft-logo-square-coloured?source=update-logos\u0026format=svg",
+    "publisher": "ft.com",
+    "description": "News, analysis and comment from the Financial Times, the worldʼs leading global business publication",
+    "by": "kkwteh",
+    "points": 4,
+    "comment_count": 1,
+    "hn_item": {
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
+      "kids": [
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
+      ],
+      "score": 189,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
+      "type": "story",
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
+    },
+    "og_item": {
+      "title": "Subscribe to read | Financial Times",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "News, analysis and comment from the Financial Times, the worldʼs leading global business publication",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "https://www.ft.com/__origami/service/image/v2/images/raw/ftlogo-v1%3Abrand-ft-logo-square-coloured?source=update-logos\u0026format=svg"
+      }
+    }
+  },
+  {
+    "id": 30139643,
+    "title": "Very Remote Lisp Debugging Story",
+    "url": "https://susam.net/maze/very-remote-debugging.html",
+    "time": 1643567057,
+    "image": "",
+    "icon": "https://susam.net/maze/favicon.png",
+    "publisher": "susam.net",
+    "description": "",
+    "by": "susam",
+    "points": 26,
+    "comment_count": 2,
+    "hn_item": {
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
+      "kids": [
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
+      ],
+      "score": 189,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
+      "type": "story",
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
+    },
+    "og_item": {
+      "title": "Very Remote Lisp Debugging Story - Susam's Maze",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "favicon.png"
       }
     }
   },
@@ -1227,21 +1608,23 @@
     "points": 17,
     "comment_count": 0,
     "hn_item": {
-      "by": "sam537",
-      "descendants": 5,
-      "id": 30139457,
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
       "kids": [
-        30139775,
-        30140875,
-        30140876,
-        30140804,
-        30139663
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
       ],
-      "score": 10,
-      "time": 1643565919,
-      "title": "What is the best way to learn Python for Bioinformatics?",
+      "score": 189,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
       "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30139457"
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
     },
     "og_item": {
       "title": "The Dialectic of Enlightenment",
@@ -1270,6 +1653,63 @@
     }
   },
   {
+    "id": 30117131,
+    "title": "How to excel in tech without learning to code",
+    "url": "https://future.a16z.com/excel-in-tech-without-learning-to-code/",
+    "time": 1643388553,
+    "image": "https://future.a16z.com/wp-content/uploads/2022/01/Technical-Literacy-for-Non-Engineers-Social_Share-FINAL.png",
+    "icon": "https://future.a16z.com/wp-content/themes/future/assets/images/favicon/icon.svg",
+    "publisher": "Future",
+    "description": "Technical literacy is key to career success, even for non-engineers. Learn how to master the tools of your trade and build a solid tech foundation.",
+    "by": "jseliger",
+    "points": 101,
+    "comment_count": 12,
+    "hn_item": {
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
+      "kids": [
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
+      ],
+      "score": 189,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
+      "type": "story",
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
+    },
+    "og_item": {
+      "title": "How to Excel in Tech Without Learning to Code | Future",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://future.a16z.com/wp-content/uploads/2022/01/Technical-Literacy-for-Non-Engineers-Social_Share-FINAL.png",
+          "secure_url": "",
+          "type": "",
+          "width": 1200,
+          "height": 630,
+          "alt": ""
+        }
+      ],
+      "url": "https://future.a16z.com/excel-in-tech-without-learning-to-code/",
+      "audio": [],
+      "description": "Technical literacy is key to career success, even for non-engineers. Learn how to master the tools of your trade and build a solid tech foundation.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Future",
+      "video": [],
+      "favicon": {
+        "url": "https://future.a16z.com/wp-content/themes/future/assets/images/favicon/icon.svg"
+      }
+    }
+  },
+  {
     "id": 30138420,
     "title": "Autonomous battery-powered rail cars",
     "url": "https://arstechnica.com/cars/2022/01/moving-more-with-less-freight-startup-bets-on-autonomous-electric-rail-cars/",
@@ -1279,24 +1719,26 @@
     "publisher": "Ars Technica",
     "description": "Advances in batteries, autonomy could extend the reach of freight railroads.",
     "by": "vanburen",
-    "points": 59,
-    "comment_count": 13,
+    "points": 61,
+    "comment_count": 14,
     "hn_item": {
-      "by": "sam537",
-      "descendants": 5,
-      "id": 30139457,
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
       "kids": [
-        30139775,
-        30140875,
-        30140876,
-        30140804,
-        30139663
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
       ],
-      "score": 10,
-      "time": 1643565919,
-      "title": "What is the best way to learn Python for Bioinformatics?",
+      "score": 189,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
       "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30139457"
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
     },
     "og_item": {
       "title": "Autonomous battery-powered rail cars could steal shipments from truckers",
@@ -1337,21 +1779,23 @@
     "points": 70,
     "comment_count": 4,
     "hn_item": {
-      "by": "sam537",
-      "descendants": 5,
-      "id": 30139457,
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
       "kids": [
-        30139775,
-        30140875,
-        30140876,
-        30140804,
-        30139663
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
       ],
-      "score": 10,
-      "time": 1643565919,
-      "title": "What is the best way to learn Python for Bioinformatics?",
+      "score": 189,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
       "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30139457"
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
     },
     "og_item": {
       "title": "\n    zeux.io - Writing an efficient Vulkan renderer\n  ",
@@ -1371,61 +1815,6 @@
     }
   },
   {
-    "id": 30117131,
-    "title": "How to excel in tech without learning to code",
-    "url": "https://future.a16z.com/excel-in-tech-without-learning-to-code/",
-    "time": 1643388553,
-    "image": "https://future.a16z.com/wp-content/uploads/2022/01/Technical-Literacy-for-Non-Engineers-Social_Share-FINAL.png",
-    "icon": "https://future.a16z.com/wp-content/themes/future/assets/images/favicon/icon.svg",
-    "publisher": "Future",
-    "description": "Technical literacy is key to career success, even for non-engineers. Learn how to master the tools of your trade and build a solid tech foundation.",
-    "by": "jseliger",
-    "points": 100,
-    "comment_count": 11,
-    "hn_item": {
-      "by": "sam537",
-      "descendants": 5,
-      "id": 30139457,
-      "kids": [
-        30139775,
-        30140875,
-        30140876,
-        30140804,
-        30139663
-      ],
-      "score": 10,
-      "time": 1643565919,
-      "title": "What is the best way to learn Python for Bioinformatics?",
-      "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30139457"
-    },
-    "og_item": {
-      "title": "How to Excel in Tech Without Learning to Code | Future",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://future.a16z.com/wp-content/uploads/2022/01/Technical-Literacy-for-Non-Engineers-Social_Share-FINAL.png",
-          "secure_url": "",
-          "type": "",
-          "width": 1200,
-          "height": 630,
-          "alt": ""
-        }
-      ],
-      "url": "https://future.a16z.com/excel-in-tech-without-learning-to-code/",
-      "audio": [],
-      "description": "Technical literacy is key to career success, even for non-engineers. Learn how to master the tools of your trade and build a solid tech foundation.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Future",
-      "video": [],
-      "favicon": {
-        "url": "https://future.a16z.com/wp-content/themes/future/assets/images/favicon/icon.svg"
-      }
-    }
-  },
-  {
     "id": 30138277,
     "title": "Set up a website with Nim (2019)",
     "url": "https://ttj.dk/blog/2019/01/20/setup-a-website-with-nim",
@@ -1438,21 +1827,23 @@
     "points": 69,
     "comment_count": 6,
     "hn_item": {
-      "by": "sam537",
-      "descendants": 5,
-      "id": 30139457,
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
       "kids": [
-        30139775,
-        30140875,
-        30140876,
-        30140804,
-        30139663
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
       ],
-      "score": 10,
-      "time": 1643565919,
-      "title": "What is the best way to learn Python for Bioinformatics?",
+      "score": 189,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
       "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30139457"
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
     },
     "og_item": {
       "title": " Nim tutorial for setting up a website. ",
@@ -1472,52 +1863,6 @@
     }
   },
   {
-    "id": 30139643,
-    "title": "Very Remote Lisp Debugging Story",
-    "url": "https://susam.net/maze/very-remote-debugging.html",
-    "time": 1643567057,
-    "image": "",
-    "icon": "https://susam.net/maze/favicon.png",
-    "publisher": "susam.net",
-    "description": "",
-    "by": "susam",
-    "points": 24,
-    "comment_count": 2,
-    "hn_item": {
-      "by": "sam537",
-      "descendants": 5,
-      "id": 30139457,
-      "kids": [
-        30139775,
-        30140875,
-        30140876,
-        30140804,
-        30139663
-      ],
-      "score": 10,
-      "time": 1643565919,
-      "title": "What is the best way to learn Python for Bioinformatics?",
-      "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30139457"
-    },
-    "og_item": {
-      "title": "Very Remote Lisp Debugging Story - Susam's Maze",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "favicon.png"
-      }
-    }
-  },
-  {
     "id": 30138669,
     "title": "Ask HN: Has anyone leveraged GDPR to overturn automated bans?",
     "url": "https://news.ycombinator.com/item?id=30138669",
@@ -1530,21 +1875,23 @@
     "points": 124,
     "comment_count": 11,
     "hn_item": {
-      "by": "sam537",
-      "descendants": 5,
-      "id": 30139457,
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
       "kids": [
-        30139775,
-        30140875,
-        30140876,
-        30140804,
-        30139663
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
       ],
-      "score": 10,
-      "time": 1643565919,
-      "title": "What is the best way to learn Python for Bioinformatics?",
+      "score": 189,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
       "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30139457"
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
     },
     "og_item": {
       "title": "Ask HN: Has anyone leveraged GDPR to overturn automated bans? | Hacker News",
@@ -1564,6 +1911,63 @@
     }
   },
   {
+    "id": 30128379,
+    "title": "Controlling RGB LEDs with only powerlines: Anatomy of a Christmas light string",
+    "url": "https://cpldcpu.wordpress.com/2022/01/23/controlling-rgb-leds-with-only-the-powerlines-anatomy-of-a-christmas-light-string/",
+    "time": 1643477829,
+    "image": "https://cpldcpu.files.wordpress.com/2022/01/wiremess.jpg",
+    "icon": "https://s0.wp.com/i/favicon.ico",
+    "publisher": "Tim's Blog",
+    "description": "The RGB curtain predictably turns into a mess of wires when not used according to instructions. As should be obvious from this blog, I am somewhat drawn to clever and minimalistic implementations o…",
+    "by": "cpldcpu",
+    "points": 136,
+    "comment_count": 6,
+    "hn_item": {
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
+      "kids": [
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
+      ],
+      "score": 189,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
+      "type": "story",
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
+    },
+    "og_item": {
+      "title": "Controlling RGB LEDs With Only the Powerlines: Anatomy of a Christmas Light String",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://cpldcpu.files.wordpress.com/2022/01/wiremess.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 3840,
+          "height": 2632,
+          "alt": ""
+        }
+      ],
+      "url": "https://cpldcpu.wordpress.com/2022/01/23/controlling-rgb-leds-with-only-the-powerlines-anatomy-of-a-christmas-light-string/",
+      "audio": [],
+      "description": "The RGB curtain predictably turns into a mess of wires when not used according to instructions. As should be obvious from this blog, I am somewhat drawn to clever and minimalistic implementations o…",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Tim's Blog",
+      "video": [],
+      "favicon": {
+        "url": "https://s0.wp.com/i/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30134301,
     "title": "The Basilikon Doron of King James VI and I",
     "url": "https://blogs.bl.uk/digitisedmanuscripts/2022/01/how-to-be-an-effective-ruler.html",
@@ -1576,21 +1980,23 @@
     "points": 10,
     "comment_count": 2,
     "hn_item": {
-      "by": "sam537",
-      "descendants": 5,
-      "id": 30139457,
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
       "kids": [
-        30139775,
-        30140875,
-        30140876,
-        30140804,
-        30139663
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
       ],
-      "score": 10,
-      "time": 1643565919,
-      "title": "What is the best way to learn Python for Bioinformatics?",
+      "score": 189,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
       "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30139457"
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
     },
     "og_item": {
       "title": "How to be an effective ruler: the Basilikon Doron of King James VI and I",
@@ -1631,21 +2037,23 @@
     "points": 21,
     "comment_count": 2,
     "hn_item": {
-      "by": "sam537",
-      "descendants": 5,
-      "id": 30139457,
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
       "kids": [
-        30139775,
-        30140875,
-        30140876,
-        30140804,
-        30139663
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
       ],
-      "score": 10,
-      "time": 1643565919,
-      "title": "What is the best way to learn Python for Bioinformatics?",
+      "score": 189,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
       "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30139457"
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
     },
     "og_item": {
       "title": "DDS — dds 0.1.0-alpha.3 documentation",
@@ -1665,61 +2073,6 @@
     }
   },
   {
-    "id": 30128379,
-    "title": "Controlling RGB LEDs with only powerlines: Anatomy of a Christmas light string",
-    "url": "https://cpldcpu.wordpress.com/2022/01/23/controlling-rgb-leds-with-only-the-powerlines-anatomy-of-a-christmas-light-string/",
-    "time": 1643477829,
-    "image": "https://cpldcpu.files.wordpress.com/2022/01/wiremess.jpg",
-    "icon": "https://s0.wp.com/i/favicon.ico",
-    "publisher": "Tim's Blog",
-    "description": "The RGB curtain predictably turns into a mess of wires when not used according to instructions. As should be obvious from this blog, I am somewhat drawn to clever and minimalistic implementations o…",
-    "by": "cpldcpu",
-    "points": 136,
-    "comment_count": 6,
-    "hn_item": {
-      "by": "sam537",
-      "descendants": 5,
-      "id": 30139457,
-      "kids": [
-        30139775,
-        30140875,
-        30140876,
-        30140804,
-        30139663
-      ],
-      "score": 10,
-      "time": 1643565919,
-      "title": "What is the best way to learn Python for Bioinformatics?",
-      "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30139457"
-    },
-    "og_item": {
-      "title": "Controlling RGB LEDs With Only the Powerlines: Anatomy of a Christmas Light String",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://cpldcpu.files.wordpress.com/2022/01/wiremess.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 3840,
-          "height": 2632,
-          "alt": ""
-        }
-      ],
-      "url": "https://cpldcpu.wordpress.com/2022/01/23/controlling-rgb-leds-with-only-the-powerlines-anatomy-of-a-christmas-light-string/",
-      "audio": [],
-      "description": "The RGB curtain predictably turns into a mess of wires when not used according to instructions. As should be obvious from this blog, I am somewhat drawn to clever and minimalistic implementations o…",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Tim's Blog",
-      "video": [],
-      "favicon": {
-        "url": "https://s0.wp.com/i/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30124569,
     "title": "Dennis Ritchie Home Page (2006)",
     "url": "https://www.bell-labs.com/usr/dmr/www/",
@@ -1732,24 +2085,74 @@
     "points": 206,
     "comment_count": 18,
     "hn_item": {
-      "by": "sam537",
-      "descendants": 5,
-      "id": 30139457,
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
       "kids": [
-        30139775,
-        30140875,
-        30140876,
-        30140804,
-        30139663
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
       ],
-      "score": 10,
-      "time": 1643565919,
-      "title": "What is the best way to learn Python for Bioinformatics?",
+      "score": 189,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
       "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30139457"
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
     },
     "og_item": {
       "title": "Dennis Ritchie Home Page",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30141215,
+    "title": "Show HN: BeanHub – A GitHub for Beancount",
+    "url": "https://beanhub.io/",
+    "time": 1643577545,
+    "image": "",
+    "icon": "https://beanhub.io/favicon.ico",
+    "publisher": "beanhub.io",
+    "description": "",
+    "by": "fangpenlin",
+    "points": 6,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
+      "kids": [
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
+      ],
+      "score": 189,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
+      "type": "story",
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
+    },
+    "og_item": {
+      "title": "\n    BeanHub\n    ",
       "type": "",
       "image": [],
       "url": "",
@@ -1778,21 +2181,23 @@
     "points": 82,
     "comment_count": 9,
     "hn_item": {
-      "by": "sam537",
-      "descendants": 5,
-      "id": 30139457,
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
       "kids": [
-        30139775,
-        30140875,
-        30140876,
-        30140804,
-        30139663
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
       ],
-      "score": 10,
-      "time": 1643565919,
-      "title": "What is the best way to learn Python for Bioinformatics?",
+      "score": 189,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
       "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30139457"
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
     },
     "og_item": {
       "title": "GitHub - liyue201/gostl: Data structure and algorithm library for go, designed to provide functions similar to C++ STL",
@@ -1830,24 +2235,26 @@
     "publisher": "sbcl.org",
     "description": "",
     "by": "susam",
-    "points": 85,
+    "points": 86,
     "comment_count": 5,
     "hn_item": {
-      "by": "sam537",
-      "descendants": 5,
-      "id": 30139457,
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
       "kids": [
-        30139775,
-        30140875,
-        30140876,
-        30140804,
-        30139663
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
       ],
-      "score": 10,
-      "time": 1643565919,
-      "title": "What is the best way to learn Python for Bioinformatics?",
+      "score": 189,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
       "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30139457"
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
     },
     "og_item": {
       "title": "All News - Steel Bank Common Lisp",
@@ -1867,6 +2274,39 @@
     }
   },
   {
+    "id": 30125931,
+    "title": "Fluid Simulation – Siggraph 2007 Course Notes [pdf]",
+    "url": "https://www.cs.ubc.ca/~rbridson/fluidsimulation/fluids_notes.pdf",
+    "time": 1643461256,
+    "image": "",
+    "icon": "",
+    "publisher": "cs.ubc.ca",
+    "description": "",
+    "by": "creata",
+    "points": 30,
+    "comment_count": 3,
+    "hn_item": {
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
+      "kids": [
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
+      ],
+      "score": 189,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
+      "type": "story",
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
+    },
+    "og_item": null
+  },
+  {
     "id": 30141380,
     "title": "On literally working with COVID-19",
     "url": "https://drlaurenserino.substack.com/p/on-literally-working-with-covid-19",
@@ -1877,23 +2317,25 @@
     "description": "Why are doctors being told to come to work while sick with COVID?",
     "by": "Disgruntled_Doc",
     "points": 9,
-    "comment_count": 0,
+    "comment_count": 2,
     "hn_item": {
-      "by": "sam537",
-      "descendants": 5,
-      "id": 30139457,
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
       "kids": [
-        30139775,
-        30140875,
-        30140876,
-        30140804,
-        30139663
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
       ],
-      "score": 10,
-      "time": 1643565919,
-      "title": "What is the best way to learn Python for Bioinformatics?",
+      "score": 189,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
       "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30139457"
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
     },
     "og_item": {
       "title": "On literally working with COVID-19",
@@ -1913,37 +2355,6 @@
     }
   },
   {
-    "id": 30125931,
-    "title": "Fluid Simulation – Siggraph 2007 Course Notes [pdf]",
-    "url": "https://www.cs.ubc.ca/~rbridson/fluidsimulation/fluids_notes.pdf",
-    "time": 1643461256,
-    "image": "",
-    "icon": "",
-    "publisher": "cs.ubc.ca",
-    "description": "",
-    "by": "creata",
-    "points": 30,
-    "comment_count": 3,
-    "hn_item": {
-      "by": "sam537",
-      "descendants": 5,
-      "id": 30139457,
-      "kids": [
-        30139775,
-        30140875,
-        30140876,
-        30140804,
-        30139663
-      ],
-      "score": 10,
-      "time": 1643565919,
-      "title": "What is the best way to learn Python for Bioinformatics?",
-      "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30139457"
-    },
-    "og_item": null
-  },
-  {
     "id": 30111373,
     "title": "What is FORGE?",
     "url": "https://www.energy.gov/eere/geothermal/what-forge",
@@ -1956,21 +2367,23 @@
     "points": 61,
     "comment_count": 5,
     "hn_item": {
-      "by": "sam537",
-      "descendants": 5,
-      "id": 30139457,
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
       "kids": [
-        30139775,
-        30140875,
-        30140876,
-        30140804,
-        30139663
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
       ],
-      "score": 10,
-      "time": 1643565919,
-      "title": "What is the best way to learn Python for Bioinformatics?",
+      "score": 189,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
       "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30139457"
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
     },
     "og_item": {
       "title": "What is FORGE?",
@@ -1999,24 +2412,26 @@
     "publisher": "ifitweremyhome.com",
     "description": "",
     "by": "kkwteh",
-    "points": 204,
+    "points": 205,
     "comment_count": 31,
     "hn_item": {
-      "by": "sam537",
-      "descendants": 5,
-      "id": 30139457,
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
       "kids": [
-        30139775,
-        30140875,
-        30140876,
-        30140804,
-        30139663
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
       ],
-      "score": 10,
-      "time": 1643565919,
-      "title": "What is the best way to learn Python for Bioinformatics?",
+      "score": 189,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
       "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30139457"
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
     },
     "og_item": {
       "title": "If It Were My Home",
@@ -2036,41 +2451,52 @@
     }
   },
   {
-    "id": 30141215,
-    "title": "Show HN: BeanHub – A GitHub for Beancount",
-    "url": "https://beanhub.io/",
-    "time": 1643577545,
-    "image": "",
-    "icon": "https://beanhub.io/favicon.ico",
-    "publisher": "beanhub.io",
-    "description": "",
-    "by": "fangpenlin",
-    "points": 4,
-    "comment_count": 0,
+    "id": 30140210,
+    "title": "Why is Harvard astrophysicist Avi Loeb working with ardent UFO believers?",
+    "url": "https://www.science.org/content/article/why-is-harvard-astrophysicist-working-with-ufo-buffs",
+    "time": 1643570644,
+    "image": "https://www.science.org/do/10.1126/science.ada0631/abs/_20220128_nf_flying_saucer.jpg",
+    "icon": "https://www.science.org/favicon.ico",
+    "publisher": "science.org",
+    "description": "Avi Loeb’s Galileo Project will search for sky-prowling aliens, but some worry about the influence of pseudoscience",
+    "by": "tejohnso",
+    "points": 34,
+    "comment_count": 6,
     "hn_item": {
-      "by": "sam537",
-      "descendants": 5,
-      "id": 30139457,
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
       "kids": [
-        30139775,
-        30140875,
-        30140876,
-        30140804,
-        30139663
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
       ],
-      "score": 10,
-      "time": 1643565919,
-      "title": "What is the best way to learn Python for Bioinformatics?",
+      "score": 189,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
       "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30139457"
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
     },
     "og_item": {
-      "title": "\n    BeanHub\n    ",
-      "type": "",
-      "image": [],
-      "url": "",
+      "title": "Why is a Harvard astrophysicist working with UFO buffs?",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://www.science.org/do/10.1126/science.ada0631/abs/_20220128_nf_flying_saucer.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://www.science.org/content/article/why-is-harvard-astrophysicist-working-with-ufo-buffs",
       "audio": [],
-      "description": "",
+      "description": "Avi Loeb’s Galileo Project will search for sky-prowling aliens, but some worry about the influence of pseudoscience",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
@@ -2082,45 +2508,95 @@
     }
   },
   {
-    "id": 30140210,
-    "title": "Why is Harvard astrophysicist Avi Loeb working with ardent UFO believers?",
-    "url": "https://www.science.org/content/article/why-is-harvard-astrophysicist-working-with-ufo-buffs",
-    "time": 1643570644,
+    "id": 30141266,
+    "title": "Rpilocator – Find a Raspberry Pi in Stock",
+    "url": "https://rpilocator.com",
+    "time": 1643577841,
     "image": "",
-    "icon": "https://www.science.org/favicon.ico",
-    "publisher": "AAAS",
-    "description": "",
-    "by": "tejohnso",
-    "points": 33,
-    "comment_count": 6,
+    "icon": "https://rpilocator.com/favicon.ico",
+    "publisher": "rpilocator.com",
+    "description": "Find Raspberry Pi computers in stock with this simple to use web application.",
+    "by": "geerlingguy",
+    "points": 4,
+    "comment_count": 1,
     "hn_item": {
-      "by": "sam537",
-      "descendants": 5,
-      "id": 30139457,
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
       "kids": [
-        30139775,
-        30140875,
-        30140876,
-        30140804,
-        30139663
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
       ],
-      "score": 10,
-      "time": 1643565919,
-      "title": "What is the best way to learn Python for Bioinformatics?",
+      "score": 189,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
       "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30139457"
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
     },
     "og_item": {
-      "title": "Science | AAAS",
-      "type": "Website",
+      "title": "rpilocator",
+      "type": "",
       "image": [],
       "url": "",
       "audio": [],
-      "description": "",
+      "description": "Find Raspberry Pi computers in stock with this simple to use web application.",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "AAAS",
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30135758,
+    "title": "Uninitialized memory: Unsafe Rust is too hard",
+    "url": "https://lucumr.pocoo.org/2022/1/30/unsafe-rust/",
+    "time": 1643539905,
+    "image": "",
+    "icon": "https://lucumr.pocoo.org/favicon.ico",
+    "publisher": "lucumr.pocoo.org",
+    "description": "Why unsafe Rust is a complex and user unfriendly experience.",
+    "by": "drrlvn",
+    "points": 97,
+    "comment_count": 14,
+    "hn_item": {
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
+      "kids": [
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
+      ],
+      "score": 189,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
+      "type": "story",
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
+    },
+    "og_item": {
+      "title": "Uninitialized Memory: Unsafe Rust is Too Hard",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "Why unsafe Rust is a complex and user unfriendly experience.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
       "video": [],
       "favicon": {
         "url": "/favicon.ico"
@@ -2140,21 +2616,23 @@
     "points": 4,
     "comment_count": 0,
     "hn_item": {
-      "by": "sam537",
-      "descendants": 5,
-      "id": 30139457,
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
       "kids": [
-        30139775,
-        30140875,
-        30140876,
-        30140804,
-        30139663
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
       ],
-      "score": 10,
-      "time": 1643565919,
-      "title": "What is the best way to learn Python for Bioinformatics?",
+      "score": 189,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
       "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30139457"
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
     },
     "og_item": {
       "title": "The Promise of Hierarchical Reinforcement Learning",
@@ -2183,52 +2661,6 @@
     }
   },
   {
-    "id": 30135758,
-    "title": "Uninitialized memory: Unsafe Rust is too hard",
-    "url": "https://lucumr.pocoo.org/2022/1/30/unsafe-rust/",
-    "time": 1643539905,
-    "image": "",
-    "icon": "https://lucumr.pocoo.org/favicon.ico",
-    "publisher": "lucumr.pocoo.org",
-    "description": "Why unsafe Rust is a complex and user unfriendly experience.",
-    "by": "drrlvn",
-    "points": 97,
-    "comment_count": 14,
-    "hn_item": {
-      "by": "sam537",
-      "descendants": 5,
-      "id": 30139457,
-      "kids": [
-        30139775,
-        30140875,
-        30140876,
-        30140804,
-        30139663
-      ],
-      "score": 10,
-      "time": 1643565919,
-      "title": "What is the best way to learn Python for Bioinformatics?",
-      "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30139457"
-    },
-    "og_item": {
-      "title": "Uninitialized Memory: Unsafe Rust is Too Hard",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "Why unsafe Rust is a complex and user unfriendly experience.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30129571,
     "title": "How to avoid layout shifts caused by web fonts",
     "url": "https://simonhearne.com/2021/layout-shifts-webfonts/",
@@ -2241,21 +2673,23 @@
     "points": 183,
     "comment_count": 14,
     "hn_item": {
-      "by": "sam537",
-      "descendants": 5,
-      "id": 30139457,
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
       "kids": [
-        30139775,
-        30140875,
-        30140876,
-        30140804,
-        30139663
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
       ],
-      "score": 10,
-      "time": 1643565919,
-      "title": "What is the best way to learn Python for Bioinformatics?",
+      "score": 189,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
       "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30139457"
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
     },
     "og_item": {
       "title": "How to avoid layout shifts caused by web fonts",
@@ -2284,6 +2718,63 @@
     }
   },
   {
+    "id": 30139637,
+    "title": "Show HN: I reverse engineered and documented United Airlines in flight API",
+    "url": "https://github.com/greatjack1/United-In-Flight-Api",
+    "time": 1643567025,
+    "image": "https://opengraph.githubassets.com/47e39c4311beaf26867158e31339548a837df2186f43b8619e243c462c679105/greatjack1/United-In-Flight-Api",
+    "icon": "https://github.githubassets.com/favicons/favicon.svg",
+    "publisher": "GitHub",
+    "description": "Postman collection for United's internal in-flight wifi api - GitHub - greatjack1/United-In-Flight-Api: Postman collection for United's internal in-flight wifi api",
+    "by": "greatjack613",
+    "points": 15,
+    "comment_count": 2,
+    "hn_item": {
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
+      "kids": [
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
+      ],
+      "score": 189,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
+      "type": "story",
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
+    },
+    "og_item": {
+      "title": "GitHub - greatjack1/United-In-Flight-Api: Postman collection for United's internal in-flight wifi api",
+      "type": "object",
+      "image": [
+        {
+          "url": "https://opengraph.githubassets.com/47e39c4311beaf26867158e31339548a837df2186f43b8619e243c462c679105/greatjack1/United-In-Flight-Api",
+          "secure_url": "",
+          "type": "",
+          "width": 1200,
+          "height": 600,
+          "alt": ""
+        }
+      ],
+      "url": "https://github.com/greatjack1/United-In-Flight-Api",
+      "audio": [],
+      "description": "Postman collection for United's internal in-flight wifi api - GitHub - greatjack1/United-In-Flight-Api: Postman collection for United's internal in-flight wifi api",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "GitHub",
+      "video": [],
+      "favicon": {
+        "url": "https://github.githubassets.com/favicons/favicon.svg"
+      }
+    }
+  },
+  {
     "id": 30125758,
     "title": "Fun with DBM-type databases (2018)",
     "url": "https://www.openwall.com/lists/oss-security/2018/06/17/1",
@@ -2296,21 +2787,23 @@
     "points": 20,
     "comment_count": 0,
     "hn_item": {
-      "by": "sam537",
-      "descendants": 5,
-      "id": 30139457,
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
       "kids": [
-        30139775,
-        30140875,
-        30140876,
-        30140804,
-        30139663
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
       ],
-      "score": 10,
-      "time": 1643565919,
-      "title": "What is the best way to learn Python for Bioinformatics?",
+      "score": 189,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
       "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30139457"
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
     },
     "og_item": {
       "title": "oss-security - Fun with DBM-type databases...",
@@ -2342,21 +2835,23 @@
     "points": 92,
     "comment_count": 10,
     "hn_item": {
-      "by": "sam537",
-      "descendants": 5,
-      "id": 30139457,
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
       "kids": [
-        30139775,
-        30140875,
-        30140876,
-        30140804,
-        30139663
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
       ],
-      "score": 10,
-      "time": 1643565919,
-      "title": "What is the best way to learn Python for Bioinformatics?",
+      "score": 189,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
       "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30139457"
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
     },
     "og_item": {
       "title": "Unredacted Word",
@@ -2385,61 +2880,6 @@
     }
   },
   {
-    "id": 30139971,
-    "title": "The UN is testing technology that processes data confidentially",
-    "url": "https://www.economist.com/science-and-technology/the-un-is-testing-technology-that-processes-data-confidentially/21807385",
-    "time": 1643569114,
-    "image": "https://www.economist.com/img/b/1280/720/90/sites/default/files/images/2022/01/articles/main/20220129_stp004.jpg",
-    "icon": "https://www.economist.com/engassets/ico/favicon.f1ea908894.ico",
-    "publisher": "The Economist",
-    "description": "How to analyse data without revealing their secrets",
-    "by": "jkuria",
-    "points": 8,
-    "comment_count": 1,
-    "hn_item": {
-      "by": "sam537",
-      "descendants": 5,
-      "id": 30139457,
-      "kids": [
-        30139775,
-        30140875,
-        30140876,
-        30140804,
-        30139663
-      ],
-      "score": 10,
-      "time": 1643565919,
-      "title": "What is the best way to learn Python for Bioinformatics?",
-      "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30139457"
-    },
-    "og_item": {
-      "title": "The UN is testing technology that processes data confidentially",
-      "type": "Article",
-      "image": [
-        {
-          "url": "https://www.economist.com/img/b/1280/720/90/sites/default/files/images/2022/01/articles/main/20220129_stp004.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://www.economist.com/science-and-technology/the-un-is-testing-technology-that-processes-data-confidentially/21807385",
-      "audio": [],
-      "description": "How to analyse data without revealing their secrets",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "The Economist",
-      "video": [],
-      "favicon": {
-        "url": "/engassets/ico/favicon.f1ea908894.ico"
-      }
-    }
-  },
-  {
     "id": 30132612,
     "title": "John Locke’s recipe for Pancakes (2021)",
     "url": "https://rarecooking.com/2021/12/14/john-lockes-recipe-for-pancakes/",
@@ -2452,21 +2892,23 @@
     "points": 253,
     "comment_count": 32,
     "hn_item": {
-      "by": "sam537",
-      "descendants": 5,
-      "id": 30139457,
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
       "kids": [
-        30139775,
-        30140875,
-        30140876,
-        30140804,
-        30139663
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
       ],
-      "score": 10,
-      "time": 1643565919,
-      "title": "What is the best way to learn Python for Bioinformatics?",
+      "score": 189,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
       "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30139457"
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
     },
     "og_item": {
       "title": "John Locke’s recipe for Pancakes",
@@ -2495,149 +2937,59 @@
     }
   },
   {
-    "id": 30140593,
-    "title": "Apple removes Grindr from the Chinese app store",
-    "url": "https://applecensorship.com/app-store-monitor/",
-    "time": 1643573198,
-    "image": "",
-    "icon": "https://i2.wp.com/applecensorship.com/wp-content/uploads/2020/12/cropped-fav.png?fit=192%2C192\u0026ssl=1",
-    "publisher": "applecensorship.com",
-    "description": "",
-    "by": "cryoz",
-    "points": 34,
-    "comment_count": 8,
+    "id": 30139971,
+    "title": "The UN is testing technology that processes data confidentially",
+    "url": "https://www.economist.com/science-and-technology/the-un-is-testing-technology-that-processes-data-confidentially/21807385",
+    "time": 1643569114,
+    "image": "https://www.economist.com/img/b/1280/720/90/sites/default/files/images/2022/01/articles/main/20220129_stp004.jpg",
+    "icon": "https://www.economist.com/engassets/ico/favicon.f1ea908894.ico",
+    "publisher": "The Economist",
+    "description": "How to analyse data without revealing their secrets",
+    "by": "jkuria",
+    "points": 8,
+    "comment_count": 1,
     "hn_item": {
-      "by": "sam537",
-      "descendants": 5,
-      "id": 30139457,
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
       "kids": [
-        30139775,
-        30140875,
-        30140876,
-        30140804,
-        30139663
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
       ],
-      "score": 10,
-      "time": 1643565919,
-      "title": "What is the best way to learn Python for Bioinformatics?",
+      "score": 189,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
       "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30139457"
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
     },
     "og_item": {
-      "title": "App Store Monitor – Apple Censorship",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "https://i2.wp.com/applecensorship.com/wp-content/uploads/2020/12/cropped-fav.png?fit=192%2C192\u0026ssl=1"
-      }
-    }
-  },
-  {
-    "id": 30139637,
-    "title": "Show HN: I reverse engineered and documented United Airlines in flight API",
-    "url": "https://github.com/greatjack1/United-In-Flight-Api",
-    "time": 1643567025,
-    "image": "https://opengraph.githubassets.com/5c9f05b354a8fdfd570fd406a4fe75a0b288ea49e0ecc1f0a463263cf76ddf36/greatjack1/United-In-Flight-Api",
-    "icon": "https://github.githubassets.com/favicons/favicon.svg",
-    "publisher": "GitHub",
-    "description": "Postman collection for United's internal in-flight wifi api - GitHub - greatjack1/United-In-Flight-Api: Postman collection for United's internal in-flight wifi api",
-    "by": "greatjack613",
-    "points": 11,
-    "comment_count": 2,
-    "hn_item": {
-      "by": "sam537",
-      "descendants": 5,
-      "id": 30139457,
-      "kids": [
-        30139775,
-        30140875,
-        30140876,
-        30140804,
-        30139663
-      ],
-      "score": 10,
-      "time": 1643565919,
-      "title": "What is the best way to learn Python for Bioinformatics?",
-      "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30139457"
-    },
-    "og_item": {
-      "title": "GitHub - greatjack1/United-In-Flight-Api: Postman collection for United's internal in-flight wifi api",
-      "type": "object",
+      "title": "The UN is testing technology that processes data confidentially",
+      "type": "Article",
       "image": [
         {
-          "url": "https://opengraph.githubassets.com/5c9f05b354a8fdfd570fd406a4fe75a0b288ea49e0ecc1f0a463263cf76ddf36/greatjack1/United-In-Flight-Api",
+          "url": "https://www.economist.com/img/b/1280/720/90/sites/default/files/images/2022/01/articles/main/20220129_stp004.jpg",
           "secure_url": "",
           "type": "",
-          "width": 1200,
-          "height": 600,
+          "width": 0,
+          "height": 0,
           "alt": ""
         }
       ],
-      "url": "https://github.com/greatjack1/United-In-Flight-Api",
+      "url": "https://www.economist.com/science-and-technology/the-un-is-testing-technology-that-processes-data-confidentially/21807385",
       "audio": [],
-      "description": "Postman collection for United's internal in-flight wifi api - GitHub - greatjack1/United-In-Flight-Api: Postman collection for United's internal in-flight wifi api",
+      "description": "How to analyse data without revealing their secrets",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "GitHub",
+      "site_name": "The Economist",
       "video": [],
       "favicon": {
-        "url": "https://github.githubassets.com/favicons/favicon.svg"
-      }
-    }
-  },
-  {
-    "id": 30119748,
-    "title": "In Defense of NIR",
-    "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/",
-    "time": 1643400958,
-    "image": "",
-    "icon": "https://www.jlekstrand.net/favicon.ico",
-    "publisher": "jlekstrand.net",
-    "description": "",
-    "by": "JNRowe",
-    "points": 27,
-    "comment_count": 4,
-    "hn_item": {
-      "by": "sam537",
-      "descendants": 5,
-      "id": 30139457,
-      "kids": [
-        30139775,
-        30140875,
-        30140876,
-        30140804,
-        30139663
-      ],
-      "score": 10,
-      "time": 1643565919,
-      "title": "What is the best way to learn Python for Bioinformatics?",
-      "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30139457"
-    },
-    "og_item": {
-      "title": "In defense of NIR",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
+        "url": "/engassets/ico/favicon.f1ea908894.ico"
       }
     }
   },
@@ -2654,21 +3006,23 @@
     "points": 124,
     "comment_count": 12,
     "hn_item": {
-      "by": "sam537",
-      "descendants": 5,
-      "id": 30139457,
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
       "kids": [
-        30139775,
-        30140875,
-        30140876,
-        30140804,
-        30139663
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
       ],
-      "score": 10,
-      "time": 1643565919,
-      "title": "What is the best way to learn Python for Bioinformatics?",
+      "score": 189,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
       "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30139457"
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
     },
     "og_item": {
       "title": "Jeremy Mikkola - Tech debt gets worse before it gets better",
@@ -2688,48 +3042,146 @@
     }
   },
   {
-    "id": 30139793,
-    "title": "Dave Packard's Simple Rules for Getting Along with Others (2013)",
-    "url": "https://fs.blog/dave-packards-11-simple-rules/",
-    "time": 1643568051,
+    "id": 30119748,
+    "title": "In Defense of NIR",
+    "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/",
+    "time": 1643400958,
     "image": "",
-    "icon": "https://149664534.v2.pressablecdn.com/wp-content/uploads/2015/06/cropped-farnamstreet-300x300.png",
-    "publisher": "Farnam Street",
-    "description": "These 11 simple rules for getting along with others were first presented by Dave Packard at HP's second annual management conference in 1958.",
-    "by": "Tomte",
-    "points": 11,
-    "comment_count": 0,
+    "icon": "https://www.jlekstrand.net/favicon.ico",
+    "publisher": "jlekstrand.net",
+    "description": "",
+    "by": "JNRowe",
+    "points": 27,
+    "comment_count": 4,
     "hn_item": {
-      "by": "sam537",
-      "descendants": 5,
-      "id": 30139457,
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
       "kids": [
-        30139775,
-        30140875,
-        30140876,
-        30140804,
-        30139663
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
       ],
-      "score": 10,
-      "time": 1643565919,
-      "title": "What is the best way to learn Python for Bioinformatics?",
+      "score": 189,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
       "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30139457"
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
     },
     "og_item": {
-      "title": "11 Simple Rules For Getting Along With Others",
-      "type": "article",
+      "title": "In defense of NIR",
+      "type": "",
       "image": [],
-      "url": "https://fs.blog/dave-packards-11-simple-rules/",
+      "url": "",
       "audio": [],
-      "description": "These 11 simple rules for getting along with others were first presented by Dave Packard at HP's second annual management conference in 1958.",
+      "description": "",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "Farnam Street",
+      "site_name": "",
       "video": [],
       "favicon": {
-        "url": "https://149664534.v2.pressablecdn.com/wp-content/uploads/2015/06/cropped-farnamstreet-300x300.png"
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30140593,
+    "title": "Apple removes Grindr from the Chinese app store",
+    "url": "https://applecensorship.com/app-store-monitor/",
+    "time": 1643573198,
+    "image": "",
+    "icon": "https://i2.wp.com/applecensorship.com/wp-content/uploads/2020/12/cropped-fav.png?fit=192%2C192\u0026ssl=1",
+    "publisher": "applecensorship.com",
+    "description": "",
+    "by": "cryoz",
+    "points": 34,
+    "comment_count": 8,
+    "hn_item": {
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
+      "kids": [
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
+      ],
+      "score": 189,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
+      "type": "story",
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
+    },
+    "og_item": {
+      "title": "App Store Monitor – Apple Censorship",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "https://i2.wp.com/applecensorship.com/wp-content/uploads/2020/12/cropped-fav.png?fit=192%2C192\u0026ssl=1"
+      }
+    }
+  },
+  {
+    "id": 30140757,
+    "title": "Windows 11 update changed default browser to Edge, Chrome search-engine to Bing",
+    "url": "https://old.reddit.com/r/sysadmin/comments/sbgmab/last_windows_11_update_changed_default_browser_to/",
+    "time": 1643574322,
+    "image": "",
+    "icon": "https://old.reddit.com/favicon.ico",
+    "publisher": "old.reddit.com",
+    "description": "",
+    "by": "qwertyuiop_",
+    "points": 19,
+    "comment_count": 2,
+    "hn_item": {
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
+      "kids": [
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
+      ],
+      "score": 189,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
+      "type": "story",
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
+    },
+    "og_item": {
+      "title": "Too Many Requests",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
       }
     }
   },
@@ -2746,21 +3198,23 @@
     "points": 49,
     "comment_count": 6,
     "hn_item": {
-      "by": "sam537",
-      "descendants": 5,
-      "id": 30139457,
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
       "kids": [
-        30139775,
-        30140875,
-        30140876,
-        30140804,
-        30139663
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
       ],
-      "score": 10,
-      "time": 1643565919,
-      "title": "What is the best way to learn Python for Bioinformatics?",
+      "score": 189,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
       "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30139457"
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
     },
     "og_item": {
       "title": "How Amiga 500 RAM Probably Works | How Things Probably Work",
@@ -2798,57 +3252,155 @@
     }
   },
   {
-    "id": 30140757,
-    "title": "Windows 11 update changed default browser to Edge, Chrome search-engine to Bing",
-    "url": "https://old.reddit.com/r/sysadmin/comments/sbgmab/last_windows_11_update_changed_default_browser_to/",
-    "time": 1643574322,
-    "image": "https://www.redditstatic.com/new-icon.png",
-    "icon": "https://www.redditstatic.com/desktop2x/img/favicon/favicon-16x16.png",
-    "publisher": "reddit",
-    "description": "So they basically fucked around with third-party software settings to push their shitty products. This is pathetic, predatory and should be...",
-    "by": "qwertyuiop_",
-    "points": 17,
-    "comment_count": 2,
+    "id": 30139793,
+    "title": "Dave Packard's Simple Rules for Getting Along with Others (2013)",
+    "url": "https://fs.blog/dave-packards-11-simple-rules/",
+    "time": 1643568051,
+    "image": "",
+    "icon": "https://149664534.v2.pressablecdn.com/wp-content/uploads/2015/06/cropped-farnamstreet-300x300.png",
+    "publisher": "Farnam Street",
+    "description": "These 11 simple rules for getting along with others were first presented by Dave Packard at HP's second annual management conference in 1958.",
+    "by": "Tomte",
+    "points": 11,
+    "comment_count": 0,
     "hn_item": {
-      "by": "sam537",
-      "descendants": 5,
-      "id": 30139457,
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
       "kids": [
-        30139775,
-        30140875,
-        30140876,
-        30140804,
-        30139663
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
       ],
-      "score": 10,
-      "time": 1643565919,
-      "title": "What is the best way to learn Python for Bioinformatics?",
+      "score": 189,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
       "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30139457"
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
     },
     "og_item": {
-      "title": "Last Windows 11 update changed default browser to Edge, default Chrome search-engine to Bing and changed \"restore previous tabs\" setting to \"always open Bing on startup\"",
-      "type": "",
-      "image": [
-        {
-          "url": "https://www.redditstatic.com/new-icon.png",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "",
+      "title": "11 Simple Rules For Getting Along With Others",
+      "type": "article",
+      "image": [],
+      "url": "https://fs.blog/dave-packards-11-simple-rules/",
       "audio": [],
-      "description": "So they basically fucked around with third-party software settings to push their shitty products. This is pathetic, predatory and should be...",
+      "description": "These 11 simple rules for getting along with others were first presented by Dave Packard at HP's second annual management conference in 1958.",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "reddit",
+      "site_name": "Farnam Street",
       "video": [],
       "favicon": {
-        "url": "//www.redditstatic.com/desktop2x/img/favicon/favicon-16x16.png"
+        "url": "https://149664534.v2.pressablecdn.com/wp-content/uploads/2015/06/cropped-farnamstreet-300x300.png"
+      }
+    }
+  },
+  {
+    "id": 30138266,
+    "title": "Hollows Hunter – Scans all running processes",
+    "url": "https://github.com/hasherezade/hollows_hunter",
+    "time": 1643558423,
+    "image": "https://opengraph.githubassets.com/1441a02dc401ece3998595c5cf226347f9978cc77c91694a5779af8479b3c3fd/hasherezade/hollows_hunter",
+    "icon": "https://github.githubassets.com/favicons/favicon.svg",
+    "publisher": "GitHub",
+    "description": "Scans all running processes. Recognizes and dumps a variety of potentially malicious implants (replaced/implanted PEs, shellcodes, hooks, in-memory patches). - GitHub - hasherezade/hollows_hunter: ...",
+    "by": "maydemir",
+    "points": 21,
+    "comment_count": 2,
+    "hn_item": {
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
+      "kids": [
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
+      ],
+      "score": 189,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
+      "type": "story",
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
+    },
+    "og_item": {
+      "title": "GitHub - hasherezade/hollows_hunter: Scans all running processes. Recognizes and dumps a variety of potentially malicious implants (replaced/implanted PEs, shellcodes, hooks, in-memory patches).",
+      "type": "object",
+      "image": [
+        {
+          "url": "https://opengraph.githubassets.com/1441a02dc401ece3998595c5cf226347f9978cc77c91694a5779af8479b3c3fd/hasherezade/hollows_hunter",
+          "secure_url": "",
+          "type": "",
+          "width": 1200,
+          "height": 600,
+          "alt": ""
+        }
+      ],
+      "url": "https://github.com/hasherezade/hollows_hunter",
+      "audio": [],
+      "description": "Scans all running processes. Recognizes and dumps a variety of potentially malicious implants (replaced/implanted PEs, shellcodes, hooks, in-memory patches). - GitHub - hasherezade/hollows_hunter: ...",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "GitHub",
+      "video": [],
+      "favicon": {
+        "url": "https://github.githubassets.com/favicons/favicon.svg"
+      }
+    }
+  },
+  {
+    "id": 30138561,
+    "title": "24/192 Music Downloads and why they make no sense (2012)",
+    "url": "https://web.archive.org/web/20200417180912/https://people.xiph.org/~xiphmont/demo/neil-young.html",
+    "time": 1643560439,
+    "image": "",
+    "icon": "https://web.archive.org/web/20200417180912im_/https://xiph.org/images/logos/xiph.ico",
+    "publisher": "web.archive.org",
+    "description": "",
+    "by": "hprotagonist",
+    "points": 21,
+    "comment_count": 5,
+    "hn_item": {
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
+      "kids": [
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
+      ],
+      "score": 189,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
+      "type": "story",
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
+    },
+    "og_item": {
+      "title": "24/192 Music Downloads are Very Silly Indeed",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "//web.archive.org/web/20200417180912im_/https://xiph.org/images/logos/xiph.ico"
       }
     }
   },
@@ -2865,21 +3417,23 @@
     "points": 11,
     "comment_count": 0,
     "hn_item": {
-      "by": "sam537",
-      "descendants": 5,
-      "id": 30139457,
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
       "kids": [
-        30139775,
-        30140875,
-        30140876,
-        30140804,
-        30139663
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
       ],
-      "score": 10,
-      "time": 1643565919,
-      "title": "What is the best way to learn Python for Bioinformatics?",
+      "score": 189,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
       "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30139457"
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
     },
     "og_item": {
       "title": "Socrates on the Blessing of Being Refuted - Antigone",
@@ -2908,36 +3462,38 @@
     }
   },
   {
-    "id": 30138561,
-    "title": "24/192 Music Downloads and why they make no sense (2012)",
-    "url": "https://web.archive.org/web/20200417180912/https://people.xiph.org/~xiphmont/demo/neil-young.html",
-    "time": 1643560439,
+    "id": 30140641,
+    "title": "Mistakes I've Made Building a Music Reactive LED Matrix",
+    "url": "https://aradaelli.com/blog/music-reactive-led-matrix/",
+    "time": 1643573549,
     "image": "",
-    "icon": "https://web.archive.org/web/20200417180912im_/https://xiph.org/images/logos/xiph.ico",
-    "publisher": "web.archive.org",
+    "icon": "https://aradaelli.com/favicon.ico",
+    "publisher": "aradaelli.com",
     "description": "",
-    "by": "hprotagonist",
-    "points": 21,
-    "comment_count": 5,
+    "by": "aradaelli",
+    "points": 3,
+    "comment_count": 0,
     "hn_item": {
-      "by": "sam537",
-      "descendants": 5,
-      "id": 30139457,
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
       "kids": [
-        30139775,
-        30140875,
-        30140876,
-        30140804,
-        30139663
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
       ],
-      "score": 10,
-      "time": 1643565919,
-      "title": "What is the best way to learn Python for Bioinformatics?",
+      "score": 189,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
       "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30139457"
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
     },
     "og_item": {
-      "title": "24/192 Music Downloads are Very Silly Indeed",
+      "title": "\nMusic Reactive Led Matrix – Andrea Radaelli\n",
       "type": "",
       "image": [],
       "url": "",
@@ -2949,45 +3505,47 @@
       "site_name": "",
       "video": [],
       "favicon": {
-        "url": "//web.archive.org/web/20200417180912im_/https://xiph.org/images/logos/xiph.ico"
+        "url": "/favicon.ico"
       }
     }
   },
   {
-    "id": 30138266,
-    "title": "Hollows Hunter – Scans all running processes",
-    "url": "https://github.com/hasherezade/hollows_hunter",
-    "time": 1643558423,
-    "image": "https://opengraph.githubassets.com/1db25ad195a706f669cb80232b30c5b2cce1713f74a5ac89dac4f538d1191ab0/hasherezade/hollows_hunter",
+    "id": 30139317,
+    "title": "QRImage: Web app to generate QR codes with images",
+    "url": "https://github.com/HughChen/qr_image",
+    "time": 1643565111,
+    "image": "https://opengraph.githubassets.com/7254beb71b7c74898a4ed3a26d390db961d31a6003bd70bf2b702160cdf03c5b/HughChen/qr_image",
     "icon": "https://github.githubassets.com/favicons/favicon.svg",
     "publisher": "GitHub",
-    "description": "Scans all running processes. Recognizes and dumps a variety of potentially malicious implants (replaced/implanted PEs, shellcodes, hooks, in-memory patches). - GitHub - hasherezade/hollows_hunter: ...",
-    "by": "maydemir",
-    "points": 21,
-    "comment_count": 2,
+    "description": "A web app to generate valid QR codes with readable images. - GitHub - HughChen/qr_image: A web app to generate valid QR codes with readable images.",
+    "by": "modinfo",
+    "points": 9,
+    "comment_count": 0,
     "hn_item": {
-      "by": "sam537",
-      "descendants": 5,
-      "id": 30139457,
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
       "kids": [
-        30139775,
-        30140875,
-        30140876,
-        30140804,
-        30139663
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
       ],
-      "score": 10,
-      "time": 1643565919,
-      "title": "What is the best way to learn Python for Bioinformatics?",
+      "score": 189,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
       "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30139457"
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
     },
     "og_item": {
-      "title": "GitHub - hasherezade/hollows_hunter: Scans all running processes. Recognizes and dumps a variety of potentially malicious implants (replaced/implanted PEs, shellcodes, hooks, in-memory patches).",
+      "title": "GitHub - HughChen/qr_image: A web app to generate valid QR codes with readable images.",
       "type": "object",
       "image": [
         {
-          "url": "https://opengraph.githubassets.com/1db25ad195a706f669cb80232b30c5b2cce1713f74a5ac89dac4f538d1191ab0/hasherezade/hollows_hunter",
+          "url": "https://opengraph.githubassets.com/7254beb71b7c74898a4ed3a26d390db961d31a6003bd70bf2b702160cdf03c5b/HughChen/qr_image",
           "secure_url": "",
           "type": "",
           "width": 1200,
@@ -2995,9 +3553,9 @@
           "alt": ""
         }
       ],
-      "url": "https://github.com/hasherezade/hollows_hunter",
+      "url": "https://github.com/HughChen/qr_image",
       "audio": [],
-      "description": "Scans all running processes. Recognizes and dumps a variety of potentially malicious implants (replaced/implanted PEs, shellcodes, hooks, in-memory patches). - GitHub - hasherezade/hollows_hunter: ...",
+      "description": "A web app to generate valid QR codes with readable images. - GitHub - HughChen/qr_image: A web app to generate valid QR codes with readable images.",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
@@ -3021,21 +3579,23 @@
     "points": 60,
     "comment_count": 1,
     "hn_item": {
-      "by": "sam537",
-      "descendants": 5,
-      "id": 30139457,
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
       "kids": [
-        30139775,
-        30140875,
-        30140876,
-        30140804,
-        30139663
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
       ],
-      "score": 10,
-      "time": 1643565919,
-      "title": "What is the best way to learn Python for Bioinformatics?",
+      "score": 189,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
       "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30139457"
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
     },
     "og_item": {
       "title": "Applying Offensive Reverse Engineering to Facebook Gameroom",
@@ -3080,107 +3640,6 @@
     }
   },
   {
-    "id": 30139920,
-    "title": "How to auto-generate GraphQL schema?",
-    "url": "https://graphqlite.com/guides/schema-generator",
-    "time": 1643568747,
-    "image": "",
-    "icon": "https://graphqlite.com/favicon-16x16.png",
-    "publisher": "graphqlite.com",
-    "description": "Rapid GraphQL prototyping, development, and testing.",
-    "by": "relatedcode",
-    "points": 4,
-    "comment_count": 1,
-    "hn_item": {
-      "by": "sam537",
-      "descendants": 5,
-      "id": 30139457,
-      "kids": [
-        30139775,
-        30140875,
-        30140876,
-        30140804,
-        30139663
-      ],
-      "score": 10,
-      "time": 1643565919,
-      "title": "What is the best way to learn Python for Bioinformatics?",
-      "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30139457"
-    },
-    "og_item": {
-      "title": "Schema Generator | GraphQLite",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "Rapid GraphQL prototyping, development, and testing.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon-16x16.png"
-      }
-    }
-  },
-  {
-    "id": 30141460,
-    "title": "Royal Society cautions against censorship of scientific misinformation online",
-    "url": "https://royalsociety.org/news/2022/01/scientific-misinformation-report/",
-    "time": 1643579230,
-    "image": "https://royalsociety.org/images/Redesign2015/RSSocialShare.jpg",
-    "icon": "https://royalsociety.org/images/Main/favIcon.ico",
-    "publisher": "royalsociety.org",
-    "description": "The Online Information Environment report discusses how to limit the harm of scientific misinformation online",
-    "by": "steelstraw",
-    "points": 7,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "sam537",
-      "descendants": 5,
-      "id": 30139457,
-      "kids": [
-        30139775,
-        30140875,
-        30140876,
-        30140804,
-        30139663
-      ],
-      "score": 10,
-      "time": 1643565919,
-      "title": "What is the best way to learn Python for Bioinformatics?",
-      "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30139457"
-    },
-    "og_item": {
-      "title": "Royal Society cautions against censorship of scientific misinformation online | Royal Society",
-      "type": "website",
-      "image": [
-        {
-          "url": "https://royalsociety.org/images/Redesign2015/RSSocialShare.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://royalsociety.org/news/2022/01/scientific-misinformation-report/",
-      "audio": [],
-      "description": "The Online Information Environment report discusses how to limit the harm of scientific misinformation online",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/images/Main/favIcon.ico"
-      }
-    }
-  },
-  {
     "id": 30134790,
     "title": "One more small step toward the right to software repair",
     "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/",
@@ -3190,24 +3649,26 @@
     "publisher": "Software Freedom Conservancy",
     "description": "Our Motion to Remand in Vizio Lawsuit Shows How the Law Brings Software Freedom to All Users Yesterday afternoon, we filed a Motion for Remand in our\nlawsuit against Vizio for their flagrant GPL \u0026 LGPL violations, alleged\nwith great detail in our complaint in California state\ncourt.  Vizio's resp…",
     "by": "pabs3",
-    "points": 188,
+    "points": 189,
     "comment_count": 7,
     "hn_item": {
-      "by": "sam537",
-      "descendants": 5,
-      "id": 30139457,
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
       "kids": [
-        30139775,
-        30140875,
-        30140876,
-        30140804,
-        30139663
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
       ],
-      "score": 10,
-      "time": 1643565919,
-      "title": "What is the best way to learn Python for Bioinformatics?",
+      "score": 189,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
       "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30139457"
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
     },
     "og_item": {
       "title": "One More Small Step Toward The Right to Software Repair",
@@ -3232,300 +3693,6 @@
       "video": [],
       "favicon": {
         "url": "/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30139317,
-    "title": "QRImage: Web app to generate QR codes with images",
-    "url": "https://github.com/HughChen/qr_image",
-    "time": 1643565111,
-    "image": "https://opengraph.githubassets.com/7254beb71b7c74898a4ed3a26d390db961d31a6003bd70bf2b702160cdf03c5b/HughChen/qr_image",
-    "icon": "https://github.githubassets.com/favicons/favicon.svg",
-    "publisher": "GitHub",
-    "description": "A web app to generate valid QR codes with readable images. - GitHub - HughChen/qr_image: A web app to generate valid QR codes with readable images.",
-    "by": "modinfo",
-    "points": 8,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "sam537",
-      "descendants": 5,
-      "id": 30139457,
-      "kids": [
-        30139775,
-        30140875,
-        30140876,
-        30140804,
-        30139663
-      ],
-      "score": 10,
-      "time": 1643565919,
-      "title": "What is the best way to learn Python for Bioinformatics?",
-      "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30139457"
-    },
-    "og_item": {
-      "title": "GitHub - HughChen/qr_image: A web app to generate valid QR codes with readable images.",
-      "type": "object",
-      "image": [
-        {
-          "url": "https://opengraph.githubassets.com/7254beb71b7c74898a4ed3a26d390db961d31a6003bd70bf2b702160cdf03c5b/HughChen/qr_image",
-          "secure_url": "",
-          "type": "",
-          "width": 1200,
-          "height": 600,
-          "alt": ""
-        }
-      ],
-      "url": "https://github.com/HughChen/qr_image",
-      "audio": [],
-      "description": "A web app to generate valid QR codes with readable images. - GitHub - HughChen/qr_image: A web app to generate valid QR codes with readable images.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "GitHub",
-      "video": [],
-      "favicon": {
-        "url": "https://github.githubassets.com/favicons/favicon.svg"
-      }
-    }
-  },
-  {
-    "id": 30137127,
-    "title": "Reducing the Size of Large PDFs",
-    "url": "https://leancrew.com/all-this/2022/01/reducing-the-size-of-large-pdfs/",
-    "time": 1643550336,
-    "image": "",
-    "icon": "https://leancrew.com/all-this/2022/01/reducing-the-size-of-large-pdfs/../../../resources/snowman-200.png",
-    "publisher": "leancrew.com",
-    "description": "",
-    "by": "ingve",
-    "points": 19,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "sam537",
-      "descendants": 5,
-      "id": 30139457,
-      "kids": [
-        30139775,
-        30140875,
-        30140876,
-        30140804,
-        30139663
-      ],
-      "score": 10,
-      "time": 1643565919,
-      "title": "What is the best way to learn Python for Bioinformatics?",
-      "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30139457"
-    },
-    "og_item": {
-      "title": "Reducing the size of large PDFs - All this",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "../../../resources/snowman-200.png"
-      }
-    }
-  },
-  {
-    "id": 30128061,
-    "title": "Nuanced communication usually doesn't work at scale",
-    "url": "https://twitter.com/danluu/status/1487228574608211969",
-    "time": 1643476385,
-    "image": "",
-    "icon": "https://abs.twimg.com/favicons/twitter.2.ico",
-    "publisher": "Twitter",
-    "description": "",
-    "by": "tagolli",
-    "points": 687,
-    "comment_count": 70,
-    "hn_item": {
-      "by": "sam537",
-      "descendants": 5,
-      "id": 30139457,
-      "kids": [
-        30139775,
-        30140875,
-        30140876,
-        30140804,
-        30139663
-      ],
-      "score": 10,
-      "time": 1643565919,
-      "title": "What is the best way to learn Python for Bioinformatics?",
-      "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30139457"
-    },
-    "og_item": {
-      "title": "",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Twitter",
-      "video": [],
-      "favicon": {
-        "url": "//abs.twimg.com/favicons/twitter.2.ico"
-      }
-    }
-  },
-  {
-    "id": 30139925,
-    "title": "New Book called “What if? 2” by Xkcd creator Randall Munroe",
-    "url": "https://www.amazon.com/What-Additional-Scientific-Hypothetical-Questions/dp/0525537112",
-    "time": 1643568806,
-    "image": "",
-    "icon": "https://www.amazon.com/favicon.ico",
-    "publisher": "amazon.com",
-    "description": "What If? 2: Additional Serious Scientific Answers to Absurd Hypothetical Questions [Munroe, Randall] on Amazon.com. *FREE* shipping on qualifying offers. What If? 2: Additional Serious Scientific Answers to Absurd Hypothetical Questions",
-    "by": "mccorrinall",
-    "points": 31,
-    "comment_count": 3,
-    "hn_item": {
-      "by": "sam537",
-      "descendants": 5,
-      "id": 30139457,
-      "kids": [
-        30139775,
-        30140875,
-        30140876,
-        30140804,
-        30139663
-      ],
-      "score": 10,
-      "time": 1643565919,
-      "title": "What is the best way to learn Python for Bioinformatics?",
-      "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30139457"
-    },
-    "og_item": {
-      "title": "What If? 2: Additional Serious Scientific Answers to Absurd Hypothetical Questions: Munroe, Randall: 9780525537113: Amazon.com: Books",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "What If? 2: Additional Serious Scientific Answers to Absurd Hypothetical Questions [Munroe, Randall] on Amazon.com. *FREE* shipping on qualifying offers. What If? 2: Additional Serious Scientific Answers to Absurd Hypothetical Questions",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30139764,
-    "title": "Reducing inequality can reverse political polarisation: study",
-    "url": "https://www.thesaint.scot/post/university-study-finds-reducing-inequality-can-reverse-political-polarisation",
-    "time": 1643567828,
-    "image": "https://static.wixstatic.com/media/aa276a_6a650222c79e42e4b19de23ecce86c83~mv2.jpeg/v1/fit/w_1000%2Ch_1000%2Cal_c%2Cq_80/file.jpeg",
-    "icon": "https://static.parastorage.com/client/pfavico.ico",
-    "publisher": "The Saint",
-    "description": "Political attitudes that have become increasingly polarised could be prevented by the redistribution of wealth, a new study by the University of St Andrews suggests.\nThe study – led by Dr Alexander Stewart of the School of Mathematics and Statistics – found that polarised political attitudes …",
-    "by": "krigath",
-    "points": 92,
-    "comment_count": 16,
-    "hn_item": {
-      "by": "sam537",
-      "descendants": 5,
-      "id": 30139457,
-      "kids": [
-        30139775,
-        30140875,
-        30140876,
-        30140804,
-        30139663
-      ],
-      "score": 10,
-      "time": 1643565919,
-      "title": "What is the best way to learn Python for Bioinformatics?",
-      "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30139457"
-    },
-    "og_item": {
-      "title": "University Study Finds Reducing Inequality Can Reverse Political Polarisation",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://static.wixstatic.com/media/aa276a_6a650222c79e42e4b19de23ecce86c83~mv2.jpeg/v1/fit/w_1000%2Ch_1000%2Cal_c%2Cq_80/file.jpeg",
-          "secure_url": "",
-          "type": "",
-          "width": 1916,
-          "height": 2253,
-          "alt": ""
-        }
-      ],
-      "url": "https://www.thesaint.scot/post/university-study-finds-reducing-inequality-can-reverse-political-polarisation",
-      "audio": [],
-      "description": "Political attitudes that have become increasingly polarised could be prevented by the redistribution of wealth, a new study by the University of St Andrews suggests.\nThe study – led by Dr Alexander Stewart of the School of Mathematics and Statistics – found that polarised political attitudes are exacerbated when economic hardship, inequality and racial conflict become aligned with existing political divisions.\nFollowing the Brexit vote, many UK voters still held onto rigid identities of Leaver o",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "The Saint",
-      "video": [],
-      "favicon": {
-        "url": "https://static.parastorage.com/client/pfavico.ico"
-      }
-    }
-  },
-  {
-    "id": 30139457,
-    "title": "What is the best way to learn Python for Bioinformatics?",
-    "url": "https://news.ycombinator.com/item?id=30139457",
-    "time": 1643565919,
-    "image": "",
-    "icon": "https://news.ycombinator.com/favicon.ico",
-    "publisher": "Hacker News",
-    "description": "",
-    "by": "sam537",
-    "points": 10,
-    "comment_count": 5,
-    "hn_item": {
-      "by": "sam537",
-      "descendants": 5,
-      "id": 30139457,
-      "kids": [
-        30139775,
-        30140875,
-        30140876,
-        30140804,
-        30139663
-      ],
-      "score": 10,
-      "time": 1643565919,
-      "title": "What is the best way to learn Python for Bioinformatics?",
-      "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30139457"
-    },
-    "og_item": {
-      "title": "What is the best way to learn Python for Bioinformatics? | Hacker News",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "favicon.ico"
       }
     }
   }
