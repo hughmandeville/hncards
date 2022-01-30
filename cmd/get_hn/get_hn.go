@@ -44,7 +44,8 @@ func main() {
 	flag.Parse()
 
 	if out == "github" && os.Getenv("GITHUB_TOKEN") == "" {
-		fmt.Printf("GITHUB_TOKEN environment variable must when outputing to GitHub.\n")
+		fmt.Printf("GITHUB_TOKEN environment variable must bet set when outputing to GitHub.\n")
+		return
 	}
 
 	if verbose {

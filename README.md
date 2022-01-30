@@ -28,10 +28,10 @@ Use `make run-node` to start up the React app on [port 3000](http://localhost:30
 make run-node
 ```
 
-Use `make get-hn-ts` to run the Go program that gets the Hacker News top stories and Open Graph data.
+Use `make hn-ts-get` to run the Go program that gets the Hacker News top stories and Open Graph data.
 
 ```sh
-make get-hn-ts
+make hn-ts-get
 ```
 
 ## Misc. Links

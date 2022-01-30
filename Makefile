@@ -70,14 +70,14 @@ gh-deploy:
 ## :
 ## HACKER_NEWS:
 
-.PHONY: get-hn-ts
-## get-hn-ts: Get Hacker News Top Stories JSON.
-get-hn-ts:
+.PHONY: hn-ts-get
+## hn-ts-get: Get Hacker News Top Stories JSON.
+hn-ts-get:
 	@go run cmd/get_hn/get_hn.go -out file -verbose
 
-.PHONY: upload-hn-ts
-## upload-hn-ts: Upload Hacker News Top Stories JSON to GitHub.
-upload-hn-ts:
+.PHONY: hn-ts-upload
+## hn-ts-upload: Upload Hacker News Top Stories JSON to GitHub.
+hn-ts-upload:
 	@go run cmd/get_hn/get_hn.go -out github -verbose
 
 
