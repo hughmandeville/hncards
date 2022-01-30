@@ -69,7 +69,7 @@
     "publisher": "Twitter",
     "description": "",
     "by": "tagolli",
-    "points": 503,
+    "points": 504,
     "comment_count": 61,
     "hn_item": {
       "by": "amerf1",
@@ -171,8 +171,8 @@
     "publisher": "Hacker News",
     "description": "",
     "by": "tenonyx",
-    "points": 205,
-    "comment_count": 111,
+    "points": 208,
+    "comment_count": 113,
     "hn_item": {
       "by": "amerf1",
       "descendants": 19,
@@ -213,66 +213,6 @@
     }
   },
   {
-    "id": 30131165,
-    "title": "PostgreSQL used fsync incorrectly for 20 years (2019) [video]",
-    "url": "https://archive.fosdem.org/2019/schedule/event/postgresql_fsync/",
-    "time": 1643494771,
-    "image": "https://fosdem.org/2019/assets/style/logo-gear-7204a6874eb0128932db10ff4030910401ac06f4e907f8b4a40da24ba592b252.png",
-    "icon": "https://archive.fosdem.org/2019/favicon-16x16.png",
-    "publisher": "archive.fosdem.org",
-    "description": "",
-    "by": "belter",
-    "points": 97,
-    "comment_count": 4,
-    "hn_item": {
-      "by": "amerf1",
-      "descendants": 19,
-      "id": 30120590,
-      "kids": [
-        30131179,
-        30131255,
-        30132512,
-        30131822,
-        30132251,
-        30131686,
-        30131176,
-        30132556,
-        30132444,
-        30132638
-      ],
-      "score": 41,
-      "time": 1643405265,
-      "title": "Why do startups hire so many people?",
-      "type": "story",
-      "url": "https://www.quora.com/Why-do-tech-startups-still-hire-so-many-people-Given-the-well-documented-costs-both-direct-and-indirect-of-increasing-the-size-of-organizations-why-do-so-many-tech-companies-still-grow-so-quickly"
-    },
-    "og_item": {
-      "title": "FOSDEM 2019 - PostgreSQL vs. fsync",
-      "type": "website",
-      "image": [
-        {
-          "url": "https://fosdem.org/2019/assets/style/logo-gear-7204a6874eb0128932db10ff4030910401ac06f4e907f8b4a40da24ba592b252.png",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/2019/favicon-16x16.png"
-      }
-    }
-  },
-  {
     "id": 30130251,
     "title": "Despite the hype, iPhone security no match for NSO spyware (2021)",
     "url": "https://www.washingtonpost.com/technology/2021/07/19/apple-iphone-nso/",
@@ -282,7 +222,7 @@
     "publisher": "Washington Post",
     "description": "An international investigation found 23 Apple devices that were successfully hacked. “Zero-click” attacks, as they are called within the surveillance industry, can work on even the newest generations of iPhones, even after years of effort in which Apple attempted to close the door against una…",
     "by": "Scramblejams",
-    "points": 134,
+    "points": 135,
     "comment_count": 12,
     "hn_item": {
       "by": "amerf1",
@@ -435,6 +375,66 @@
     }
   },
   {
+    "id": 30131165,
+    "title": "PostgreSQL used fsync incorrectly for 20 years (2019) [video]",
+    "url": "https://archive.fosdem.org/2019/schedule/event/postgresql_fsync/",
+    "time": 1643494771,
+    "image": "https://fosdem.org/2019/assets/style/logo-gear-7204a6874eb0128932db10ff4030910401ac06f4e907f8b4a40da24ba592b252.png",
+    "icon": "https://archive.fosdem.org/2019/favicon-16x16.png",
+    "publisher": "archive.fosdem.org",
+    "description": "",
+    "by": "belter",
+    "points": 98,
+    "comment_count": 4,
+    "hn_item": {
+      "by": "amerf1",
+      "descendants": 19,
+      "id": 30120590,
+      "kids": [
+        30131179,
+        30131255,
+        30132512,
+        30131822,
+        30132251,
+        30131686,
+        30131176,
+        30132556,
+        30132444,
+        30132638
+      ],
+      "score": 41,
+      "time": 1643405265,
+      "title": "Why do startups hire so many people?",
+      "type": "story",
+      "url": "https://www.quora.com/Why-do-tech-startups-still-hire-so-many-people-Given-the-well-documented-costs-both-direct-and-indirect-of-increasing-the-size-of-organizations-why-do-so-many-tech-companies-still-grow-so-quickly"
+    },
+    "og_item": {
+      "title": "FOSDEM 2019 - PostgreSQL vs. fsync",
+      "type": "website",
+      "image": [
+        {
+          "url": "https://fosdem.org/2019/assets/style/logo-gear-7204a6874eb0128932db10ff4030910401ac06f4e907f8b4a40da24ba592b252.png",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/2019/favicon-16x16.png"
+      }
+    }
+  },
+  {
     "id": 30130938,
     "title": "A pure Go embedded SQL database",
     "url": "https://gitlab.com/cznic/ql",
@@ -504,7 +504,7 @@
     "publisher": "gdcolon.com",
     "description": "🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿",
     "by": "TheresNoTime",
-    "points": 731,
+    "points": 732,
     "comment_count": 34,
     "hn_item": {
       "by": "amerf1",
@@ -555,7 +555,7 @@
     "publisher": "dan.bulwinkle.net",
     "description": "Apps create more friction for ordering pizza",
     "by": "pilingual",
-    "points": 161,
+    "points": 162,
     "comment_count": 72,
     "hn_item": {
       "by": "amerf1",
@@ -606,7 +606,7 @@
     "publisher": "cloudsavvyit.com",
     "description": "I grew up in the 1970s and 1980s, and that meant I grew up with computers. Our first home computer was an Apple II, and my brother and I taught ourselves about BASIC programming on the Apple. I wrote a lot of games and math puzzles, because that’s really the limit of AppleSoft BASIC programming.",
     "by": "ingve",
-    "points": 196,
+    "points": 197,
     "comment_count": 20,
     "hn_item": {
       "by": "amerf1",
@@ -778,7 +778,7 @@
     "description": "",
     "by": "mariuz",
     "points": 15,
-    "comment_count": 2,
+    "comment_count": 3,
     "hn_item": {
       "by": "amerf1",
       "descendants": 19,
@@ -828,7 +828,7 @@
     "publisher": "PyPI",
     "description": "The uncompromising code formatter.",
     "by": "crlees",
-    "points": 331,
+    "points": 332,
     "comment_count": 39,
     "hn_item": {
       "by": "amerf1",
@@ -1282,7 +1282,7 @@
     "description": "If biological ageing can be slowed, halted or rewound, are the machine-learning algorithms the best way to measure it? Some experts are unconvinced.",
     "by": "Brajeshwar",
     "points": 154,
-    "comment_count": 12,
+    "comment_count": 13,
     "hn_item": {
       "by": "amerf1",
       "descendants": 19,
@@ -2247,6 +2247,57 @@
     }
   },
   {
+    "id": 30117543,
+    "title": "SQL Reunion: People, Projects, and Politics (1995)",
+    "url": "https://www.mcjones.org/System_R/SQL_Reunion_95/sqlr95.html",
+    "time": 1643390312,
+    "image": "",
+    "icon": "https://www.mcjones.org/favicon.ico",
+    "publisher": "mcjones.org",
+    "description": "",
+    "by": "smackeyacky",
+    "points": 7,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "amerf1",
+      "descendants": 19,
+      "id": 30120590,
+      "kids": [
+        30131179,
+        30131255,
+        30132512,
+        30131822,
+        30132251,
+        30131686,
+        30131176,
+        30132556,
+        30132444,
+        30132638
+      ],
+      "score": 41,
+      "time": 1643405265,
+      "title": "Why do startups hire so many people?",
+      "type": "story",
+      "url": "https://www.quora.com/Why-do-tech-startups-still-hire-so-many-people-Given-the-well-documented-costs-both-direct-and-indirect-of-increasing-the-size-of-organizations-why-do-so-many-tech-companies-still-grow-so-quickly"
+    },
+    "og_item": {
+      "title": "The 1995 SQL Reunion: People, Projects, and Politics",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30126584,
     "title": "To Boldly Go: Star Trek and the Split Infinitive",
     "url": "https://www.merriam-webster.com/words-at-play/to-boldly-split-infinitives",
@@ -2303,57 +2354,6 @@
       "video": [],
       "favicon": {
         "url": "/favicon.svg"
-      }
-    }
-  },
-  {
-    "id": 30117543,
-    "title": "SQL Reunion: People, Projects, and Politics (1995)",
-    "url": "https://www.mcjones.org/System_R/SQL_Reunion_95/sqlr95.html",
-    "time": 1643390312,
-    "image": "",
-    "icon": "https://www.mcjones.org/favicon.ico",
-    "publisher": "mcjones.org",
-    "description": "",
-    "by": "smackeyacky",
-    "points": 7,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "amerf1",
-      "descendants": 19,
-      "id": 30120590,
-      "kids": [
-        30131179,
-        30131255,
-        30132512,
-        30131822,
-        30132251,
-        30131686,
-        30131176,
-        30132556,
-        30132444,
-        30132638
-      ],
-      "score": 41,
-      "time": 1643405265,
-      "title": "Why do startups hire so many people?",
-      "type": "story",
-      "url": "https://www.quora.com/Why-do-tech-startups-still-hire-so-many-people-Given-the-well-documented-costs-both-direct-and-indirect-of-increasing-the-size-of-organizations-why-do-so-many-tech-companies-still-grow-so-quickly"
-    },
-    "og_item": {
-      "title": "The 1995 SQL Reunion: People, Projects, and Politics",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
       }
     }
   },
@@ -3411,66 +3411,6 @@
     }
   },
   {
-    "id": 30133254,
-    "title": "Armored Caboose Designed to Protect Navy Nuclear Waste Trains Begins Final Test",
-    "url": "https://www.thedrive.com/the-war-zone/44062/armored-caboose-designed-to-protect-navy-nuclear-trains-is-about-to-start-its-final-testing",
-    "time": 1643509778,
-    "image": "https://www.thedrive.com/content/2022/01/navy-nuclear-escort-train-car.jpg?quality=85",
-    "icon": "https://www.thedrive.com/images/fav/favicon-128.png",
-    "publisher": "The Drive",
-    "description": "A new armored caboose is part of the Navy and the Department of Energy's plan to make moving nuclear cargoes by rail safer from attacks and accidents.",
-    "by": "ourmandave",
-    "points": 6,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "amerf1",
-      "descendants": 19,
-      "id": 30120590,
-      "kids": [
-        30131179,
-        30131255,
-        30132512,
-        30131822,
-        30132251,
-        30131686,
-        30131176,
-        30132556,
-        30132444,
-        30132638
-      ],
-      "score": 41,
-      "time": 1643405265,
-      "title": "Why do startups hire so many people?",
-      "type": "story",
-      "url": "https://www.quora.com/Why-do-tech-startups-still-hire-so-many-people-Given-the-well-documented-costs-both-direct-and-indirect-of-increasing-the-size-of-organizations-why-do-so-many-tech-companies-still-grow-so-quickly"
-    },
-    "og_item": {
-      "title": "Armored Caboose Designed To Protect Navy Nuclear Waste Trains Begins Final Testing",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://www.thedrive.com/content/2022/01/navy-nuclear-escort-train-car.jpg?quality=85",
-          "secure_url": "",
-          "type": "",
-          "width": 1920,
-          "height": 1080,
-          "alt": ""
-        }
-      ],
-      "url": "https://www.thedrive.com/the-war-zone/44062/armored-caboose-designed-to-protect-navy-nuclear-trains-is-about-to-start-its-final-testing",
-      "audio": [],
-      "description": "A new armored caboose is part of the Navy and the Department of Energy's plan to make moving nuclear cargoes by rail safer from attacks and accidents.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "The Drive",
-      "video": [],
-      "favicon": {
-        "url": "/images/fav/favicon-128.png"
-      }
-    }
-  },
-  {
     "id": 30131065,
     "title": "Full image of ‘new’ Vermeer with uncovered Cupid released by Dresden museum",
     "url": "https://www.theartnewspaper.com/2021/08/24/first-full-image-of-new-vermeer-with-uncovered-cupid-released-by-dresden-museum",
@@ -3527,6 +3467,66 @@
       "video": [],
       "favicon": {
         "url": "/favicons/favicon-196.png"
+      }
+    }
+  },
+  {
+    "id": 30133254,
+    "title": "Armored Caboose Designed to Protect Navy Nuclear Waste Trains Begins Final Test",
+    "url": "https://www.thedrive.com/the-war-zone/44062/armored-caboose-designed-to-protect-navy-nuclear-trains-is-about-to-start-its-final-testing",
+    "time": 1643509778,
+    "image": "https://www.thedrive.com/content/2022/01/navy-nuclear-escort-train-car.jpg?quality=85",
+    "icon": "https://www.thedrive.com/images/fav/favicon-128.png",
+    "publisher": "The Drive",
+    "description": "A new armored caboose is part of the Navy and the Department of Energy's plan to make moving nuclear cargoes by rail safer from attacks and accidents.",
+    "by": "ourmandave",
+    "points": 6,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "amerf1",
+      "descendants": 19,
+      "id": 30120590,
+      "kids": [
+        30131179,
+        30131255,
+        30132512,
+        30131822,
+        30132251,
+        30131686,
+        30131176,
+        30132556,
+        30132444,
+        30132638
+      ],
+      "score": 41,
+      "time": 1643405265,
+      "title": "Why do startups hire so many people?",
+      "type": "story",
+      "url": "https://www.quora.com/Why-do-tech-startups-still-hire-so-many-people-Given-the-well-documented-costs-both-direct-and-indirect-of-increasing-the-size-of-organizations-why-do-so-many-tech-companies-still-grow-so-quickly"
+    },
+    "og_item": {
+      "title": "Armored Caboose Designed To Protect Navy Nuclear Waste Trains Begins Final Testing",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://www.thedrive.com/content/2022/01/navy-nuclear-escort-train-car.jpg?quality=85",
+          "secure_url": "",
+          "type": "",
+          "width": 1920,
+          "height": 1080,
+          "alt": ""
+        }
+      ],
+      "url": "https://www.thedrive.com/the-war-zone/44062/armored-caboose-designed-to-protect-navy-nuclear-trains-is-about-to-start-its-final-testing",
+      "audio": [],
+      "description": "A new armored caboose is part of the Navy and the Department of Energy's plan to make moving nuclear cargoes by rail safer from attacks and accidents.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "The Drive",
+      "video": [],
+      "favicon": {
+        "url": "/images/fav/favicon-128.png"
       }
     }
   },
