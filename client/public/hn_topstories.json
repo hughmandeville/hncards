@@ -9,7 +9,7 @@
     "publisher": "fahrrad-tools.de",
     "description": "Which tire fits my bike? Tires are always flat and now buy a tire with puncture protection? Find the right tire now!",
     "by": "moasda",
-    "points": 425,
+    "points": 436,
     "comment_count": 36,
     "hn_item": {
       "by": "pabs3",
@@ -57,8 +57,8 @@
     "publisher": "jenson.org",
     "description": "",
     "by": "radley",
-    "points": 292,
-    "comment_count": 49,
+    "points": 317,
+    "comment_count": 56,
     "hn_item": {
       "by": "pabs3",
       "descendants": 79,
@@ -105,8 +105,8 @@
     "publisher": "recur-env.eba-rm3fchmn.us-eas…",
     "description": "",
     "by": "ShamelessC",
-    "points": 22,
-    "comment_count": 5,
+    "points": 25,
+    "comment_count": 6,
     "hn_item": {
       "by": "pabs3",
       "descendants": 79,
@@ -140,6 +140,54 @@
       "video": [],
       "favicon": {
         "url": "./favicon.png"
+      }
+    }
+  },
+  {
+    "id": 30138533,
+    "title": "Hypercard Simulator",
+    "url": "https://hypercardsimulator.com/",
+    "time": 1643560248,
+    "image": "",
+    "icon": "https://hypercardsimulator.com/favicon.ico",
+    "publisher": "hypercardsimulator.com",
+    "description": "",
+    "by": "alexmingoia",
+    "points": 161,
+    "comment_count": 12,
+    "hn_item": {
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
+      "kids": [
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
+      ],
+      "score": 189,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
+      "type": "story",
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
+    },
+    "og_item": {
+      "title": "HyperCardSimulator",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
       }
     }
   },
@@ -201,54 +249,6 @@
     }
   },
   {
-    "id": 30138533,
-    "title": "Hypercard Simulator",
-    "url": "https://hypercardsimulator.com/",
-    "time": 1643560248,
-    "image": "",
-    "icon": "https://hypercardsimulator.com/favicon.ico",
-    "publisher": "hypercardsimulator.com",
-    "description": "",
-    "by": "alexmingoia",
-    "points": 161,
-    "comment_count": 12,
-    "hn_item": {
-      "by": "pabs3",
-      "descendants": 79,
-      "id": 30134790,
-      "kids": [
-        30136363,
-        30135229,
-        30135546,
-        30135030,
-        30135150,
-        30136526,
-        30135112
-      ],
-      "score": 189,
-      "time": 1643526869,
-      "title": "One more small step toward the right to software repair",
-      "type": "story",
-      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
-    },
-    "og_item": {
-      "title": "HyperCardSimulator",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30134367,
     "title": "The case of the mysterious --help directory (2020)",
     "url": "https://leahneukirchen.org/blog/archive/2020/05/the-case-of-the-mysterious-help-directory.html",
@@ -258,8 +258,8 @@
     "publisher": "leahneukirchen.org",
     "description": "",
     "by": "panic",
-    "points": 73,
-    "comment_count": 4,
+    "points": 76,
+    "comment_count": 6,
     "hn_item": {
       "by": "pabs3",
       "descendants": 79,
@@ -354,17 +354,17 @@
     }
   },
   {
-    "id": 30140270,
-    "title": "When the algorithm is your boss",
-    "url": "https://tribunemag.co.uk/2022/01/amazon-algorithm-human-resource-management-tech-worker-surveillance",
-    "time": 1643570984,
-    "image": "https://images.jacobinmag.com/wp-content/uploads/sites/4/2022/01/26134053/GettyImages-454598586.jpg",
-    "icon": "https://tribunemag.co.uk/static/img/logo/logo-favicon.png",
-    "publisher": "tribunemag.co.uk",
-    "description": "At workplaces like Amazon, algorithms have become the worst kind of boss – one who watches you constantly, makes impossible demands and then sacks you without explanation.",
-    "by": "jrepinc",
-    "points": 43,
-    "comment_count": 6,
+    "id": 30141460,
+    "title": "Royal Society cautions against censorship of scientific misinformation online",
+    "url": "https://royalsociety.org/news/2022/01/scientific-misinformation-report/",
+    "time": 1643579230,
+    "image": "https://royalsociety.org/images/Redesign2015/RSSocialShare.jpg",
+    "icon": "https://royalsociety.org/images/Main/favIcon.ico",
+    "publisher": "royalsociety.org",
+    "description": "The Online Information Environment report discusses how to limit the harm of scientific misinformation online",
+    "by": "steelstraw",
+    "points": 14,
+    "comment_count": 1,
     "hn_item": {
       "by": "pabs3",
       "descendants": 79,
@@ -385,11 +385,11 @@
       "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
     },
     "og_item": {
-      "title": "When the Algorithm Is Your Boss",
-      "type": "article",
+      "title": "Royal Society cautions against censorship of scientific misinformation online | Royal Society",
+      "type": "website",
       "image": [
         {
-          "url": "https://images.jacobinmag.com/wp-content/uploads/sites/4/2022/01/26134053/GettyImages-454598586.jpg",
+          "url": "https://royalsociety.org/images/Redesign2015/RSSocialShare.jpg",
           "secure_url": "",
           "type": "",
           "width": 0,
@@ -397,16 +397,16 @@
           "alt": ""
         }
       ],
-      "url": "https://tribunemag.co.uk/2022/01/amazon-algorithm-human-resource-management-tech-worker-surveillance",
+      "url": "https://royalsociety.org/news/2022/01/scientific-misinformation-report/",
       "audio": [],
-      "description": "At workplaces like Amazon, algorithms have become the worst kind of boss – one who watches you constantly, makes impossible demands and then sacks you without explanation.",
+      "description": "The Online Information Environment report discusses how to limit the harm of scientific misinformation online",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
       "site_name": "",
       "video": [],
       "favicon": {
-        "url": "/static/img/logo/logo-favicon.png"
+        "url": "/images/Main/favIcon.ico"
       }
     }
   },
@@ -468,17 +468,17 @@
     }
   },
   {
-    "id": 30141460,
-    "title": "Royal Society cautions against censorship of scientific misinformation online",
-    "url": "https://royalsociety.org/news/2022/01/scientific-misinformation-report/",
-    "time": 1643579230,
-    "image": "https://royalsociety.org/images/Redesign2015/RSSocialShare.jpg",
-    "icon": "https://royalsociety.org/images/Main/favIcon.ico",
-    "publisher": "royalsociety.org",
-    "description": "The Online Information Environment report discusses how to limit the harm of scientific misinformation online",
-    "by": "steelstraw",
-    "points": 12,
-    "comment_count": 1,
+    "id": 30141192,
+    "title": "Don't forget Microsoft",
+    "url": "https://luttig.substack.com/p/dont-forget-microsoft",
+    "time": 1643577413,
+    "image": "https://cdn.substack.com/image/fetch/w_1200,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8ddf68e0-c549-49b6-8751-226f54fd4e30_1280x720.jpeg",
+    "icon": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/9c349228-1ca8-4dba-b953-12d78b35ee45/favicon-32x32.png",
+    "publisher": "luttig.substack.com",
+    "description": "Understanding the behemoth in Redmond teaches us valuable lessons in cloud infrastructure, startup strategy, and the future of software.",
+    "by": "SamvitJ",
+    "points": 13,
+    "comment_count": 3,
     "hn_item": {
       "by": "pabs3",
       "descendants": 79,
@@ -499,11 +499,11 @@
       "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
     },
     "og_item": {
-      "title": "Royal Society cautions against censorship of scientific misinformation online | Royal Society",
-      "type": "website",
+      "title": "Don’t forget Microsoft",
+      "type": "article",
       "image": [
         {
-          "url": "https://royalsociety.org/images/Redesign2015/RSSocialShare.jpg",
+          "url": "https://cdn.substack.com/image/fetch/w_1200,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8ddf68e0-c549-49b6-8751-226f54fd4e30_1280x720.jpeg",
           "secure_url": "",
           "type": "",
           "width": 0,
@@ -511,16 +511,73 @@
           "alt": ""
         }
       ],
-      "url": "https://royalsociety.org/news/2022/01/scientific-misinformation-report/",
+      "url": "https://luttig.substack.com/p/dont-forget-microsoft",
       "audio": [],
-      "description": "The Online Information Environment report discusses how to limit the harm of scientific misinformation online",
+      "description": "Understanding the behemoth in Redmond teaches us valuable lessons in cloud infrastructure, startup strategy, and the future of software.",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
       "site_name": "",
       "video": [],
       "favicon": {
-        "url": "/images/Main/favIcon.ico"
+        "url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/9c349228-1ca8-4dba-b953-12d78b35ee45/favicon-32x32.png"
+      }
+    }
+  },
+  {
+    "id": 30140270,
+    "title": "When the algorithm is your boss",
+    "url": "https://tribunemag.co.uk/2022/01/amazon-algorithm-human-resource-management-tech-worker-surveillance",
+    "time": 1643570984,
+    "image": "https://images.jacobinmag.com/wp-content/uploads/sites/4/2022/01/26134053/GettyImages-454598586.jpg",
+    "icon": "https://tribunemag.co.uk/static/img/logo/logo-favicon.png",
+    "publisher": "tribunemag.co.uk",
+    "description": "At workplaces like Amazon, algorithms have become the worst kind of boss – one who watches you constantly, makes impossible demands and then sacks you without explanation.",
+    "by": "jrepinc",
+    "points": 45,
+    "comment_count": 6,
+    "hn_item": {
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
+      "kids": [
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
+      ],
+      "score": 189,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
+      "type": "story",
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
+    },
+    "og_item": {
+      "title": "When the Algorithm Is Your Boss",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://images.jacobinmag.com/wp-content/uploads/sites/4/2022/01/26134053/GettyImages-454598586.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://tribunemag.co.uk/2022/01/amazon-algorithm-human-resource-management-tech-worker-surveillance",
+      "audio": [],
+      "description": "At workplaces like Amazon, algorithms have become the worst kind of boss – one who watches you constantly, makes impossible demands and then sacks you without explanation.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/static/img/logo/logo-favicon.png"
       }
     }
   },
@@ -534,7 +591,7 @@
     "publisher": "web.archive.org",
     "description": "",
     "by": "ecliptik",
-    "points": 10,
+    "points": 13,
     "comment_count": 2,
     "hn_item": {
       "by": "pabs3",
@@ -577,12 +634,12 @@
     "title": "Beancount: Double-entry accounting from text files",
     "url": "https://github.com/beancount/beancount",
     "time": 1643559445,
-    "image": "https://opengraph.githubassets.com/f8762da7bd11eb11594f3c734bf508a71c726edeb3d21660c901153c08e1e295/beancount/beancount",
+    "image": "https://opengraph.githubassets.com/c5364cebb2adcae984a5a526432f1b97f0349eb85586f7d49a897e99d41d5e78/beancount/beancount",
     "icon": "https://github.githubassets.com/favicons/favicon.svg",
     "publisher": "GitHub",
     "description": "Beancount: Double-Entry Accounting from Text Files. - GitHub - beancount/beancount: Beancount: Double-Entry Accounting from Text Files.",
     "by": "techtalsky",
-    "points": 125,
+    "points": 126,
     "comment_count": 14,
     "hn_item": {
       "by": "pabs3",
@@ -608,7 +665,7 @@
       "type": "object",
       "image": [
         {
-          "url": "https://opengraph.githubassets.com/f8762da7bd11eb11594f3c734bf508a71c726edeb3d21660c901153c08e1e295/beancount/beancount",
+          "url": "https://opengraph.githubassets.com/c5364cebb2adcae984a5a526432f1b97f0349eb85586f7d49a897e99d41d5e78/beancount/beancount",
           "secure_url": "",
           "type": "",
           "width": 1200,
@@ -630,63 +687,6 @@
     }
   },
   {
-    "id": 30135190,
-    "title": "FunctionStomping – A new shellcode injection technique",
-    "url": "https://github.com/Idov31/FunctionStomping",
-    "time": 1643533222,
-    "image": "https://opengraph.githubassets.com/7bd1027eb9e6b5b54ea141013d2fca28f98424ba5f0ed71236fc36d2909d6117/Idov31/FunctionStomping",
-    "icon": "https://github.githubassets.com/favicons/favicon.svg",
-    "publisher": "GitHub",
-    "description": "A new shellcode injection technique. Given as C++ header or standalone Rust program. - GitHub - Idov31/FunctionStomping: A new shellcode injection technique. Given as C++ header or standalone Rust ...",
-    "by": "maydemir",
-    "points": 11,
-    "comment_count": 1,
-    "hn_item": {
-      "by": "pabs3",
-      "descendants": 79,
-      "id": 30134790,
-      "kids": [
-        30136363,
-        30135229,
-        30135546,
-        30135030,
-        30135150,
-        30136526,
-        30135112
-      ],
-      "score": 189,
-      "time": 1643526869,
-      "title": "One more small step toward the right to software repair",
-      "type": "story",
-      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
-    },
-    "og_item": {
-      "title": "GitHub - Idov31/FunctionStomping: A new shellcode injection technique. Given as C++ header or standalone Rust program.",
-      "type": "object",
-      "image": [
-        {
-          "url": "https://opengraph.githubassets.com/7bd1027eb9e6b5b54ea141013d2fca28f98424ba5f0ed71236fc36d2909d6117/Idov31/FunctionStomping",
-          "secure_url": "",
-          "type": "",
-          "width": 1200,
-          "height": 600,
-          "alt": ""
-        }
-      ],
-      "url": "https://github.com/Idov31/FunctionStomping",
-      "audio": [],
-      "description": "A new shellcode injection technique. Given as C++ header or standalone Rust program. - GitHub - Idov31/FunctionStomping: A new shellcode injection technique. Given as C++ header or standalone Rust ...",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "GitHub",
-      "video": [],
-      "favicon": {
-        "url": "https://github.githubassets.com/favicons/favicon.svg"
-      }
-    }
-  },
-  {
     "id": 30119925,
     "title": "Message in a bottle from Scottish girl found in Norway after 25 years",
     "url": "https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-60121185",
@@ -696,7 +696,7 @@
     "publisher": "BBC News",
     "description": "The bottle Joanna Buchan dropped in the sea at Peterhead when she was eight has washed up in Norway.",
     "by": "LinuxBender",
-    "points": 43,
+    "points": 44,
     "comment_count": 7,
     "hn_item": {
       "by": "pabs3",
@@ -744,17 +744,17 @@
     }
   },
   {
-    "id": 30141192,
-    "title": "Don't forget Microsoft",
-    "url": "https://luttig.substack.com/p/dont-forget-microsoft",
-    "time": 1643577413,
-    "image": "https://cdn.substack.com/image/fetch/w_1200,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8ddf68e0-c549-49b6-8751-226f54fd4e30_1280x720.jpeg",
-    "icon": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/9c349228-1ca8-4dba-b953-12d78b35ee45/favicon-32x32.png",
-    "publisher": "luttig.substack.com",
-    "description": "Understanding the behemoth in Redmond teaches us valuable lessons in cloud infrastructure, startup strategy, and the future of software.",
-    "by": "SamvitJ",
-    "points": 10,
-    "comment_count": 2,
+    "id": 30135190,
+    "title": "FunctionStomping – A new shellcode injection technique",
+    "url": "https://github.com/Idov31/FunctionStomping",
+    "time": 1643533222,
+    "image": "https://opengraph.githubassets.com/3fe046b010ca59d7aec298c7bd2ea347ccb3f54628ba49002b94ae9520ddbde3/Idov31/FunctionStomping",
+    "icon": "https://github.githubassets.com/favicons/favicon.svg",
+    "publisher": "GitHub",
+    "description": "A new shellcode injection technique. Given as C++ header or standalone Rust program. - GitHub - Idov31/FunctionStomping: A new shellcode injection technique. Given as C++ header or standalone Rust ...",
+    "by": "maydemir",
+    "points": 11,
+    "comment_count": 1,
     "hn_item": {
       "by": "pabs3",
       "descendants": 79,
@@ -775,28 +775,28 @@
       "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
     },
     "og_item": {
-      "title": "Don’t forget Microsoft",
-      "type": "article",
+      "title": "GitHub - Idov31/FunctionStomping: A new shellcode injection technique. Given as C++ header or standalone Rust program.",
+      "type": "object",
       "image": [
         {
-          "url": "https://cdn.substack.com/image/fetch/w_1200,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8ddf68e0-c549-49b6-8751-226f54fd4e30_1280x720.jpeg",
+          "url": "https://opengraph.githubassets.com/3fe046b010ca59d7aec298c7bd2ea347ccb3f54628ba49002b94ae9520ddbde3/Idov31/FunctionStomping",
           "secure_url": "",
           "type": "",
-          "width": 0,
-          "height": 0,
+          "width": 1200,
+          "height": 600,
           "alt": ""
         }
       ],
-      "url": "https://luttig.substack.com/p/dont-forget-microsoft",
+      "url": "https://github.com/Idov31/FunctionStomping",
       "audio": [],
-      "description": "Understanding the behemoth in Redmond teaches us valuable lessons in cloud infrastructure, startup strategy, and the future of software.",
+      "description": "A new shellcode injection technique. Given as C++ header or standalone Rust program. - GitHub - Idov31/FunctionStomping: A new shellcode injection technique. Given as C++ header or standalone Rust ...",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "",
+      "site_name": "GitHub",
       "video": [],
       "favicon": {
-        "url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/9c349228-1ca8-4dba-b953-12d78b35ee45/favicon-32x32.png"
+        "url": "https://github.githubassets.com/favicons/favicon.svg"
       }
     }
   },
@@ -810,7 +810,7 @@
     "publisher": "bastian.rieck.me",
     "description": "",
     "by": "Topolomancer",
-    "points": 137,
+    "points": 138,
     "comment_count": 20,
     "hn_item": {
       "by": "pabs3",
@@ -833,111 +833,6 @@
     },
     "og_item": {
       "title": "In Defence of the Boring Web",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30137720,
-    "title": "U.S. companies are hiring Latin America’s tech talent",
-    "url": "https://restofworld.org/2022/latin-america-startup-developer-scarcity/",
-    "time": 1643554658,
-    "image": "https://149346090.v2.pressablecdn.com/wp-content/uploads/2022/01/GettyImages-531336444-1600x900.jpg",
-    "icon": "https://149346090.v2.pressablecdn.com/wp-content/themes/orbis/assets/icons/icon-196.png",
-    "publisher": "Rest of World",
-    "description": "As a hedge against American talent poachers, some exasperated founders are recruiting developers who can’t speak English.",
-    "by": "braco_alva",
-    "points": 130,
-    "comment_count": 30,
-    "hn_item": {
-      "by": "pabs3",
-      "descendants": 79,
-      "id": 30134790,
-      "kids": [
-        30136363,
-        30135229,
-        30135546,
-        30135030,
-        30135150,
-        30136526,
-        30135112
-      ],
-      "score": 189,
-      "time": 1643526869,
-      "title": "One more small step toward the right to software repair",
-      "type": "story",
-      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
-    },
-    "og_item": {
-      "title": "“It’s a bloodbath”: U.S. companies are pillaging Latin America’s tech talent",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://149346090.v2.pressablecdn.com/wp-content/uploads/2022/01/GettyImages-531336444-1600x900.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 1600,
-          "height": 900,
-          "alt": ""
-        }
-      ],
-      "url": "https://restofworld.org/2022/latin-america-startup-developer-scarcity/",
-      "audio": [],
-      "description": "As a hedge against American talent poachers, some exasperated founders are recruiting developers who can’t speak English.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Rest of World",
-      "video": [],
-      "favicon": {
-        "url": "https://149346090.v2.pressablecdn.com/wp-content/themes/orbis/assets/icons/icon-196.png"
-      }
-    }
-  },
-  {
-    "id": 30137864,
-    "title": "Midnight Commander Tips and Tricks",
-    "url": "http://www.softpanorama.org/OFM/MC/mc_tips.shtml",
-    "time": 1643555741,
-    "image": "",
-    "icon": "",
-    "publisher": "softpanorama.org",
-    "description": "",
-    "by": "ingve",
-    "points": 117,
-    "comment_count": 17,
-    "hn_item": {
-      "by": "pabs3",
-      "descendants": 79,
-      "id": 30134790,
-      "kids": [
-        30136363,
-        30135229,
-        30135546,
-        30135030,
-        30135150,
-        30136526,
-        30135112
-      ],
-      "score": 189,
-      "time": 1643526869,
-      "title": "One more small step toward the right to software repair",
-      "type": "story",
-      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
-    },
-    "og_item": {
-      "title": "Midnight Commander Tips and Tricks",
       "type": "",
       "image": [],
       "url": "",
@@ -1011,17 +906,17 @@
     }
   },
   {
-    "id": 30119285,
-    "title": "Devious SQL: Message Queuing Using Native PostgreSQL",
-    "url": "https://blog.crunchydata.com/blog/message-queuing-using-native-postgresql",
-    "time": 1643398437,
-    "image": "https://blog.crunchydata.com/hubfs/goose_march.png#keepProtocol",
-    "icon": "https://blog.crunchydata.com/hubfs/Flat%20Logo_Color%20Icon.png",
-    "publisher": "blog.crunchydata.com",
-    "description": "An interesting question came up on the #postgresql IRC channel about how to use native PostgreSQL features to handle some sort of queuing behavior. While the specific usage was related to handling serialization of specific events to some external broker, the specifics are less important than the …",
-    "by": "Scramblejams",
-    "points": 107,
-    "comment_count": 8,
+    "id": 30137864,
+    "title": "Midnight Commander Tips and Tricks",
+    "url": "http://www.softpanorama.org/OFM/MC/mc_tips.shtml",
+    "time": 1643555741,
+    "image": "",
+    "icon": "",
+    "publisher": "softpanorama.org",
+    "description": "",
+    "by": "ingve",
+    "points": 118,
+    "comment_count": 17,
     "hn_item": {
       "by": "pabs3",
       "descendants": 79,
@@ -1042,43 +937,34 @@
       "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
     },
     "og_item": {
-      "title": "Devious SQL: Message Queuing Using Native PostgreSQL",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://blog.crunchydata.com/hubfs/goose_march.png#keepProtocol",
-          "secure_url": "",
-          "type": "",
-          "width": 523,
-          "height": 273,
-          "alt": ""
-        }
-      ],
-      "url": "https://blog.crunchydata.com/blog/message-queuing-using-native-postgresql",
+      "title": "Midnight Commander Tips and Tricks",
+      "type": "",
+      "image": [],
+      "url": "",
       "audio": [],
-      "description": "An interesting question came up on the #postgresql IRC channel about how to use native PostgreSQL features to handle some sort of queuing behavior. While the specific usage was related to handling serialization of specific events to some external broker, the specifics are less important than the overall structure.\n\n",
+      "description": "",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
       "site_name": "",
       "video": [],
       "favicon": {
-        "url": "https://blog.crunchydata.com/hubfs/Flat%20Logo_Color%20Icon.png"
+        "url": "/favicon.ico"
       }
     }
   },
   {
-    "id": 30111033,
-    "title": "Toxic black mold is growing in my brain",
-    "url": "https://www.buzzfeednews.com/article/tysonbottenus/black-mold-growing-toxic-brain-vacation",
-    "time": 1643348571,
-    "image": "https://img.buzzfeed.com/buzzfeed-static/static/2022-01/27/14/enhanced/bed7df749335/original-1777-1643292826-2.jpg?crop=1200:628;0,0",
-    "icon": "https://www.buzzfeednews.com/static-assets/img/favicon.40f4055ea10bb11593f4c85d55164232.ico",
-    "publisher": "BuzzFeed News",
-    "description": "I went on a vacation. I came home with a mysterious fungus in my brain that is so rare only about 120 cases have been confirmed worldwide since its discovery in 1911.",
-    "by": "yellow_lead",
-    "points": 145,
-    "comment_count": 8,
+    "id": 30137720,
+    "title": "U.S. companies are hiring Latin America’s tech talent",
+    "url": "https://restofworld.org/2022/latin-america-startup-developer-scarcity/",
+    "time": 1643554658,
+    "image": "https://149346090.v2.pressablecdn.com/wp-content/uploads/2022/01/GettyImages-531336444-1600x900.jpg",
+    "icon": "https://149346090.v2.pressablecdn.com/wp-content/themes/orbis/assets/icons/icon-196.png",
+    "publisher": "Rest of World",
+    "description": "As a hedge against American talent poachers, some exasperated founders are recruiting developers who can’t speak English.",
+    "by": "braco_alva",
+    "points": 131,
+    "comment_count": 30,
     "hn_item": {
       "by": "pabs3",
       "descendants": 79,
@@ -1099,28 +985,28 @@
       "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
     },
     "og_item": {
-      "title": "Toxic Black Mold Is Growing On My Brain",
+      "title": "“It’s a bloodbath”: U.S. companies are pillaging Latin America’s tech talent",
       "type": "article",
       "image": [
         {
-          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2022-01/27/14/enhanced/bed7df749335/original-1777-1643292826-2.jpg?crop=1200:628;0,0",
+          "url": "https://149346090.v2.pressablecdn.com/wp-content/uploads/2022/01/GettyImages-531336444-1600x900.jpg",
           "secure_url": "",
           "type": "",
-          "width": 0,
-          "height": 0,
+          "width": 1600,
+          "height": 900,
           "alt": ""
         }
       ],
-      "url": "https://www.buzzfeednews.com/article/tysonbottenus/black-mold-growing-toxic-brain-vacation",
+      "url": "https://restofworld.org/2022/latin-america-startup-developer-scarcity/",
       "audio": [],
-      "description": "I went on a vacation. I came home with a mysterious fungus in my brain that is so rare only about 120 cases have been confirmed worldwide since its discovery in 1911.",
+      "description": "As a hedge against American talent poachers, some exasperated founders are recruiting developers who can’t speak English.",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "BuzzFeed News",
+      "site_name": "Rest of World",
       "video": [],
       "favicon": {
-        "url": "/static-assets/img/favicon.40f4055ea10bb11593f4c85d55164232.ico"
+        "url": "https://149346090.v2.pressablecdn.com/wp-content/themes/orbis/assets/icons/icon-196.png"
       }
     }
   },
@@ -1134,7 +1020,7 @@
     "publisher": "YouTube",
     "description": "https://www.CovertInstruments.com",
     "by": "CraigJPerry",
-    "points": 110,
+    "points": 111,
     "comment_count": 7,
     "hn_item": {
       "by": "pabs3",
@@ -1187,6 +1073,54 @@
       ],
       "favicon": {
         "url": "https://www.youtube.com/s/desktop/ca9cd554/img/favicon_144x144.png"
+      }
+    }
+  },
+  {
+    "id": 30131387,
+    "title": "Game performance optimization – A practical example from Industry Idle",
+    "url": "https://ruoyusun.com/2022/01/28/game-pref.html",
+    "time": 1643496513,
+    "image": "",
+    "icon": "https://ruoyusun.com/favicon-16x16.png",
+    "publisher": "ruoyusun.com",
+    "description": "",
+    "by": "insraq",
+    "points": 6,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
+      "kids": [
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
+      ],
+      "score": 189,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
+      "type": "story",
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
+    },
+    "og_item": {
+      "title": "Game Performance Optimization - A Practical Example From Industry Idle",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon-16x16.png"
       }
     }
   },
@@ -1290,7 +1224,7 @@
     "publisher": "Warp - Blog",
     "description": "This is how we used tree data structures to build split panes in our terminal app.",
     "by": "lukastyrychtr",
-    "points": 33,
+    "points": 34,
     "comment_count": 5,
     "hn_item": {
       "by": "pabs3",
@@ -1347,7 +1281,7 @@
     "publisher": "shubhro.com",
     "description": "",
     "by": "shbhrsaha",
-    "points": 29,
+    "points": 30,
     "comment_count": 5,
     "hn_item": {
       "by": "pabs3",
@@ -1452,7 +1386,7 @@
     "publisher": "cabinetmagazine.org",
     "description": "Chess with networks",
     "by": "bshepard",
-    "points": 20,
+    "points": 21,
     "comment_count": 2,
     "hn_item": {
       "by": "pabs3",
@@ -1500,17 +1434,17 @@
     }
   },
   {
-    "id": 30141426,
-    "title": "Ulysses at 100: The Birth of the Modern",
-    "url": "https://www.ft.com/content/609d5d0d-b666-4af8-af39-82ddaf5f28de",
-    "time": 1643579002,
-    "image": "",
-    "icon": "https://www.ft.com/__origami/service/image/v2/images/raw/ftlogo-v1%3Abrand-ft-logo-square-coloured?source=update-logos\u0026format=svg",
-    "publisher": "ft.com",
-    "description": "News, analysis and comment from the Financial Times, the worldʼs leading global business publication",
-    "by": "kkwteh",
-    "points": 4,
-    "comment_count": 1,
+    "id": 30138420,
+    "title": "Autonomous battery-powered rail cars",
+    "url": "https://arstechnica.com/cars/2022/01/moving-more-with-less-freight-startup-bets-on-autonomous-electric-rail-cars/",
+    "time": 1643559370,
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/01/Parallel_Landscape_cropped-e1642613980939-760x380.jpg",
+    "icon": "https://cdn.arstechnica.net/wp-content/themes/ars/assets/img/material-ars-db41652381.png",
+    "publisher": "Ars Technica",
+    "description": "Advances in batteries, autonomy could extend the reach of freight railroads.",
+    "by": "vanburen",
+    "points": 63,
+    "comment_count": 14,
     "hn_item": {
       "by": "pabs3",
       "descendants": 79,
@@ -1531,19 +1465,28 @@
       "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
     },
     "og_item": {
-      "title": "Subscribe to read | Financial Times",
-      "type": "",
-      "image": [],
-      "url": "",
+      "title": "Autonomous battery-powered rail cars could steal shipments from truckers",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/01/Parallel_Landscape_cropped-e1642613980939-760x380.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://arstechnica.com/cars/2022/01/moving-more-with-less-freight-startup-bets-on-autonomous-electric-rail-cars/",
       "audio": [],
-      "description": "News, analysis and comment from the Financial Times, the worldʼs leading global business publication",
+      "description": "Advances in batteries, autonomy could extend the reach of freight railroads.",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "",
+      "site_name": "Ars Technica",
       "video": [],
       "favicon": {
-        "url": "https://www.ft.com/__origami/service/image/v2/images/raw/ftlogo-v1%3Abrand-ft-logo-square-coloured?source=update-logos\u0026format=svg"
+        "url": "https://cdn.arstechnica.net/wp-content/themes/ars/assets/img/material-ars-db41652381.png"
       }
     }
   },
@@ -1557,7 +1500,7 @@
     "publisher": "susam.net",
     "description": "",
     "by": "susam",
-    "points": 26,
+    "points": 27,
     "comment_count": 2,
     "hn_item": {
       "by": "pabs3",
@@ -1592,63 +1535,6 @@
       "video": [],
       "favicon": {
         "url": "favicon.png"
-      }
-    }
-  },
-  {
-    "id": 30135297,
-    "title": "The Dialectic of Enlightenment and modern life",
-    "url": "https://daily-philosophy.com/frankfurt-school-dialectic-enlightenment/",
-    "time": 1643534554,
-    "image": "https://daily-philosophy.com/frankfurt-school-dialectic-enlightenment/featured-500px.jpg",
-    "icon": "https://daily-philosophy.com/favicon.ico",
-    "publisher": "daily-philosophy.com",
-    "description": "The Frankfurt School is generally taken to mean a lose collection of thinkers who first congregated around the Institute for Social Research in Frankfurt am Main, Germany.",
-    "by": "moralrobots",
-    "points": 17,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "pabs3",
-      "descendants": 79,
-      "id": 30134790,
-      "kids": [
-        30136363,
-        30135229,
-        30135546,
-        30135030,
-        30135150,
-        30136526,
-        30135112
-      ],
-      "score": 189,
-      "time": 1643526869,
-      "title": "One more small step toward the right to software repair",
-      "type": "story",
-      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
-    },
-    "og_item": {
-      "title": "The Dialectic of Enlightenment",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://daily-philosophy.com/frankfurt-school-dialectic-enlightenment/featured-500px.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://daily-philosophy.com/frankfurt-school-dialectic-enlightenment/",
-      "audio": [],
-      "description": "The Frankfurt School is generally taken to mean a lose collection of thinkers who first congregated around the Institute for Social Research in Frankfurt am Main, Germany.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
       }
     }
   },
@@ -1710,17 +1596,17 @@
     }
   },
   {
-    "id": 30138420,
-    "title": "Autonomous battery-powered rail cars",
-    "url": "https://arstechnica.com/cars/2022/01/moving-more-with-less-freight-startup-bets-on-autonomous-electric-rail-cars/",
-    "time": 1643559370,
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/01/Parallel_Landscape_cropped-e1642613980939-760x380.jpg",
-    "icon": "https://cdn.arstechnica.net/wp-content/themes/ars/assets/img/material-ars-db41652381.png",
-    "publisher": "Ars Technica",
-    "description": "Advances in batteries, autonomy could extend the reach of freight railroads.",
-    "by": "vanburen",
-    "points": 61,
-    "comment_count": 14,
+    "id": 30135297,
+    "title": "The Dialectic of Enlightenment and modern life",
+    "url": "https://daily-philosophy.com/frankfurt-school-dialectic-enlightenment/",
+    "time": 1643534554,
+    "image": "https://daily-philosophy.com/frankfurt-school-dialectic-enlightenment/featured-500px.jpg",
+    "icon": "https://daily-philosophy.com/favicon.ico",
+    "publisher": "daily-philosophy.com",
+    "description": "The Frankfurt School is generally taken to mean a lose collection of thinkers who first congregated around the Institute for Social Research in Frankfurt am Main, Germany.",
+    "by": "moralrobots",
+    "points": 17,
+    "comment_count": 0,
     "hn_item": {
       "by": "pabs3",
       "descendants": 79,
@@ -1741,11 +1627,11 @@
       "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
     },
     "og_item": {
-      "title": "Autonomous battery-powered rail cars could steal shipments from truckers",
+      "title": "The Dialectic of Enlightenment",
       "type": "article",
       "image": [
         {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/01/Parallel_Landscape_cropped-e1642613980939-760x380.jpg",
+          "url": "https://daily-philosophy.com/frankfurt-school-dialectic-enlightenment/featured-500px.jpg",
           "secure_url": "",
           "type": "",
           "width": 0,
@@ -1753,16 +1639,64 @@
           "alt": ""
         }
       ],
-      "url": "https://arstechnica.com/cars/2022/01/moving-more-with-less-freight-startup-bets-on-autonomous-electric-rail-cars/",
+      "url": "https://daily-philosophy.com/frankfurt-school-dialectic-enlightenment/",
       "audio": [],
-      "description": "Advances in batteries, autonomy could extend the reach of freight railroads.",
+      "description": "The Frankfurt School is generally taken to mean a lose collection of thinkers who first congregated around the Institute for Social Research in Frankfurt am Main, Germany.",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "Ars Technica",
+      "site_name": "",
       "video": [],
       "favicon": {
-        "url": "https://cdn.arstechnica.net/wp-content/themes/ars/assets/img/material-ars-db41652381.png"
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30141426,
+    "title": "Ulysses at 100: The Birth of the Modern",
+    "url": "https://www.ft.com/content/609d5d0d-b666-4af8-af39-82ddaf5f28de",
+    "time": 1643579002,
+    "image": "",
+    "icon": "https://www.ft.com/__origami/service/image/v2/images/raw/ftlogo-v1%3Abrand-ft-logo-square-coloured?source=update-logos\u0026format=svg",
+    "publisher": "ft.com",
+    "description": "News, analysis and comment from the Financial Times, the worldʼs leading global business publication",
+    "by": "kkwteh",
+    "points": 4,
+    "comment_count": 1,
+    "hn_item": {
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
+      "kids": [
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
+      ],
+      "score": 189,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
+      "type": "story",
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
+    },
+    "og_item": {
+      "title": "Subscribe to read | Financial Times",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "News, analysis and comment from the Financial Times, the worldʼs leading global business publication",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "https://www.ft.com/__origami/service/image/v2/images/raw/ftlogo-v1%3Abrand-ft-logo-square-coloured?source=update-logos\u0026format=svg"
       }
     }
   },
@@ -1863,6 +1797,63 @@
     }
   },
   {
+    "id": 30128379,
+    "title": "Controlling RGB LEDs with only powerlines: Anatomy of a Christmas light string",
+    "url": "https://cpldcpu.wordpress.com/2022/01/23/controlling-rgb-leds-with-only-the-powerlines-anatomy-of-a-christmas-light-string/",
+    "time": 1643477829,
+    "image": "https://cpldcpu.files.wordpress.com/2022/01/wiremess.jpg",
+    "icon": "https://s0.wp.com/i/favicon.ico",
+    "publisher": "Tim's Blog",
+    "description": "The RGB curtain predictably turns into a mess of wires when not used according to instructions. As should be obvious from this blog, I am somewhat drawn to clever and minimalistic implementations o…",
+    "by": "cpldcpu",
+    "points": 137,
+    "comment_count": 6,
+    "hn_item": {
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
+      "kids": [
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
+      ],
+      "score": 189,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
+      "type": "story",
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
+    },
+    "og_item": {
+      "title": "Controlling RGB LEDs With Only the Powerlines: Anatomy of a Christmas Light String",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://cpldcpu.files.wordpress.com/2022/01/wiremess.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 3840,
+          "height": 2632,
+          "alt": ""
+        }
+      ],
+      "url": "https://cpldcpu.wordpress.com/2022/01/23/controlling-rgb-leds-with-only-the-powerlines-anatomy-of-a-christmas-light-string/",
+      "audio": [],
+      "description": "The RGB curtain predictably turns into a mess of wires when not used according to instructions. As should be obvious from this blog, I am somewhat drawn to clever and minimalistic implementations o…",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Tim's Blog",
+      "video": [],
+      "favicon": {
+        "url": "https://s0.wp.com/i/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30138669,
     "title": "Ask HN: Has anyone leveraged GDPR to overturn automated bans?",
     "url": "https://news.ycombinator.com/item?id=30138669",
@@ -1911,17 +1902,17 @@
     }
   },
   {
-    "id": 30128379,
-    "title": "Controlling RGB LEDs with only powerlines: Anatomy of a Christmas light string",
-    "url": "https://cpldcpu.wordpress.com/2022/01/23/controlling-rgb-leds-with-only-the-powerlines-anatomy-of-a-christmas-light-string/",
-    "time": 1643477829,
-    "image": "https://cpldcpu.files.wordpress.com/2022/01/wiremess.jpg",
-    "icon": "https://s0.wp.com/i/favicon.ico",
-    "publisher": "Tim's Blog",
-    "description": "The RGB curtain predictably turns into a mess of wires when not used according to instructions. As should be obvious from this blog, I am somewhat drawn to clever and minimalistic implementations o…",
-    "by": "cpldcpu",
-    "points": 136,
-    "comment_count": 6,
+    "id": 30122435,
+    "title": "DDS: Build and library management tool for C, C++",
+    "url": "https://vector-of-bool.github.io/docs/dds/index.html",
+    "time": 1643416395,
+    "image": "",
+    "icon": "https://vector-of-bool.github.io/favicon.ico",
+    "publisher": "vector-of-bool.github.io",
+    "description": "",
+    "by": "oumua_don17",
+    "points": 21,
+    "comment_count": 2,
     "hn_item": {
       "by": "pabs3",
       "descendants": 79,
@@ -1942,28 +1933,19 @@
       "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
     },
     "og_item": {
-      "title": "Controlling RGB LEDs With Only the Powerlines: Anatomy of a Christmas Light String",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://cpldcpu.files.wordpress.com/2022/01/wiremess.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 3840,
-          "height": 2632,
-          "alt": ""
-        }
-      ],
-      "url": "https://cpldcpu.wordpress.com/2022/01/23/controlling-rgb-leds-with-only-the-powerlines-anatomy-of-a-christmas-light-string/",
+      "title": "DDS — dds 0.1.0-alpha.3 documentation",
+      "type": "",
+      "image": [],
+      "url": "",
       "audio": [],
-      "description": "The RGB curtain predictably turns into a mess of wires when not used according to instructions. As should be obvious from this blog, I am somewhat drawn to clever and minimalistic implementations o…",
+      "description": "",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "Tim's Blog",
+      "site_name": "",
       "video": [],
       "favicon": {
-        "url": "https://s0.wp.com/i/favicon.ico"
+        "url": "/favicon.ico"
       }
     }
   },
@@ -2025,54 +2007,6 @@
     }
   },
   {
-    "id": 30122435,
-    "title": "DDS: Build and library management tool for C, C++",
-    "url": "https://vector-of-bool.github.io/docs/dds/index.html",
-    "time": 1643416395,
-    "image": "",
-    "icon": "https://vector-of-bool.github.io/favicon.ico",
-    "publisher": "vector-of-bool.github.io",
-    "description": "",
-    "by": "oumua_don17",
-    "points": 21,
-    "comment_count": 2,
-    "hn_item": {
-      "by": "pabs3",
-      "descendants": 79,
-      "id": 30134790,
-      "kids": [
-        30136363,
-        30135229,
-        30135546,
-        30135030,
-        30135150,
-        30136526,
-        30135112
-      ],
-      "score": 189,
-      "time": 1643526869,
-      "title": "One more small step toward the right to software repair",
-      "type": "story",
-      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
-    },
-    "og_item": {
-      "title": "DDS — dds 0.1.0-alpha.3 documentation",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30124569,
     "title": "Dennis Ritchie Home Page (2006)",
     "url": "https://www.bell-labs.com/usr/dmr/www/",
@@ -2082,7 +2016,7 @@
     "publisher": "bell-labs.com",
     "description": "",
     "by": "mehdix",
-    "points": 206,
+    "points": 207,
     "comment_count": 18,
     "hn_item": {
       "by": "pabs3",
@@ -2105,54 +2039,6 @@
     },
     "og_item": {
       "title": "Dennis Ritchie Home Page",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30141215,
-    "title": "Show HN: BeanHub – A GitHub for Beancount",
-    "url": "https://beanhub.io/",
-    "time": 1643577545,
-    "image": "",
-    "icon": "https://beanhub.io/favicon.ico",
-    "publisher": "beanhub.io",
-    "description": "",
-    "by": "fangpenlin",
-    "points": 6,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "pabs3",
-      "descendants": 79,
-      "id": 30134790,
-      "kids": [
-        30136363,
-        30135229,
-        30135546,
-        30135030,
-        30135150,
-        30136526,
-        30135112
-      ],
-      "score": 189,
-      "time": 1643526869,
-      "title": "One more small step toward the right to software repair",
-      "type": "story",
-      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
-    },
-    "og_item": {
-      "title": "\n    BeanHub\n    ",
       "type": "",
       "image": [],
       "url": "",
@@ -2235,7 +2121,7 @@
     "publisher": "sbcl.org",
     "description": "",
     "by": "susam",
-    "points": 86,
+    "points": 87,
     "comment_count": 5,
     "hn_item": {
       "by": "pabs3",
@@ -2258,6 +2144,54 @@
     },
     "og_item": {
       "title": "All News - Steel Bank Common Lisp",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30141215,
+    "title": "Show HN: BeanHub – A GitHub for Beancount",
+    "url": "https://beanhub.io/",
+    "time": 1643577545,
+    "image": "",
+    "icon": "https://beanhub.io/favicon.ico",
+    "publisher": "beanhub.io",
+    "description": "",
+    "by": "fangpenlin",
+    "points": 6,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
+      "kids": [
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
+      ],
+      "score": 189,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
+      "type": "story",
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
+    },
+    "og_item": {
+      "title": "\n    BeanHub\n    ",
       "type": "",
       "image": [],
       "url": "",
@@ -2305,54 +2239,6 @@
       "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
     },
     "og_item": null
-  },
-  {
-    "id": 30141380,
-    "title": "On literally working with COVID-19",
-    "url": "https://drlaurenserino.substack.com/p/on-literally-working-with-covid-19",
-    "time": 1643578644,
-    "image": "",
-    "icon": "https://cdn.substack.com/icons/substack/favicon-32x32.png",
-    "publisher": "drlaurenserino.substack.com",
-    "description": "Why are doctors being told to come to work while sick with COVID?",
-    "by": "Disgruntled_Doc",
-    "points": 9,
-    "comment_count": 2,
-    "hn_item": {
-      "by": "pabs3",
-      "descendants": 79,
-      "id": 30134790,
-      "kids": [
-        30136363,
-        30135229,
-        30135546,
-        30135030,
-        30135150,
-        30136526,
-        30135112
-      ],
-      "score": 189,
-      "time": 1643526869,
-      "title": "One more small step toward the right to software repair",
-      "type": "story",
-      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
-    },
-    "og_item": {
-      "title": "On literally working with COVID-19",
-      "type": "article",
-      "image": [],
-      "url": "https://drlaurenserino.substack.com/p/on-literally-working-with-covid-19",
-      "audio": [],
-      "description": "Why are doctors being told to come to work while sick with COVID?",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "https://cdn.substack.com/icons/substack/favicon-32x32.png"
-      }
-    }
   },
   {
     "id": 30111373,
@@ -2451,6 +2337,54 @@
     }
   },
   {
+    "id": 30141380,
+    "title": "On literally working with COVID-19",
+    "url": "https://drlaurenserino.substack.com/p/on-literally-working-with-covid-19",
+    "time": 1643578644,
+    "image": "",
+    "icon": "https://cdn.substack.com/icons/substack/favicon-32x32.png",
+    "publisher": "drlaurenserino.substack.com",
+    "description": "Why are doctors being told to come to work while sick with COVID?",
+    "by": "Disgruntled_Doc",
+    "points": 9,
+    "comment_count": 2,
+    "hn_item": {
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
+      "kids": [
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
+      ],
+      "score": 189,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
+      "type": "story",
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
+    },
+    "og_item": {
+      "title": "On literally working with COVID-19",
+      "type": "article",
+      "image": [],
+      "url": "https://drlaurenserino.substack.com/p/on-literally-working-with-covid-19",
+      "audio": [],
+      "description": "Why are doctors being told to come to work while sick with COVID?",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "https://cdn.substack.com/icons/substack/favicon-32x32.png"
+      }
+    }
+  },
+  {
     "id": 30140210,
     "title": "Why is Harvard astrophysicist Avi Loeb working with ardent UFO believers?",
     "url": "https://www.science.org/content/article/why-is-harvard-astrophysicist-working-with-ufo-buffs",
@@ -2497,54 +2431,6 @@
       "url": "https://www.science.org/content/article/why-is-harvard-astrophysicist-working-with-ufo-buffs",
       "audio": [],
       "description": "Avi Loeb’s Galileo Project will search for sky-prowling aliens, but some worry about the influence of pseudoscience",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30141266,
-    "title": "Rpilocator – Find a Raspberry Pi in Stock",
-    "url": "https://rpilocator.com",
-    "time": 1643577841,
-    "image": "",
-    "icon": "https://rpilocator.com/favicon.ico",
-    "publisher": "rpilocator.com",
-    "description": "Find Raspberry Pi computers in stock with this simple to use web application.",
-    "by": "geerlingguy",
-    "points": 4,
-    "comment_count": 1,
-    "hn_item": {
-      "by": "pabs3",
-      "descendants": 79,
-      "id": 30134790,
-      "kids": [
-        30136363,
-        30135229,
-        30135546,
-        30135030,
-        30135150,
-        30136526,
-        30135112
-      ],
-      "score": 189,
-      "time": 1643526869,
-      "title": "One more small step toward the right to software repair",
-      "type": "story",
-      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
-    },
-    "og_item": {
-      "title": "rpilocator",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "Find Raspberry Pi computers in stock with this simple to use web application.",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
@@ -2604,6 +2490,168 @@
     }
   },
   {
+    "id": 30141266,
+    "title": "Rpilocator – Find a Raspberry Pi in Stock",
+    "url": "https://rpilocator.com",
+    "time": 1643577841,
+    "image": "",
+    "icon": "https://rpilocator.com/favicon.ico",
+    "publisher": "rpilocator.com",
+    "description": "Find Raspberry Pi computers in stock with this simple to use web application.",
+    "by": "geerlingguy",
+    "points": 4,
+    "comment_count": 1,
+    "hn_item": {
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
+      "kids": [
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
+      ],
+      "score": 189,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
+      "type": "story",
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
+    },
+    "og_item": {
+      "title": "rpilocator",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "Find Raspberry Pi computers in stock with this simple to use web application.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30119285,
+    "title": "Devious SQL: Message Queuing Using Native PostgreSQL",
+    "url": "https://blog.crunchydata.com/blog/message-queuing-using-native-postgresql",
+    "time": 1643398437,
+    "image": "https://blog.crunchydata.com/hubfs/goose_march.png#keepProtocol",
+    "icon": "https://blog.crunchydata.com/hubfs/Flat%20Logo_Color%20Icon.png",
+    "publisher": "blog.crunchydata.com",
+    "description": "An interesting question came up on the #postgresql IRC channel about how to use native PostgreSQL features to handle some sort of queuing behavior. While the specific usage was related to handling serialization of specific events to some external broker, the specifics are less important than the …",
+    "by": "Scramblejams",
+    "points": 107,
+    "comment_count": 8,
+    "hn_item": {
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
+      "kids": [
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
+      ],
+      "score": 189,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
+      "type": "story",
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
+    },
+    "og_item": {
+      "title": "Devious SQL: Message Queuing Using Native PostgreSQL",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://blog.crunchydata.com/hubfs/goose_march.png#keepProtocol",
+          "secure_url": "",
+          "type": "",
+          "width": 523,
+          "height": 273,
+          "alt": ""
+        }
+      ],
+      "url": "https://blog.crunchydata.com/blog/message-queuing-using-native-postgresql",
+      "audio": [],
+      "description": "An interesting question came up on the #postgresql IRC channel about how to use native PostgreSQL features to handle some sort of queuing behavior. While the specific usage was related to handling serialization of specific events to some external broker, the specifics are less important than the overall structure.\n\n",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "https://blog.crunchydata.com/hubfs/Flat%20Logo_Color%20Icon.png"
+      }
+    }
+  },
+  {
+    "id": 30111033,
+    "title": "Toxic black mold is growing in my brain",
+    "url": "https://www.buzzfeednews.com/article/tysonbottenus/black-mold-growing-toxic-brain-vacation",
+    "time": 1643348571,
+    "image": "https://img.buzzfeed.com/buzzfeed-static/static/2022-01/27/14/enhanced/bed7df749335/original-1777-1643292826-2.jpg?crop=1200:628;0,0",
+    "icon": "https://www.buzzfeednews.com/static-assets/img/favicon.40f4055ea10bb11593f4c85d55164232.ico",
+    "publisher": "BuzzFeed News",
+    "description": "I went on a vacation. I came home with a mysterious fungus in my brain that is so rare only about 120 cases have been confirmed worldwide since its discovery in 1911.",
+    "by": "yellow_lead",
+    "points": 148,
+    "comment_count": 8,
+    "hn_item": {
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
+      "kids": [
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
+      ],
+      "score": 189,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
+      "type": "story",
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
+    },
+    "og_item": {
+      "title": "Toxic Black Mold Is Growing On My Brain",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2022-01/27/14/enhanced/bed7df749335/original-1777-1643292826-2.jpg?crop=1200:628;0,0",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://www.buzzfeednews.com/article/tysonbottenus/black-mold-growing-toxic-brain-vacation",
+      "audio": [],
+      "description": "I went on a vacation. I came home with a mysterious fungus in my brain that is so rare only about 120 cases have been confirmed worldwide since its discovery in 1911.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "BuzzFeed News",
+      "video": [],
+      "favicon": {
+        "url": "/static-assets/img/favicon.40f4055ea10bb11593f4c85d55164232.ico"
+      }
+    }
+  },
+  {
     "id": 30141205,
     "title": "The Promise of Hierarchical Reinforcement Learning (2019)",
     "url": "https://thegradient.pub/the-promise-of-hierarchical-reinforcement-learning/",
@@ -2657,63 +2705,6 @@
       "video": [],
       "favicon": {
         "url": "/favicon.png"
-      }
-    }
-  },
-  {
-    "id": 30129571,
-    "title": "How to avoid layout shifts caused by web fonts",
-    "url": "https://simonhearne.com/2021/layout-shifts-webfonts/",
-    "time": 1643484644,
-    "image": "https://simonhearne.com/images/layout-shifts-webfonts/layout-shifts-webfonts-hero.jpg",
-    "icon": "https://simonhearne.com/favicon-16x16.png",
-    "publisher": "Simon Hearne",
-    "description": "One of the biggest causes of layout shifts for my clients is late-loading web fonts, let's look at how to optimise them!",
-    "by": "joshbetz",
-    "points": 183,
-    "comment_count": 14,
-    "hn_item": {
-      "by": "pabs3",
-      "descendants": 79,
-      "id": 30134790,
-      "kids": [
-        30136363,
-        30135229,
-        30135546,
-        30135030,
-        30135150,
-        30136526,
-        30135112
-      ],
-      "score": 189,
-      "time": 1643526869,
-      "title": "One more small step toward the right to software repair",
-      "type": "story",
-      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
-    },
-    "og_item": {
-      "title": "How to avoid layout shifts caused by web fonts",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://simonhearne.com/images/layout-shifts-webfonts/layout-shifts-webfonts-hero.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://simonhearne.com/2021/layout-shifts-webfonts/",
-      "audio": [],
-      "description": "One of the biggest causes of layout shifts for my clients is late-loading web fonts, let's look at how to optimise them!",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Simon Hearne",
-      "video": [],
-      "favicon": {
-        "url": "/favicon-16x16.png"
       }
     }
   },
@@ -2937,6 +2928,54 @@
     }
   },
   {
+    "id": 30128627,
+    "title": "Tech debt gets worse before it gets better",
+    "url": "https://jeremymikkola.com/posts/2022_01_29_tech_debt_gets_worse_before_it_gets_beffer.html",
+    "time": 1643479251,
+    "image": "",
+    "icon": "https://jeremymikkola.com/favicon.ico",
+    "publisher": "jeremymikkola.com",
+    "description": "",
+    "by": "piinbinary",
+    "points": 124,
+    "comment_count": 12,
+    "hn_item": {
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
+      "kids": [
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
+      ],
+      "score": 189,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
+      "type": "story",
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
+    },
+    "og_item": {
+      "title": "Jeremy Mikkola - Tech debt gets worse before it gets better",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30139971,
     "title": "The UN is testing technology that processes data confidentially",
     "url": "https://www.economist.com/science-and-technology/the-un-is-testing-technology-that-processes-data-confidentially/21807385",
@@ -2994,54 +3033,6 @@
     }
   },
   {
-    "id": 30128627,
-    "title": "Tech debt gets worse before it gets better",
-    "url": "https://jeremymikkola.com/posts/2022_01_29_tech_debt_gets_worse_before_it_gets_beffer.html",
-    "time": 1643479251,
-    "image": "",
-    "icon": "https://jeremymikkola.com/favicon.ico",
-    "publisher": "jeremymikkola.com",
-    "description": "",
-    "by": "piinbinary",
-    "points": 124,
-    "comment_count": 12,
-    "hn_item": {
-      "by": "pabs3",
-      "descendants": 79,
-      "id": 30134790,
-      "kids": [
-        30136363,
-        30135229,
-        30135546,
-        30135030,
-        30135150,
-        30136526,
-        30135112
-      ],
-      "score": 189,
-      "time": 1643526869,
-      "title": "One more small step toward the right to software repair",
-      "type": "story",
-      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
-    },
-    "og_item": {
-      "title": "Jeremy Mikkola - Tech debt gets worse before it gets better",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30119748,
     "title": "In Defense of NIR",
     "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/",
@@ -3090,17 +3081,17 @@
     }
   },
   {
-    "id": 30140593,
-    "title": "Apple removes Grindr from the Chinese app store",
-    "url": "https://applecensorship.com/app-store-monitor/",
-    "time": 1643573198,
-    "image": "",
-    "icon": "https://i2.wp.com/applecensorship.com/wp-content/uploads/2020/12/cropped-fav.png?fit=192%2C192\u0026ssl=1",
-    "publisher": "applecensorship.com",
-    "description": "",
-    "by": "cryoz",
-    "points": 34,
-    "comment_count": 8,
+    "id": 30136479,
+    "title": "Socrates on the blessing of being refuted",
+    "url": "https://antigonejournal.com/2022/01/socrates-being-refuted/",
+    "time": 1643545027,
+    "image": "https://antigonejournal.com/wp-content/uploads/2022/01/HWDrops.png",
+    "icon": "https://i0.wp.com/antigonejournal.com/wp-content/uploads/2021/03/cropped-Ant.png?fit=192%2C192\u0026ssl=1",
+    "publisher": "Antigone",
+    "description": "ANDREW BEER The genuine pleasure of yielding to better arguments.",
+    "by": "AverilS",
+    "points": 12,
+    "comment_count": 0,
     "hn_item": {
       "by": "pabs3",
       "descendants": 79,
@@ -3121,19 +3112,28 @@
       "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
     },
     "og_item": {
-      "title": "App Store Monitor – Apple Censorship",
-      "type": "",
-      "image": [],
-      "url": "",
+      "title": "Socrates on the Blessing of Being Refuted - Antigone",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://antigonejournal.com/wp-content/uploads/2022/01/HWDrops.png",
+          "secure_url": "",
+          "type": "",
+          "width": 1049,
+          "height": 539,
+          "alt": ""
+        }
+      ],
+      "url": "https://antigonejournal.com/2022/01/socrates-being-refuted/",
       "audio": [],
-      "description": "",
+      "description": "ANDREW BEER The genuine pleasure of yielding to better arguments.",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "",
+      "site_name": "Antigone",
       "video": [],
       "favicon": {
-        "url": "https://i2.wp.com/applecensorship.com/wp-content/uploads/2020/12/cropped-fav.png?fit=192%2C192\u0026ssl=1"
+        "url": "https://i0.wp.com/antigonejournal.com/wp-content/uploads/2021/03/cropped-Ant.png?fit=192%2C192\u0026ssl=1"
       }
     }
   },
@@ -3147,7 +3147,7 @@
     "publisher": "old.reddit.com",
     "description": "",
     "by": "qwertyuiop_",
-    "points": 19,
+    "points": 20,
     "comment_count": 2,
     "hn_item": {
       "by": "pabs3",
@@ -3248,6 +3248,54 @@
       ],
       "favicon": {
         "url": "https://www.youtube.com/s/desktop/ca9cd554/img/favicon_144x144.png"
+      }
+    }
+  },
+  {
+    "id": 30140593,
+    "title": "Apple removes Grindr from the Chinese app store",
+    "url": "https://applecensorship.com/app-store-monitor/",
+    "time": 1643573198,
+    "image": "",
+    "icon": "https://i2.wp.com/applecensorship.com/wp-content/uploads/2020/12/cropped-fav.png?fit=192%2C192\u0026ssl=1",
+    "publisher": "applecensorship.com",
+    "description": "",
+    "by": "cryoz",
+    "points": 35,
+    "comment_count": 9,
+    "hn_item": {
+      "by": "pabs3",
+      "descendants": 79,
+      "id": 30134790,
+      "kids": [
+        30136363,
+        30135229,
+        30135546,
+        30135030,
+        30135150,
+        30136526,
+        30135112
+      ],
+      "score": 189,
+      "time": 1643526869,
+      "title": "One more small step toward the right to software repair",
+      "type": "story",
+      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
+    },
+    "og_item": {
+      "title": "App Store Monitor – Apple Censorship",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "https://i2.wp.com/applecensorship.com/wp-content/uploads/2020/12/cropped-fav.png?fit=192%2C192\u0026ssl=1"
       }
     }
   },
@@ -3405,63 +3453,6 @@
     }
   },
   {
-    "id": 30136479,
-    "title": "Socrates on the blessing of being refuted",
-    "url": "https://antigonejournal.com/2022/01/socrates-being-refuted/",
-    "time": 1643545027,
-    "image": "https://antigonejournal.com/wp-content/uploads/2022/01/HWDrops.png",
-    "icon": "https://i0.wp.com/antigonejournal.com/wp-content/uploads/2021/03/cropped-Ant.png?fit=192%2C192\u0026ssl=1",
-    "publisher": "Antigone",
-    "description": "ANDREW BEER The genuine pleasure of yielding to better arguments.",
-    "by": "AverilS",
-    "points": 11,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "pabs3",
-      "descendants": 79,
-      "id": 30134790,
-      "kids": [
-        30136363,
-        30135229,
-        30135546,
-        30135030,
-        30135150,
-        30136526,
-        30135112
-      ],
-      "score": 189,
-      "time": 1643526869,
-      "title": "One more small step toward the right to software repair",
-      "type": "story",
-      "url": "https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/"
-    },
-    "og_item": {
-      "title": "Socrates on the Blessing of Being Refuted - Antigone",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://antigonejournal.com/wp-content/uploads/2022/01/HWDrops.png",
-          "secure_url": "",
-          "type": "",
-          "width": 1049,
-          "height": 539,
-          "alt": ""
-        }
-      ],
-      "url": "https://antigonejournal.com/2022/01/socrates-being-refuted/",
-      "audio": [],
-      "description": "ANDREW BEER The genuine pleasure of yielding to better arguments.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Antigone",
-      "video": [],
-      "favicon": {
-        "url": "https://i0.wp.com/antigonejournal.com/wp-content/uploads/2021/03/cropped-Ant.png?fit=192%2C192\u0026ssl=1"
-      }
-    }
-  },
-  {
     "id": 30140641,
     "title": "Mistakes I've Made Building a Music Reactive LED Matrix",
     "url": "https://aradaelli.com/blog/music-reactive-led-matrix/",
@@ -3514,7 +3505,7 @@
     "title": "QRImage: Web app to generate QR codes with images",
     "url": "https://github.com/HughChen/qr_image",
     "time": 1643565111,
-    "image": "https://opengraph.githubassets.com/7254beb71b7c74898a4ed3a26d390db961d31a6003bd70bf2b702160cdf03c5b/HughChen/qr_image",
+    "image": "https://opengraph.githubassets.com/f0f9bb985f4a7a4b1136bc06272b06edab2cb47b97cc6ef7fa2ce43b89823e80/HughChen/qr_image",
     "icon": "https://github.githubassets.com/favicons/favicon.svg",
     "publisher": "GitHub",
     "description": "A web app to generate valid QR codes with readable images. - GitHub - HughChen/qr_image: A web app to generate valid QR codes with readable images.",
@@ -3545,7 +3536,7 @@
       "type": "object",
       "image": [
         {
-          "url": "https://opengraph.githubassets.com/7254beb71b7c74898a4ed3a26d390db961d31a6003bd70bf2b702160cdf03c5b/HughChen/qr_image",
+          "url": "https://opengraph.githubassets.com/f0f9bb985f4a7a4b1136bc06272b06edab2cb47b97cc6ef7fa2ce43b89823e80/HughChen/qr_image",
           "secure_url": "",
           "type": "",
           "width": 1200,
