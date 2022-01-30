@@ -74,7 +74,7 @@ func GetTopStories(numStories int) (items []Item, err error) {
 		correctData(&item)
 		items = append(items, item)
 
-		fmt.Printf(" %9d  %-20s  %s\n", item.ID, item.Publisher, item.Title)
+		fmt.Printf(" %9d  %-30s  %s\n", item.ID, item.Publisher, item.Title)
 	}
 	return
 }
@@ -166,9 +166,13 @@ func correctData(item *Item) {
 		item.Publisher = strings.TrimSpace(item.Publisher[:i-1])
 	}
 
-	// crop description at 250 characters
-	if len(item.Description) > 250 {
-		item.Description = item.Description[:247] + "..."
+	if len(item.Publisher) > 32 {
+		item.Publisher = item.Publisher[:29] + "…"
+	}
+
+	// crop description at 300 characters
+	if len(item.Description) > 300 {
+		item.Description = item.Description[:297] + "…"
 	}
 
 	// unset bad descriptions
