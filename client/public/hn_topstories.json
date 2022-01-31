@@ -4,16 +4,16 @@
     "title": "Boyfriend Alert",
     "url": "https://github.com/jscd/Boyfriend-Alert",
     "time": 1643619852,
-    "image": "https://opengraph.githubassets.com/933521682aa7f03e0761ec316d6c85cbffcb51650dd8952ef7fd4975726b0129/jscd/Boyfriend-Alert",
+    "image": "https://opengraph.githubassets.com/ab456ff1d844d8f2a5d49a3203fd3a57a78f788d3c55c0c2f586b0c88c498c7c/jscd/Boyfriend-Alert",
     "icon": "https://github.githubassets.com/favicons/favicon.svg",
     "publisher": "GitHub",
     "description": "A light based alert system. Contribute to jscd/Boyfriend-Alert development by creating an account on GitHub.",
     "by": "rgun",
-    "points": 118,
+    "points": 131,
     "comment_count": 25,
     "hn_item": {
       "by": "lowleveldesign",
-      "descendants": 60,
+      "descendants": 62,
       "id": 30128048,
       "kids": [
         30141402,
@@ -41,7 +41,7 @@
       "type": "object",
       "image": [
         {
-          "url": "https://opengraph.githubassets.com/933521682aa7f03e0761ec316d6c85cbffcb51650dd8952ef7fd4975726b0129/jscd/Boyfriend-Alert",
+          "url": "https://opengraph.githubassets.com/ab456ff1d844d8f2a5d49a3203fd3a57a78f788d3c55c0c2f586b0c88c498c7c/jscd/Boyfriend-Alert",
           "secure_url": "",
           "type": "",
           "width": 1200,
@@ -72,11 +72,11 @@
     "publisher": "two-wrongs.com",
     "description": "",
     "by": "Tomte",
-    "points": 84,
+    "points": 88,
     "comment_count": 5,
     "hn_item": {
       "by": "lowleveldesign",
-      "descendants": 60,
+      "descendants": 62,
       "id": 30128048,
       "kids": [
         30141402,
@@ -117,6 +117,60 @@
     }
   },
   {
+    "id": 30144652,
+    "title": "Zero-copy network transmission with io_uring (2021)",
+    "url": "https://lwn.net/Articles/879724/",
+    "time": 1643605041,
+    "image": "",
+    "icon": "https://static.lwn.net/images/favicon.png",
+    "publisher": "lwn.net",
+    "description": "",
+    "by": "pabs3",
+    "points": 162,
+    "comment_count": 5,
+    "hn_item": {
+      "by": "lowleveldesign",
+      "descendants": 62,
+      "id": 30128048,
+      "kids": [
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30144489,
+        30145419,
+        30140903,
+        30140096
+      ],
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
+      "type": "story",
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
+    },
+    "og_item": {
+      "title": "Zero-copy network transmission with io_uring [LWN.net]",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "https://static.lwn.net/images/favicon.png"
+      }
+    }
+  },
+  {
     "id": 30144805,
     "title": "Examples of common false beliefs in mathematics",
     "url": "https://mathoverflow.net/questions/23478/examples-of-common-false-beliefs-in-mathematics",
@@ -126,11 +180,11 @@
     "publisher": "MathOverflow",
     "description": "The first thing to say is that this is not the same as the question about interesting mathematical mistakes. I am interested about the type of false beliefs that many intelligent people have while ...",
     "by": "gballan",
-    "points": 145,
+    "points": 146,
     "comment_count": 10,
     "hn_item": {
       "by": "lowleveldesign",
-      "descendants": 60,
+      "descendants": 62,
       "id": 30128048,
       "kids": [
         30141402,
@@ -180,60 +234,6 @@
     }
   },
   {
-    "id": 30144652,
-    "title": "Zero-copy network transmission with io_uring (2021)",
-    "url": "https://lwn.net/Articles/879724/",
-    "time": 1643605041,
-    "image": "",
-    "icon": "https://static.lwn.net/images/favicon.png",
-    "publisher": "lwn.net",
-    "description": "",
-    "by": "pabs3",
-    "points": 160,
-    "comment_count": 5,
-    "hn_item": {
-      "by": "lowleveldesign",
-      "descendants": 60,
-      "id": 30128048,
-      "kids": [
-        30141402,
-        30141034,
-        30141162,
-        30140452,
-        30141094,
-        30143338,
-        30144500,
-        30144278,
-        30144460,
-        30144489,
-        30145419,
-        30140903,
-        30140096
-      ],
-      "score": 82,
-      "time": 1643476281,
-      "title": "COM+ Revisited",
-      "type": "story",
-      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
-    },
-    "og_item": {
-      "title": "Zero-copy network transmission with io_uring [LWN.net]",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "https://static.lwn.net/images/favicon.png"
-      }
-    }
-  },
-  {
     "id": 30124457,
     "title": "Chip shortages due to lack of investment in right fabs",
     "url": "https://www.theregister.com/2022/01/28/idc_chip_shortages/",
@@ -243,11 +243,11 @@
     "publisher": "theregister.com",
     "description": "",
     "by": "laktak",
-    "points": 136,
+    "points": 144,
     "comment_count": 10,
     "hn_item": {
       "by": "lowleveldesign",
-      "descendants": 60,
+      "descendants": 62,
       "id": 30128048,
       "kids": [
         30141402,
@@ -288,351 +288,6 @@
     }
   },
   {
-    "id": 30114822,
-    "title": "Async Rust: Panics vs. Cancellation",
-    "url": "https://smallcultfollowing.com/babysteps//blog/2022/01/27/panics-vs-cancellation-part-1/",
-    "time": 1643379403,
-    "image": "",
-    "icon": "https://smallcultfollowing.com/favicon.ico",
-    "publisher": "smallcultfollowing.com",
-    "description": "",
-    "by": "ingve",
-    "points": 60,
-    "comment_count": 4,
-    "hn_item": {
-      "by": "lowleveldesign",
-      "descendants": 60,
-      "id": 30128048,
-      "kids": [
-        30141402,
-        30141034,
-        30141162,
-        30140452,
-        30141094,
-        30143338,
-        30144500,
-        30144278,
-        30144460,
-        30144489,
-        30145419,
-        30140903,
-        30140096
-      ],
-      "score": 82,
-      "time": 1643476281,
-      "title": "COM+ Revisited",
-      "type": "story",
-      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
-    },
-    "og_item": {
-      "title": "Baby Steps",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30144021,
-    "title": "How I Discovered Thousands of Open Databases on AWS",
-    "url": "https://infosecwriteups.com/how-i-discovered-thousands-of-open-databases-on-aws-764729aa7f32?gi=ba781482d685",
-    "time": 1643598347,
-    "image": "https://miro.medium.com/max/1200/1*NxOo3DS3ZzyWxGvxSwIqyw.png",
-    "icon": "https://miro.medium.com/fit/c/256/256/1*vkqyAEGdZQZNbQp1AswznQ.png",
-    "publisher": "Medium",
-    "description": "My journey on finding and reporting databases with sensitive data about Fortune-500 companies, Hospitals, Crypto platforms, Startups during…",
-    "by": "boyter",
-    "points": 199,
-    "comment_count": 14,
-    "hn_item": {
-      "by": "lowleveldesign",
-      "descendants": 60,
-      "id": 30128048,
-      "kids": [
-        30141402,
-        30141034,
-        30141162,
-        30140452,
-        30141094,
-        30143338,
-        30144500,
-        30144278,
-        30144460,
-        30144489,
-        30145419,
-        30140903,
-        30140096
-      ],
-      "score": 82,
-      "time": 1643476281,
-      "title": "COM+ Revisited",
-      "type": "story",
-      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
-    },
-    "og_item": {
-      "title": "How I Discovered Thousands of Open Databases on AWS",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://miro.medium.com/max/1200/1*NxOo3DS3ZzyWxGvxSwIqyw.png",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://infosecwriteups.com/how-i-discovered-thousands-of-open-databases-on-aws-764729aa7f32",
-      "audio": [],
-      "description": "My journey on finding and reporting databases with sensitive data about Fortune-500 companies, Hospitals, Crypto platforms, Startups during…",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Medium",
-      "video": [],
-      "favicon": {
-        "url": "https://miro.medium.com/fit/c/256/256/1*vkqyAEGdZQZNbQp1AswznQ.png"
-      }
-    }
-  },
-  {
-    "id": 30124927,
-    "title": "Hiring for Conscientiousness",
-    "url": "https://www.holloway.com/s/trh-hiring-for-conscientiousness",
-    "time": 1643447066,
-    "image": "https://assets.holloway.com/editorial/images/holloway_will_skill_complete.png",
-    "icon": "https://www.holloway.com/static/favicons/icon-default-32x32-62ab2f6444.png",
-    "publisher": "Holloway",
-    "description": "Why startups should hire conscientious people—and how to find them",
-    "by": "rognjen",
-    "points": 10,
-    "comment_count": 1,
-    "hn_item": {
-      "by": "lowleveldesign",
-      "descendants": 60,
-      "id": 30128048,
-      "kids": [
-        30141402,
-        30141034,
-        30141162,
-        30140452,
-        30141094,
-        30143338,
-        30144500,
-        30144278,
-        30144460,
-        30144489,
-        30145419,
-        30140903,
-        30140096
-      ],
-      "score": 82,
-      "time": 1643476281,
-      "title": "COM+ Revisited",
-      "type": "story",
-      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
-    },
-    "og_item": {
-      "title": "Hiring for Conscientiousness — Holloway",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://assets.holloway.com/editorial/images/holloway_will_skill_complete.png",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://www.holloway.com/s/trh-hiring-for-conscientiousness",
-      "audio": [],
-      "description": "Why startups should hire conscientious people—and how to find them",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Holloway",
-      "video": [],
-      "favicon": {
-        "url": "https://www.holloway.com/static/favicons/icon-default-32x32-62ab2f6444.png"
-      }
-    }
-  },
-  {
-    "id": 30147052,
-    "title": "Convictional (YC W19) is hiring engineers to build the future of B2B trade Remote",
-    "url": "https://jobs.ashbyhq.com/convictional/91fa08f9-0850-4429-9000-19c1f5fe9ef3",
-    "time": 1643630467,
-    "image": "https://app.ashbyhq.com/api/images/org-theme-social/5e819c8e-a931-414f-84ae-c579d7d7ea47/376a64d4-3d4f-4f8b-bd99-41a684e11dff.png",
-    "icon": "https://cdn.ashbyprd.com/cdn_assets/59ceb46c57844decfb8e06e7d162ea66129b347e/favicon.png",
-    "publisher": "jobs.ashbyhq.com",
-    "description": "We’re Convictional. We are building a modern B2B trade network. \n\n \n\nEach year, trillions of dollars worth of B2B trade is transacted using Electronic Data Interchange (EDI). EDI is difficult for modern businesses to work with. Convictional is changing that. \n\n \n\nOur Supplier Enablement Pla…",
-    "by": "rogerkirkness",
-    "points": 1,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "lowleveldesign",
-      "descendants": 60,
-      "id": 30128048,
-      "kids": [
-        30141402,
-        30141034,
-        30141162,
-        30140452,
-        30141094,
-        30143338,
-        30144500,
-        30144278,
-        30144460,
-        30144489,
-        30145419,
-        30140903,
-        30140096
-      ],
-      "score": 82,
-      "time": 1643476281,
-      "title": "COM+ Revisited",
-      "type": "story",
-      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
-    },
-    "og_item": {
-      "title": "Software Engineer",
-      "type": "website",
-      "image": [
-        {
-          "url": "https://app.ashbyhq.com/api/images/org-theme-social/5e819c8e-a931-414f-84ae-c579d7d7ea47/376a64d4-3d4f-4f8b-bd99-41a684e11dff.png",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://jobs.ashbyhq.com/convictional/91fa08f9-0850-4429-9000-19c1f5fe9ef3",
-      "audio": [],
-      "description": "We’re Convictional. We are building a modern B2B trade network. \n\n \n\nEach year, trillions of dollars worth of B2B trade is transacted using Electronic Data Interchange (EDI). EDI is difficult for modern businesses to work with. Convictional is changing that. \n\n \n\nOur Supplier Enablement Platform enables retailers and marketplaces to onboard, integrate, and transact with all of their suppliers. Convictional's API-driven infrastructure is used by large retailers like Staples, Indigo, Harry Rosen, and brands like Caraway and Detox Market. We recently raised a Series A financing to scale our impact to even more companies.\n\n \n\nConvictional's platform is informed by thousands of hours of customer consultation and a deep appreciation for both the buyer and seller perspectives. We are continuing to learn about the massive value to be unlocked from all types of B2B trade, including marketplace, dropship and wholesale. We’re aiming at theoretical maximums, not feature-completeness, and intend to bring as many businesses along with us as we can.\n\n \n\nTaking a new approach to an old problem is nothing special. Our team, and how we engage with each other, is. We are proud to be building a home for kind nerds who want to impact global trade. Our team is strengthened when we take a learning-first approach and seek out opportunities to debate the best customer-focused solutions. We value self-awareness and feel compelled to fully explore the hard questions. \n\n \n\nWe are a fully distributed team with people located across Canada and the US. We encourage you to design your work schedule and environment so they’re optimal for you. We use email, not Slack. We default to no internal meetings and Deep Work Wednesdays. We expect you to go to coaching or therapy at least occasionally and adhere to 10% compound time. https://medium.com/accelerated-intelligence/why-successful-people-spend-10-hours-a-week-on-compound-time-79d64d8132a8\n\n \n\nWe are inspired every day by the opportunity to pioneer infrastructure that will move trillions of dollars worth of B2B trade. We welcome those who want to join us.\n\n\n\n\nAbout the role\nConvictional is looking to hire Software Engineers at various levels of seniority.\n\nIf you can develop and maintain features, enjoy challenges of reliability and scalability, and can be effective cross-functionally to deliver on commitments to customers, this is probably a good fit. If you like free beer, standups, and active management, this is not a good fit.\n\n\nOur engineers are systems thinkers and futurists who see opportunity everywhere. They are conscientious but still revel in taking intelligent risks. They are proficient in something other than engineering (e.g. technical writing, solutioning, product marketing) and have demonstrated commitment to learning and self-awareness.\n\n\n\nOur software engineers are working on EDI translation, API development, product-native onboarding, and building out our feature set. All engineers contribute to support interactions.\n\n\n\nExperience\nAs long as you have at least 2 years of professional experience as a software engineer (not including co-ops), we really don’t care how you’ve amassed it. You definitely don’t need to have a degree - our CEO barely finished high school - though we’ve found systems engineers tend to have an outsized impact. If you can write high quality code aimed at business users, we want to talk to you.\n\n\n\nDisclaimer\nIf this doesn’t sound like you, but you believe you have something to contribute, tell us why in an email. We will read it, and we will reply to you with thoughtful feedback about whether or not you may be a good fit for us.\n\nDrop us a line or share your resume at jobs@convictional.com.\n\n",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "https://cdn.ashbyprd.com/cdn_assets/59ceb46c57844decfb8e06e7d162ea66129b347e/favicon.png"
-      }
-    }
-  },
-  {
-    "id": 30145237,
-    "title": "Generate Static Sites from Markdown Files with Caddy",
-    "url": "https://blog.thomaspuppe.de/static-sites-from-markdown-with-caddy-server",
-    "time": 1643611196,
-    "image": "",
-    "icon": "",
-    "publisher": "blog.thomaspuppe.de",
-    "description": "",
-    "by": "indigodaddy",
-    "points": 66,
-    "comment_count": 10,
-    "hn_item": {
-      "by": "lowleveldesign",
-      "descendants": 60,
-      "id": 30128048,
-      "kids": [
-        30141402,
-        30141034,
-        30141162,
-        30140452,
-        30141094,
-        30143338,
-        30144500,
-        30144278,
-        30144460,
-        30144489,
-        30145419,
-        30140903,
-        30140096
-      ],
-      "score": 82,
-      "time": 1643476281,
-      "title": "COM+ Revisited",
-      "type": "story",
-      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
-    },
-    "og_item": null
-  },
-  {
-    "id": 30131926,
-    "title": "What is the inverse of a circle?",
-    "url": "https://mattferraro.dev/posts/inverse-of-a-circle",
-    "time": 1643500427,
-    "image": "https://www.mattferraro.dev/images/inverse-of-a-circle/circle_inverse.png",
-    "icon": "https://mattferraro.dev/favicon.ico",
-    "publisher": "mattferraro.dev",
-    "description": "What does it mean to invert a shape?",
-    "by": "mferraro89",
-    "points": 129,
-    "comment_count": 12,
-    "hn_item": {
-      "by": "lowleveldesign",
-      "descendants": 60,
-      "id": 30128048,
-      "kids": [
-        30141402,
-        30141034,
-        30141162,
-        30140452,
-        30141094,
-        30143338,
-        30144500,
-        30144278,
-        30144460,
-        30144489,
-        30145419,
-        30140903,
-        30140096
-      ],
-      "score": 82,
-      "time": 1643476281,
-      "title": "COM+ Revisited",
-      "type": "story",
-      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
-    },
-    "og_item": {
-      "title": "What is the Inverse of a Circle?",
-      "type": "",
-      "image": [
-        {
-          "url": "https://www.mattferraro.dev/images/inverse-of-a-circle/circle_inverse.png",
-          "secure_url": "",
-          "type": "",
-          "width": 1200,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "",
-      "audio": [],
-      "description": "What does it mean to invert a shape?",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30147507,
     "title": "VT100 Machine Emulator in JavaScript",
     "url": "https://www.pcjs.org/machines/dec/vt100/",
@@ -642,11 +297,11 @@
     "publisher": "pcjs.org",
     "description": "Home of the original IBM PC emulator for browsers. PCjs offers a variety of online machine emulators written in JavaScript. Run DOS, Windows, OS/2 and other vintage PC applications in a web browser on your desktop computer, iPhone, or iPad. An assortment of microcomputers, minicomputers, terminal…",
     "by": "DiabloD3",
-    "points": 3,
-    "comment_count": 0,
+    "points": 6,
+    "comment_count": 1,
     "hn_item": {
       "by": "lowleveldesign",
-      "descendants": 60,
+      "descendants": 62,
       "id": 30128048,
       "kids": [
         30141402,
@@ -696,20 +351,20 @@
     }
   },
   {
-    "id": 30146843,
-    "title": "1k-cycle lithium-sulfur battery could quintuple electric vehicle ranges",
-    "url": "https://news.umich.edu/1000-cycle-lithium-sulfur-battery-could-quintuple-electric-vehicle-ranges/",
-    "time": 1643628054,
-    "image": "https://news.umich.edu/wp-content/uploads/mc-image-cache/2022/01/1000-cycle-lithium-sulfur-battery-could-quintuple-electric-vehicle-ranges-LiS-Battery-Diagram.jpg",
-    "icon": "https://news.umich.edu/favicon.ico",
-    "publisher": "University of Michigan News",
-    "description": "A new biologically inspired battery membrane has enabled a battery with five times the capacity of the industry-standard lithium ion design to run for the thousand-plus cycles needed to power an electric car.\n\nA network of aramid nanofibers, recycled from Kevlar, can enable lithium-sulfur batterie",
-    "by": "maeln",
-    "points": 42,
-    "comment_count": 10,
+    "id": 30114822,
+    "title": "Async Rust: Panics vs. Cancellation",
+    "url": "https://smallcultfollowing.com/babysteps//blog/2022/01/27/panics-vs-cancellation-part-1/",
+    "time": 1643379403,
+    "image": "",
+    "icon": "https://smallcultfollowing.com/favicon.ico",
+    "publisher": "smallcultfollowing.com",
+    "description": "",
+    "by": "ingve",
+    "points": 62,
+    "comment_count": 4,
     "hn_item": {
       "by": "lowleveldesign",
-      "descendants": 60,
+      "descendants": 62,
       "id": 30128048,
       "kids": [
         30141402,
@@ -733,11 +388,65 @@
       "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
     },
     "og_item": {
-      "title": "1,000-cycle lithium-sulfur battery could quintuple electric vehicle ranges",
+      "title": "Baby Steps",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30124927,
+    "title": "Hiring for Conscientiousness (2019)",
+    "url": "https://www.holloway.com/s/trh-hiring-for-conscientiousness",
+    "time": 1643447066,
+    "image": "https://assets.holloway.com/editorial/images/holloway_will_skill_complete.png",
+    "icon": "https://www.holloway.com/static/favicons/icon-default-32x32-62ab2f6444.png",
+    "publisher": "Holloway",
+    "description": "Why startups should hire conscientious people—and how to find them",
+    "by": "rognjen",
+    "points": 11,
+    "comment_count": 1,
+    "hn_item": {
+      "by": "lowleveldesign",
+      "descendants": 62,
+      "id": 30128048,
+      "kids": [
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30144489,
+        30145419,
+        30140903,
+        30140096
+      ],
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
+      "type": "story",
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
+    },
+    "og_item": {
+      "title": "Hiring for Conscientiousness — Holloway",
       "type": "article",
       "image": [
         {
-          "url": "https://news.umich.edu/wp-content/uploads/mc-image-cache/2022/01/1000-cycle-lithium-sulfur-battery-could-quintuple-electric-vehicle-ranges-LiS-Battery-Diagram.jpg",
+          "url": "https://assets.holloway.com/editorial/images/holloway_will_skill_complete.png",
           "secure_url": "",
           "type": "",
           "width": 0,
@@ -745,16 +454,298 @@
           "alt": ""
         }
       ],
-      "url": "https://news.umich.edu/1000-cycle-lithium-sulfur-battery-could-quintuple-electric-vehicle-ranges/",
+      "url": "https://www.holloway.com/s/trh-hiring-for-conscientiousness",
       "audio": [],
-      "description": "A new biologically inspired battery membrane has enabled a battery with five times the capacity of the industry-standard lithium ion design to run for the thousand-plus cycles needed to power an electric car.\n\nA network of aramid nanofibers, recycled from Kevlar, can enable lithium-sulfur batterie",
+      "description": "Why startups should hire conscientious people—and how to find them",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "University of Michigan News",
+      "site_name": "Holloway",
+      "video": [],
+      "favicon": {
+        "url": "https://www.holloway.com/static/favicons/icon-default-32x32-62ab2f6444.png"
+      }
+    }
+  },
+  {
+    "id": 30144021,
+    "title": "How I Discovered Thousands of Open Databases on AWS",
+    "url": "https://infosecwriteups.com/how-i-discovered-thousands-of-open-databases-on-aws-764729aa7f32?gi=ba781482d685",
+    "time": 1643598347,
+    "image": "https://miro.medium.com/max/1200/1*NxOo3DS3ZzyWxGvxSwIqyw.png",
+    "icon": "https://miro.medium.com/fit/c/256/256/1*vkqyAEGdZQZNbQp1AswznQ.png",
+    "publisher": "Medium",
+    "description": "My journey on finding and reporting databases with sensitive data about Fortune-500 companies, Hospitals, Crypto platforms, Startups during…",
+    "by": "boyter",
+    "points": 201,
+    "comment_count": 14,
+    "hn_item": {
+      "by": "lowleveldesign",
+      "descendants": 62,
+      "id": 30128048,
+      "kids": [
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30144489,
+        30145419,
+        30140903,
+        30140096
+      ],
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
+      "type": "story",
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
+    },
+    "og_item": {
+      "title": "How I Discovered Thousands of Open Databases on AWS",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://miro.medium.com/max/1200/1*NxOo3DS3ZzyWxGvxSwIqyw.png",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://infosecwriteups.com/how-i-discovered-thousands-of-open-databases-on-aws-764729aa7f32",
+      "audio": [],
+      "description": "My journey on finding and reporting databases with sensitive data about Fortune-500 companies, Hospitals, Crypto platforms, Startups during…",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Medium",
+      "video": [],
+      "favicon": {
+        "url": "https://miro.medium.com/fit/c/256/256/1*vkqyAEGdZQZNbQp1AswznQ.png"
+      }
+    }
+  },
+  {
+    "id": 30147052,
+    "title": "Convictional (YC W19) is hiring engineers to build the future of B2B trade Remote",
+    "url": "https://jobs.ashbyhq.com/convictional/91fa08f9-0850-4429-9000-19c1f5fe9ef3",
+    "time": 1643630467,
+    "image": "https://app.ashbyhq.com/api/images/org-theme-social/5e819c8e-a931-414f-84ae-c579d7d7ea47/376a64d4-3d4f-4f8b-bd99-41a684e11dff.png",
+    "icon": "https://cdn.ashbyprd.com/cdn_assets/59ceb46c57844decfb8e06e7d162ea66129b347e/favicon.png",
+    "publisher": "jobs.ashbyhq.com",
+    "description": "We’re Convictional. We are building a modern B2B trade network. \n\n \n\nEach year, trillions of dollars worth of B2B trade is transacted using Electronic Data Interchange (EDI). EDI is difficult for modern businesses to work with. Convictional is changing that. \n\n \n\nOur Supplier Enablement Pla…",
+    "by": "rogerkirkness",
+    "points": 1,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "lowleveldesign",
+      "descendants": 62,
+      "id": 30128048,
+      "kids": [
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30144489,
+        30145419,
+        30140903,
+        30140096
+      ],
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
+      "type": "story",
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
+    },
+    "og_item": {
+      "title": "Software Engineer",
+      "type": "website",
+      "image": [
+        {
+          "url": "https://app.ashbyhq.com/api/images/org-theme-social/5e819c8e-a931-414f-84ae-c579d7d7ea47/376a64d4-3d4f-4f8b-bd99-41a684e11dff.png",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://jobs.ashbyhq.com/convictional/91fa08f9-0850-4429-9000-19c1f5fe9ef3",
+      "audio": [],
+      "description": "We’re Convictional. We are building a modern B2B trade network. \n\n \n\nEach year, trillions of dollars worth of B2B trade is transacted using Electronic Data Interchange (EDI). EDI is difficult for modern businesses to work with. Convictional is changing that. \n\n \n\nOur Supplier Enablement Platform enables retailers and marketplaces to onboard, integrate, and transact with all of their suppliers. Convictional's API-driven infrastructure is used by large retailers like Staples, Indigo, Harry Rosen, and brands like Caraway and Detox Market. We recently raised a Series A financing to scale our impact to even more companies.\n\n \n\nConvictional's platform is informed by thousands of hours of customer consultation and a deep appreciation for both the buyer and seller perspectives. We are continuing to learn about the massive value to be unlocked from all types of B2B trade, including marketplace, dropship and wholesale. We’re aiming at theoretical maximums, not feature-completeness, and intend to bring as many businesses along with us as we can.\n\n \n\nTaking a new approach to an old problem is nothing special. Our team, and how we engage with each other, is. We are proud to be building a home for kind nerds who want to impact global trade. Our team is strengthened when we take a learning-first approach and seek out opportunities to debate the best customer-focused solutions. We value self-awareness and feel compelled to fully explore the hard questions. \n\n \n\nWe are a fully distributed team with people located across Canada and the US. We encourage you to design your work schedule and environment so they’re optimal for you. We use email, not Slack. We default to no internal meetings and Deep Work Wednesdays. We expect you to go to coaching or therapy at least occasionally and adhere to 10% compound time. https://medium.com/accelerated-intelligence/why-successful-people-spend-10-hours-a-week-on-compound-time-79d64d8132a8\n\n \n\nWe are inspired every day by the opportunity to pioneer infrastructure that will move trillions of dollars worth of B2B trade. We welcome those who want to join us.\n\n\n\n\nAbout the role\nConvictional is looking to hire Software Engineers at various levels of seniority.\n\nIf you can develop and maintain features, enjoy challenges of reliability and scalability, and can be effective cross-functionally to deliver on commitments to customers, this is probably a good fit. If you like free beer, standups, and active management, this is not a good fit.\n\n\nOur engineers are systems thinkers and futurists who see opportunity everywhere. They are conscientious but still revel in taking intelligent risks. They are proficient in something other than engineering (e.g. technical writing, solutioning, product marketing) and have demonstrated commitment to learning and self-awareness.\n\n\n\nOur software engineers are working on EDI translation, API development, product-native onboarding, and building out our feature set. All engineers contribute to support interactions.\n\n\n\nExperience\nAs long as you have at least 2 years of professional experience as a software engineer (not including co-ops), we really don’t care how you’ve amassed it. You definitely don’t need to have a degree - our CEO barely finished high school - though we’ve found systems engineers tend to have an outsized impact. If you can write high quality code aimed at business users, we want to talk to you.\n\n\n\nDisclaimer\nIf this doesn’t sound like you, but you believe you have something to contribute, tell us why in an email. We will read it, and we will reply to you with thoughtful feedback about whether or not you may be a good fit for us.\n\nDrop us a line or share your resume at jobs@convictional.com.\n\n",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "https://cdn.ashbyprd.com/cdn_assets/59ceb46c57844decfb8e06e7d162ea66129b347e/favicon.png"
+      }
+    }
+  },
+  {
+    "id": 30131926,
+    "title": "What is the inverse of a circle?",
+    "url": "https://mattferraro.dev/posts/inverse-of-a-circle",
+    "time": 1643500427,
+    "image": "https://www.mattferraro.dev/images/inverse-of-a-circle/circle_inverse.png",
+    "icon": "https://mattferraro.dev/favicon.ico",
+    "publisher": "mattferraro.dev",
+    "description": "What does it mean to invert a shape?",
+    "by": "mferraro89",
+    "points": 133,
+    "comment_count": 13,
+    "hn_item": {
+      "by": "lowleveldesign",
+      "descendants": 62,
+      "id": 30128048,
+      "kids": [
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30144489,
+        30145419,
+        30140903,
+        30140096
+      ],
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
+      "type": "story",
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
+    },
+    "og_item": {
+      "title": "What is the Inverse of a Circle?",
+      "type": "",
+      "image": [
+        {
+          "url": "https://www.mattferraro.dev/images/inverse-of-a-circle/circle_inverse.png",
+          "secure_url": "",
+          "type": "",
+          "width": 1200,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "",
+      "audio": [],
+      "description": "What does it mean to invert a shape?",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
       "video": [],
       "favicon": {
         "url": "/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30145237,
+    "title": "Generate Static Sites from Markdown Files with Caddy (2018)",
+    "url": "https://blog.thomaspuppe.de/static-sites-from-markdown-with-caddy-server",
+    "time": 1643611196,
+    "image": "",
+    "icon": "",
+    "publisher": "blog.thomaspuppe.de",
+    "description": "",
+    "by": "indigodaddy",
+    "points": 67,
+    "comment_count": 10,
+    "hn_item": {
+      "by": "lowleveldesign",
+      "descendants": 62,
+      "id": 30128048,
+      "kids": [
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30144489,
+        30145419,
+        30140903,
+        30140096
+      ],
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
+      "type": "story",
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
+    },
+    "og_item": null
+  },
+  {
+    "id": 30147379,
+    "title": "My dishwasher won’t start until I let it update its firmware over the WiFi",
+    "url": "https://twitter.com/isislovecruft/status/1487947074901463040",
+    "time": 1643633680,
+    "image": "",
+    "icon": "https://abs.twimg.com/favicons/twitter.2.ico",
+    "publisher": "Twitter",
+    "description": "",
+    "by": "_Microft",
+    "points": 23,
+    "comment_count": 2,
+    "hn_item": {
+      "by": "lowleveldesign",
+      "descendants": 62,
+      "id": 30128048,
+      "kids": [
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30144489,
+        30145419,
+        30140903,
+        30140096
+      ],
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
+      "type": "story",
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
+    },
+    "og_item": {
+      "title": "",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Twitter",
+      "video": [],
+      "favicon": {
+        "url": "//abs.twimg.com/favicons/twitter.2.ico"
       }
     }
   },
@@ -768,11 +759,11 @@
     "publisher": "cacm.acm.org",
     "description": "AI is driving the next evolution of chess, giving players a glimpse into the game\u0026#39;s future.",
     "by": "joak",
-    "points": 122,
-    "comment_count": 16,
+    "points": 124,
+    "comment_count": 17,
     "hn_item": {
       "by": "lowleveldesign",
-      "descendants": 60,
+      "descendants": 62,
       "id": 30128048,
       "kids": [
         30141402,
@@ -831,11 +822,11 @@
     "publisher": "bleepingcomputer.com",
     "description": "",
     "by": "beermonster",
-    "points": 102,
+    "points": 113,
     "comment_count": 7,
     "hn_item": {
       "by": "lowleveldesign",
-      "descendants": 60,
+      "descendants": 62,
       "id": 30128048,
       "kids": [
         30141402,
@@ -876,6 +867,69 @@
     }
   },
   {
+    "id": 30146843,
+    "title": "1k-cycle lithium-sulfur battery could quintuple electric vehicle ranges",
+    "url": "https://news.umich.edu/1000-cycle-lithium-sulfur-battery-could-quintuple-electric-vehicle-ranges/",
+    "time": 1643628054,
+    "image": "https://news.umich.edu/wp-content/uploads/mc-image-cache/2022/01/1000-cycle-lithium-sulfur-battery-could-quintuple-electric-vehicle-ranges-LiS-Battery-Diagram.jpg",
+    "icon": "https://news.umich.edu/favicon.ico",
+    "publisher": "University of Michigan News",
+    "description": "A new biologically inspired battery membrane has enabled a battery with five times the capacity of the industry-standard lithium ion design to run for the thousand-plus cycles needed to power an electric car.\n\nA network of aramid nanofibers, recycled from Kevlar, can enable lithium-sulfur batterie",
+    "by": "maeln",
+    "points": 44,
+    "comment_count": 10,
+    "hn_item": {
+      "by": "lowleveldesign",
+      "descendants": 62,
+      "id": 30128048,
+      "kids": [
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30144489,
+        30145419,
+        30140903,
+        30140096
+      ],
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
+      "type": "story",
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
+    },
+    "og_item": {
+      "title": "1,000-cycle lithium-sulfur battery could quintuple electric vehicle ranges",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://news.umich.edu/wp-content/uploads/mc-image-cache/2022/01/1000-cycle-lithium-sulfur-battery-could-quintuple-electric-vehicle-ranges-LiS-Battery-Diagram.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://news.umich.edu/1000-cycle-lithium-sulfur-battery-could-quintuple-electric-vehicle-ranges/",
+      "audio": [],
+      "description": "A new biologically inspired battery membrane has enabled a battery with five times the capacity of the industry-standard lithium ion design to run for the thousand-plus cycles needed to power an electric car.\n\nA network of aramid nanofibers, recycled from Kevlar, can enable lithium-sulfur batterie",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "University of Michigan News",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30141460,
     "title": "Royal Society cautions against censorship of scientific misinformation online",
     "url": "https://royalsociety.org/news/2022/01/scientific-misinformation-report/",
@@ -885,11 +939,11 @@
     "publisher": "royalsociety.org",
     "description": "The Online Information Environment report discusses how to limit the harm of scientific misinformation online",
     "by": "steelstraw",
-    "points": 894,
-    "comment_count": 58,
+    "points": 898,
+    "comment_count": 59,
     "hn_item": {
       "by": "lowleveldesign",
-      "descendants": 60,
+      "descendants": 62,
       "id": 30128048,
       "kids": [
         30141402,
@@ -949,10 +1003,10 @@
     "description": "",
     "by": "otras",
     "points": 308,
-    "comment_count": 36,
+    "comment_count": 37,
     "hn_item": {
       "by": "lowleveldesign",
-      "descendants": 60,
+      "descendants": 62,
       "id": 30128048,
       "kids": [
         30141402,
@@ -1002,11 +1056,11 @@
     "publisher": "EL PAÍS English Edition",
     "description": "Doctors in Belgium explain how they saved a bomb attack victim who had been struggling with one of the most virulent bacterial pathogens in the world",
     "by": "belter",
-    "points": 91,
+    "points": 92,
     "comment_count": 9,
     "hn_item": {
       "by": "lowleveldesign",
-      "descendants": 60,
+      "descendants": 62,
       "id": 30128048,
       "kids": [
         30141402,
@@ -1066,10 +1120,10 @@
     "description": "In his book Ramanujan: Twelve Lectures on Subjects Suggested by His Life and Work, G. H. Hardy tells this famous story: He could remember the idiosyncracies of numbers in an almost uncanny way. It …",
     "by": "johncarlosbaez",
     "points": 118,
-    "comment_count": 9,
+    "comment_count": 10,
     "hn_item": {
       "by": "lowleveldesign",
-      "descendants": 60,
+      "descendants": 62,
       "id": 30128048,
       "kids": [
         30141402,
@@ -1132,7 +1186,7 @@
     "comment_count": 7,
     "hn_item": {
       "by": "lowleveldesign",
-      "descendants": 60,
+      "descendants": 62,
       "id": 30128048,
       "kids": [
         30141402,
@@ -1182,11 +1236,11 @@
     "publisher": "web.archive.org",
     "description": "",
     "by": "ecliptik",
-    "points": 126,
+    "points": 127,
     "comment_count": 11,
     "hn_item": {
       "by": "lowleveldesign",
-      "descendants": 60,
+      "descendants": 62,
       "id": 30128048,
       "kids": [
         30141402,
@@ -1227,60 +1281,6 @@
     }
   },
   {
-    "id": 30147379,
-    "title": "“My dishwasher won’t start until I let it update its firmware over the WiFi”",
-    "url": "https://twitter.com/isislovecruft/status/1487947074901463040",
-    "time": 1643633680,
-    "image": "",
-    "icon": "https://abs.twimg.com/favicons/twitter.2.ico",
-    "publisher": "Twitter",
-    "description": "",
-    "by": "_Microft",
-    "points": 8,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "lowleveldesign",
-      "descendants": 60,
-      "id": 30128048,
-      "kids": [
-        30141402,
-        30141034,
-        30141162,
-        30140452,
-        30141094,
-        30143338,
-        30144500,
-        30144278,
-        30144460,
-        30144489,
-        30145419,
-        30140903,
-        30140096
-      ],
-      "score": 82,
-      "time": 1643476281,
-      "title": "COM+ Revisited",
-      "type": "story",
-      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
-    },
-    "og_item": {
-      "title": "",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Twitter",
-      "video": [],
-      "favicon": {
-        "url": "//abs.twimg.com/favicons/twitter.2.ico"
-      }
-    }
-  },
-  {
     "id": 30141192,
     "title": "Don't forget Microsoft",
     "url": "https://luttig.substack.com/p/dont-forget-microsoft",
@@ -1290,11 +1290,11 @@
     "publisher": "luttig.substack.com",
     "description": "Understanding the behemoth in Redmond teaches us valuable lessons in cloud infrastructure, startup strategy, and the future of software.",
     "by": "SamvitJ",
-    "points": 367,
+    "points": 371,
     "comment_count": 62,
     "hn_item": {
       "by": "lowleveldesign",
-      "descendants": 60,
+      "descendants": 62,
       "id": 30128048,
       "kids": [
         30141402,
@@ -1344,357 +1344,6 @@
     }
   },
   {
-    "id": 30143946,
-    "title": "Mesmerizing Labor",
-    "url": "https://daily.jstor.org/mesmerizing-labor/",
-    "time": 1643597651,
-    "image": "https://daily.jstor.org/wp-content/uploads/2022/01/mesmerizing_labor_1050x700.jpg",
-    "icon": "https://daily.jstor.org/wp-content/uploads/2017/12/cropped-new_daily_favicon-300x300.png",
-    "publisher": "JSTOR Daily",
-    "description": "The man who introduced mesmerism to the US was a slave-owner from Guadeloupe, where planters were experimenting with “magnetizing” their enslaved people.",
-    "by": "onychomys",
-    "points": 40,
-    "comment_count": 5,
-    "hn_item": {
-      "by": "lowleveldesign",
-      "descendants": 60,
-      "id": 30128048,
-      "kids": [
-        30141402,
-        30141034,
-        30141162,
-        30140452,
-        30141094,
-        30143338,
-        30144500,
-        30144278,
-        30144460,
-        30144489,
-        30145419,
-        30140903,
-        30140096
-      ],
-      "score": 82,
-      "time": 1643476281,
-      "title": "COM+ Revisited",
-      "type": "story",
-      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
-    },
-    "og_item": {
-      "title": "Mesmerizing Labor - JSTOR Daily",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://daily.jstor.org/wp-content/uploads/2022/01/mesmerizing_labor_1050x700.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 1050,
-          "height": 700,
-          "alt": ""
-        }
-      ],
-      "url": "https://daily.jstor.org/mesmerizing-labor/",
-      "audio": [],
-      "description": "The man who introduced mesmerism to the US was a slave-owner from Guadeloupe, where planters were experimenting with “magnetizing” their enslaved people.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "JSTOR Daily",
-      "video": [],
-      "favicon": {
-        "url": "https://daily.jstor.org/wp-content/uploads/2017/12/cropped-new_daily_favicon-300x300.png"
-      }
-    }
-  },
-  {
-    "id": 30131387,
-    "title": "Game performance optimization – A practical example from Industry Idle",
-    "url": "https://ruoyusun.com/2022/01/28/game-pref.html",
-    "time": 1643496513,
-    "image": "",
-    "icon": "https://ruoyusun.com/favicon-16x16.png",
-    "publisher": "ruoyusun.com",
-    "description": "",
-    "by": "insraq",
-    "points": 87,
-    "comment_count": 10,
-    "hn_item": {
-      "by": "lowleveldesign",
-      "descendants": 60,
-      "id": 30128048,
-      "kids": [
-        30141402,
-        30141034,
-        30141162,
-        30140452,
-        30141094,
-        30143338,
-        30144500,
-        30144278,
-        30144460,
-        30144489,
-        30145419,
-        30140903,
-        30140096
-      ],
-      "score": 82,
-      "time": 1643476281,
-      "title": "COM+ Revisited",
-      "type": "story",
-      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
-    },
-    "og_item": {
-      "title": "Game Performance Optimization - A Practical Example From Industry Idle",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon-16x16.png"
-      }
-    }
-  },
-  {
-    "id": 30141439,
-    "title": "Operation Warp Speed: A new model for industrial policy",
-    "url": "https://americanaffairsjournal.org/2021/05/inside-operation-warp-speed-a-new-model-for-industrial-policy/",
-    "time": 1643579096,
-    "image": "https://americanaffairsjournal.org/wp-content/uploads/2021/05/Jenner-Vaccine.jpg",
-    "icon": "https://americanaffairsjournal.org/wp-content/themes/american-affairs-journal/assets/images/favicon-new.png",
-    "publisher": "American Affairs Journal",
-    "description": "Operation Warp Speed1 (OWS) was launched on May 15, 2020. A partnership between the Departments of Health and Human Services (HHS) and Defense (DoD), other agencies, and the private sector, its goal was to “accelerate the testing, supply, development, and distribution of safe and effective vacc…",
-    "by": "gok",
-    "points": 131,
-    "comment_count": 10,
-    "hn_item": {
-      "by": "lowleveldesign",
-      "descendants": 60,
-      "id": 30128048,
-      "kids": [
-        30141402,
-        30141034,
-        30141162,
-        30140452,
-        30141094,
-        30143338,
-        30144500,
-        30144278,
-        30144460,
-        30144489,
-        30145419,
-        30140903,
-        30140096
-      ],
-      "score": 82,
-      "time": 1643476281,
-      "title": "COM+ Revisited",
-      "type": "story",
-      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
-    },
-    "og_item": {
-      "title": "Inside Operation Warp Speed: A New Model for Industrial Policy - American Affairs Journal",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://americanaffairsjournal.org/wp-content/uploads/2021/05/Jenner-Vaccine.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 1200,
-          "height": 794,
-          "alt": ""
-        }
-      ],
-      "url": "https://americanaffairsjournal.org/2021/05/inside-operation-warp-speed-a-new-model-for-industrial-policy/",
-      "audio": [],
-      "description": "Operation Warp Speed1 (OWS) was launched on May 15, 2020. A partnership between the Departments of Health and Human Services (HHS) and Defense (DoD), other agencies, and the private sector, its goal was to “accelerate the testing, supply, development, and distribution of safe and effective vaccines, therapeutics, and diag­nostics to counter Covid-19.” As a result…",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "American Affairs Journal",
-      "video": [],
-      "favicon": {
-        "url": "https://americanaffairsjournal.org/wp-content/themes/american-affairs-journal/assets/images/favicon-new.png"
-      }
-    }
-  },
-  {
-    "id": 30117500,
-    "title": "Plain Geology (1921)",
-    "url": "https://pubs.usgs.gov/gip/plain.html",
-    "time": 1643390110,
-    "image": "",
-    "icon": "https://pubs.usgs.gov/favicon.ico",
-    "publisher": "pubs.usgs.gov",
-    "description": "",
-    "by": "wrycoder",
-    "points": 6,
-    "comment_count": 1,
-    "hn_item": {
-      "by": "lowleveldesign",
-      "descendants": 60,
-      "id": 30128048,
-      "kids": [
-        30141402,
-        30141034,
-        30141162,
-        30140452,
-        30141094,
-        30143338,
-        30144500,
-        30144278,
-        30144460,
-        30144489,
-        30145419,
-        30140903,
-        30140096
-      ],
-      "score": 82,
-      "time": 1643476281,
-      "title": "COM+ Revisited",
-      "type": "story",
-      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
-    },
-    "og_item": {
-      "title": "Plain Geology",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30137984,
-    "title": "Show HN: Web page that parses and explains the label on a bike tire",
-    "url": "https://fahrrad-tools.de/tire.html",
-    "time": 1643556717,
-    "image": "",
-    "icon": "https://fahrrad-tools.de/tire.html/icon.png",
-    "publisher": "fahrrad-tools.de",
-    "description": "Which tire fits my bike? Tires are always flat and now buy a tire with puncture protection? Find the right tire now!",
-    "by": "moasda",
-    "points": 591,
-    "comment_count": 38,
-    "hn_item": {
-      "by": "lowleveldesign",
-      "descendants": 60,
-      "id": 30128048,
-      "kids": [
-        30141402,
-        30141034,
-        30141162,
-        30140452,
-        30141094,
-        30143338,
-        30144500,
-        30144278,
-        30144460,
-        30144489,
-        30145419,
-        30140903,
-        30140096
-      ],
-      "score": 82,
-      "time": 1643476281,
-      "title": "COM+ Revisited",
-      "type": "story",
-      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
-    },
-    "og_item": {
-      "title": "Bike Tire | Fahrrad-Tools.de",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "Which tire fits my bike? Tires are always flat and now buy a tire with puncture protection? Find the right tire now!",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "icon.png"
-      }
-    }
-  },
-  {
-    "id": 30119800,
-    "title": "How the Hall Effect Still Reverberates",
-    "url": "https://spectrum.ieee.org/hall-effect-sensor",
-    "time": 1643401246,
-    "image": "https://spectrum.ieee.org/media-library/edwin-herbert-hall.png?id=29169021\u0026width=1200\u0026coordinates=0%2C466%2C0%2C466\u0026height=600",
-    "icon": "https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yNjU5NjY0OS9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTY1OTYwMjUwNn0.83ww7bkGqpGwDJ0lJUQ9t40jCxvzIiI09EEqwNcU8HE/img.png?width=32\u0026height=32",
-    "publisher": "IEEE Spectrum",
-    "description": "In 1879, a physicist set the stage for efficient space propulsion",
-    "by": "headalgorithm",
-    "points": 14,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "lowleveldesign",
-      "descendants": 60,
-      "id": 30128048,
-      "kids": [
-        30141402,
-        30141034,
-        30141162,
-        30140452,
-        30141094,
-        30143338,
-        30144500,
-        30144278,
-        30144460,
-        30144489,
-        30145419,
-        30140903,
-        30140096
-      ],
-      "score": 82,
-      "time": 1643476281,
-      "title": "COM+ Revisited",
-      "type": "story",
-      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
-    },
-    "og_item": {
-      "title": "How the Hall Effect Still Reverberates",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://spectrum.ieee.org/media-library/edwin-herbert-hall.png?id=29169021\u0026width=1200\u0026coordinates=0%2C466%2C0%2C466\u0026height=600",
-          "secure_url": "",
-          "type": "",
-          "width": 1200,
-          "height": 600,
-          "alt": ""
-        }
-      ],
-      "url": "https://spectrum.ieee.org/hall-effect-sensor",
-      "audio": [],
-      "description": "In 1879, a physicist set the stage for efficient space propulsion",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "IEEE Spectrum",
-      "video": [],
-      "favicon": {
-        "url": "https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yNjU5NjY0OS9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTY1OTYwMjUwNn0.83ww7bkGqpGwDJ0lJUQ9t40jCxvzIiI09EEqwNcU8HE/img.png?width=32\u0026height=32"
-      }
-    }
-  },
-  {
     "id": 30147547,
     "title": "MNT Reform laptop has fully open hardware and software–for better or worse",
     "url": "https://arstechnica.com/gadgets/2022/01/review-mnt-reform-laptop-has-fully-open-hardware-and-software-for-better-or-worse/",
@@ -1704,11 +1353,11 @@
     "publisher": "Ars Technica",
     "description": "Slow ARM CPU almost single-handedly derails an intriguing laptop experiment.",
     "by": "leephillips",
-    "points": 4,
+    "points": 6,
     "comment_count": 0,
     "hn_item": {
       "by": "lowleveldesign",
-      "descendants": 60,
+      "descendants": 62,
       "id": 30128048,
       "kids": [
         30141402,
@@ -1758,6 +1407,357 @@
     }
   },
   {
+    "id": 30119800,
+    "title": "How the Hall Effect Still Reverberates",
+    "url": "https://spectrum.ieee.org/hall-effect-sensor",
+    "time": 1643401246,
+    "image": "https://spectrum.ieee.org/media-library/edwin-herbert-hall.png?id=29169021\u0026width=1200\u0026coordinates=0%2C466%2C0%2C466\u0026height=600",
+    "icon": "https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yNjU5NjY0OS9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTY1OTYwMjUwNn0.83ww7bkGqpGwDJ0lJUQ9t40jCxvzIiI09EEqwNcU8HE/img.png?width=32\u0026height=32",
+    "publisher": "IEEE Spectrum",
+    "description": "In 1879, a physicist set the stage for efficient space propulsion",
+    "by": "headalgorithm",
+    "points": 16,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "lowleveldesign",
+      "descendants": 62,
+      "id": 30128048,
+      "kids": [
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30144489,
+        30145419,
+        30140903,
+        30140096
+      ],
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
+      "type": "story",
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
+    },
+    "og_item": {
+      "title": "How the Hall Effect Still Reverberates",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://spectrum.ieee.org/media-library/edwin-herbert-hall.png?id=29169021\u0026width=1200\u0026coordinates=0%2C466%2C0%2C466\u0026height=600",
+          "secure_url": "",
+          "type": "",
+          "width": 1200,
+          "height": 600,
+          "alt": ""
+        }
+      ],
+      "url": "https://spectrum.ieee.org/hall-effect-sensor",
+      "audio": [],
+      "description": "In 1879, a physicist set the stage for efficient space propulsion",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "IEEE Spectrum",
+      "video": [],
+      "favicon": {
+        "url": "https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yNjU5NjY0OS9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTY1OTYwMjUwNn0.83ww7bkGqpGwDJ0lJUQ9t40jCxvzIiI09EEqwNcU8HE/img.png?width=32\u0026height=32"
+      }
+    }
+  },
+  {
+    "id": 30131387,
+    "title": "Game performance optimization – A practical example from Industry Idle",
+    "url": "https://ruoyusun.com/2022/01/28/game-pref.html",
+    "time": 1643496513,
+    "image": "",
+    "icon": "https://ruoyusun.com/favicon-16x16.png",
+    "publisher": "ruoyusun.com",
+    "description": "",
+    "by": "insraq",
+    "points": 88,
+    "comment_count": 10,
+    "hn_item": {
+      "by": "lowleveldesign",
+      "descendants": 62,
+      "id": 30128048,
+      "kids": [
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30144489,
+        30145419,
+        30140903,
+        30140096
+      ],
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
+      "type": "story",
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
+    },
+    "og_item": {
+      "title": "Game Performance Optimization - A Practical Example From Industry Idle",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon-16x16.png"
+      }
+    }
+  },
+  {
+    "id": 30143946,
+    "title": "Mesmerizing Labor",
+    "url": "https://daily.jstor.org/mesmerizing-labor/",
+    "time": 1643597651,
+    "image": "https://daily.jstor.org/wp-content/uploads/2022/01/mesmerizing_labor_1050x700.jpg",
+    "icon": "https://daily.jstor.org/wp-content/uploads/2017/12/cropped-new_daily_favicon-300x300.png",
+    "publisher": "JSTOR Daily",
+    "description": "The man who introduced mesmerism to the US was a slave-owner from Guadeloupe, where planters were experimenting with “magnetizing” their enslaved people.",
+    "by": "onychomys",
+    "points": 40,
+    "comment_count": 5,
+    "hn_item": {
+      "by": "lowleveldesign",
+      "descendants": 62,
+      "id": 30128048,
+      "kids": [
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30144489,
+        30145419,
+        30140903,
+        30140096
+      ],
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
+      "type": "story",
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
+    },
+    "og_item": {
+      "title": "Mesmerizing Labor - JSTOR Daily",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://daily.jstor.org/wp-content/uploads/2022/01/mesmerizing_labor_1050x700.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 1050,
+          "height": 700,
+          "alt": ""
+        }
+      ],
+      "url": "https://daily.jstor.org/mesmerizing-labor/",
+      "audio": [],
+      "description": "The man who introduced mesmerism to the US was a slave-owner from Guadeloupe, where planters were experimenting with “magnetizing” their enslaved people.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "JSTOR Daily",
+      "video": [],
+      "favicon": {
+        "url": "https://daily.jstor.org/wp-content/uploads/2017/12/cropped-new_daily_favicon-300x300.png"
+      }
+    }
+  },
+  {
+    "id": 30141439,
+    "title": "Operation Warp Speed: A new model for industrial policy",
+    "url": "https://americanaffairsjournal.org/2021/05/inside-operation-warp-speed-a-new-model-for-industrial-policy/",
+    "time": 1643579096,
+    "image": "https://americanaffairsjournal.org/wp-content/uploads/2021/05/Jenner-Vaccine.jpg",
+    "icon": "https://americanaffairsjournal.org/wp-content/themes/american-affairs-journal/assets/images/favicon-new.png",
+    "publisher": "American Affairs Journal",
+    "description": "Operation Warp Speed1 (OWS) was launched on May 15, 2020. A partnership between the Departments of Health and Human Services (HHS) and Defense (DoD), other agencies, and the private sector, its goal was to “accelerate the testing, supply, development, and distribution of safe and effective vacc…",
+    "by": "gok",
+    "points": 132,
+    "comment_count": 10,
+    "hn_item": {
+      "by": "lowleveldesign",
+      "descendants": 62,
+      "id": 30128048,
+      "kids": [
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30144489,
+        30145419,
+        30140903,
+        30140096
+      ],
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
+      "type": "story",
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
+    },
+    "og_item": {
+      "title": "Inside Operation Warp Speed: A New Model for Industrial Policy - American Affairs Journal",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://americanaffairsjournal.org/wp-content/uploads/2021/05/Jenner-Vaccine.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 1200,
+          "height": 794,
+          "alt": ""
+        }
+      ],
+      "url": "https://americanaffairsjournal.org/2021/05/inside-operation-warp-speed-a-new-model-for-industrial-policy/",
+      "audio": [],
+      "description": "Operation Warp Speed1 (OWS) was launched on May 15, 2020. A partnership between the Departments of Health and Human Services (HHS) and Defense (DoD), other agencies, and the private sector, its goal was to “accelerate the testing, supply, development, and distribution of safe and effective vaccines, therapeutics, and diag­nostics to counter Covid-19.” As a result…",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "American Affairs Journal",
+      "video": [],
+      "favicon": {
+        "url": "https://americanaffairsjournal.org/wp-content/themes/american-affairs-journal/assets/images/favicon-new.png"
+      }
+    }
+  },
+  {
+    "id": 30137984,
+    "title": "Show HN: Web page that parses and explains the label on a bike tire",
+    "url": "https://fahrrad-tools.de/tire.html",
+    "time": 1643556717,
+    "image": "",
+    "icon": "https://fahrrad-tools.de/tire.html/icon.png",
+    "publisher": "fahrrad-tools.de",
+    "description": "Which tire fits my bike? Tires are always flat and now buy a tire with puncture protection? Find the right tire now!",
+    "by": "moasda",
+    "points": 594,
+    "comment_count": 39,
+    "hn_item": {
+      "by": "lowleveldesign",
+      "descendants": 62,
+      "id": 30128048,
+      "kids": [
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30144489,
+        30145419,
+        30140903,
+        30140096
+      ],
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
+      "type": "story",
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
+    },
+    "og_item": {
+      "title": "Bike Tire | Fahrrad-Tools.de",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "Which tire fits my bike? Tires are always flat and now buy a tire with puncture protection? Find the right tire now!",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "icon.png"
+      }
+    }
+  },
+  {
+    "id": 30117500,
+    "title": "Plain Geology (1921)",
+    "url": "https://pubs.usgs.gov/gip/plain.html",
+    "time": 1643390110,
+    "image": "",
+    "icon": "https://pubs.usgs.gov/favicon.ico",
+    "publisher": "pubs.usgs.gov",
+    "description": "",
+    "by": "wrycoder",
+    "points": 6,
+    "comment_count": 1,
+    "hn_item": {
+      "by": "lowleveldesign",
+      "descendants": 62,
+      "id": 30128048,
+      "kids": [
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30144489,
+        30145419,
+        30140903,
+        30140096
+      ],
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
+      "type": "story",
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
+    },
+    "og_item": {
+      "title": "Plain Geology",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30143375,
     "title": "Lizard scale patterns described with antiferromagnetic model",
     "url": "https://physics.aps.org/articles/v15/s12",
@@ -1771,7 +1771,7 @@
     "comment_count": 3,
     "hn_item": {
       "by": "lowleveldesign",
-      "descendants": 60,
+      "descendants": 62,
       "id": 30128048,
       "kids": [
         30141402,
@@ -1830,11 +1830,11 @@
     "publisher": "jenson.org",
     "description": "",
     "by": "radley",
-    "points": 837,
+    "points": 840,
     "comment_count": 107,
     "hn_item": {
       "by": "lowleveldesign",
-      "descendants": 60,
+      "descendants": 62,
       "id": 30128048,
       "kids": [
         30141402,
@@ -1888,7 +1888,7 @@
     "comment_count": 4,
     "hn_item": {
       "by": "lowleveldesign",
-      "descendants": 60,
+      "descendants": 62,
       "id": 30128048,
       "kids": [
         30141402,
@@ -1938,60 +1938,6 @@
     }
   },
   {
-    "id": 30142105,
-    "title": "Seattle Telecommunications History Museum",
-    "url": "https://www.telcomhistory.org/connections-museum-seattle/",
-    "time": 1643583232,
-    "image": "",
-    "icon": "https://www.telcomhistory.org/favicon.ico",
-    "publisher": "telcomhistory.org",
-    "description": "",
-    "by": "basementcat",
-    "points": 62,
-    "comment_count": 10,
-    "hn_item": {
-      "by": "lowleveldesign",
-      "descendants": 60,
-      "id": 30128048,
-      "kids": [
-        30141402,
-        30141034,
-        30141162,
-        30140452,
-        30141094,
-        30143338,
-        30144500,
-        30144278,
-        30144460,
-        30144489,
-        30145419,
-        30140903,
-        30140096
-      ],
-      "score": 82,
-      "time": 1643476281,
-      "title": "COM+ Revisited",
-      "type": "story",
-      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
-    },
-    "og_item": {
-      "title": "403 Forbidden",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30119285,
     "title": "Devious SQL: Message Queuing Using Native PostgreSQL",
     "url": "https://blog.crunchydata.com/blog/message-queuing-using-native-postgresql",
@@ -2005,7 +1951,7 @@
     "comment_count": 11,
     "hn_item": {
       "by": "lowleveldesign",
-      "descendants": 60,
+      "descendants": 62,
       "id": 30128048,
       "kids": [
         30141402,
@@ -2055,6 +2001,60 @@
     }
   },
   {
+    "id": 30142105,
+    "title": "Seattle Telecommunications History Museum",
+    "url": "https://www.telcomhistory.org/connections-museum-seattle/",
+    "time": 1643583232,
+    "image": "",
+    "icon": "https://www.telcomhistory.org/favicon.ico",
+    "publisher": "telcomhistory.org",
+    "description": "",
+    "by": "basementcat",
+    "points": 62,
+    "comment_count": 10,
+    "hn_item": {
+      "by": "lowleveldesign",
+      "descendants": 62,
+      "id": 30128048,
+      "kids": [
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30144489,
+        30145419,
+        30140903,
+        30140096
+      ],
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
+      "type": "story",
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
+    },
+    "og_item": {
+      "title": "403 Forbidden",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30142558,
     "title": "State of the Web: Static Site Generators",
     "url": "https://byteofdev.com/posts/static-site-generators/",
@@ -2068,7 +2068,7 @@
     "comment_count": 25,
     "hn_item": {
       "by": "lowleveldesign",
-      "descendants": 60,
+      "descendants": 62,
       "id": 30128048,
       "kids": [
         30141402,
@@ -2131,7 +2131,7 @@
     "comment_count": 1,
     "hn_item": {
       "by": "lowleveldesign",
-      "descendants": 60,
+      "descendants": 62,
       "id": 30128048,
       "kids": [
         30141402,
@@ -2172,6 +2172,60 @@
     }
   },
   {
+    "id": 30141171,
+    "title": "Deep symbolic regression for recurrent sequences",
+    "url": "http://recur-env.eba-rm3fchmn.us-east-2.elasticbeanstalk.com/",
+    "time": 1643577344,
+    "image": "",
+    "icon": "",
+    "publisher": "recur-env.eba-rm3fchmn.us-eas…",
+    "description": "",
+    "by": "ShamelessC",
+    "points": 65,
+    "comment_count": 13,
+    "hn_item": {
+      "by": "lowleveldesign",
+      "descendants": 62,
+      "id": 30128048,
+      "kids": [
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30144489,
+        30145419,
+        30140903,
+        30140096
+      ],
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
+      "type": "story",
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
+    },
+    "og_item": {
+      "title": "Streamlit",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "./favicon.png"
+      }
+    }
+  },
+  {
     "id": 30123592,
     "title": "Assembling Accountability, from the Ground Up (2021)",
     "url": "https://points.datasociety.net/assembling-accountability-from-the-ground-up-4655c492d0d0?gi=833242955cfa",
@@ -2185,7 +2239,7 @@
     "comment_count": 0,
     "hn_item": {
       "by": "lowleveldesign",
-      "descendants": 60,
+      "descendants": 62,
       "id": 30128048,
       "kids": [
         30141402,
@@ -2235,20 +2289,20 @@
     }
   },
   {
-    "id": 30141171,
-    "title": "Deep symbolic regression for recurrent sequences",
-    "url": "http://recur-env.eba-rm3fchmn.us-east-2.elasticbeanstalk.com/",
-    "time": 1643577344,
+    "id": 30146918,
+    "title": "Qubit appeals to the honour of thieves who lifted $80M of its digi-dollars",
+    "url": "https://www.theregister.com/2022/01/31/qubit_bug_bounty/",
+    "time": 1643628811,
     "image": "",
-    "icon": "",
-    "publisher": "recur-env.eba-rm3fchmn.us-eas…",
+    "icon": "https://www.theregister.com/favicon.ico",
+    "publisher": "theregister.com",
     "description": "",
-    "by": "ShamelessC",
-    "points": 65,
-    "comment_count": 13,
+    "by": "pseudolus",
+    "points": 9,
+    "comment_count": 1,
     "hn_item": {
       "by": "lowleveldesign",
-      "descendants": 60,
+      "descendants": 62,
       "id": 30128048,
       "kids": [
         30141402,
@@ -2272,7 +2326,7 @@
       "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
     },
     "og_item": {
-      "title": "Streamlit",
+      "title": "",
       "type": "",
       "image": [],
       "url": "",
@@ -2284,7 +2338,7 @@
       "site_name": "",
       "video": [],
       "favicon": {
-        "url": "./favicon.png"
+        "url": "/favicon.ico"
       }
     }
   },
@@ -2302,7 +2356,7 @@
     "comment_count": 10,
     "hn_item": {
       "by": "lowleveldesign",
-      "descendants": 60,
+      "descendants": 62,
       "id": 30128048,
       "kids": [
         30141402,
@@ -2365,7 +2419,7 @@
     "comment_count": 3,
     "hn_item": {
       "by": "lowleveldesign",
-      "descendants": 60,
+      "descendants": 62,
       "id": 30128048,
       "kids": [
         30141402,
@@ -2415,60 +2469,6 @@
     }
   },
   {
-    "id": 30146918,
-    "title": "Qubit appeals to the honour of thieves who lifted $80M of its digi-dollars",
-    "url": "https://www.theregister.com/2022/01/31/qubit_bug_bounty/",
-    "time": 1643628811,
-    "image": "",
-    "icon": "https://www.theregister.com/favicon.ico",
-    "publisher": "theregister.com",
-    "description": "",
-    "by": "pseudolus",
-    "points": 8,
-    "comment_count": 1,
-    "hn_item": {
-      "by": "lowleveldesign",
-      "descendants": 60,
-      "id": 30128048,
-      "kids": [
-        30141402,
-        30141034,
-        30141162,
-        30140452,
-        30141094,
-        30143338,
-        30144500,
-        30144278,
-        30144460,
-        30144489,
-        30145419,
-        30140903,
-        30140096
-      ],
-      "score": 82,
-      "time": 1643476281,
-      "title": "COM+ Revisited",
-      "type": "story",
-      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
-    },
-    "og_item": {
-      "title": "",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30132612,
     "title": "John Locke’s recipe for Pancakes (2021)",
     "url": "https://rarecooking.com/2021/12/14/john-lockes-recipe-for-pancakes/",
@@ -2482,7 +2482,7 @@
     "comment_count": 33,
     "hn_item": {
       "by": "lowleveldesign",
-      "descendants": 60,
+      "descendants": 62,
       "id": 30128048,
       "kids": [
         30141402,
@@ -2532,6 +2532,60 @@
     }
   },
   {
+    "id": 30138533,
+    "title": "Hypercard Simulator",
+    "url": "https://hypercardsimulator.com/",
+    "time": 1643560248,
+    "image": "",
+    "icon": "https://hypercardsimulator.com/favicon.ico",
+    "publisher": "hypercardsimulator.com",
+    "description": "",
+    "by": "alexmingoia",
+    "points": 219,
+    "comment_count": 14,
+    "hn_item": {
+      "by": "lowleveldesign",
+      "descendants": 62,
+      "id": 30128048,
+      "kids": [
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30144489,
+        30145419,
+        30140903,
+        30140096
+      ],
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
+      "type": "story",
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
+    },
+    "og_item": {
+      "title": "HyperCardSimulator",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30147159,
     "title": "How Facebook Is Morphing into Meta",
     "url": "https://www.nytimes.com/2022/01/31/technology/facebook-meta-change.html",
@@ -2545,7 +2599,7 @@
     "comment_count": 4,
     "hn_item": {
       "by": "lowleveldesign",
-      "descendants": 60,
+      "descendants": 62,
       "id": 30128048,
       "kids": [
         30141402,
@@ -2595,60 +2649,6 @@
     }
   },
   {
-    "id": 30138533,
-    "title": "Hypercard Simulator",
-    "url": "https://hypercardsimulator.com/",
-    "time": 1643560248,
-    "image": "",
-    "icon": "https://hypercardsimulator.com/favicon.ico",
-    "publisher": "hypercardsimulator.com",
-    "description": "",
-    "by": "alexmingoia",
-    "points": 219,
-    "comment_count": 14,
-    "hn_item": {
-      "by": "lowleveldesign",
-      "descendants": 60,
-      "id": 30128048,
-      "kids": [
-        30141402,
-        30141034,
-        30141162,
-        30140452,
-        30141094,
-        30143338,
-        30144500,
-        30144278,
-        30144460,
-        30144489,
-        30145419,
-        30140903,
-        30140096
-      ],
-      "score": 82,
-      "time": 1643476281,
-      "title": "COM+ Revisited",
-      "type": "story",
-      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
-    },
-    "og_item": {
-      "title": "HyperCardSimulator",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30142247,
     "title": "Basic Cryptography – The Vigenere Cipher",
     "url": "https://eric.mann.blog/basic-cryptography-the-vigenere-cipher/",
@@ -2662,7 +2662,7 @@
     "comment_count": 7,
     "hn_item": {
       "by": "lowleveldesign",
-      "descendants": 60,
+      "descendants": 62,
       "id": 30128048,
       "kids": [
         30141402,
@@ -2716,7 +2716,7 @@
     "title": "FunctionStomping – A new shellcode injection technique",
     "url": "https://github.com/Idov31/FunctionStomping",
     "time": 1643533222,
-    "image": "https://opengraph.githubassets.com/9e26c3d6fcfd3641d5ab3353df7505b4a12f012260e6370f927f97be0db02460/Idov31/FunctionStomping",
+    "image": "https://opengraph.githubassets.com/4bfb8561770d900d27b7d93c85cb875bc830910e7cf19757952471d1f3aee40a/Idov31/FunctionStomping",
     "icon": "https://github.githubassets.com/favicons/favicon.svg",
     "publisher": "GitHub",
     "description": "A new shellcode injection technique. Given as C++ header or standalone Rust program. - GitHub - Idov31/FunctionStomping: A new shellcode injection technique. Given as C++ header or standalone Rust ...",
@@ -2725,7 +2725,7 @@
     "comment_count": 3,
     "hn_item": {
       "by": "lowleveldesign",
-      "descendants": 60,
+      "descendants": 62,
       "id": 30128048,
       "kids": [
         30141402,
@@ -2753,7 +2753,7 @@
       "type": "object",
       "image": [
         {
-          "url": "https://opengraph.githubassets.com/9e26c3d6fcfd3641d5ab3353df7505b4a12f012260e6370f927f97be0db02460/Idov31/FunctionStomping",
+          "url": "https://opengraph.githubassets.com/4bfb8561770d900d27b7d93c85cb875bc830910e7cf19757952471d1f3aee40a/Idov31/FunctionStomping",
           "secure_url": "",
           "type": "",
           "width": 1200,
@@ -2788,7 +2788,7 @@
     "comment_count": 7,
     "hn_item": {
       "by": "lowleveldesign",
-      "descendants": 60,
+      "descendants": 62,
       "id": 30128048,
       "kids": [
         30141402,
@@ -2860,7 +2860,7 @@
     "comment_count": 26,
     "hn_item": {
       "by": "lowleveldesign",
-      "descendants": 60,
+      "descendants": 62,
       "id": 30128048,
       "kids": [
         30141402,
@@ -2923,7 +2923,7 @@
     "comment_count": 13,
     "hn_item": {
       "by": "lowleveldesign",
-      "descendants": 60,
+      "descendants": 62,
       "id": 30128048,
       "kids": [
         30141402,
@@ -2973,11 +2973,11 @@
     "publisher": "GitHub",
     "description": "Beancount: Double-Entry Accounting from Text Files. - GitHub - beancount/beancount: Beancount: Double-Entry Accounting from Text Files.",
     "by": "techtalsky",
-    "points": 206,
+    "points": 207,
     "comment_count": 22,
     "hn_item": {
       "by": "lowleveldesign",
-      "descendants": 60,
+      "descendants": 62,
       "id": 30128048,
       "kids": [
         30141402,
@@ -3040,7 +3040,7 @@
     "comment_count": 4,
     "hn_item": {
       "by": "lowleveldesign",
-      "descendants": 60,
+      "descendants": 62,
       "id": 30128048,
       "kids": [
         30141402,
@@ -3094,7 +3094,7 @@
     "comment_count": 11,
     "hn_item": {
       "by": "lowleveldesign",
-      "descendants": 60,
+      "descendants": 62,
       "id": 30128048,
       "kids": [
         30141402,
@@ -3148,7 +3148,7 @@
     "comment_count": 26,
     "hn_item": {
       "by": "lowleveldesign",
-      "descendants": 60,
+      "descendants": 62,
       "id": 30128048,
       "kids": [
         30141402,
@@ -3202,7 +3202,7 @@
     "comment_count": 3,
     "hn_item": {
       "by": "lowleveldesign",
-      "descendants": 60,
+      "descendants": 62,
       "id": 30128048,
       "kids": [
         30141402,
@@ -3265,7 +3265,7 @@
     "comment_count": 0,
     "hn_item": {
       "by": "lowleveldesign",
-      "descendants": 60,
+      "descendants": 62,
       "id": 30128048,
       "kids": [
         30141402,
@@ -3328,7 +3328,7 @@
     "comment_count": 1,
     "hn_item": {
       "by": "lowleveldesign",
-      "descendants": 60,
+      "descendants": 62,
       "id": 30128048,
       "kids": [
         30141402,
@@ -3378,60 +3378,6 @@
     }
   },
   {
-    "id": 30146516,
-    "title": "Ask HN: GitHub and Bitbucket end support for password auth for CLI - Now what?",
-    "url": "https://news.ycombinator.com/item?id=30146516",
-    "time": 1643624617,
-    "image": "",
-    "icon": "https://news.ycombinator.com/favicon.ico",
-    "publisher": "Hacker News",
-    "description": "",
-    "by": "weezee",
-    "points": 5,
-    "comment_count": 4,
-    "hn_item": {
-      "by": "lowleveldesign",
-      "descendants": 60,
-      "id": 30128048,
-      "kids": [
-        30141402,
-        30141034,
-        30141162,
-        30140452,
-        30141094,
-        30143338,
-        30144500,
-        30144278,
-        30144460,
-        30144489,
-        30145419,
-        30140903,
-        30140096
-      ],
-      "score": 82,
-      "time": 1643476281,
-      "title": "COM+ Revisited",
-      "type": "story",
-      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
-    },
-    "og_item": {
-      "title": "Ask HN: GitHub and Bitbucket end support for password auth for CLI - Now what? | Hacker News",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30139734,
     "title": "Show the case against",
     "url": "https://www.shubhro.com/2022/01/03/show-the-case-against/",
@@ -3445,7 +3391,7 @@
     "comment_count": 6,
     "hn_item": {
       "by": "lowleveldesign",
-      "descendants": 60,
+      "descendants": 62,
       "id": 30128048,
       "kids": [
         30141402,
@@ -3486,20 +3432,20 @@
     }
   },
   {
-    "id": 30139643,
-    "title": "Very Remote Lisp Debugging Story",
-    "url": "https://susam.net/maze/very-remote-debugging.html",
-    "time": 1643567057,
+    "id": 30146516,
+    "title": "Ask HN: GitHub and Bitbucket end support for password auth for CLI - Now what?",
+    "url": "https://news.ycombinator.com/item?id=30146516",
+    "time": 1643624617,
     "image": "",
-    "icon": "https://susam.net/maze/favicon.png",
-    "publisher": "susam.net",
+    "icon": "https://news.ycombinator.com/favicon.ico",
+    "publisher": "Hacker News",
     "description": "",
-    "by": "susam",
-    "points": 43,
-    "comment_count": 5,
+    "by": "weezee",
+    "points": 5,
+    "comment_count": 4,
     "hn_item": {
       "by": "lowleveldesign",
-      "descendants": 60,
+      "descendants": 62,
       "id": 30128048,
       "kids": [
         30141402,
@@ -3523,7 +3469,7 @@
       "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
     },
     "og_item": {
-      "title": "Very Remote Lisp Debugging Story - Susam's Maze",
+      "title": "Ask HN: GitHub and Bitbucket end support for password auth for CLI - Now what? | Hacker News",
       "type": "",
       "image": [],
       "url": "",
@@ -3535,7 +3481,7 @@
       "site_name": "",
       "video": [],
       "favicon": {
-        "url": "favicon.png"
+        "url": "favicon.ico"
       }
     }
   },
@@ -3553,7 +3499,7 @@
     "comment_count": 19,
     "hn_item": {
       "by": "lowleveldesign",
-      "descendants": 60,
+      "descendants": 62,
       "id": 30128048,
       "kids": [
         30141402,
@@ -3594,6 +3540,60 @@
     }
   },
   {
+    "id": 30139643,
+    "title": "Very Remote Lisp Debugging Story",
+    "url": "https://susam.net/maze/very-remote-debugging.html",
+    "time": 1643567057,
+    "image": "",
+    "icon": "https://susam.net/maze/favicon.png",
+    "publisher": "susam.net",
+    "description": "",
+    "by": "susam",
+    "points": 43,
+    "comment_count": 5,
+    "hn_item": {
+      "by": "lowleveldesign",
+      "descendants": 62,
+      "id": 30128048,
+      "kids": [
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30144489,
+        30145419,
+        30140903,
+        30140096
+      ],
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
+      "type": "story",
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
+    },
+    "og_item": {
+      "title": "Very Remote Lisp Debugging Story - Susam's Maze",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "favicon.png"
+      }
+    }
+  },
+  {
     "id": 30128061,
     "title": "Nuanced communication usually doesn't work at scale",
     "url": "https://twitter.com/danluu/status/1487228574608211969",
@@ -3607,7 +3607,7 @@
     "comment_count": 70,
     "hn_item": {
       "by": "lowleveldesign",
-      "descendants": 60,
+      "descendants": 62,
       "id": 30128048,
       "kids": [
         30141402,
@@ -3661,7 +3661,7 @@
     "comment_count": 6,
     "hn_item": {
       "by": "lowleveldesign",
-      "descendants": 60,
+      "descendants": 62,
       "id": 30128048,
       "kids": [
         30141402,
@@ -3729,11 +3729,11 @@
     "publisher": "tribunemag.co.uk",
     "description": "At workplaces like Amazon, algorithms have become the worst kind of boss – one who watches you constantly, makes impossible demands and then sacks you without explanation.",
     "by": "jrepinc",
-    "points": 105,
+    "points": 106,
     "comment_count": 14,
     "hn_item": {
       "by": "lowleveldesign",
-      "descendants": 60,
+      "descendants": 62,
       "id": 30128048,
       "kids": [
         30141402,
@@ -3796,7 +3796,7 @@
     "comment_count": 6,
     "hn_item": {
       "by": "lowleveldesign",
-      "descendants": 60,
+      "descendants": 62,
       "id": 30128048,
       "kids": [
         30141402,
@@ -3835,7 +3835,7 @@
     "comment_count": 2,
     "hn_item": {
       "by": "lowleveldesign",
-      "descendants": 60,
+      "descendants": 62,
       "id": 30128048,
       "kids": [
         30141402,
@@ -3898,7 +3898,7 @@
     "comment_count": 7,
     "hn_item": {
       "by": "lowleveldesign",
-      "descendants": 60,
+      "descendants": 62,
       "id": 30128048,
       "kids": [
         30141402,
@@ -3961,7 +3961,7 @@
     "comment_count": 8,
     "hn_item": {
       "by": "lowleveldesign",
-      "descendants": 60,
+      "descendants": 62,
       "id": 30128048,
       "kids": [
         30141402,
@@ -4024,7 +4024,7 @@
     "comment_count": 1,
     "hn_item": {
       "by": "lowleveldesign",
-      "descendants": 60,
+      "descendants": 62,
       "id": 30128048,
       "kids": [
         30141402,
@@ -4087,7 +4087,7 @@
     "comment_count": 13,
     "hn_item": {
       "by": "lowleveldesign",
-      "descendants": 60,
+      "descendants": 62,
       "id": 30128048,
       "kids": [
         30141402,
