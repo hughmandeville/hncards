@@ -1,51 +1,7 @@
 [
   {
-    "id": 30149108,
-    "title": "The Boring Technology Checklist",
-    "url": "https://blog.staging.begin.com/posts/2022-01-27-the-boring-technology-checklist",
-    "time": 1643643407,
-    "image": "",
-    "icon": "https://static.begin.com/web/favicon/favicon-16-5360d8ce95.png",
-    "publisher": "blog.staging.begin.com",
-    "description": "Technologists love new technology—that new shiny thing. But, often, the promise of a new solution introduces new unforeseen problems creating unplanned challen…",
-    "by": "macdonst",
-    "points": 62,
-    "comment_count": 29,
-    "hn_item": {
-      "by": "maydemir",
-      "descendants": 3,
-      "id": 30135190,
-      "kids": [
-        30144188,
-        30141785,
-        30144894
-      ],
-      "score": 35,
-      "time": 1643533222,
-      "title": "FunctionStomping – A new shellcode injection technique",
-      "type": "story",
-      "url": "https://github.com/Idov31/FunctionStomping"
-    },
-    "og_item": {
-      "title": "The Boring Technology Checklist - Begin",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "Technologists love new technology—that new shiny thing. But, often, the promise of a new solution introduces new unforeseen problems creating unplanned challen…",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "https://static.begin.com/web/favicon/favicon-16-5360d8ce95.png"
-      }
-    }
-  },
-  {
     "id": 30149800,
-    "title": "Adblocking People and Non-Adblocking People Experience a Different Web",
+    "title": "Adblocking people and non-adblocking people experience a different web",
     "url": "https://imlefthanded.com/2022/adblocking-people-and-non-adblocking-people-experience-a-totally-different-web/",
     "time": 1643646392,
     "image": "",
@@ -53,8 +9,8 @@
     "publisher": "imlefthanded.com",
     "description": "",
     "by": "decrypt",
-    "points": 21,
-    "comment_count": 4,
+    "points": 47,
+    "comment_count": 21,
     "hn_item": {
       "by": "maydemir",
       "descendants": 3,
@@ -89,7 +45,7 @@
   },
   {
     "id": 30149370,
-    "title": "Show HN: Magistrate – Plaintext Legal Contracts for Developers",
+    "title": "Show HN: Magistrate – Plaintext legal contracts for developers",
     "url": "https://magistrate.khanna.law/",
     "time": 1643644505,
     "image": "",
@@ -97,8 +53,8 @@
     "publisher": "magistrate.khanna.law",
     "description": "",
     "by": "hkhanna",
-    "points": 30,
-    "comment_count": 4,
+    "points": 35,
+    "comment_count": 9,
     "hn_item": {
       "by": "maydemir",
       "descendants": 3,
@@ -132,61 +88,17 @@
     }
   },
   {
-    "id": 30149099,
-    "title": "Google critiqued the practice of displaying ads above search results",
-    "url": "https://twitter.com/krebs_adrian/status/1488173888068542466",
-    "time": 1643643385,
-    "image": "",
-    "icon": "https://abs.twimg.com/favicons/twitter.2.ico",
-    "publisher": "Twitter",
-    "description": "",
-    "by": "hubraumhugo",
-    "points": 127,
-    "comment_count": 51,
-    "hn_item": {
-      "by": "maydemir",
-      "descendants": 3,
-      "id": 30135190,
-      "kids": [
-        30144188,
-        30141785,
-        30144894
-      ],
-      "score": 35,
-      "time": 1643533222,
-      "title": "FunctionStomping – A new shellcode injection technique",
-      "type": "story",
-      "url": "https://github.com/Idov31/FunctionStomping"
-    },
-    "og_item": {
-      "title": "",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Twitter",
-      "video": [],
-      "favicon": {
-        "url": "//abs.twimg.com/favicons/twitter.2.ico"
-      }
-    }
-  },
-  {
     "id": 30149213,
     "title": "Learn Elisp the Hard Way (2011)",
     "url": "https://github.com/hypernumbers/learn_elisp_the_hard_way",
     "time": 1643643871,
-    "image": "https://opengraph.githubassets.com/af873dfbf4c97513fdab9df9be300eca32d91e892cad1bf5f69fcf42c356bb0b/hypernumbers/learn_elisp_the_hard_way",
+    "image": "https://opengraph.githubassets.com/296b690abdd493a8b6ed2d76b7204820ae90e5b2a5c011281c43c2e57be9260f/hypernumbers/learn_elisp_the_hard_way",
     "icon": "https://github.githubassets.com/favicons/favicon.svg",
     "publisher": "GitHub",
     "description": "A book about learning eLisp for customising Emacs the hard way - see the Gist https://gist.github.com/754568 - GitHub - hypernumbers/learn_elisp_the_hard_way: A book about learning eLisp for custom...",
     "by": "AndroidKitKat",
-    "points": 18,
-    "comment_count": 3,
+    "points": 26,
+    "comment_count": 5,
     "hn_item": {
       "by": "maydemir",
       "descendants": 3,
@@ -207,7 +119,7 @@
       "type": "object",
       "image": [
         {
-          "url": "https://opengraph.githubassets.com/af873dfbf4c97513fdab9df9be300eca32d91e892cad1bf5f69fcf42c356bb0b/hypernumbers/learn_elisp_the_hard_way",
+          "url": "https://opengraph.githubassets.com/296b690abdd493a8b6ed2d76b7204820ae90e5b2a5c011281c43c2e57be9260f/hypernumbers/learn_elisp_the_hard_way",
           "secure_url": "",
           "type": "",
           "width": 1200,
@@ -229,17 +141,17 @@
     }
   },
   {
-    "id": 30149129,
-    "title": "Xorg update adds touchpad gestures and variable refresh support (2021)",
-    "url": "https://lists.x.org/archives/xorg/2021-September/060773.html",
-    "time": 1643643472,
+    "id": 30149108,
+    "title": "Boring Technology Checklist",
+    "url": "https://blog.staging.begin.com/posts/2022-01-27-the-boring-technology-checklist",
+    "time": 1643643407,
     "image": "",
-    "icon": "https://lists.x.org/favicon.ico",
-    "publisher": "lists.x.org",
-    "description": "",
-    "by": "irthomasthomas",
-    "points": 99,
-    "comment_count": 29,
+    "icon": "https://static.begin.com/web/favicon/favicon-16-5360d8ce95.png",
+    "publisher": "blog.staging.begin.com",
+    "description": "Technologists love new technology—that new shiny thing. But, often, the promise of a new solution introduces new unforeseen problems creating unplanned challen…",
+    "by": "macdonst",
+    "points": 71,
+    "comment_count": 36,
     "hn_item": {
       "by": "maydemir",
       "descendants": 3,
@@ -256,72 +168,19 @@
       "url": "https://github.com/Idov31/FunctionStomping"
     },
     "og_item": {
-      "title": " [ANNOUNCE] xorg-server 21.0.99.901\n   ",
+      "title": "The Boring Technology Checklist - Begin",
       "type": "",
       "image": [],
       "url": "",
       "audio": [],
-      "description": "",
+      "description": "Technologists love new technology—that new shiny thing. But, often, the promise of a new solution introduces new unforeseen problems creating unplanned challen…",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
       "site_name": "",
       "video": [],
       "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30136479,
-    "title": "Socrates on the blessing of being refuted",
-    "url": "https://antigonejournal.com/2022/01/socrates-being-refuted/",
-    "time": 1643545027,
-    "image": "https://antigonejournal.com/wp-content/uploads/2022/01/HWDrops.png",
-    "icon": "https://i0.wp.com/antigonejournal.com/wp-content/uploads/2021/03/cropped-Ant.png?fit=192%2C192\u0026ssl=1",
-    "publisher": "Antigone",
-    "description": "ANDREW BEER The genuine pleasure of yielding to better arguments.",
-    "by": "AverilS",
-    "points": 75,
-    "comment_count": 5,
-    "hn_item": {
-      "by": "maydemir",
-      "descendants": 3,
-      "id": 30135190,
-      "kids": [
-        30144188,
-        30141785,
-        30144894
-      ],
-      "score": 35,
-      "time": 1643533222,
-      "title": "FunctionStomping – A new shellcode injection technique",
-      "type": "story",
-      "url": "https://github.com/Idov31/FunctionStomping"
-    },
-    "og_item": {
-      "title": "Socrates on the Blessing of Being Refuted - Antigone",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://antigonejournal.com/wp-content/uploads/2022/01/HWDrops.png",
-          "secure_url": "",
-          "type": "",
-          "width": 1049,
-          "height": 539,
-          "alt": ""
-        }
-      ],
-      "url": "https://antigonejournal.com/2022/01/socrates-being-refuted/",
-      "audio": [],
-      "description": "ANDREW BEER The genuine pleasure of yielding to better arguments.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Antigone",
-      "video": [],
-      "favicon": {
-        "url": "https://i0.wp.com/antigonejournal.com/wp-content/uploads/2021/03/cropped-Ant.png?fit=192%2C192\u0026ssl=1"
+        "url": "https://static.begin.com/web/favicon/favicon-16-5360d8ce95.png"
       }
     }
   },
@@ -335,8 +194,8 @@
     "publisher": "Oceana",
     "description": "Giant Pyrosomes are bioluminescent (light producing), giving rise to the common name, which comes from the Greek for fire (“pyro”) and body (“soma”). The light produced by Giant Pyrosomes is particularly bright and long lasting and is beautiful to witness. Because the individual tunicat…",
     "by": "integrale",
-    "points": 8,
-    "comment_count": 0,
+    "points": 13,
+    "comment_count": 2,
     "hn_item": {
       "by": "maydemir",
       "descendants": 3,
@@ -379,17 +238,70 @@
     }
   },
   {
-    "id": 30147379,
-    "title": "My dishwasher won’t start until I let it update its firmware over the WiFi",
-    "url": "https://twitter.com/isislovecruft/status/1487947074901463040",
-    "time": 1643633680,
+    "id": 30150282,
+    "title": "Svix (YC W21) Is Hiring a Rust Back End Engineer (Remote)",
+    "url": "https://www.ycombinator.com/companies/svix/jobs/7DMKXxB-rust-backend-engineer",
+    "time": 1643648416,
+    "image": "https://bookface-images.s3.amazonaws.com/logos/fdebdf41464282b6fc2cae77db012a100ff4a582.png?1621537385",
+    "icon": "https://www.ycombinator.com/assets/ycdc/favicon-c8a914eeeba9fe6f7a863b35608b55aeedd7c1ff409c97b9ecb96b7a6c278d70.ico",
+    "publisher": "Y Combinator",
+    "description": "At Svix (YC W21), we're building webhooks-as-a-service. We are looking for a backend engineer with Rust experience to build performant message delivery at scale. We are also looking for an engineer who is a strong proponent of open source software – we’ll be releasing several Rust projects in…",
+    "by": "tasn",
+    "points": 1,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "maydemir",
+      "descendants": 3,
+      "id": 30135190,
+      "kids": [
+        30144188,
+        30141785,
+        30144894
+      ],
+      "score": 35,
+      "time": 1643533222,
+      "title": "FunctionStomping – A new shellcode injection technique",
+      "type": "story",
+      "url": "https://github.com/Idov31/FunctionStomping"
+    },
+    "og_item": {
+      "title": "Rust Backend Engineer at Svix | Y Combinator",
+      "type": "website",
+      "image": [
+        {
+          "url": "https://bookface-images.s3.amazonaws.com/logos/fdebdf41464282b6fc2cae77db012a100ff4a582.png?1621537385",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://www.ycombinator.com/companies/svix/jobs/7DMKXxB-rust-backend-engineer",
+      "audio": [],
+      "description": "At Svix (YC W21), we're building webhooks-as-a-service. We are looking for a backend engineer with Rust experience to build performant message delivery at scale. We are also looking for an engineer who is a strong proponent of open source software – we’ll be releasing several Rust projects in the coming months.\n\nYou will have a huge impact on the trajectory of the company and the product. You will be trusted to take ownership, have autonomy, and be a leader. You will get to solve interesting problems and technical challenges. We move fast, and speed of execution is one of our core values. We are obsessed with providing a great developer experience, and you will be expected to share this obsession.\n\nAbout you:\n- Two or more years of software engineering experience\n- Knowledge of Rust\n- Experience with designing APIs, using databases, and building robust systems\n\nNice to haves:\n- Maintaining or contributing to open-source projects\n- Knowledge of Postgres, Redis\n- Experience building webhooks systems, asynchronous queues, messaging systems, or other developer-oriented products\n\n",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Y Combinator",
+      "video": [],
+      "favicon": {
+        "url": "/assets/ycdc/favicon-c8a914eeeba9fe6f7a863b35608b55aeedd7c1ff409c97b9ecb96b7a6c278d70.ico"
+      }
+    }
+  },
+  {
+    "id": 30149099,
+    "title": "Google critiqued the practice of displaying ads above search results",
+    "url": "https://twitter.com/krebs_adrian/status/1488173888068542466",
+    "time": 1643643385,
     "image": "",
     "icon": "https://abs.twimg.com/favicons/twitter.2.ico",
     "publisher": "Twitter",
     "description": "",
-    "by": "_Microft",
-    "points": 448,
-    "comment_count": 436,
+    "by": "hubraumhugo",
+    "points": 139,
+    "comment_count": 63,
     "hn_item": {
       "by": "maydemir",
       "descendants": 3,
@@ -423,6 +335,59 @@
     }
   },
   {
+    "id": 30136479,
+    "title": "Socrates on the blessing of being refuted",
+    "url": "https://antigonejournal.com/2022/01/socrates-being-refuted/",
+    "time": 1643545027,
+    "image": "https://antigonejournal.com/wp-content/uploads/2022/01/HWDrops.png",
+    "icon": "https://i0.wp.com/antigonejournal.com/wp-content/uploads/2021/03/cropped-Ant.png?fit=192%2C192\u0026ssl=1",
+    "publisher": "Antigone",
+    "description": "ANDREW BEER The genuine pleasure of yielding to better arguments.",
+    "by": "AverilS",
+    "points": 78,
+    "comment_count": 7,
+    "hn_item": {
+      "by": "maydemir",
+      "descendants": 3,
+      "id": 30135190,
+      "kids": [
+        30144188,
+        30141785,
+        30144894
+      ],
+      "score": 35,
+      "time": 1643533222,
+      "title": "FunctionStomping – A new shellcode injection technique",
+      "type": "story",
+      "url": "https://github.com/Idov31/FunctionStomping"
+    },
+    "og_item": {
+      "title": "Socrates on the Blessing of Being Refuted - Antigone",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://antigonejournal.com/wp-content/uploads/2022/01/HWDrops.png",
+          "secure_url": "",
+          "type": "",
+          "width": 1049,
+          "height": 539,
+          "alt": ""
+        }
+      ],
+      "url": "https://antigonejournal.com/2022/01/socrates-being-refuted/",
+      "audio": [],
+      "description": "ANDREW BEER The genuine pleasure of yielding to better arguments.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Antigone",
+      "video": [],
+      "favicon": {
+        "url": "https://i0.wp.com/antigonejournal.com/wp-content/uploads/2021/03/cropped-Ant.png?fit=192%2C192\u0026ssl=1"
+      }
+    }
+  },
+  {
     "id": 30149797,
     "title": "Internet outage affected nearly 30k people after Oakland fiber cable was shot",
     "url": "https://www.datacenterdynamics.com/en/news/tens-of-thousands-left-without-internet-as-multiple-bullets-hit-oakland-xfinity-fiber-cable/",
@@ -432,8 +397,8 @@
     "publisher": "datacenterdynamics.com",
     "description": "",
     "by": "Element_",
-    "points": 40,
-    "comment_count": 26,
+    "points": 47,
+    "comment_count": 36,
     "hn_item": {
       "by": "maydemir",
       "descendants": 3,
@@ -467,6 +432,59 @@
     }
   },
   {
+    "id": 30116316,
+    "title": "Mixbox: Practical pigment mixing for digital painting",
+    "url": "https://github.com/scrtwpns/pigment-mixing",
+    "time": 1643385624,
+    "image": "https://opengraph.githubassets.com/61492230ed9137fdfad464a0c695aa5014b736b5a23d3a42d0d044cc9cc34194/scrtwpns/pigment-mixing",
+    "icon": "https://github.githubassets.com/favicons/favicon.svg",
+    "publisher": "GitHub",
+    "description": "Practical Pigment Mixing for Digital Painting. Contribute to scrtwpns/pigment-mixing development by creating an account on GitHub.",
+    "by": "maydemir",
+    "points": 54,
+    "comment_count": 11,
+    "hn_item": {
+      "by": "maydemir",
+      "descendants": 3,
+      "id": 30135190,
+      "kids": [
+        30144188,
+        30141785,
+        30144894
+      ],
+      "score": 35,
+      "time": 1643533222,
+      "title": "FunctionStomping – A new shellcode injection technique",
+      "type": "story",
+      "url": "https://github.com/Idov31/FunctionStomping"
+    },
+    "og_item": {
+      "title": "GitHub - scrtwpns/pigment-mixing: Practical Pigment Mixing for Digital Painting",
+      "type": "object",
+      "image": [
+        {
+          "url": "https://opengraph.githubassets.com/61492230ed9137fdfad464a0c695aa5014b736b5a23d3a42d0d044cc9cc34194/scrtwpns/pigment-mixing",
+          "secure_url": "",
+          "type": "",
+          "width": 1200,
+          "height": 600,
+          "alt": ""
+        }
+      ],
+      "url": "https://github.com/scrtwpns/pigment-mixing",
+      "audio": [],
+      "description": "Practical Pigment Mixing for Digital Painting. Contribute to scrtwpns/pigment-mixing development by creating an account on GitHub.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "GitHub",
+      "video": [],
+      "favicon": {
+        "url": "https://github.githubassets.com/favicons/favicon.svg"
+      }
+    }
+  },
+  {
     "id": 30147507,
     "title": "VT100 Machine Emulator in JavaScript",
     "url": "https://www.pcjs.org/machines/dec/vt100/",
@@ -476,7 +494,7 @@
     "publisher": "pcjs.org",
     "description": "Home of the original IBM PC emulator for browsers. PCjs offers a variety of online machine emulators written in JavaScript. Run DOS, Windows, OS/2 and other vintage PC applications in a web browser on your desktop computer, iPhone, or iPad. An assortment of microcomputers, minicomputers, terminal…",
     "by": "DiabloD3",
-    "points": 51,
+    "points": 53,
     "comment_count": 15,
     "hn_item": {
       "by": "maydemir",
@@ -520,8 +538,52 @@
     }
   },
   {
+    "id": 30149864,
+    "title": "How to Approach and Prioritize Technical Debt",
+    "url": "https://leadership.garden/tips-on-prioritizing-tech-debt/",
+    "time": 1643646689,
+    "image": "",
+    "icon": "https://leadership.garden/favicon.ico",
+    "publisher": "leadership.garden",
+    "description": "",
+    "by": "ochronus",
+    "points": 7,
+    "comment_count": 1,
+    "hn_item": {
+      "by": "maydemir",
+      "descendants": 3,
+      "id": 30135190,
+      "kids": [
+        30144188,
+        30141785,
+        30144894
+      ],
+      "score": 35,
+      "time": 1643533222,
+      "title": "FunctionStomping – A new shellcode injection technique",
+      "type": "story",
+      "url": "https://github.com/Idov31/FunctionStomping"
+    },
+    "og_item": {
+      "title": "Please Wait... | Cloudflare",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30146052,
-    "title": "The Awk State Machine Parser Pattern (2018)",
+    "title": "The Awk state machine parser pattern (2018)",
     "url": "https://two-wrongs.com/awk-state-machine-parser-pattern.html",
     "time": 1643620307,
     "image": "",
@@ -573,7 +635,7 @@
     "publisher": "the Guardian",
     "description": "Photographer Dmitry Kokh discovered polar bears living in an abandoned weather station in Kolyuchin in the Chukotka Autonomous Okrug of Russia",
     "by": "sofixa",
-    "points": 131,
+    "points": 138,
     "comment_count": 33,
     "hn_item": {
       "by": "maydemir",
@@ -617,59 +679,6 @@
     }
   },
   {
-    "id": 30116316,
-    "title": "Mixbox: Practical Pigment Mixing for Digital Painting",
-    "url": "https://github.com/scrtwpns/pigment-mixing",
-    "time": 1643385624,
-    "image": "https://opengraph.githubassets.com/4a41a641c97562918f4e4ed484248f5abb8bf4c4b2278f4c3fe74f0cc695593c/scrtwpns/pigment-mixing",
-    "icon": "https://github.githubassets.com/favicons/favicon.svg",
-    "publisher": "GitHub",
-    "description": "Practical Pigment Mixing for Digital Painting. Contribute to scrtwpns/pigment-mixing development by creating an account on GitHub.",
-    "by": "maydemir",
-    "points": 52,
-    "comment_count": 11,
-    "hn_item": {
-      "by": "maydemir",
-      "descendants": 3,
-      "id": 30135190,
-      "kids": [
-        30144188,
-        30141785,
-        30144894
-      ],
-      "score": 35,
-      "time": 1643533222,
-      "title": "FunctionStomping – A new shellcode injection technique",
-      "type": "story",
-      "url": "https://github.com/Idov31/FunctionStomping"
-    },
-    "og_item": {
-      "title": "GitHub - scrtwpns/pigment-mixing: Practical Pigment Mixing for Digital Painting",
-      "type": "object",
-      "image": [
-        {
-          "url": "https://opengraph.githubassets.com/4a41a641c97562918f4e4ed484248f5abb8bf4c4b2278f4c3fe74f0cc695593c/scrtwpns/pigment-mixing",
-          "secure_url": "",
-          "type": "",
-          "width": 1200,
-          "height": 600,
-          "alt": ""
-        }
-      ],
-      "url": "https://github.com/scrtwpns/pigment-mixing",
-      "audio": [],
-      "description": "Practical Pigment Mixing for Digital Painting. Contribute to scrtwpns/pigment-mixing development by creating an account on GitHub.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "GitHub",
-      "video": [],
-      "favicon": {
-        "url": "https://github.githubassets.com/favicons/favicon.svg"
-      }
-    }
-  },
-  {
     "id": 30147213,
     "title": "Textual adds support for Windows (Python package for TUIs)",
     "url": "https://www.willmcgugan.com/blog/tech/post/textual-for-windows/",
@@ -679,8 +688,8 @@
     "publisher": "Will McGugan Tech",
     "description": "Textual adds Windows support I've just released v0.1.15 of Textual, with Windows support. The Windows support is somewhat experimental, but so far seems solid. You will get best results on the new Windows Terminal. On the classic command prompt you might find a reduced color palette. This works o…",
     "by": "RojerGS",
-    "points": 49,
-    "comment_count": 6,
+    "points": 52,
+    "comment_count": 7,
     "hn_item": {
       "by": "maydemir",
       "descendants": 3,
@@ -723,112 +732,6 @@
     }
   },
   {
-    "id": 30147052,
-    "title": "Convictional (YC W19) is hiring engineers to build the future of B2B trade Remote",
-    "url": "https://jobs.ashbyhq.com/convictional/91fa08f9-0850-4429-9000-19c1f5fe9ef3",
-    "time": 1643630467,
-    "image": "https://app.ashbyhq.com/api/images/org-theme-social/5e819c8e-a931-414f-84ae-c579d7d7ea47/376a64d4-3d4f-4f8b-bd99-41a684e11dff.png",
-    "icon": "https://cdn.ashbyprd.com/cdn_assets/ed6097a7b8e8219be1e74afcb05dda78239db37e/favicon.png",
-    "publisher": "jobs.ashbyhq.com",
-    "description": "We’re Convictional. We are building a modern B2B trade network. \n\n \n\nEach year, trillions of dollars worth of B2B trade is transacted using Electronic Data Interchange (EDI). EDI is difficult for modern businesses to work with. Convictional is changing that. \n\n \n\nOur Supplier Enablement Pla…",
-    "by": "rogerkirkness",
-    "points": 1,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "maydemir",
-      "descendants": 3,
-      "id": 30135190,
-      "kids": [
-        30144188,
-        30141785,
-        30144894
-      ],
-      "score": 35,
-      "time": 1643533222,
-      "title": "FunctionStomping – A new shellcode injection technique",
-      "type": "story",
-      "url": "https://github.com/Idov31/FunctionStomping"
-    },
-    "og_item": {
-      "title": "Software Engineer",
-      "type": "website",
-      "image": [
-        {
-          "url": "https://app.ashbyhq.com/api/images/org-theme-social/5e819c8e-a931-414f-84ae-c579d7d7ea47/376a64d4-3d4f-4f8b-bd99-41a684e11dff.png",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://jobs.ashbyhq.com/convictional/91fa08f9-0850-4429-9000-19c1f5fe9ef3",
-      "audio": [],
-      "description": "We’re Convictional. We are building a modern B2B trade network. \n\n \n\nEach year, trillions of dollars worth of B2B trade is transacted using Electronic Data Interchange (EDI). EDI is difficult for modern businesses to work with. Convictional is changing that. \n\n \n\nOur Supplier Enablement Platform enables retailers and marketplaces to onboard, integrate, and transact with all of their suppliers. Convictional's API-driven infrastructure is used by large retailers like Staples, Indigo, Harry Rosen, and brands like Caraway and Detox Market. We recently raised a Series A financing to scale our impact to even more companies.\n\n \n\nConvictional's platform is informed by thousands of hours of customer consultation and a deep appreciation for both the buyer and seller perspectives. We are continuing to learn about the massive value to be unlocked from all types of B2B trade, including marketplace, dropship and wholesale. We’re aiming at theoretical maximums, not feature-completeness, and intend to bring as many businesses along with us as we can.\n\n \n\nTaking a new approach to an old problem is nothing special. Our team, and how we engage with each other, is. We are proud to be building a home for kind nerds who want to impact global trade. Our team is strengthened when we take a learning-first approach and seek out opportunities to debate the best customer-focused solutions. We value self-awareness and feel compelled to fully explore the hard questions. \n\n \n\nWe are a fully distributed team with people located across Canada and the US. We encourage you to design your work schedule and environment so they’re optimal for you. We use email, not Slack. We default to no internal meetings and Deep Work Wednesdays. We expect you to go to coaching or therapy at least occasionally and adhere to 10% compound time. https://medium.com/accelerated-intelligence/why-successful-people-spend-10-hours-a-week-on-compound-time-79d64d8132a8\n\n \n\nWe are inspired every day by the opportunity to pioneer infrastructure that will move trillions of dollars worth of B2B trade. We welcome those who want to join us.\n\n\n\n\nAbout the role\nConvictional is looking to hire Software Engineers at various levels of seniority.\n\nIf you can develop and maintain features, enjoy challenges of reliability and scalability, and can be effective cross-functionally to deliver on commitments to customers, this is probably a good fit. If you like free beer, standups, and active management, this is not a good fit.\n\n\nOur engineers are systems thinkers and futurists who see opportunity everywhere. They are conscientious but still revel in taking intelligent risks. They are proficient in something other than engineering (e.g. technical writing, solutioning, product marketing) and have demonstrated commitment to learning and self-awareness.\n\n\n\nOur software engineers are working on EDI translation, API development, product-native onboarding, and building out our feature set. All engineers contribute to support interactions.\n\n\n\nExperience\nAs long as you have at least 2 years of professional experience as a software engineer (not including co-ops), we really don’t care how you’ve amassed it. You definitely don’t need to have a degree - our CEO barely finished high school - though we’ve found systems engineers tend to have an outsized impact. If you can write high quality code aimed at business users, we want to talk to you.\n\n\n\nDisclaimer\nIf this doesn’t sound like you, but you believe you have something to contribute, tell us why in an email. We will read it, and we will reply to you with thoughtful feedback about whether or not you may be a good fit for us.\n\nDrop us a line or share your resume at jobs@convictional.com.\n\n",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "https://cdn.ashbyprd.com/cdn_assets/ed6097a7b8e8219be1e74afcb05dda78239db37e/favicon.png"
-      }
-    }
-  },
-  {
-    "id": 30149569,
-    "title": "If everyone were vegan, only a quarter of current farmland would be needed",
-    "url": "https://www.economist.com/graphic-detail/2022/01/28/if-everyone-were-vegan-only-a-quarter-of-current-farmland-would-be-needed",
-    "time": 1643645441,
-    "image": "https://www.economist.com/img/b/1280/720/90/media-assets/image/20220129_WOT102.png",
-    "icon": "https://www.economist.com/engassets/ico/favicon.f1ea908894.ico",
-    "publisher": "The Economist",
-    "description": "Most is currently used to grow plants to feed animals",
-    "by": "Swizec",
-    "points": 56,
-    "comment_count": 40,
-    "hn_item": {
-      "by": "maydemir",
-      "descendants": 3,
-      "id": 30135190,
-      "kids": [
-        30144188,
-        30141785,
-        30144894
-      ],
-      "score": 35,
-      "time": 1643533222,
-      "title": "FunctionStomping – A new shellcode injection technique",
-      "type": "story",
-      "url": "https://github.com/Idov31/FunctionStomping"
-    },
-    "og_item": {
-      "title": "If everyone were vegan, only a quarter of current farmland would be needed",
-      "type": "Article",
-      "image": [
-        {
-          "url": "https://www.economist.com/img/b/1280/720/90/media-assets/image/20220129_WOT102.png",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://www.economist.com/graphic-detail/2022/01/28/if-everyone-were-vegan-only-a-quarter-of-current-farmland-would-be-needed",
-      "audio": [],
-      "description": "Most is currently used to grow plants to feed animals",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "The Economist",
-      "video": [],
-      "favicon": {
-        "url": "/engassets/ico/favicon.f1ea908894.ico"
-      }
-    }
-  },
-  {
     "id": 30144805,
     "title": "Examples of common false beliefs in mathematics",
     "url": "https://mathoverflow.net/questions/23478/examples-of-common-false-beliefs-in-mathematics",
@@ -839,7 +742,7 @@
     "description": "The first thing to say is that this is not the same as the question about interesting mathematical mistakes. I am interested about the type of false beliefs that many intelligent people have while ...",
     "by": "gballan",
     "points": 202,
-    "comment_count": 100,
+    "comment_count": 101,
     "hn_item": {
       "by": "maydemir",
       "descendants": 3,
@@ -891,7 +794,7 @@
     "publisher": "lwn.net",
     "description": "",
     "by": "pabs3",
-    "points": 209,
+    "points": 210,
     "comment_count": 39,
     "hn_item": {
       "by": "maydemir",
@@ -935,8 +838,8 @@
     "publisher": "smallcultfollowing.com",
     "description": "",
     "by": "ingve",
-    "points": 114,
-    "comment_count": 18,
+    "points": 115,
+    "comment_count": 19,
     "hn_item": {
       "by": "maydemir",
       "descendants": 3,
@@ -970,17 +873,17 @@
     }
   },
   {
-    "id": 30149864,
-    "title": "How to Approach and Prioritize Technical Debt",
-    "url": "https://leadership.garden/tips-on-prioritizing-tech-debt/",
-    "time": 1643646689,
+    "id": 30149838,
+    "title": "Ask HN: Where do you hang out virtually online?",
+    "url": "https://news.ycombinator.com/item?id=30149838",
+    "time": 1643646557,
     "image": "",
-    "icon": "https://leadership.garden/favicon.ico",
-    "publisher": "leadership.garden",
+    "icon": "https://news.ycombinator.com/favicon.ico",
+    "publisher": "Hacker News",
     "description": "",
-    "by": "ochronus",
-    "points": 3,
-    "comment_count": 0,
+    "by": "codemonkeysh",
+    "points": 11,
+    "comment_count": 2,
     "hn_item": {
       "by": "maydemir",
       "descendants": 3,
@@ -997,7 +900,7 @@
       "url": "https://github.com/Idov31/FunctionStomping"
     },
     "og_item": {
-      "title": "Please Wait... | Cloudflare",
+      "title": "Ask HN: Where do you hang out virtually online? | Hacker News",
       "type": "",
       "image": [],
       "url": "",
@@ -1009,7 +912,7 @@
       "site_name": "",
       "video": [],
       "favicon": {
-        "url": "/favicon.ico"
+        "url": "favicon.ico"
       }
     }
   },
@@ -1024,7 +927,7 @@
     "description": "",
     "by": "laktak",
     "points": 193,
-    "comment_count": 137,
+    "comment_count": 138,
     "hn_item": {
       "by": "maydemir",
       "descendants": 3,
@@ -1067,7 +970,7 @@
     "publisher": "Medium",
     "description": "My journey on finding and reporting databases with sensitive data about Fortune-500 companies, Hospitals, Crypto platforms, Startups during…",
     "by": "boyter",
-    "points": 251,
+    "points": 253,
     "comment_count": 65,
     "hn_item": {
       "by": "maydemir",
@@ -1120,7 +1023,7 @@
     "publisher": "mattferraro.dev",
     "description": "What does it mean to invert a shape?",
     "by": "mferraro89",
-    "points": 188,
+    "points": 191,
     "comment_count": 44,
     "hn_item": {
       "by": "maydemir",
@@ -1173,7 +1076,7 @@
     "publisher": "GitHub",
     "description": "Added\n\nAdded jailer option --parent-cgroup \u003crelative_path\u003e to allow the placement\nof microvm cgroups in custom cgroup nested hierarchies. The default value is\n\u003cexec-file\u003e which is backwards compati...",
     "by": "ciprian_craciun",
-    "points": 53,
+    "points": 56,
     "comment_count": 12,
     "hn_item": {
       "by": "maydemir",
@@ -1221,12 +1124,12 @@
     "title": "Boyfriend-alert – A light based alert system",
     "url": "https://github.com/jscd/Boyfriend-Alert",
     "time": 1643619852,
-    "image": "https://opengraph.githubassets.com/3baaea282f81de25bc03e21b031a2196902c74fbbbcc75aee636841dd555473e/jscd/Boyfriend-Alert",
+    "image": "https://opengraph.githubassets.com/339fa3b0ebc6532c1c8849c8ab2a33fb9b24d8b3e2c901a8aaa3a14d7b2d758e/jscd/Boyfriend-Alert",
     "icon": "https://github.githubassets.com/favicons/favicon.svg",
     "publisher": "GitHub",
     "description": "A light based alert system. Contribute to jscd/Boyfriend-Alert development by creating an account on GitHub.",
     "by": "rgun",
-    "points": 186,
+    "points": 188,
     "comment_count": 156,
     "hn_item": {
       "by": "maydemir",
@@ -1248,7 +1151,7 @@
       "type": "object",
       "image": [
         {
-          "url": "https://opengraph.githubassets.com/3baaea282f81de25bc03e21b031a2196902c74fbbbcc75aee636841dd555473e/jscd/Boyfriend-Alert",
+          "url": "https://opengraph.githubassets.com/339fa3b0ebc6532c1c8849c8ab2a33fb9b24d8b3e2c901a8aaa3a14d7b2d758e/jscd/Boyfriend-Alert",
           "secure_url": "",
           "type": "",
           "width": 1200,
@@ -1270,6 +1173,50 @@
     }
   },
   {
+    "id": 30147379,
+    "title": "My dishwasher won’t start until I let it update its firmware over the WiFi",
+    "url": "https://twitter.com/isislovecruft/status/1487947074901463040",
+    "time": 1643633680,
+    "image": "",
+    "icon": "https://abs.twimg.com/favicons/twitter.2.ico",
+    "publisher": "Twitter",
+    "description": "",
+    "by": "_Microft",
+    "points": 458,
+    "comment_count": 449,
+    "hn_item": {
+      "by": "maydemir",
+      "descendants": 3,
+      "id": 30135190,
+      "kids": [
+        30144188,
+        30141785,
+        30144894
+      ],
+      "score": 35,
+      "time": 1643533222,
+      "title": "FunctionStomping – A new shellcode injection technique",
+      "type": "story",
+      "url": "https://github.com/Idov31/FunctionStomping"
+    },
+    "og_item": {
+      "title": "",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Twitter",
+      "video": [],
+      "favicon": {
+        "url": "//abs.twimg.com/favicons/twitter.2.ico"
+      }
+    }
+  },
+  {
     "id": 30145237,
     "title": "Generate Static Sites from Markdown Files with Caddy (2018)",
     "url": "https://blog.thomaspuppe.de/static-sites-from-markdown-with-caddy-server",
@@ -1279,7 +1226,7 @@
     "publisher": "blog.thomaspuppe.de",
     "description": "",
     "by": "indigodaddy",
-    "points": 89,
+    "points": 90,
     "comment_count": 21,
     "hn_item": {
       "by": "maydemir",
@@ -1308,8 +1255,8 @@
     "publisher": "cacm.acm.org",
     "description": "AI is driving the next evolution of chess, giving players a glimpse into the game\u0026#39;s future.",
     "by": "joak",
-    "points": 138,
-    "comment_count": 97,
+    "points": 139,
+    "comment_count": 98,
     "hn_item": {
       "by": "maydemir",
       "descendants": 3,
@@ -1361,8 +1308,8 @@
     "publisher": "TechCrunch",
     "description": "More consolidation is afoot in the world of IT to meet a new demand from enterprises for “one-stop shops” covering a wide range of needs in our hybrid world of work. Citrix, the long-in-the-tooth virtualization giant that had been making a slow transition into cloud computing, is being …",
     "by": "blopeur",
-    "points": 41,
-    "comment_count": 26,
+    "points": 43,
+    "comment_count": 28,
     "hn_item": {
       "by": "maydemir",
       "descendants": 3,
@@ -1414,7 +1361,7 @@
     "publisher": "Ars Technica",
     "description": "Slow ARM CPU almost single-handedly derails an intriguing laptop experiment.",
     "by": "leephillips",
-    "points": 64,
+    "points": 65,
     "comment_count": 11,
     "hn_item": {
       "by": "maydemir",
@@ -1458,17 +1405,17 @@
     }
   },
   {
-    "id": 30149838,
-    "title": "Ask HN: Where do you hang out virtually online?",
-    "url": "https://news.ycombinator.com/item?id=30149838",
-    "time": 1643646557,
-    "image": "",
-    "icon": "https://news.ycombinator.com/favicon.ico",
-    "publisher": "Hacker News",
-    "description": "",
-    "by": "codemonkeysh",
-    "points": 6,
-    "comment_count": 0,
+    "id": 30149569,
+    "title": "If everyone were vegan, only a quarter of current farmland would be needed",
+    "url": "https://www.economist.com/graphic-detail/2022/01/28/if-everyone-were-vegan-only-a-quarter-of-current-farmland-would-be-needed",
+    "time": 1643645441,
+    "image": "https://www.economist.com/img/b/1280/720/90/media-assets/image/20220129_WOT102.png",
+    "icon": "https://www.economist.com/engassets/ico/favicon.f1ea908894.ico",
+    "publisher": "The Economist",
+    "description": "Most is currently used to grow plants to feed animals",
+    "by": "Swizec",
+    "points": 64,
+    "comment_count": 61,
     "hn_item": {
       "by": "maydemir",
       "descendants": 3,
@@ -1485,63 +1432,28 @@
       "url": "https://github.com/Idov31/FunctionStomping"
     },
     "og_item": {
-      "title": "Ask HN: Where do you hang out virtually online? | Hacker News",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30146042,
-    "title": "Finnish diplomats’ phones infected with NSO Group Pegasus spyware",
-    "url": "https://www.bleepingcomputer.com/news/security/finnish-diplomats-phones-infected-with-nso-group-pegasus-spyware/",
-    "time": 1643620174,
-    "image": "",
-    "icon": "https://www.bleepingcomputer.com/favicon.ico",
-    "publisher": "bleepingcomputer.com",
-    "description": "",
-    "by": "beermonster",
-    "points": 182,
-    "comment_count": 91,
-    "hn_item": {
-      "by": "maydemir",
-      "descendants": 3,
-      "id": 30135190,
-      "kids": [
-        30144188,
-        30141785,
-        30144894
+      "title": "If everyone were vegan, only a quarter of current farmland would be needed",
+      "type": "Article",
+      "image": [
+        {
+          "url": "https://www.economist.com/img/b/1280/720/90/media-assets/image/20220129_WOT102.png",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
       ],
-      "score": 35,
-      "time": 1643533222,
-      "title": "FunctionStomping – A new shellcode injection technique",
-      "type": "story",
-      "url": "https://github.com/Idov31/FunctionStomping"
-    },
-    "og_item": {
-      "title": "Just a moment...",
-      "type": "",
-      "image": [],
-      "url": "",
+      "url": "https://www.economist.com/graphic-detail/2022/01/28/if-everyone-were-vegan-only-a-quarter-of-current-farmland-would-be-needed",
       "audio": [],
-      "description": "",
+      "description": "Most is currently used to grow plants to feed animals",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "",
+      "site_name": "The Economist",
       "video": [],
       "favicon": {
-        "url": "/favicon.ico"
+        "url": "/engassets/ico/favicon.f1ea908894.ico"
       }
     }
   },
@@ -1555,8 +1467,8 @@
     "publisher": "WSJ",
     "description": "",
     "by": "throwawaysea",
-    "points": 10,
-    "comment_count": 3,
+    "points": 12,
+    "comment_count": 7,
     "hn_item": {
       "by": "maydemir",
       "descendants": 3,
@@ -1599,17 +1511,17 @@
     }
   },
   {
-    "id": 30148547,
-    "title": "Non-Tesla Supercharger Pilot",
-    "url": "https://www.tesla.com/support/non-tesla-supercharging",
-    "time": 1643641025,
-    "image": "https://www.tesla.com/sites/default/files/blog_images/tesla_announcement_social.jpg",
-    "icon": "https://www.tesla.com/sites/all/themes/custom/tesla_theme/assets/img/icons/favicon-32x32.png",
-    "publisher": "tesla.com",
-    "description": "Launched in November 2021, our Non-Tesla Supercharger pilot will continue to expand to new sites and countries in support of our mission to accelerate the world’s transition to sustainable energy.",
-    "by": "punnerud",
-    "points": 80,
-    "comment_count": 129,
+    "id": 30146042,
+    "title": "Finnish diplomats’ phones infected with NSO Group Pegasus spyware",
+    "url": "https://www.bleepingcomputer.com/news/security/finnish-diplomats-phones-infected-with-nso-group-pegasus-spyware/",
+    "time": 1643620174,
+    "image": "",
+    "icon": "https://www.bleepingcomputer.com/favicon.ico",
+    "publisher": "bleepingcomputer.com",
+    "description": "",
+    "by": "beermonster",
+    "points": 185,
+    "comment_count": 91,
     "hn_item": {
       "by": "maydemir",
       "descendants": 3,
@@ -1626,28 +1538,63 @@
       "url": "https://github.com/Idov31/FunctionStomping"
     },
     "og_item": {
-      "title": "Non-Tesla Supercharger Pilot",
+      "title": "Just a moment...",
       "type": "",
-      "image": [
-        {
-          "url": "https://www.tesla.com/sites/default/files/blog_images/tesla_announcement_social.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
+      "image": [],
       "url": "",
       "audio": [],
-      "description": "Launched in November 2021, our Non-Tesla Supercharger pilot will continue to expand to new sites and countries in support of our mission to accelerate the world’s transition to sustainable energy.",
+      "description": "",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
       "site_name": "",
       "video": [],
       "favicon": {
-        "url": "/sites/all/themes/custom/tesla_theme/assets/img/icons/favicon-32x32.png"
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30148354,
+    "title": "The Financialization of Housing in Europe",
+    "url": "https://unassumingeconomist.com/2022/01/the-financialization-of-housing-in-europe/",
+    "time": 1643640106,
+    "image": "",
+    "icon": "https://unassumingeconomist.com/favicon.ico",
+    "publisher": "unassumingeconomist.com",
+    "description": "",
+    "by": "rustoo",
+    "points": 4,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "maydemir",
+      "descendants": 3,
+      "id": 30135190,
+      "kids": [
+        30144188,
+        30141785,
+        30144894
+      ],
+      "score": 35,
+      "time": 1643533222,
+      "title": "FunctionStomping – A new shellcode injection technique",
+      "type": "story",
+      "url": "https://github.com/Idov31/FunctionStomping"
+    },
+    "og_item": {
+      "title": "\n\t\tThe Unassuming Economist | The Financialization of Housing in Europe\t",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
       }
     }
   },
@@ -1662,7 +1609,7 @@
     "description": "Doctors in Belgium explain how they saved a bomb attack victim who had been struggling with one of the most virulent bacterial pathogens in the world",
     "by": "belter",
     "points": 134,
-    "comment_count": 58,
+    "comment_count": 59,
     "hn_item": {
       "by": "maydemir",
       "descendants": 3,
@@ -1714,8 +1661,8 @@
     "publisher": "zillow.com",
     "description": "",
     "by": "otras",
-    "points": 335,
-    "comment_count": 195,
+    "points": 336,
+    "comment_count": 197,
     "hn_item": {
       "by": "maydemir",
       "descendants": 3,
@@ -1837,6 +1784,103 @@
     }
   },
   {
+    "id": 30143587,
+    "title": "Ylang: Universal Language for eBPF, Stap+, GDB, and More (2021)",
+    "url": "https://blog.openresty.com/en/ylang-intro-part4/",
+    "time": 1643594248,
+    "image": "",
+    "icon": "https://blog.openresty.com/favicon-16x16.png",
+    "publisher": "blog.openresty.com",
+    "description": "Transparent Container Tracing Efficient Stack Unwinding Analyzing Dead Processes (Core Dumps) Very Low Tracing Overhead Standard Ylang Libraries \u0026amp; Tools Network Filtering \u0026amp; Control The Ylang Compiler\u0026rsquo;s Implementation Operating System Support Contributions to Open-Source Communities",
+    "by": "walterbell",
+    "points": 72,
+    "comment_count": 16,
+    "hn_item": {
+      "by": "maydemir",
+      "descendants": 3,
+      "id": 30135190,
+      "kids": [
+        30144188,
+        30141785,
+        30144894
+      ],
+      "score": 35,
+      "time": 1643533222,
+      "title": "FunctionStomping – A new shellcode injection technique",
+      "type": "story",
+      "url": "https://github.com/Idov31/FunctionStomping"
+    },
+    "og_item": {
+      "title": "Ylang: Universal Language for eBPF, Stap+, GDB, and More (Part 4) - OpenResty Official Blog",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": " Transparent Container Tracing Efficient Stack Unwinding Analyzing Dead Processes (Core Dumps) Very Low Tracing Overhead Standard Ylang Libraries \u0026amp; Tools Network Filtering \u0026amp; Control The Ylang Compiler\u0026rsquo;s Implementation Operating System Support Contributions to Open-Source Communities  ",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon-16x16.png"
+      }
+    }
+  },
+  {
+    "id": 30148547,
+    "title": "Non-Tesla Supercharger Pilot",
+    "url": "https://www.tesla.com/support/non-tesla-supercharging",
+    "time": 1643641025,
+    "image": "https://www.tesla.com/sites/default/files/blog_images/tesla_announcement_social.jpg",
+    "icon": "https://www.tesla.com/sites/all/themes/custom/tesla_theme/assets/img/icons/favicon-32x32.png",
+    "publisher": "tesla.com",
+    "description": "Launched in November 2021, our Non-Tesla Supercharger pilot will continue to expand to new sites and countries in support of our mission to accelerate the world’s transition to sustainable energy.",
+    "by": "punnerud",
+    "points": 80,
+    "comment_count": 137,
+    "hn_item": {
+      "by": "maydemir",
+      "descendants": 3,
+      "id": 30135190,
+      "kids": [
+        30144188,
+        30141785,
+        30144894
+      ],
+      "score": 35,
+      "time": 1643533222,
+      "title": "FunctionStomping – A new shellcode injection technique",
+      "type": "story",
+      "url": "https://github.com/Idov31/FunctionStomping"
+    },
+    "og_item": {
+      "title": "Non-Tesla Supercharger Pilot",
+      "type": "",
+      "image": [
+        {
+          "url": "https://www.tesla.com/sites/default/files/blog_images/tesla_announcement_social.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "",
+      "audio": [],
+      "description": "Launched in November 2021, our Non-Tesla Supercharger pilot will continue to expand to new sites and countries in support of our mission to accelerate the world’s transition to sustainable energy.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/sites/all/themes/custom/tesla_theme/assets/img/icons/favicon-32x32.png"
+      }
+    }
+  },
+  {
     "id": 30148806,
     "title": "Gitlab Is Down",
     "url": "https://gitlab.com/",
@@ -1890,17 +1934,17 @@
     }
   },
   {
-    "id": 30143587,
-    "title": "Ylang: Universal Language for eBPF, Stap+, GDB, and More (2021)",
-    "url": "https://blog.openresty.com/en/ylang-intro-part4/",
-    "time": 1643594248,
+    "id": 30137984,
+    "title": "Show HN: Web page that parses and explains the label on a bike tire",
+    "url": "https://fahrrad-tools.de/tire.html",
+    "time": 1643556717,
     "image": "",
-    "icon": "https://blog.openresty.com/favicon-16x16.png",
-    "publisher": "blog.openresty.com",
-    "description": "Transparent Container Tracing Efficient Stack Unwinding Analyzing Dead Processes (Core Dumps) Very Low Tracing Overhead Standard Ylang Libraries \u0026amp; Tools Network Filtering \u0026amp; Control The Ylang Compiler\u0026rsquo;s Implementation Operating System Support Contributions to Open-Source Communities",
-    "by": "walterbell",
-    "points": 71,
-    "comment_count": 16,
+    "icon": "https://fahrrad-tools.de/tire.html/icon.png",
+    "publisher": "fahrrad-tools.de",
+    "description": "Which tire fits my bike? Tires are always flat and now buy a tire with puncture protection? Find the right tire now!",
+    "by": "moasda",
+    "points": 601,
+    "comment_count": 177,
     "hn_item": {
       "by": "maydemir",
       "descendants": 3,
@@ -1917,19 +1961,19 @@
       "url": "https://github.com/Idov31/FunctionStomping"
     },
     "og_item": {
-      "title": "Ylang: Universal Language for eBPF, Stap+, GDB, and More (Part 4) - OpenResty Official Blog",
+      "title": "Bike Tire | Fahrrad-Tools.de",
       "type": "",
       "image": [],
       "url": "",
       "audio": [],
-      "description": " Transparent Container Tracing Efficient Stack Unwinding Analyzing Dead Processes (Core Dumps) Very Low Tracing Overhead Standard Ylang Libraries \u0026amp; Tools Network Filtering \u0026amp; Control The Ylang Compiler\u0026rsquo;s Implementation Operating System Support Contributions to Open-Source Communities  ",
+      "description": "Which tire fits my bike? Tires are always flat and now buy a tire with puncture protection? Find the right tire now!",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
       "site_name": "",
       "video": [],
       "favicon": {
-        "url": "/favicon-16x16.png"
+        "url": "icon.png"
       }
     }
   },
@@ -1943,7 +1987,7 @@
     "publisher": "National Review",
     "description": "Out of public view, the state-owned broadcaster has been altering old episodes of its shows to make them ‘suitable’ for modern listeners.",
     "by": "temp8964",
-    "points": 93,
+    "points": 94,
     "comment_count": 77,
     "hn_item": {
       "by": "maydemir",
@@ -1987,50 +2031,6 @@
     }
   },
   {
-    "id": 30137984,
-    "title": "Show HN: Web page that parses and explains the label on a bike tire",
-    "url": "https://fahrrad-tools.de/tire.html",
-    "time": 1643556717,
-    "image": "",
-    "icon": "https://fahrrad-tools.de/tire.html/icon.png",
-    "publisher": "fahrrad-tools.de",
-    "description": "Which tire fits my bike? Tires are always flat and now buy a tire with puncture protection? Find the right tire now!",
-    "by": "moasda",
-    "points": 600,
-    "comment_count": 177,
-    "hn_item": {
-      "by": "maydemir",
-      "descendants": 3,
-      "id": 30135190,
-      "kids": [
-        30144188,
-        30141785,
-        30144894
-      ],
-      "score": 35,
-      "time": 1643533222,
-      "title": "FunctionStomping – A new shellcode injection technique",
-      "type": "story",
-      "url": "https://github.com/Idov31/FunctionStomping"
-    },
-    "og_item": {
-      "title": "Bike Tire | Fahrrad-Tools.de",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "Which tire fits my bike? Tires are always flat and now buy a tire with puncture protection? Find the right tire now!",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "icon.png"
-      }
-    }
-  },
-  {
     "id": 30143946,
     "title": "Mesmerizing Labor",
     "url": "https://daily.jstor.org/mesmerizing-labor/",
@@ -2040,7 +2040,7 @@
     "publisher": "JSTOR Daily",
     "description": "The man who introduced mesmerism to the US was a slave-owner from Guadeloupe, where planters were experimenting with “magnetizing” their enslaved people.",
     "by": "onychomys",
-    "points": 44,
+    "points": 45,
     "comment_count": 11,
     "hn_item": {
       "by": "maydemir",
@@ -2146,7 +2146,7 @@
     "publisher": "blog.crunchydata.com",
     "description": "An interesting question came up on the #postgresql IRC channel about how to use native PostgreSQL features to handle some sort of queuing behavior. While the specific usage was related to handling serialization of specific events to some external broker, the specifics are less important than the …",
     "by": "Scramblejams",
-    "points": 131,
+    "points": 132,
     "comment_count": 36,
     "hn_item": {
       "by": "maydemir",
@@ -2234,17 +2234,17 @@
     }
   },
   {
-    "id": 30148557,
-    "title": "Show HN: I've built a list of 300 e-commerce conversion checkpoints (gSheet)",
-    "url": "https://docs.google.com/spreadsheets/d/1BpMAOACYkPw1vG_3oZ5b7ZzvBoRX4jRG79xuqln61tc/edit?usp=sharing",
-    "time": 1643641086,
-    "image": "https://lh4.googleusercontent.com/cWpOJREya5BDZ_80b9255sCdOxTjKrKiNqBgtuClVNh5yg6igVM0D1xsgAvU2D4lDY0_uWvosdoDKA=w1200-h630-p",
-    "icon": "https://ssl.gstatic.com/docs/spreadsheets/favicon3.ico",
-    "publisher": "Google Docs",
-    "description": "📊  Overview\n\n📊,Pages,All Tasks,To Improve,To Do,Done,%,%,Completion Bar,Page Importancy\n\u003ca href=\"#gid=445679181\"\u003eGeneral\u003c/a\u003e,45,43,43,0,0%,100,0%,3/5\n\u003ca href=\"#gid=1290347356\"\u003eHome page\u003c/a\u003e,21,21,21,0,0%,100,0%,2/5\n\u003ca href=\"#gid=789638632\"\u003eCategory page\u003c/a\u003e,29,29,29,0,0%,100,0%,3/5\n\u003ca href=…",
-    "by": "rockerfell",
-    "points": 8,
-    "comment_count": 5,
+    "id": 30148364,
+    "title": "The Rising Human Cost of Sports Betting",
+    "url": "https://www.nytimes.com/2022/01/31/sports/football/super-bowl-sports-betting.html",
+    "time": 1643640178,
+    "image": "https://static01.nyt.com/images/2022/01/31/sports/31streeter-sot-podcast/merlin_201062172_a6e09b9d-629b-4a9d-91e8-9fcdb8365fe4-facebookJumbo.jpg",
+    "icon": "https://www.nytimes.com/vi-assets/static-assets/favicon-d2483f10ef688e6f89e23806b9700298.ico",
+    "publisher": "The New York Times",
+    "description": "The ends of the college and pro football seasons were already a perilous time for people recovering from a gambling addiction. Then came the onslaught of ads for legal sports betting.",
+    "by": "jbegley",
+    "points": 16,
+    "comment_count": 1,
     "hn_item": {
       "by": "maydemir",
       "descendants": 3,
@@ -2261,28 +2261,28 @@
       "url": "https://github.com/Idov31/FunctionStomping"
     },
     "og_item": {
-      "title": "E-commerce Checklist with 300+ Conversion Checkpoints",
+      "title": "The Rising Human Cost of Sports Betting",
       "type": "article",
       "image": [
         {
-          "url": "https://lh4.googleusercontent.com/cWpOJREya5BDZ_80b9255sCdOxTjKrKiNqBgtuClVNh5yg6igVM0D1xsgAvU2D4lDY0_uWvosdoDKA=w1200-h630-p",
+          "url": "https://static01.nyt.com/images/2022/01/31/sports/31streeter-sot-podcast/merlin_201062172_a6e09b9d-629b-4a9d-91e8-9fcdb8365fe4-facebookJumbo.jpg",
           "secure_url": "",
           "type": "",
-          "width": 1200,
-          "height": 630,
+          "width": 0,
+          "height": 0,
           "alt": ""
         }
       ],
-      "url": "https://docs.google.com/spreadsheets/d/1BpMAOACYkPw1vG_3oZ5b7ZzvBoRX4jRG79xuqln61tc/edit?usp=sharing\u0026usp=embed_facebook",
+      "url": "https://www.nytimes.com/2022/01/31/sports/football/super-bowl-sports-betting.html",
       "audio": [],
-      "description": "📊  Overview\n\n📊,Pages,All Tasks,To Improve,To Do,Done,%,%,Completion Bar,Page Importancy\n\u003ca href=\"#gid=445679181\"\u003eGeneral\u003c/a\u003e,45,43,43,0,0%,100,0%,3/5\n\u003ca href=\"#gid=1290347356\"\u003eHome page\u003c/a\u003e,21,21,21,0,0%,100,0%,2/5\n\u003ca href=\"#gid=789638632\"\u003eCategory page\u003c/a\u003e,29,29,29,0,0%,100,0%,3/5\n\u003ca href=\"#gi...",
+      "description": "The ends of the college and pro football seasons were already a perilous time for people recovering from a gambling addiction. Then came the onslaught of ads for legal sports betting.",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "Google Docs",
+      "site_name": "",
       "video": [],
       "favicon": {
-        "url": "//ssl.gstatic.com/docs/spreadsheets/favicon3.ico"
+        "url": "/vi-assets/static-assets/favicon-d2483f10ef688e6f89e23806b9700298.ico"
       }
     }
   },
@@ -2340,8 +2340,8 @@
     "publisher": "royalsociety.org",
     "description": "The Online Information Environment report discusses how to limit the harm of scientific misinformation online",
     "by": "steelstraw",
-    "points": 944,
-    "comment_count": 824,
+    "points": 947,
+    "comment_count": 826,
     "hn_item": {
       "by": "maydemir",
       "descendants": 3,
@@ -2384,17 +2384,17 @@
     }
   },
   {
-    "id": 30147878,
-    "title": "Driverless cars won’t be good for the environment if they lead to more auto use",
-    "url": "https://theconversation.com/driverless-cars-wont-be-good-for-the-environment-if-they-lead-to-more-auto-use-173819",
-    "time": 1643637350,
-    "image": "https://images.theconversation.com/files/442036/original/file-20220121-15-vbuwo5.jpg?ixlib=rb-1.1.0\u0026rect=49%2C523%2C5464%2C2732\u0026q=45\u0026auto=format\u0026w=1356\u0026h=668\u0026fit=crop",
-    "icon": "https://cdn.theconversation.com/static/tc/@theconversation/ui/dist/esm/logos/favicon-ae7bd7a3096e6cda828b4576fa9b32c6.ico",
-    "publisher": "The Conversation",
-    "description": "Studies show that when people can ride in a car without having to operate it, they increase their car use. That could increase traffic and pollution, unless government puts a price on car travel.",
-    "by": "CapitalistCartr",
-    "points": 73,
-    "comment_count": 121,
+    "id": 30148557,
+    "title": "Show HN: I've built a list of 300 e-commerce conversion checkpoints (gSheet)",
+    "url": "https://docs.google.com/spreadsheets/d/1BpMAOACYkPw1vG_3oZ5b7ZzvBoRX4jRG79xuqln61tc/edit?usp=sharing",
+    "time": 1643641086,
+    "image": "https://lh4.googleusercontent.com/cWpOJREya5BDZ_80b9255sCdOxTjKrKiNqBgtuClVNh5yg6igVM0D1xsgAvU2D4lDY0_uWvosdoDKA=w1200-h630-p",
+    "icon": "https://ssl.gstatic.com/docs/spreadsheets/favicon3.ico",
+    "publisher": "Google Docs",
+    "description": "📊  Overview\n\n📊,Pages,All Tasks,To Improve,To Do,Done,%,%,Completion Bar,Page Importancy\n\u003ca href=\"#gid=445679181\"\u003eGeneral\u003c/a\u003e,45,43,43,0,0%,100,0%,3/5\n\u003ca href=\"#gid=1290347356\"\u003eHome page\u003c/a\u003e,21,21,21,0,0%,100,0%,2/5\n\u003ca href=\"#gid=789638632\"\u003eCategory page\u003c/a\u003e,29,29,29,0,0%,100,0%,3/5\n\u003ca href=…",
+    "by": "rockerfell",
+    "points": 8,
+    "comment_count": 4,
     "hn_item": {
       "by": "maydemir",
       "descendants": 3,
@@ -2411,125 +2411,28 @@
       "url": "https://github.com/Idov31/FunctionStomping"
     },
     "og_item": {
-      "title": "Driverless cars won't be good for the environment if they lead to more auto use",
+      "title": "E-commerce Checklist with 300+ Conversion Checkpoints",
       "type": "article",
       "image": [
         {
-          "url": "https://images.theconversation.com/files/442036/original/file-20220121-15-vbuwo5.jpg?ixlib=rb-1.1.0\u0026rect=49%2C523%2C5464%2C2732\u0026q=45\u0026auto=format\u0026w=1356\u0026h=668\u0026fit=crop",
+          "url": "https://lh4.googleusercontent.com/cWpOJREya5BDZ_80b9255sCdOxTjKrKiNqBgtuClVNh5yg6igVM0D1xsgAvU2D4lDY0_uWvosdoDKA=w1200-h630-p",
           "secure_url": "",
           "type": "",
-          "width": 0,
-          "height": 0,
+          "width": 1200,
+          "height": 630,
           "alt": ""
         }
       ],
-      "url": "http://theconversation.com/driverless-cars-wont-be-good-for-the-environment-if-they-lead-to-more-auto-use-173819",
+      "url": "https://docs.google.com/spreadsheets/d/1BpMAOACYkPw1vG_3oZ5b7ZzvBoRX4jRG79xuqln61tc/edit?usp=sharing\u0026usp=embed_facebook",
       "audio": [],
-      "description": "Studies show that when people can ride in a car without having to operate it, they increase their car use. That could increase traffic and pollution, unless government puts a price on car travel.",
+      "description": "📊  Overview\n\n📊,Pages,All Tasks,To Improve,To Do,Done,%,%,Completion Bar,Page Importancy\n\u003ca href=\"#gid=445679181\"\u003eGeneral\u003c/a\u003e,45,43,43,0,0%,100,0%,3/5\n\u003ca href=\"#gid=1290347356\"\u003eHome page\u003c/a\u003e,21,21,21,0,0%,100,0%,2/5\n\u003ca href=\"#gid=789638632\"\u003eCategory page\u003c/a\u003e,29,29,29,0,0%,100,0%,3/5\n\u003ca href=\"#gi...",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "The Conversation",
+      "site_name": "Google Docs",
       "video": [],
       "favicon": {
-        "url": "https://cdn.theconversation.com/static/tc/@theconversation/ui/dist/esm/logos/favicon-ae7bd7a3096e6cda828b4576fa9b32c6.ico"
-      }
-    }
-  },
-  {
-    "id": 30148364,
-    "title": "The Rising Human Cost of Sports Betting",
-    "url": "https://www.nytimes.com/2022/01/31/sports/football/super-bowl-sports-betting.html",
-    "time": 1643640178,
-    "image": "https://static01.nyt.com/images/2022/01/31/sports/31streeter-sot-podcast/merlin_201062172_a6e09b9d-629b-4a9d-91e8-9fcdb8365fe4-facebookJumbo.jpg",
-    "icon": "https://www.nytimes.com/vi-assets/static-assets/favicon-d2483f10ef688e6f89e23806b9700298.ico",
-    "publisher": "The New York Times",
-    "description": "The ends of the college and pro football seasons were already a perilous time for people recovering from a gambling addiction. Then came the onslaught of ads for legal sports betting.",
-    "by": "jbegley",
-    "points": 14,
-    "comment_count": 1,
-    "hn_item": {
-      "by": "maydemir",
-      "descendants": 3,
-      "id": 30135190,
-      "kids": [
-        30144188,
-        30141785,
-        30144894
-      ],
-      "score": 35,
-      "time": 1643533222,
-      "title": "FunctionStomping – A new shellcode injection technique",
-      "type": "story",
-      "url": "https://github.com/Idov31/FunctionStomping"
-    },
-    "og_item": {
-      "title": "The Rising Human Cost of Sports Betting",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://static01.nyt.com/images/2022/01/31/sports/31streeter-sot-podcast/merlin_201062172_a6e09b9d-629b-4a9d-91e8-9fcdb8365fe4-facebookJumbo.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://www.nytimes.com/2022/01/31/sports/football/super-bowl-sports-betting.html",
-      "audio": [],
-      "description": "The ends of the college and pro football seasons were already a perilous time for people recovering from a gambling addiction. Then came the onslaught of ads for legal sports betting.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/vi-assets/static-assets/favicon-d2483f10ef688e6f89e23806b9700298.ico"
-      }
-    }
-  },
-  {
-    "id": 30148670,
-    "title": "What If? 2: the book (by the author of Xkcd)",
-    "url": "https://xkcd.com/what-if-2/",
-    "time": 1643641679,
-    "image": "",
-    "icon": "https://xkcd.com/favicon.ico",
-    "publisher": "xkcd.com",
-    "description": "",
-    "by": "RojerGS",
-    "points": 28,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "maydemir",
-      "descendants": 3,
-      "id": 30135190,
-      "kids": [
-        30144188,
-        30141785,
-        30144894
-      ],
-      "score": 35,
-      "time": 1643533222,
-      "title": "FunctionStomping – A new shellcode injection technique",
-      "type": "story",
-      "url": "https://github.com/Idov31/FunctionStomping"
-    },
-    "og_item": {
-      "title": "What if? 2: Additional Serious Scientific Answers to Absurd Hypothetical Questions ",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
+        "url": "//ssl.gstatic.com/docs/spreadsheets/favicon3.ico"
       }
     }
   },
@@ -2543,7 +2446,7 @@
     "publisher": "BuzzFeed News",
     "description": "I went on a vacation. I came home with a mysterious fungus in my brain that is so rare only about 120 cases have been confirmed worldwide since its discovery in 1911.",
     "by": "yellow_lead",
-    "points": 229,
+    "points": 230,
     "comment_count": 40,
     "hn_item": {
       "by": "maydemir",
@@ -2587,16 +2490,16 @@
     }
   },
   {
-    "id": 30149470,
-    "title": "Top Outages of 2021",
-    "url": "https://www.networkworld.com/article/3648352/top-10-outages-of-2021.html",
-    "time": 1643644871,
-    "image": "https://images.idgesg.net/images/article/2020/09/red_flag_warning_button_alert_danger_disaster_by_matejmo_gettyimages-644328002_2400x1600-100858026-large.jpg?auto=webp\u0026quality=85,70",
-    "icon": "https://www.networkworld.com/www.idge.nww/favicon.ico",
-    "publisher": "Network World",
-    "description": "Cisco-owned network intelligence company ThousandEyes reveals the 10 biggest outages of 2021.",
-    "by": "CapitalistCartr",
-    "points": 5,
+    "id": 30148670,
+    "title": "What If? 2: the book (by the author of Xkcd)",
+    "url": "https://xkcd.com/what-if-2/",
+    "time": 1643641679,
+    "image": "",
+    "icon": "https://xkcd.com/favicon.ico",
+    "publisher": "xkcd.com",
+    "description": "",
+    "by": "RojerGS",
+    "points": 29,
     "comment_count": 0,
     "hn_item": {
       "by": "maydemir",
@@ -2614,81 +2517,19 @@
       "url": "https://github.com/Idov31/FunctionStomping"
     },
     "og_item": {
-      "title": "Top 10 outages of 2021",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://images.idgesg.net/images/article/2020/09/red_flag_warning_button_alert_danger_disaster_by_matejmo_gettyimages-644328002_2400x1600-100858026-large.jpg?auto=webp\u0026quality=85,70",
-          "secure_url": "",
-          "type": "",
-          "width": 1200,
-          "height": 800,
-          "alt": ""
-        }
-      ],
-      "url": "https://www.networkworld.com/article/3648352/top-10-outages-of-2021.html",
+      "title": "What if? 2: Additional Serious Scientific Answers to Absurd Hypothetical Questions ",
+      "type": "",
+      "image": [],
+      "url": "",
       "audio": [],
-      "description": "Cisco-owned network intelligence company ThousandEyes reveals the 10 biggest outages of 2021.",
+      "description": "",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "Network World",
+      "site_name": "",
       "video": [],
       "favicon": {
-        "url": "/www.idge.nww/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30124927,
-    "title": "Hiring for conscientiousness (2019)",
-    "url": "https://www.holloway.com/s/trh-hiring-for-conscientiousness",
-    "time": 1643447066,
-    "image": "https://assets.holloway.com/editorial/images/holloway_will_skill_complete.png",
-    "icon": "https://www.holloway.com/static/favicons/icon-default-32x32-62ab2f6444.png",
-    "publisher": "Holloway",
-    "description": "Why startups should hire conscientious people—and how to find them",
-    "by": "rognjen",
-    "points": 31,
-    "comment_count": 43,
-    "hn_item": {
-      "by": "maydemir",
-      "descendants": 3,
-      "id": 30135190,
-      "kids": [
-        30144188,
-        30141785,
-        30144894
-      ],
-      "score": 35,
-      "time": 1643533222,
-      "title": "FunctionStomping – A new shellcode injection technique",
-      "type": "story",
-      "url": "https://github.com/Idov31/FunctionStomping"
-    },
-    "og_item": {
-      "title": "Hiring for Conscientiousness — Holloway",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://assets.holloway.com/editorial/images/holloway_will_skill_complete.png",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://www.holloway.com/s/trh-hiring-for-conscientiousness",
-      "audio": [],
-      "description": "Why startups should hire conscientious people—and how to find them",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Holloway",
-      "video": [],
-      "favicon": {
-        "url": "https://www.holloway.com/static/favicons/icon-default-32x32-62ab2f6444.png"
+        "url": "/favicon.ico"
       }
     }
   },
@@ -2703,7 +2544,7 @@
     "description": "Static Site Generators have been changing quickly with new trends like Jamstack. Learn more about the background of static site generators, why people use them, and the current state of them, with information on modern SSGs like Eleventy, Next.js, SvelteKit, and Astro.",
     "by": "AsyncBanana",
     "points": 150,
-    "comment_count": 159,
+    "comment_count": 162,
     "hn_item": {
       "by": "maydemir",
       "descendants": 3,
@@ -2799,6 +2640,209 @@
     }
   },
   {
+    "id": 30124927,
+    "title": "Hiring for conscientiousness (2019)",
+    "url": "https://www.holloway.com/s/trh-hiring-for-conscientiousness",
+    "time": 1643447066,
+    "image": "https://assets.holloway.com/editorial/images/holloway_will_skill_complete.png",
+    "icon": "https://www.holloway.com/static/favicons/icon-default-32x32-62ab2f6444.png",
+    "publisher": "Holloway",
+    "description": "Why startups should hire conscientious people—and how to find them",
+    "by": "rognjen",
+    "points": 31,
+    "comment_count": 43,
+    "hn_item": {
+      "by": "maydemir",
+      "descendants": 3,
+      "id": 30135190,
+      "kids": [
+        30144188,
+        30141785,
+        30144894
+      ],
+      "score": 35,
+      "time": 1643533222,
+      "title": "FunctionStomping – A new shellcode injection technique",
+      "type": "story",
+      "url": "https://github.com/Idov31/FunctionStomping"
+    },
+    "og_item": {
+      "title": "Hiring for Conscientiousness — Holloway",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://assets.holloway.com/editorial/images/holloway_will_skill_complete.png",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://www.holloway.com/s/trh-hiring-for-conscientiousness",
+      "audio": [],
+      "description": "Why startups should hire conscientious people—and how to find them",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Holloway",
+      "video": [],
+      "favicon": {
+        "url": "https://www.holloway.com/static/favicons/icon-default-32x32-62ab2f6444.png"
+      }
+    }
+  },
+  {
+    "id": 30147878,
+    "title": "Driverless cars won’t be good for the environment if they lead to more auto use",
+    "url": "https://theconversation.com/driverless-cars-wont-be-good-for-the-environment-if-they-lead-to-more-auto-use-173819",
+    "time": 1643637350,
+    "image": "https://images.theconversation.com/files/442036/original/file-20220121-15-vbuwo5.jpg?ixlib=rb-1.1.0\u0026rect=49%2C523%2C5464%2C2732\u0026q=45\u0026auto=format\u0026w=1356\u0026h=668\u0026fit=crop",
+    "icon": "https://cdn.theconversation.com/static/tc/@theconversation/ui/dist/esm/logos/favicon-ae7bd7a3096e6cda828b4576fa9b32c6.ico",
+    "publisher": "The Conversation",
+    "description": "Studies show that when people can ride in a car without having to operate it, they increase their car use. That could increase traffic and pollution, unless government puts a price on car travel.",
+    "by": "CapitalistCartr",
+    "points": 74,
+    "comment_count": 124,
+    "hn_item": {
+      "by": "maydemir",
+      "descendants": 3,
+      "id": 30135190,
+      "kids": [
+        30144188,
+        30141785,
+        30144894
+      ],
+      "score": 35,
+      "time": 1643533222,
+      "title": "FunctionStomping – A new shellcode injection technique",
+      "type": "story",
+      "url": "https://github.com/Idov31/FunctionStomping"
+    },
+    "og_item": {
+      "title": "Driverless cars won't be good for the environment if they lead to more auto use",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://images.theconversation.com/files/442036/original/file-20220121-15-vbuwo5.jpg?ixlib=rb-1.1.0\u0026rect=49%2C523%2C5464%2C2732\u0026q=45\u0026auto=format\u0026w=1356\u0026h=668\u0026fit=crop",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "http://theconversation.com/driverless-cars-wont-be-good-for-the-environment-if-they-lead-to-more-auto-use-173819",
+      "audio": [],
+      "description": "Studies show that when people can ride in a car without having to operate it, they increase their car use. That could increase traffic and pollution, unless government puts a price on car travel.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "The Conversation",
+      "video": [],
+      "favicon": {
+        "url": "https://cdn.theconversation.com/static/tc/@theconversation/ui/dist/esm/logos/favicon-ae7bd7a3096e6cda828b4576fa9b32c6.ico"
+      }
+    }
+  },
+  {
+    "id": 30149470,
+    "title": "Top Outages of 2021",
+    "url": "https://www.networkworld.com/article/3648352/top-10-outages-of-2021.html",
+    "time": 1643644871,
+    "image": "https://images.idgesg.net/images/article/2020/09/red_flag_warning_button_alert_danger_disaster_by_matejmo_gettyimages-644328002_2400x1600-100858026-large.jpg?auto=webp\u0026quality=85,70",
+    "icon": "https://www.networkworld.com/www.idge.nww/favicon.ico",
+    "publisher": "Network World",
+    "description": "Cisco-owned network intelligence company ThousandEyes reveals the 10 biggest outages of 2021.",
+    "by": "CapitalistCartr",
+    "points": 5,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "maydemir",
+      "descendants": 3,
+      "id": 30135190,
+      "kids": [
+        30144188,
+        30141785,
+        30144894
+      ],
+      "score": 35,
+      "time": 1643533222,
+      "title": "FunctionStomping – A new shellcode injection technique",
+      "type": "story",
+      "url": "https://github.com/Idov31/FunctionStomping"
+    },
+    "og_item": {
+      "title": "Top 10 outages of 2021",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/09/red_flag_warning_button_alert_danger_disaster_by_matejmo_gettyimages-644328002_2400x1600-100858026-large.jpg?auto=webp\u0026quality=85,70",
+          "secure_url": "",
+          "type": "",
+          "width": 1200,
+          "height": 800,
+          "alt": ""
+        }
+      ],
+      "url": "https://www.networkworld.com/article/3648352/top-10-outages-of-2021.html",
+      "audio": [],
+      "description": "Cisco-owned network intelligence company ThousandEyes reveals the 10 biggest outages of 2021.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Network World",
+      "video": [],
+      "favicon": {
+        "url": "/www.idge.nww/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30138533,
+    "title": "Hypercard Simulator",
+    "url": "https://hypercardsimulator.com/",
+    "time": 1643560248,
+    "image": "",
+    "icon": "https://hypercardsimulator.com/favicon.ico",
+    "publisher": "hypercardsimulator.com",
+    "description": "",
+    "by": "alexmingoia",
+    "points": 224,
+    "comment_count": 81,
+    "hn_item": {
+      "by": "maydemir",
+      "descendants": 3,
+      "id": 30135190,
+      "kids": [
+        30144188,
+        30141785,
+        30144894
+      ],
+      "score": 35,
+      "time": 1643533222,
+      "title": "FunctionStomping – A new shellcode injection technique",
+      "type": "story",
+      "url": "https://github.com/Idov31/FunctionStomping"
+    },
+    "og_item": {
+      "title": "HyperCardSimulator",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30140835,
     "title": "Hardy, Ramanujan and Taxi No. 1729",
     "url": "https://johncarlosbaez.wordpress.com/2022/01/30/hardy-ramanujan-and-taxi-no-1729/",
@@ -2808,7 +2852,7 @@
     "publisher": "Azimuth",
     "description": "In his book Ramanujan: Twelve Lectures on Subjects Suggested by His Life and Work, G. H. Hardy tells this famous story: He could remember the idiosyncracies of numbers in an almost uncanny way. It …",
     "by": "johncarlosbaez",
-    "points": 123,
+    "points": 125,
     "comment_count": 19,
     "hn_item": {
       "by": "maydemir",
@@ -2852,17 +2896,17 @@
     }
   },
   {
-    "id": 30138533,
-    "title": "Hypercard Simulator",
-    "url": "https://hypercardsimulator.com/",
-    "time": 1643560248,
-    "image": "",
-    "icon": "https://hypercardsimulator.com/favicon.ico",
-    "publisher": "hypercardsimulator.com",
-    "description": "",
-    "by": "alexmingoia",
-    "points": 223,
-    "comment_count": 81,
+    "id": 30149807,
+    "title": "Rogan responds to Spotify protest, Covid advisories",
+    "url": "https://apnews.com/article/coronavirus-pandemic-entertainment-technology-health-business-435f6efc51f4d4c94587f1b4ffe5fbe3",
+    "time": 1643646421,
+    "image": "https://storage.googleapis.com/afs-prod/media/e6fa76ccd75a443e9ebcf7b66a06cdb6/3000.jpeg",
+    "icon": "https://apnews.com/branding/favicon/256.png",
+    "publisher": "AP NEWS",
+    "description": "NEW YORK (AP) — Following protests of Spotify kicked off by Neil Young over the spread of COVID-19 vaccine misinformation, the music streaming service said that it will add content advisories before podcasts discussing the virus.",
+    "by": "throwawaysea",
+    "points": 6,
+    "comment_count": 1,
     "hn_item": {
       "by": "maydemir",
       "descendants": 3,
@@ -2879,19 +2923,28 @@
       "url": "https://github.com/Idov31/FunctionStomping"
     },
     "og_item": {
-      "title": "HyperCardSimulator",
-      "type": "",
-      "image": [],
-      "url": "",
+      "title": "Rogan responds to Spotify protest, COVID advisories",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://storage.googleapis.com/afs-prod/media/e6fa76ccd75a443e9ebcf7b66a06cdb6/3000.jpeg",
+          "secure_url": "",
+          "type": "",
+          "width": 4286,
+          "height": 3000,
+          "alt": ""
+        }
+      ],
+      "url": "https://apnews.com/article/spotify-joe-rogan-covid-advisories-435f6efc51f4d4c94587f1b4ffe5fbe3",
       "audio": [],
-      "description": "",
+      "description": "NEW YORK (AP) — Following protests of Spotify kicked off by Neil Young over the spread of COVID-19 vaccine misinformation, the music streaming service said that it will add content advisories before podcasts discussing the virus. ",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "",
+      "site_name": "AP NEWS",
       "video": [],
       "favicon": {
-        "url": "/favicon.ico"
+        "url": "/branding/favicon/256.png"
       }
     }
   },
@@ -2905,7 +2958,7 @@
     "publisher": "Eurogamer.net",
     "description": "",
     "by": "atombender",
-    "points": 246,
+    "points": 247,
     "comment_count": 111,
     "hn_item": {
       "by": "maydemir",
@@ -3021,7 +3074,7 @@
     "description": "The Weird Future Ahead",
     "by": "enigmatic02",
     "points": 14,
-    "comment_count": 16,
+    "comment_count": 19,
     "hn_item": {
       "by": "maydemir",
       "descendants": 3,
@@ -3073,7 +3126,7 @@
     "publisher": "web.archive.org",
     "description": "",
     "by": "ecliptik",
-    "points": 144,
+    "points": 145,
     "comment_count": 52,
     "hn_item": {
       "by": "maydemir",
@@ -3108,112 +3161,6 @@
     }
   },
   {
-    "id": 30149807,
-    "title": "Rogan responds to Spotify protest, Covid advisories",
-    "url": "https://apnews.com/article/coronavirus-pandemic-entertainment-technology-health-business-435f6efc51f4d4c94587f1b4ffe5fbe3",
-    "time": 1643646421,
-    "image": "https://storage.googleapis.com/afs-prod/media/e6fa76ccd75a443e9ebcf7b66a06cdb6/3000.jpeg",
-    "icon": "https://apnews.com/branding/favicon/256.png",
-    "publisher": "AP NEWS",
-    "description": "NEW YORK (AP) — Following protests of Spotify kicked off by Neil Young over the spread of COVID-19 vaccine misinformation, the music streaming service said that it will add content advisories before podcasts discussing the virus.",
-    "by": "throwawaysea",
-    "points": 5,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "maydemir",
-      "descendants": 3,
-      "id": 30135190,
-      "kids": [
-        30144188,
-        30141785,
-        30144894
-      ],
-      "score": 35,
-      "time": 1643533222,
-      "title": "FunctionStomping – A new shellcode injection technique",
-      "type": "story",
-      "url": "https://github.com/Idov31/FunctionStomping"
-    },
-    "og_item": {
-      "title": "Rogan responds to Spotify protest, COVID advisories",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://storage.googleapis.com/afs-prod/media/e6fa76ccd75a443e9ebcf7b66a06cdb6/3000.jpeg",
-          "secure_url": "",
-          "type": "",
-          "width": 4286,
-          "height": 3000,
-          "alt": ""
-        }
-      ],
-      "url": "https://apnews.com/article/spotify-joe-rogan-covid-advisories-435f6efc51f4d4c94587f1b4ffe5fbe3",
-      "audio": [],
-      "description": "NEW YORK (AP) — Following protests of Spotify kicked off by Neil Young over the spread of COVID-19 vaccine misinformation, the music streaming service said that it will add content advisories before podcasts discussing the virus. ",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "AP NEWS",
-      "video": [],
-      "favicon": {
-        "url": "/branding/favicon/256.png"
-      }
-    }
-  },
-  {
-    "id": 30141439,
-    "title": "Operation Warp Speed: A new model for industrial policy",
-    "url": "https://americanaffairsjournal.org/2021/05/inside-operation-warp-speed-a-new-model-for-industrial-policy/",
-    "time": 1643579096,
-    "image": "https://americanaffairsjournal.org/wp-content/uploads/2021/05/Jenner-Vaccine.jpg",
-    "icon": "https://americanaffairsjournal.org/wp-content/themes/american-affairs-journal/assets/images/favicon-new.png",
-    "publisher": "American Affairs Journal",
-    "description": "Operation Warp Speed1 (OWS) was launched on May 15, 2020. A partnership between the Departments of Health and Human Services (HHS) and Defense (DoD), other agencies, and the private sector, its goal was to “accelerate the testing, supply, development, and distribution of safe and effective vacc…",
-    "by": "gok",
-    "points": 143,
-    "comment_count": 140,
-    "hn_item": {
-      "by": "maydemir",
-      "descendants": 3,
-      "id": 30135190,
-      "kids": [
-        30144188,
-        30141785,
-        30144894
-      ],
-      "score": 35,
-      "time": 1643533222,
-      "title": "FunctionStomping – A new shellcode injection technique",
-      "type": "story",
-      "url": "https://github.com/Idov31/FunctionStomping"
-    },
-    "og_item": {
-      "title": "Inside Operation Warp Speed: A New Model for Industrial Policy - American Affairs Journal",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://americanaffairsjournal.org/wp-content/uploads/2021/05/Jenner-Vaccine.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 1200,
-          "height": 794,
-          "alt": ""
-        }
-      ],
-      "url": "https://americanaffairsjournal.org/2021/05/inside-operation-warp-speed-a-new-model-for-industrial-policy/",
-      "audio": [],
-      "description": "Operation Warp Speed1 (OWS) was launched on May 15, 2020. A partnership between the Departments of Health and Human Services (HHS) and Defense (DoD), other agencies, and the private sector, its goal was to “accelerate the testing, supply, development, and distribution of safe and effective vaccines, therapeutics, and diag­nostics to counter Covid-19.” As a result…",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "American Affairs Journal",
-      "video": [],
-      "favicon": {
-        "url": "https://americanaffairsjournal.org/wp-content/themes/american-affairs-journal/assets/images/favicon-new.png"
-      }
-    }
-  },
-  {
     "id": 30138434,
     "title": "Beancount: Double-entry accounting from text files",
     "url": "https://github.com/beancount/beancount",
@@ -3223,8 +3170,8 @@
     "publisher": "GitHub",
     "description": "Beancount: Double-Entry Accounting from Text Files. - GitHub - beancount/beancount: Beancount: Double-Entry Accounting from Text Files.",
     "by": "techtalsky",
-    "points": 213,
-    "comment_count": 112,
+    "points": 215,
+    "comment_count": 114,
     "hn_item": {
       "by": "maydemir",
       "descendants": 3,
@@ -3263,6 +3210,59 @@
       "video": [],
       "favicon": {
         "url": "https://github.githubassets.com/favicons/favicon.svg"
+      }
+    }
+  },
+  {
+    "id": 30141439,
+    "title": "Operation Warp Speed: A new model for industrial policy",
+    "url": "https://americanaffairsjournal.org/2021/05/inside-operation-warp-speed-a-new-model-for-industrial-policy/",
+    "time": 1643579096,
+    "image": "https://americanaffairsjournal.org/wp-content/uploads/2021/05/Jenner-Vaccine.jpg",
+    "icon": "https://americanaffairsjournal.org/wp-content/themes/american-affairs-journal/assets/images/favicon-new.png",
+    "publisher": "American Affairs Journal",
+    "description": "Operation Warp Speed1 (OWS) was launched on May 15, 2020. A partnership between the Departments of Health and Human Services (HHS) and Defense (DoD), other agencies, and the private sector, its goal was to “accelerate the testing, supply, development, and distribution of safe and effective vacc…",
+    "by": "gok",
+    "points": 144,
+    "comment_count": 142,
+    "hn_item": {
+      "by": "maydemir",
+      "descendants": 3,
+      "id": 30135190,
+      "kids": [
+        30144188,
+        30141785,
+        30144894
+      ],
+      "score": 35,
+      "time": 1643533222,
+      "title": "FunctionStomping – A new shellcode injection technique",
+      "type": "story",
+      "url": "https://github.com/Idov31/FunctionStomping"
+    },
+    "og_item": {
+      "title": "Inside Operation Warp Speed: A New Model for Industrial Policy - American Affairs Journal",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://americanaffairsjournal.org/wp-content/uploads/2021/05/Jenner-Vaccine.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 1200,
+          "height": 794,
+          "alt": ""
+        }
+      ],
+      "url": "https://americanaffairsjournal.org/2021/05/inside-operation-warp-speed-a-new-model-for-industrial-policy/",
+      "audio": [],
+      "description": "Operation Warp Speed1 (OWS) was launched on May 15, 2020. A partnership between the Departments of Health and Human Services (HHS) and Defense (DoD), other agencies, and the private sector, its goal was to “accelerate the testing, supply, development, and distribution of safe and effective vaccines, therapeutics, and diag­nostics to counter Covid-19.” As a result…",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "American Affairs Journal",
+      "video": [],
+      "favicon": {
+        "url": "https://americanaffairsjournal.org/wp-content/themes/american-affairs-journal/assets/images/favicon-new.png"
       }
     }
   },
@@ -3329,7 +3329,7 @@
     "publisher": "leahneukirchen.org",
     "description": "",
     "by": "panic",
-    "points": 165,
+    "points": 166,
     "comment_count": 57,
     "hn_item": {
       "by": "maydemir",
