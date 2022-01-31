@@ -1,5 +1,63 @@
 [
   {
+    "id": 30146843,
+    "title": "1k-cycle lithium-sulfur battery could quintuple electric vehicle ranges",
+    "url": "https://news.umich.edu/1000-cycle-lithium-sulfur-battery-could-quintuple-electric-vehicle-ranges/",
+    "time": 1643628054,
+    "image": "https://news.umich.edu/wp-content/uploads/mc-image-cache/2022/01/1000-cycle-lithium-sulfur-battery-could-quintuple-electric-vehicle-ranges-LiS-Battery-Diagram.jpg",
+    "icon": "https://news.umich.edu/favicon.ico",
+    "publisher": "University of Michigan News",
+    "description": "A new biologically inspired battery membrane has enabled a battery with five times the capacity of the industry-standard lithium ion design to run for the thousand-plus cycles needed to power an electric car.\n\nA network of aramid nanofibers, recycled from Kevlar, can enable lithium-sulfur batterie",
+    "by": "maeln",
+    "points": 24,
+    "comment_count": 5,
+    "hn_item": {
+      "by": "camnora",
+      "descendants": 25,
+      "id": 30138468,
+      "kids": [
+        30140217,
+        30139229,
+        30138770,
+        30139945,
+        30139640,
+        30139547,
+        30140997,
+        30146910
+      ],
+      "score": 105,
+      "time": 1643559712,
+      "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
+      "type": "story",
+      "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
+    },
+    "og_item": {
+      "title": "1,000-cycle lithium-sulfur battery could quintuple electric vehicle ranges",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://news.umich.edu/wp-content/uploads/mc-image-cache/2022/01/1000-cycle-lithium-sulfur-battery-could-quintuple-electric-vehicle-ranges-LiS-Battery-Diagram.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://news.umich.edu/1000-cycle-lithium-sulfur-battery-could-quintuple-electric-vehicle-ranges/",
+      "audio": [],
+      "description": "A new biologically inspired battery membrane has enabled a battery with five times the capacity of the industry-standard lithium ion design to run for the thousand-plus cycles needed to power an electric car.\n\nA network of aramid nanofibers, recycled from Kevlar, can enable lithium-sulfur batterie",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "University of Michigan News",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30146052,
     "title": "The Awk State Machine Parser Pattern (2018)",
     "url": "https://two-wrongs.com/awk-state-machine-parser-pattern.html",
@@ -9,7 +67,7 @@
     "publisher": "two-wrongs.com",
     "description": "",
     "by": "Tomte",
-    "points": 76,
+    "points": 78,
     "comment_count": 4,
     "hn_item": {
       "by": "camnora",
@@ -58,7 +116,7 @@
     "publisher": "royalsociety.org",
     "description": "The Online Information Environment report discusses how to limit the harm of scientific misinformation online",
     "by": "steelstraw",
-    "points": 875,
+    "points": 880,
     "comment_count": 58,
     "hn_item": {
       "by": "camnora",
@@ -116,7 +174,7 @@
     "publisher": "GitHub",
     "description": "A light based alert system. Contribute to jscd/Boyfriend-Alert development by creating an account on GitHub.",
     "by": "rgun",
-    "points": 84,
+    "points": 90,
     "comment_count": 20,
     "hn_item": {
       "by": "camnora",
@@ -165,64 +223,6 @@
     }
   },
   {
-    "id": 30146843,
-    "title": "1k-cycle lithium-sulfur battery could quintuple electric vehicle ranges",
-    "url": "https://news.umich.edu/1000-cycle-lithium-sulfur-battery-could-quintuple-electric-vehicle-ranges/",
-    "time": 1643628054,
-    "image": "https://news.umich.edu/wp-content/uploads/mc-image-cache/2022/01/1000-cycle-lithium-sulfur-battery-could-quintuple-electric-vehicle-ranges-LiS-Battery-Diagram.jpg",
-    "icon": "https://news.umich.edu/favicon.ico",
-    "publisher": "University of Michigan News",
-    "description": "A new biologically inspired battery membrane has enabled a battery with five times the capacity of the industry-standard lithium ion design to run for the thousand-plus cycles needed to power an electric car.\n\nA network of aramid nanofibers, recycled from Kevlar, can enable lithium-sulfur batterie",
-    "by": "maeln",
-    "points": 18,
-    "comment_count": 5,
-    "hn_item": {
-      "by": "camnora",
-      "descendants": 25,
-      "id": 30138468,
-      "kids": [
-        30140217,
-        30139229,
-        30138770,
-        30139945,
-        30139640,
-        30139547,
-        30140997,
-        30146910
-      ],
-      "score": 105,
-      "time": 1643559712,
-      "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
-      "type": "story",
-      "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
-    },
-    "og_item": {
-      "title": "1,000-cycle lithium-sulfur battery could quintuple electric vehicle ranges",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://news.umich.edu/wp-content/uploads/mc-image-cache/2022/01/1000-cycle-lithium-sulfur-battery-could-quintuple-electric-vehicle-ranges-LiS-Battery-Diagram.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://news.umich.edu/1000-cycle-lithium-sulfur-battery-could-quintuple-electric-vehicle-ranges/",
-      "audio": [],
-      "description": "A new biologically inspired battery membrane has enabled a battery with five times the capacity of the industry-standard lithium ion design to run for the thousand-plus cycles needed to power an electric car.\n\nA network of aramid nanofibers, recycled from Kevlar, can enable lithium-sulfur batterie",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "University of Michigan News",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30144652,
     "title": "Zero-copy network transmission with io_uring (2021)",
     "url": "https://lwn.net/Articles/879724/",
@@ -232,7 +232,7 @@
     "publisher": "lwn.net",
     "description": "",
     "by": "pabs3",
-    "points": 151,
+    "points": 153,
     "comment_count": 5,
     "hn_item": {
       "by": "camnora",
@@ -281,7 +281,7 @@
     "publisher": "MathOverflow",
     "description": "The first thing to say is that this is not the same as the question about interesting mathematical mistakes. I am interested about the type of false beliefs that many intelligent people have while ...",
     "by": "gballan",
-    "points": 129,
+    "points": 130,
     "comment_count": 10,
     "hn_item": {
       "by": "camnora",
@@ -339,7 +339,7 @@
     "publisher": "smallcultfollowing.com",
     "description": "",
     "by": "ingve",
-    "points": 50,
+    "points": 52,
     "comment_count": 3,
     "hn_item": {
       "by": "camnora",
@@ -495,7 +495,7 @@
     "publisher": "Medium",
     "description": "My journey on finding and reporting databases with sensitive data about Fortune-500 companies, Hospitals, Crypto platforms, Startups during…",
     "by": "boyter",
-    "points": 186,
+    "points": 190,
     "comment_count": 14,
     "hn_item": {
       "by": "camnora",
@@ -553,7 +553,7 @@
     "publisher": "blog.thomaspuppe.de",
     "description": "",
     "by": "indigodaddy",
-    "points": 60,
+    "points": 62,
     "comment_count": 10,
     "hn_item": {
       "by": "camnora",
@@ -587,7 +587,7 @@
     "publisher": "mattferraro.dev",
     "description": "What does it mean to invert a shape?",
     "by": "mferraro89",
-    "points": 117,
+    "points": 121,
     "comment_count": 10,
     "hn_item": {
       "by": "camnora",
@@ -645,7 +645,7 @@
     "publisher": "cacm.acm.org",
     "description": "AI is driving the next evolution of chess, giving players a glimpse into the game\u0026#39;s future.",
     "by": "joak",
-    "points": 117,
+    "points": 120,
     "comment_count": 16,
     "hn_item": {
       "by": "camnora",
@@ -703,7 +703,7 @@
     "publisher": "bleepingcomputer.com",
     "description": "",
     "by": "beermonster",
-    "points": 88,
+    "points": 92,
     "comment_count": 6,
     "hn_item": {
       "by": "camnora",
@@ -752,7 +752,7 @@
     "publisher": "zillow.com",
     "description": "",
     "by": "otras",
-    "points": 299,
+    "points": 301,
     "comment_count": 35,
     "hn_item": {
       "by": "camnora",
@@ -801,7 +801,7 @@
     "publisher": "EL PAÍS English Edition",
     "description": "Doctors in Belgium explain how they saved a bomb attack victim who had been struggling with one of the most virulent bacterial pathogens in the world",
     "by": "belter",
-    "points": 84,
+    "points": 88,
     "comment_count": 7,
     "hn_item": {
       "by": "camnora",
@@ -966,8 +966,8 @@
     "publisher": "web.archive.org",
     "description": "",
     "by": "ecliptik",
-    "points": 124,
-    "comment_count": 10,
+    "points": 125,
+    "comment_count": 11,
     "hn_item": {
       "by": "camnora",
       "descendants": 25,
@@ -1055,6 +1055,64 @@
     }
   },
   {
+    "id": 30141439,
+    "title": "Operation Warp Speed: A new model for industrial policy",
+    "url": "https://americanaffairsjournal.org/2021/05/inside-operation-warp-speed-a-new-model-for-industrial-policy/",
+    "time": 1643579096,
+    "image": "https://americanaffairsjournal.org/wp-content/uploads/2021/05/Jenner-Vaccine.jpg",
+    "icon": "https://americanaffairsjournal.org/wp-content/themes/american-affairs-journal/assets/images/favicon-new.png",
+    "publisher": "American Affairs Journal",
+    "description": "Operation Warp Speed1 (OWS) was launched on May 15, 2020. A partnership between the Departments of Health and Human Services (HHS) and Defense (DoD), other agencies, and the private sector, its goal was to “accelerate the testing, supply, development, and distribution of safe and effective vacc…",
+    "by": "gok",
+    "points": 129,
+    "comment_count": 10,
+    "hn_item": {
+      "by": "camnora",
+      "descendants": 25,
+      "id": 30138468,
+      "kids": [
+        30140217,
+        30139229,
+        30138770,
+        30139945,
+        30139640,
+        30139547,
+        30140997,
+        30146910
+      ],
+      "score": 105,
+      "time": 1643559712,
+      "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
+      "type": "story",
+      "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
+    },
+    "og_item": {
+      "title": "Inside Operation Warp Speed: A New Model for Industrial Policy - American Affairs Journal",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://americanaffairsjournal.org/wp-content/uploads/2021/05/Jenner-Vaccine.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 1200,
+          "height": 794,
+          "alt": ""
+        }
+      ],
+      "url": "https://americanaffairsjournal.org/2021/05/inside-operation-warp-speed-a-new-model-for-industrial-policy/",
+      "audio": [],
+      "description": "Operation Warp Speed1 (OWS) was launched on May 15, 2020. A partnership between the Departments of Health and Human Services (HHS) and Defense (DoD), other agencies, and the private sector, its goal was to “accelerate the testing, supply, development, and distribution of safe and effective vaccines, therapeutics, and diag­nostics to counter Covid-19.” As a result…",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "American Affairs Journal",
+      "video": [],
+      "favicon": {
+        "url": "https://americanaffairsjournal.org/wp-content/themes/american-affairs-journal/assets/images/favicon-new.png"
+      }
+    }
+  },
+  {
     "id": 30141192,
     "title": "Don't forget Microsoft",
     "url": "https://luttig.substack.com/p/dont-forget-microsoft",
@@ -1064,7 +1122,7 @@
     "publisher": "luttig.substack.com",
     "description": "Understanding the behemoth in Redmond teaches us valuable lessons in cloud infrastructure, startup strategy, and the future of software.",
     "by": "SamvitJ",
-    "points": 348,
+    "points": 352,
     "comment_count": 60,
     "hn_item": {
       "by": "camnora",
@@ -1113,17 +1171,17 @@
     }
   },
   {
-    "id": 30141439,
-    "title": "Operation Warp Speed: A new model for industrial policy",
-    "url": "https://americanaffairsjournal.org/2021/05/inside-operation-warp-speed-a-new-model-for-industrial-policy/",
-    "time": 1643579096,
-    "image": "https://americanaffairsjournal.org/wp-content/uploads/2021/05/Jenner-Vaccine.jpg",
-    "icon": "https://americanaffairsjournal.org/wp-content/themes/american-affairs-journal/assets/images/favicon-new.png",
-    "publisher": "American Affairs Journal",
-    "description": "Operation Warp Speed1 (OWS) was launched on May 15, 2020. A partnership between the Departments of Health and Human Services (HHS) and Defense (DoD), other agencies, and the private sector, its goal was to “accelerate the testing, supply, development, and distribution of safe and effective vacc…",
-    "by": "gok",
-    "points": 127,
-    "comment_count": 9,
+    "id": 30131387,
+    "title": "Game performance optimization – A practical example from Industry Idle",
+    "url": "https://ruoyusun.com/2022/01/28/game-pref.html",
+    "time": 1643496513,
+    "image": "",
+    "icon": "https://ruoyusun.com/favicon-16x16.png",
+    "publisher": "ruoyusun.com",
+    "description": "",
+    "by": "insraq",
+    "points": 85,
+    "comment_count": 10,
     "hn_item": {
       "by": "camnora",
       "descendants": 25,
@@ -1145,28 +1203,19 @@
       "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
     },
     "og_item": {
-      "title": "Inside Operation Warp Speed: A New Model for Industrial Policy - American Affairs Journal",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://americanaffairsjournal.org/wp-content/uploads/2021/05/Jenner-Vaccine.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 1200,
-          "height": 794,
-          "alt": ""
-        }
-      ],
-      "url": "https://americanaffairsjournal.org/2021/05/inside-operation-warp-speed-a-new-model-for-industrial-policy/",
+      "title": "Game Performance Optimization - A Practical Example From Industry Idle",
+      "type": "",
+      "image": [],
+      "url": "",
       "audio": [],
-      "description": "Operation Warp Speed1 (OWS) was launched on May 15, 2020. A partnership between the Departments of Health and Human Services (HHS) and Defense (DoD), other agencies, and the private sector, its goal was to “accelerate the testing, supply, development, and distribution of safe and effective vaccines, therapeutics, and diag­nostics to counter Covid-19.” As a result…",
+      "description": "",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "American Affairs Journal",
+      "site_name": "",
       "video": [],
       "favicon": {
-        "url": "https://americanaffairsjournal.org/wp-content/themes/american-affairs-journal/assets/images/favicon-new.png"
+        "url": "/favicon-16x16.png"
       }
     }
   },
@@ -1181,7 +1230,7 @@
     "description": "The man who introduced mesmerism to the US was a slave-owner from Guadeloupe, where planters were experimenting with “magnetizing” their enslaved people.",
     "by": "onychomys",
     "points": 38,
-    "comment_count": 4,
+    "comment_count": 5,
     "hn_item": {
       "by": "camnora",
       "descendants": 25,
@@ -1229,104 +1278,6 @@
     }
   },
   {
-    "id": 30131387,
-    "title": "Game performance optimization – A practical example from Industry Idle",
-    "url": "https://ruoyusun.com/2022/01/28/game-pref.html",
-    "time": 1643496513,
-    "image": "",
-    "icon": "https://ruoyusun.com/favicon-16x16.png",
-    "publisher": "ruoyusun.com",
-    "description": "",
-    "by": "insraq",
-    "points": 83,
-    "comment_count": 9,
-    "hn_item": {
-      "by": "camnora",
-      "descendants": 25,
-      "id": 30138468,
-      "kids": [
-        30140217,
-        30139229,
-        30138770,
-        30139945,
-        30139640,
-        30139547,
-        30140997,
-        30146910
-      ],
-      "score": 105,
-      "time": 1643559712,
-      "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
-      "type": "story",
-      "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
-    },
-    "og_item": {
-      "title": "Game Performance Optimization - A Practical Example From Industry Idle",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon-16x16.png"
-      }
-    }
-  },
-  {
-    "id": 30117500,
-    "title": "Plain Geology (1921)",
-    "url": "https://pubs.usgs.gov/gip/plain.html",
-    "time": 1643390110,
-    "image": "",
-    "icon": "https://pubs.usgs.gov/favicon.ico",
-    "publisher": "pubs.usgs.gov",
-    "description": "",
-    "by": "wrycoder",
-    "points": 5,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "camnora",
-      "descendants": 25,
-      "id": 30138468,
-      "kids": [
-        30140217,
-        30139229,
-        30138770,
-        30139945,
-        30139640,
-        30139547,
-        30140997,
-        30146910
-      ],
-      "score": 105,
-      "time": 1643559712,
-      "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
-      "type": "story",
-      "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
-    },
-    "og_item": {
-      "title": "Plain Geology",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30137984,
     "title": "Show HN: Web page that parses and explains the label on a bike tire",
     "url": "https://fahrrad-tools.de/tire.html",
@@ -1336,7 +1287,7 @@
     "publisher": "fahrrad-tools.de",
     "description": "Which tire fits my bike? Tires are always flat and now buy a tire with puncture protection? Find the right tire now!",
     "by": "moasda",
-    "points": 585,
+    "points": 586,
     "comment_count": 38,
     "hn_item": {
       "by": "camnora",
@@ -1434,6 +1385,55 @@
     }
   },
   {
+    "id": 30117500,
+    "title": "Plain Geology (1921)",
+    "url": "https://pubs.usgs.gov/gip/plain.html",
+    "time": 1643390110,
+    "image": "",
+    "icon": "https://pubs.usgs.gov/favicon.ico",
+    "publisher": "pubs.usgs.gov",
+    "description": "",
+    "by": "wrycoder",
+    "points": 5,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "camnora",
+      "descendants": 25,
+      "id": 30138468,
+      "kids": [
+        30140217,
+        30139229,
+        30138770,
+        30139945,
+        30139640,
+        30139547,
+        30140997,
+        30146910
+      ],
+      "score": 105,
+      "time": 1643559712,
+      "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
+      "type": "story",
+      "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
+    },
+    "og_item": {
+      "title": "Plain Geology",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30140984,
     "title": "A UX designer walks into a Tesla Bar",
     "url": "https://jenson.org/tesla/",
@@ -1443,7 +1443,7 @@
     "publisher": "jenson.org",
     "description": "",
     "by": "radley",
-    "points": 821,
+    "points": 825,
     "comment_count": 105,
     "hn_item": {
       "by": "camnora",
@@ -1479,6 +1479,64 @@
       "video": [],
       "favicon": {
         "url": "https://jenson.org/wp-content/uploads/2015/09/out-200x200.png"
+      }
+    }
+  },
+  {
+    "id": 30140464,
+    "title": "The Great Unconformity: Research points to glaciers being the culprit",
+    "url": "https://www.vice.com/en/article/wxdzzb/a-billion-years-of-time-are-mysteriously-missing-scientists-think-they-know-why",
+    "time": 1643572375,
+    "image": "https://video-images.vice.com/articles/61f2a92be1de8b0094f51e5e/lede/1643293461145-screen-shot-2022-01-27-at-92341-am.png?image-resize-opts=Y3JvcD0xeHc6MC44NDUxeGg7MHh3LDAuMTE0OXhoJnJlc2l6ZT0xMjAwOiomcmVzaXplPTEyMDA6Kg",
+    "icon": "https://vice-web-statics-cdn.vice.com/favicons/vice/favicon-16x16.png",
+    "publisher": "Vice",
+    "description": "The Great Unconformity has baffled geologists for a century. New research points to glaciers being the culprit.",
+    "by": "cbkeller",
+    "points": 81,
+    "comment_count": 4,
+    "hn_item": {
+      "by": "camnora",
+      "descendants": 25,
+      "id": 30138468,
+      "kids": [
+        30140217,
+        30139229,
+        30138770,
+        30139945,
+        30139640,
+        30139547,
+        30140997,
+        30146910
+      ],
+      "score": 105,
+      "time": 1643559712,
+      "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
+      "type": "story",
+      "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
+    },
+    "og_item": {
+      "title": "A Billion Years of Time Are Mysteriously Missing. Scientists Think They Know Why.",
+      "type": "website",
+      "image": [
+        {
+          "url": "https://video-images.vice.com/articles/61f2a92be1de8b0094f51e5e/lede/1643293461145-screen-shot-2022-01-27-at-92341-am.png?image-resize-opts=Y3JvcD0xeHc6MC44NDUxeGg7MHh3LDAuMTE0OXhoJnJlc2l6ZT0xMjAwOiomcmVzaXplPTEyMDA6Kg",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://www.vice.com/en/article/wxdzzb/a-billion-years-of-time-are-mysteriously-missing-scientists-think-they-know-why",
+      "audio": [],
+      "description": "The Great Unconformity has baffled geologists for a century. New research points to glaciers being the culprit.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "https://vice-web-statics-cdn.vice.com/favicons/vice/favicon-16x16.png"
       }
     }
   },
@@ -1537,64 +1595,6 @@
       "video": [],
       "favicon": {
         "url": "https://miro.medium.com/fit/c/256/256/1*g7zU0sabzknTXlMs4m3Iqg.jpeg"
-      }
-    }
-  },
-  {
-    "id": 30140464,
-    "title": "The Great Unconformity: Research points to glaciers being the culprit",
-    "url": "https://www.vice.com/en/article/wxdzzb/a-billion-years-of-time-are-mysteriously-missing-scientists-think-they-know-why",
-    "time": 1643572375,
-    "image": "https://video-images.vice.com/articles/61f2a92be1de8b0094f51e5e/lede/1643293461145-screen-shot-2022-01-27-at-92341-am.png?image-resize-opts=Y3JvcD0xeHc6MC44NDUxeGg7MHh3LDAuMTE0OXhoJnJlc2l6ZT0xMjAwOiomcmVzaXplPTEyMDA6Kg",
-    "icon": "https://vice-web-statics-cdn.vice.com/favicons/vice/favicon-16x16.png",
-    "publisher": "Vice",
-    "description": "The Great Unconformity has baffled geologists for a century. New research points to glaciers being the culprit.",
-    "by": "cbkeller",
-    "points": 80,
-    "comment_count": 4,
-    "hn_item": {
-      "by": "camnora",
-      "descendants": 25,
-      "id": 30138468,
-      "kids": [
-        30140217,
-        30139229,
-        30138770,
-        30139945,
-        30139640,
-        30139547,
-        30140997,
-        30146910
-      ],
-      "score": 105,
-      "time": 1643559712,
-      "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
-      "type": "story",
-      "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
-    },
-    "og_item": {
-      "title": "A Billion Years of Time Are Mysteriously Missing. Scientists Think They Know Why.",
-      "type": "website",
-      "image": [
-        {
-          "url": "https://video-images.vice.com/articles/61f2a92be1de8b0094f51e5e/lede/1643293461145-screen-shot-2022-01-27-at-92341-am.png?image-resize-opts=Y3JvcD0xeHc6MC44NDUxeGg7MHh3LDAuMTE0OXhoJnJlc2l6ZT0xMjAwOiomcmVzaXplPTEyMDA6Kg",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://www.vice.com/en/article/wxdzzb/a-billion-years-of-time-are-mysteriously-missing-scientists-think-they-know-why",
-      "audio": [],
-      "description": "The Great Unconformity has baffled geologists for a century. New research points to glaciers being the culprit.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "https://vice-web-statics-cdn.vice.com/favicons/vice/favicon-16x16.png"
       }
     }
   },
@@ -1822,6 +1822,55 @@
     }
   },
   {
+    "id": 30146918,
+    "title": "Qubit appeals to the honour of thieves who lifted $80M of its digi-dollars",
+    "url": "https://www.theregister.com/2022/01/31/qubit_bug_bounty/",
+    "time": 1643628811,
+    "image": "",
+    "icon": "https://www.theregister.com/favicon.ico",
+    "publisher": "theregister.com",
+    "description": "",
+    "by": "pseudolus",
+    "points": 8,
+    "comment_count": 1,
+    "hn_item": {
+      "by": "camnora",
+      "descendants": 25,
+      "id": 30138468,
+      "kids": [
+        30140217,
+        30139229,
+        30138770,
+        30139945,
+        30139640,
+        30139547,
+        30140997,
+        30146910
+      ],
+      "score": 105,
+      "time": 1643559712,
+      "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
+      "type": "story",
+      "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
+    },
+    "og_item": {
+      "title": "",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30128193,
     "title": "On Immersion",
     "url": "https://blog.laurel.world/on-immersion/",
@@ -1920,17 +1969,17 @@
     }
   },
   {
-    "id": 30146918,
-    "title": "Qubit appeals to the honour of thieves who lifted $80M of its digi-dollars",
-    "url": "https://www.theregister.com/2022/01/31/qubit_bug_bounty/",
-    "time": 1643628811,
-    "image": "",
-    "icon": "https://www.theregister.com/favicon.ico",
-    "publisher": "theregister.com",
-    "description": "",
-    "by": "pseudolus",
-    "points": 7,
-    "comment_count": 0,
+    "id": 30111033,
+    "title": "Toxic black mold is growing in my brain",
+    "url": "https://www.buzzfeednews.com/article/tysonbottenus/black-mold-growing-toxic-brain-vacation",
+    "time": 1643348571,
+    "image": "https://img.buzzfeed.com/buzzfeed-static/static/2022-01/27/14/enhanced/bed7df749335/original-1777-1643292826-2.jpg?crop=1200:628;0,0",
+    "icon": "https://www.buzzfeednews.com/static-assets/img/favicon.40f4055ea10bb11593f4c85d55164232.ico",
+    "publisher": "BuzzFeed News",
+    "description": "I went on a vacation. I came home with a mysterious fungus in my brain that is so rare only about 120 cases have been confirmed worldwide since its discovery in 1911.",
+    "by": "yellow_lead",
+    "points": 213,
+    "comment_count": 10,
     "hn_item": {
       "by": "camnora",
       "descendants": 25,
@@ -1952,19 +2001,28 @@
       "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
     },
     "og_item": {
-      "title": "",
-      "type": "",
-      "image": [],
-      "url": "",
+      "title": "Toxic Black Mold Is Growing On My Brain",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2022-01/27/14/enhanced/bed7df749335/original-1777-1643292826-2.jpg?crop=1200:628;0,0",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://www.buzzfeednews.com/article/tysonbottenus/black-mold-growing-toxic-brain-vacation",
       "audio": [],
-      "description": "",
+      "description": "I went on a vacation. I came home with a mysterious fungus in my brain that is so rare only about 120 cases have been confirmed worldwide since its discovery in 1911.",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "",
+      "site_name": "BuzzFeed News",
       "video": [],
       "favicon": {
-        "url": "/favicon.ico"
+        "url": "/static-assets/img/favicon.40f4055ea10bb11593f4c85d55164232.ico"
       }
     }
   },
@@ -2023,64 +2081,6 @@
       "video": [],
       "favicon": {
         "url": "/vi-assets/static-assets/favicon-d2483f10ef688e6f89e23806b9700298.ico"
-      }
-    }
-  },
-  {
-    "id": 30111033,
-    "title": "Toxic black mold is growing in my brain",
-    "url": "https://www.buzzfeednews.com/article/tysonbottenus/black-mold-growing-toxic-brain-vacation",
-    "time": 1643348571,
-    "image": "https://img.buzzfeed.com/buzzfeed-static/static/2022-01/27/14/enhanced/bed7df749335/original-1777-1643292826-2.jpg?crop=1200:628;0,0",
-    "icon": "https://www.buzzfeednews.com/static-assets/img/favicon.40f4055ea10bb11593f4c85d55164232.ico",
-    "publisher": "BuzzFeed News",
-    "description": "I went on a vacation. I came home with a mysterious fungus in my brain that is so rare only about 120 cases have been confirmed worldwide since its discovery in 1911.",
-    "by": "yellow_lead",
-    "points": 212,
-    "comment_count": 10,
-    "hn_item": {
-      "by": "camnora",
-      "descendants": 25,
-      "id": 30138468,
-      "kids": [
-        30140217,
-        30139229,
-        30138770,
-        30139945,
-        30139640,
-        30139547,
-        30140997,
-        30146910
-      ],
-      "score": 105,
-      "time": 1643559712,
-      "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
-      "type": "story",
-      "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
-    },
-    "og_item": {
-      "title": "Toxic Black Mold Is Growing On My Brain",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2022-01/27/14/enhanced/bed7df749335/original-1777-1643292826-2.jpg?crop=1200:628;0,0",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://www.buzzfeednews.com/article/tysonbottenus/black-mold-growing-toxic-brain-vacation",
-      "audio": [],
-      "description": "I went on a vacation. I came home with a mysterious fungus in my brain that is so rare only about 120 cases have been confirmed worldwide since its discovery in 1911.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "BuzzFeed News",
-      "video": [],
-      "favicon": {
-        "url": "/static-assets/img/favicon.40f4055ea10bb11593f4c85d55164232.ico"
       }
     }
   },
@@ -2152,7 +2152,7 @@
     "publisher": "Cooking in the Archives",
     "description": "A collection of philosopher John Locke’s papers at the Bodleian Library includes letters, accounts, poetry, notes on medicine and books, and recipes. When David Armitage posted this recipe fo…",
     "by": "pepys",
-    "points": 265,
+    "points": 266,
     "comment_count": 33,
     "hn_item": {
       "by": "camnora",
@@ -2312,7 +2312,7 @@
     "title": "FunctionStomping – A new shellcode injection technique",
     "url": "https://github.com/Idov31/FunctionStomping",
     "time": 1643533222,
-    "image": "https://opengraph.githubassets.com/54fbf9fb566a6872a1bb84e94d1a07b9c33b6474523242ece3e97778500ebd23/Idov31/FunctionStomping",
+    "image": "https://opengraph.githubassets.com/e89ac74902cd8e55b11eac80e1cc3764368ff7f03b67591176212d014548fcf9/Idov31/FunctionStomping",
     "icon": "https://github.githubassets.com/favicons/favicon.svg",
     "publisher": "GitHub",
     "description": "A new shellcode injection technique. Given as C++ header or standalone Rust program. - GitHub - Idov31/FunctionStomping: A new shellcode injection technique. Given as C++ header or standalone Rust ...",
@@ -2344,7 +2344,7 @@
       "type": "object",
       "image": [
         {
-          "url": "https://opengraph.githubassets.com/54fbf9fb566a6872a1bb84e94d1a07b9c33b6474523242ece3e97778500ebd23/Idov31/FunctionStomping",
+          "url": "https://opengraph.githubassets.com/e89ac74902cd8e55b11eac80e1cc3764368ff7f03b67591176212d014548fcf9/Idov31/FunctionStomping",
           "secure_url": "",
           "type": "",
           "width": 1200,
@@ -2656,6 +2656,55 @@
     }
   },
   {
+    "id": 30143170,
+    "title": "How long has _ existed?",
+    "url": "https://howoldisit.glitch.me",
+    "time": 1643591138,
+    "image": "",
+    "icon": "https://howoldisit.glitch.me/code.ico",
+    "publisher": "howoldisit.glitch.me",
+    "description": "",
+    "by": "zdw",
+    "points": 17,
+    "comment_count": 2,
+    "hn_item": {
+      "by": "camnora",
+      "descendants": 25,
+      "id": 30138468,
+      "kids": [
+        30140217,
+        30139229,
+        30138770,
+        30139945,
+        30139640,
+        30139547,
+        30140997,
+        30146910
+      ],
+      "score": 105,
+      "time": 1643559712,
+      "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
+      "type": "story",
+      "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
+    },
+    "og_item": {
+      "title": "You want HOW MANY years experience?!",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/code.ico"
+      }
+    }
+  },
+  {
     "id": 30137681,
     "title": "In defence of the boring web",
     "url": "https://bastian.rieck.me/blog/posts/2022/boring/",
@@ -2821,55 +2870,6 @@
     }
   },
   {
-    "id": 30143170,
-    "title": "How long has _ existed?",
-    "url": "https://howoldisit.glitch.me",
-    "time": 1643591138,
-    "image": "",
-    "icon": "https://howoldisit.glitch.me/code.ico",
-    "publisher": "howoldisit.glitch.me",
-    "description": "",
-    "by": "zdw",
-    "points": 15,
-    "comment_count": 2,
-    "hn_item": {
-      "by": "camnora",
-      "descendants": 25,
-      "id": 30138468,
-      "kids": [
-        30140217,
-        30139229,
-        30138770,
-        30139945,
-        30139640,
-        30139547,
-        30140997,
-        30146910
-      ],
-      "score": 105,
-      "time": 1643559712,
-      "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
-      "type": "story",
-      "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
-    },
-    "og_item": {
-      "title": "You want HOW MANY years experience?!",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/code.ico"
-      }
-    }
-  },
-  {
     "id": 30139734,
     "title": "Show the case against",
     "url": "https://www.shubhro.com/2022/01/03/show-the-case-against/",
@@ -2968,6 +2968,55 @@
     }
   },
   {
+    "id": 30137864,
+    "title": "Midnight Commander Tips and Tricks",
+    "url": "http://www.softpanorama.org/OFM/MC/mc_tips.shtml",
+    "time": 1643555741,
+    "image": "",
+    "icon": "",
+    "publisher": "softpanorama.org",
+    "description": "",
+    "by": "ingve",
+    "points": 162,
+    "comment_count": 19,
+    "hn_item": {
+      "by": "camnora",
+      "descendants": 25,
+      "id": 30138468,
+      "kids": [
+        30140217,
+        30139229,
+        30138770,
+        30139945,
+        30139640,
+        30139547,
+        30140997,
+        30146910
+      ],
+      "score": 105,
+      "time": 1643559712,
+      "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
+      "type": "story",
+      "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
+    },
+    "og_item": {
+      "title": "Midnight Commander Tips and Tricks",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30140270,
     "title": "When the algorithm is your boss",
     "url": "https://tribunemag.co.uk/2022/01/amazon-algorithm-human-resource-management-tech-worker-surveillance",
@@ -3022,104 +3071,6 @@
       "video": [],
       "favicon": {
         "url": "/static/img/logo/logo-favicon.png"
-      }
-    }
-  },
-  {
-    "id": 30137864,
-    "title": "Midnight Commander Tips and Tricks",
-    "url": "http://www.softpanorama.org/OFM/MC/mc_tips.shtml",
-    "time": 1643555741,
-    "image": "",
-    "icon": "",
-    "publisher": "softpanorama.org",
-    "description": "",
-    "by": "ingve",
-    "points": 162,
-    "comment_count": 19,
-    "hn_item": {
-      "by": "camnora",
-      "descendants": 25,
-      "id": 30138468,
-      "kids": [
-        30140217,
-        30139229,
-        30138770,
-        30139945,
-        30139640,
-        30139547,
-        30140997,
-        30146910
-      ],
-      "score": 105,
-      "time": 1643559712,
-      "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
-      "type": "story",
-      "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
-    },
-    "og_item": {
-      "title": "Midnight Commander Tips and Tricks",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30146516,
-    "title": "Ask HN: GitHub and Bitbucket end support for password auth for CLI - Now what?",
-    "url": "https://news.ycombinator.com/item?id=30146516",
-    "time": 1643624617,
-    "image": "",
-    "icon": "https://news.ycombinator.com/favicon.ico",
-    "publisher": "Hacker News",
-    "description": "",
-    "by": "weezee",
-    "points": 4,
-    "comment_count": 2,
-    "hn_item": {
-      "by": "camnora",
-      "descendants": 25,
-      "id": 30138468,
-      "kids": [
-        30140217,
-        30139229,
-        30138770,
-        30139945,
-        30139640,
-        30139547,
-        30140997,
-        30146910
-      ],
-      "score": 105,
-      "time": 1643559712,
-      "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
-      "type": "story",
-      "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
-    },
-    "og_item": {
-      "title": "Ask HN: GitHub and Bitbucket end support for password auth for CLI - Now what? | Hacker News",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "favicon.ico"
       }
     }
   },
@@ -3236,6 +3187,55 @@
       "video": [],
       "favicon": {
         "url": "//abs.twimg.com/favicons/twitter.2.ico"
+      }
+    }
+  },
+  {
+    "id": 30146516,
+    "title": "Ask HN: GitHub and Bitbucket end support for password auth for CLI - Now what?",
+    "url": "https://news.ycombinator.com/item?id=30146516",
+    "time": 1643624617,
+    "image": "",
+    "icon": "https://news.ycombinator.com/favicon.ico",
+    "publisher": "Hacker News",
+    "description": "",
+    "by": "weezee",
+    "points": 4,
+    "comment_count": 3,
+    "hn_item": {
+      "by": "camnora",
+      "descendants": 25,
+      "id": 30138468,
+      "kids": [
+        30140217,
+        30139229,
+        30138770,
+        30139945,
+        30139640,
+        30139547,
+        30140997,
+        30146910
+      ],
+      "score": 105,
+      "time": 1643559712,
+      "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
+      "type": "story",
+      "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
+    },
+    "og_item": {
+      "title": "Ask HN: GitHub and Bitbucket end support for password auth for CLI - Now what? | Hacker News",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "favicon.ico"
       }
     }
   },
@@ -3390,55 +3390,6 @@
     }
   },
   {
-    "id": 30145394,
-    "title": "My WFH sedentary life (Sitting, lying down) is more than 11 hr?",
-    "url": "https://news.ycombinator.com/item?id=30145394",
-    "time": 1643613303,
-    "image": "",
-    "icon": "https://news.ycombinator.com/favicon.ico",
-    "publisher": "Hacker News",
-    "description": "",
-    "by": "cryptozeus",
-    "points": 10,
-    "comment_count": 5,
-    "hn_item": {
-      "by": "camnora",
-      "descendants": 25,
-      "id": 30138468,
-      "kids": [
-        30140217,
-        30139229,
-        30138770,
-        30139945,
-        30139640,
-        30139547,
-        30140997,
-        30146910
-      ],
-      "score": 105,
-      "time": 1643559712,
-      "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
-      "type": "story",
-      "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
-    },
-    "og_item": {
-      "title": "My WFH sedentary life (Sitting, lying down) is more than 11 hr? | Hacker News",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30128379,
     "title": "Controlling RGB LEDs with only powerlines: Anatomy of a Christmas light string",
     "url": "https://cpldcpu.wordpress.com/2022/01/23/controlling-rgb-leds-with-only-the-powerlines-anatomy-of-a-christmas-light-string/",
@@ -3448,7 +3399,7 @@
     "publisher": "Tim's Blog",
     "description": "The RGB curtain predictably turns into a mess of wires when not used according to instructions. As should be obvious from this blog, I am somewhat drawn to clever and minimalistic implementations o…",
     "by": "cpldcpu",
-    "points": 147,
+    "points": 148,
     "comment_count": 7,
     "hn_item": {
       "by": "camnora",
@@ -3551,6 +3502,55 @@
       "video": [],
       "favicon": {
         "url": "https://news.harvard.edu/wp-content/themes/gazette-3-0/favicons/favicon-192x192.png"
+      }
+    }
+  },
+  {
+    "id": 30145394,
+    "title": "My WFH sedentary life (Sitting, lying down) is more than 11 hr?",
+    "url": "https://news.ycombinator.com/item?id=30145394",
+    "time": 1643613303,
+    "image": "",
+    "icon": "https://news.ycombinator.com/favicon.ico",
+    "publisher": "Hacker News",
+    "description": "",
+    "by": "cryptozeus",
+    "points": 10,
+    "comment_count": 6,
+    "hn_item": {
+      "by": "camnora",
+      "descendants": 25,
+      "id": 30138468,
+      "kids": [
+        30140217,
+        30139229,
+        30138770,
+        30139945,
+        30139640,
+        30139547,
+        30140997,
+        30146910
+      ],
+      "score": 105,
+      "time": 1643559712,
+      "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
+      "type": "story",
+      "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
+    },
+    "og_item": {
+      "title": "My WFH sedentary life (Sitting, lying down) is more than 11 hr? | Hacker News",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "favicon.ico"
       }
     }
   },
