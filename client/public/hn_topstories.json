@@ -9,8 +9,8 @@
     "publisher": "lsd.gnunet.org",
     "description": "This document contains the GNU Name System (GNS) technical\n      specification.\n      GNS is a decentralized and censorship-resistant name\n      system that provides a privacy-enhancing alternative to the Domain\n      Name System (DNS).\n       \n       \n      This document defines t…",
     "by": "simonpure",
-    "points": 75,
-    "comment_count": 27,
+    "points": 84,
+    "comment_count": 30,
     "hn_item": {
       "by": "ciprian_craciun",
       "descendants": 16,
@@ -56,8 +56,8 @@
     "publisher": "The New York Times",
     "description": "The word game, released in October, has millions of daily users.",
     "by": "lucis",
-    "points": 413,
-    "comment_count": 276,
+    "points": 433,
+    "comment_count": 295,
     "hn_item": {
       "by": "ciprian_craciun",
       "descendants": 16,
@@ -103,6 +103,53 @@
     }
   },
   {
+    "id": 30155927,
+    "title": "Red Light Green Light",
+    "url": "https://jamessevedge.com/articles/red-light-green-light/",
+    "time": 1643669639,
+    "image": "",
+    "icon": "https://jamessevedge.com/favicon.ico",
+    "publisher": "jamessevedge.com",
+    "description": "I was listening to the Tim Ferriss Show podcast episode #532 with Sheila Heen (Harvard Negotiation Project, co-author of Difficult Conversations: How To Discuss What Matters Most) and a specific story she told during the conversation really resonated with me. Below is the excerpt of that story in…",
+    "by": "aseattledev1234",
+    "points": 23,
+    "comment_count": 5,
+    "hn_item": {
+      "by": "ciprian_craciun",
+      "descendants": 16,
+      "id": 30147652,
+      "kids": [
+        30148761,
+        30149137,
+        30149632,
+        30154229,
+        30149237,
+        30148851
+      ],
+      "score": 86,
+      "time": 1643635848,
+      "title": "Firecracker v1.0 Released",
+      "type": "story",
+      "url": "https://github.com/firecracker-microvm/firecracker/releases/tag/v1.0.0"
+    },
+    "og_item": {
+      "title": "Red Light Green Light",
+      "type": "article",
+      "image": [],
+      "url": "https://jamessevedge.com/articles/red-light-green-light/",
+      "audio": [],
+      "description": "I was listening to the Tim Ferriss Show podcast episode #532 with Sheila Heen (Harvard Negotiation Project, co-author of Difficult Conversations: How To Discuss What Matters Most) and a specific story she told during the conversation really resonated with me. Below is the excerpt of that story in her own words.\nIt reminds me, I sometimes tell this story about my eldest son. His name is Ben. He’s 22 now, but when he was about three, we were driving down the street.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30150586,
     "title": "Moderna’s HIV vaccine has officially begun human trials",
     "url": "https://www.them.us/story/hiv-aids-vaccine-human-trials-moderna",
@@ -112,7 +159,7 @@
     "publisher": "them.",
     "description": "We could be getting even closer to stopping the spread of HIV/AIDS.",
     "by": "grawprog",
-    "points": 696,
+    "points": 704,
     "comment_count": 281,
     "hn_item": {
       "by": "ciprian_craciun",
@@ -155,100 +202,6 @@
       "video": [],
       "favicon": {
         "url": "https://www.them.us/verso/static/them/assets/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30155927,
-    "title": "Red Light Green Light",
-    "url": "https://jamessevedge.com/articles/red-light-green-light/",
-    "time": 1643669639,
-    "image": "",
-    "icon": "https://jamessevedge.com/favicon.ico",
-    "publisher": "jamessevedge.com",
-    "description": "I was listening to the Tim Ferriss Show podcast episode #532 with Sheila Heen (Harvard Negotiation Project, co-author of Difficult Conversations: How To Discuss What Matters Most) and a specific story she told during the conversation really resonated with me. Below is the excerpt of that story in…",
-    "by": "aseattledev1234",
-    "points": 17,
-    "comment_count": 4,
-    "hn_item": {
-      "by": "ciprian_craciun",
-      "descendants": 16,
-      "id": 30147652,
-      "kids": [
-        30148761,
-        30149137,
-        30149632,
-        30154229,
-        30149237,
-        30148851
-      ],
-      "score": 86,
-      "time": 1643635848,
-      "title": "Firecracker v1.0 Released",
-      "type": "story",
-      "url": "https://github.com/firecracker-microvm/firecracker/releases/tag/v1.0.0"
-    },
-    "og_item": {
-      "title": "Red Light Green Light",
-      "type": "article",
-      "image": [],
-      "url": "https://jamessevedge.com/articles/red-light-green-light/",
-      "audio": [],
-      "description": "I was listening to the Tim Ferriss Show podcast episode #532 with Sheila Heen (Harvard Negotiation Project, co-author of Difficult Conversations: How To Discuss What Matters Most) and a specific story she told during the conversation really resonated with me. Below is the excerpt of that story in her own words.\nIt reminds me, I sometimes tell this story about my eldest son. His name is Ben. He’s 22 now, but when he was about three, we were driving down the street.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30156048,
-    "title": "SimpleDB: A Basic RDBMS Built from Scratch",
-    "url": "https://www.awelm.com/posts/simple-db/",
-    "time": 1643670213,
-    "image": "",
-    "icon": "https://www.awelm.com/favicon.ico",
-    "publisher": "awelm.com",
-    "description": "My databases class at UCLA wasn’t very challenging so I never truly understood the internals of databases. This always bothered me so I vowed to build a simple database from scratch to learn the fundamentals.",
-    "by": "hackthesystem",
-    "points": 14,
-    "comment_count": 5,
-    "hn_item": {
-      "by": "ciprian_craciun",
-      "descendants": 16,
-      "id": 30147652,
-      "kids": [
-        30148761,
-        30149137,
-        30149632,
-        30154229,
-        30149237,
-        30148851
-      ],
-      "score": 86,
-      "time": 1643635848,
-      "title": "Firecracker v1.0 Released",
-      "type": "story",
-      "url": "https://github.com/firecracker-microvm/firecracker/releases/tag/v1.0.0"
-    },
-    "og_item": {
-      "title": "SimpleDB: A Basic RDBMS Built From Scratch",
-      "type": "article",
-      "image": [],
-      "url": "https://www.awelm.com/posts/simple-db/",
-      "audio": [],
-      "description": "My databases class at UCLA wasn’t very challenging so I never truly understood the internals of databases. This always bothered me so I vowed to build a simple database from scratch to learn the fundamentals.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
       }
     }
   },
@@ -300,109 +253,6 @@
     }
   },
   {
-    "id": 30129631,
-    "title": "Request bodies in GET requests",
-    "url": "https://evertpot.com/get-request-bodies/",
-    "time": 1643485054,
-    "image": "https://evertpot.com/assets/cover/flower.png",
-    "icon": "https://evertpot.com/assets/img/flower-icon.png",
-    "publisher": "evertpot.com",
-    "description": "",
-    "by": "treve",
-    "points": 116,
-    "comment_count": 96,
-    "hn_item": {
-      "by": "ciprian_craciun",
-      "descendants": 16,
-      "id": 30147652,
-      "kids": [
-        30148761,
-        30149137,
-        30149632,
-        30154229,
-        30149237,
-        30148851
-      ],
-      "score": 86,
-      "time": 1643635848,
-      "title": "Firecracker v1.0 Released",
-      "type": "story",
-      "url": "https://github.com/firecracker-microvm/firecracker/releases/tag/v1.0.0"
-    },
-    "og_item": {
-      "title": "Request bodies in GET requests",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://evertpot.com/assets/cover/flower.png",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/assets/img/flower-icon.png"
-      }
-    }
-  },
-  {
-    "id": 30155295,
-    "title": "Pay attention to WebAssembly",
-    "url": "https://harshal.sheth.io/2022/01/31/webassembly.html",
-    "time": 1643666927,
-    "image": "",
-    "icon": "https://harshal.sheth.io/favicon.ico",
-    "publisher": "Harshal Sheth",
-    "description": "\u003c!—–",
-    "by": "hsheth2",
-    "points": 53,
-    "comment_count": 28,
-    "hn_item": {
-      "by": "ciprian_craciun",
-      "descendants": 16,
-      "id": 30147652,
-      "kids": [
-        30148761,
-        30149137,
-        30149632,
-        30154229,
-        30149237,
-        30148851
-      ],
-      "score": 86,
-      "time": 1643635848,
-      "title": "Firecracker v1.0 Released",
-      "type": "story",
-      "url": "https://github.com/firecracker-microvm/firecracker/releases/tag/v1.0.0"
-    },
-    "og_item": {
-      "title": "Pay attention to WebAssembly",
-      "type": "article",
-      "image": [],
-      "url": "https://harshal.sheth.io/2022/01/31/webassembly.html",
-      "audio": [],
-      "description": "\u003c!—–",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Harshal Sheth",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30118910,
     "title": "Astronomers close in on new way to detect gravitational waves",
     "url": "https://www.nature.com/articles/d41586-022-00170-y",
@@ -412,7 +262,7 @@
     "publisher": "Nature",
     "description": "Several teams hope to use pulsars in the Milky Way to detect ripples in space-time made by distant supermassive black holes.",
     "by": "pseudolus",
-    "points": 18,
+    "points": 22,
     "comment_count": 0,
     "hn_item": {
       "by": "ciprian_craciun",
@@ -459,6 +309,109 @@
     }
   },
   {
+    "id": 30129631,
+    "title": "Request bodies in GET requests",
+    "url": "https://evertpot.com/get-request-bodies/",
+    "time": 1643485054,
+    "image": "https://evertpot.com/assets/cover/flower.png",
+    "icon": "https://evertpot.com/assets/img/flower-icon.png",
+    "publisher": "evertpot.com",
+    "description": "",
+    "by": "treve",
+    "points": 117,
+    "comment_count": 99,
+    "hn_item": {
+      "by": "ciprian_craciun",
+      "descendants": 16,
+      "id": 30147652,
+      "kids": [
+        30148761,
+        30149137,
+        30149632,
+        30154229,
+        30149237,
+        30148851
+      ],
+      "score": 86,
+      "time": 1643635848,
+      "title": "Firecracker v1.0 Released",
+      "type": "story",
+      "url": "https://github.com/firecracker-microvm/firecracker/releases/tag/v1.0.0"
+    },
+    "og_item": {
+      "title": "Request bodies in GET requests",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://evertpot.com/assets/cover/flower.png",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/assets/img/flower-icon.png"
+      }
+    }
+  },
+  {
+    "id": 30156048,
+    "title": "SimpleDB: A Basic RDBMS Built from Scratch",
+    "url": "https://www.awelm.com/posts/simple-db/",
+    "time": 1643670213,
+    "image": "",
+    "icon": "https://www.awelm.com/favicon.ico",
+    "publisher": "awelm.com",
+    "description": "My databases class at UCLA wasn’t very challenging so I never truly understood the internals of databases. This always bothered me so I vowed to build a simple database from scratch to learn the fundamentals.",
+    "by": "hackthesystem",
+    "points": 17,
+    "comment_count": 8,
+    "hn_item": {
+      "by": "ciprian_craciun",
+      "descendants": 16,
+      "id": 30147652,
+      "kids": [
+        30148761,
+        30149137,
+        30149632,
+        30154229,
+        30149237,
+        30148851
+      ],
+      "score": 86,
+      "time": 1643635848,
+      "title": "Firecracker v1.0 Released",
+      "type": "story",
+      "url": "https://github.com/firecracker-microvm/firecracker/releases/tag/v1.0.0"
+    },
+    "og_item": {
+      "title": "SimpleDB: A Basic RDBMS Built From Scratch",
+      "type": "article",
+      "image": [],
+      "url": "https://www.awelm.com/posts/simple-db/",
+      "audio": [],
+      "description": "My databases class at UCLA wasn’t very challenging so I never truly understood the internals of databases. This always bothered me so I vowed to build a simple database from scratch to learn the fundamentals.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30152268,
     "title": "The unreasonable effectiveness of one-on-ones",
     "url": "https://www.benkuhn.net/11/",
@@ -468,8 +421,8 @@
     "publisher": "benkuhn.net",
     "description": "When I started dating my partner, I quickly noticed that grad school was making her very sad.\nThis was shortly after I’d started leading an engineering team at Wave, and so the “obvious” hypothesis to me was that the management (okay, “management”) one gets in graduate school is totally…",
     "by": "sebg",
-    "points": 107,
-    "comment_count": 107,
+    "points": 109,
+    "comment_count": 110,
     "hn_item": {
       "by": "ciprian_craciun",
       "descendants": 16,
@@ -502,6 +455,100 @@
       "video": [],
       "favicon": {
         "url": "/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30155295,
+    "title": "Pay attention to WebAssembly",
+    "url": "https://harshal.sheth.io/2022/01/31/webassembly.html",
+    "time": 1643666927,
+    "image": "",
+    "icon": "https://harshal.sheth.io/favicon.ico",
+    "publisher": "Harshal Sheth",
+    "description": "\u003c!—–",
+    "by": "hsheth2",
+    "points": 59,
+    "comment_count": 30,
+    "hn_item": {
+      "by": "ciprian_craciun",
+      "descendants": 16,
+      "id": 30147652,
+      "kids": [
+        30148761,
+        30149137,
+        30149632,
+        30154229,
+        30149237,
+        30148851
+      ],
+      "score": 86,
+      "time": 1643635848,
+      "title": "Firecracker v1.0 Released",
+      "type": "story",
+      "url": "https://github.com/firecracker-microvm/firecracker/releases/tag/v1.0.0"
+    },
+    "og_item": {
+      "title": "Pay attention to WebAssembly",
+      "type": "article",
+      "image": [],
+      "url": "https://harshal.sheth.io/2022/01/31/webassembly.html",
+      "audio": [],
+      "description": "\u003c!—–",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Harshal Sheth",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30154141,
+    "title": "It's dire: Raspberry Pi availability tracker",
+    "url": "https://www.jeffgeerling.com/blog/2022/its-dire-raspberry-pi-availability-tracker-launched",
+    "time": 1643662250,
+    "image": "",
+    "icon": "https://www.jeffgeerling.com/themes/jeffgeerling/favicon.ico",
+    "publisher": "jeffgeerling.com",
+    "description": "",
+    "by": "geerlingguy",
+    "points": 83,
+    "comment_count": 54,
+    "hn_item": {
+      "by": "ciprian_craciun",
+      "descendants": 16,
+      "id": 30147652,
+      "kids": [
+        30148761,
+        30149137,
+        30149632,
+        30154229,
+        30149237,
+        30148851
+      ],
+      "score": 86,
+      "time": 1643635848,
+      "title": "Firecracker v1.0 Released",
+      "type": "story",
+      "url": "https://github.com/firecracker-microvm/firecracker/releases/tag/v1.0.0"
+    },
+    "og_item": {
+      "title": "It's dire: Raspberry Pi availability tracker is launched | Jeff Geerling",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/themes/jeffgeerling/favicon.ico"
       }
     }
   },
@@ -566,7 +613,7 @@
     "title": "Pyflow – Visual and modular block programming in Python",
     "url": "https://github.com/Bycelium/PyFlow",
     "time": 1643647446,
-    "image": "https://opengraph.githubassets.com/a8ad4f20d857bb04ecc7a6823845fb10fb1652c6cb2befbbd1ccf9ca041bd3ae/Bycelium/PyFlow",
+    "image": "https://opengraph.githubassets.com/f107b577188dcf42748bbe307167108f2ac032759561df95279df5e232efd466/Bycelium/PyFlow",
     "icon": "https://github.githubassets.com/favicons/favicon.svg",
     "publisher": "GitHub",
     "description": "An open-source tool for visual and modular block programing in python - GitHub - Bycelium/PyFlow: An open-source tool for visual and modular block programing in python",
@@ -596,7 +643,7 @@
       "type": "object",
       "image": [
         {
-          "url": "https://opengraph.githubassets.com/a8ad4f20d857bb04ecc7a6823845fb10fb1652c6cb2befbbd1ccf9ca041bd3ae/Bycelium/PyFlow",
+          "url": "https://opengraph.githubassets.com/f107b577188dcf42748bbe307167108f2ac032759561df95279df5e232efd466/Bycelium/PyFlow",
           "secure_url": "",
           "type": "",
           "width": 1200,
@@ -618,53 +665,6 @@
     }
   },
   {
-    "id": 30154141,
-    "title": "It's dire: Raspberry Pi availability tracker",
-    "url": "https://www.jeffgeerling.com/blog/2022/its-dire-raspberry-pi-availability-tracker-launched",
-    "time": 1643662250,
-    "image": "",
-    "icon": "https://www.jeffgeerling.com/themes/jeffgeerling/favicon.ico",
-    "publisher": "jeffgeerling.com",
-    "description": "",
-    "by": "geerlingguy",
-    "points": 77,
-    "comment_count": 51,
-    "hn_item": {
-      "by": "ciprian_craciun",
-      "descendants": 16,
-      "id": 30147652,
-      "kids": [
-        30148761,
-        30149137,
-        30149632,
-        30154229,
-        30149237,
-        30148851
-      ],
-      "score": 86,
-      "time": 1643635848,
-      "title": "Firecracker v1.0 Released",
-      "type": "story",
-      "url": "https://github.com/firecracker-microvm/firecracker/releases/tag/v1.0.0"
-    },
-    "og_item": {
-      "title": "It's dire: Raspberry Pi availability tracker is launched | Jeff Geerling",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/themes/jeffgeerling/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30150343,
     "title": "The new hire who showed up is not the same person we interviewed",
     "url": "https://www.askamanager.org/2022/01/the-new-hire-who-showed-up-is-not-the-same-person-we-interviewed.html",
@@ -674,8 +674,8 @@
     "publisher": "Ask a Manager",
     "description": "A reader writes: This is a situation currently unfolding at my husband's office so I’m a very amused bystander and thought I’d get your opinion on this",
     "by": "amadeuspzs",
-    "points": 660,
-    "comment_count": 381,
+    "points": 667,
+    "comment_count": 388,
     "hn_item": {
       "by": "ciprian_craciun",
       "descendants": 16,
@@ -730,8 +730,8 @@
     "publisher": "jpkoning.blogspot.com",
     "description": "Over the last five years Yemen has stumbled into a unique monetary situation. I initially wrote about Yemen's odd currency status two years ...",
     "by": "rwmj",
-    "points": 90,
-    "comment_count": 58,
+    "points": 91,
+    "comment_count": 59,
     "hn_item": {
       "by": "ciprian_craciun",
       "descendants": 16,
@@ -842,8 +842,8 @@
     "publisher": "The New York Times",
     "description": "The ends of the college and pro football seasons were already a perilous time for people recovering from a gambling addiction. Then came the onslaught of ads for legal sports betting.",
     "by": "jbegley",
-    "points": 130,
-    "comment_count": 196,
+    "points": 134,
+    "comment_count": 201,
     "hn_item": {
       "by": "ciprian_craciun",
       "descendants": 16,
@@ -898,7 +898,7 @@
     "publisher": "Washington Post",
     "description": "Called preprint servers, these free sites allow the public to read such studies before their formal publication. They are shifting how people approach new research, experts say.",
     "by": "bookofjoe",
-    "points": 19,
+    "points": 20,
     "comment_count": 3,
     "hn_item": {
       "by": "ciprian_craciun",
@@ -954,7 +954,7 @@
     "publisher": "CNN",
     "description": "What started out as a couple's renovation project to convert a historic building into a bar has turned into an effort to restore decades-old artwork in a small Washington town.",
     "by": "wglb",
-    "points": 50,
+    "points": 51,
     "comment_count": 10,
     "hn_item": {
       "by": "ciprian_craciun",
@@ -1057,7 +1057,7 @@
     "publisher": "Pixie Labs Blog",
     "description": "In today's world full of microservices, gaining observability into the messages sent between services is critical to understanding and troubleshooting issues…",
     "by": "nserrino",
-    "points": 43,
+    "points": 44,
     "comment_count": 2,
     "hn_item": {
       "by": "ciprian_craciun",
@@ -1104,6 +1104,53 @@
     }
   },
   {
+    "id": 30152930,
+    "title": "Software Development Languages: Haskell",
+    "url": "https://www.fosskers.ca/en/blog/haskell-software-dev",
+    "time": 1643657291,
+    "image": "",
+    "icon": "https://www.fosskers.ca/assets/images/favicon-32x32.png",
+    "publisher": "fosskers.ca",
+    "description": "",
+    "by": "colingw",
+    "points": 40,
+    "comment_count": 21,
+    "hn_item": {
+      "by": "ciprian_craciun",
+      "descendants": 16,
+      "id": 30147652,
+      "kids": [
+        30148761,
+        30149137,
+        30149632,
+        30154229,
+        30149237,
+        30148851
+      ],
+      "score": 86,
+      "time": 1643635848,
+      "title": "Firecracker v1.0 Released",
+      "type": "story",
+      "url": "https://github.com/firecracker-microvm/firecracker/releases/tag/v1.0.0"
+    },
+    "og_item": {
+      "title": "Colin Woodbury",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/assets/images/favicon-32x32.png"
+      }
+    }
+  },
+  {
     "id": 30153547,
     "title": "Why Henry III's gold penny failed",
     "url": "http://jpkoning.blogspot.com/2022/01/why-henry-iiis-gold-penny-failed.html",
@@ -1114,7 +1161,7 @@
     "description": "English gold penny minted by Henry III in 1257 A lucky metal detectorist just discovered  a Henry III gold penny , one of the first English ...",
     "by": "maxwell",
     "points": 29,
-    "comment_count": 47,
+    "comment_count": 48,
     "hn_item": {
       "by": "ciprian_craciun",
       "descendants": 16,
@@ -1169,8 +1216,8 @@
     "publisher": "CNBC",
     "description": "Sony has agreed to acquire Bungie in a $3.6 billion deal, continuing January's torrid pace of video game consolidation",
     "by": "daveaiello",
-    "points": 244,
-    "comment_count": 214,
+    "points": 245,
+    "comment_count": 218,
     "hn_item": {
       "by": "ciprian_craciun",
       "descendants": 16,
@@ -1225,7 +1272,7 @@
     "publisher": "leancrew.com",
     "description": "",
     "by": "ingve",
-    "points": 57,
+    "points": 58,
     "comment_count": 16,
     "hn_item": {
       "by": "ciprian_craciun",
@@ -1263,53 +1310,6 @@
     }
   },
   {
-    "id": 30152930,
-    "title": "Software Development Languages: Haskell",
-    "url": "https://www.fosskers.ca/en/blog/haskell-software-dev",
-    "time": 1643657291,
-    "image": "",
-    "icon": "https://www.fosskers.ca/assets/images/favicon-32x32.png",
-    "publisher": "fosskers.ca",
-    "description": "",
-    "by": "colingw",
-    "points": 38,
-    "comment_count": 16,
-    "hn_item": {
-      "by": "ciprian_craciun",
-      "descendants": 16,
-      "id": 30147652,
-      "kids": [
-        30148761,
-        30149137,
-        30149632,
-        30154229,
-        30149237,
-        30148851
-      ],
-      "score": 86,
-      "time": 1643635848,
-      "title": "Firecracker v1.0 Released",
-      "type": "story",
-      "url": "https://github.com/firecracker-microvm/firecracker/releases/tag/v1.0.0"
-    },
-    "og_item": {
-      "title": "Colin Woodbury",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/assets/images/favicon-32x32.png"
-      }
-    }
-  },
-  {
     "id": 30146019,
     "title": "Boyfriend-alert – A light based alert system",
     "url": "https://github.com/jscd/Boyfriend-Alert",
@@ -1320,7 +1320,7 @@
     "description": "A light based alert system. Contribute to jscd/Boyfriend-Alert development by creating an account on GitHub.",
     "by": "rgun",
     "points": 216,
-    "comment_count": 167,
+    "comment_count": 168,
     "hn_item": {
       "by": "ciprian_craciun",
       "descendants": 16,
@@ -1375,7 +1375,7 @@
     "publisher": "GitHub",
     "description": "Rich-cli is a command line toolbox for fancy output in the terminal - GitHub - Textualize/rich-cli: Rich-cli is a command line toolbox for fancy output in the terminal",
     "by": "willm",
-    "points": 81,
+    "points": 82,
     "comment_count": 27,
     "hn_item": {
       "by": "ciprian_craciun",
@@ -1431,8 +1431,8 @@
     "publisher": "leadership.garden",
     "description": "",
     "by": "ochronus",
-    "points": 66,
-    "comment_count": 33,
+    "points": 67,
+    "comment_count": 36,
     "hn_item": {
       "by": "ciprian_craciun",
       "descendants": 16,
@@ -1478,8 +1478,8 @@
     "publisher": "imlefthanded.com",
     "description": "",
     "by": "decrypt",
-    "points": 625,
-    "comment_count": 683,
+    "points": 627,
+    "comment_count": 687,
     "hn_item": {
       "by": "ciprian_craciun",
       "descendants": 16,
@@ -1525,7 +1525,7 @@
     "publisher": "Daniel Roy Greenfeld",
     "description": "Make Your Makefiles Make Your Day!",
     "by": "JNRowe",
-    "points": 52,
+    "points": 55,
     "comment_count": 30,
     "hn_item": {
       "by": "ciprian_craciun",
@@ -1581,7 +1581,7 @@
     "publisher": "Joel Dare",
     "description": "",
     "by": "codazoda",
-    "points": 126,
+    "points": 127,
     "comment_count": 95,
     "hn_item": {
       "by": "ciprian_craciun",
@@ -1623,12 +1623,12 @@
     "title": "Learn Elisp the Hard Way (2011)",
     "url": "https://github.com/hypernumbers/learn_elisp_the_hard_way",
     "time": 1643643871,
-    "image": "https://opengraph.githubassets.com/fe3257c4ffe849be6d048298f7be36bd5b5d2b50a47424f610b5e24978b5fe91/hypernumbers/learn_elisp_the_hard_way",
+    "image": "https://opengraph.githubassets.com/bec6c5379e1c0b36d7270ee9716c2c43ee3384b2a9548ffaff2925d0b357d54f/hypernumbers/learn_elisp_the_hard_way",
     "icon": "https://github.githubassets.com/favicons/favicon.svg",
     "publisher": "GitHub",
     "description": "A book about learning eLisp for customising Emacs the hard way - see the Gist https://gist.github.com/754568 - GitHub - hypernumbers/learn_elisp_the_hard_way: A book about learning eLisp for custom...",
     "by": "AndroidKitKat",
-    "points": 69,
+    "points": 70,
     "comment_count": 21,
     "hn_item": {
       "by": "ciprian_craciun",
@@ -1653,7 +1653,7 @@
       "type": "object",
       "image": [
         {
-          "url": "https://opengraph.githubassets.com/fe3257c4ffe849be6d048298f7be36bd5b5d2b50a47424f610b5e24978b5fe91/hypernumbers/learn_elisp_the_hard_way",
+          "url": "https://opengraph.githubassets.com/bec6c5379e1c0b36d7270ee9716c2c43ee3384b2a9548ffaff2925d0b357d54f/hypernumbers/learn_elisp_the_hard_way",
           "secure_url": "",
           "type": "",
           "width": 1200,
@@ -1684,8 +1684,8 @@
     "publisher": "Twitter",
     "description": "",
     "by": "ipsum2",
-    "points": 101,
-    "comment_count": 134,
+    "points": 104,
+    "comment_count": 135,
     "hn_item": {
       "by": "ciprian_craciun",
       "descendants": 16,
@@ -1843,7 +1843,7 @@
     "publisher": "UMass Chan Medical School",
     "description": "UMass Chan Medical School researchers are embarking on a clinical trial of an mRNA vaccine by Moderna against the Epstein-Barr virus (EBV), a common cause of infectious mononucleosis. Katherine Luzuriaga, MD, is principal investigator for the study at UMass Chan.",
     "by": "drewcon",
-    "points": 19,
+    "points": 20,
     "comment_count": 2,
     "hn_item": {
       "by": "ciprian_craciun",
@@ -1984,53 +1984,6 @@
     }
   },
   {
-    "id": 30149099,
-    "title": "Google critiqued the practice of displaying ads above search results",
-    "url": "https://twitter.com/krebs_adrian/status/1488173888068542466",
-    "time": 1643643385,
-    "image": "",
-    "icon": "https://abs.twimg.com/favicons/twitter.2.ico",
-    "publisher": "Twitter",
-    "description": "",
-    "by": "hubraumhugo",
-    "points": 293,
-    "comment_count": 137,
-    "hn_item": {
-      "by": "ciprian_craciun",
-      "descendants": 16,
-      "id": 30147652,
-      "kids": [
-        30148761,
-        30149137,
-        30149632,
-        30154229,
-        30149237,
-        30148851
-      ],
-      "score": 86,
-      "time": 1643635848,
-      "title": "Firecracker v1.0 Released",
-      "type": "story",
-      "url": "https://github.com/firecracker-microvm/firecracker/releases/tag/v1.0.0"
-    },
-    "og_item": {
-      "title": "",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Twitter",
-      "video": [],
-      "favicon": {
-        "url": "//abs.twimg.com/favicons/twitter.2.ico"
-      }
-    }
-  },
-  {
     "id": 30144101,
     "title": "Please make a dumb car",
     "url": "https://techcrunch.com/2022/01/29/please-make-a-dumb-car/",
@@ -2040,8 +1993,8 @@
     "publisher": "TechCrunch",
     "description": "Today’s cars are dumb where they should be smart, and smart where they should be dumb. Enough already. Make a car that’s pretty much all dumb and watch it sell — because what automakers are giving people is so bad, they’ll pay more to have less of it. Cars now are like budget smar…",
     "by": "wrycoder",
-    "points": 465,
-    "comment_count": 552,
+    "points": 467,
+    "comment_count": 553,
     "hn_item": {
       "by": "ciprian_craciun",
       "descendants": 16,
@@ -2091,12 +2044,12 @@
     "title": "HVM: A Parallel Functional Runtime",
     "url": "https://github.com/Kindelia/HVM",
     "time": 1643656542,
-    "image": "https://opengraph.githubassets.com/5873ea8d20b431bce56f27da874698f00a270004cec2d838ac4c047f9672b448/Kindelia/HVM",
+    "image": "https://opengraph.githubassets.com/316b96ea865464314efe435c06e8b2b7308648a0a1d23c13ba2d29fb7599540c/Kindelia/HVM",
     "icon": "https://github.githubassets.com/favicons/favicon.svg",
     "publisher": "GitHub",
     "description": "A massively parallel, optimal functional runtime in Rust - GitHub - Kindelia/HVM: A massively parallel, optimal functional runtime in Rust",
     "by": "LightMachine",
-    "points": 25,
+    "points": 26,
     "comment_count": 4,
     "hn_item": {
       "by": "ciprian_craciun",
@@ -2121,7 +2074,7 @@
       "type": "object",
       "image": [
         {
-          "url": "https://opengraph.githubassets.com/5873ea8d20b431bce56f27da874698f00a270004cec2d838ac4c047f9672b448/Kindelia/HVM",
+          "url": "https://opengraph.githubassets.com/316b96ea865464314efe435c06e8b2b7308648a0a1d23c13ba2d29fb7599540c/Kindelia/HVM",
           "secure_url": "",
           "type": "",
           "width": 1200,
@@ -2143,17 +2096,17 @@
     }
   },
   {
-    "id": 30153624,
-    "title": "DockerHub Active Incident",
-    "url": "https://status.docker.com/pages/history/533c6539221ae15e3f000031",
-    "time": 1643660098,
+    "id": 30149099,
+    "title": "Google critiqued the practice of displaying ads above search results",
+    "url": "https://twitter.com/krebs_adrian/status/1488173888068542466",
+    "time": 1643643385,
     "image": "",
-    "icon": "https://image.status.io/PYCmnvEWUfEF.ico",
-    "publisher": "status.docker.com",
-    "description": "Current system status. View active incidents or upcoming maintenances. Subscribe to receive status notifications.",
-    "by": "mkl95",
-    "points": 9,
-    "comment_count": 3,
+    "icon": "https://abs.twimg.com/favicons/twitter.2.ico",
+    "publisher": "Twitter",
+    "description": "",
+    "by": "hubraumhugo",
+    "points": 294,
+    "comment_count": 137,
     "hn_item": {
       "by": "ciprian_craciun",
       "descendants": 16,
@@ -2173,19 +2126,19 @@
       "url": "https://github.com/firecracker-microvm/firecracker/releases/tag/v1.0.0"
     },
     "og_item": {
-      "title": "Docker system status real-time view",
+      "title": "",
       "type": "",
       "image": [],
       "url": "",
       "audio": [],
-      "description": "Current system status. View active incidents or upcoming maintenances. Subscribe to receive status notifications.",
+      "description": "",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "",
+      "site_name": "Twitter",
       "video": [],
       "favicon": {
-        "url": "//image.status.io/PYCmnvEWUfEF.ico"
+        "url": "//abs.twimg.com/favicons/twitter.2.ico"
       }
     }
   },
@@ -2200,7 +2153,7 @@
     "description": "A new biologically inspired battery membrane has enabled a battery with five times the capacity of the industry-standard lithium ion design to run for the thousand-plus cycles needed to power an electric car.\n\nA network of aramid nanofibers, recycled from Kevlar, can enable lithium-sulfur batterie",
     "by": "maeln",
     "points": 74,
-    "comment_count": 162,
+    "comment_count": 163,
     "hn_item": {
       "by": "ciprian_craciun",
       "descendants": 16,
@@ -2246,17 +2199,17 @@
     }
   },
   {
-    "id": 30153326,
-    "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
-    "url": "https://ar5iv.org/",
-    "time": 1643658897,
-    "image": "https://ar5iv.org/assets/ar5iv_card.png",
-    "icon": "https://ar5iv.org/favicon.ico",
-    "publisher": "ar5iv",
-    "description": "ar5iv offers a modern web view for arXiv's preprints. An open community resource, on a quest to a full collection of high-quality documents.",
-    "by": "rg111",
+    "id": 30153624,
+    "title": "DockerHub Active Incident",
+    "url": "https://status.docker.com/pages/history/533c6539221ae15e3f000031",
+    "time": 1643660098,
+    "image": "",
+    "icon": "https://image.status.io/PYCmnvEWUfEF.ico",
+    "publisher": "status.docker.com",
+    "description": "Current system status. View active incidents or upcoming maintenances. Subscribe to receive status notifications.",
+    "by": "mkl95",
     "points": 10,
-    "comment_count": 1,
+    "comment_count": 3,
     "hn_item": {
       "by": "ciprian_craciun",
       "descendants": 16,
@@ -2276,28 +2229,19 @@
       "url": "https://github.com/firecracker-microvm/firecracker/releases/tag/v1.0.0"
     },
     "og_item": {
-      "title": "ar5iv – Articles from arXiv.org as responsive HTML5 web documents",
+      "title": "Docker system status real-time view",
       "type": "",
-      "image": [
-        {
-          "url": "https://ar5iv.org/assets/ar5iv_card.png",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://ar5iv.org",
+      "image": [],
+      "url": "",
       "audio": [],
-      "description": "ar5iv offers a modern web view for arXiv's preprints. An open community resource, on a quest to a full collection of high-quality documents.",
+      "description": "Current system status. View active incidents or upcoming maintenances. Subscribe to receive status notifications.",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "ar5iv",
+      "site_name": "",
       "video": [],
       "favicon": {
-        "url": "/favicon.ico"
+        "url": "//image.status.io/PYCmnvEWUfEF.ico"
       }
     }
   },
@@ -2358,6 +2302,62 @@
     }
   },
   {
+    "id": 30156104,
+    "title": "Founder of Bolt calls Silicon Valley 'boys club' full of 'mob bosses'",
+    "url": "https://nypost.com/2022/01/31/bolt-founder-ryan-breslow-calls-silicon-valley-a-boys-club/",
+    "time": 1643670549,
+    "image": "https://nypost.com/wp-content/uploads/sites/2/2022/01/silicon-comp.jpg?quality=90\u0026strip=all\u0026w=1024",
+    "icon": "https://nypost.com/wp-content/themes/nypost-2016/static/images/favicon-nypost/favicon.ico",
+    "publisher": "New York Post",
+    "description": "The founder of a tech company now valued at $14 billion told The Post that navigating the startup world of Silicon Valley is like dealing with a “boys club” full of “mob bosses.\u0026#…",
+    "by": "Osiris",
+    "points": 7,
+    "comment_count": 2,
+    "hn_item": {
+      "by": "ciprian_craciun",
+      "descendants": 16,
+      "id": 30147652,
+      "kids": [
+        30148761,
+        30149137,
+        30149632,
+        30154229,
+        30149237,
+        30148851
+      ],
+      "score": 86,
+      "time": 1643635848,
+      "title": "Firecracker v1.0 Released",
+      "type": "story",
+      "url": "https://github.com/firecracker-microvm/firecracker/releases/tag/v1.0.0"
+    },
+    "og_item": {
+      "title": "Founder of $14B startup Bolt calls Silicon Valley ‘boys club’ full of ‘mob bosses’",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2022/01/silicon-comp.jpg?quality=90\u0026strip=all\u0026w=1024",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://nypost.com/2022/01/31/bolt-founder-ryan-breslow-calls-silicon-valley-a-boys-club/",
+      "audio": [],
+      "description": "The founder of a tech company now valued at $14 billion told The Post that navigating the startup world of Silicon Valley is like dealing with a “boys club” full of “mob bosses.\u0026#…",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "New York Post",
+      "video": [],
+      "favicon": {
+        "url": "https://nypost.com/wp-content/themes/nypost-2016/static/images/favicon-nypost/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30147507,
     "title": "VT100 Machine Emulator in JavaScript",
     "url": "https://www.pcjs.org/machines/dec/vt100/",
@@ -2414,6 +2414,62 @@
     }
   },
   {
+    "id": 30153326,
+    "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
+    "url": "https://ar5iv.org/",
+    "time": 1643658897,
+    "image": "https://ar5iv.org/assets/ar5iv_card.png",
+    "icon": "https://ar5iv.org/favicon.ico",
+    "publisher": "ar5iv",
+    "description": "ar5iv offers a modern web view for arXiv's preprints. An open community resource, on a quest to a full collection of high-quality documents.",
+    "by": "rg111",
+    "points": 11,
+    "comment_count": 1,
+    "hn_item": {
+      "by": "ciprian_craciun",
+      "descendants": 16,
+      "id": 30147652,
+      "kids": [
+        30148761,
+        30149137,
+        30149632,
+        30154229,
+        30149237,
+        30148851
+      ],
+      "score": 86,
+      "time": 1643635848,
+      "title": "Firecracker v1.0 Released",
+      "type": "story",
+      "url": "https://github.com/firecracker-microvm/firecracker/releases/tag/v1.0.0"
+    },
+    "og_item": {
+      "title": "ar5iv – Articles from arXiv.org as responsive HTML5 web documents",
+      "type": "",
+      "image": [
+        {
+          "url": "https://ar5iv.org/assets/ar5iv_card.png",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://ar5iv.org",
+      "audio": [],
+      "description": "ar5iv offers a modern web view for arXiv's preprints. An open community resource, on a quest to a full collection of high-quality documents.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "ar5iv",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30154070,
     "title": "Realtime Inequality",
     "url": "https://realtimeinequality.org/",
@@ -2423,7 +2479,7 @@
     "publisher": "realtimeinequality.org",
     "description": "Visualizing income and wealth inequality in the U.S. in real time.",
     "by": "jbegley",
-    "points": 8,
+    "points": 9,
     "comment_count": 1,
     "hn_item": {
       "by": "ciprian_craciun",
@@ -2479,7 +2535,7 @@
     "publisher": "wordle.santiagodebus.com",
     "description": "Adivine la palabra en 6 intentos. Un nuevo desafio es generado cada día.",
     "by": "sandes",
-    "points": 31,
+    "points": 32,
     "comment_count": 22,
     "hn_item": {
       "by": "ciprian_craciun",
@@ -2526,6 +2582,62 @@
     }
   },
   {
+    "id": 30147755,
+    "title": "Polar bears move into abandoned Arctic weather station",
+    "url": "https://www.theguardian.com/world/2022/jan/31/polar-bears-move-into-abandoned-arctic-weather-station-photo-essay",
+    "time": 1643636620,
+    "image": "https://i.guim.co.uk/img/media/b9c97924f2784beddc80fab14f75453d83824613/0_231_3500_2101/master/3500.jpg?width=1200\u0026height=630\u0026quality=85\u0026auto=format\u0026fit=crop\u0026overlay-align=bottom%2Cleft\u0026overlay-width=100p\u0026overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc\u0026enable=upscale\u0026s=5d8713011a3bb525f19bf8544cb15bcc",
+    "icon": "https://static.guim.co.uk/images/favicon-32x32.ico",
+    "publisher": "the Guardian",
+    "description": "Photographer Dmitry Kokh discovered polar bears living in an abandoned weather station in Kolyuchin in the Chukotka Autonomous Okrug of Russia",
+    "by": "sofixa",
+    "points": 196,
+    "comment_count": 46,
+    "hn_item": {
+      "by": "ciprian_craciun",
+      "descendants": 16,
+      "id": 30147652,
+      "kids": [
+        30148761,
+        30149137,
+        30149632,
+        30154229,
+        30149237,
+        30148851
+      ],
+      "score": 86,
+      "time": 1643635848,
+      "title": "Firecracker v1.0 Released",
+      "type": "story",
+      "url": "https://github.com/firecracker-microvm/firecracker/releases/tag/v1.0.0"
+    },
+    "og_item": {
+      "title": "Polar bears move into abandoned Arctic weather station – photo essay",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://i.guim.co.uk/img/media/b9c97924f2784beddc80fab14f75453d83824613/0_231_3500_2101/master/3500.jpg?width=1200\u0026height=630\u0026quality=85\u0026auto=format\u0026fit=crop\u0026overlay-align=bottom%2Cleft\u0026overlay-width=100p\u0026overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc\u0026enable=upscale\u0026s=5d8713011a3bb525f19bf8544cb15bcc",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://www.theguardian.com/world/2022/jan/31/polar-bears-move-into-abandoned-arctic-weather-station-photo-essay",
+      "audio": [],
+      "description": "Photographer Dmitry Kokh discovered polar bears living in an abandoned weather station in Kolyuchin in the Chukotka Autonomous Okrug of Russia",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "the Guardian",
+      "video": [],
+      "favicon": {
+        "url": "https://static.guim.co.uk/images/favicon-32x32.ico"
+      }
+    }
+  },
+  {
     "id": 30147004,
     "title": "A Medieval Book That Opens Six Different Ways (2018)",
     "url": "https://www.openculture.com/2018/10/medieval-book-opens-six-different-ways-revealing-six-different-books-one.html",
@@ -2535,7 +2647,7 @@
     "publisher": "Open Culture",
     "description": "Technology has come so far that we consider it no great achievement when a device the size of a single paper book can contain hundreds, even thousands, of different texts.",
     "by": "Tomte",
-    "points": 3,
+    "points": 4,
     "comment_count": 0,
     "hn_item": {
       "by": "ciprian_craciun",
@@ -2629,17 +2741,17 @@
     }
   },
   {
-    "id": 30156104,
-    "title": "Founder of Bolt calls Silicon Valley 'boys club' full of 'mob bosses'",
-    "url": "https://nypost.com/2022/01/31/bolt-founder-ryan-breslow-calls-silicon-valley-a-boys-club/",
-    "time": 1643670549,
-    "image": "https://nypost.com/wp-content/uploads/sites/2/2022/01/silicon-comp.jpg?quality=90\u0026strip=all\u0026w=1024",
-    "icon": "https://nypost.com/wp-content/themes/nypost-2016/static/images/favicon-nypost/favicon.ico",
-    "publisher": "New York Post",
-    "description": "The founder of a tech company now valued at $14 billion told The Post that navigating the startup world of Silicon Valley is like dealing with a “boys club” full of “mob bosses.\u0026#…",
-    "by": "Osiris",
-    "points": 6,
-    "comment_count": 1,
+    "id": 30150995,
+    "title": "Show HN: Practical Python Projects book now free to read online",
+    "url": "https://practicalpython.yasoob.me/toc.html",
+    "time": 1643650734,
+    "image": "",
+    "icon": "https://practicalpython.yasoob.me/toc.html/_static/favicon.png",
+    "publisher": "practicalpython.yasoob.me",
+    "description": "",
+    "by": "yasoob",
+    "points": 15,
+    "comment_count": 3,
     "hn_item": {
       "by": "ciprian_craciun",
       "descendants": 16,
@@ -2659,11 +2771,58 @@
       "url": "https://github.com/firecracker-microvm/firecracker/releases/tag/v1.0.0"
     },
     "og_item": {
-      "title": "Founder of $14B startup Bolt calls Silicon Valley ‘boys club’ full of ‘mob bosses’",
+      "title": "Table of Contents - Practical Python Projects",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "_static/favicon.png"
+      }
+    }
+  },
+  {
+    "id": 30152168,
+    "title": "Sony Buys Bungie",
+    "url": "https://blog.playstation.com/2022/01/31/bungie-is-joining-playstation/",
+    "time": 1643654556,
+    "image": "https://blog.playstation.com/tachyon/2022/01/8f2d141dbfa9c1dd61befc2de0a92266b3e9a9d0.jpg",
+    "icon": "https://blog.playstation.com/tachyon/2019/03/cropped-pslogo.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD\u0026X-Amz-Security-Token=IQoJb3JpZ2luX2VjEP7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCICOlol3ngDW%2BkIyOUrqg8N2jd4DvCvFepbIwLmz%2BmogfAiEAtkhrZyQF0UlyHFhLqvhqzj%2F1qek4M1Kh4P4ALSRjzpwq%2FQMINxAAGgw1Nzc0MTg4MTg0MTMiDLqaxlL2xADhLhVguSraA4XoYAoVpbZO9cU%2F7r3hst6T%2Bo0gvS1LoqGz4xUBC%2FDmMKSoiN8eCaGadVdGSojfhHw%2F1AWmd9la56bh6sxouStJWajhLJzbD6ZotuTtPI4WEp7XkaqUtpAqN%2BbqIsZxa6oeFKDr3DGZJe%2BcDRoNJh%2Fih%2BrzGps14gKnVlD%2FOaVogwO59OyzkVKEOsgjzoUn3iMLpAJnW9boeA1F%2FSON9%2BgLdgAkHMPL31L4OmDl%2FiZ0y8B%2BHBTrWmuClHKQ%2F2vFAI1n2vtzUwq117TXQ1VP7RrdNwKwz2nUfDGegKMTKrdF3UXy1w%2FjwbD%2BnxQZQ5%2B64YV5iXNxid21T%2FlzOoYg731g9X9d%2BPQ8AWqtnQjE21I%2B6PV3lGx1ZYME%2F5i2qRq9OmzJ3VbUAz9UDSXlCB8o8iOXerMeNVc5xqVEqoIm6IrMaeDMC%2F304qyXxz0K%2B7OfXNuwPlLrrB75vRY4xEIwE8XjnDIVCWK90XjBw18J%2F2n%2Fn%2FFsPC7BAdham8bf8se9H7GHBvFW6JFrKEzyuwf0y5SBNyPR3awXDH9gd9ZBkHBFKuD7PoYWWQTqgM6M3QnHdpiYPhXVMQAT9CL%2F3l3LrbjLz9oq81ej%2F%2BMLoh4SK5O0u%2Bji4URgMbO72zCPuOGPBjqlAQGZSdgoS9e4q%2F0zzQ9ZLE2yZUFN1IHnksCqBvFtHta09YBc0sYNUwfzTAgIKOaT3R3T8wDCaUgHUFV9wATqHSZuU0fyQNhOv4YALeiijXUnenRiWTuuBmtLMGJu743QQHWFs3Il3TMmUOFdLISHnY5wer4QyuwFJnfMK%2BugCRpyG%2Bq60QGCjtdaEJgMz1LyPsngYY6Khy65kEUyBwQ2iadJfcB2%2FQ%3D%3D\u0026X-Amz-Algorithm=AWS4-HMAC-SHA256\u0026X-Amz-Credential=ASIAYM4GX6NWZZOW2YAK%2F20220131%2Fus-east-1%2Fs3%2Faws4_request\u0026X-Amz-Date=20220131T235358Z\u0026X-Amz-SignedHeaders=host\u0026X-Amz-Expires=900\u0026X-Amz-Signature=886bf840f72341c5f5aeb4b337974b7fe19e0359b3675dc078eccb5ef38e452f\u0026fit=192%2C192",
+    "publisher": "PlayStation.Blog",
+    "description": "Legendary developer to join PlayStation as independent, multi-platform studio and publisher.",
+    "by": "zdw",
+    "points": 12,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "ciprian_craciun",
+      "descendants": 16,
+      "id": 30147652,
+      "kids": [
+        30148761,
+        30149137,
+        30149632,
+        30154229,
+        30149237,
+        30148851
+      ],
+      "score": 86,
+      "time": 1643635848,
+      "title": "Firecracker v1.0 Released",
+      "type": "story",
+      "url": "https://github.com/firecracker-microvm/firecracker/releases/tag/v1.0.0"
+    },
+    "og_item": {
+      "title": "Bungie is Joining PlayStation",
       "type": "article",
       "image": [
         {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2022/01/silicon-comp.jpg?quality=90\u0026strip=all\u0026w=1024",
+          "url": "https://blog.playstation.com/tachyon/2022/01/8f2d141dbfa9c1dd61befc2de0a92266b3e9a9d0.jpg",
           "secure_url": "",
           "type": "",
           "width": 0,
@@ -2671,16 +2830,16 @@
           "alt": ""
         }
       ],
-      "url": "https://nypost.com/2022/01/31/bolt-founder-ryan-breslow-calls-silicon-valley-a-boys-club/",
+      "url": "https://blog.playstation.com/2022/01/31/bungie-is-joining-playstation/",
       "audio": [],
-      "description": "The founder of a tech company now valued at $14 billion told The Post that navigating the startup world of Silicon Valley is like dealing with a “boys club” full of “mob bosses.\u0026#…",
+      "description": "Legendary developer to join PlayStation as independent, multi-platform studio and publisher.",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "New York Post",
+      "site_name": "PlayStation.Blog",
       "video": [],
       "favicon": {
-        "url": "https://nypost.com/wp-content/themes/nypost-2016/static/images/favicon-nypost/favicon.ico"
+        "url": "https://blog.playstation.com/tachyon/2019/03/cropped-pslogo.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD\u0026X-Amz-Security-Token=IQoJb3JpZ2luX2VjEP7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCICOlol3ngDW%2BkIyOUrqg8N2jd4DvCvFepbIwLmz%2BmogfAiEAtkhrZyQF0UlyHFhLqvhqzj%2F1qek4M1Kh4P4ALSRjzpwq%2FQMINxAAGgw1Nzc0MTg4MTg0MTMiDLqaxlL2xADhLhVguSraA4XoYAoVpbZO9cU%2F7r3hst6T%2Bo0gvS1LoqGz4xUBC%2FDmMKSoiN8eCaGadVdGSojfhHw%2F1AWmd9la56bh6sxouStJWajhLJzbD6ZotuTtPI4WEp7XkaqUtpAqN%2BbqIsZxa6oeFKDr3DGZJe%2BcDRoNJh%2Fih%2BrzGps14gKnVlD%2FOaVogwO59OyzkVKEOsgjzoUn3iMLpAJnW9boeA1F%2FSON9%2BgLdgAkHMPL31L4OmDl%2FiZ0y8B%2BHBTrWmuClHKQ%2F2vFAI1n2vtzUwq117TXQ1VP7RrdNwKwz2nUfDGegKMTKrdF3UXy1w%2FjwbD%2BnxQZQ5%2B64YV5iXNxid21T%2FlzOoYg731g9X9d%2BPQ8AWqtnQjE21I%2B6PV3lGx1ZYME%2F5i2qRq9OmzJ3VbUAz9UDSXlCB8o8iOXerMeNVc5xqVEqoIm6IrMaeDMC%2F304qyXxz0K%2B7OfXNuwPlLrrB75vRY4xEIwE8XjnDIVCWK90XjBw18J%2F2n%2Fn%2FFsPC7BAdham8bf8se9H7GHBvFW6JFrKEzyuwf0y5SBNyPR3awXDH9gd9ZBkHBFKuD7PoYWWQTqgM6M3QnHdpiYPhXVMQAT9CL%2F3l3LrbjLz9oq81ej%2F%2BMLoh4SK5O0u%2Bji4URgMbO72zCPuOGPBjqlAQGZSdgoS9e4q%2F0zzQ9ZLE2yZUFN1IHnksCqBvFtHta09YBc0sYNUwfzTAgIKOaT3R3T8wDCaUgHUFV9wATqHSZuU0fyQNhOv4YALeiijXUnenRiWTuuBmtLMGJu743QQHWFs3Il3TMmUOFdLISHnY5wer4QyuwFJnfMK%2BugCRpyG%2Bq60QGCjtdaEJgMz1LyPsngYY6Khy65kEUyBwQ2iadJfcB2%2FQ%3D%3D\u0026X-Amz-Algorithm=AWS4-HMAC-SHA256\u0026X-Amz-Credential=ASIAYM4GX6NWZZOW2YAK%2F20220131%2Fus-east-1%2Fs3%2Faws4_request\u0026X-Amz-Date=20220131T235358Z\u0026X-Amz-SignedHeaders=host\u0026X-Amz-Expires=900\u0026X-Amz-Signature=886bf840f72341c5f5aeb4b337974b7fe19e0359b3675dc078eccb5ef38e452f\u0026fit=192%2C192"
       }
     }
   },
@@ -2737,165 +2896,6 @@
       "video": [],
       "favicon": {
         "url": "/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30147755,
-    "title": "Polar bears move into abandoned Arctic weather station",
-    "url": "https://www.theguardian.com/world/2022/jan/31/polar-bears-move-into-abandoned-arctic-weather-station-photo-essay",
-    "time": 1643636620,
-    "image": "https://i.guim.co.uk/img/media/b9c97924f2784beddc80fab14f75453d83824613/0_231_3500_2101/master/3500.jpg?width=1200\u0026height=630\u0026quality=85\u0026auto=format\u0026fit=crop\u0026overlay-align=bottom%2Cleft\u0026overlay-width=100p\u0026overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc\u0026enable=upscale\u0026s=5d8713011a3bb525f19bf8544cb15bcc",
-    "icon": "https://static.guim.co.uk/images/favicon-32x32.ico",
-    "publisher": "the Guardian",
-    "description": "Photographer Dmitry Kokh discovered polar bears living in an abandoned weather station in Kolyuchin in the Chukotka Autonomous Okrug of Russia",
-    "by": "sofixa",
-    "points": 195,
-    "comment_count": 46,
-    "hn_item": {
-      "by": "ciprian_craciun",
-      "descendants": 16,
-      "id": 30147652,
-      "kids": [
-        30148761,
-        30149137,
-        30149632,
-        30154229,
-        30149237,
-        30148851
-      ],
-      "score": 86,
-      "time": 1643635848,
-      "title": "Firecracker v1.0 Released",
-      "type": "story",
-      "url": "https://github.com/firecracker-microvm/firecracker/releases/tag/v1.0.0"
-    },
-    "og_item": {
-      "title": "Polar bears move into abandoned Arctic weather station – photo essay",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://i.guim.co.uk/img/media/b9c97924f2784beddc80fab14f75453d83824613/0_231_3500_2101/master/3500.jpg?width=1200\u0026height=630\u0026quality=85\u0026auto=format\u0026fit=crop\u0026overlay-align=bottom%2Cleft\u0026overlay-width=100p\u0026overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc\u0026enable=upscale\u0026s=5d8713011a3bb525f19bf8544cb15bcc",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://www.theguardian.com/world/2022/jan/31/polar-bears-move-into-abandoned-arctic-weather-station-photo-essay",
-      "audio": [],
-      "description": "Photographer Dmitry Kokh discovered polar bears living in an abandoned weather station in Kolyuchin in the Chukotka Autonomous Okrug of Russia",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "the Guardian",
-      "video": [],
-      "favicon": {
-        "url": "https://static.guim.co.uk/images/favicon-32x32.ico"
-      }
-    }
-  },
-  {
-    "id": 30150995,
-    "title": "Show HN: Practical Python Projects book now free to read online",
-    "url": "https://practicalpython.yasoob.me/toc.html",
-    "time": 1643650734,
-    "image": "",
-    "icon": "https://practicalpython.yasoob.me/toc.html/_static/favicon.png",
-    "publisher": "practicalpython.yasoob.me",
-    "description": "",
-    "by": "yasoob",
-    "points": 15,
-    "comment_count": 3,
-    "hn_item": {
-      "by": "ciprian_craciun",
-      "descendants": 16,
-      "id": 30147652,
-      "kids": [
-        30148761,
-        30149137,
-        30149632,
-        30154229,
-        30149237,
-        30148851
-      ],
-      "score": 86,
-      "time": 1643635848,
-      "title": "Firecracker v1.0 Released",
-      "type": "story",
-      "url": "https://github.com/firecracker-microvm/firecracker/releases/tag/v1.0.0"
-    },
-    "og_item": {
-      "title": "Table of Contents - Practical Python Projects",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "_static/favicon.png"
-      }
-    }
-  },
-  {
-    "id": 30152168,
-    "title": "Sony Buys Bungie",
-    "url": "https://blog.playstation.com/2022/01/31/bungie-is-joining-playstation/",
-    "time": 1643654556,
-    "image": "https://blog.playstation.com/tachyon/2022/01/8f2d141dbfa9c1dd61befc2de0a92266b3e9a9d0.jpg",
-    "icon": "https://blog.playstation.com/tachyon/2019/03/cropped-pslogo.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD\u0026X-Amz-Security-Token=IQoJb3JpZ2luX2VjEP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJGMEQCIA287IXQFOdqMUUehlPsijQu8Ew9JKav3JqiZSrJpgTbAiBYMfoS%2FBU%2FgBAX0K%2Fmbg0Mf7PwqUyUOkUfdcmjZ2vhVCr9Awg3EAAaDDU3NzQxODgxODQxMyIM1hRjWH7fDkNpRwpNKtoD%2F6tDyhRciAF5pccnA2n%2FhRs6I%2Bt1mS8o1h4Ke0FqhaLrIUOW9wD6YysGofGEY4NmbKj%2Bn6un7ENhzXu0aJmR7Umuu0LbJSRr6Bq89vVBrwAKpT%2F%2BRlWMI4wbyxFrnBaZc%2FbgOBmeMgT7v10QSlTGzlWYCJpz945KtiQbFL5ZCWYdgfrEjkNZQTQTnVlppZ00NaiDbkMrvhT7OD9l945f3bXUwQu%2FIm3qbUA2xZWr3SHn3ZSKTM3RzwCCR2l8U5XGZ%2ByLXgceMHmEZpm3PBH%2FW2xxM95%2FIT9x6Lg1%2FE41ZRkgNTrWIRe7hqYumBwFcyGVEMK%2BjxI%2B7%2BVQ6Dm3Uc1SqY38AI%2F90B3JNZ0FDdMAzwm3UMGU3VN6k85G0AyFXqztWmDVhYUuZKBhznOs2HBVRFlVfKZS%2BGWyTh72ozY%2BPu4KGL9mhcxjLAbIliIbLwjCju2vWORwOwgo%2FtjMQ5bYdFufztPsebXqYG28wYLLYR9wffhRUdoIXup5WBIAuHjALSVelW1APvACbID9H5cp%2BrecvsonVJLgqnI26cZsZeM9WxfHk8sXLisC9hAapaj5dUZBylNpL3YFDaxstdzn1Bbwq50sRHn%2B6rZ2f8R4nryPbiuuCuwf7Oo9MMPB4Y8GOqYBCTXk%2BMjT12MrZMuVzsr4lroaKQKB0z5n0BZSyk7In7HFp3fLA8bZhkVATPZh%2FYZvwvnKwPGy4DzK7cEbX3CGgCU0lJ4lxNyE5O2S197IZlkUs7k%2FHg7dFpeFBpoeSZhg%2FO2fNgtufE2WzabNjITNpoS6EANxjkoNpfKFaMLRcJ2fQprB3bbfbfTkLoVkY5wmdg%2F8AQs1s7ZZvW%2FKwVvpJrl6mXZCyw%3D%3D\u0026X-Amz-Algorithm=AWS4-HMAC-SHA256\u0026X-Amz-Credential=ASIAYM4GX6NWXGVMEX4B%2F20220131%2Fus-east-1%2Fs3%2Faws4_request\u0026X-Amz-Date=20220131T234358Z\u0026X-Amz-SignedHeaders=host\u0026X-Amz-Expires=900\u0026X-Amz-Signature=334d32806204783dc7abb10ef0f513937ea74a293ee15b1f92982dc744c79cc8\u0026fit=192%2C192",
-    "publisher": "PlayStation.Blog",
-    "description": "Legendary developer to join PlayStation as independent, multi-platform studio and publisher.",
-    "by": "zdw",
-    "points": 12,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "ciprian_craciun",
-      "descendants": 16,
-      "id": 30147652,
-      "kids": [
-        30148761,
-        30149137,
-        30149632,
-        30154229,
-        30149237,
-        30148851
-      ],
-      "score": 86,
-      "time": 1643635848,
-      "title": "Firecracker v1.0 Released",
-      "type": "story",
-      "url": "https://github.com/firecracker-microvm/firecracker/releases/tag/v1.0.0"
-    },
-    "og_item": {
-      "title": "Bungie is Joining PlayStation",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://blog.playstation.com/tachyon/2022/01/8f2d141dbfa9c1dd61befc2de0a92266b3e9a9d0.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://blog.playstation.com/2022/01/31/bungie-is-joining-playstation/",
-      "audio": [],
-      "description": "Legendary developer to join PlayStation as independent, multi-platform studio and publisher.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "PlayStation.Blog",
-      "video": [],
-      "favicon": {
-        "url": "https://blog.playstation.com/tachyon/2019/03/cropped-pslogo.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD\u0026X-Amz-Security-Token=IQoJb3JpZ2luX2VjEP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJGMEQCIA287IXQFOdqMUUehlPsijQu8Ew9JKav3JqiZSrJpgTbAiBYMfoS%2FBU%2FgBAX0K%2Fmbg0Mf7PwqUyUOkUfdcmjZ2vhVCr9Awg3EAAaDDU3NzQxODgxODQxMyIM1hRjWH7fDkNpRwpNKtoD%2F6tDyhRciAF5pccnA2n%2FhRs6I%2Bt1mS8o1h4Ke0FqhaLrIUOW9wD6YysGofGEY4NmbKj%2Bn6un7ENhzXu0aJmR7Umuu0LbJSRr6Bq89vVBrwAKpT%2F%2BRlWMI4wbyxFrnBaZc%2FbgOBmeMgT7v10QSlTGzlWYCJpz945KtiQbFL5ZCWYdgfrEjkNZQTQTnVlppZ00NaiDbkMrvhT7OD9l945f3bXUwQu%2FIm3qbUA2xZWr3SHn3ZSKTM3RzwCCR2l8U5XGZ%2ByLXgceMHmEZpm3PBH%2FW2xxM95%2FIT9x6Lg1%2FE41ZRkgNTrWIRe7hqYumBwFcyGVEMK%2BjxI%2B7%2BVQ6Dm3Uc1SqY38AI%2F90B3JNZ0FDdMAzwm3UMGU3VN6k85G0AyFXqztWmDVhYUuZKBhznOs2HBVRFlVfKZS%2BGWyTh72ozY%2BPu4KGL9mhcxjLAbIliIbLwjCju2vWORwOwgo%2FtjMQ5bYdFufztPsebXqYG28wYLLYR9wffhRUdoIXup5WBIAuHjALSVelW1APvACbID9H5cp%2BrecvsonVJLgqnI26cZsZeM9WxfHk8sXLisC9hAapaj5dUZBylNpL3YFDaxstdzn1Bbwq50sRHn%2B6rZ2f8R4nryPbiuuCuwf7Oo9MMPB4Y8GOqYBCTXk%2BMjT12MrZMuVzsr4lroaKQKB0z5n0BZSyk7In7HFp3fLA8bZhkVATPZh%2FYZvwvnKwPGy4DzK7cEbX3CGgCU0lJ4lxNyE5O2S197IZlkUs7k%2FHg7dFpeFBpoeSZhg%2FO2fNgtufE2WzabNjITNpoS6EANxjkoNpfKFaMLRcJ2fQprB3bbfbfTkLoVkY5wmdg%2F8AQs1s7ZZvW%2FKwVvpJrl6mXZCyw%3D%3D\u0026X-Amz-Algorithm=AWS4-HMAC-SHA256\u0026X-Amz-Credential=ASIAYM4GX6NWXGVMEX4B%2F20220131%2Fus-east-1%2Fs3%2Faws4_request\u0026X-Amz-Date=20220131T234358Z\u0026X-Amz-SignedHeaders=host\u0026X-Amz-Expires=900\u0026X-Amz-Signature=334d32806204783dc7abb10ef0f513937ea74a293ee15b1f92982dc744c79cc8\u0026fit=192%2C192"
       }
     }
   },
@@ -3003,109 +3003,6 @@
     }
   },
   {
-    "id": 30156132,
-    "title": "Parasites that thrive in a warming planet are killing Minnesota’s moose",
-    "url": "https://www.vox.com/down-to-earth/2022/1/28/22872494/climate-change-moose-minnesota-brainworm-ticks-deer",
-    "time": 1643670670,
-    "image": "https://cdn.vox-cdn.com/thumbor/l4nttKAQ0L6kasI6ugEBqxfv-I8=/0x33:3600x1918/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23182811/GettyImages_1168240854.jpg",
-    "icon": "https://cdn.vox-cdn.com/uploads/hub/sbnu_logo_minimal/441/touch_icon_iphone_retina_1000_yellow.755.png",
-    "publisher": "Vox",
-    "description": "Brainworms and ticks are decimating an animal sacred to the region’s original inhabitants.",
-    "by": "onychomys",
-    "points": 5,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "ciprian_craciun",
-      "descendants": 16,
-      "id": 30147652,
-      "kids": [
-        30148761,
-        30149137,
-        30149632,
-        30154229,
-        30149237,
-        30148851
-      ],
-      "score": 86,
-      "time": 1643635848,
-      "title": "Firecracker v1.0 Released",
-      "type": "story",
-      "url": "https://github.com/firecracker-microvm/firecracker/releases/tag/v1.0.0"
-    },
-    "og_item": {
-      "title": "Parasites that thrive in a warming planet are killing Minnesota’s moose",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/l4nttKAQ0L6kasI6ugEBqxfv-I8=/0x33:3600x1918/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23182811/GettyImages_1168240854.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 1200,
-          "height": 630,
-          "alt": ""
-        }
-      ],
-      "url": "https://www.vox.com/down-to-earth/2022/1/28/22872494/climate-change-moose-minnesota-brainworm-ticks-deer",
-      "audio": [],
-      "description": "Brainworms and ticks are decimating an animal sacred to the region’s original inhabitants.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Vox",
-      "video": [],
-      "favicon": {
-        "url": "https://cdn.vox-cdn.com/uploads/hub/sbnu_logo_minimal/441/touch_icon_iphone_retina_1000_yellow.755.png"
-      }
-    }
-  },
-  {
-    "id": 30150990,
-    "title": "How to recommend books, or, stop recommending SICP",
-    "url": "https://notes.eatonphil.com/recommending-a-book.html",
-    "time": 1643650719,
-    "image": "",
-    "icon": "https://notes.eatonphil.com/favicon.ico",
-    "publisher": "notes.eatonphil.com",
-    "description": "How to recommend books, or, stop recommending SICP",
-    "by": "eatonphil",
-    "points": 13,
-    "comment_count": 13,
-    "hn_item": {
-      "by": "ciprian_craciun",
-      "descendants": 16,
-      "id": 30147652,
-      "kids": [
-        30148761,
-        30149137,
-        30149632,
-        30154229,
-        30149237,
-        30148851
-      ],
-      "score": 86,
-      "time": 1643635848,
-      "title": "Firecracker v1.0 Released",
-      "type": "story",
-      "url": "https://github.com/firecracker-microvm/firecracker/releases/tag/v1.0.0"
-    },
-    "og_item": {
-      "title": "How to recommend books, or, stop recommending SICP | notes.eatonphil.com",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "How to recommend books, or, stop recommending SICP",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30148272,
     "title": "Citrix to be acquired for $16.5B, will be merged with Tibco",
     "url": "https://techcrunch.com/2022/01/31/citrix-to-be-acquired-by-vista-and-evergreen-elliott-in-a-16-5b-all-cash-deal-will-be-merged-with-tibco-to-create-saas-powerhouse/",
@@ -3115,8 +3012,8 @@
     "publisher": "TechCrunch",
     "description": "More consolidation is afoot in the world of IT to meet a new demand from enterprises for “one-stop shops” covering a wide range of needs in our hybrid world of work. Citrix, the long-in-the-tooth virtualization giant that had been making a slow transition into cloud computing, is being …",
     "by": "blopeur",
-    "points": 87,
-    "comment_count": 68,
+    "points": 89,
+    "comment_count": 69,
     "hn_item": {
       "by": "ciprian_craciun",
       "descendants": 16,
@@ -3171,7 +3068,7 @@
     "publisher": "bleepingcomputer.com",
     "description": "",
     "by": "beermonster",
-    "points": 206,
+    "points": 207,
     "comment_count": 100,
     "hn_item": {
       "by": "ciprian_craciun",
@@ -3198,6 +3095,53 @@
       "url": "",
       "audio": [],
       "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30150990,
+    "title": "How to recommend books, or, stop recommending SICP",
+    "url": "https://notes.eatonphil.com/recommending-a-book.html",
+    "time": 1643650719,
+    "image": "",
+    "icon": "https://notes.eatonphil.com/favicon.ico",
+    "publisher": "notes.eatonphil.com",
+    "description": "How to recommend books, or, stop recommending SICP",
+    "by": "eatonphil",
+    "points": 13,
+    "comment_count": 13,
+    "hn_item": {
+      "by": "ciprian_craciun",
+      "descendants": 16,
+      "id": 30147652,
+      "kids": [
+        30148761,
+        30149137,
+        30149632,
+        30154229,
+        30149237,
+        30148851
+      ],
+      "score": 86,
+      "time": 1643635848,
+      "title": "Firecracker v1.0 Released",
+      "type": "story",
+      "url": "https://github.com/firecracker-microvm/firecracker/releases/tag/v1.0.0"
+    },
+    "og_item": {
+      "title": "How to recommend books, or, stop recommending SICP | notes.eatonphil.com",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "How to recommend books, or, stop recommending SICP",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
@@ -3261,6 +3205,62 @@
       "video": [],
       "favicon": {
         "url": "https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yNjU5NjY0OS9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTY1OTYwMjUwNn0.83ww7bkGqpGwDJ0lJUQ9t40jCxvzIiI09EEqwNcU8HE/img.png?width=32\u0026height=32"
+      }
+    }
+  },
+  {
+    "id": 30156132,
+    "title": "Parasites that thrive in a warming planet are killing Minnesota’s moose",
+    "url": "https://www.vox.com/down-to-earth/2022/1/28/22872494/climate-change-moose-minnesota-brainworm-ticks-deer",
+    "time": 1643670670,
+    "image": "https://cdn.vox-cdn.com/thumbor/l4nttKAQ0L6kasI6ugEBqxfv-I8=/0x33:3600x1918/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23182811/GettyImages_1168240854.jpg",
+    "icon": "https://cdn.vox-cdn.com/uploads/hub/sbnu_logo_minimal/441/touch_icon_iphone_retina_1000_yellow.755.png",
+    "publisher": "Vox",
+    "description": "Brainworms and ticks are decimating an animal sacred to the region’s original inhabitants.",
+    "by": "onychomys",
+    "points": 5,
+    "comment_count": 1,
+    "hn_item": {
+      "by": "ciprian_craciun",
+      "descendants": 16,
+      "id": 30147652,
+      "kids": [
+        30148761,
+        30149137,
+        30149632,
+        30154229,
+        30149237,
+        30148851
+      ],
+      "score": 86,
+      "time": 1643635848,
+      "title": "Firecracker v1.0 Released",
+      "type": "story",
+      "url": "https://github.com/firecracker-microvm/firecracker/releases/tag/v1.0.0"
+    },
+    "og_item": {
+      "title": "Parasites that thrive in a warming planet are killing Minnesota’s moose",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/l4nttKAQ0L6kasI6ugEBqxfv-I8=/0x33:3600x1918/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23182811/GettyImages_1168240854.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 1200,
+          "height": 630,
+          "alt": ""
+        }
+      ],
+      "url": "https://www.vox.com/down-to-earth/2022/1/28/22872494/climate-change-moose-minnesota-brainworm-ticks-deer",
+      "audio": [],
+      "description": "Brainworms and ticks are decimating an animal sacred to the region’s original inhabitants.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Vox",
+      "video": [],
+      "favicon": {
+        "url": "https://cdn.vox-cdn.com/uploads/hub/sbnu_logo_minimal/441/touch_icon_iphone_retina_1000_yellow.755.png"
       }
     }
   },
@@ -3353,17 +3353,17 @@
     "og_item": null
   },
   {
-    "id": 30154613,
-    "title": "Mullvad: Pay with Cash",
-    "url": "https://mullvad.net/en/account/#/payment/cash",
-    "time": 1643664214,
-    "image": "https://mullvad.net/media/press/MullvadVPN_logo_Round_RGB_Color_positive.png",
-    "icon": "https://mullvad.net/favicon-16x16.png?v=1",
-    "publisher": "Mullvad VPN",
-    "description": "Mullvad is a VPN service that helps keep your online activity, identity, and location private. Only €5/month - We accept Bitcoin, cash, bank wire, credit card, PayPal, and Swish.",
-    "by": "BoorishBears",
-    "points": 3,
-    "comment_count": 1,
+    "id": 30153653,
+    "title": "Go 1.18 Beta 2",
+    "url": "https://go.dev/blog/go1.18beta2",
+    "time": 1643660229,
+    "image": "",
+    "icon": "https://go.dev/favicon.ico",
+    "publisher": "go.dev",
+    "description": "Go is an open source programming language that makes it easy to build simple, reliable, and efficient software.",
+    "by": "0xedb",
+    "points": 18,
+    "comment_count": 0,
     "hn_item": {
       "by": "ciprian_craciun",
       "descendants": 16,
@@ -3383,28 +3383,19 @@
       "url": "https://github.com/firecracker-microvm/firecracker/releases/tag/v1.0.0"
     },
     "og_item": {
-      "title": "My account | Mullvad VPN",
-      "type": "website",
-      "image": [
-        {
-          "url": "https://mullvad.net/media/press/MullvadVPN_logo_Round_RGB_Color_positive.png",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://mullvad.net/en/account/",
+      "title": "Announcing Go 1.18 Beta 2 - The Go Programming Language",
+      "type": "",
+      "image": [],
+      "url": "",
       "audio": [],
-      "description": "Mullvad is a VPN service that helps keep your online activity, identity, and location private. Only €5/month - We accept Bitcoin, cash, bank wire, credit card, PayPal, and Swish.",
+      "description": "Go is an open source programming language that makes it easy to build simple, reliable, and efficient software.",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "Mullvad VPN",
+      "site_name": "",
       "video": [],
       "favicon": {
-        "url": "/favicon-16x16.png?v=1"
+        "url": "/favicon.ico"
       }
     }
   },
@@ -3512,17 +3503,17 @@
     }
   },
   {
-    "id": 30153653,
-    "title": "Go 1.18 Beta 2",
-    "url": "https://go.dev/blog/go1.18beta2",
-    "time": 1643660229,
-    "image": "",
-    "icon": "https://go.dev/favicon.ico",
-    "publisher": "go.dev",
-    "description": "Go is an open source programming language that makes it easy to build simple, reliable, and efficient software.",
-    "by": "0xedb",
-    "points": 16,
-    "comment_count": 0,
+    "id": 30154613,
+    "title": "Mullvad: Pay with Cash",
+    "url": "https://mullvad.net/en/account/#/payment/cash",
+    "time": 1643664214,
+    "image": "https://mullvad.net/media/press/MullvadVPN_logo_Round_RGB_Color_positive.png",
+    "icon": "https://mullvad.net/favicon-16x16.png?v=1",
+    "publisher": "Mullvad VPN",
+    "description": "Mullvad is a VPN service that helps keep your online activity, identity, and location private. Only €5/month - We accept Bitcoin, cash, bank wire, credit card, PayPal, and Swish.",
+    "by": "BoorishBears",
+    "points": 3,
+    "comment_count": 1,
     "hn_item": {
       "by": "ciprian_craciun",
       "descendants": 16,
@@ -3542,19 +3533,28 @@
       "url": "https://github.com/firecracker-microvm/firecracker/releases/tag/v1.0.0"
     },
     "og_item": {
-      "title": "Announcing Go 1.18 Beta 2 - The Go Programming Language",
-      "type": "",
-      "image": [],
-      "url": "",
+      "title": "My account | Mullvad VPN",
+      "type": "website",
+      "image": [
+        {
+          "url": "https://mullvad.net/media/press/MullvadVPN_logo_Round_RGB_Color_positive.png",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://mullvad.net/en/account/",
       "audio": [],
-      "description": "Go is an open source programming language that makes it easy to build simple, reliable, and efficient software.",
+      "description": "Mullvad is a VPN service that helps keep your online activity, identity, and location private. Only €5/month - We accept Bitcoin, cash, bank wire, credit card, PayPal, and Swish.",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "",
+      "site_name": "Mullvad VPN",
       "video": [],
       "favicon": {
-        "url": "/favicon.ico"
+        "url": "/favicon-16x16.png?v=1"
       }
     }
   },
