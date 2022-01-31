@@ -14,11 +14,6 @@ const TopStoriesPage = () => {
     hnURL = '/hnui/hn_topstories.json';
   }
 
-  // NOTE: set empty second parameter in useEffect so doesn't calling fetch over and over.
-  useEffect(() => {
-    fetchData();
-  }, []);
-
   const fetchData = () => {
     console.log("fetching data")
     fetch(hnURL)
@@ -32,6 +27,12 @@ const TopStoriesPage = () => {
       setError(error);
     });
   }
+
+  // NOTE: set dependency array in useEffect to empty array to prevent fetchData getting called over and over.
+  // It causes React to warn about missing dependency.
+  useEffect(() => {
+    fetchData();
+  }, []);
 
   return (
     <div id="ts-page">
@@ -58,6 +59,7 @@ const TopStoriesPage = () => {
           </div>
         )}
       </div>
+      <div id="footer">hnards.com is an unofficial alternative <a href="https://news.ycombinator.com/">Hacker News</a> UI.</div>
     </div>
   );
 };

@@ -11,3 +11,10 @@
 .error a:hover {
   text-decoration: underline;
 }
+
+#footer {
+    margin: 60px auto;
+    text-align: center;
+    color: #757575;
+    font-size: 14px;
+}
