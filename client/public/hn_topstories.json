@@ -9,8 +9,8 @@
     "publisher": "University of Michigan News",
     "description": "A new biologically inspired battery membrane has enabled a battery with five times the capacity of the industry-standard lithium ion design to run for the thousand-plus cycles needed to power an electric car.\n\nA network of aramid nanofibers, recycled from Kevlar, can enable lithium-sulfur batterie",
     "by": "maeln",
-    "points": 28,
-    "comment_count": 7,
+    "points": 31,
+    "comment_count": 8,
     "hn_item": {
       "by": "LinuxBender",
       "descendants": 96,
@@ -72,8 +72,8 @@
     "publisher": "two-wrongs.com",
     "description": "",
     "by": "Tomte",
-    "points": 79,
-    "comment_count": 4,
+    "points": 80,
+    "comment_count": 5,
     "hn_item": {
       "by": "LinuxBender",
       "descendants": 96,
@@ -121,13 +121,13 @@
     "title": "Boyfriend Alert",
     "url": "https://github.com/jscd/Boyfriend-Alert",
     "time": 1643619852,
-    "image": "https://opengraph.githubassets.com/7897f419e1715517b69e0edcd95d445cfe1dab32b4b506a4b274b87cfe91d319/jscd/Boyfriend-Alert",
+    "image": "https://opengraph.githubassets.com/7812454252e4bd8709737576bab0e528775ff55a3074b31bafaef7f496355f54/jscd/Boyfriend-Alert",
     "icon": "https://github.githubassets.com/favicons/favicon.svg",
     "publisher": "GitHub",
     "description": "A light based alert system. Contribute to jscd/Boyfriend-Alert development by creating an account on GitHub.",
     "by": "rgun",
-    "points": 94,
-    "comment_count": 21,
+    "points": 103,
+    "comment_count": 22,
     "hn_item": {
       "by": "LinuxBender",
       "descendants": 96,
@@ -158,7 +158,7 @@
       "type": "object",
       "image": [
         {
-          "url": "https://opengraph.githubassets.com/7897f419e1715517b69e0edcd95d445cfe1dab32b4b506a4b274b87cfe91d319/jscd/Boyfriend-Alert",
+          "url": "https://opengraph.githubassets.com/7812454252e4bd8709737576bab0e528775ff55a3074b31bafaef7f496355f54/jscd/Boyfriend-Alert",
           "secure_url": "",
           "type": "",
           "width": 1200,
@@ -189,7 +189,7 @@
     "publisher": "lwn.net",
     "description": "",
     "by": "pabs3",
-    "points": 155,
+    "points": 157,
     "comment_count": 5,
     "hn_item": {
       "by": "LinuxBender",
@@ -243,7 +243,7 @@
     "publisher": "MathOverflow",
     "description": "The first thing to say is that this is not the same as the question about interesting mathematical mistakes. I am interested about the type of false beliefs that many intelligent people have while ...",
     "by": "gballan",
-    "points": 133,
+    "points": 135,
     "comment_count": 10,
     "hn_item": {
       "by": "LinuxBender",
@@ -306,7 +306,7 @@
     "publisher": "smallcultfollowing.com",
     "description": "",
     "by": "ingve",
-    "points": 52,
+    "points": 54,
     "comment_count": 4,
     "hn_item": {
       "by": "LinuxBender",
@@ -360,7 +360,7 @@
     "publisher": "theregister.com",
     "description": "",
     "by": "laktak",
-    "points": 126,
+    "points": 127,
     "comment_count": 10,
     "hn_item": {
       "by": "LinuxBender",
@@ -401,6 +401,69 @@
       "video": [],
       "favicon": {
         "url": "/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30144021,
+    "title": "How I Discovered Thousands of Open Databases on AWS",
+    "url": "https://infosecwriteups.com/how-i-discovered-thousands-of-open-databases-on-aws-764729aa7f32?gi=ba781482d685",
+    "time": 1643598347,
+    "image": "https://miro.medium.com/max/1200/1*NxOo3DS3ZzyWxGvxSwIqyw.png",
+    "icon": "https://miro.medium.com/fit/c/256/256/1*vkqyAEGdZQZNbQp1AswznQ.png",
+    "publisher": "Medium",
+    "description": "My journey on finding and reporting databases with sensitive data about Fortune-500 companies, Hospitals, Crypto platforms, Startups during…",
+    "by": "boyter",
+    "points": 192,
+    "comment_count": 14,
+    "hn_item": {
+      "by": "LinuxBender",
+      "descendants": 96,
+      "id": 30119925,
+      "kids": [
+        30140722,
+        30140803,
+        30145794,
+        30145342,
+        30145930,
+        30140747,
+        30142592,
+        30140584,
+        30145108,
+        30141464,
+        30141523,
+        30140587,
+        30143536
+      ],
+      "score": 109,
+      "time": 1643401844,
+      "title": "Message in a bottle from Scottish girl found in Norway after 25 years",
+      "type": "story",
+      "url": "https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-60121185"
+    },
+    "og_item": {
+      "title": "How I Discovered Thousands of Open Databases on AWS",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://miro.medium.com/max/1200/1*NxOo3DS3ZzyWxGvxSwIqyw.png",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://infosecwriteups.com/how-i-discovered-thousands-of-open-databases-on-aws-764729aa7f32",
+      "audio": [],
+      "description": "My journey on finding and reporting databases with sensitive data about Fortune-500 companies, Hospitals, Crypto platforms, Startups during…",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Medium",
+      "video": [],
+      "favicon": {
+        "url": "https://miro.medium.com/fit/c/256/256/1*vkqyAEGdZQZNbQp1AswznQ.png"
       }
     }
   },
@@ -468,69 +531,6 @@
     }
   },
   {
-    "id": 30144021,
-    "title": "How I Discovered Thousands of Open Databases on AWS",
-    "url": "https://infosecwriteups.com/how-i-discovered-thousands-of-open-databases-on-aws-764729aa7f32?gi=ba781482d685",
-    "time": 1643598347,
-    "image": "https://miro.medium.com/max/1200/1*NxOo3DS3ZzyWxGvxSwIqyw.png",
-    "icon": "https://miro.medium.com/fit/c/256/256/1*vkqyAEGdZQZNbQp1AswznQ.png",
-    "publisher": "Medium",
-    "description": "My journey on finding and reporting databases with sensitive data about Fortune-500 companies, Hospitals, Crypto platforms, Startups during…",
-    "by": "boyter",
-    "points": 191,
-    "comment_count": 14,
-    "hn_item": {
-      "by": "LinuxBender",
-      "descendants": 96,
-      "id": 30119925,
-      "kids": [
-        30140722,
-        30140803,
-        30145794,
-        30145342,
-        30145930,
-        30140747,
-        30142592,
-        30140584,
-        30145108,
-        30141464,
-        30141523,
-        30140587,
-        30143536
-      ],
-      "score": 109,
-      "time": 1643401844,
-      "title": "Message in a bottle from Scottish girl found in Norway after 25 years",
-      "type": "story",
-      "url": "https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-60121185"
-    },
-    "og_item": {
-      "title": "How I Discovered Thousands of Open Databases on AWS",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://miro.medium.com/max/1200/1*NxOo3DS3ZzyWxGvxSwIqyw.png",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://infosecwriteups.com/how-i-discovered-thousands-of-open-databases-on-aws-764729aa7f32",
-      "audio": [],
-      "description": "My journey on finding and reporting databases with sensitive data about Fortune-500 companies, Hospitals, Crypto platforms, Startups during…",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Medium",
-      "video": [],
-      "favicon": {
-        "url": "https://miro.medium.com/fit/c/256/256/1*vkqyAEGdZQZNbQp1AswznQ.png"
-      }
-    }
-  },
-  {
     "id": 30145237,
     "title": "Generate Static Sites from Markdown Files with Caddy",
     "url": "https://blog.thomaspuppe.de/static-sites-from-markdown-with-caddy-server",
@@ -540,7 +540,7 @@
     "publisher": "blog.thomaspuppe.de",
     "description": "",
     "by": "indigodaddy",
-    "points": 62,
+    "points": 64,
     "comment_count": 10,
     "hn_item": {
       "by": "LinuxBender",
@@ -579,7 +579,7 @@
     "publisher": "mattferraro.dev",
     "description": "What does it mean to invert a shape?",
     "by": "mferraro89",
-    "points": 123,
+    "points": 127,
     "comment_count": 11,
     "hn_item": {
       "by": "LinuxBender",
@@ -642,7 +642,7 @@
     "publisher": "cacm.acm.org",
     "description": "AI is driving the next evolution of chess, giving players a glimpse into the game\u0026#39;s future.",
     "by": "joak",
-    "points": 120,
+    "points": 121,
     "comment_count": 16,
     "hn_item": {
       "by": "LinuxBender",
@@ -696,6 +696,69 @@
     }
   },
   {
+    "id": 30124927,
+    "title": "Hiring for Conscientiousness",
+    "url": "https://www.holloway.com/s/trh-hiring-for-conscientiousness",
+    "time": 1643447066,
+    "image": "https://assets.holloway.com/editorial/images/holloway_will_skill_complete.png",
+    "icon": "https://www.holloway.com/static/favicons/icon-default-32x32-62ab2f6444.png",
+    "publisher": "Holloway",
+    "description": "Why startups should hire conscientious people—and how to find them",
+    "by": "rognjen",
+    "points": 6,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "LinuxBender",
+      "descendants": 96,
+      "id": 30119925,
+      "kids": [
+        30140722,
+        30140803,
+        30145794,
+        30145342,
+        30145930,
+        30140747,
+        30142592,
+        30140584,
+        30145108,
+        30141464,
+        30141523,
+        30140587,
+        30143536
+      ],
+      "score": 109,
+      "time": 1643401844,
+      "title": "Message in a bottle from Scottish girl found in Norway after 25 years",
+      "type": "story",
+      "url": "https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-60121185"
+    },
+    "og_item": {
+      "title": "Hiring for Conscientiousness — Holloway",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://assets.holloway.com/editorial/images/holloway_will_skill_complete.png",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://www.holloway.com/s/trh-hiring-for-conscientiousness",
+      "audio": [],
+      "description": "Why startups should hire conscientious people—and how to find them",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Holloway",
+      "video": [],
+      "favicon": {
+        "url": "https://www.holloway.com/static/favicons/icon-default-32x32-62ab2f6444.png"
+      }
+    }
+  },
+  {
     "id": 30146042,
     "title": "Finnish diplomats’ phones infected with NSO Group Pegasus spyware",
     "url": "https://www.bleepingcomputer.com/news/security/finnish-diplomats-phones-infected-with-nso-group-pegasus-spyware/",
@@ -705,7 +768,7 @@
     "publisher": "bleepingcomputer.com",
     "description": "",
     "by": "beermonster",
-    "points": 95,
+    "points": 99,
     "comment_count": 6,
     "hn_item": {
       "by": "LinuxBender",
@@ -759,7 +822,7 @@
     "publisher": "royalsociety.org",
     "description": "The Online Information Environment report discusses how to limit the harm of scientific misinformation online",
     "by": "steelstraw",
-    "points": 888,
+    "points": 891,
     "comment_count": 58,
     "hn_item": {
       "by": "LinuxBender",
@@ -822,7 +885,7 @@
     "publisher": "zillow.com",
     "description": "",
     "by": "otras",
-    "points": 301,
+    "points": 304,
     "comment_count": 36,
     "hn_item": {
       "by": "LinuxBender",
@@ -876,7 +939,7 @@
     "publisher": "EL PAÍS English Edition",
     "description": "Doctors in Belgium explain how they saved a bomb attack victim who had been struggling with one of the most virulent bacterial pathogens in the world",
     "by": "belter",
-    "points": 88,
+    "points": 89,
     "comment_count": 7,
     "hn_item": {
       "by": "LinuxBender",
@@ -939,7 +1002,7 @@
     "publisher": "Azimuth",
     "description": "In his book Ramanujan: Twelve Lectures on Subjects Suggested by His Life and Work, G. H. Hardy tells this famous story: He could remember the idiosyncracies of numbers in an almost uncanny way. It …",
     "by": "johncarlosbaez",
-    "points": 115,
+    "points": 118,
     "comment_count": 9,
     "hn_item": {
       "by": "LinuxBender",
@@ -1002,7 +1065,7 @@
     "publisher": "blog.openresty.com",
     "description": "Transparent Container Tracing Efficient Stack Unwinding Analyzing Dead Processes (Core Dumps) Very Low Tracing Overhead Standard Ylang Libraries \u0026amp; Tools Network Filtering \u0026amp; Control The Ylang Compiler\u0026rsquo;s Implementation Operating System Support Contributions to Open-Source Communities",
     "by": "walterbell",
-    "points": 59,
+    "points": 60,
     "comment_count": 7,
     "hn_item": {
       "by": "LinuxBender",
@@ -1043,69 +1106,6 @@
       "video": [],
       "favicon": {
         "url": "/favicon-16x16.png"
-      }
-    }
-  },
-  {
-    "id": 30124927,
-    "title": "Hiring for Conscientiousness",
-    "url": "https://www.holloway.com/s/trh-hiring-for-conscientiousness",
-    "time": 1643447066,
-    "image": "https://assets.holloway.com/editorial/images/holloway_will_skill_complete.png",
-    "icon": "https://www.holloway.com/static/favicons/icon-default-32x32-62ab2f6444.png",
-    "publisher": "Holloway",
-    "description": "Why startups should hire conscientious people—and how to find them",
-    "by": "rognjen",
-    "points": 3,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "LinuxBender",
-      "descendants": 96,
-      "id": 30119925,
-      "kids": [
-        30140722,
-        30140803,
-        30145794,
-        30145342,
-        30145930,
-        30140747,
-        30142592,
-        30140584,
-        30145108,
-        30141464,
-        30141523,
-        30140587,
-        30143536
-      ],
-      "score": 109,
-      "time": 1643401844,
-      "title": "Message in a bottle from Scottish girl found in Norway after 25 years",
-      "type": "story",
-      "url": "https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-60121185"
-    },
-    "og_item": {
-      "title": "Hiring for Conscientiousness — Holloway",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://assets.holloway.com/editorial/images/holloway_will_skill_complete.png",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://www.holloway.com/s/trh-hiring-for-conscientiousness",
-      "audio": [],
-      "description": "Why startups should hire conscientious people—and how to find them",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Holloway",
-      "video": [],
-      "favicon": {
-        "url": "https://www.holloway.com/static/favicons/icon-default-32x32-62ab2f6444.png"
       }
     }
   },
@@ -1164,60 +1164,6 @@
     }
   },
   {
-    "id": 30117500,
-    "title": "Plain Geology (1921)",
-    "url": "https://pubs.usgs.gov/gip/plain.html",
-    "time": 1643390110,
-    "image": "",
-    "icon": "https://pubs.usgs.gov/favicon.ico",
-    "publisher": "pubs.usgs.gov",
-    "description": "",
-    "by": "wrycoder",
-    "points": 6,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "LinuxBender",
-      "descendants": 96,
-      "id": 30119925,
-      "kids": [
-        30140722,
-        30140803,
-        30145794,
-        30145342,
-        30145930,
-        30140747,
-        30142592,
-        30140584,
-        30145108,
-        30141464,
-        30141523,
-        30140587,
-        30143536
-      ],
-      "score": 109,
-      "time": 1643401844,
-      "title": "Message in a bottle from Scottish girl found in Norway after 25 years",
-      "type": "story",
-      "url": "https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-60121185"
-    },
-    "og_item": {
-      "title": "Plain Geology",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30141192,
     "title": "Don't forget Microsoft",
     "url": "https://luttig.substack.com/p/dont-forget-microsoft",
@@ -1227,7 +1173,7 @@
     "publisher": "luttig.substack.com",
     "description": "Understanding the behemoth in Redmond teaches us valuable lessons in cloud infrastructure, startup strategy, and the future of software.",
     "by": "SamvitJ",
-    "points": 356,
+    "points": 361,
     "comment_count": 61,
     "hn_item": {
       "by": "LinuxBender",
@@ -1281,17 +1227,17 @@
     }
   },
   {
-    "id": 30141439,
-    "title": "Operation Warp Speed: A new model for industrial policy",
-    "url": "https://americanaffairsjournal.org/2021/05/inside-operation-warp-speed-a-new-model-for-industrial-policy/",
-    "time": 1643579096,
-    "image": "https://americanaffairsjournal.org/wp-content/uploads/2021/05/Jenner-Vaccine.jpg",
-    "icon": "https://americanaffairsjournal.org/wp-content/themes/american-affairs-journal/assets/images/favicon-new.png",
-    "publisher": "American Affairs Journal",
-    "description": "Operation Warp Speed1 (OWS) was launched on May 15, 2020. A partnership between the Departments of Health and Human Services (HHS) and Defense (DoD), other agencies, and the private sector, its goal was to “accelerate the testing, supply, development, and distribution of safe and effective vacc…",
-    "by": "gok",
-    "points": 129,
-    "comment_count": 10,
+    "id": 30117500,
+    "title": "Plain Geology (1921)",
+    "url": "https://pubs.usgs.gov/gip/plain.html",
+    "time": 1643390110,
+    "image": "",
+    "icon": "https://pubs.usgs.gov/favicon.ico",
+    "publisher": "pubs.usgs.gov",
+    "description": "",
+    "by": "wrycoder",
+    "points": 6,
+    "comment_count": 1,
     "hn_item": {
       "by": "LinuxBender",
       "descendants": 96,
@@ -1318,28 +1264,19 @@
       "url": "https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-60121185"
     },
     "og_item": {
-      "title": "Inside Operation Warp Speed: A New Model for Industrial Policy - American Affairs Journal",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://americanaffairsjournal.org/wp-content/uploads/2021/05/Jenner-Vaccine.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 1200,
-          "height": 794,
-          "alt": ""
-        }
-      ],
-      "url": "https://americanaffairsjournal.org/2021/05/inside-operation-warp-speed-a-new-model-for-industrial-policy/",
+      "title": "Plain Geology",
+      "type": "",
+      "image": [],
+      "url": "",
       "audio": [],
-      "description": "Operation Warp Speed1 (OWS) was launched on May 15, 2020. A partnership between the Departments of Health and Human Services (HHS) and Defense (DoD), other agencies, and the private sector, its goal was to “accelerate the testing, supply, development, and distribution of safe and effective vaccines, therapeutics, and diag­nostics to counter Covid-19.” As a result…",
+      "description": "",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "American Affairs Journal",
+      "site_name": "",
       "video": [],
       "favicon": {
-        "url": "https://americanaffairsjournal.org/wp-content/themes/american-affairs-journal/assets/images/favicon-new.png"
+        "url": "/favicon.ico"
       }
     }
   },
@@ -1353,7 +1290,7 @@
     "publisher": "ruoyusun.com",
     "description": "",
     "by": "insraq",
-    "points": 85,
+    "points": 86,
     "comment_count": 10,
     "hn_item": {
       "by": "LinuxBender",
@@ -1407,7 +1344,7 @@
     "publisher": "JSTOR Daily",
     "description": "The man who introduced mesmerism to the US was a slave-owner from Guadeloupe, where planters were experimenting with “magnetizing” their enslaved people.",
     "by": "onychomys",
-    "points": 38,
+    "points": 39,
     "comment_count": 5,
     "hn_item": {
       "by": "LinuxBender",
@@ -1461,6 +1398,69 @@
     }
   },
   {
+    "id": 30141439,
+    "title": "Operation Warp Speed: A new model for industrial policy",
+    "url": "https://americanaffairsjournal.org/2021/05/inside-operation-warp-speed-a-new-model-for-industrial-policy/",
+    "time": 1643579096,
+    "image": "https://americanaffairsjournal.org/wp-content/uploads/2021/05/Jenner-Vaccine.jpg",
+    "icon": "https://americanaffairsjournal.org/wp-content/themes/american-affairs-journal/assets/images/favicon-new.png",
+    "publisher": "American Affairs Journal",
+    "description": "Operation Warp Speed1 (OWS) was launched on May 15, 2020. A partnership between the Departments of Health and Human Services (HHS) and Defense (DoD), other agencies, and the private sector, its goal was to “accelerate the testing, supply, development, and distribution of safe and effective vacc…",
+    "by": "gok",
+    "points": 130,
+    "comment_count": 10,
+    "hn_item": {
+      "by": "LinuxBender",
+      "descendants": 96,
+      "id": 30119925,
+      "kids": [
+        30140722,
+        30140803,
+        30145794,
+        30145342,
+        30145930,
+        30140747,
+        30142592,
+        30140584,
+        30145108,
+        30141464,
+        30141523,
+        30140587,
+        30143536
+      ],
+      "score": 109,
+      "time": 1643401844,
+      "title": "Message in a bottle from Scottish girl found in Norway after 25 years",
+      "type": "story",
+      "url": "https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-60121185"
+    },
+    "og_item": {
+      "title": "Inside Operation Warp Speed: A New Model for Industrial Policy - American Affairs Journal",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://americanaffairsjournal.org/wp-content/uploads/2021/05/Jenner-Vaccine.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 1200,
+          "height": 794,
+          "alt": ""
+        }
+      ],
+      "url": "https://americanaffairsjournal.org/2021/05/inside-operation-warp-speed-a-new-model-for-industrial-policy/",
+      "audio": [],
+      "description": "Operation Warp Speed1 (OWS) was launched on May 15, 2020. A partnership between the Departments of Health and Human Services (HHS) and Defense (DoD), other agencies, and the private sector, its goal was to “accelerate the testing, supply, development, and distribution of safe and effective vaccines, therapeutics, and diag­nostics to counter Covid-19.” As a result…",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "American Affairs Journal",
+      "video": [],
+      "favicon": {
+        "url": "https://americanaffairsjournal.org/wp-content/themes/american-affairs-journal/assets/images/favicon-new.png"
+      }
+    }
+  },
+  {
     "id": 30137984,
     "title": "Show HN: Web page that parses and explains the label on a bike tire",
     "url": "https://fahrrad-tools.de/tire.html",
@@ -1470,7 +1470,7 @@
     "publisher": "fahrrad-tools.de",
     "description": "Which tire fits my bike? Tires are always flat and now buy a tire with puncture protection? Find the right tire now!",
     "by": "moasda",
-    "points": 588,
+    "points": 589,
     "comment_count": 38,
     "hn_item": {
       "by": "LinuxBender",
@@ -1524,7 +1524,7 @@
     "publisher": "Physics",
     "description": "The pattern of green and black scales on an ocellated lizard can be described with the two-parameter Ising model for antiferromagnetic systems.",
     "by": "shusaku",
-    "points": 51,
+    "points": 52,
     "comment_count": 3,
     "hn_item": {
       "by": "LinuxBender",
@@ -1587,8 +1587,8 @@
     "publisher": "jenson.org",
     "description": "",
     "by": "radley",
-    "points": 826,
-    "comment_count": 106,
+    "points": 831,
+    "comment_count": 107,
     "hn_item": {
       "by": "LinuxBender",
       "descendants": 96,
@@ -1641,7 +1641,7 @@
     "publisher": "Vice",
     "description": "The Great Unconformity has baffled geologists for a century. New research points to glaciers being the culprit.",
     "by": "cbkeller",
-    "points": 81,
+    "points": 82,
     "comment_count": 4,
     "hn_item": {
       "by": "LinuxBender",
@@ -1691,6 +1691,60 @@
       "video": [],
       "favicon": {
         "url": "https://vice-web-statics-cdn.vice.com/favicons/vice/favicon-16x16.png"
+      }
+    }
+  },
+  {
+    "id": 30142105,
+    "title": "Seattle Telecommunications History Museum",
+    "url": "https://www.telcomhistory.org/connections-museum-seattle/",
+    "time": 1643583232,
+    "image": "",
+    "icon": "https://www.telcomhistory.org/favicon.ico",
+    "publisher": "telcomhistory.org",
+    "description": "",
+    "by": "basementcat",
+    "points": 62,
+    "comment_count": 10,
+    "hn_item": {
+      "by": "LinuxBender",
+      "descendants": 96,
+      "id": 30119925,
+      "kids": [
+        30140722,
+        30140803,
+        30145794,
+        30145342,
+        30145930,
+        30140747,
+        30142592,
+        30140584,
+        30145108,
+        30141464,
+        30141523,
+        30140587,
+        30143536
+      ],
+      "score": 109,
+      "time": 1643401844,
+      "title": "Message in a bottle from Scottish girl found in Norway after 25 years",
+      "type": "story",
+      "url": "https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-60121185"
+    },
+    "og_item": {
+      "title": "403 Forbidden",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
       }
     }
   },
@@ -1758,123 +1812,6 @@
     }
   },
   {
-    "id": 30142105,
-    "title": "Seattle Telecommunications History Museum",
-    "url": "https://www.telcomhistory.org/connections-museum-seattle/",
-    "time": 1643583232,
-    "image": "",
-    "icon": "https://www.telcomhistory.org/favicon.ico",
-    "publisher": "telcomhistory.org",
-    "description": "",
-    "by": "basementcat",
-    "points": 62,
-    "comment_count": 10,
-    "hn_item": {
-      "by": "LinuxBender",
-      "descendants": 96,
-      "id": 30119925,
-      "kids": [
-        30140722,
-        30140803,
-        30145794,
-        30145342,
-        30145930,
-        30140747,
-        30142592,
-        30140584,
-        30145108,
-        30141464,
-        30141523,
-        30140587,
-        30143536
-      ],
-      "score": 109,
-      "time": 1643401844,
-      "title": "Message in a bottle from Scottish girl found in Norway after 25 years",
-      "type": "story",
-      "url": "https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-60121185"
-    },
-    "og_item": {
-      "title": "403 Forbidden",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30123592,
-    "title": "Assembling Accountability, from the Ground Up (2021)",
-    "url": "https://points.datasociety.net/assembling-accountability-from-the-ground-up-4655c492d0d0?gi=833242955cfa",
-    "time": 1643428009,
-    "image": "https://miro.medium.com/max/1200/1*D4V3-R-xBs3Qrf4F8JBeyA.png",
-    "icon": "https://miro.medium.com/fit/c/256/256/1*g7zU0sabzknTXlMs4m3Iqg.jpeg",
-    "publisher": "Medium",
-    "description": "Algorithmic impact assessments should leverage diverse expertise \u0026 complex histories",
-    "by": "mooreds",
-    "points": 3,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "LinuxBender",
-      "descendants": 96,
-      "id": 30119925,
-      "kids": [
-        30140722,
-        30140803,
-        30145794,
-        30145342,
-        30145930,
-        30140747,
-        30142592,
-        30140584,
-        30145108,
-        30141464,
-        30141523,
-        30140587,
-        30143536
-      ],
-      "score": 109,
-      "time": 1643401844,
-      "title": "Message in a bottle from Scottish girl found in Norway after 25 years",
-      "type": "story",
-      "url": "https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-60121185"
-    },
-    "og_item": {
-      "title": "Assembling Accountability, from the Ground Up",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://miro.medium.com/max/1200/1*D4V3-R-xBs3Qrf4F8JBeyA.png",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://points.datasociety.net/assembling-accountability-from-the-ground-up-4655c492d0d0",
-      "audio": [],
-      "description": "Algorithmic impact assessments should leverage diverse expertise \u0026 complex histories",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Medium",
-      "video": [],
-      "favicon": {
-        "url": "https://miro.medium.com/fit/c/256/256/1*g7zU0sabzknTXlMs4m3Iqg.jpeg"
-      }
-    }
-  },
-  {
     "id": 30142558,
     "title": "State of the Web: Static Site Generators",
     "url": "https://byteofdev.com/posts/static-site-generators/",
@@ -1884,7 +1821,7 @@
     "publisher": "ByteofDev",
     "description": "Static Site Generators have been changing quickly with new trends like Jamstack. Learn more about the background of static site generators, why people use them, and the current state of them, with information on modern SSGs like Eleventy, Next.js, SvelteKit, and Astro.",
     "by": "AsyncBanana",
-    "points": 132,
+    "points": 133,
     "comment_count": 25,
     "hn_item": {
       "by": "LinuxBender",
@@ -2001,6 +1938,69 @@
     }
   },
   {
+    "id": 30123592,
+    "title": "Assembling Accountability, from the Ground Up (2021)",
+    "url": "https://points.datasociety.net/assembling-accountability-from-the-ground-up-4655c492d0d0?gi=833242955cfa",
+    "time": 1643428009,
+    "image": "https://miro.medium.com/max/1200/1*D4V3-R-xBs3Qrf4F8JBeyA.png",
+    "icon": "https://miro.medium.com/fit/c/256/256/1*g7zU0sabzknTXlMs4m3Iqg.jpeg",
+    "publisher": "Medium",
+    "description": "Algorithmic impact assessments should leverage diverse expertise \u0026 complex histories",
+    "by": "mooreds",
+    "points": 3,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "LinuxBender",
+      "descendants": 96,
+      "id": 30119925,
+      "kids": [
+        30140722,
+        30140803,
+        30145794,
+        30145342,
+        30145930,
+        30140747,
+        30142592,
+        30140584,
+        30145108,
+        30141464,
+        30141523,
+        30140587,
+        30143536
+      ],
+      "score": 109,
+      "time": 1643401844,
+      "title": "Message in a bottle from Scottish girl found in Norway after 25 years",
+      "type": "story",
+      "url": "https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-60121185"
+    },
+    "og_item": {
+      "title": "Assembling Accountability, from the Ground Up",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://miro.medium.com/max/1200/1*D4V3-R-xBs3Qrf4F8JBeyA.png",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://points.datasociety.net/assembling-accountability-from-the-ground-up-4655c492d0d0",
+      "audio": [],
+      "description": "Algorithmic impact assessments should leverage diverse expertise \u0026 complex histories",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Medium",
+      "video": [],
+      "favicon": {
+        "url": "https://miro.medium.com/fit/c/256/256/1*g7zU0sabzknTXlMs4m3Iqg.jpeg"
+      }
+    }
+  },
+  {
     "id": 30128193,
     "title": "On Immersion",
     "url": "https://blog.laurel.world/on-immersion/",
@@ -2055,6 +2055,60 @@
     }
   },
   {
+    "id": 30141171,
+    "title": "Deep symbolic regression for recurrent sequences",
+    "url": "http://recur-env.eba-rm3fchmn.us-east-2.elasticbeanstalk.com/",
+    "time": 1643577344,
+    "image": "",
+    "icon": "",
+    "publisher": "recur-env.eba-rm3fchmn.us-eas…",
+    "description": "",
+    "by": "ShamelessC",
+    "points": 65,
+    "comment_count": 13,
+    "hn_item": {
+      "by": "LinuxBender",
+      "descendants": 96,
+      "id": 30119925,
+      "kids": [
+        30140722,
+        30140803,
+        30145794,
+        30145342,
+        30145930,
+        30140747,
+        30142592,
+        30140584,
+        30145108,
+        30141464,
+        30141523,
+        30140587,
+        30143536
+      ],
+      "score": 109,
+      "time": 1643401844,
+      "title": "Message in a bottle from Scottish girl found in Norway after 25 years",
+      "type": "story",
+      "url": "https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-60121185"
+    },
+    "og_item": {
+      "title": "Streamlit",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "./favicon.png"
+      }
+    }
+  },
+  {
     "id": 30147159,
     "title": "How Facebook Is Morphing into Meta",
     "url": "https://www.nytimes.com/2022/01/31/technology/facebook-meta-change.html",
@@ -2065,7 +2119,7 @@
     "description": "Shifting a 68,000-person social networking company toward the theoretical metaverse has caused internal disruption and uncertainty.",
     "by": "mupuff1234",
     "points": 6,
-    "comment_count": 2,
+    "comment_count": 4,
     "hn_item": {
       "by": "LinuxBender",
       "descendants": 96,
@@ -2114,60 +2168,6 @@
       "video": [],
       "favicon": {
         "url": "/vi-assets/static-assets/favicon-d2483f10ef688e6f89e23806b9700298.ico"
-      }
-    }
-  },
-  {
-    "id": 30141171,
-    "title": "Deep symbolic regression for recurrent sequences",
-    "url": "http://recur-env.eba-rm3fchmn.us-east-2.elasticbeanstalk.com/",
-    "time": 1643577344,
-    "image": "",
-    "icon": "",
-    "publisher": "recur-env.eba-rm3fchmn.us-eas…",
-    "description": "",
-    "by": "ShamelessC",
-    "points": 64,
-    "comment_count": 13,
-    "hn_item": {
-      "by": "LinuxBender",
-      "descendants": 96,
-      "id": 30119925,
-      "kids": [
-        30140722,
-        30140803,
-        30145794,
-        30145342,
-        30145930,
-        30140747,
-        30142592,
-        30140584,
-        30145108,
-        30141464,
-        30141523,
-        30140587,
-        30143536
-      ],
-      "score": 109,
-      "time": 1643401844,
-      "title": "Message in a bottle from Scottish girl found in Norway after 25 years",
-      "type": "story",
-      "url": "https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-60121185"
-    },
-    "og_item": {
-      "title": "Streamlit",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "./favicon.png"
       }
     }
   },
@@ -2740,7 +2740,7 @@
     "description": "",
     "by": "zdw",
     "points": 18,
-    "comment_count": 2,
+    "comment_count": 3,
     "hn_item": {
       "by": "LinuxBender",
       "descendants": 96,
@@ -2842,12 +2842,12 @@
     "title": "Beancount: Double-entry accounting from text files",
     "url": "https://github.com/beancount/beancount",
     "time": 1643559445,
-    "image": "https://opengraph.githubassets.com/bab7c0644e994d0753c6455ec27010f57b982e5801f5583b116c160833958052/beancount/beancount",
+    "image": "https://opengraph.githubassets.com/2369d3eceea582d8092fb4cc2fac18671342598ca274877b6926cd7404f2a41d/beancount/beancount",
     "icon": "https://github.githubassets.com/favicons/favicon.svg",
     "publisher": "GitHub",
     "description": "Beancount: Double-Entry Accounting from Text Files. - GitHub - beancount/beancount: Beancount: Double-Entry Accounting from Text Files.",
     "by": "techtalsky",
-    "points": 205,
+    "points": 206,
     "comment_count": 22,
     "hn_item": {
       "by": "LinuxBender",
@@ -2879,7 +2879,7 @@
       "type": "object",
       "image": [
         {
-          "url": "https://opengraph.githubassets.com/bab7c0644e994d0753c6455ec27010f57b982e5801f5583b116c160833958052/beancount/beancount",
+          "url": "https://opengraph.githubassets.com/2369d3eceea582d8092fb4cc2fac18671342598ca274877b6926cd7404f2a41d/beancount/beancount",
           "secure_url": "",
           "type": "",
           "width": 1200,
@@ -2911,7 +2911,7 @@
     "description": "",
     "by": "FrojoS",
     "points": 32,
-    "comment_count": 10,
+    "comment_count": 11,
     "hn_item": {
       "by": "LinuxBender",
       "descendants": 96,
@@ -3014,60 +3014,6 @@
       "video": [],
       "favicon": {
         "url": "https://cdn.substack.com/icons/substack/favicon-32x32.png"
-      }
-    }
-  },
-  {
-    "id": 30146516,
-    "title": "Ask HN: GitHub and Bitbucket end support for password auth for CLI - Now what?",
-    "url": "https://news.ycombinator.com/item?id=30146516",
-    "time": 1643624617,
-    "image": "",
-    "icon": "https://news.ycombinator.com/favicon.ico",
-    "publisher": "Hacker News",
-    "description": "",
-    "by": "weezee",
-    "points": 5,
-    "comment_count": 3,
-    "hn_item": {
-      "by": "LinuxBender",
-      "descendants": 96,
-      "id": 30119925,
-      "kids": [
-        30140722,
-        30140803,
-        30145794,
-        30145342,
-        30145930,
-        30140747,
-        30142592,
-        30140584,
-        30145108,
-        30141464,
-        30141523,
-        30140587,
-        30143536
-      ],
-      "score": 109,
-      "time": 1643401844,
-      "title": "Message in a bottle from Scottish girl found in Norway after 25 years",
-      "type": "story",
-      "url": "https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-60121185"
-    },
-    "og_item": {
-      "title": "Ask HN: GitHub and Bitbucket end support for password auth for CLI - Now what? | Hacker News",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "favicon.ico"
       }
     }
   },
@@ -3189,6 +3135,60 @@
     }
   },
   {
+    "id": 30146516,
+    "title": "Ask HN: GitHub and Bitbucket end support for password auth for CLI - Now what?",
+    "url": "https://news.ycombinator.com/item?id=30146516",
+    "time": 1643624617,
+    "image": "",
+    "icon": "https://news.ycombinator.com/favicon.ico",
+    "publisher": "Hacker News",
+    "description": "",
+    "by": "weezee",
+    "points": 5,
+    "comment_count": 4,
+    "hn_item": {
+      "by": "LinuxBender",
+      "descendants": 96,
+      "id": 30119925,
+      "kids": [
+        30140722,
+        30140803,
+        30145794,
+        30145342,
+        30145930,
+        30140747,
+        30142592,
+        30140584,
+        30145108,
+        30141464,
+        30141523,
+        30140587,
+        30143536
+      ],
+      "score": 109,
+      "time": 1643401844,
+      "title": "Message in a bottle from Scottish girl found in Norway after 25 years",
+      "type": "story",
+      "url": "https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-60121185"
+    },
+    "og_item": {
+      "title": "Ask HN: GitHub and Bitbucket end support for password auth for CLI - Now what? | Hacker News",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30143377,
     "title": "A Simple Transformer Implementation(PyTorch) Without Difficult Syntax",
     "url": "https://github.com/IpsumDominum/Pytorch-Simple-Transformer",
@@ -3198,7 +3198,7 @@
     "publisher": "GitHub",
     "description": "A simple transformer implementation without difficult syntax and extra bells and whistles. - GitHub - IpsumDominum/Pytorch-Simple-Transformer: A simple transformer implementation without difficult ...",
     "by": "IpsumDominum",
-    "points": 15,
+    "points": 16,
     "comment_count": 1,
     "hn_item": {
       "by": "LinuxBender",
@@ -3642,69 +3642,6 @@
     "og_item": null
   },
   {
-    "id": 30115520,
-    "title": "Pearls Before Breakfast (2007)",
-    "url": "https://www.washingtonpost.com/lifestyle/magazine/pearls-before-breakfast-can-one-of-the-nations-great-musicians-cut-through-the-fog-of-a-dc-rush-hour-lets-find-out/2014/09/23/8a6d46da-4331-11e4-b47c-f5889e061e5f_story.html",
-    "time": 1643382593,
-    "image": "https://www.washingtonpost.com/pbox.php?url=https://www.washingtonpost.com/pb/resources/img/twp-social-share.png\u0026w=1484\u0026op=resize\u0026opt=1\u0026filter=antialias\u0026t=20170517",
-    "icon": "https://www.washingtonpost.com/favicon.ico",
-    "publisher": "Washington Post",
-    "description": "Joshua Bell is one of the world’s greatest violinists. His instrument of choice is a multimillion-dollar Stradivarius. If he played it for spare change, incognito, outside a bustling Metro stop in Washington, would anyone notice?",
-    "by": "Tomte",
-    "points": 13,
-    "comment_count": 8,
-    "hn_item": {
-      "by": "LinuxBender",
-      "descendants": 96,
-      "id": 30119925,
-      "kids": [
-        30140722,
-        30140803,
-        30145794,
-        30145342,
-        30145930,
-        30140747,
-        30142592,
-        30140584,
-        30145108,
-        30141464,
-        30141523,
-        30140587,
-        30143536
-      ],
-      "score": 109,
-      "time": 1643401844,
-      "title": "Message in a bottle from Scottish girl found in Norway after 25 years",
-      "type": "story",
-      "url": "https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-60121185"
-    },
-    "og_item": {
-      "title": "Pearls Before Breakfast: Can one of the nation’s great musicians cut through the fog of a D.C. rush hour? Let’s find out.",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://www.washingtonpost.com/pbox.php?url=https://www.washingtonpost.com/pb/resources/img/twp-social-share.png\u0026w=1484\u0026op=resize\u0026opt=1\u0026filter=antialias\u0026t=20170517",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://www.washingtonpost.com/lifestyle/magazine/pearls-before-breakfast-can-one-of-the-nations-great-musicians-cut-through-the-fog-of-a-dc-rush-hour-lets-find-out/2014/09/23/8a6d46da-4331-11e4-b47c-f5889e061e5f_story.html",
-      "audio": [],
-      "description": "Joshua Bell is one of the world’s greatest violinists. His instrument of choice is a multimillion-dollar Stradivarius. If he played it for spare change, incognito, outside a bustling Metro stop in Washington, would anyone notice?",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Washington Post",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30136350,
     "title": "The Game of War: Chess with Networks (2008)",
     "url": "https://www.cabinetmagazine.org/issues/29/galloway.php",
@@ -3764,6 +3701,69 @@
       "video": [],
       "favicon": {
         "url": "/favicon-128.png"
+      }
+    }
+  },
+  {
+    "id": 30115520,
+    "title": "Pearls Before Breakfast (2007)",
+    "url": "https://www.washingtonpost.com/lifestyle/magazine/pearls-before-breakfast-can-one-of-the-nations-great-musicians-cut-through-the-fog-of-a-dc-rush-hour-lets-find-out/2014/09/23/8a6d46da-4331-11e4-b47c-f5889e061e5f_story.html",
+    "time": 1643382593,
+    "image": "https://www.washingtonpost.com/pbox.php?url=https://www.washingtonpost.com/pb/resources/img/twp-social-share.png\u0026w=1484\u0026op=resize\u0026opt=1\u0026filter=antialias\u0026t=20170517",
+    "icon": "https://www.washingtonpost.com/favicon.ico",
+    "publisher": "Washington Post",
+    "description": "Joshua Bell is one of the world’s greatest violinists. His instrument of choice is a multimillion-dollar Stradivarius. If he played it for spare change, incognito, outside a bustling Metro stop in Washington, would anyone notice?",
+    "by": "Tomte",
+    "points": 13,
+    "comment_count": 8,
+    "hn_item": {
+      "by": "LinuxBender",
+      "descendants": 96,
+      "id": 30119925,
+      "kids": [
+        30140722,
+        30140803,
+        30145794,
+        30145342,
+        30145930,
+        30140747,
+        30142592,
+        30140584,
+        30145108,
+        30141464,
+        30141523,
+        30140587,
+        30143536
+      ],
+      "score": 109,
+      "time": 1643401844,
+      "title": "Message in a bottle from Scottish girl found in Norway after 25 years",
+      "type": "story",
+      "url": "https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-60121185"
+    },
+    "og_item": {
+      "title": "Pearls Before Breakfast: Can one of the nation’s great musicians cut through the fog of a D.C. rush hour? Let’s find out.",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://www.washingtonpost.com/pbox.php?url=https://www.washingtonpost.com/pb/resources/img/twp-social-share.png\u0026w=1484\u0026op=resize\u0026opt=1\u0026filter=antialias\u0026t=20170517",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://www.washingtonpost.com/lifestyle/magazine/pearls-before-breakfast-can-one-of-the-nations-great-musicians-cut-through-the-fog-of-a-dc-rush-hour-lets-find-out/2014/09/23/8a6d46da-4331-11e4-b47c-f5889e061e5f_story.html",
+      "audio": [],
+      "description": "Joshua Bell is one of the world’s greatest violinists. His instrument of choice is a multimillion-dollar Stradivarius. If he played it for spare change, incognito, outside a bustling Metro stop in Washington, would anyone notice?",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Washington Post",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
       }
     }
   },
@@ -3894,60 +3894,6 @@
     }
   },
   {
-    "id": 30145394,
-    "title": "My WFH sedentary life (Sitting, lying down) is more than 11 hr?",
-    "url": "https://news.ycombinator.com/item?id=30145394",
-    "time": 1643613303,
-    "image": "",
-    "icon": "https://news.ycombinator.com/favicon.ico",
-    "publisher": "Hacker News",
-    "description": "",
-    "by": "cryptozeus",
-    "points": 10,
-    "comment_count": 6,
-    "hn_item": {
-      "by": "LinuxBender",
-      "descendants": 96,
-      "id": 30119925,
-      "kids": [
-        30140722,
-        30140803,
-        30145794,
-        30145342,
-        30145930,
-        30140747,
-        30142592,
-        30140584,
-        30145108,
-        30141464,
-        30141523,
-        30140587,
-        30143536
-      ],
-      "score": 109,
-      "time": 1643401844,
-      "title": "Message in a bottle from Scottish girl found in Norway after 25 years",
-      "type": "story",
-      "url": "https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-60121185"
-    },
-    "og_item": {
-      "title": "My WFH sedentary life (Sitting, lying down) is more than 11 hr? | Hacker News",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30128048,
     "title": "COM+ Revisited",
     "url": "https://lowleveldesign.org/2022/01/17/com-revisited/",
@@ -4007,6 +3953,60 @@
       "video": [],
       "favicon": {
         "url": "https://lowleveldesign.files.wordpress.com/2019/01/cropped-site_logo-1.png?w=192"
+      }
+    }
+  },
+  {
+    "id": 30145394,
+    "title": "My WFH sedentary life (Sitting, lying down) is more than 11 hr?",
+    "url": "https://news.ycombinator.com/item?id=30145394",
+    "time": 1643613303,
+    "image": "",
+    "icon": "https://news.ycombinator.com/favicon.ico",
+    "publisher": "Hacker News",
+    "description": "",
+    "by": "cryptozeus",
+    "points": 10,
+    "comment_count": 6,
+    "hn_item": {
+      "by": "LinuxBender",
+      "descendants": 96,
+      "id": 30119925,
+      "kids": [
+        30140722,
+        30140803,
+        30145794,
+        30145342,
+        30145930,
+        30140747,
+        30142592,
+        30140584,
+        30145108,
+        30141464,
+        30141523,
+        30140587,
+        30143536
+      ],
+      "score": 109,
+      "time": 1643401844,
+      "title": "Message in a bottle from Scottish girl found in Norway after 25 years",
+      "type": "story",
+      "url": "https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-60121185"
+    },
+    "og_item": {
+      "title": "My WFH sedentary life (Sitting, lying down) is more than 11 hr? | Hacker News",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "favicon.ico"
       }
     }
   },
