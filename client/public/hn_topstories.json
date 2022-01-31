@@ -9,21 +9,25 @@
     "publisher": "royalsociety.org",
     "description": "The Online Information Environment report discusses how to limit the harm of scientific misinformation online",
     "by": "steelstraw",
-    "points": 250,
+    "points": 261,
     "comment_count": 21,
     "hn_item": {
-      "by": "maydemir",
-      "descendants": 5,
-      "id": 30138266,
+      "by": "cpldcpu",
+      "descendants": 48,
+      "id": 30128379,
       "kids": [
-        30139683,
-        30139606
+        30135643,
+        30140582,
+        30138481,
+        30135691,
+        30139804,
+        30135762
       ],
-      "score": 23,
-      "time": 1643558423,
-      "title": "Hollows Hunter – Scans all running processes",
+      "score": 142,
+      "time": 1643477829,
+      "title": "Controlling RGB LEDs with only powerlines: Anatomy of a Christmas light string",
       "type": "story",
-      "url": "https://github.com/hasherezade/hollows_hunter"
+      "url": "https://cpldcpu.wordpress.com/2022/01/23/controlling-rgb-leds-with-only-the-powerlines-anatomy-of-a-christmas-light-string/"
     },
     "og_item": {
       "title": "Royal Society cautions against censorship of scientific misinformation online | Royal Society",
@@ -61,21 +65,25 @@
     "publisher": "The New Yorker",
     "description": "Ford’s F-series trucks make up the best-selling vehicle line in the U.S. Can its new F-150 Lightning compete with Tesla in the E.V. market?",
     "by": "nojito",
-    "points": 35,
-    "comment_count": 4,
+    "points": 44,
+    "comment_count": 6,
     "hn_item": {
-      "by": "maydemir",
-      "descendants": 5,
-      "id": 30138266,
+      "by": "cpldcpu",
+      "descendants": 48,
+      "id": 30128379,
       "kids": [
-        30139683,
-        30139606
+        30135643,
+        30140582,
+        30138481,
+        30135691,
+        30139804,
+        30135762
       ],
-      "score": 23,
-      "time": 1643558423,
-      "title": "Hollows Hunter – Scans all running processes",
+      "score": 142,
+      "time": 1643477829,
+      "title": "Controlling RGB LEDs with only powerlines: Anatomy of a Christmas light string",
       "type": "story",
-      "url": "https://github.com/hasherezade/hollows_hunter"
+      "url": "https://cpldcpu.wordpress.com/2022/01/23/controlling-rgb-leds-with-only-the-powerlines-anatomy-of-a-christmas-light-string/"
     },
     "og_item": {
       "title": "America’s Favorite Pickup Truck Goes Electric",
@@ -113,21 +121,25 @@
     "publisher": "fahrrad-tools.de",
     "description": "Which tire fits my bike? Tires are always flat and now buy a tire with puncture protection? Find the right tire now!",
     "by": "moasda",
-    "points": 485,
+    "points": 486,
     "comment_count": 36,
     "hn_item": {
-      "by": "maydemir",
-      "descendants": 5,
-      "id": 30138266,
+      "by": "cpldcpu",
+      "descendants": 48,
+      "id": 30128379,
       "kids": [
-        30139683,
-        30139606
+        30135643,
+        30140582,
+        30138481,
+        30135691,
+        30139804,
+        30135762
       ],
-      "score": 23,
-      "time": 1643558423,
-      "title": "Hollows Hunter – Scans all running processes",
+      "score": 142,
+      "time": 1643477829,
+      "title": "Controlling RGB LEDs with only powerlines: Anatomy of a Christmas light string",
       "type": "story",
-      "url": "https://github.com/hasherezade/hollows_hunter"
+      "url": "https://cpldcpu.wordpress.com/2022/01/23/controlling-rgb-leds-with-only-the-powerlines-anatomy-of-a-christmas-light-string/"
     },
     "og_item": {
       "title": "Bike Tire | Fahrrad-Tools.de",
@@ -147,6 +159,62 @@
     }
   },
   {
+    "id": 30140835,
+    "title": "Hardy, Ramanujan and Taxi No. 1729",
+    "url": "https://johncarlosbaez.wordpress.com/2022/01/30/hardy-ramanujan-and-taxi-no-1729/",
+    "time": 1643574977,
+    "image": "https://johncarlosbaez.files.wordpress.com/2022/01/ramanujan_1729.jpg",
+    "icon": "https://s0.wp.com/i/favicon.ico",
+    "publisher": "Azimuth",
+    "description": "In his book Ramanujan: Twelve Lectures on Subjects Suggested by His Life and Work, G. H. Hardy tells this famous story: He could remember the idiosyncracies of numbers in an almost uncanny way. It …",
+    "by": "johncarlosbaez",
+    "points": 15,
+    "comment_count": 1,
+    "hn_item": {
+      "by": "cpldcpu",
+      "descendants": 48,
+      "id": 30128379,
+      "kids": [
+        30135643,
+        30140582,
+        30138481,
+        30135691,
+        30139804,
+        30135762
+      ],
+      "score": 142,
+      "time": 1643477829,
+      "title": "Controlling RGB LEDs with only powerlines: Anatomy of a Christmas light string",
+      "type": "story",
+      "url": "https://cpldcpu.wordpress.com/2022/01/23/controlling-rgb-leds-with-only-the-powerlines-anatomy-of-a-christmas-light-string/"
+    },
+    "og_item": {
+      "title": "Hardy, Ramanujan and Taxi No. 1729",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://johncarlosbaez.files.wordpress.com/2022/01/ramanujan_1729.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 450,
+          "height": 609,
+          "alt": ""
+        }
+      ],
+      "url": "https://johncarlosbaez.wordpress.com/2022/01/30/hardy-ramanujan-and-taxi-no-1729/",
+      "audio": [],
+      "description": "In his book Ramanujan: Twelve Lectures on Subjects Suggested by His Life and Work, G. H. Hardy tells this famous story: He could remember the idiosyncracies of numbers in an almost uncanny way. It …",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Azimuth",
+      "video": [],
+      "favicon": {
+        "url": "https://s0.wp.com/i/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30141439,
     "title": "Operation Warp Speed: A new model for industrial policy",
     "url": "https://americanaffairsjournal.org/2021/05/inside-operation-warp-speed-a-new-model-for-industrial-policy/",
@@ -156,21 +224,25 @@
     "publisher": "American Affairs Journal",
     "description": "Operation Warp Speed1 (OWS) was launched on May 15, 2020. A partnership between the Departments of Health and Human Services (HHS) and Defense (DoD), other agencies, and the private sector, its goal was to “accelerate the testing, supply, development, and distribution of safe and effective vacc…",
     "by": "gok",
-    "points": 48,
+    "points": 50,
     "comment_count": 2,
     "hn_item": {
-      "by": "maydemir",
-      "descendants": 5,
-      "id": 30138266,
+      "by": "cpldcpu",
+      "descendants": 48,
+      "id": 30128379,
       "kids": [
-        30139683,
-        30139606
+        30135643,
+        30140582,
+        30138481,
+        30135691,
+        30139804,
+        30135762
       ],
-      "score": 23,
-      "time": 1643558423,
-      "title": "Hollows Hunter – Scans all running processes",
+      "score": 142,
+      "time": 1643477829,
+      "title": "Controlling RGB LEDs with only powerlines: Anatomy of a Christmas light string",
       "type": "story",
-      "url": "https://github.com/hasherezade/hollows_hunter"
+      "url": "https://cpldcpu.wordpress.com/2022/01/23/controlling-rgb-leds-with-only-the-powerlines-anatomy-of-a-christmas-light-string/"
     },
     "og_item": {
       "title": "Inside Operation Warp Speed: A New Model for Industrial Policy - American Affairs Journal",
@@ -208,21 +280,25 @@
     "publisher": "web.archive.org",
     "description": "",
     "by": "ecliptik",
-    "points": 42,
+    "points": 43,
     "comment_count": 4,
     "hn_item": {
-      "by": "maydemir",
-      "descendants": 5,
-      "id": 30138266,
+      "by": "cpldcpu",
+      "descendants": 48,
+      "id": 30128379,
       "kids": [
-        30139683,
-        30139606
+        30135643,
+        30140582,
+        30138481,
+        30135691,
+        30139804,
+        30135762
       ],
-      "score": 23,
-      "time": 1643558423,
-      "title": "Hollows Hunter – Scans all running processes",
+      "score": 142,
+      "time": 1643477829,
+      "title": "Controlling RGB LEDs with only powerlines: Anatomy of a Christmas light string",
       "type": "story",
-      "url": "https://github.com/hasherezade/hollows_hunter"
+      "url": "https://cpldcpu.wordpress.com/2022/01/23/controlling-rgb-leds-with-only-the-powerlines-anatomy-of-a-christmas-light-string/"
     },
     "og_item": {
       "title": "GameSpot's SIMply Divine: The Story of Maxis Software",
@@ -242,58 +318,6 @@
     }
   },
   {
-    "id": 30140835,
-    "title": "Hardy, Ramanujan and Taxi No. 1729",
-    "url": "https://johncarlosbaez.wordpress.com/2022/01/30/hardy-ramanujan-and-taxi-no-1729/",
-    "time": 1643574977,
-    "image": "https://johncarlosbaez.files.wordpress.com/2022/01/ramanujan_1729.jpg",
-    "icon": "https://s0.wp.com/i/favicon.ico",
-    "publisher": "Azimuth",
-    "description": "In his book Ramanujan: Twelve Lectures on Subjects Suggested by His Life and Work, G. H. Hardy tells this famous story: He could remember the idiosyncracies of numbers in an almost uncanny way. It …",
-    "by": "johncarlosbaez",
-    "points": 13,
-    "comment_count": 1,
-    "hn_item": {
-      "by": "maydemir",
-      "descendants": 5,
-      "id": 30138266,
-      "kids": [
-        30139683,
-        30139606
-      ],
-      "score": 23,
-      "time": 1643558423,
-      "title": "Hollows Hunter – Scans all running processes",
-      "type": "story",
-      "url": "https://github.com/hasherezade/hollows_hunter"
-    },
-    "og_item": {
-      "title": "Hardy, Ramanujan and Taxi No. 1729",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://johncarlosbaez.files.wordpress.com/2022/01/ramanujan_1729.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 450,
-          "height": 609,
-          "alt": ""
-        }
-      ],
-      "url": "https://johncarlosbaez.wordpress.com/2022/01/30/hardy-ramanujan-and-taxi-no-1729/",
-      "audio": [],
-      "description": "In his book Ramanujan: Twelve Lectures on Subjects Suggested by His Life and Work, G. H. Hardy tells this famous story: He could remember the idiosyncracies of numbers in an almost uncanny way. It …",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Azimuth",
-      "video": [],
-      "favicon": {
-        "url": "https://s0.wp.com/i/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30140984,
     "title": "A UX designer walks into a Tesla Bar",
     "url": "https://jenson.org/tesla/",
@@ -303,21 +327,25 @@
     "publisher": "jenson.org",
     "description": "",
     "by": "radley",
-    "points": 473,
+    "points": 487,
     "comment_count": 72,
     "hn_item": {
-      "by": "maydemir",
-      "descendants": 5,
-      "id": 30138266,
+      "by": "cpldcpu",
+      "descendants": 48,
+      "id": 30128379,
       "kids": [
-        30139683,
-        30139606
+        30135643,
+        30140582,
+        30138481,
+        30135691,
+        30139804,
+        30135762
       ],
-      "score": 23,
-      "time": 1643558423,
-      "title": "Hollows Hunter – Scans all running processes",
+      "score": 142,
+      "time": 1643477829,
+      "title": "Controlling RGB LEDs with only powerlines: Anatomy of a Christmas light string",
       "type": "story",
-      "url": "https://github.com/hasherezade/hollows_hunter"
+      "url": "https://cpldcpu.wordpress.com/2022/01/23/controlling-rgb-leds-with-only-the-powerlines-anatomy-of-a-christmas-light-string/"
     },
     "og_item": {
       "title": "A UX designer walks into a Tesla Bar – Scott Jenson",
@@ -346,21 +374,25 @@
     "publisher": "hypercardsimulator.com",
     "description": "",
     "by": "alexmingoia",
-    "points": 178,
+    "points": 180,
     "comment_count": 13,
     "hn_item": {
-      "by": "maydemir",
-      "descendants": 5,
-      "id": 30138266,
+      "by": "cpldcpu",
+      "descendants": 48,
+      "id": 30128379,
       "kids": [
-        30139683,
-        30139606
+        30135643,
+        30140582,
+        30138481,
+        30135691,
+        30139804,
+        30135762
       ],
-      "score": 23,
-      "time": 1643558423,
-      "title": "Hollows Hunter – Scans all running processes",
+      "score": 142,
+      "time": 1643477829,
+      "title": "Controlling RGB LEDs with only powerlines: Anatomy of a Christmas light string",
       "type": "story",
-      "url": "https://github.com/hasherezade/hollows_hunter"
+      "url": "https://cpldcpu.wordpress.com/2022/01/23/controlling-rgb-leds-with-only-the-powerlines-anatomy-of-a-christmas-light-string/"
     },
     "og_item": {
       "title": "HyperCardSimulator",
@@ -389,21 +421,25 @@
     "publisher": "leahneukirchen.org",
     "description": "",
     "by": "panic",
-    "points": 101,
+    "points": 103,
     "comment_count": 8,
     "hn_item": {
-      "by": "maydemir",
-      "descendants": 5,
-      "id": 30138266,
+      "by": "cpldcpu",
+      "descendants": 48,
+      "id": 30128379,
       "kids": [
-        30139683,
-        30139606
+        30135643,
+        30140582,
+        30138481,
+        30135691,
+        30139804,
+        30135762
       ],
-      "score": 23,
-      "time": 1643558423,
-      "title": "Hollows Hunter – Scans all running processes",
+      "score": 142,
+      "time": 1643477829,
+      "title": "Controlling RGB LEDs with only powerlines: Anatomy of a Christmas light string",
       "type": "story",
-      "url": "https://github.com/hasherezade/hollows_hunter"
+      "url": "https://cpldcpu.wordpress.com/2022/01/23/controlling-rgb-leds-with-only-the-powerlines-anatomy-of-a-christmas-light-string/"
     },
     "og_item": {
       "title": "leah blogs: The case of the mysterious --help directory",
@@ -432,21 +468,25 @@
     "publisher": "luttig.substack.com",
     "description": "Understanding the behemoth in Redmond teaches us valuable lessons in cloud infrastructure, startup strategy, and the future of software.",
     "by": "SamvitJ",
-    "points": 117,
-    "comment_count": 32,
+    "points": 123,
+    "comment_count": 33,
     "hn_item": {
-      "by": "maydemir",
-      "descendants": 5,
-      "id": 30138266,
+      "by": "cpldcpu",
+      "descendants": 48,
+      "id": 30128379,
       "kids": [
-        30139683,
-        30139606
+        30135643,
+        30140582,
+        30138481,
+        30135691,
+        30139804,
+        30135762
       ],
-      "score": 23,
-      "time": 1643558423,
-      "title": "Hollows Hunter – Scans all running processes",
+      "score": 142,
+      "time": 1643477829,
+      "title": "Controlling RGB LEDs with only powerlines: Anatomy of a Christmas light string",
       "type": "story",
-      "url": "https://github.com/hasherezade/hollows_hunter"
+      "url": "https://cpldcpu.wordpress.com/2022/01/23/controlling-rgb-leds-with-only-the-powerlines-anatomy-of-a-christmas-light-string/"
     },
     "og_item": {
       "title": "Don’t forget Microsoft",
@@ -475,58 +515,6 @@
     }
   },
   {
-    "id": 30142247,
-    "title": "Basic Cryptography – The Vigenere Cipher",
-    "url": "https://eric.mann.blog/basic-cryptography-the-vigenere-cipher/",
-    "time": 1643584323,
-    "image": "https://i0.wp.com/eric.mann.blog/wp-content/uploads/2022/01/fig-29-01-2022_17-52-02.jpg?fit=1500%2C900\u0026ssl=1",
-    "icon": "https://i0.wp.com/eric.mann.blog/wp-content/uploads/2021/12/cropped-00100sPORTRAIT_00100_BURST20190126115324341_COVER-scaled-1.jpg?fit=192%2C192\u0026ssl=1",
-    "publisher": "Eric Mann's Blog",
-    "description": "The Vigenere cipher is more complicated that the Caesar cipher but based on the same idea. It uses a running key to keep your message secure.",
-    "by": "eamann",
-    "points": 9,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "maydemir",
-      "descendants": 5,
-      "id": 30138266,
-      "kids": [
-        30139683,
-        30139606
-      ],
-      "score": 23,
-      "time": 1643558423,
-      "title": "Hollows Hunter – Scans all running processes",
-      "type": "story",
-      "url": "https://github.com/hasherezade/hollows_hunter"
-    },
-    "og_item": {
-      "title": "Basic cryptography - the Vigenere cipher - Eric Mann's Blog",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://i0.wp.com/eric.mann.blog/wp-content/uploads/2022/01/fig-29-01-2022_17-52-02.jpg?fit=1500%2C900\u0026ssl=1",
-          "secure_url": "",
-          "type": "",
-          "width": 1500,
-          "height": 900,
-          "alt": ""
-        }
-      ],
-      "url": "https://eric.mann.blog/basic-cryptography-the-vigenere-cipher/",
-      "audio": [],
-      "description": "The Vigenere cipher is more complicated that the Caesar cipher but based on the same idea. It uses a running key to keep your message secure.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Eric Mann's Blog",
-      "video": [],
-      "favicon": {
-        "url": "https://i0.wp.com/eric.mann.blog/wp-content/uploads/2021/12/cropped-00100sPORTRAIT_00100_BURST20190126115324341_COVER-scaled-1.jpg?fit=192%2C192\u0026ssl=1"
-      }
-    }
-  },
-  {
     "id": 30141171,
     "title": "Deep symbolic regression for recurrent sequences",
     "url": "http://recur-env.eba-rm3fchmn.us-east-2.elasticbeanstalk.com/",
@@ -536,21 +524,25 @@
     "publisher": "recur-env.eba-rm3fchmn.us-eas…",
     "description": "",
     "by": "ShamelessC",
-    "points": 37,
+    "points": 39,
     "comment_count": 11,
     "hn_item": {
-      "by": "maydemir",
-      "descendants": 5,
-      "id": 30138266,
+      "by": "cpldcpu",
+      "descendants": 48,
+      "id": 30128379,
       "kids": [
-        30139683,
-        30139606
+        30135643,
+        30140582,
+        30138481,
+        30135691,
+        30139804,
+        30135762
       ],
-      "score": 23,
-      "time": 1643558423,
-      "title": "Hollows Hunter – Scans all running processes",
+      "score": 142,
+      "time": 1643477829,
+      "title": "Controlling RGB LEDs with only powerlines: Anatomy of a Christmas light string",
       "type": "story",
-      "url": "https://github.com/hasherezade/hollows_hunter"
+      "url": "https://cpldcpu.wordpress.com/2022/01/23/controlling-rgb-leds-with-only-the-powerlines-anatomy-of-a-christmas-light-string/"
     },
     "og_item": {
       "title": "Streamlit",
@@ -579,21 +571,25 @@
     "publisher": "GitHub",
     "description": "Beancount: Double-Entry Accounting from Text Files. - GitHub - beancount/beancount: Beancount: Double-Entry Accounting from Text Files.",
     "by": "techtalsky",
-    "points": 160,
+    "points": 162,
     "comment_count": 17,
     "hn_item": {
-      "by": "maydemir",
-      "descendants": 5,
-      "id": 30138266,
+      "by": "cpldcpu",
+      "descendants": 48,
+      "id": 30128379,
       "kids": [
-        30139683,
-        30139606
+        30135643,
+        30140582,
+        30138481,
+        30135691,
+        30139804,
+        30135762
       ],
-      "score": 23,
-      "time": 1643558423,
-      "title": "Hollows Hunter – Scans all running processes",
+      "score": 142,
+      "time": 1643477829,
+      "title": "Controlling RGB LEDs with only powerlines: Anatomy of a Christmas light string",
       "type": "story",
-      "url": "https://github.com/hasherezade/hollows_hunter"
+      "url": "https://cpldcpu.wordpress.com/2022/01/23/controlling-rgb-leds-with-only-the-powerlines-anatomy-of-a-christmas-light-string/"
     },
     "og_item": {
       "title": "GitHub - beancount/beancount: Beancount: Double-Entry Accounting from Text Files.",
@@ -622,6 +618,62 @@
     }
   },
   {
+    "id": 30142247,
+    "title": "Basic Cryptography – The Vigenere Cipher",
+    "url": "https://eric.mann.blog/basic-cryptography-the-vigenere-cipher/",
+    "time": 1643584323,
+    "image": "https://i0.wp.com/eric.mann.blog/wp-content/uploads/2022/01/fig-29-01-2022_17-52-02.jpg?fit=1500%2C900\u0026ssl=1",
+    "icon": "https://i0.wp.com/eric.mann.blog/wp-content/uploads/2021/12/cropped-00100sPORTRAIT_00100_BURST20190126115324341_COVER-scaled-1.jpg?fit=192%2C192\u0026ssl=1",
+    "publisher": "Eric Mann's Blog",
+    "description": "The Vigenere cipher is more complicated that the Caesar cipher but based on the same idea. It uses a running key to keep your message secure.",
+    "by": "eamann",
+    "points": 13,
+    "comment_count": 1,
+    "hn_item": {
+      "by": "cpldcpu",
+      "descendants": 48,
+      "id": 30128379,
+      "kids": [
+        30135643,
+        30140582,
+        30138481,
+        30135691,
+        30139804,
+        30135762
+      ],
+      "score": 142,
+      "time": 1643477829,
+      "title": "Controlling RGB LEDs with only powerlines: Anatomy of a Christmas light string",
+      "type": "story",
+      "url": "https://cpldcpu.wordpress.com/2022/01/23/controlling-rgb-leds-with-only-the-powerlines-anatomy-of-a-christmas-light-string/"
+    },
+    "og_item": {
+      "title": "Basic cryptography - the Vigenere cipher - Eric Mann's Blog",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://i0.wp.com/eric.mann.blog/wp-content/uploads/2022/01/fig-29-01-2022_17-52-02.jpg?fit=1500%2C900\u0026ssl=1",
+          "secure_url": "",
+          "type": "",
+          "width": 1500,
+          "height": 900,
+          "alt": ""
+        }
+      ],
+      "url": "https://eric.mann.blog/basic-cryptography-the-vigenere-cipher/",
+      "audio": [],
+      "description": "The Vigenere cipher is more complicated that the Caesar cipher but based on the same idea. It uses a running key to keep your message secure.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Eric Mann's Blog",
+      "video": [],
+      "favicon": {
+        "url": "https://i0.wp.com/eric.mann.blog/wp-content/uploads/2021/12/cropped-00100sPORTRAIT_00100_BURST20190126115324341_COVER-scaled-1.jpg?fit=192%2C192\u0026ssl=1"
+      }
+    }
+  },
+  {
     "id": 30141022,
     "title": "BuildZoom (better way to build custom homes) Is hiring a Principal Engineer",
     "url": "https://jobs.lever.co/buildzoom",
@@ -634,18 +686,22 @@
     "points": 1,
     "comment_count": 0,
     "hn_item": {
-      "by": "maydemir",
-      "descendants": 5,
-      "id": 30138266,
+      "by": "cpldcpu",
+      "descendants": 48,
+      "id": 30128379,
       "kids": [
-        30139683,
-        30139606
+        30135643,
+        30140582,
+        30138481,
+        30135691,
+        30139804,
+        30135762
       ],
-      "score": 23,
-      "time": 1643558423,
-      "title": "Hollows Hunter – Scans all running processes",
+      "score": 142,
+      "time": 1643477829,
+      "title": "Controlling RGB LEDs with only powerlines: Anatomy of a Christmas light string",
       "type": "story",
-      "url": "https://github.com/hasherezade/hollows_hunter"
+      "url": "https://cpldcpu.wordpress.com/2022/01/23/controlling-rgb-leds-with-only-the-powerlines-anatomy-of-a-christmas-light-string/"
     },
     "og_item": {
       "title": "BuildZoom jobs",
@@ -683,21 +739,25 @@
     "publisher": "Vice",
     "description": "The Great Unconformity has baffled geologists for a century. New research points to glaciers being the culprit.",
     "by": "cbkeller",
-    "points": 48,
+    "points": 50,
     "comment_count": 3,
     "hn_item": {
-      "by": "maydemir",
-      "descendants": 5,
-      "id": 30138266,
+      "by": "cpldcpu",
+      "descendants": 48,
+      "id": 30128379,
       "kids": [
-        30139683,
-        30139606
+        30135643,
+        30140582,
+        30138481,
+        30135691,
+        30139804,
+        30135762
       ],
-      "score": 23,
-      "time": 1643558423,
-      "title": "Hollows Hunter – Scans all running processes",
+      "score": 142,
+      "time": 1643477829,
+      "title": "Controlling RGB LEDs with only powerlines: Anatomy of a Christmas light string",
       "type": "story",
-      "url": "https://github.com/hasherezade/hollows_hunter"
+      "url": "https://cpldcpu.wordpress.com/2022/01/23/controlling-rgb-leds-with-only-the-powerlines-anatomy-of-a-christmas-light-string/"
     },
     "og_item": {
       "title": "A Billion Years of Time Are Mysteriously Missing. Scientists Think They Know Why.",
@@ -735,21 +795,25 @@
     "publisher": "BBC News",
     "description": "The bottle Joanna Buchan dropped in the sea at Peterhead when she was eight has washed up in Norway.",
     "by": "LinuxBender",
-    "points": 67,
+    "points": 69,
     "comment_count": 8,
     "hn_item": {
-      "by": "maydemir",
-      "descendants": 5,
-      "id": 30138266,
+      "by": "cpldcpu",
+      "descendants": 48,
+      "id": 30128379,
       "kids": [
-        30139683,
-        30139606
+        30135643,
+        30140582,
+        30138481,
+        30135691,
+        30139804,
+        30135762
       ],
-      "score": 23,
-      "time": 1643558423,
-      "title": "Hollows Hunter – Scans all running processes",
+      "score": 142,
+      "time": 1643477829,
+      "title": "Controlling RGB LEDs with only powerlines: Anatomy of a Christmas light string",
       "type": "story",
-      "url": "https://github.com/hasherezade/hollows_hunter"
+      "url": "https://cpldcpu.wordpress.com/2022/01/23/controlling-rgb-leds-with-only-the-powerlines-anatomy-of-a-christmas-light-string/"
     },
     "og_item": {
       "title": "Message in a bottle from Scottish girl found in Norway after 25 years",
@@ -787,21 +851,25 @@
     "publisher": "tribunemag.co.uk",
     "description": "At workplaces like Amazon, algorithms have become the worst kind of boss – one who watches you constantly, makes impossible demands and then sacks you without explanation.",
     "by": "jrepinc",
-    "points": 61,
-    "comment_count": 10,
+    "points": 62,
+    "comment_count": 12,
     "hn_item": {
-      "by": "maydemir",
-      "descendants": 5,
-      "id": 30138266,
+      "by": "cpldcpu",
+      "descendants": 48,
+      "id": 30128379,
       "kids": [
-        30139683,
-        30139606
+        30135643,
+        30140582,
+        30138481,
+        30135691,
+        30139804,
+        30135762
       ],
-      "score": 23,
-      "time": 1643558423,
-      "title": "Hollows Hunter – Scans all running processes",
+      "score": 142,
+      "time": 1643477829,
+      "title": "Controlling RGB LEDs with only powerlines: Anatomy of a Christmas light string",
       "type": "story",
-      "url": "https://github.com/hasherezade/hollows_hunter"
+      "url": "https://cpldcpu.wordpress.com/2022/01/23/controlling-rgb-leds-with-only-the-powerlines-anatomy-of-a-christmas-light-string/"
     },
     "og_item": {
       "title": "When the Algorithm Is Your Boss",
@@ -839,21 +907,25 @@
     "publisher": "bastian.rieck.me",
     "description": "",
     "by": "Topolomancer",
-    "points": 158,
+    "points": 161,
     "comment_count": 20,
     "hn_item": {
-      "by": "maydemir",
-      "descendants": 5,
-      "id": 30138266,
+      "by": "cpldcpu",
+      "descendants": 48,
+      "id": 30128379,
       "kids": [
-        30139683,
-        30139606
+        30135643,
+        30140582,
+        30138481,
+        30135691,
+        30139804,
+        30135762
       ],
-      "score": 23,
-      "time": 1643558423,
-      "title": "Hollows Hunter – Scans all running processes",
+      "score": 142,
+      "time": 1643477829,
+      "title": "Controlling RGB LEDs with only powerlines: Anatomy of a Christmas light string",
       "type": "story",
-      "url": "https://github.com/hasherezade/hollows_hunter"
+      "url": "https://cpldcpu.wordpress.com/2022/01/23/controlling-rgb-leds-with-only-the-powerlines-anatomy-of-a-christmas-light-string/"
     },
     "og_item": {
       "title": "In Defence of the Boring Web",
@@ -882,21 +954,25 @@
     "publisher": "GitHub",
     "description": "A new shellcode injection technique. Given as C++ header or standalone Rust program. - GitHub - Idov31/FunctionStomping: A new shellcode injection technique. Given as C++ header or standalone Rust ...",
     "by": "maydemir",
-    "points": 23,
+    "points": 24,
     "comment_count": 1,
     "hn_item": {
-      "by": "maydemir",
-      "descendants": 5,
-      "id": 30138266,
+      "by": "cpldcpu",
+      "descendants": 48,
+      "id": 30128379,
       "kids": [
-        30139683,
-        30139606
+        30135643,
+        30140582,
+        30138481,
+        30135691,
+        30139804,
+        30135762
       ],
-      "score": 23,
-      "time": 1643558423,
-      "title": "Hollows Hunter – Scans all running processes",
+      "score": 142,
+      "time": 1643477829,
+      "title": "Controlling RGB LEDs with only powerlines: Anatomy of a Christmas light string",
       "type": "story",
-      "url": "https://github.com/hasherezade/hollows_hunter"
+      "url": "https://cpldcpu.wordpress.com/2022/01/23/controlling-rgb-leds-with-only-the-powerlines-anatomy-of-a-christmas-light-string/"
     },
     "og_item": {
       "title": "GitHub - Idov31/FunctionStomping: A new shellcode injection technique. Given as C++ header or standalone Rust program.",
@@ -934,21 +1010,25 @@
     "publisher": "Eurogamer.net",
     "description": "",
     "by": "atombender",
-    "points": 190,
+    "points": 191,
     "comment_count": 23,
     "hn_item": {
-      "by": "maydemir",
-      "descendants": 5,
-      "id": 30138266,
+      "by": "cpldcpu",
+      "descendants": 48,
+      "id": 30128379,
       "kids": [
-        30139683,
-        30139606
+        30135643,
+        30140582,
+        30138481,
+        30135691,
+        30139804,
+        30135762
       ],
-      "score": 23,
-      "time": 1643558423,
-      "title": "Hollows Hunter – Scans all running processes",
+      "score": 142,
+      "time": 1643477829,
+      "title": "Controlling RGB LEDs with only powerlines: Anatomy of a Christmas light string",
       "type": "story",
-      "url": "https://github.com/hasherezade/hollows_hunter"
+      "url": "https://cpldcpu.wordpress.com/2022/01/23/controlling-rgb-leds-with-only-the-powerlines-anatomy-of-a-christmas-light-string/"
     },
     "og_item": {
       "title": "Sega quits Japanese arcade business after 50 years",
@@ -986,21 +1066,25 @@
     "publisher": "YouTube",
     "description": "https://www.CovertInstruments.com",
     "by": "CraigJPerry",
-    "points": 131,
+    "points": 132,
     "comment_count": 7,
     "hn_item": {
-      "by": "maydemir",
-      "descendants": 5,
-      "id": 30138266,
+      "by": "cpldcpu",
+      "descendants": 48,
+      "id": 30128379,
       "kids": [
-        30139683,
-        30139606
+        30135643,
+        30140582,
+        30138481,
+        30135691,
+        30139804,
+        30135762
       ],
-      "score": 23,
-      "time": 1643558423,
-      "title": "Hollows Hunter – Scans all running processes",
+      "score": 142,
+      "time": 1643477829,
+      "title": "Controlling RGB LEDs with only powerlines: Anatomy of a Christmas light string",
       "type": "story",
-      "url": "https://github.com/hasherezade/hollows_hunter"
+      "url": "https://cpldcpu.wordpress.com/2022/01/23/controlling-rgb-leds-with-only-the-powerlines-anatomy-of-a-christmas-light-string/"
     },
     "og_item": {
       "title": "[1398] A Padlock I’d Use: Abus Granit 37RK/80 (Pick \u0026 Gut)",
@@ -1038,6 +1122,147 @@
     }
   },
   {
+    "id": 30131387,
+    "title": "Game performance optimization – A practical example from Industry Idle",
+    "url": "https://ruoyusun.com/2022/01/28/game-pref.html",
+    "time": 1643496513,
+    "image": "",
+    "icon": "https://ruoyusun.com/favicon-16x16.png",
+    "publisher": "ruoyusun.com",
+    "description": "",
+    "by": "insraq",
+    "points": 17,
+    "comment_count": 3,
+    "hn_item": {
+      "by": "cpldcpu",
+      "descendants": 48,
+      "id": 30128379,
+      "kids": [
+        30135643,
+        30140582,
+        30138481,
+        30135691,
+        30139804,
+        30135762
+      ],
+      "score": 142,
+      "time": 1643477829,
+      "title": "Controlling RGB LEDs with only powerlines: Anatomy of a Christmas light string",
+      "type": "story",
+      "url": "https://cpldcpu.wordpress.com/2022/01/23/controlling-rgb-leds-with-only-the-powerlines-anatomy-of-a-christmas-light-string/"
+    },
+    "og_item": {
+      "title": "Game Performance Optimization - A Practical Example From Industry Idle",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon-16x16.png"
+      }
+    }
+  },
+  {
+    "id": 30142105,
+    "title": "Seattle Telecommunications History Museum",
+    "url": "https://www.telcomhistory.org/connections-museum-seattle/",
+    "time": 1643583232,
+    "image": "",
+    "icon": "https://www.telcomhistory.org/favicon.ico",
+    "publisher": "telcomhistory.org",
+    "description": "",
+    "by": "basementcat",
+    "points": 12,
+    "comment_count": 2,
+    "hn_item": {
+      "by": "cpldcpu",
+      "descendants": 48,
+      "id": 30128379,
+      "kids": [
+        30135643,
+        30140582,
+        30138481,
+        30135691,
+        30139804,
+        30135762
+      ],
+      "score": 142,
+      "time": 1643477829,
+      "title": "Controlling RGB LEDs with only powerlines: Anatomy of a Christmas light string",
+      "type": "story",
+      "url": "https://cpldcpu.wordpress.com/2022/01/23/controlling-rgb-leds-with-only-the-powerlines-anatomy-of-a-christmas-light-string/"
+    },
+    "og_item": {
+      "title": "403 Forbidden",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30137864,
+    "title": "Midnight Commander Tips and Tricks",
+    "url": "http://www.softpanorama.org/OFM/MC/mc_tips.shtml",
+    "time": 1643555741,
+    "image": "",
+    "icon": "",
+    "publisher": "softpanorama.org",
+    "description": "",
+    "by": "ingve",
+    "points": 130,
+    "comment_count": 17,
+    "hn_item": {
+      "by": "cpldcpu",
+      "descendants": 48,
+      "id": 30128379,
+      "kids": [
+        30135643,
+        30140582,
+        30138481,
+        30135691,
+        30139804,
+        30135762
+      ],
+      "score": 142,
+      "time": 1643477829,
+      "title": "Controlling RGB LEDs with only powerlines: Anatomy of a Christmas light string",
+      "type": "story",
+      "url": "https://cpldcpu.wordpress.com/2022/01/23/controlling-rgb-leds-with-only-the-powerlines-anatomy-of-a-christmas-light-string/"
+    },
+    "og_item": {
+      "title": "Midnight Commander Tips and Tricks",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30142918,
     "title": "Unconscious R\u0026D (2021)",
     "url": "https://subconscious.substack.com/p/unconscious-r-and-d",
@@ -1047,21 +1272,25 @@
     "publisher": "subconscious.substack.com",
     "description": "What if your notes could self-organize—from scratch notes, to draft, to finished creative work—through a stream-of-consciousness process—like dreaming? Years ago, I was part of a user study that aimed to understand how creators create. We interviewed authors, artists, students, influencers,…",
     "by": "fagnerbrack",
-    "points": 3,
-    "comment_count": 0,
+    "points": 4,
+    "comment_count": 1,
     "hn_item": {
-      "by": "maydemir",
-      "descendants": 5,
-      "id": 30138266,
+      "by": "cpldcpu",
+      "descendants": 48,
+      "id": 30128379,
       "kids": [
-        30139683,
-        30139606
+        30135643,
+        30140582,
+        30138481,
+        30135691,
+        30139804,
+        30135762
       ],
-      "score": 23,
-      "time": 1643558423,
-      "title": "Hollows Hunter – Scans all running processes",
+      "score": 142,
+      "time": 1643477829,
+      "title": "Controlling RGB LEDs with only powerlines: Anatomy of a Christmas light string",
       "type": "story",
-      "url": "https://github.com/hasherezade/hollows_hunter"
+      "url": "https://cpldcpu.wordpress.com/2022/01/23/controlling-rgb-leds-with-only-the-powerlines-anatomy-of-a-christmas-light-string/"
     },
     "og_item": {
       "title": "Unconscious R\u0026D",
@@ -1090,47 +1319,36 @@
     }
   },
   {
-    "id": 30131387,
-    "title": "Game performance optimization – A practical example from Industry Idle",
-    "url": "https://ruoyusun.com/2022/01/28/game-pref.html",
-    "time": 1643496513,
+    "id": 30138468,
+    "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
+    "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf",
+    "time": 1643559712,
     "image": "",
-    "icon": "https://ruoyusun.com/favicon-16x16.png",
-    "publisher": "ruoyusun.com",
+    "icon": "",
+    "publisher": "win.tue.nl",
     "description": "",
-    "by": "insraq",
-    "points": 17,
-    "comment_count": 3,
+    "by": "camnora",
+    "points": 88,
+    "comment_count": 7,
     "hn_item": {
-      "by": "maydemir",
-      "descendants": 5,
-      "id": 30138266,
+      "by": "cpldcpu",
+      "descendants": 48,
+      "id": 30128379,
       "kids": [
-        30139683,
-        30139606
+        30135643,
+        30140582,
+        30138481,
+        30135691,
+        30139804,
+        30135762
       ],
-      "score": 23,
-      "time": 1643558423,
-      "title": "Hollows Hunter – Scans all running processes",
+      "score": 142,
+      "time": 1643477829,
+      "title": "Controlling RGB LEDs with only powerlines: Anatomy of a Christmas light string",
       "type": "story",
-      "url": "https://github.com/hasherezade/hollows_hunter"
+      "url": "https://cpldcpu.wordpress.com/2022/01/23/controlling-rgb-leds-with-only-the-powerlines-anatomy-of-a-christmas-light-string/"
     },
-    "og_item": {
-      "title": "Game Performance Optimization - A Practical Example From Industry Idle",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon-16x16.png"
-      }
-    }
+    "og_item": null
   },
   {
     "id": 30110679,
@@ -1145,18 +1363,22 @@
     "points": 5,
     "comment_count": 0,
     "hn_item": {
-      "by": "maydemir",
-      "descendants": 5,
-      "id": 30138266,
+      "by": "cpldcpu",
+      "descendants": 48,
+      "id": 30128379,
       "kids": [
-        30139683,
-        30139606
+        30135643,
+        30140582,
+        30138481,
+        30135691,
+        30139804,
+        30135762
       ],
-      "score": 23,
-      "time": 1643558423,
-      "title": "Hollows Hunter – Scans all running processes",
+      "score": 142,
+      "time": 1643477829,
+      "title": "Controlling RGB LEDs with only powerlines: Anatomy of a Christmas light string",
       "type": "story",
-      "url": "https://github.com/hasherezade/hollows_hunter"
+      "url": "https://cpldcpu.wordpress.com/2022/01/23/controlling-rgb-leds-with-only-the-powerlines-anatomy-of-a-christmas-light-string/"
     },
     "og_item": {
       "title": "Harvard ceramics program recreates Art Museums’ pieces",
@@ -1185,77 +1407,6 @@
     }
   },
   {
-    "id": 30137864,
-    "title": "Midnight Commander Tips and Tricks",
-    "url": "http://www.softpanorama.org/OFM/MC/mc_tips.shtml",
-    "time": 1643555741,
-    "image": "",
-    "icon": "",
-    "publisher": "softpanorama.org",
-    "description": "",
-    "by": "ingve",
-    "points": 130,
-    "comment_count": 17,
-    "hn_item": {
-      "by": "maydemir",
-      "descendants": 5,
-      "id": 30138266,
-      "kids": [
-        30139683,
-        30139606
-      ],
-      "score": 23,
-      "time": 1643558423,
-      "title": "Hollows Hunter – Scans all running processes",
-      "type": "story",
-      "url": "https://github.com/hasherezade/hollows_hunter"
-    },
-    "og_item": {
-      "title": "Midnight Commander Tips and Tricks",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30138468,
-    "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
-    "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf",
-    "time": 1643559712,
-    "image": "",
-    "icon": "",
-    "publisher": "win.tue.nl",
-    "description": "",
-    "by": "camnora",
-    "points": 88,
-    "comment_count": 7,
-    "hn_item": {
-      "by": "maydemir",
-      "descendants": 5,
-      "id": 30138266,
-      "kids": [
-        30139683,
-        30139606
-      ],
-      "score": 23,
-      "time": 1643558423,
-      "title": "Hollows Hunter – Scans all running processes",
-      "type": "story",
-      "url": "https://github.com/hasherezade/hollows_hunter"
-    },
-    "og_item": null
-  },
-  {
     "id": 30137720,
     "title": "U.S. companies are hiring Latin America’s tech talent",
     "url": "https://restofworld.org/2022/latin-america-startup-developer-scarcity/",
@@ -1268,18 +1419,22 @@
     "points": 158,
     "comment_count": 34,
     "hn_item": {
-      "by": "maydemir",
-      "descendants": 5,
-      "id": 30138266,
+      "by": "cpldcpu",
+      "descendants": 48,
+      "id": 30128379,
       "kids": [
-        30139683,
-        30139606
+        30135643,
+        30140582,
+        30138481,
+        30135691,
+        30139804,
+        30135762
       ],
-      "score": 23,
-      "time": 1643558423,
-      "title": "Hollows Hunter – Scans all running processes",
+      "score": 142,
+      "time": 1643477829,
+      "title": "Controlling RGB LEDs with only powerlines: Anatomy of a Christmas light string",
       "type": "story",
-      "url": "https://github.com/hasherezade/hollows_hunter"
+      "url": "https://cpldcpu.wordpress.com/2022/01/23/controlling-rgb-leds-with-only-the-powerlines-anatomy-of-a-christmas-light-string/"
     },
     "og_item": {
       "title": "“It’s a bloodbath”: U.S. companies are pillaging Latin America’s tech talent",
@@ -1308,58 +1463,6 @@
     }
   },
   {
-    "id": 30131847,
-    "title": "Mix and Match Mental Models",
-    "url": "https://lethain.com/mental-models-mix-match/",
-    "time": 1643499930,
-    "image": "https://lethain.com/static/author.png",
-    "icon": "https://lethain.com/favicon.ico",
-    "publisher": "lethain.com",
-    "description": "A few days ago, I got to have a delightful chat with Katie Wilde, digging into a question that we’ve both found difficult to answer: what distinguishes managers perceived to have good judgment from those perceived to have bad judgment? In exploring that question, the topic of mental models came…",
-    "by": "wavelander",
-    "points": 25,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "maydemir",
-      "descendants": 5,
-      "id": 30138266,
-      "kids": [
-        30139683,
-        30139606
-      ],
-      "score": 23,
-      "time": 1643558423,
-      "title": "Hollows Hunter – Scans all running processes",
-      "type": "story",
-      "url": "https://github.com/hasherezade/hollows_hunter"
-    },
-    "og_item": {
-      "title": "Mix and match mental models.",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://lethain.com/static/author.png",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://lethain.com/mental-models-mix-match/",
-      "audio": [],
-      "description": "A few days ago, I got to have a delightful chat with Katie Wilde, digging into a question that we’ve both found difficult to answer: what distinguishes managers perceived to have good judgment from those perceived to have bad judgment? In exploring that question, the topic of mental models came up frequently.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30128048,
     "title": "COM+ Revisited",
     "url": "https://lowleveldesign.org/2022/01/17/com-revisited/",
@@ -1369,21 +1472,25 @@
     "publisher": "lowleveldesign.org",
     "description": "More than ten years ago (how time flies!), when I published the basic sample of a COM+ server and client, I thought that I wouldn’t be touching this subject again. But here we are, in 2022, a…",
     "by": "lowleveldesign",
-    "points": 53,
+    "points": 56,
     "comment_count": 7,
     "hn_item": {
-      "by": "maydemir",
-      "descendants": 5,
-      "id": 30138266,
+      "by": "cpldcpu",
+      "descendants": 48,
+      "id": 30128379,
       "kids": [
-        30139683,
-        30139606
+        30135643,
+        30140582,
+        30138481,
+        30135691,
+        30139804,
+        30135762
       ],
-      "score": 23,
-      "time": 1643558423,
-      "title": "Hollows Hunter – Scans all running processes",
+      "score": 142,
+      "time": 1643477829,
+      "title": "Controlling RGB LEDs with only powerlines: Anatomy of a Christmas light string",
       "type": "story",
-      "url": "https://github.com/hasherezade/hollows_hunter"
+      "url": "https://cpldcpu.wordpress.com/2022/01/23/controlling-rgb-leds-with-only-the-powerlines-anatomy-of-a-christmas-light-string/"
     },
     "og_item": {
       "title": "COM+ revisited",
@@ -1412,6 +1519,62 @@
     }
   },
   {
+    "id": 30131847,
+    "title": "Mix and Match Mental Models",
+    "url": "https://lethain.com/mental-models-mix-match/",
+    "time": 1643499930,
+    "image": "https://lethain.com/static/author.png",
+    "icon": "https://lethain.com/favicon.ico",
+    "publisher": "lethain.com",
+    "description": "A few days ago, I got to have a delightful chat with Katie Wilde, digging into a question that we’ve both found difficult to answer: what distinguishes managers perceived to have good judgment from those perceived to have bad judgment? In exploring that question, the topic of mental models came…",
+    "by": "wavelander",
+    "points": 27,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "cpldcpu",
+      "descendants": 48,
+      "id": 30128379,
+      "kids": [
+        30135643,
+        30140582,
+        30138481,
+        30135691,
+        30139804,
+        30135762
+      ],
+      "score": 142,
+      "time": 1643477829,
+      "title": "Controlling RGB LEDs with only powerlines: Anatomy of a Christmas light string",
+      "type": "story",
+      "url": "https://cpldcpu.wordpress.com/2022/01/23/controlling-rgb-leds-with-only-the-powerlines-anatomy-of-a-christmas-light-string/"
+    },
+    "og_item": {
+      "title": "Mix and match mental models.",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://lethain.com/static/author.png",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://lethain.com/mental-models-mix-match/",
+      "audio": [],
+      "description": "A few days ago, I got to have a delightful chat with Katie Wilde, digging into a question that we’ve both found difficult to answer: what distinguishes managers perceived to have good judgment from those perceived to have bad judgment? In exploring that question, the topic of mental models came up frequently.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30120901,
     "title": "Using tree data structures to implement terminal split panes",
     "url": "https://blog.warp.dev/using-tree-data-structures-to-implement-terminal-split-panes-more-fun-than-it-sounds/",
@@ -1424,18 +1587,22 @@
     "points": 43,
     "comment_count": 6,
     "hn_item": {
-      "by": "maydemir",
-      "descendants": 5,
-      "id": 30138266,
+      "by": "cpldcpu",
+      "descendants": 48,
+      "id": 30128379,
       "kids": [
-        30139683,
-        30139606
+        30135643,
+        30140582,
+        30138481,
+        30135691,
+        30139804,
+        30135762
       ],
-      "score": 23,
-      "time": 1643558423,
-      "title": "Hollows Hunter – Scans all running processes",
+      "score": 142,
+      "time": 1643477829,
+      "title": "Controlling RGB LEDs with only powerlines: Anatomy of a Christmas light string",
       "type": "story",
-      "url": "https://github.com/hasherezade/hollows_hunter"
+      "url": "https://cpldcpu.wordpress.com/2022/01/23/controlling-rgb-leds-with-only-the-powerlines-anatomy-of-a-christmas-light-string/"
     },
     "og_item": {
       "title": "Using tree data structures to implement terminal split panes - more fun than it sounds",
@@ -1464,92 +1631,6 @@
     }
   },
   {
-    "id": 30142106,
-    "title": "Yoga and meditation do not quiet the ego but instead boost self-enhancement",
-    "url": "https://journals.sagepub.com/doi/abs/10.1177/0956797618764621",
-    "time": 1643583242,
-    "image": "",
-    "icon": "https://journals.sagepub.com/favicon.ico",
-    "publisher": "journals.sagepub.com",
-    "description": "",
-    "by": "FrojoS",
-    "points": 9,
-    "comment_count": 1,
-    "hn_item": {
-      "by": "maydemir",
-      "descendants": 5,
-      "id": 30138266,
-      "kids": [
-        30139683,
-        30139606
-      ],
-      "score": 23,
-      "time": 1643558423,
-      "title": "Hollows Hunter – Scans all running processes",
-      "type": "story",
-      "url": "https://github.com/hasherezade/hollows_hunter"
-    },
-    "og_item": {
-      "title": "Just a moment...",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30142105,
-    "title": "Seattle Telecommunications History Museum",
-    "url": "https://www.telcomhistory.org/connections-museum-seattle/",
-    "time": 1643583232,
-    "image": "",
-    "icon": "https://www.telcomhistory.org/favicon.ico",
-    "publisher": "telcomhistory.org",
-    "description": "",
-    "by": "basementcat",
-    "points": 9,
-    "comment_count": 2,
-    "hn_item": {
-      "by": "maydemir",
-      "descendants": 5,
-      "id": 30138266,
-      "kids": [
-        30139683,
-        30139606
-      ],
-      "score": 23,
-      "time": 1643558423,
-      "title": "Hollows Hunter – Scans all running processes",
-      "type": "story",
-      "url": "https://github.com/hasherezade/hollows_hunter"
-    },
-    "og_item": {
-      "title": "403 Forbidden",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30125933,
     "title": "Dataset and Model for “I built a system to take photos of planes over my house”",
     "url": "https://universe.roboflow.com/skybot-cam/overhead-plane-detector",
@@ -1562,18 +1643,22 @@
     "points": 112,
     "comment_count": 7,
     "hn_item": {
-      "by": "maydemir",
-      "descendants": 5,
-      "id": 30138266,
+      "by": "cpldcpu",
+      "descendants": 48,
+      "id": 30128379,
       "kids": [
-        30139683,
-        30139606
+        30135643,
+        30140582,
+        30138481,
+        30135691,
+        30139804,
+        30135762
       ],
-      "score": 23,
-      "time": 1643558423,
-      "title": "Hollows Hunter – Scans all running processes",
+      "score": 142,
+      "time": 1643477829,
+      "title": "Controlling RGB LEDs with only powerlines: Anatomy of a Christmas light string",
       "type": "story",
-      "url": "https://github.com/hasherezade/hollows_hunter"
+      "url": "https://cpldcpu.wordpress.com/2022/01/23/controlling-rgb-leds-with-only-the-powerlines-anatomy-of-a-christmas-light-string/"
     },
     "og_item": {
       "title": "Overhead Plane Detector Object Detection Dataset",
@@ -1602,6 +1687,53 @@
     }
   },
   {
+    "id": 30142106,
+    "title": "Yoga and meditation do not quiet the ego but instead boost self-enhancement",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/0956797618764621",
+    "time": 1643583242,
+    "image": "",
+    "icon": "https://journals.sagepub.com/favicon.ico",
+    "publisher": "journals.sagepub.com",
+    "description": "",
+    "by": "FrojoS",
+    "points": 9,
+    "comment_count": 1,
+    "hn_item": {
+      "by": "cpldcpu",
+      "descendants": 48,
+      "id": 30128379,
+      "kids": [
+        30135643,
+        30140582,
+        30138481,
+        30135691,
+        30139804,
+        30135762
+      ],
+      "score": 142,
+      "time": 1643477829,
+      "title": "Controlling RGB LEDs with only powerlines: Anatomy of a Christmas light string",
+      "type": "story",
+      "url": "https://cpldcpu.wordpress.com/2022/01/23/controlling-rgb-leds-with-only-the-powerlines-anatomy-of-a-christmas-light-string/"
+    },
+    "og_item": {
+      "title": "Just a moment...",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30138420,
     "title": "Autonomous battery-powered rail cars",
     "url": "https://arstechnica.com/cars/2022/01/moving-more-with-less-freight-startup-bets-on-autonomous-electric-rail-cars/",
@@ -1614,18 +1746,22 @@
     "points": 75,
     "comment_count": 17,
     "hn_item": {
-      "by": "maydemir",
-      "descendants": 5,
-      "id": 30138266,
+      "by": "cpldcpu",
+      "descendants": 48,
+      "id": 30128379,
       "kids": [
-        30139683,
-        30139606
+        30135643,
+        30140582,
+        30138481,
+        30135691,
+        30139804,
+        30135762
       ],
-      "score": 23,
-      "time": 1643558423,
-      "title": "Hollows Hunter – Scans all running processes",
+      "score": 142,
+      "time": 1643477829,
+      "title": "Controlling RGB LEDs with only powerlines: Anatomy of a Christmas light string",
       "type": "story",
-      "url": "https://github.com/hasherezade/hollows_hunter"
+      "url": "https://cpldcpu.wordpress.com/2022/01/23/controlling-rgb-leds-with-only-the-powerlines-anatomy-of-a-christmas-light-string/"
     },
     "og_item": {
       "title": "Autonomous battery-powered rail cars could steal shipments from truckers",
@@ -1663,21 +1799,25 @@
     "publisher": "Future",
     "description": "Technical literacy is key to career success, even for non-engineers. Learn how to master the tools of your trade and build a solid tech foundation.",
     "by": "jseliger",
-    "points": 110,
+    "points": 112,
     "comment_count": 14,
     "hn_item": {
-      "by": "maydemir",
-      "descendants": 5,
-      "id": 30138266,
+      "by": "cpldcpu",
+      "descendants": 48,
+      "id": 30128379,
       "kids": [
-        30139683,
-        30139606
+        30135643,
+        30140582,
+        30138481,
+        30135691,
+        30139804,
+        30135762
       ],
-      "score": 23,
-      "time": 1643558423,
-      "title": "Hollows Hunter – Scans all running processes",
+      "score": 142,
+      "time": 1643477829,
+      "title": "Controlling RGB LEDs with only powerlines: Anatomy of a Christmas light string",
       "type": "story",
-      "url": "https://github.com/hasherezade/hollows_hunter"
+      "url": "https://cpldcpu.wordpress.com/2022/01/23/controlling-rgb-leds-with-only-the-powerlines-anatomy-of-a-christmas-light-string/"
     },
     "og_item": {
       "title": "How to Excel in Tech Without Learning to Code | Future",
@@ -1718,18 +1858,22 @@
     "points": 34,
     "comment_count": 5,
     "hn_item": {
-      "by": "maydemir",
-      "descendants": 5,
-      "id": 30138266,
+      "by": "cpldcpu",
+      "descendants": 48,
+      "id": 30128379,
       "kids": [
-        30139683,
-        30139606
+        30135643,
+        30140582,
+        30138481,
+        30135691,
+        30139804,
+        30135762
       ],
-      "score": 23,
-      "time": 1643558423,
-      "title": "Hollows Hunter – Scans all running processes",
+      "score": 142,
+      "time": 1643477829,
+      "title": "Controlling RGB LEDs with only powerlines: Anatomy of a Christmas light string",
       "type": "story",
-      "url": "https://github.com/hasherezade/hollows_hunter"
+      "url": "https://cpldcpu.wordpress.com/2022/01/23/controlling-rgb-leds-with-only-the-powerlines-anatomy-of-a-christmas-light-string/"
     },
     "og_item": {
       "title": "Show the case against - shubhro.com",
@@ -1749,6 +1893,62 @@
     }
   },
   {
+    "id": 30142494,
+    "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
+    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/",
+    "time": 1643586052,
+    "image": "https://www.reuters.com/resizer/nJB_ZidKD76ip6VAQlGhKHf1JI8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PYPUULVDLFI5ZBML3UV35CE4TA.jpg",
+    "icon": "https://www.reuters.com/pf/resources/icons/favicon.ico?d=69",
+    "publisher": "Reuters",
+    "description": "The highly transmissible Omicron variant of the SARS-CoV-2 virus - the most common form of which is known as BA.1 - now accounts for nearly all of the coronavirus infections globally, although dramatic surges in COVID cases have already peaked in some countries.",
+    "by": "lsllc",
+    "points": 16,
+    "comment_count": 1,
+    "hn_item": {
+      "by": "cpldcpu",
+      "descendants": 48,
+      "id": 30128379,
+      "kids": [
+        30135643,
+        30140582,
+        30138481,
+        30135691,
+        30139804,
+        30135762
+      ],
+      "score": 142,
+      "time": 1643477829,
+      "title": "Controlling RGB LEDs with only powerlines: Anatomy of a Christmas light string",
+      "type": "story",
+      "url": "https://cpldcpu.wordpress.com/2022/01/23/controlling-rgb-leds-with-only-the-powerlines-anatomy-of-a-christmas-light-string/"
+    },
+    "og_item": {
+      "title": "Explainer: Scientists on alert over rising cases caused by Omicron cousin BA.2",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://www.reuters.com/resizer/nJB_ZidKD76ip6VAQlGhKHf1JI8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PYPUULVDLFI5ZBML3UV35CE4TA.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/",
+      "audio": [],
+      "description": "The highly transmissible Omicron variant of the SARS-CoV-2 virus - the most common form of which is known as BA.1 - now accounts for nearly all of the coronavirus infections globally, although dramatic surges in COVID cases have already peaked in some countries.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Reuters",
+      "video": [],
+      "favicon": {
+        "url": "/pf/resources/icons/favicon.ico?d=69"
+      }
+    }
+  },
+  {
     "id": 30120857,
     "title": "Writing an efficient Vulkan renderer (2020)",
     "url": "https://zeux.io/2020/02/27/writing-an-efficient-vulkan-renderer/",
@@ -1761,18 +1961,22 @@
     "points": 74,
     "comment_count": 4,
     "hn_item": {
-      "by": "maydemir",
-      "descendants": 5,
-      "id": 30138266,
+      "by": "cpldcpu",
+      "descendants": 48,
+      "id": 30128379,
       "kids": [
-        30139683,
-        30139606
+        30135643,
+        30140582,
+        30138481,
+        30135691,
+        30139804,
+        30135762
       ],
-      "score": 23,
-      "time": 1643558423,
-      "title": "Hollows Hunter – Scans all running processes",
+      "score": 142,
+      "time": 1643477829,
+      "title": "Controlling RGB LEDs with only powerlines: Anatomy of a Christmas light string",
       "type": "story",
-      "url": "https://github.com/hasherezade/hollows_hunter"
+      "url": "https://cpldcpu.wordpress.com/2022/01/23/controlling-rgb-leds-with-only-the-powerlines-anatomy-of-a-christmas-light-string/"
     },
     "og_item": {
       "title": "\n    zeux.io - Writing an efficient Vulkan renderer\n  ",
@@ -1804,18 +2008,22 @@
     "points": 72,
     "comment_count": 6,
     "hn_item": {
-      "by": "maydemir",
-      "descendants": 5,
-      "id": 30138266,
+      "by": "cpldcpu",
+      "descendants": 48,
+      "id": 30128379,
       "kids": [
-        30139683,
-        30139606
+        30135643,
+        30140582,
+        30138481,
+        30135691,
+        30139804,
+        30135762
       ],
-      "score": 23,
-      "time": 1643558423,
-      "title": "Hollows Hunter – Scans all running processes",
+      "score": 142,
+      "time": 1643477829,
+      "title": "Controlling RGB LEDs with only powerlines: Anatomy of a Christmas light string",
       "type": "story",
-      "url": "https://github.com/hasherezade/hollows_hunter"
+      "url": "https://cpldcpu.wordpress.com/2022/01/23/controlling-rgb-leds-with-only-the-powerlines-anatomy-of-a-christmas-light-string/"
     },
     "og_item": {
       "title": " Nim tutorial for setting up a website. ",
@@ -1835,58 +2043,6 @@
     }
   },
   {
-    "id": 30142558,
-    "title": "State of the Web: Static Site Generators",
-    "url": "https://byteofdev.com/posts/static-site-generators/",
-    "time": 1643586463,
-    "image": "https://ik.imagekit.io/serenity/ByteofDev/Blog_Heading_Images/State_of_the_Web_Static_Site_Generators",
-    "icon": "https://byteofdev.com/favicon.svg",
-    "publisher": "ByteofDev",
-    "description": "Static Site Generators have been changing quickly with new trends like Jamstack. Learn more about the background of static site generators, why people use them, and the current state of them, with information on modern SSGs like Eleventy, Next.js, SvelteKit, and Astro.",
-    "by": "AsyncBanana",
-    "points": 5,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "maydemir",
-      "descendants": 5,
-      "id": 30138266,
-      "kids": [
-        30139683,
-        30139606
-      ],
-      "score": 23,
-      "time": 1643558423,
-      "title": "Hollows Hunter – Scans all running processes",
-      "type": "story",
-      "url": "https://github.com/hasherezade/hollows_hunter"
-    },
-    "og_item": {
-      "title": "State of the Web: Static Site Generators",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://ik.imagekit.io/serenity/ByteofDev/Blog_Heading_Images/State_of_the_Web_Static_Site_Generators",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://byteofdev.com/posts/static-site-generators/",
-      "audio": [],
-      "description": "Static Site Generators have been changing quickly with new trends like Jamstack. Learn more about the background of static site generators, why people use them, and the current state of them, with information on modern SSGs like Eleventy, Next.js, SvelteKit, and Astro.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "ByteofDev",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.svg"
-      }
-    }
-  },
-  {
     "id": 30136350,
     "title": "The Game of War: Chess with Networks (2008)",
     "url": "https://www.cabinetmagazine.org/issues/29/galloway.php",
@@ -1896,21 +2052,25 @@
     "publisher": "cabinetmagazine.org",
     "description": "Chess with networks",
     "by": "bshepard",
-    "points": 22,
+    "points": 23,
     "comment_count": 2,
     "hn_item": {
-      "by": "maydemir",
-      "descendants": 5,
-      "id": 30138266,
+      "by": "cpldcpu",
+      "descendants": 48,
+      "id": 30128379,
       "kids": [
-        30139683,
-        30139606
+        30135643,
+        30140582,
+        30138481,
+        30135691,
+        30139804,
+        30135762
       ],
-      "score": 23,
-      "time": 1643558423,
-      "title": "Hollows Hunter – Scans all running processes",
+      "score": 142,
+      "time": 1643477829,
+      "title": "Controlling RGB LEDs with only powerlines: Anatomy of a Christmas light string",
       "type": "story",
-      "url": "https://github.com/hasherezade/hollows_hunter"
+      "url": "https://cpldcpu.wordpress.com/2022/01/23/controlling-rgb-leds-with-only-the-powerlines-anatomy-of-a-christmas-light-string/"
     },
     "og_item": {
       "title": "The Game of War: An Overview | Alexander R. Galloway",
@@ -1951,18 +2111,22 @@
     "points": 129,
     "comment_count": 11,
     "hn_item": {
-      "by": "maydemir",
-      "descendants": 5,
-      "id": 30138266,
+      "by": "cpldcpu",
+      "descendants": 48,
+      "id": 30128379,
       "kids": [
-        30139683,
-        30139606
+        30135643,
+        30140582,
+        30138481,
+        30135691,
+        30139804,
+        30135762
       ],
-      "score": 23,
-      "time": 1643558423,
-      "title": "Hollows Hunter – Scans all running processes",
+      "score": 142,
+      "time": 1643477829,
+      "title": "Controlling RGB LEDs with only powerlines: Anatomy of a Christmas light string",
       "type": "story",
-      "url": "https://github.com/hasherezade/hollows_hunter"
+      "url": "https://cpldcpu.wordpress.com/2022/01/23/controlling-rgb-leds-with-only-the-powerlines-anatomy-of-a-christmas-light-string/"
     },
     "og_item": {
       "title": "Ask HN: Has anyone leveraged GDPR to overturn automated bans? | Hacker News",
@@ -1982,6 +2146,62 @@
     }
   },
   {
+    "id": 30142558,
+    "title": "State of the Web: Static Site Generators",
+    "url": "https://byteofdev.com/posts/static-site-generators/",
+    "time": 1643586463,
+    "image": "https://ik.imagekit.io/serenity/ByteofDev/Blog_Heading_Images/State_of_the_Web_Static_Site_Generators",
+    "icon": "https://byteofdev.com/favicon.svg",
+    "publisher": "ByteofDev",
+    "description": "Static Site Generators have been changing quickly with new trends like Jamstack. Learn more about the background of static site generators, why people use them, and the current state of them, with information on modern SSGs like Eleventy, Next.js, SvelteKit, and Astro.",
+    "by": "AsyncBanana",
+    "points": 7,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "cpldcpu",
+      "descendants": 48,
+      "id": 30128379,
+      "kids": [
+        30135643,
+        30140582,
+        30138481,
+        30135691,
+        30139804,
+        30135762
+      ],
+      "score": 142,
+      "time": 1643477829,
+      "title": "Controlling RGB LEDs with only powerlines: Anatomy of a Christmas light string",
+      "type": "story",
+      "url": "https://cpldcpu.wordpress.com/2022/01/23/controlling-rgb-leds-with-only-the-powerlines-anatomy-of-a-christmas-light-string/"
+    },
+    "og_item": {
+      "title": "State of the Web: Static Site Generators",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://ik.imagekit.io/serenity/ByteofDev/Blog_Heading_Images/State_of_the_Web_Static_Site_Generators",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://byteofdev.com/posts/static-site-generators/",
+      "audio": [],
+      "description": "Static Site Generators have been changing quickly with new trends like Jamstack. Learn more about the background of static site generators, why people use them, and the current state of them, with information on modern SSGs like Eleventy, Next.js, SvelteKit, and Astro.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "ByteofDev",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.svg"
+      }
+    }
+  },
+  {
     "id": 30141215,
     "title": "Show HN: BeanHub – A GitHub for Beancount",
     "url": "https://beanhub.io/",
@@ -1994,18 +2214,22 @@
     "points": 12,
     "comment_count": 0,
     "hn_item": {
-      "by": "maydemir",
-      "descendants": 5,
-      "id": 30138266,
+      "by": "cpldcpu",
+      "descendants": 48,
+      "id": 30128379,
       "kids": [
-        30139683,
-        30139606
+        30135643,
+        30140582,
+        30138481,
+        30135691,
+        30139804,
+        30135762
       ],
-      "score": 23,
-      "time": 1643558423,
-      "title": "Hollows Hunter – Scans all running processes",
+      "score": 142,
+      "time": 1643477829,
+      "title": "Controlling RGB LEDs with only powerlines: Anatomy of a Christmas light string",
       "type": "story",
-      "url": "https://github.com/hasherezade/hollows_hunter"
+      "url": "https://cpldcpu.wordpress.com/2022/01/23/controlling-rgb-leds-with-only-the-powerlines-anatomy-of-a-christmas-light-string/"
     },
     "og_item": {
       "title": "\n    BeanHub\n    ",
@@ -2025,89 +2249,41 @@
     }
   },
   {
-    "id": 30142494,
-    "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
-    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/",
-    "time": 1643586052,
-    "image": "https://www.reuters.com/resizer/nJB_ZidKD76ip6VAQlGhKHf1JI8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PYPUULVDLFI5ZBML3UV35CE4TA.jpg",
-    "icon": "https://www.reuters.com/pf/resources/icons/favicon.ico?d=69",
-    "publisher": "Reuters",
-    "description": "The highly transmissible Omicron variant of the SARS-CoV-2 virus - the most common form of which is known as BA.1 - now accounts for nearly all of the coronavirus infections globally, although dramatic surges in COVID cases have already peaked in some countries.",
-    "by": "lsllc",
-    "points": 13,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "maydemir",
-      "descendants": 5,
-      "id": 30138266,
-      "kids": [
-        30139683,
-        30139606
-      ],
-      "score": 23,
-      "time": 1643558423,
-      "title": "Hollows Hunter – Scans all running processes",
-      "type": "story",
-      "url": "https://github.com/hasherezade/hollows_hunter"
-    },
-    "og_item": {
-      "title": "Explainer: Scientists on alert over rising cases caused by Omicron cousin BA.2",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://www.reuters.com/resizer/nJB_ZidKD76ip6VAQlGhKHf1JI8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PYPUULVDLFI5ZBML3UV35CE4TA.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/",
-      "audio": [],
-      "description": "The highly transmissible Omicron variant of the SARS-CoV-2 virus - the most common form of which is known as BA.1 - now accounts for nearly all of the coronavirus infections globally, although dramatic surges in COVID cases have already peaked in some countries.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Reuters",
-      "video": [],
-      "favicon": {
-        "url": "/pf/resources/icons/favicon.ico?d=69"
-      }
-    }
-  },
-  {
     "id": 30136969,
     "title": "GoSTL: Algorithm and datastructure library for Go similar to C++ STL",
     "url": "https://github.com/liyue201/gostl",
     "time": 1643549145,
-    "image": "https://opengraph.githubassets.com/663cc95b6d6bb2e2699d3b4c54bcfea9232f6304e51ebd62aa08e2ae2015fd48/liyue201/gostl",
+    "image": "https://opengraph.githubassets.com/b198e2b313cd6f62bedd438c520f6c531d5dd0c8ff4931f8f83479033579f309/liyue201/gostl",
     "icon": "https://github.githubassets.com/favicons/favicon.svg",
     "publisher": "GitHub",
     "description": "Data structure and algorithm library for go, designed to provide functions similar to C++ STL - GitHub - liyue201/gostl: Data structure and algorithm library for go, designed to provide functions s...",
     "by": "gmgn",
-    "points": 82,
+    "points": 83,
     "comment_count": 9,
     "hn_item": {
-      "by": "maydemir",
-      "descendants": 5,
-      "id": 30138266,
+      "by": "cpldcpu",
+      "descendants": 48,
+      "id": 30128379,
       "kids": [
-        30139683,
-        30139606
+        30135643,
+        30140582,
+        30138481,
+        30135691,
+        30139804,
+        30135762
       ],
-      "score": 23,
-      "time": 1643558423,
-      "title": "Hollows Hunter – Scans all running processes",
+      "score": 142,
+      "time": 1643477829,
+      "title": "Controlling RGB LEDs with only powerlines: Anatomy of a Christmas light string",
       "type": "story",
-      "url": "https://github.com/hasherezade/hollows_hunter"
+      "url": "https://cpldcpu.wordpress.com/2022/01/23/controlling-rgb-leds-with-only-the-powerlines-anatomy-of-a-christmas-light-string/"
     },
     "og_item": {
       "title": "GitHub - liyue201/gostl: Data structure and algorithm library for go, designed to provide functions similar to C++ STL",
       "type": "object",
       "image": [
         {
-          "url": "https://opengraph.githubassets.com/663cc95b6d6bb2e2699d3b4c54bcfea9232f6304e51ebd62aa08e2ae2015fd48/liyue201/gostl",
+          "url": "https://opengraph.githubassets.com/b198e2b313cd6f62bedd438c520f6c531d5dd0c8ff4931f8f83479033579f309/liyue201/gostl",
           "secure_url": "",
           "type": "",
           "width": 1200,
@@ -2129,6 +2305,100 @@
     }
   },
   {
+    "id": 30139643,
+    "title": "Very Remote Lisp Debugging Story",
+    "url": "https://susam.net/maze/very-remote-debugging.html",
+    "time": 1643567057,
+    "image": "",
+    "icon": "https://susam.net/maze/favicon.png",
+    "publisher": "susam.net",
+    "description": "",
+    "by": "susam",
+    "points": 33,
+    "comment_count": 2,
+    "hn_item": {
+      "by": "cpldcpu",
+      "descendants": 48,
+      "id": 30128379,
+      "kids": [
+        30135643,
+        30140582,
+        30138481,
+        30135691,
+        30139804,
+        30135762
+      ],
+      "score": 142,
+      "time": 1643477829,
+      "title": "Controlling RGB LEDs with only powerlines: Anatomy of a Christmas light string",
+      "type": "story",
+      "url": "https://cpldcpu.wordpress.com/2022/01/23/controlling-rgb-leds-with-only-the-powerlines-anatomy-of-a-christmas-light-string/"
+    },
+    "og_item": {
+      "title": "Very Remote Lisp Debugging Story - Susam's Maze",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "favicon.png"
+      }
+    }
+  },
+  {
+    "id": 30122435,
+    "title": "DDS: Build and library management tool for C, C++",
+    "url": "https://vector-of-bool.github.io/docs/dds/index.html",
+    "time": 1643416395,
+    "image": "",
+    "icon": "https://vector-of-bool.github.io/favicon.ico",
+    "publisher": "vector-of-bool.github.io",
+    "description": "",
+    "by": "oumua_don17",
+    "points": 23,
+    "comment_count": 2,
+    "hn_item": {
+      "by": "cpldcpu",
+      "descendants": 48,
+      "id": 30128379,
+      "kids": [
+        30135643,
+        30140582,
+        30138481,
+        30135691,
+        30139804,
+        30135762
+      ],
+      "score": 142,
+      "time": 1643477829,
+      "title": "Controlling RGB LEDs with only powerlines: Anatomy of a Christmas light string",
+      "type": "story",
+      "url": "https://cpldcpu.wordpress.com/2022/01/23/controlling-rgb-leds-with-only-the-powerlines-anatomy-of-a-christmas-light-string/"
+    },
+    "og_item": {
+      "title": "DDS — dds 0.1.0-alpha.3 documentation",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30142410,
     "title": "The Wikimedia Foundation's acceptance of cryptocurrency donations",
     "url": "https://blog.mollywhite.net/wikimedia-foundation-cryptocurrency-donations/",
@@ -2138,21 +2408,25 @@
     "publisher": "blog.mollywhite.net",
     "description": "Originally published in the Wikipedia Signpost: Should the Wikimedia Foundation continue to accept cryptocurrency donations? One editor doesn't think so.",
     "by": "hesk",
-    "points": 3,
+    "points": 5,
     "comment_count": 1,
     "hn_item": {
-      "by": "maydemir",
-      "descendants": 5,
-      "id": 30138266,
+      "by": "cpldcpu",
+      "descendants": 48,
+      "id": 30128379,
       "kids": [
-        30139683,
-        30139606
+        30135643,
+        30140582,
+        30138481,
+        30135691,
+        30139804,
+        30135762
       ],
-      "score": 23,
-      "time": 1643558423,
-      "title": "Hollows Hunter – Scans all running processes",
+      "score": 142,
+      "time": 1643477829,
+      "title": "Controlling RGB LEDs with only powerlines: Anatomy of a Christmas light string",
       "type": "story",
-      "url": "https://github.com/hasherezade/hollows_hunter"
+      "url": "https://cpldcpu.wordpress.com/2022/01/23/controlling-rgb-leds-with-only-the-powerlines-anatomy-of-a-christmas-light-string/"
     },
     "og_item": {
       "title": "Wikipedia Signpost: The Wikimedia Foundation's acceptance of cryptocurrency donations",
@@ -2181,33 +2455,37 @@
     }
   },
   {
-    "id": 30122435,
-    "title": "DDS: Build and library management tool for C, C++",
-    "url": "https://vector-of-bool.github.io/docs/dds/index.html",
-    "time": 1643416395,
+    "id": 30140641,
+    "title": "Mistakes I've Made Building a Music Reactive LED Matrix",
+    "url": "https://aradaelli.com/blog/music-reactive-led-matrix/",
+    "time": 1643573549,
     "image": "",
-    "icon": "https://vector-of-bool.github.io/favicon.ico",
-    "publisher": "vector-of-bool.github.io",
+    "icon": "https://aradaelli.com/favicon.ico",
+    "publisher": "aradaelli.com",
     "description": "",
-    "by": "oumua_don17",
-    "points": 23,
+    "by": "aradaelli",
+    "points": 14,
     "comment_count": 2,
     "hn_item": {
-      "by": "maydemir",
-      "descendants": 5,
-      "id": 30138266,
+      "by": "cpldcpu",
+      "descendants": 48,
+      "id": 30128379,
       "kids": [
-        30139683,
-        30139606
+        30135643,
+        30140582,
+        30138481,
+        30135691,
+        30139804,
+        30135762
       ],
-      "score": 23,
-      "time": 1643558423,
-      "title": "Hollows Hunter – Scans all running processes",
+      "score": 142,
+      "time": 1643477829,
+      "title": "Controlling RGB LEDs with only powerlines: Anatomy of a Christmas light string",
       "type": "story",
-      "url": "https://github.com/hasherezade/hollows_hunter"
+      "url": "https://cpldcpu.wordpress.com/2022/01/23/controlling-rgb-leds-with-only-the-powerlines-anatomy-of-a-christmas-light-string/"
     },
     "og_item": {
-      "title": "DDS — dds 0.1.0-alpha.3 documentation",
+      "title": "\nMusic Reactive Led Matrix – Andrea Radaelli\n",
       "type": "",
       "image": [],
       "url": "",
@@ -2236,18 +2514,22 @@
     "points": 18,
     "comment_count": 0,
     "hn_item": {
-      "by": "maydemir",
-      "descendants": 5,
-      "id": 30138266,
+      "by": "cpldcpu",
+      "descendants": 48,
+      "id": 30128379,
       "kids": [
-        30139683,
-        30139606
+        30135643,
+        30140582,
+        30138481,
+        30135691,
+        30139804,
+        30135762
       ],
-      "score": 23,
-      "time": 1643558423,
-      "title": "Hollows Hunter – Scans all running processes",
+      "score": 142,
+      "time": 1643477829,
+      "title": "Controlling RGB LEDs with only powerlines: Anatomy of a Christmas light string",
       "type": "story",
-      "url": "https://github.com/hasherezade/hollows_hunter"
+      "url": "https://cpldcpu.wordpress.com/2022/01/23/controlling-rgb-leds-with-only-the-powerlines-anatomy-of-a-christmas-light-string/"
     },
     "og_item": {
       "title": "The Dialectic of Enlightenment",
@@ -2276,75 +2558,60 @@
     }
   },
   {
-    "id": 30139643,
-    "title": "Very Remote Lisp Debugging Story",
-    "url": "https://susam.net/maze/very-remote-debugging.html",
-    "time": 1643567057,
-    "image": "",
-    "icon": "https://susam.net/maze/favicon.png",
-    "publisher": "susam.net",
-    "description": "",
-    "by": "susam",
-    "points": 32,
+    "id": 30134301,
+    "title": "The Basilikon Doron of King James VI and I",
+    "url": "https://blogs.bl.uk/digitisedmanuscripts/2022/01/how-to-be-an-effective-ruler.html",
+    "time": 1643520119,
+    "image": "https://blogs.bl.uk/.a/6a00d8341c464853ef0282e1411f9e200b-pi",
+    "icon": "https://www.bl.uk/britishlibrary/resources/global/images/favicon.ico",
+    "publisher": "blogs.bl.uk",
+    "description": "The British Library’s current major exhibition, Elizabeth and Mary: Royal Cousins, Rival Queens, charts the relationship and the lives of Elizabeth I and Mary, Queen of Scots, as well as the significant figures who were part of their courts and inner circles. One of the concluding sections of t…",
+    "by": "drdee",
+    "points": 12,
     "comment_count": 2,
     "hn_item": {
-      "by": "maydemir",
-      "descendants": 5,
-      "id": 30138266,
+      "by": "cpldcpu",
+      "descendants": 48,
+      "id": 30128379,
       "kids": [
-        30139683,
-        30139606
+        30135643,
+        30140582,
+        30138481,
+        30135691,
+        30139804,
+        30135762
       ],
-      "score": 23,
-      "time": 1643558423,
-      "title": "Hollows Hunter – Scans all running processes",
+      "score": 142,
+      "time": 1643477829,
+      "title": "Controlling RGB LEDs with only powerlines: Anatomy of a Christmas light string",
       "type": "story",
-      "url": "https://github.com/hasherezade/hollows_hunter"
+      "url": "https://cpldcpu.wordpress.com/2022/01/23/controlling-rgb-leds-with-only-the-powerlines-anatomy-of-a-christmas-light-string/"
     },
     "og_item": {
-      "title": "Very Remote Lisp Debugging Story - Susam's Maze",
-      "type": "",
-      "image": [],
-      "url": "",
+      "title": "How to be an effective ruler: the Basilikon Doron of King James VI and I",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://blogs.bl.uk/.a/6a00d8341c464853ef0282e1411f9e200b-pi",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://blogs.bl.uk/digitisedmanuscripts/2022/01/how-to-be-an-effective-ruler.html",
       "audio": [],
-      "description": "",
+      "description": "The British Library’s current major exhibition, Elizabeth and Mary: Royal Cousins, Rival Queens, charts the relationship and the lives of Elizabeth I and Mary, Queen of Scots, as well as the significant figures who were part of their courts and inner circles. One of the concluding sections of the exhibition...",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
       "site_name": "",
       "video": [],
       "favicon": {
-        "url": "favicon.png"
+        "url": "https://www.bl.uk/britishlibrary/resources/global/images/favicon.ico"
       }
     }
-  },
-  {
-    "id": 30125931,
-    "title": "Fluid Simulation – Siggraph 2007 Course Notes [pdf]",
-    "url": "https://www.cs.ubc.ca/~rbridson/fluidsimulation/fluids_notes.pdf",
-    "time": 1643461256,
-    "image": "",
-    "icon": "",
-    "publisher": "cs.ubc.ca",
-    "description": "",
-    "by": "creata",
-    "points": 34,
-    "comment_count": 4,
-    "hn_item": {
-      "by": "maydemir",
-      "descendants": 5,
-      "id": 30138266,
-      "kids": [
-        30139683,
-        30139606
-      ],
-      "score": 23,
-      "time": 1643558423,
-      "title": "Hollows Hunter – Scans all running processes",
-      "type": "story",
-      "url": "https://github.com/hasherezade/hollows_hunter"
-    },
-    "og_item": null
   },
   {
     "id": 30119285,
@@ -2359,18 +2626,22 @@
     "points": 108,
     "comment_count": 9,
     "hn_item": {
-      "by": "maydemir",
-      "descendants": 5,
-      "id": 30138266,
+      "by": "cpldcpu",
+      "descendants": 48,
+      "id": 30128379,
       "kids": [
-        30139683,
-        30139606
+        30135643,
+        30140582,
+        30138481,
+        30135691,
+        30139804,
+        30135762
       ],
-      "score": 23,
-      "time": 1643558423,
-      "title": "Hollows Hunter – Scans all running processes",
+      "score": 142,
+      "time": 1643477829,
+      "title": "Controlling RGB LEDs with only powerlines: Anatomy of a Christmas light string",
       "type": "story",
-      "url": "https://github.com/hasherezade/hollows_hunter"
+      "url": "https://cpldcpu.wordpress.com/2022/01/23/controlling-rgb-leds-with-only-the-powerlines-anatomy-of-a-christmas-light-string/"
     },
     "og_item": {
       "title": "Devious SQL: Message Queuing Using Native PostgreSQL",
@@ -2399,6 +2670,38 @@
     }
   },
   {
+    "id": 30125931,
+    "title": "Fluid Simulation – Siggraph 2007 Course Notes [pdf]",
+    "url": "https://www.cs.ubc.ca/~rbridson/fluidsimulation/fluids_notes.pdf",
+    "time": 1643461256,
+    "image": "",
+    "icon": "",
+    "publisher": "cs.ubc.ca",
+    "description": "",
+    "by": "creata",
+    "points": 34,
+    "comment_count": 4,
+    "hn_item": {
+      "by": "cpldcpu",
+      "descendants": 48,
+      "id": 30128379,
+      "kids": [
+        30135643,
+        30140582,
+        30138481,
+        30135691,
+        30139804,
+        30135762
+      ],
+      "score": 142,
+      "time": 1643477829,
+      "title": "Controlling RGB LEDs with only powerlines: Anatomy of a Christmas light string",
+      "type": "story",
+      "url": "https://cpldcpu.wordpress.com/2022/01/23/controlling-rgb-leds-with-only-the-powerlines-anatomy-of-a-christmas-light-string/"
+    },
+    "og_item": null
+  },
+  {
     "id": 30139142,
     "title": "SBCL: New in Version 2.2.1",
     "url": "http://www.sbcl.org/all-news.html?2.2.1#2.2.1",
@@ -2408,67 +2711,28 @@
     "publisher": "sbcl.org",
     "description": "",
     "by": "susam",
-    "points": 91,
+    "points": 92,
     "comment_count": 5,
     "hn_item": {
-      "by": "maydemir",
-      "descendants": 5,
-      "id": 30138266,
+      "by": "cpldcpu",
+      "descendants": 48,
+      "id": 30128379,
       "kids": [
-        30139683,
-        30139606
+        30135643,
+        30140582,
+        30138481,
+        30135691,
+        30139804,
+        30135762
       ],
-      "score": 23,
-      "time": 1643558423,
-      "title": "Hollows Hunter – Scans all running processes",
+      "score": 142,
+      "time": 1643477829,
+      "title": "Controlling RGB LEDs with only powerlines: Anatomy of a Christmas light string",
       "type": "story",
-      "url": "https://github.com/hasherezade/hollows_hunter"
+      "url": "https://cpldcpu.wordpress.com/2022/01/23/controlling-rgb-leds-with-only-the-powerlines-anatomy-of-a-christmas-light-string/"
     },
     "og_item": {
       "title": "All News - Steel Bank Common Lisp",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30140641,
-    "title": "Mistakes I've Made Building a Music Reactive LED Matrix",
-    "url": "https://aradaelli.com/blog/music-reactive-led-matrix/",
-    "time": 1643573549,
-    "image": "",
-    "icon": "https://aradaelli.com/favicon.ico",
-    "publisher": "aradaelli.com",
-    "description": "",
-    "by": "aradaelli",
-    "points": 12,
-    "comment_count": 1,
-    "hn_item": {
-      "by": "maydemir",
-      "descendants": 5,
-      "id": 30138266,
-      "kids": [
-        30139683,
-        30139606
-      ],
-      "score": 23,
-      "time": 1643558423,
-      "title": "Hollows Hunter – Scans all running processes",
-      "type": "story",
-      "url": "https://github.com/hasherezade/hollows_hunter"
-    },
-    "og_item": {
-      "title": "\nMusic Reactive Led Matrix – Andrea Radaelli\n",
       "type": "",
       "image": [],
       "url": "",
@@ -2497,18 +2761,22 @@
     "points": 63,
     "comment_count": 5,
     "hn_item": {
-      "by": "maydemir",
-      "descendants": 5,
-      "id": 30138266,
+      "by": "cpldcpu",
+      "descendants": 48,
+      "id": 30128379,
       "kids": [
-        30139683,
-        30139606
+        30135643,
+        30140582,
+        30138481,
+        30135691,
+        30139804,
+        30135762
       ],
-      "score": 23,
-      "time": 1643558423,
-      "title": "Hollows Hunter – Scans all running processes",
+      "score": 142,
+      "time": 1643477829,
+      "title": "Controlling RGB LEDs with only powerlines: Anatomy of a Christmas light string",
       "type": "story",
-      "url": "https://github.com/hasherezade/hollows_hunter"
+      "url": "https://cpldcpu.wordpress.com/2022/01/23/controlling-rgb-leds-with-only-the-powerlines-anatomy-of-a-christmas-light-string/"
     },
     "og_item": {
       "title": "What is FORGE?",
@@ -2540,18 +2808,22 @@
     "points": 99,
     "comment_count": 15,
     "hn_item": {
-      "by": "maydemir",
-      "descendants": 5,
-      "id": 30138266,
+      "by": "cpldcpu",
+      "descendants": 48,
+      "id": 30128379,
       "kids": [
-        30139683,
-        30139606
+        30135643,
+        30140582,
+        30138481,
+        30135691,
+        30139804,
+        30135762
       ],
-      "score": 23,
-      "time": 1643558423,
-      "title": "Hollows Hunter – Scans all running processes",
+      "score": 142,
+      "time": 1643477829,
+      "title": "Controlling RGB LEDs with only powerlines: Anatomy of a Christmas light string",
       "type": "story",
-      "url": "https://github.com/hasherezade/hollows_hunter"
+      "url": "https://cpldcpu.wordpress.com/2022/01/23/controlling-rgb-leds-with-only-the-powerlines-anatomy-of-a-christmas-light-string/"
     },
     "og_item": {
       "title": "Uninitialized Memory: Unsafe Rust is Too Hard",
@@ -2571,58 +2843,6 @@
     }
   },
   {
-    "id": 30134301,
-    "title": "The Basilikon Doron of King James VI and I",
-    "url": "https://blogs.bl.uk/digitisedmanuscripts/2022/01/how-to-be-an-effective-ruler.html",
-    "time": 1643520119,
-    "image": "https://blogs.bl.uk/.a/6a00d8341c464853ef0282e1411f9e200b-pi",
-    "icon": "https://www.bl.uk/britishlibrary/resources/global/images/favicon.ico",
-    "publisher": "blogs.bl.uk",
-    "description": "The British Library’s current major exhibition, Elizabeth and Mary: Royal Cousins, Rival Queens, charts the relationship and the lives of Elizabeth I and Mary, Queen of Scots, as well as the significant figures who were part of their courts and inner circles. One of the concluding sections of t…",
-    "by": "drdee",
-    "points": 11,
-    "comment_count": 2,
-    "hn_item": {
-      "by": "maydemir",
-      "descendants": 5,
-      "id": 30138266,
-      "kids": [
-        30139683,
-        30139606
-      ],
-      "score": 23,
-      "time": 1643558423,
-      "title": "Hollows Hunter – Scans all running processes",
-      "type": "story",
-      "url": "https://github.com/hasherezade/hollows_hunter"
-    },
-    "og_item": {
-      "title": "How to be an effective ruler: the Basilikon Doron of King James VI and I",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://blogs.bl.uk/.a/6a00d8341c464853ef0282e1411f9e200b-pi",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://blogs.bl.uk/digitisedmanuscripts/2022/01/how-to-be-an-effective-ruler.html",
-      "audio": [],
-      "description": "The British Library’s current major exhibition, Elizabeth and Mary: Royal Cousins, Rival Queens, charts the relationship and the lives of Elizabeth I and Mary, Queen of Scots, as well as the significant figures who were part of their courts and inner circles. One of the concluding sections of the exhibition...",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "https://www.bl.uk/britishlibrary/resources/global/images/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30111033,
     "title": "Toxic black mold is growing in my brain",
     "url": "https://www.buzzfeednews.com/article/tysonbottenus/black-mold-growing-toxic-brain-vacation",
@@ -2632,21 +2852,25 @@
     "publisher": "BuzzFeed News",
     "description": "I went on a vacation. I came home with a mysterious fungus in my brain that is so rare only about 120 cases have been confirmed worldwide since its discovery in 1911.",
     "by": "yellow_lead",
-    "points": 157,
+    "points": 158,
     "comment_count": 8,
     "hn_item": {
-      "by": "maydemir",
-      "descendants": 5,
-      "id": 30138266,
+      "by": "cpldcpu",
+      "descendants": 48,
+      "id": 30128379,
       "kids": [
-        30139683,
-        30139606
+        30135643,
+        30140582,
+        30138481,
+        30135691,
+        30139804,
+        30135762
       ],
-      "score": 23,
-      "time": 1643558423,
-      "title": "Hollows Hunter – Scans all running processes",
+      "score": 142,
+      "time": 1643477829,
+      "title": "Controlling RGB LEDs with only powerlines: Anatomy of a Christmas light string",
       "type": "story",
-      "url": "https://github.com/hasherezade/hollows_hunter"
+      "url": "https://cpldcpu.wordpress.com/2022/01/23/controlling-rgb-leds-with-only-the-powerlines-anatomy-of-a-christmas-light-string/"
     },
     "og_item": {
       "title": "Toxic Black Mold Is Growing On My Brain",
@@ -2675,6 +2899,53 @@
     }
   },
   {
+    "id": 30141426,
+    "title": "Ulysses at 100: The Birth of the Modern",
+    "url": "https://www.ft.com/content/609d5d0d-b666-4af8-af39-82ddaf5f28de",
+    "time": 1643579002,
+    "image": "",
+    "icon": "https://www.ft.com/__origami/service/image/v2/images/raw/ftlogo-v1%3Abrand-ft-logo-square-coloured?source=update-logos\u0026format=svg",
+    "publisher": "ft.com",
+    "description": "News, analysis and comment from the Financial Times, the worldʼs leading global business publication",
+    "by": "kkwteh",
+    "points": 8,
+    "comment_count": 1,
+    "hn_item": {
+      "by": "cpldcpu",
+      "descendants": 48,
+      "id": 30128379,
+      "kids": [
+        30135643,
+        30140582,
+        30138481,
+        30135691,
+        30139804,
+        30135762
+      ],
+      "score": 142,
+      "time": 1643477829,
+      "title": "Controlling RGB LEDs with only powerlines: Anatomy of a Christmas light string",
+      "type": "story",
+      "url": "https://cpldcpu.wordpress.com/2022/01/23/controlling-rgb-leds-with-only-the-powerlines-anatomy-of-a-christmas-light-string/"
+    },
+    "og_item": {
+      "title": "Subscribe to read | Financial Times",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "News, analysis and comment from the Financial Times, the worldʼs leading global business publication",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "https://www.ft.com/__origami/service/image/v2/images/raw/ftlogo-v1%3Abrand-ft-logo-square-coloured?source=update-logos\u0026format=svg"
+      }
+    }
+  },
+  {
     "id": 30141784,
     "title": "I crowdfunded a novel using cryptocurrency",
     "url": "https://ellegriffin.substack.com/p/crypto-funded-nft-novel",
@@ -2687,18 +2958,22 @@
     "points": 4,
     "comment_count": 0,
     "hn_item": {
-      "by": "maydemir",
-      "descendants": 5,
-      "id": 30138266,
+      "by": "cpldcpu",
+      "descendants": 48,
+      "id": 30128379,
       "kids": [
-        30139683,
-        30139606
+        30135643,
+        30140582,
+        30138481,
+        30135691,
+        30139804,
+        30135762
       ],
-      "score": 23,
-      "time": 1643558423,
-      "title": "Hollows Hunter – Scans all running processes",
+      "score": 142,
+      "time": 1643477829,
+      "title": "Controlling RGB LEDs with only powerlines: Anatomy of a Christmas light string",
       "type": "story",
-      "url": "https://github.com/hasherezade/hollows_hunter"
+      "url": "https://cpldcpu.wordpress.com/2022/01/23/controlling-rgb-leds-with-only-the-powerlines-anatomy-of-a-christmas-light-string/"
     },
     "og_item": {
       "title": "I crowdfunded a novel using cryptocurrency ",
@@ -2731,77 +3006,47 @@
     "title": "Why is Harvard astrophysicist Avi Loeb working with ardent UFO believers?",
     "url": "https://www.science.org/content/article/why-is-harvard-astrophysicist-working-with-ufo-buffs",
     "time": 1643570644,
-    "image": "",
+    "image": "https://www.science.org/do/10.1126/science.ada0631/abs/_20220128_nf_flying_saucer.jpg",
     "icon": "https://www.science.org/favicon.ico",
-    "publisher": "AAAS",
-    "description": "",
+    "publisher": "science.org",
+    "description": "Avi Loeb’s Galileo Project will search for sky-prowling aliens, but some worry about the influence of pseudoscience",
     "by": "tejohnso",
     "points": 42,
     "comment_count": 8,
     "hn_item": {
-      "by": "maydemir",
-      "descendants": 5,
-      "id": 30138266,
+      "by": "cpldcpu",
+      "descendants": 48,
+      "id": 30128379,
       "kids": [
-        30139683,
-        30139606
+        30135643,
+        30140582,
+        30138481,
+        30135691,
+        30139804,
+        30135762
       ],
-      "score": 23,
-      "time": 1643558423,
-      "title": "Hollows Hunter – Scans all running processes",
+      "score": 142,
+      "time": 1643477829,
+      "title": "Controlling RGB LEDs with only powerlines: Anatomy of a Christmas light string",
       "type": "story",
-      "url": "https://github.com/hasherezade/hollows_hunter"
+      "url": "https://cpldcpu.wordpress.com/2022/01/23/controlling-rgb-leds-with-only-the-powerlines-anatomy-of-a-christmas-light-string/"
     },
     "og_item": {
-      "title": "Science | AAAS",
-      "type": "Website",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "AAAS",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30141266,
-    "title": "Rpilocator – Find a Raspberry Pi in Stock",
-    "url": "https://rpilocator.com",
-    "time": 1643577841,
-    "image": "",
-    "icon": "https://rpilocator.com/favicon.ico",
-    "publisher": "rpilocator.com",
-    "description": "Find Raspberry Pi computers in stock with this simple to use web application.",
-    "by": "geerlingguy",
-    "points": 10,
-    "comment_count": 3,
-    "hn_item": {
-      "by": "maydemir",
-      "descendants": 5,
-      "id": 30138266,
-      "kids": [
-        30139683,
-        30139606
+      "title": "Why is a Harvard astrophysicist working with UFO buffs?",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://www.science.org/do/10.1126/science.ada0631/abs/_20220128_nf_flying_saucer.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
       ],
-      "score": 23,
-      "time": 1643558423,
-      "title": "Hollows Hunter – Scans all running processes",
-      "type": "story",
-      "url": "https://github.com/hasherezade/hollows_hunter"
-    },
-    "og_item": {
-      "title": "rpilocator",
-      "type": "",
-      "image": [],
-      "url": "",
+      "url": "https://www.science.org/content/article/why-is-harvard-astrophysicist-working-with-ufo-buffs",
       "audio": [],
-      "description": "Find Raspberry Pi computers in stock with this simple to use web application.",
+      "description": "Avi Loeb’s Galileo Project will search for sky-prowling aliens, but some worry about the influence of pseudoscience",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
@@ -2825,18 +3070,22 @@
     "points": 254,
     "comment_count": 32,
     "hn_item": {
-      "by": "maydemir",
-      "descendants": 5,
-      "id": 30138266,
+      "by": "cpldcpu",
+      "descendants": 48,
+      "id": 30128379,
       "kids": [
-        30139683,
-        30139606
+        30135643,
+        30140582,
+        30138481,
+        30135691,
+        30139804,
+        30135762
       ],
-      "score": 23,
-      "time": 1643558423,
-      "title": "Hollows Hunter – Scans all running processes",
+      "score": 142,
+      "time": 1643477829,
+      "title": "Controlling RGB LEDs with only powerlines: Anatomy of a Christmas light string",
       "type": "story",
-      "url": "https://github.com/hasherezade/hollows_hunter"
+      "url": "https://cpldcpu.wordpress.com/2022/01/23/controlling-rgb-leds-with-only-the-powerlines-anatomy-of-a-christmas-light-string/"
     },
     "og_item": {
       "title": "John Locke’s recipe for Pancakes",
@@ -2865,6 +3114,53 @@
     }
   },
   {
+    "id": 30141266,
+    "title": "Rpilocator – Find a Raspberry Pi in Stock",
+    "url": "https://rpilocator.com",
+    "time": 1643577841,
+    "image": "",
+    "icon": "https://rpilocator.com/favicon.ico",
+    "publisher": "rpilocator.com",
+    "description": "Find Raspberry Pi computers in stock with this simple to use web application.",
+    "by": "geerlingguy",
+    "points": 10,
+    "comment_count": 3,
+    "hn_item": {
+      "by": "cpldcpu",
+      "descendants": 48,
+      "id": 30128379,
+      "kids": [
+        30135643,
+        30140582,
+        30138481,
+        30135691,
+        30139804,
+        30135762
+      ],
+      "score": 142,
+      "time": 1643477829,
+      "title": "Controlling RGB LEDs with only powerlines: Anatomy of a Christmas light string",
+      "type": "story",
+      "url": "https://cpldcpu.wordpress.com/2022/01/23/controlling-rgb-leds-with-only-the-powerlines-anatomy-of-a-christmas-light-string/"
+    },
+    "og_item": {
+      "title": "rpilocator",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "Find Raspberry Pi computers in stock with this simple to use web application.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30114787,
     "title": "The Society of the Spectacle",
     "url": "https://unredacted-word.pub/",
@@ -2877,18 +3173,22 @@
     "points": 92,
     "comment_count": 10,
     "hn_item": {
-      "by": "maydemir",
-      "descendants": 5,
-      "id": 30138266,
+      "by": "cpldcpu",
+      "descendants": 48,
+      "id": 30128379,
       "kids": [
-        30139683,
-        30139606
+        30135643,
+        30140582,
+        30138481,
+        30135691,
+        30139804,
+        30135762
       ],
-      "score": 23,
-      "time": 1643558423,
-      "title": "Hollows Hunter – Scans all running processes",
+      "score": 142,
+      "time": 1643477829,
+      "title": "Controlling RGB LEDs with only powerlines: Anatomy of a Christmas light string",
       "type": "story",
-      "url": "https://github.com/hasherezade/hollows_hunter"
+      "url": "https://cpldcpu.wordpress.com/2022/01/23/controlling-rgb-leds-with-only-the-powerlines-anatomy-of-a-christmas-light-string/"
     },
     "og_item": {
       "title": "Unredacted Word",
@@ -2929,18 +3229,22 @@
     "points": 125,
     "comment_count": 12,
     "hn_item": {
-      "by": "maydemir",
-      "descendants": 5,
-      "id": 30138266,
+      "by": "cpldcpu",
+      "descendants": 48,
+      "id": 30128379,
       "kids": [
-        30139683,
-        30139606
+        30135643,
+        30140582,
+        30138481,
+        30135691,
+        30139804,
+        30135762
       ],
-      "score": 23,
-      "time": 1643558423,
-      "title": "Hollows Hunter – Scans all running processes",
+      "score": 142,
+      "time": 1643477829,
+      "title": "Controlling RGB LEDs with only powerlines: Anatomy of a Christmas light string",
       "type": "story",
-      "url": "https://github.com/hasherezade/hollows_hunter"
+      "url": "https://cpldcpu.wordpress.com/2022/01/23/controlling-rgb-leds-with-only-the-powerlines-anatomy-of-a-christmas-light-string/"
     },
     "og_item": {
       "title": "Jeremy Mikkola - Tech debt gets worse before it gets better",
@@ -2960,49 +3264,6 @@
     }
   },
   {
-    "id": 30141426,
-    "title": "Ulysses at 100: The Birth of the Modern",
-    "url": "https://www.ft.com/content/609d5d0d-b666-4af8-af39-82ddaf5f28de",
-    "time": 1643579002,
-    "image": "",
-    "icon": "https://www.ft.com/__origami/service/image/v2/images/raw/ftlogo-v1%3Abrand-ft-logo-square-coloured?source=update-logos\u0026format=svg",
-    "publisher": "ft.com",
-    "description": "News, analysis and comment from the Financial Times, the worldʼs leading global business publication",
-    "by": "kkwteh",
-    "points": 7,
-    "comment_count": 1,
-    "hn_item": {
-      "by": "maydemir",
-      "descendants": 5,
-      "id": 30138266,
-      "kids": [
-        30139683,
-        30139606
-      ],
-      "score": 23,
-      "time": 1643558423,
-      "title": "Hollows Hunter – Scans all running processes",
-      "type": "story",
-      "url": "https://github.com/hasherezade/hollows_hunter"
-    },
-    "og_item": {
-      "title": "Subscribe to read | Financial Times",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "News, analysis and comment from the Financial Times, the worldʼs leading global business publication",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "https://www.ft.com/__origami/service/image/v2/images/raw/ftlogo-v1%3Abrand-ft-logo-square-coloured?source=update-logos\u0026format=svg"
-      }
-    }
-  },
-  {
     "id": 30125758,
     "title": "Fun with DBM-type databases (2018)",
     "url": "https://www.openwall.com/lists/oss-security/2018/06/17/1",
@@ -3015,18 +3276,22 @@
     "points": 21,
     "comment_count": 0,
     "hn_item": {
-      "by": "maydemir",
-      "descendants": 5,
-      "id": 30138266,
+      "by": "cpldcpu",
+      "descendants": 48,
+      "id": 30128379,
       "kids": [
-        30139683,
-        30139606
+        30135643,
+        30140582,
+        30138481,
+        30135691,
+        30139804,
+        30135762
       ],
-      "score": 23,
-      "time": 1643558423,
-      "title": "Hollows Hunter – Scans all running processes",
+      "score": 142,
+      "time": 1643477829,
+      "title": "Controlling RGB LEDs with only powerlines: Anatomy of a Christmas light string",
       "type": "story",
-      "url": "https://github.com/hasherezade/hollows_hunter"
+      "url": "https://cpldcpu.wordpress.com/2022/01/23/controlling-rgb-leds-with-only-the-powerlines-anatomy-of-a-christmas-light-string/"
     },
     "og_item": {
       "title": "oss-security - Fun with DBM-type databases...",
@@ -3058,18 +3323,22 @@
     "points": 50,
     "comment_count": 6,
     "hn_item": {
-      "by": "maydemir",
-      "descendants": 5,
-      "id": 30138266,
+      "by": "cpldcpu",
+      "descendants": 48,
+      "id": 30128379,
       "kids": [
-        30139683,
-        30139606
+        30135643,
+        30140582,
+        30138481,
+        30135691,
+        30139804,
+        30135762
       ],
-      "score": 23,
-      "time": 1643558423,
-      "title": "Hollows Hunter – Scans all running processes",
+      "score": 142,
+      "time": 1643477829,
+      "title": "Controlling RGB LEDs with only powerlines: Anatomy of a Christmas light string",
       "type": "story",
-      "url": "https://github.com/hasherezade/hollows_hunter"
+      "url": "https://cpldcpu.wordpress.com/2022/01/23/controlling-rgb-leds-with-only-the-powerlines-anatomy-of-a-christmas-light-string/"
     },
     "og_item": {
       "title": "How Amiga 500 RAM Probably Works | How Things Probably Work",
@@ -3116,21 +3385,25 @@
     "publisher": "Drive Tesla",
     "description": "Tesla often takes advantage of the connected nature of their cars for good. They have warned owners of potential problems with their cars, or notified them to limit charging to help ease pressure on the [...]",
     "by": "rootusrootus",
-    "points": 15,
+    "points": 16,
     "comment_count": 1,
     "hn_item": {
-      "by": "maydemir",
-      "descendants": 5,
-      "id": 30138266,
+      "by": "cpldcpu",
+      "descendants": 48,
+      "id": 30128379,
       "kids": [
-        30139683,
-        30139606
+        30135643,
+        30140582,
+        30138481,
+        30135691,
+        30139804,
+        30135762
       ],
-      "score": 23,
-      "time": 1643558423,
-      "title": "Hollows Hunter – Scans all running processes",
+      "score": 142,
+      "time": 1643477829,
+      "title": "Controlling RGB LEDs with only powerlines: Anatomy of a Christmas light string",
       "type": "story",
-      "url": "https://github.com/hasherezade/hollows_hunter"
+      "url": "https://cpldcpu.wordpress.com/2022/01/23/controlling-rgb-leds-with-only-the-powerlines-anatomy-of-a-christmas-light-string/"
     },
     "og_item": {
       "title": "Tesla now monitors how often you adjust your seat position and will disable controls for 'chronic abusers'",
@@ -3159,11 +3432,58 @@
     }
   },
   {
+    "id": 30142065,
+    "title": "A hyperactive cell in the brain might trigger Alzheimer's disease",
+    "url": "https://www.npr.org/sections/health-shots/2022/01/30/1076166807/how-a-hyperactive-cell-in-the-brain-might-trigger-alzheimers-disease",
+    "time": 1643582988,
+    "image": "",
+    "icon": "https://www.npr.org/favicon.ico",
+    "publisher": "npr.org",
+    "description": "",
+    "by": "pseudolus",
+    "points": 6,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "cpldcpu",
+      "descendants": 48,
+      "id": 30128379,
+      "kids": [
+        30135643,
+        30140582,
+        30138481,
+        30135691,
+        30139804,
+        30135762
+      ],
+      "score": 142,
+      "time": 1643477829,
+      "title": "Controlling RGB LEDs with only powerlines: Anatomy of a Christmas light string",
+      "type": "story",
+      "url": "https://cpldcpu.wordpress.com/2022/01/23/controlling-rgb-leds-with-only-the-powerlines-anatomy-of-a-christmas-light-string/"
+    },
+    "og_item": {
+      "title": "NPR Cookie Consent and Choices",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30139637,
     "title": "Show HN: I reverse engineered and documented United Airlines in flight API",
     "url": "https://github.com/greatjack1/United-In-Flight-Api",
     "time": 1643567025,
-    "image": "https://opengraph.githubassets.com/bfa97bec61b761ee82542fc77b880a663158cf7e804545556f40f04e8d7d6bbd/greatjack1/United-In-Flight-Api",
+    "image": "https://opengraph.githubassets.com/e6f8dd63d44119ccd216a6f6b9524bcd5ffbf5152fe77c1c94531a866ebd856d/greatjack1/United-In-Flight-Api",
     "icon": "https://github.githubassets.com/favicons/favicon.svg",
     "publisher": "GitHub",
     "description": "Postman collection for United's internal in-flight wifi api - GitHub - greatjack1/United-In-Flight-Api: Postman collection for United's internal in-flight wifi api",
@@ -3171,25 +3491,29 @@
     "points": 16,
     "comment_count": 2,
     "hn_item": {
-      "by": "maydemir",
-      "descendants": 5,
-      "id": 30138266,
+      "by": "cpldcpu",
+      "descendants": 48,
+      "id": 30128379,
       "kids": [
-        30139683,
-        30139606
+        30135643,
+        30140582,
+        30138481,
+        30135691,
+        30139804,
+        30135762
       ],
-      "score": 23,
-      "time": 1643558423,
-      "title": "Hollows Hunter – Scans all running processes",
+      "score": 142,
+      "time": 1643477829,
+      "title": "Controlling RGB LEDs with only powerlines: Anatomy of a Christmas light string",
       "type": "story",
-      "url": "https://github.com/hasherezade/hollows_hunter"
+      "url": "https://cpldcpu.wordpress.com/2022/01/23/controlling-rgb-leds-with-only-the-powerlines-anatomy-of-a-christmas-light-string/"
     },
     "og_item": {
       "title": "GitHub - greatjack1/United-In-Flight-Api: Postman collection for United's internal in-flight wifi api",
       "type": "object",
       "image": [
         {
-          "url": "https://opengraph.githubassets.com/bfa97bec61b761ee82542fc77b880a663158cf7e804545556f40f04e8d7d6bbd/greatjack1/United-In-Flight-Api",
+          "url": "https://opengraph.githubassets.com/e6f8dd63d44119ccd216a6f6b9524bcd5ffbf5152fe77c1c94531a866ebd856d/greatjack1/United-In-Flight-Api",
           "secure_url": "",
           "type": "",
           "width": 1200,
@@ -3223,18 +3547,22 @@
     "points": 28,
     "comment_count": 4,
     "hn_item": {
-      "by": "maydemir",
-      "descendants": 5,
-      "id": 30138266,
+      "by": "cpldcpu",
+      "descendants": 48,
+      "id": 30128379,
       "kids": [
-        30139683,
-        30139606
+        30135643,
+        30140582,
+        30138481,
+        30135691,
+        30139804,
+        30135762
       ],
-      "score": 23,
-      "time": 1643558423,
-      "title": "Hollows Hunter – Scans all running processes",
+      "score": 142,
+      "time": 1643477829,
+      "title": "Controlling RGB LEDs with only powerlines: Anatomy of a Christmas light string",
       "type": "story",
-      "url": "https://github.com/hasherezade/hollows_hunter"
+      "url": "https://cpldcpu.wordpress.com/2022/01/23/controlling-rgb-leds-with-only-the-powerlines-anatomy-of-a-christmas-light-string/"
     },
     "og_item": {
       "title": "In defense of NIR",
@@ -3266,18 +3594,22 @@
     "points": 142,
     "comment_count": 6,
     "hn_item": {
-      "by": "maydemir",
-      "descendants": 5,
-      "id": 30138266,
+      "by": "cpldcpu",
+      "descendants": 48,
+      "id": 30128379,
       "kids": [
-        30139683,
-        30139606
+        30135643,
+        30140582,
+        30138481,
+        30135691,
+        30139804,
+        30135762
       ],
-      "score": 23,
-      "time": 1643558423,
-      "title": "Hollows Hunter – Scans all running processes",
+      "score": 142,
+      "time": 1643477829,
+      "title": "Controlling RGB LEDs with only powerlines: Anatomy of a Christmas light string",
       "type": "story",
-      "url": "https://github.com/hasherezade/hollows_hunter"
+      "url": "https://cpldcpu.wordpress.com/2022/01/23/controlling-rgb-leds-with-only-the-powerlines-anatomy-of-a-christmas-light-string/"
     },
     "og_item": {
       "title": "Controlling RGB LEDs With Only the Powerlines: Anatomy of a Christmas Light String",
@@ -3302,58 +3634,6 @@
       "video": [],
       "favicon": {
         "url": "https://s0.wp.com/i/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30138266,
-    "title": "Hollows Hunter – Scans all running processes",
-    "url": "https://github.com/hasherezade/hollows_hunter",
-    "time": 1643558423,
-    "image": "https://opengraph.githubassets.com/e26243015aed6e2dc8cb64c1052c42dc09a9dc348468757cc1b80fcefbf2c9ae/hasherezade/hollows_hunter",
-    "icon": "https://github.githubassets.com/favicons/favicon.svg",
-    "publisher": "GitHub",
-    "description": "Scans all running processes. Recognizes and dumps a variety of potentially malicious implants (replaced/implanted PEs, shellcodes, hooks, in-memory patches). - GitHub - hasherezade/hollows_hunter: ...",
-    "by": "maydemir",
-    "points": 23,
-    "comment_count": 2,
-    "hn_item": {
-      "by": "maydemir",
-      "descendants": 5,
-      "id": 30138266,
-      "kids": [
-        30139683,
-        30139606
-      ],
-      "score": 23,
-      "time": 1643558423,
-      "title": "Hollows Hunter – Scans all running processes",
-      "type": "story",
-      "url": "https://github.com/hasherezade/hollows_hunter"
-    },
-    "og_item": {
-      "title": "GitHub - hasherezade/hollows_hunter: Scans all running processes. Recognizes and dumps a variety of potentially malicious implants (replaced/implanted PEs, shellcodes, hooks, in-memory patches).",
-      "type": "object",
-      "image": [
-        {
-          "url": "https://opengraph.githubassets.com/e26243015aed6e2dc8cb64c1052c42dc09a9dc348468757cc1b80fcefbf2c9ae/hasherezade/hollows_hunter",
-          "secure_url": "",
-          "type": "",
-          "width": 1200,
-          "height": 600,
-          "alt": ""
-        }
-      ],
-      "url": "https://github.com/hasherezade/hollows_hunter",
-      "audio": [],
-      "description": "Scans all running processes. Recognizes and dumps a variety of potentially malicious implants (replaced/implanted PEs, shellcodes, hooks, in-memory patches). - GitHub - hasherezade/hollows_hunter: ...",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "GitHub",
-      "video": [],
-      "favicon": {
-        "url": "https://github.githubassets.com/favicons/favicon.svg"
       }
     }
   }
