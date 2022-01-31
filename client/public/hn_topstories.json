@@ -9,21 +9,20 @@
     "publisher": "zillow.com",
     "description": "",
     "by": "otras",
-    "points": 167,
+    "points": 174,
     "comment_count": 24,
     "hn_item": {
-      "by": "oumua_don17",
+      "by": "lsllc",
       "descendants": 4,
-      "id": 30122435,
+      "id": 30142494,
       "kids": [
-        30140765,
-        30140933
+        30143090
       ],
-      "score": 24,
-      "time": 1643416395,
-      "title": "DDS: Build and library management tool for C, C++",
+      "score": 26,
+      "time": 1643586052,
+      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
       "type": "story",
-      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
     },
     "og_item": {
       "title": "",
@@ -52,21 +51,20 @@
     "publisher": "royalsociety.org",
     "description": "The Online Information Environment report discusses how to limit the harm of scientific misinformation online",
     "by": "steelstraw",
-    "points": 546,
+    "points": 556,
     "comment_count": 40,
     "hn_item": {
-      "by": "oumua_don17",
+      "by": "lsllc",
       "descendants": 4,
-      "id": 30122435,
+      "id": 30142494,
       "kids": [
-        30140765,
-        30140933
+        30143090
       ],
-      "score": 24,
-      "time": 1643416395,
-      "title": "DDS: Build and library management tool for C, C++",
+      "score": 26,
+      "time": 1643586052,
+      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
       "type": "story",
-      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
     },
     "og_item": {
       "title": "Royal Society cautions against censorship of scientific misinformation online | Royal Society",
@@ -95,6 +93,48 @@
     }
   },
   {
+    "id": 30144652,
+    "title": "Zero-copy network transmission with io_uring",
+    "url": "https://lwn.net/Articles/879724/",
+    "time": 1643605041,
+    "image": "",
+    "icon": "https://static.lwn.net/images/favicon.png",
+    "publisher": "lwn.net",
+    "description": "",
+    "by": "pabs3",
+    "points": 20,
+    "comment_count": 2,
+    "hn_item": {
+      "by": "lsllc",
+      "descendants": 4,
+      "id": 30142494,
+      "kids": [
+        30143090
+      ],
+      "score": 26,
+      "time": 1643586052,
+      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
+      "type": "story",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
+    },
+    "og_item": {
+      "title": "Zero-copy network transmission with io_uring [LWN.net]",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "https://static.lwn.net/images/favicon.png"
+      }
+    }
+  },
+  {
     "id": 30144108,
     "title": "Reimagining Chess with AlphaZero",
     "url": "https://cacm.acm.org/magazines/2022/2/258230-reimagining-chess-with-alphazero/fulltext",
@@ -104,21 +144,20 @@
     "publisher": "cacm.acm.org",
     "description": "AI is driving the next evolution of chess, giving players a glimpse into the game\u0026#39;s future.",
     "by": "joak",
-    "points": 56,
+    "points": 57,
     "comment_count": 7,
     "hn_item": {
-      "by": "oumua_don17",
+      "by": "lsllc",
       "descendants": 4,
-      "id": 30122435,
+      "id": 30142494,
       "kids": [
-        30140765,
-        30140933
+        30143090
       ],
-      "score": 24,
-      "time": 1643416395,
-      "title": "DDS: Build and library management tool for C, C++",
+      "score": 26,
+      "time": 1643586052,
+      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
       "type": "story",
-      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
     },
     "og_item": {
       "title": "Reimagining Chess with AlphaZero",
@@ -147,49 +186,6 @@
     }
   },
   {
-    "id": 30144652,
-    "title": "Zero-copy network transmission with io_uring",
-    "url": "https://lwn.net/Articles/879724/",
-    "time": 1643605041,
-    "image": "",
-    "icon": "https://static.lwn.net/images/favicon.png",
-    "publisher": "lwn.net",
-    "description": "",
-    "by": "pabs3",
-    "points": 17,
-    "comment_count": 2,
-    "hn_item": {
-      "by": "oumua_don17",
-      "descendants": 4,
-      "id": 30122435,
-      "kids": [
-        30140765,
-        30140933
-      ],
-      "score": 24,
-      "time": 1643416395,
-      "title": "DDS: Build and library management tool for C, C++",
-      "type": "story",
-      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
-    },
-    "og_item": {
-      "title": "Zero-copy network transmission with io_uring [LWN.net]",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "https://static.lwn.net/images/favicon.png"
-      }
-    }
-  },
-  {
     "id": 30124457,
     "title": "Chip shortages due to lack of investment in right fabs",
     "url": "https://www.theregister.com/2022/01/28/idc_chip_shortages/",
@@ -199,21 +195,20 @@
     "publisher": "theregister.com",
     "description": "",
     "by": "laktak",
-    "points": 30,
+    "points": 32,
     "comment_count": 2,
     "hn_item": {
-      "by": "oumua_don17",
+      "by": "lsllc",
       "descendants": 4,
-      "id": 30122435,
+      "id": 30142494,
       "kids": [
-        30140765,
-        30140933
+        30143090
       ],
-      "score": 24,
-      "time": 1643416395,
-      "title": "DDS: Build and library management tool for C, C++",
+      "score": 26,
+      "time": 1643586052,
+      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
       "type": "story",
-      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
     },
     "og_item": {
       "title": "",
@@ -242,21 +237,20 @@
     "publisher": "Medium",
     "description": "My journey on finding and reporting databases with sensitive data about Fortune-500 companies, Hospitals, Crypto platforms, Startups during…",
     "by": "boyter",
-    "points": 50,
+    "points": 53,
     "comment_count": 10,
     "hn_item": {
-      "by": "oumua_don17",
+      "by": "lsllc",
       "descendants": 4,
-      "id": 30122435,
+      "id": 30142494,
       "kids": [
-        30140765,
-        30140933
+        30143090
       ],
-      "score": 24,
-      "time": 1643416395,
-      "title": "DDS: Build and library management tool for C, C++",
+      "score": 26,
+      "time": 1643586052,
+      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
       "type": "story",
-      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
     },
     "og_item": {
       "title": "How I Discovered Thousands of Open Databases on AWS",
@@ -294,21 +288,20 @@
     "publisher": "fahrrad-tools.de",
     "description": "Which tire fits my bike? Tires are always flat and now buy a tire with puncture protection? Find the right tire now!",
     "by": "moasda",
-    "points": 551,
-    "comment_count": 36,
+    "points": 552,
+    "comment_count": 37,
     "hn_item": {
-      "by": "oumua_don17",
+      "by": "lsllc",
       "descendants": 4,
-      "id": 30122435,
+      "id": 30142494,
       "kids": [
-        30140765,
-        30140933
+        30143090
       ],
-      "score": 24,
-      "time": 1643416395,
-      "title": "DDS: Build and library management tool for C, C++",
+      "score": 26,
+      "time": 1643586052,
+      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
       "type": "story",
-      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
     },
     "og_item": {
       "title": "Bike Tire | Fahrrad-Tools.de",
@@ -340,18 +333,17 @@
     "points": 26,
     "comment_count": 3,
     "hn_item": {
-      "by": "oumua_don17",
+      "by": "lsllc",
       "descendants": 4,
-      "id": 30122435,
+      "id": 30142494,
       "kids": [
-        30140765,
-        30140933
+        30143090
       ],
-      "score": 24,
-      "time": 1643416395,
-      "title": "DDS: Build and library management tool for C, C++",
+      "score": 26,
+      "time": 1643586052,
+      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
       "type": "story",
-      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
     },
     "og_item": {
       "title": "Mesmerizing Labor - JSTOR Daily",
@@ -380,58 +372,6 @@
     }
   },
   {
-    "id": 30140835,
-    "title": "Hardy, Ramanujan and Taxi No. 1729",
-    "url": "https://johncarlosbaez.wordpress.com/2022/01/30/hardy-ramanujan-and-taxi-no-1729/",
-    "time": 1643574977,
-    "image": "https://johncarlosbaez.files.wordpress.com/2022/01/ramanujan_1729.jpg",
-    "icon": "https://s0.wp.com/i/favicon.ico",
-    "publisher": "Azimuth",
-    "description": "In his book Ramanujan: Twelve Lectures on Subjects Suggested by His Life and Work, G. H. Hardy tells this famous story: He could remember the idiosyncracies of numbers in an almost uncanny way. It …",
-    "by": "johncarlosbaez",
-    "points": 70,
-    "comment_count": 6,
-    "hn_item": {
-      "by": "oumua_don17",
-      "descendants": 4,
-      "id": 30122435,
-      "kids": [
-        30140765,
-        30140933
-      ],
-      "score": 24,
-      "time": 1643416395,
-      "title": "DDS: Build and library management tool for C, C++",
-      "type": "story",
-      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
-    },
-    "og_item": {
-      "title": "Hardy, Ramanujan and Taxi No. 1729",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://johncarlosbaez.files.wordpress.com/2022/01/ramanujan_1729.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 450,
-          "height": 609,
-          "alt": ""
-        }
-      ],
-      "url": "https://johncarlosbaez.wordpress.com/2022/01/30/hardy-ramanujan-and-taxi-no-1729/",
-      "audio": [],
-      "description": "In his book Ramanujan: Twelve Lectures on Subjects Suggested by His Life and Work, G. H. Hardy tells this famous story: He could remember the idiosyncracies of numbers in an almost uncanny way. It …",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Azimuth",
-      "video": [],
-      "favicon": {
-        "url": "https://s0.wp.com/i/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30144805,
     "title": "Examples of common false beliefs in mathematics",
     "url": "https://mathoverflow.net/questions/23478/examples-of-common-false-beliefs-in-mathematics",
@@ -441,21 +381,20 @@
     "publisher": "MathOverflow",
     "description": "The first thing to say is that this is not the same as the question about interesting mathematical mistakes. I am interested about the type of false beliefs that many intelligent people have while ...",
     "by": "gballan",
-    "points": 6,
+    "points": 8,
     "comment_count": 0,
     "hn_item": {
-      "by": "oumua_don17",
+      "by": "lsllc",
       "descendants": 4,
-      "id": 30122435,
+      "id": 30142494,
       "kids": [
-        30140765,
-        30140933
+        30143090
       ],
-      "score": 24,
-      "time": 1643416395,
-      "title": "DDS: Build and library management tool for C, C++",
+      "score": 26,
+      "time": 1643586052,
+      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
       "type": "story",
-      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
     },
     "og_item": {
       "title": "Examples of common false beliefs in mathematics",
@@ -484,6 +423,57 @@
     }
   },
   {
+    "id": 30140835,
+    "title": "Hardy, Ramanujan and Taxi No. 1729",
+    "url": "https://johncarlosbaez.wordpress.com/2022/01/30/hardy-ramanujan-and-taxi-no-1729/",
+    "time": 1643574977,
+    "image": "https://johncarlosbaez.files.wordpress.com/2022/01/ramanujan_1729.jpg",
+    "icon": "https://s0.wp.com/i/favicon.ico",
+    "publisher": "Azimuth",
+    "description": "In his book Ramanujan: Twelve Lectures on Subjects Suggested by His Life and Work, G. H. Hardy tells this famous story: He could remember the idiosyncracies of numbers in an almost uncanny way. It …",
+    "by": "johncarlosbaez",
+    "points": 70,
+    "comment_count": 6,
+    "hn_item": {
+      "by": "lsllc",
+      "descendants": 4,
+      "id": 30142494,
+      "kids": [
+        30143090
+      ],
+      "score": 26,
+      "time": 1643586052,
+      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
+      "type": "story",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
+    },
+    "og_item": {
+      "title": "Hardy, Ramanujan and Taxi No. 1729",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://johncarlosbaez.files.wordpress.com/2022/01/ramanujan_1729.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 450,
+          "height": 609,
+          "alt": ""
+        }
+      ],
+      "url": "https://johncarlosbaez.wordpress.com/2022/01/30/hardy-ramanujan-and-taxi-no-1729/",
+      "audio": [],
+      "description": "In his book Ramanujan: Twelve Lectures on Subjects Suggested by His Life and Work, G. H. Hardy tells this famous story: He could remember the idiosyncracies of numbers in an almost uncanny way. It …",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Azimuth",
+      "video": [],
+      "favicon": {
+        "url": "https://s0.wp.com/i/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30143587,
     "title": "Ylang: Universal Language for eBPF, Stap+, GDB, and More (2021)",
     "url": "https://blog.openresty.com/en/ylang-intro-part4/",
@@ -496,18 +486,17 @@
     "points": 29,
     "comment_count": 3,
     "hn_item": {
-      "by": "oumua_don17",
+      "by": "lsllc",
       "descendants": 4,
-      "id": 30122435,
+      "id": 30142494,
       "kids": [
-        30140765,
-        30140933
+        30143090
       ],
-      "score": 24,
-      "time": 1643416395,
-      "title": "DDS: Build and library management tool for C, C++",
+      "score": 26,
+      "time": 1643586052,
+      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
       "type": "story",
-      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
     },
     "og_item": {
       "title": "Ylang: Universal Language for eBPF, Stap+, GDB, and More (Part 4) - OpenResty Official Blog",
@@ -539,18 +528,17 @@
     "points": 209,
     "comment_count": 14,
     "hn_item": {
-      "by": "oumua_don17",
+      "by": "lsllc",
       "descendants": 4,
-      "id": 30122435,
+      "id": 30142494,
       "kids": [
-        30140765,
-        30140933
+        30143090
       ],
-      "score": 24,
-      "time": 1643416395,
-      "title": "DDS: Build and library management tool for C, C++",
+      "score": 26,
+      "time": 1643586052,
+      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
       "type": "story",
-      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
     },
     "og_item": {
       "title": "HyperCardSimulator",
@@ -570,144 +558,6 @@
     }
   },
   {
-    "id": 30141278,
-    "title": "The Story of Maxis Software (1999)",
-    "url": "https://web.archive.org/web/19991012021220/http://gamespot.com/features/maxis/index.html",
-    "time": 1643577913,
-    "image": "",
-    "icon": "https://web.archive.org/favicon.ico",
-    "publisher": "web.archive.org",
-    "description": "",
-    "by": "ecliptik",
-    "points": 92,
-    "comment_count": 8,
-    "hn_item": {
-      "by": "oumua_don17",
-      "descendants": 4,
-      "id": 30122435,
-      "kids": [
-        30140765,
-        30140933
-      ],
-      "score": 24,
-      "time": 1643416395,
-      "title": "DDS: Build and library management tool for C, C++",
-      "type": "story",
-      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
-    },
-    "og_item": {
-      "title": "GameSpot's SIMply Divine: The Story of Maxis Software",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30134367,
-    "title": "The case of the mysterious --help directory (2020)",
-    "url": "https://leahneukirchen.org/blog/archive/2020/05/the-case-of-the-mysterious-help-directory.html",
-    "time": 1643520785,
-    "image": "",
-    "icon": "https://leahneukirchen.org/favicon.ico",
-    "publisher": "leahneukirchen.org",
-    "description": "",
-    "by": "panic",
-    "points": 139,
-    "comment_count": 10,
-    "hn_item": {
-      "by": "oumua_don17",
-      "descendants": 4,
-      "id": 30122435,
-      "kids": [
-        30140765,
-        30140933
-      ],
-      "score": 24,
-      "time": 1643416395,
-      "title": "DDS: Build and library management tool for C, C++",
-      "type": "story",
-      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
-    },
-    "og_item": {
-      "title": "leah blogs: The case of the mysterious --help directory",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30143375,
-    "title": "Lizard scale patterns described with antiferromagnetic model",
-    "url": "https://physics.aps.org/articles/v15/s12",
-    "time": 1643592578,
-    "image": "https://physics.aps.org/assets/604d524b-147e-4667-ad05-3d568e7114b0/e12_1_thumb.png",
-    "icon": "https://cdn.journals.aps.org/development/physics/images/icons/favicon.ico",
-    "publisher": "Physics",
-    "description": "The pattern of green and black scales on an ocellated lizard can be described with the two-parameter Ising model for antiferromagnetic systems.",
-    "by": "shusaku",
-    "points": 30,
-    "comment_count": 3,
-    "hn_item": {
-      "by": "oumua_don17",
-      "descendants": 4,
-      "id": 30122435,
-      "kids": [
-        30140765,
-        30140933
-      ],
-      "score": 24,
-      "time": 1643416395,
-      "title": "DDS: Build and library management tool for C, C++",
-      "type": "story",
-      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
-    },
-    "og_item": {
-      "title": "Lizard Scale Patterns Described with Antiferromagnetic Model",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://physics.aps.org/assets/604d524b-147e-4667-ad05-3d568e7114b0/e12_1_thumb.png",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://physics.aps.org/articles/v15/s12",
-      "audio": [],
-      "description": "The pattern of green and black scales on an ocellated lizard can be described with the two-parameter Ising model for antiferromagnetic systems.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Physics",
-      "video": [],
-      "favicon": {
-        "url": "//cdn.journals.aps.org/development/physics/images/icons/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30131926,
     "title": "What is the inverse of a circle?",
     "url": "https://mattferraro.dev/posts/inverse-of-a-circle",
@@ -717,21 +567,20 @@
     "publisher": "mattferraro.dev",
     "description": "What does it mean to invert a shape?",
     "by": "mferraro89",
-    "points": 10,
+    "points": 12,
     "comment_count": 1,
     "hn_item": {
-      "by": "oumua_don17",
+      "by": "lsllc",
       "descendants": 4,
-      "id": 30122435,
+      "id": 30142494,
       "kids": [
-        30140765,
-        30140933
+        30143090
       ],
-      "score": 24,
-      "time": 1643416395,
-      "title": "DDS: Build and library management tool for C, C++",
+      "score": 26,
+      "time": 1643586052,
+      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
       "type": "story",
-      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
     },
     "og_item": {
       "title": "What is the Inverse of a Circle?",
@@ -760,6 +609,141 @@
     }
   },
   {
+    "id": 30141278,
+    "title": "The Story of Maxis Software (1999)",
+    "url": "https://web.archive.org/web/19991012021220/http://gamespot.com/features/maxis/index.html",
+    "time": 1643577913,
+    "image": "",
+    "icon": "https://web.archive.org/favicon.ico",
+    "publisher": "web.archive.org",
+    "description": "",
+    "by": "ecliptik",
+    "points": 93,
+    "comment_count": 8,
+    "hn_item": {
+      "by": "lsllc",
+      "descendants": 4,
+      "id": 30142494,
+      "kids": [
+        30143090
+      ],
+      "score": 26,
+      "time": 1643586052,
+      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
+      "type": "story",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
+    },
+    "og_item": {
+      "title": "GameSpot's SIMply Divine: The Story of Maxis Software",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30143375,
+    "title": "Lizard scale patterns described with antiferromagnetic model",
+    "url": "https://physics.aps.org/articles/v15/s12",
+    "time": 1643592578,
+    "image": "https://physics.aps.org/assets/604d524b-147e-4667-ad05-3d568e7114b0/e12_1_thumb.png",
+    "icon": "https://cdn.journals.aps.org/development/physics/images/icons/favicon.ico",
+    "publisher": "Physics",
+    "description": "The pattern of green and black scales on an ocellated lizard can be described with the two-parameter Ising model for antiferromagnetic systems.",
+    "by": "shusaku",
+    "points": 32,
+    "comment_count": 3,
+    "hn_item": {
+      "by": "lsllc",
+      "descendants": 4,
+      "id": 30142494,
+      "kids": [
+        30143090
+      ],
+      "score": 26,
+      "time": 1643586052,
+      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
+      "type": "story",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
+    },
+    "og_item": {
+      "title": "Lizard Scale Patterns Described with Antiferromagnetic Model",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://physics.aps.org/assets/604d524b-147e-4667-ad05-3d568e7114b0/e12_1_thumb.png",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://physics.aps.org/articles/v15/s12",
+      "audio": [],
+      "description": "The pattern of green and black scales on an ocellated lizard can be described with the two-parameter Ising model for antiferromagnetic systems.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Physics",
+      "video": [],
+      "favicon": {
+        "url": "//cdn.journals.aps.org/development/physics/images/icons/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30134367,
+    "title": "The case of the mysterious --help directory (2020)",
+    "url": "https://leahneukirchen.org/blog/archive/2020/05/the-case-of-the-mysterious-help-directory.html",
+    "time": 1643520785,
+    "image": "",
+    "icon": "https://leahneukirchen.org/favicon.ico",
+    "publisher": "leahneukirchen.org",
+    "description": "",
+    "by": "panic",
+    "points": 139,
+    "comment_count": 11,
+    "hn_item": {
+      "by": "lsllc",
+      "descendants": 4,
+      "id": 30142494,
+      "kids": [
+        30143090
+      ],
+      "score": 26,
+      "time": 1643586052,
+      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
+      "type": "story",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
+    },
+    "og_item": {
+      "title": "leah blogs: The case of the mysterious --help directory",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30141192,
     "title": "Don't forget Microsoft",
     "url": "https://luttig.substack.com/p/dont-forget-microsoft",
@@ -769,21 +753,20 @@
     "publisher": "luttig.substack.com",
     "description": "Understanding the behemoth in Redmond teaches us valuable lessons in cloud infrastructure, startup strategy, and the future of software.",
     "by": "SamvitJ",
-    "points": 239,
+    "points": 241,
     "comment_count": 49,
     "hn_item": {
-      "by": "oumua_don17",
+      "by": "lsllc",
       "descendants": 4,
-      "id": 30122435,
+      "id": 30142494,
       "kids": [
-        30140765,
-        30140933
+        30143090
       ],
-      "score": 24,
-      "time": 1643416395,
-      "title": "DDS: Build and library management tool for C, C++",
+      "score": 26,
+      "time": 1643586052,
+      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
       "type": "story",
-      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
     },
     "og_item": {
       "title": "Don’t forget Microsoft",
@@ -812,80 +795,36 @@
     }
   },
   {
-    "id": 30128193,
-    "title": "On Immersion",
-    "url": "https://blog.laurel.world/on-immersion/",
-    "time": 1643477006,
-    "image": "",
-    "icon": "https://blog.laurel.world/favicon.ico",
-    "publisher": "blog.laurel.world",
-    "description": "",
-    "by": "artmare",
-    "points": 29,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "oumua_don17",
-      "descendants": 4,
-      "id": 30122435,
-      "kids": [
-        30140765,
-        30140933
-      ],
-      "score": 24,
-      "time": 1643416395,
-      "title": "DDS: Build and library management tool for C, C++",
-      "type": "story",
-      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
-    },
-    "og_item": {
-      "title": "A couple years ago, I created this list: immersive: walking taking a shower sleeping teaching falling in love cinema life or death experience I was curious about these amazing parts of life that feel so meaningful — like portals, where time and space take on a totally different, enchanted feeling. I remember writing this list… – blog.laurel.world",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30138434,
     "title": "Beancount: Double-entry accounting from text files",
     "url": "https://github.com/beancount/beancount",
     "time": 1643559445,
-    "image": "https://opengraph.githubassets.com/54d992cf912c25003f9234b588c8fa516c8a2c9e2c0b25ae61c63a4636835c93/beancount/beancount",
+    "image": "https://opengraph.githubassets.com/c1231920d9907f4542e1adfd3a68ce9917115dfbbc8be5251cdcb3643e6eaf99/beancount/beancount",
     "icon": "https://github.githubassets.com/favicons/favicon.svg",
     "publisher": "GitHub",
     "description": "Beancount: Double-Entry Accounting from Text Files. - GitHub - beancount/beancount: Beancount: Double-Entry Accounting from Text Files.",
     "by": "techtalsky",
-    "points": 190,
+    "points": 191,
     "comment_count": 22,
     "hn_item": {
-      "by": "oumua_don17",
+      "by": "lsllc",
       "descendants": 4,
-      "id": 30122435,
+      "id": 30142494,
       "kids": [
-        30140765,
-        30140933
+        30143090
       ],
-      "score": 24,
-      "time": 1643416395,
-      "title": "DDS: Build and library management tool for C, C++",
+      "score": 26,
+      "time": 1643586052,
+      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
       "type": "story",
-      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
     },
     "og_item": {
       "title": "GitHub - beancount/beancount: Beancount: Double-Entry Accounting from Text Files.",
       "type": "object",
       "image": [
         {
-          "url": "https://opengraph.githubassets.com/54d992cf912c25003f9234b588c8fa516c8a2c9e2c0b25ae61c63a4636835c93/beancount/beancount",
+          "url": "https://opengraph.githubassets.com/c1231920d9907f4542e1adfd3a68ce9917115dfbbc8be5251cdcb3643e6eaf99/beancount/beancount",
           "secure_url": "",
           "type": "",
           "width": 1200,
@@ -907,6 +846,132 @@
     }
   },
   {
+    "id": 30128193,
+    "title": "On Immersion",
+    "url": "https://blog.laurel.world/on-immersion/",
+    "time": 1643477006,
+    "image": "",
+    "icon": "https://blog.laurel.world/favicon.ico",
+    "publisher": "blog.laurel.world",
+    "description": "",
+    "by": "artmare",
+    "points": 30,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "lsllc",
+      "descendants": 4,
+      "id": 30142494,
+      "kids": [
+        30143090
+      ],
+      "score": 26,
+      "time": 1643586052,
+      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
+      "type": "story",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
+    },
+    "og_item": {
+      "title": "A couple years ago, I created this list: immersive: walking taking a shower sleeping teaching falling in love cinema life or death experience I was curious about these amazing parts of life that feel so meaningful — like portals, where time and space take on a totally different, enchanted feeling. I remember writing this list… – blog.laurel.world",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30142105,
+    "title": "Seattle Telecommunications History Museum",
+    "url": "https://www.telcomhistory.org/connections-museum-seattle/",
+    "time": 1643583232,
+    "image": "",
+    "icon": "https://www.telcomhistory.org/favicon.ico",
+    "publisher": "telcomhistory.org",
+    "description": "",
+    "by": "basementcat",
+    "points": 49,
+    "comment_count": 7,
+    "hn_item": {
+      "by": "lsllc",
+      "descendants": 4,
+      "id": 30142494,
+      "kids": [
+        30143090
+      ],
+      "score": 26,
+      "time": 1643586052,
+      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
+      "type": "story",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
+    },
+    "og_item": {
+      "title": "403 Forbidden",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30140984,
+    "title": "A UX designer walks into a Tesla Bar",
+    "url": "https://jenson.org/tesla/",
+    "time": 1643576121,
+    "image": "",
+    "icon": "https://jenson.org/wp-content/uploads/2015/09/out-200x200.png",
+    "publisher": "jenson.org",
+    "description": "",
+    "by": "radley",
+    "points": 674,
+    "comment_count": 95,
+    "hn_item": {
+      "by": "lsllc",
+      "descendants": 4,
+      "id": 30142494,
+      "kids": [
+        30143090
+      ],
+      "score": 26,
+      "time": 1643586052,
+      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
+      "type": "story",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
+    },
+    "og_item": {
+      "title": "A UX designer walks into a Tesla Bar – Scott Jenson",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "https://jenson.org/wp-content/uploads/2015/09/out-200x200.png"
+      }
+    }
+  },
+  {
     "id": 30141439,
     "title": "Operation Warp Speed: A new model for industrial policy",
     "url": "https://americanaffairsjournal.org/2021/05/inside-operation-warp-speed-a-new-model-for-industrial-policy/",
@@ -919,18 +984,17 @@
     "points": 96,
     "comment_count": 6,
     "hn_item": {
-      "by": "oumua_don17",
+      "by": "lsllc",
       "descendants": 4,
-      "id": 30122435,
+      "id": 30142494,
       "kids": [
-        30140765,
-        30140933
+        30143090
       ],
-      "score": 24,
-      "time": 1643416395,
-      "title": "DDS: Build and library management tool for C, C++",
+      "score": 26,
+      "time": 1643586052,
+      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
       "type": "story",
-      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
     },
     "og_item": {
       "title": "Inside Operation Warp Speed: A New Model for Industrial Policy - American Affairs Journal",
@@ -959,92 +1023,6 @@
     }
   },
   {
-    "id": 30140984,
-    "title": "A UX designer walks into a Tesla Bar",
-    "url": "https://jenson.org/tesla/",
-    "time": 1643576121,
-    "image": "",
-    "icon": "https://jenson.org/wp-content/uploads/2015/09/out-200x200.png",
-    "publisher": "jenson.org",
-    "description": "",
-    "by": "radley",
-    "points": 669,
-    "comment_count": 95,
-    "hn_item": {
-      "by": "oumua_don17",
-      "descendants": 4,
-      "id": 30122435,
-      "kids": [
-        30140765,
-        30140933
-      ],
-      "score": 24,
-      "time": 1643416395,
-      "title": "DDS: Build and library management tool for C, C++",
-      "type": "story",
-      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
-    },
-    "og_item": {
-      "title": "A UX designer walks into a Tesla Bar – Scott Jenson",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "https://jenson.org/wp-content/uploads/2015/09/out-200x200.png"
-      }
-    }
-  },
-  {
-    "id": 30142105,
-    "title": "Seattle Telecommunications History Museum",
-    "url": "https://www.telcomhistory.org/connections-museum-seattle/",
-    "time": 1643583232,
-    "image": "",
-    "icon": "https://www.telcomhistory.org/favicon.ico",
-    "publisher": "telcomhistory.org",
-    "description": "",
-    "by": "basementcat",
-    "points": 48,
-    "comment_count": 7,
-    "hn_item": {
-      "by": "oumua_don17",
-      "descendants": 4,
-      "id": 30122435,
-      "kids": [
-        30140765,
-        30140933
-      ],
-      "score": 24,
-      "time": 1643416395,
-      "title": "DDS: Build and library management tool for C, C++",
-      "type": "story",
-      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
-    },
-    "og_item": {
-      "title": "403 Forbidden",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30140464,
     "title": "The Great Unconformity: Research points to glaciers being the culprit",
     "url": "https://www.vice.com/en/article/wxdzzb/a-billion-years-of-time-are-mysteriously-missing-scientists-think-they-know-why",
@@ -1057,18 +1035,17 @@
     "points": 73,
     "comment_count": 4,
     "hn_item": {
-      "by": "oumua_don17",
+      "by": "lsllc",
       "descendants": 4,
-      "id": 30122435,
+      "id": 30142494,
       "kids": [
-        30140765,
-        30140933
+        30143090
       ],
-      "score": 24,
-      "time": 1643416395,
-      "title": "DDS: Build and library management tool for C, C++",
+      "score": 26,
+      "time": 1643586052,
+      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
       "type": "story",
-      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
     },
     "og_item": {
       "title": "A Billion Years of Time Are Mysteriously Missing. Scientists Think They Know Why.",
@@ -1097,6 +1074,57 @@
     }
   },
   {
+    "id": 30119925,
+    "title": "Message in a bottle from Scottish girl found in Norway after 25 years",
+    "url": "https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-60121185",
+    "time": 1643401844,
+    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/16512/production/_123001419_joanna2.jpg",
+    "icon": "https://www.bbc.co.uk/favicon.ico",
+    "publisher": "BBC News",
+    "description": "The bottle Joanna Buchan dropped in the sea at Peterhead when she was eight has washed up in Norway.",
+    "by": "LinuxBender",
+    "points": 98,
+    "comment_count": 10,
+    "hn_item": {
+      "by": "lsllc",
+      "descendants": 4,
+      "id": 30142494,
+      "kids": [
+        30143090
+      ],
+      "score": 26,
+      "time": 1643586052,
+      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
+      "type": "story",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
+    },
+    "og_item": {
+      "title": "Message in a bottle from Scottish girl found in Norway after 25 years",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/16512/production/_123001419_joanna2.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://www.bbc.com/news/uk-scotland-north-east-orkney-shetland-60121185",
+      "audio": [],
+      "description": "The bottle Joanna Buchan dropped in the sea at Peterhead when she was eight has washed up in Norway.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "BBC News",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30141022,
     "title": "BuildZoom (better way to build custom homes) Is hiring a Principal Engineer",
     "url": "https://jobs.lever.co/buildzoom",
@@ -1109,18 +1137,17 @@
     "points": 1,
     "comment_count": 0,
     "hn_item": {
-      "by": "oumua_don17",
+      "by": "lsllc",
       "descendants": 4,
-      "id": 30122435,
+      "id": 30142494,
       "kids": [
-        30140765,
-        30140933
+        30143090
       ],
-      "score": 24,
-      "time": 1643416395,
-      "title": "DDS: Build and library management tool for C, C++",
+      "score": 26,
+      "time": 1643586052,
+      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
       "type": "story",
-      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
     },
     "og_item": {
       "title": "BuildZoom jobs",
@@ -1161,18 +1188,17 @@
     "points": 68,
     "comment_count": 11,
     "hn_item": {
-      "by": "oumua_don17",
+      "by": "lsllc",
       "descendants": 4,
-      "id": 30122435,
+      "id": 30142494,
       "kids": [
-        30140765,
-        30140933
+        30143090
       ],
-      "score": 24,
-      "time": 1643416395,
-      "title": "DDS: Build and library management tool for C, C++",
+      "score": 26,
+      "time": 1643586052,
+      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
       "type": "story",
-      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
     },
     "og_item": {
       "title": "State of the Web: Static Site Generators",
@@ -1201,58 +1227,6 @@
     }
   },
   {
-    "id": 30119925,
-    "title": "Message in a bottle from Scottish girl found in Norway after 25 years",
-    "url": "https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-60121185",
-    "time": 1643401844,
-    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/16512/production/_123001419_joanna2.jpg",
-    "icon": "https://www.bbc.co.uk/favicon.ico",
-    "publisher": "BBC News",
-    "description": "The bottle Joanna Buchan dropped in the sea at Peterhead when she was eight has washed up in Norway.",
-    "by": "LinuxBender",
-    "points": 97,
-    "comment_count": 10,
-    "hn_item": {
-      "by": "oumua_don17",
-      "descendants": 4,
-      "id": 30122435,
-      "kids": [
-        30140765,
-        30140933
-      ],
-      "score": 24,
-      "time": 1643416395,
-      "title": "DDS: Build and library management tool for C, C++",
-      "type": "story",
-      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
-    },
-    "og_item": {
-      "title": "Message in a bottle from Scottish girl found in Norway after 25 years",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/16512/production/_123001419_joanna2.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://www.bbc.com/news/uk-scotland-north-east-orkney-shetland-60121185",
-      "audio": [],
-      "description": "The bottle Joanna Buchan dropped in the sea at Peterhead when she was eight has washed up in Norway.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "BBC News",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30131387,
     "title": "Game performance optimization – A practical example from Industry Idle",
     "url": "https://ruoyusun.com/2022/01/28/game-pref.html",
@@ -1262,21 +1236,20 @@
     "publisher": "ruoyusun.com",
     "description": "",
     "by": "insraq",
-    "points": 45,
+    "points": 46,
     "comment_count": 4,
     "hn_item": {
-      "by": "oumua_don17",
+      "by": "lsllc",
       "descendants": 4,
-      "id": 30122435,
+      "id": 30142494,
       "kids": [
-        30140765,
-        30140933
+        30143090
       ],
-      "score": 24,
-      "time": 1643416395,
-      "title": "DDS: Build and library management tool for C, C++",
+      "score": 26,
+      "time": 1643586052,
+      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
       "type": "story",
-      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
     },
     "og_item": {
       "title": "Game Performance Optimization - A Practical Example From Industry Idle",
@@ -1308,18 +1281,17 @@
     "points": 83,
     "comment_count": 12,
     "hn_item": {
-      "by": "oumua_don17",
+      "by": "lsllc",
       "descendants": 4,
-      "id": 30122435,
+      "id": 30142494,
       "kids": [
-        30140765,
-        30140933
+        30143090
       ],
-      "score": 24,
-      "time": 1643416395,
-      "title": "DDS: Build and library management tool for C, C++",
+      "score": 26,
+      "time": 1643586052,
+      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
       "type": "story",
-      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
     },
     "og_item": {
       "title": "When the Algorithm Is Your Boss",
@@ -1357,21 +1329,20 @@
     "publisher": "softpanorama.org",
     "description": "",
     "by": "ingve",
-    "points": 154,
+    "points": 155,
     "comment_count": 18,
     "hn_item": {
-      "by": "oumua_don17",
+      "by": "lsllc",
       "descendants": 4,
-      "id": 30122435,
+      "id": 30142494,
       "kids": [
-        30140765,
-        30140933
+        30143090
       ],
-      "score": 24,
-      "time": 1643416395,
-      "title": "DDS: Build and library management tool for C, C++",
+      "score": 26,
+      "time": 1643586052,
+      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
       "type": "story",
-      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
     },
     "og_item": {
       "title": "Midnight Commander Tips and Tricks",
@@ -1401,20 +1372,19 @@
     "description": "",
     "by": "ShamelessC",
     "points": 53,
-    "comment_count": 11,
+    "comment_count": 12,
     "hn_item": {
-      "by": "oumua_don17",
+      "by": "lsllc",
       "descendants": 4,
-      "id": 30122435,
+      "id": 30142494,
       "kids": [
-        30140765,
-        30140933
+        30143090
       ],
-      "score": 24,
-      "time": 1643416395,
-      "title": "DDS: Build and library management tool for C, C++",
+      "score": 26,
+      "time": 1643586052,
+      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
       "type": "story",
-      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
     },
     "og_item": {
       "title": "Streamlit",
@@ -1446,18 +1416,17 @@
     "points": 75,
     "comment_count": 12,
     "hn_item": {
-      "by": "oumua_don17",
+      "by": "lsllc",
       "descendants": 4,
-      "id": 30122435,
+      "id": 30142494,
       "kids": [
-        30140765,
-        30140933
+        30143090
       ],
-      "score": 24,
-      "time": 1643416395,
-      "title": "DDS: Build and library management tool for C, C++",
+      "score": 26,
+      "time": 1643586052,
+      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
       "type": "story",
-      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
     },
     "og_item": {
       "title": "COM+ revisited",
@@ -1495,21 +1464,20 @@
     "publisher": "TechCrunch",
     "description": "Today’s cars are dumb where they should be smart, and smart where they should be dumb. Enough already. Make a car that’s pretty much all dumb and watch it sell — because what automakers are giving people is so bad, they’ll pay more to have less of it. Cars now are like budget smar…",
     "by": "wrycoder",
-    "points": 34,
-    "comment_count": 5,
+    "points": 36,
+    "comment_count": 6,
     "hn_item": {
-      "by": "oumua_don17",
+      "by": "lsllc",
       "descendants": 4,
-      "id": 30122435,
+      "id": 30142494,
       "kids": [
-        30140765,
-        30140933
+        30143090
       ],
-      "score": 24,
-      "time": 1643416395,
-      "title": "DDS: Build and library management tool for C, C++",
+      "score": 26,
+      "time": 1643586052,
+      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
       "type": "story",
-      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
     },
     "og_item": {
       "title": "Please make a dumb car – TechCrunch",
@@ -1550,18 +1518,17 @@
     "points": 100,
     "comment_count": 7,
     "hn_item": {
-      "by": "oumua_don17",
+      "by": "lsllc",
       "descendants": 4,
-      "id": 30122435,
+      "id": 30142494,
       "kids": [
-        30140765,
-        30140933
+        30143090
       ],
-      "score": 24,
-      "time": 1643416395,
-      "title": "DDS: Build and library management tool for C, C++",
+      "score": 26,
+      "time": 1643586052,
+      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
       "type": "story",
-      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
     },
     "og_item": null
   },
@@ -1578,18 +1545,17 @@
     "points": 185,
     "comment_count": 39,
     "hn_item": {
-      "by": "oumua_don17",
+      "by": "lsllc",
       "descendants": 4,
-      "id": 30122435,
+      "id": 30142494,
       "kids": [
-        30140765,
-        30140933
+        30143090
       ],
-      "score": 24,
-      "time": 1643416395,
-      "title": "DDS: Build and library management tool for C, C++",
+      "score": 26,
+      "time": 1643586052,
+      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
       "type": "story",
-      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
     },
     "og_item": {
       "title": "“It’s a bloodbath”: U.S. companies are pillaging Latin America’s tech talent",
@@ -1630,18 +1596,17 @@
     "points": 20,
     "comment_count": 3,
     "hn_item": {
-      "by": "oumua_don17",
+      "by": "lsllc",
       "descendants": 4,
-      "id": 30122435,
+      "id": 30142494,
       "kids": [
-        30140765,
-        30140933
+        30143090
       ],
-      "score": 24,
-      "time": 1643416395,
-      "title": "DDS: Build and library management tool for C, C++",
+      "score": 26,
+      "time": 1643586052,
+      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
       "type": "story",
-      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
     },
     "og_item": {
       "title": "Unconscious R\u0026D",
@@ -1670,58 +1635,6 @@
     }
   },
   {
-    "id": 30144083,
-    "title": "Rents are up 40 percent in some cities, forcing millions to move",
-    "url": "https://www.washingtonpost.com/business/2022/01/30/rent-inflation-housing/",
-    "time": 1643599234,
-    "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QJQ7K2D774I6ZDGIW2LFMS5HSY.jpg\u0026w=1440",
-    "icon": "https://www.washingtonpost.com/wp-stat/assets/favicons/touch-icon-iphone.png",
-    "publisher": "Washington Post",
-    "description": "Rising rents are also expected to be a driving force in inflation this year and have been an ongoing policy challenge for the Biden administration.",
-    "by": "MilnerRoute",
-    "points": 72,
-    "comment_count": 12,
-    "hn_item": {
-      "by": "oumua_don17",
-      "descendants": 4,
-      "id": 30122435,
-      "kids": [
-        30140765,
-        30140933
-      ],
-      "score": 24,
-      "time": 1643416395,
-      "title": "DDS: Build and library management tool for C, C++",
-      "type": "story",
-      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
-    },
-    "og_item": {
-      "title": "Rents are up 40 percent in some cities, forcing millions to find another place to live",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QJQ7K2D774I6ZDGIW2LFMS5HSY.jpg\u0026w=1440",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://www.washingtonpost.com/business/2022/01/30/rent-inflation-housing/",
-      "audio": [],
-      "description": "Rising rents are also expected to be a driving force in inflation this year and have been an ongoing policy challenge for the Biden administration.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Washington Post",
-      "video": [],
-      "favicon": {
-        "url": "https://www.washingtonpost.com/wp-stat/assets/favicons/touch-icon-iphone.png"
-      }
-    }
-  },
-  {
     "id": 30142247,
     "title": "Basic Cryptography – The Vigenere Cipher",
     "url": "https://eric.mann.blog/basic-cryptography-the-vigenere-cipher/",
@@ -1734,18 +1647,17 @@
     "points": 28,
     "comment_count": 6,
     "hn_item": {
-      "by": "oumua_don17",
+      "by": "lsllc",
       "descendants": 4,
-      "id": 30122435,
+      "id": 30142494,
       "kids": [
-        30140765,
-        30140933
+        30143090
       ],
-      "score": 24,
-      "time": 1643416395,
-      "title": "DDS: Build and library management tool for C, C++",
+      "score": 26,
+      "time": 1643586052,
+      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
       "type": "story",
-      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
     },
     "og_item": {
       "title": "Basic cryptography - the Vigenere cipher - Eric Mann's Blog",
@@ -1778,7 +1690,7 @@
     "title": "FunctionStomping – A new shellcode injection technique",
     "url": "https://github.com/Idov31/FunctionStomping",
     "time": 1643533222,
-    "image": "https://opengraph.githubassets.com/3e5ae622099eb47e710f07856f4be2a647ec35c3a4b33fa21790d61fb0b8b380/Idov31/FunctionStomping",
+    "image": "https://opengraph.githubassets.com/0f84129ae8190c59d47d34df949b3bd1b673cc282e5a9d024e2eca5eed569b86/Idov31/FunctionStomping",
     "icon": "https://github.githubassets.com/favicons/favicon.svg",
     "publisher": "GitHub",
     "description": "A new shellcode injection technique. Given as C++ header or standalone Rust program. - GitHub - Idov31/FunctionStomping: A new shellcode injection technique. Given as C++ header or standalone Rust ...",
@@ -1786,25 +1698,24 @@
     "points": 33,
     "comment_count": 3,
     "hn_item": {
-      "by": "oumua_don17",
+      "by": "lsllc",
       "descendants": 4,
-      "id": 30122435,
+      "id": 30142494,
       "kids": [
-        30140765,
-        30140933
+        30143090
       ],
-      "score": 24,
-      "time": 1643416395,
-      "title": "DDS: Build and library management tool for C, C++",
+      "score": 26,
+      "time": 1643586052,
+      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
       "type": "story",
-      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
     },
     "og_item": {
       "title": "GitHub - Idov31/FunctionStomping: A new shellcode injection technique. Given as C++ header or standalone Rust program.",
       "type": "object",
       "image": [
         {
-          "url": "https://opengraph.githubassets.com/3e5ae622099eb47e710f07856f4be2a647ec35c3a4b33fa21790d61fb0b8b380/Idov31/FunctionStomping",
+          "url": "https://opengraph.githubassets.com/0f84129ae8190c59d47d34df949b3bd1b673cc282e5a9d024e2eca5eed569b86/Idov31/FunctionStomping",
           "secure_url": "",
           "type": "",
           "width": 1200,
@@ -1826,6 +1737,57 @@
     }
   },
   {
+    "id": 30144083,
+    "title": "Rents are up 40 percent in some cities, forcing millions to move",
+    "url": "https://www.washingtonpost.com/business/2022/01/30/rent-inflation-housing/",
+    "time": 1643599234,
+    "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QJQ7K2D774I6ZDGIW2LFMS5HSY.jpg\u0026w=1440",
+    "icon": "https://www.washingtonpost.com/wp-stat/assets/favicons/touch-icon-iphone.png",
+    "publisher": "Washington Post",
+    "description": "Rising rents are also expected to be a driving force in inflation this year and have been an ongoing policy challenge for the Biden administration.",
+    "by": "MilnerRoute",
+    "points": 73,
+    "comment_count": 12,
+    "hn_item": {
+      "by": "lsllc",
+      "descendants": 4,
+      "id": 30142494,
+      "kids": [
+        30143090
+      ],
+      "score": 26,
+      "time": 1643586052,
+      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
+      "type": "story",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
+    },
+    "og_item": {
+      "title": "Rents are up 40 percent in some cities, forcing millions to find another place to live",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QJQ7K2D774I6ZDGIW2LFMS5HSY.jpg\u0026w=1440",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://www.washingtonpost.com/business/2022/01/30/rent-inflation-housing/",
+      "audio": [],
+      "description": "Rising rents are also expected to be a driving force in inflation this year and have been an ongoing policy challenge for the Biden administration.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Washington Post",
+      "video": [],
+      "favicon": {
+        "url": "https://www.washingtonpost.com/wp-stat/assets/favicons/touch-icon-iphone.png"
+      }
+    }
+  },
+  {
     "id": 30115520,
     "title": "Pearls Before Breakfast (2007)",
     "url": "https://www.washingtonpost.com/lifestyle/magazine/pearls-before-breakfast-can-one-of-the-nations-great-musicians-cut-through-the-fog-of-a-dc-rush-hour-lets-find-out/2014/09/23/8a6d46da-4331-11e4-b47c-f5889e061e5f_story.html",
@@ -1838,18 +1800,17 @@
     "points": 11,
     "comment_count": 7,
     "hn_item": {
-      "by": "oumua_don17",
+      "by": "lsllc",
       "descendants": 4,
-      "id": 30122435,
+      "id": 30142494,
       "kids": [
-        30140765,
-        30140933
+        30143090
       ],
-      "score": 24,
-      "time": 1643416395,
-      "title": "DDS: Build and library management tool for C, C++",
+      "score": 26,
+      "time": 1643586052,
+      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
       "type": "story",
-      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
     },
     "og_item": {
       "title": "Pearls Before Breakfast: Can one of the nation’s great musicians cut through the fog of a D.C. rush hour? Let’s find out.",
@@ -1890,18 +1851,17 @@
     "points": 50,
     "comment_count": 7,
     "hn_item": {
-      "by": "oumua_don17",
+      "by": "lsllc",
       "descendants": 4,
-      "id": 30122435,
+      "id": 30142494,
       "kids": [
-        30140765,
-        30140933
+        30143090
       ],
-      "score": 24,
-      "time": 1643416395,
-      "title": "DDS: Build and library management tool for C, C++",
+      "score": 26,
+      "time": 1643586052,
+      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
       "type": "story",
-      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
     },
     "og_item": {
       "title": "Using tree data structures to implement terminal split panes - more fun than it sounds",
@@ -1939,21 +1899,20 @@
     "publisher": "blog.crunchydata.com",
     "description": "An interesting question came up on the #postgresql IRC channel about how to use native PostgreSQL features to handle some sort of queuing behavior. While the specific usage was related to handling serialization of specific events to some external broker, the specifics are less important than the …",
     "by": "Scramblejams",
-    "points": 114,
+    "points": 115,
     "comment_count": 9,
     "hn_item": {
-      "by": "oumua_don17",
+      "by": "lsllc",
       "descendants": 4,
-      "id": 30122435,
+      "id": 30142494,
       "kids": [
-        30140765,
-        30140933
+        30143090
       ],
-      "score": 24,
-      "time": 1643416395,
-      "title": "DDS: Build and library management tool for C, C++",
+      "score": 26,
+      "time": 1643586052,
+      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
       "type": "story",
-      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
     },
     "og_item": {
       "title": "Devious SQL: Message Queuing Using Native PostgreSQL",
@@ -1994,18 +1953,17 @@
     "points": 77,
     "comment_count": 17,
     "hn_item": {
-      "by": "oumua_don17",
+      "by": "lsllc",
       "descendants": 4,
-      "id": 30122435,
+      "id": 30142494,
       "kids": [
-        30140765,
-        30140933
+        30143090
       ],
-      "score": 24,
-      "time": 1643416395,
-      "title": "DDS: Build and library management tool for C, C++",
+      "score": 26,
+      "time": 1643586052,
+      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
       "type": "story",
-      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
     },
     "og_item": {
       "title": "Autonomous battery-powered rail cars could steal shipments from truckers",
@@ -2046,18 +2004,17 @@
     "points": 33,
     "comment_count": 0,
     "hn_item": {
-      "by": "oumua_don17",
+      "by": "lsllc",
       "descendants": 4,
-      "id": 30122435,
+      "id": 30142494,
       "kids": [
-        30140765,
-        30140933
+        30143090
       ],
-      "score": 24,
-      "time": 1643416395,
-      "title": "DDS: Build and library management tool for C, C++",
+      "score": 26,
+      "time": 1643586052,
+      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
       "type": "story",
-      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
     },
     "og_item": {
       "title": "Mix and match mental models.",
@@ -2095,21 +2052,20 @@
     "publisher": "zeux.io",
     "description": "",
     "by": "nabla9",
-    "points": 75,
+    "points": 76,
     "comment_count": 5,
     "hn_item": {
-      "by": "oumua_don17",
+      "by": "lsllc",
       "descendants": 4,
-      "id": 30122435,
+      "id": 30142494,
       "kids": [
-        30140765,
-        30140933
+        30143090
       ],
-      "score": 24,
-      "time": 1643416395,
-      "title": "DDS: Build and library management tool for C, C++",
+      "score": 26,
+      "time": 1643586052,
+      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
       "type": "story",
-      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
     },
     "og_item": {
       "title": "\n    zeux.io - Writing an efficient Vulkan renderer\n  ",
@@ -2129,6 +2085,99 @@
     }
   },
   {
+    "id": 30144892,
+    "title": "Kia’s new EV6 electric crossover goes straight to the head of the pack",
+    "url": "https://arstechnica.com/cars/2022/01/kias-new-ev6-electric-crossover-goes-straight-to-the-head-of-the-pack/",
+    "time": 1643607086,
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/01/Kia-EV6-1-760x380.jpg",
+    "icon": "https://cdn.arstechnica.net/wp-content/themes/ars/assets/img/material-ars-db41652381.png",
+    "publisher": "Ars Technica",
+    "description": "It's highly efficient, fun to drive, and loaded with equipment, too.",
+    "by": "feross",
+    "points": 5,
+    "comment_count": 1,
+    "hn_item": {
+      "by": "lsllc",
+      "descendants": 4,
+      "id": 30142494,
+      "kids": [
+        30143090
+      ],
+      "score": 26,
+      "time": 1643586052,
+      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
+      "type": "story",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
+    },
+    "og_item": {
+      "title": "Kia’s new EV6 electric crossover goes straight to the head of the pack",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/01/Kia-EV6-1-760x380.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://arstechnica.com/cars/2022/01/kias-new-ev6-electric-crossover-goes-straight-to-the-head-of-the-pack/",
+      "audio": [],
+      "description": "It's highly efficient, fun to drive, and loaded with equipment, too.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Ars Technica",
+      "video": [],
+      "favicon": {
+        "url": "https://cdn.arstechnica.net/wp-content/themes/ars/assets/img/material-ars-db41652381.png"
+      }
+    }
+  },
+  {
+    "id": 30142106,
+    "title": "Yoga and meditation do not quiet the ego but instead boost self-enhancement (2018)",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/0956797618764621",
+    "time": 1643583242,
+    "image": "",
+    "icon": "https://journals.sagepub.com/favicon.ico",
+    "publisher": "journals.sagepub.com",
+    "description": "",
+    "by": "FrojoS",
+    "points": 20,
+    "comment_count": 8,
+    "hn_item": {
+      "by": "lsllc",
+      "descendants": 4,
+      "id": 30142494,
+      "kids": [
+        30143090
+      ],
+      "score": 26,
+      "time": 1643586052,
+      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
+      "type": "story",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
+    },
+    "og_item": {
+      "title": "Just a moment...",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30110679,
     "title": "Bringing Ancient Pottery to Life",
     "url": "https://news.harvard.edu/gazette/story/2021/09/harvard-ceramics-program-recreates-art-museums-pieces/",
@@ -2141,18 +2190,17 @@
     "points": 14,
     "comment_count": 1,
     "hn_item": {
-      "by": "oumua_don17",
+      "by": "lsllc",
       "descendants": 4,
-      "id": 30122435,
+      "id": 30142494,
       "kids": [
-        30140765,
-        30140933
+        30143090
       ],
-      "score": 24,
-      "time": 1643416395,
-      "title": "DDS: Build and library management tool for C, C++",
+      "score": 26,
+      "time": 1643586052,
+      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
       "type": "story",
-      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
     },
     "og_item": {
       "title": "Harvard ceramics program recreates Art Museums’ pieces",
@@ -2181,58 +2229,6 @@
     }
   },
   {
-    "id": 30143377,
-    "title": "A Simple Transformer Implementation(PyTorch) Without Difficult Syntax",
-    "url": "https://github.com/IpsumDominum/Pytorch-Simple-Transformer",
-    "time": 1643592608,
-    "image": "https://opengraph.githubassets.com/a6a0f18e050ef8520d18eb7b37ebab168aeaf369d33f630e29136dd51468facf/IpsumDominum/Pytorch-Simple-Transformer",
-    "icon": "https://github.githubassets.com/favicons/favicon.svg",
-    "publisher": "GitHub",
-    "description": "A simple transformer implementation without difficult syntax and extra bells and whistles. - GitHub - IpsumDominum/Pytorch-Simple-Transformer: A simple transformer implementation without difficult ...",
-    "by": "IpsumDominum",
-    "points": 7,
-    "comment_count": 1,
-    "hn_item": {
-      "by": "oumua_don17",
-      "descendants": 4,
-      "id": 30122435,
-      "kids": [
-        30140765,
-        30140933
-      ],
-      "score": 24,
-      "time": 1643416395,
-      "title": "DDS: Build and library management tool for C, C++",
-      "type": "story",
-      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
-    },
-    "og_item": {
-      "title": "GitHub - IpsumDominum/Pytorch-Simple-Transformer: A simple transformer implementation without difficult syntax and extra bells and whistles.",
-      "type": "object",
-      "image": [
-        {
-          "url": "https://opengraph.githubassets.com/a6a0f18e050ef8520d18eb7b37ebab168aeaf369d33f630e29136dd51468facf/IpsumDominum/Pytorch-Simple-Transformer",
-          "secure_url": "",
-          "type": "",
-          "width": 1200,
-          "height": 600,
-          "alt": ""
-        }
-      ],
-      "url": "https://github.com/IpsumDominum/Pytorch-Simple-Transformer",
-      "audio": [],
-      "description": "A simple transformer implementation without difficult syntax and extra bells and whistles. - GitHub - IpsumDominum/Pytorch-Simple-Transformer: A simple transformer implementation without difficult ...",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "GitHub",
-      "video": [],
-      "favicon": {
-        "url": "https://github.githubassets.com/favicons/favicon.svg"
-      }
-    }
-  },
-  {
     "id": 30138277,
     "title": "Set up a website with Nim (2019)",
     "url": "https://ttj.dk/blog/2019/01/20/setup-a-website-with-nim",
@@ -2245,18 +2241,17 @@
     "points": 77,
     "comment_count": 7,
     "hn_item": {
-      "by": "oumua_don17",
+      "by": "lsllc",
       "descendants": 4,
-      "id": 30122435,
+      "id": 30142494,
       "kids": [
-        30140765,
-        30140933
+        30143090
       ],
-      "score": 24,
-      "time": 1643416395,
-      "title": "DDS: Build and library management tool for C, C++",
+      "score": 26,
+      "time": 1643586052,
+      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
       "type": "story",
-      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
     },
     "og_item": {
       "title": " Nim tutorial for setting up a website. ",
@@ -2288,18 +2283,17 @@
     "points": 187,
     "comment_count": 10,
     "hn_item": {
-      "by": "oumua_don17",
+      "by": "lsllc",
       "descendants": 4,
-      "id": 30122435,
+      "id": 30142494,
       "kids": [
-        30140765,
-        30140933
+        30143090
       ],
-      "score": 24,
-      "time": 1643416395,
-      "title": "DDS: Build and library management tool for C, C++",
+      "score": 26,
+      "time": 1643586052,
+      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
       "type": "story",
-      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
     },
     "og_item": {
       "title": "Toxic Black Mold Is Growing On My Brain",
@@ -2328,80 +2322,36 @@
     }
   },
   {
-    "id": 30142106,
-    "title": "Yoga and meditation do not quiet the ego but instead boost self-enhancement (2018)",
-    "url": "https://journals.sagepub.com/doi/abs/10.1177/0956797618764621",
-    "time": 1643583242,
-    "image": "",
-    "icon": "https://journals.sagepub.com/favicon.ico",
-    "publisher": "journals.sagepub.com",
-    "description": "",
-    "by": "FrojoS",
-    "points": 19,
-    "comment_count": 8,
-    "hn_item": {
-      "by": "oumua_don17",
-      "descendants": 4,
-      "id": 30122435,
-      "kids": [
-        30140765,
-        30140933
-      ],
-      "score": 24,
-      "time": 1643416395,
-      "title": "DDS: Build and library management tool for C, C++",
-      "type": "story",
-      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
-    },
-    "og_item": {
-      "title": "Just a moment...",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30129565,
-    "title": "Static-Let, or how I Learned to stop worrying and love Load-Time-Value",
-    "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md",
-    "time": 1643484611,
-    "image": "https://opengraph.githubassets.com/ea544d0bb229911171eaeb56aeac2f73687bc3e4eb5ff0b1c01769be3a010e5c/phoe/articles",
+    "id": 30143377,
+    "title": "A Simple Transformer Implementation(PyTorch) Without Difficult Syntax",
+    "url": "https://github.com/IpsumDominum/Pytorch-Simple-Transformer",
+    "time": 1643592608,
+    "image": "https://opengraph.githubassets.com/a6a0f18e050ef8520d18eb7b37ebab168aeaf369d33f630e29136dd51468facf/IpsumDominum/Pytorch-Simple-Transformer",
     "icon": "https://github.githubassets.com/favicons/favicon.svg",
     "publisher": "GitHub",
-    "description": "An assorted gathering of the Lisp posts and articles I make. - articles/static-let.md at main · phoe/articles",
-    "by": "phoe-krk",
-    "points": 9,
-    "comment_count": 2,
+    "description": "A simple transformer implementation without difficult syntax and extra bells and whistles. - GitHub - IpsumDominum/Pytorch-Simple-Transformer: A simple transformer implementation without difficult ...",
+    "by": "IpsumDominum",
+    "points": 7,
+    "comment_count": 1,
     "hn_item": {
-      "by": "oumua_don17",
+      "by": "lsllc",
       "descendants": 4,
-      "id": 30122435,
+      "id": 30142494,
       "kids": [
-        30140765,
-        30140933
+        30143090
       ],
-      "score": 24,
-      "time": 1643416395,
-      "title": "DDS: Build and library management tool for C, C++",
+      "score": 26,
+      "time": 1643586052,
+      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
       "type": "story",
-      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
     },
     "og_item": {
-      "title": "articles/static-let.md at main · phoe/articles",
+      "title": "GitHub - IpsumDominum/Pytorch-Simple-Transformer: A simple transformer implementation without difficult syntax and extra bells and whistles.",
       "type": "object",
       "image": [
         {
-          "url": "https://opengraph.githubassets.com/ea544d0bb229911171eaeb56aeac2f73687bc3e4eb5ff0b1c01769be3a010e5c/phoe/articles",
+          "url": "https://opengraph.githubassets.com/a6a0f18e050ef8520d18eb7b37ebab168aeaf369d33f630e29136dd51468facf/IpsumDominum/Pytorch-Simple-Transformer",
           "secure_url": "",
           "type": "",
           "width": 1200,
@@ -2409,9 +2359,9 @@
           "alt": ""
         }
       ],
-      "url": "https://github.com/phoe/articles",
+      "url": "https://github.com/IpsumDominum/Pytorch-Simple-Transformer",
       "audio": [],
-      "description": "An assorted gathering of the Lisp posts and articles I make. - articles/static-let.md at main · phoe/articles",
+      "description": "A simple transformer implementation without difficult syntax and extra bells and whistles. - GitHub - IpsumDominum/Pytorch-Simple-Transformer: A simple transformer implementation without difficult ...",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
@@ -2435,18 +2385,17 @@
     "points": 227,
     "comment_count": 25,
     "hn_item": {
-      "by": "oumua_don17",
+      "by": "lsllc",
       "descendants": 4,
-      "id": 30122435,
+      "id": 30142494,
       "kids": [
-        30140765,
-        30140933
+        30143090
       ],
-      "score": 24,
-      "time": 1643416395,
-      "title": "DDS: Build and library management tool for C, C++",
+      "score": 26,
+      "time": 1643586052,
+      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
       "type": "story",
-      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
     },
     "og_item": {
       "title": "Sega quits Japanese arcade business after 50 years",
@@ -2487,18 +2436,17 @@
     "points": 136,
     "comment_count": 12,
     "hn_item": {
-      "by": "oumua_don17",
+      "by": "lsllc",
       "descendants": 4,
-      "id": 30122435,
+      "id": 30142494,
       "kids": [
-        30140765,
-        30140933
+        30143090
       ],
-      "score": 24,
-      "time": 1643416395,
-      "title": "DDS: Build and library management tool for C, C++",
+      "score": 26,
+      "time": 1643586052,
+      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
       "type": "story",
-      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
     },
     "og_item": {
       "title": "Ask HN: Has anyone leveraged GDPR to overturn automated bans? | Hacker News",
@@ -2518,6 +2466,57 @@
     }
   },
   {
+    "id": 30129565,
+    "title": "Static-Let, or how I Learned to stop worrying and love Load-Time-Value",
+    "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md",
+    "time": 1643484611,
+    "image": "https://opengraph.githubassets.com/ea544d0bb229911171eaeb56aeac2f73687bc3e4eb5ff0b1c01769be3a010e5c/phoe/articles",
+    "icon": "https://github.githubassets.com/favicons/favicon.svg",
+    "publisher": "GitHub",
+    "description": "An assorted gathering of the Lisp posts and articles I make. - articles/static-let.md at main · phoe/articles",
+    "by": "phoe-krk",
+    "points": 9,
+    "comment_count": 2,
+    "hn_item": {
+      "by": "lsllc",
+      "descendants": 4,
+      "id": 30142494,
+      "kids": [
+        30143090
+      ],
+      "score": 26,
+      "time": 1643586052,
+      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
+      "type": "story",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
+    },
+    "og_item": {
+      "title": "articles/static-let.md at main · phoe/articles",
+      "type": "object",
+      "image": [
+        {
+          "url": "https://opengraph.githubassets.com/ea544d0bb229911171eaeb56aeac2f73687bc3e4eb5ff0b1c01769be3a010e5c/phoe/articles",
+          "secure_url": "",
+          "type": "",
+          "width": 1200,
+          "height": 600,
+          "alt": ""
+        }
+      ],
+      "url": "https://github.com/phoe/articles",
+      "audio": [],
+      "description": "An assorted gathering of the Lisp posts and articles I make. - articles/static-let.md at main · phoe/articles",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "GitHub",
+      "video": [],
+      "favicon": {
+        "url": "https://github.githubassets.com/favicons/favicon.svg"
+      }
+    }
+  },
+  {
     "id": 30137681,
     "title": "In defence of the boring web",
     "url": "https://bastian.rieck.me/blog/posts/2022/boring/",
@@ -2530,18 +2529,17 @@
     "points": 203,
     "comment_count": 23,
     "hn_item": {
-      "by": "oumua_don17",
+      "by": "lsllc",
       "descendants": 4,
-      "id": 30122435,
+      "id": 30142494,
       "kids": [
-        30140765,
-        30140933
+        30143090
       ],
-      "score": 24,
-      "time": 1643416395,
-      "title": "DDS: Build and library management tool for C, C++",
+      "score": 26,
+      "time": 1643586052,
+      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
       "type": "story",
-      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
     },
     "og_item": {
       "title": "In Defence of the Boring Web",
@@ -2573,18 +2571,17 @@
     "points": 35,
     "comment_count": 5,
     "hn_item": {
-      "by": "oumua_don17",
+      "by": "lsllc",
       "descendants": 4,
-      "id": 30122435,
+      "id": 30142494,
       "kids": [
-        30140765,
-        30140933
+        30143090
       ],
-      "score": 24,
-      "time": 1643416395,
-      "title": "DDS: Build and library management tool for C, C++",
+      "score": 26,
+      "time": 1643586052,
+      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
       "type": "story",
-      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
     },
     "og_item": {
       "title": "Show the case against - shubhro.com",
@@ -2604,6 +2601,57 @@
     }
   },
   {
+    "id": 30132612,
+    "title": "John Locke’s recipe for Pancakes (2021)",
+    "url": "https://rarecooking.com/2021/12/14/john-lockes-recipe-for-pancakes/",
+    "time": 1643505299,
+    "image": "https://rarecooking.files.wordpress.com/2021/08/locke-pancakes-bodleian-ms-locke-c.25-f.85.png?w=900",
+    "icon": "https://s0.wp.com/i/favicon.ico",
+    "publisher": "Cooking in the Archives",
+    "description": "A collection of philosopher John Locke’s papers at the Bodleian Library includes letters, accounts, poetry, notes on medicine and books, and recipes. When David Armitage posted this recipe fo…",
+    "by": "pepys",
+    "points": 258,
+    "comment_count": 32,
+    "hn_item": {
+      "by": "lsllc",
+      "descendants": 4,
+      "id": 30142494,
+      "kids": [
+        30143090
+      ],
+      "score": 26,
+      "time": 1643586052,
+      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
+      "type": "story",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
+    },
+    "og_item": {
+      "title": "John Locke’s recipe for Pancakes",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://rarecooking.files.wordpress.com/2021/08/locke-pancakes-bodleian-ms-locke-c.25-f.85.png?w=900",
+          "secure_url": "",
+          "type": "",
+          "width": 900,
+          "height": 1200,
+          "alt": ""
+        }
+      ],
+      "url": "https://rarecooking.com/2021/12/14/john-lockes-recipe-for-pancakes/",
+      "audio": [],
+      "description": "A collection of philosopher John Locke’s papers at the Bodleian Library includes letters, accounts, poetry, notes on medicine and books, and recipes. When David Armitage posted this recipe fo…",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Cooking in the Archives",
+      "video": [],
+      "favicon": {
+        "url": "https://s0.wp.com/i/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30116262,
     "title": "A Padlock I’d Use [video]",
     "url": "https://www.youtube.com/watch?v=HrV86GqlY8o",
@@ -2616,18 +2664,17 @@
     "points": 143,
     "comment_count": 7,
     "hn_item": {
-      "by": "oumua_don17",
+      "by": "lsllc",
       "descendants": 4,
-      "id": 30122435,
+      "id": 30142494,
       "kids": [
-        30140765,
-        30140933
+        30143090
       ],
-      "score": 24,
-      "time": 1643416395,
-      "title": "DDS: Build and library management tool for C, C++",
+      "score": 26,
+      "time": 1643586052,
+      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
       "type": "story",
-      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
     },
     "og_item": {
       "title": "[1398] A Padlock I’d Use: Abus Granit 37RK/80 (Pick \u0026 Gut)",
@@ -2665,110 +2712,6 @@
     }
   },
   {
-    "id": 30132612,
-    "title": "John Locke’s recipe for Pancakes (2021)",
-    "url": "https://rarecooking.com/2021/12/14/john-lockes-recipe-for-pancakes/",
-    "time": 1643505299,
-    "image": "https://rarecooking.files.wordpress.com/2021/08/locke-pancakes-bodleian-ms-locke-c.25-f.85.png?w=900",
-    "icon": "https://s0.wp.com/i/favicon.ico",
-    "publisher": "Cooking in the Archives",
-    "description": "A collection of philosopher John Locke’s papers at the Bodleian Library includes letters, accounts, poetry, notes on medicine and books, and recipes. When David Armitage posted this recipe fo…",
-    "by": "pepys",
-    "points": 258,
-    "comment_count": 32,
-    "hn_item": {
-      "by": "oumua_don17",
-      "descendants": 4,
-      "id": 30122435,
-      "kids": [
-        30140765,
-        30140933
-      ],
-      "score": 24,
-      "time": 1643416395,
-      "title": "DDS: Build and library management tool for C, C++",
-      "type": "story",
-      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
-    },
-    "og_item": {
-      "title": "John Locke’s recipe for Pancakes",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://rarecooking.files.wordpress.com/2021/08/locke-pancakes-bodleian-ms-locke-c.25-f.85.png?w=900",
-          "secure_url": "",
-          "type": "",
-          "width": 900,
-          "height": 1200,
-          "alt": ""
-        }
-      ],
-      "url": "https://rarecooking.com/2021/12/14/john-lockes-recipe-for-pancakes/",
-      "audio": [],
-      "description": "A collection of philosopher John Locke’s papers at the Bodleian Library includes letters, accounts, poetry, notes on medicine and books, and recipes. When David Armitage posted this recipe fo…",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Cooking in the Archives",
-      "video": [],
-      "favicon": {
-        "url": "https://s0.wp.com/i/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30144041,
-    "title": "Autonomous Detection and Deterrence of Pigeons on Buildings by Drones",
-    "url": "https://ieeexplore.ieee.org/document/9656717",
-    "time": 1643598627,
-    "image": "https://ieeexplore.ieee.org/ielx7/6287639/9668973/9656717/graphical_abstract/access-gacovergraphic-3137031.jpg",
-    "icon": "https://ieeexplore.ieee.org/favicon.ico",
-    "publisher": "ieeexplore.ieee.org",
-    "description": "Pigeons may transmit diseases to humans and cause damages to buildings, monuments, and other infrastructure. Therefore, several control strategies have been developed, but they have been found to be either ineffective or harmful to animals and often depend on human operation. This study proposes …",
-    "by": "openknot",
-    "points": 3,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "oumua_don17",
-      "descendants": 4,
-      "id": 30122435,
-      "kids": [
-        30140765,
-        30140933
-      ],
-      "score": 24,
-      "time": 1643416395,
-      "title": "DDS: Build and library management tool for C, C++",
-      "type": "story",
-      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
-    },
-    "og_item": {
-      "title": "Autonomous Detection and Deterrence of Pigeons on Buildings by Drones",
-      "type": "",
-      "image": [
-        {
-          "url": "https://ieeexplore.ieee.org/ielx7/6287639/9668973/9656717/graphical_abstract/access-gacovergraphic-3137031.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "",
-      "audio": [],
-      "description": "Pigeons may transmit diseases to humans and cause damages to buildings, monuments, and other infrastructure. Therefore, several control strategies have been developed, but they have been found to be either ineffective or harmful to animals and often depend on human operation. This study proposes a system capable of autonomously detecting and deterring pigeons on building roofs using a drone. The presence and position of pigeons were detected in real time by a neural network using images taken by a video camera located on the roof. Moreover, a drone was utilized to deter the animals. Field experiments were conducted in a real-world urban setting to assess the proposed system by comparing the number of animals and their stay durations for over five days against the 21-day-trial experiment without the drone. During the five days of experiments, the drone was automatically deployed 55 times and was significantly effective in reducing the number of birds and their stay durations without causing any harm to them. In conclusion, this study has proven the effectiveness of this system in deterring birds, and this approach can be seen as a fully autonomous alternative to the already existing methods.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30111373,
     "title": "What is FORGE?",
     "url": "https://www.energy.gov/eere/geothermal/what-forge",
@@ -2781,18 +2724,17 @@
     "points": 64,
     "comment_count": 5,
     "hn_item": {
-      "by": "oumua_don17",
+      "by": "lsllc",
       "descendants": 4,
-      "id": 30122435,
+      "id": 30142494,
       "kids": [
-        30140765,
-        30140933
+        30143090
       ],
-      "score": 24,
-      "time": 1643416395,
-      "title": "DDS: Build and library management tool for C, C++",
+      "score": 26,
+      "time": 1643586052,
+      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
       "type": "story",
-      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
     },
     "og_item": {
       "title": "What is FORGE?",
@@ -2824,18 +2766,17 @@
     "points": 25,
     "comment_count": 2,
     "hn_item": {
-      "by": "oumua_don17",
+      "by": "lsllc",
       "descendants": 4,
-      "id": 30122435,
+      "id": 30142494,
       "kids": [
-        30140765,
-        30140933
+        30143090
       ],
-      "score": 24,
-      "time": 1643416395,
-      "title": "DDS: Build and library management tool for C, C++",
+      "score": 26,
+      "time": 1643586052,
+      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
       "type": "story",
-      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
     },
     "og_item": {
       "title": "The Game of War: An Overview | Alexander R. Galloway",
@@ -2864,6 +2805,57 @@
     }
   },
   {
+    "id": 30144041,
+    "title": "Autonomous Detection and Deterrence of Pigeons on Buildings by Drones",
+    "url": "https://ieeexplore.ieee.org/document/9656717",
+    "time": 1643598627,
+    "image": "https://ieeexplore.ieee.org/ielx7/6287639/9668973/9656717/graphical_abstract/access-gacovergraphic-3137031.jpg",
+    "icon": "https://ieeexplore.ieee.org/favicon.ico",
+    "publisher": "ieeexplore.ieee.org",
+    "description": "Pigeons may transmit diseases to humans and cause damages to buildings, monuments, and other infrastructure. Therefore, several control strategies have been developed, but they have been found to be either ineffective or harmful to animals and often depend on human operation. This study proposes …",
+    "by": "openknot",
+    "points": 3,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "lsllc",
+      "descendants": 4,
+      "id": 30142494,
+      "kids": [
+        30143090
+      ],
+      "score": 26,
+      "time": 1643586052,
+      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
+      "type": "story",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
+    },
+    "og_item": {
+      "title": "Autonomous Detection and Deterrence of Pigeons on Buildings by Drones",
+      "type": "",
+      "image": [
+        {
+          "url": "https://ieeexplore.ieee.org/ielx7/6287639/9668973/9656717/graphical_abstract/access-gacovergraphic-3137031.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "",
+      "audio": [],
+      "description": "Pigeons may transmit diseases to humans and cause damages to buildings, monuments, and other infrastructure. Therefore, several control strategies have been developed, but they have been found to be either ineffective or harmful to animals and often depend on human operation. This study proposes a system capable of autonomously detecting and deterring pigeons on building roofs using a drone. The presence and position of pigeons were detected in real time by a neural network using images taken by a video camera located on the roof. Moreover, a drone was utilized to deter the animals. Field experiments were conducted in a real-world urban setting to assess the proposed system by comparing the number of animals and their stay durations for over five days against the 21-day-trial experiment without the drone. During the five days of experiments, the drone was automatically deployed 55 times and was significantly effective in reducing the number of birds and their stay durations without causing any harm to them. In conclusion, this study has proven the effectiveness of this system in deterring birds, and this approach can be seen as a fully autonomous alternative to the already existing methods.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30142896,
     "title": "Decrypt an encrypted message to any plaintext",
     "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts",
@@ -2876,18 +2868,17 @@
     "points": 12,
     "comment_count": 1,
     "hn_item": {
-      "by": "oumua_don17",
+      "by": "lsllc",
       "descendants": 4,
-      "id": 30122435,
+      "id": 30142494,
       "kids": [
-        30140765,
-        30140933
+        30143090
       ],
-      "score": 24,
-      "time": 1643416395,
-      "title": "DDS: Build and library management tool for C, C++",
+      "score": 26,
+      "time": 1643586052,
+      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
       "type": "story",
-      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
     },
     "og_item": {
       "title": "Padder",
@@ -2919,18 +2910,17 @@
     "points": 38,
     "comment_count": 4,
     "hn_item": {
-      "by": "oumua_don17",
+      "by": "lsllc",
       "descendants": 4,
-      "id": 30122435,
+      "id": 30142494,
       "kids": [
-        30140765,
-        30140933
+        30143090
       ],
-      "score": 24,
-      "time": 1643416395,
-      "title": "DDS: Build and library management tool for C, C++",
+      "score": 26,
+      "time": 1643586052,
+      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
       "type": "story",
-      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
     },
     "og_item": {
       "title": "Very Remote Lisp Debugging Story - Susam's Maze",
@@ -2962,18 +2952,17 @@
     "points": 129,
     "comment_count": 12,
     "hn_item": {
-      "by": "oumua_don17",
+      "by": "lsllc",
       "descendants": 4,
-      "id": 30122435,
+      "id": 30142494,
       "kids": [
-        30140765,
-        30140933
+        30143090
       ],
-      "score": 24,
-      "time": 1643416395,
-      "title": "DDS: Build and library management tool for C, C++",
+      "score": 26,
+      "time": 1643586052,
+      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
       "type": "story",
-      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
     },
     "og_item": {
       "title": "Jeremy Mikkola - Tech debt gets worse before it gets better",
@@ -2993,58 +2982,6 @@
     }
   },
   {
-    "id": 30141784,
-    "title": "I crowdfunded a novel using cryptocurrency",
-    "url": "https://ellegriffin.substack.com/p/crypto-funded-nft-novel",
-    "time": 1643581215,
-    "image": "https://cdn.substack.com/image/fetch/w_1200,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafd428d3-200b-473c-81ba-d0fe3d371b74_1000x700.png",
-    "icon": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/6d33229e-dadd-4d42-81b0-60daf1fbc7ef/favicon-48x48.png",
-    "publisher": "ellegriffin.substack.com",
-    "description": "This could be how books get funded in the future.",
-    "by": "rmason",
-    "points": 14,
-    "comment_count": 4,
-    "hn_item": {
-      "by": "oumua_don17",
-      "descendants": 4,
-      "id": 30122435,
-      "kids": [
-        30140765,
-        30140933
-      ],
-      "score": 24,
-      "time": 1643416395,
-      "title": "DDS: Build and library management tool for C, C++",
-      "type": "story",
-      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
-    },
-    "og_item": {
-      "title": "I crowdfunded a novel using cryptocurrency ",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://cdn.substack.com/image/fetch/w_1200,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafd428d3-200b-473c-81ba-d0fe3d371b74_1000x700.png",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://ellegriffin.substack.com/p/crypto-funded-nft-novel",
-      "audio": [],
-      "description": "This could be how books get funded in the future.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/6d33229e-dadd-4d42-81b0-60daf1fbc7ef/favicon-48x48.png"
-      }
-    }
-  },
-  {
     "id": 30114787,
     "title": "The Society of the Spectacle",
     "url": "https://unredacted-word.pub/",
@@ -3057,18 +2994,17 @@
     "points": 94,
     "comment_count": 10,
     "hn_item": {
-      "by": "oumua_don17",
+      "by": "lsllc",
       "descendants": 4,
-      "id": 30122435,
+      "id": 30142494,
       "kids": [
-        30140765,
-        30140933
+        30143090
       ],
-      "score": 24,
-      "time": 1643416395,
-      "title": "DDS: Build and library management tool for C, C++",
+      "score": 26,
+      "time": 1643586052,
+      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
       "type": "story",
-      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
     },
     "og_item": {
       "title": "Unredacted Word",
@@ -3097,6 +3033,57 @@
     }
   },
   {
+    "id": 30141784,
+    "title": "I crowdfunded a novel using cryptocurrency",
+    "url": "https://ellegriffin.substack.com/p/crypto-funded-nft-novel",
+    "time": 1643581215,
+    "image": "https://cdn.substack.com/image/fetch/w_1200,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafd428d3-200b-473c-81ba-d0fe3d371b74_1000x700.png",
+    "icon": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/6d33229e-dadd-4d42-81b0-60daf1fbc7ef/favicon-48x48.png",
+    "publisher": "ellegriffin.substack.com",
+    "description": "This could be how books get funded in the future.",
+    "by": "rmason",
+    "points": 14,
+    "comment_count": 4,
+    "hn_item": {
+      "by": "lsllc",
+      "descendants": 4,
+      "id": 30142494,
+      "kids": [
+        30143090
+      ],
+      "score": 26,
+      "time": 1643586052,
+      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
+      "type": "story",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
+    },
+    "og_item": {
+      "title": "I crowdfunded a novel using cryptocurrency ",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://cdn.substack.com/image/fetch/w_1200,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafd428d3-200b-473c-81ba-d0fe3d371b74_1000x700.png",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://ellegriffin.substack.com/p/crypto-funded-nft-novel",
+      "audio": [],
+      "description": "This could be how books get funded in the future.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/6d33229e-dadd-4d42-81b0-60daf1fbc7ef/favicon-48x48.png"
+      }
+    }
+  },
+  {
     "id": 30125931,
     "title": "Fluid Simulation – Siggraph 2007 Course Notes [pdf]",
     "url": "https://www.cs.ubc.ca/~rbridson/fluidsimulation/fluids_notes.pdf",
@@ -3107,20 +3094,19 @@
     "description": "",
     "by": "creata",
     "points": 35,
-    "comment_count": 4,
+    "comment_count": 5,
     "hn_item": {
-      "by": "oumua_don17",
+      "by": "lsllc",
       "descendants": 4,
-      "id": 30122435,
+      "id": 30142494,
       "kids": [
-        30140765,
-        30140933
+        30143090
       ],
-      "score": 24,
-      "time": 1643416395,
-      "title": "DDS: Build and library management tool for C, C++",
+      "score": 26,
+      "time": 1643586052,
+      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
       "type": "story",
-      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
     },
     "og_item": null
   },
@@ -3137,18 +3123,17 @@
     "points": 99,
     "comment_count": 5,
     "hn_item": {
-      "by": "oumua_don17",
+      "by": "lsllc",
       "descendants": 4,
-      "id": 30122435,
+      "id": 30142494,
       "kids": [
-        30140765,
-        30140933
+        30143090
       ],
-      "score": 24,
-      "time": 1643416395,
-      "title": "DDS: Build and library management tool for C, C++",
+      "score": 26,
+      "time": 1643586052,
+      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
       "type": "story",
-      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
     },
     "og_item": {
       "title": "All News - Steel Bank Common Lisp",
@@ -3180,18 +3165,17 @@
     "points": 18,
     "comment_count": 0,
     "hn_item": {
-      "by": "oumua_don17",
+      "by": "lsllc",
       "descendants": 4,
-      "id": 30122435,
+      "id": 30142494,
       "kids": [
-        30140765,
-        30140933
+        30143090
       ],
-      "score": 24,
-      "time": 1643416395,
-      "title": "DDS: Build and library management tool for C, C++",
+      "score": 26,
+      "time": 1643586052,
+      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
       "type": "story",
-      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
     },
     "og_item": {
       "title": "\n    BeanHub\n    ",
@@ -3211,54 +3195,44 @@
     }
   },
   {
-    "id": 30142351,
-    "title": "Completing a Creative Project",
-    "url": "https://www.sonyasupposedly.com/completing-a-creative-project/",
-    "time": 1643585100,
-    "image": "https://www.sonyasupposedly.com/content/images/2022/01/artdecoladies-1.jpg",
-    "icon": "https://www.sonyasupposedly.com/favicon.png",
-    "publisher": "Sonya Supposedly",
-    "description": "My undying thanks to members for funding the following realizations 💖 Btw, click here for the PDF version that I mailed in November, if you want it for some reason. How to complete a creative project: stick with it until you're done. Gee thanks, great advice, I know. But it's true!",
-    "by": "exolymph",
-    "points": 4,
-    "comment_count": 0,
+    "id": 30122435,
+    "title": "DDS: Build and library management tool for C, C++",
+    "url": "https://vector-of-bool.github.io/docs/dds/index.html",
+    "time": 1643416395,
+    "image": "",
+    "icon": "https://vector-of-bool.github.io/favicon.ico",
+    "publisher": "vector-of-bool.github.io",
+    "description": "",
+    "by": "oumua_don17",
+    "points": 24,
+    "comment_count": 2,
     "hn_item": {
-      "by": "oumua_don17",
+      "by": "lsllc",
       "descendants": 4,
-      "id": 30122435,
+      "id": 30142494,
       "kids": [
-        30140765,
-        30140933
+        30143090
       ],
-      "score": 24,
-      "time": 1643416395,
-      "title": "DDS: Build and library management tool for C, C++",
+      "score": 26,
+      "time": 1643586052,
+      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
       "type": "story",
-      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
     },
     "og_item": {
-      "title": "Completing a Creative Project",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://www.sonyasupposedly.com/content/images/2022/01/artdecoladies-1.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 2000,
-          "height": 1050,
-          "alt": ""
-        }
-      ],
-      "url": "https://www.sonyasupposedly.com/completing-a-creative-project/",
+      "title": "DDS — dds 0.1.0-alpha.3 documentation",
+      "type": "",
+      "image": [],
+      "url": "",
       "audio": [],
-      "description": "My undying thanks to members for funding the following realizations 💖 Btw, click here for the PDF version that I mailed in November, if you want it for some reason. How to complete a creative project: stick with it until you're done. Gee thanks, great advice, I know. But it's true!",
+      "description": "",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "Sonya Supposedly",
+      "site_name": "",
       "video": [],
       "favicon": {
-        "url": "/favicon.png"
+        "url": "/favicon.ico"
       }
     }
   },
@@ -3275,18 +3249,17 @@
     "points": 26,
     "comment_count": 1,
     "hn_item": {
-      "by": "oumua_don17",
+      "by": "lsllc",
       "descendants": 4,
-      "id": 30122435,
+      "id": 30142494,
       "kids": [
-        30140765,
-        30140933
+        30143090
       ],
-      "score": 24,
-      "time": 1643416395,
-      "title": "DDS: Build and library management tool for C, C++",
+      "score": 26,
+      "time": 1643586052,
+      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
       "type": "story",
-      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
     },
     "og_item": {
       "title": "Explainer: Scientists on alert over rising cases caused by Omicron cousin BA.2",
@@ -3311,49 +3284,6 @@
       "video": [],
       "favicon": {
         "url": "/pf/resources/icons/favicon.ico?d=69"
-      }
-    }
-  },
-  {
-    "id": 30122435,
-    "title": "DDS: Build and library management tool for C, C++",
-    "url": "https://vector-of-bool.github.io/docs/dds/index.html",
-    "time": 1643416395,
-    "image": "",
-    "icon": "https://vector-of-bool.github.io/favicon.ico",
-    "publisher": "vector-of-bool.github.io",
-    "description": "",
-    "by": "oumua_don17",
-    "points": 24,
-    "comment_count": 2,
-    "hn_item": {
-      "by": "oumua_don17",
-      "descendants": 4,
-      "id": 30122435,
-      "kids": [
-        30140765,
-        30140933
-      ],
-      "score": 24,
-      "time": 1643416395,
-      "title": "DDS: Build and library management tool for C, C++",
-      "type": "story",
-      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
-    },
-    "og_item": {
-      "title": "DDS — dds 0.1.0-alpha.3 documentation",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
       }
     }
   }
