@@ -9,25 +9,18 @@
     "publisher": "zillow.com",
     "description": "",
     "by": "otras",
-    "points": 194,
-    "comment_count": 25,
+    "points": 201,
+    "comment_count": 26,
     "hn_item": {
-      "by": "doener",
-      "descendants": 25,
-      "id": 30125730,
-      "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
-      ],
-      "score": 53,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
+      "by": "fangpenlin",
+      "descendants": 0,
+      "id": 30141215,
+      "kids": null,
+      "score": 18,
+      "time": 1643577545,
+      "title": "Show HN: BeanHub – A GitHub for Beancount",
       "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+      "url": "https://beanhub.io/"
     },
     "og_item": {
       "title": "",
@@ -56,25 +49,18 @@
     "publisher": "royalsociety.org",
     "description": "The Online Information Environment report discusses how to limit the harm of scientific misinformation online",
     "by": "steelstraw",
-    "points": 574,
+    "points": 580,
     "comment_count": 40,
     "hn_item": {
-      "by": "doener",
-      "descendants": 25,
-      "id": 30125730,
-      "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
-      ],
-      "score": 53,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
+      "by": "fangpenlin",
+      "descendants": 0,
+      "id": 30141215,
+      "kids": null,
+      "score": 18,
+      "time": 1643577545,
+      "title": "Show HN: BeanHub – A GitHub for Beancount",
       "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+      "url": "https://beanhub.io/"
     },
     "og_item": {
       "title": "Royal Society cautions against censorship of scientific misinformation online | Royal Society",
@@ -112,25 +98,18 @@
     "publisher": "lwn.net",
     "description": "",
     "by": "pabs3",
-    "points": 28,
+    "points": 29,
     "comment_count": 2,
     "hn_item": {
-      "by": "doener",
-      "descendants": 25,
-      "id": 30125730,
-      "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
-      ],
-      "score": 53,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
+      "by": "fangpenlin",
+      "descendants": 0,
+      "id": 30141215,
+      "kids": null,
+      "score": 18,
+      "time": 1643577545,
+      "title": "Show HN: BeanHub – A GitHub for Beancount",
       "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+      "url": "https://beanhub.io/"
     },
     "og_item": {
       "title": "Zero-copy network transmission with io_uring [LWN.net]",
@@ -159,25 +138,18 @@
     "publisher": "cacm.acm.org",
     "description": "AI is driving the next evolution of chess, giving players a glimpse into the game\u0026#39;s future.",
     "by": "joak",
-    "points": 64,
+    "points": 68,
     "comment_count": 7,
     "hn_item": {
-      "by": "doener",
-      "descendants": 25,
-      "id": 30125730,
-      "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
-      ],
-      "score": 53,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
+      "by": "fangpenlin",
+      "descendants": 0,
+      "id": 30141215,
+      "kids": null,
+      "score": 18,
+      "time": 1643577545,
+      "title": "Show HN: BeanHub – A GitHub for Beancount",
       "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+      "url": "https://beanhub.io/"
     },
     "og_item": {
       "title": "Reimagining Chess with AlphaZero",
@@ -215,25 +187,18 @@
     "publisher": "theregister.com",
     "description": "",
     "by": "laktak",
-    "points": 39,
+    "points": 42,
     "comment_count": 3,
     "hn_item": {
-      "by": "doener",
-      "descendants": 25,
-      "id": 30125730,
-      "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
-      ],
-      "score": 53,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
+      "by": "fangpenlin",
+      "descendants": 0,
+      "id": 30141215,
+      "kids": null,
+      "score": 18,
+      "time": 1643577545,
+      "title": "Show HN: BeanHub – A GitHub for Beancount",
       "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+      "url": "https://beanhub.io/"
     },
     "og_item": {
       "title": "",
@@ -253,62 +218,6 @@
     }
   },
   {
-    "id": 30144021,
-    "title": "How I Discovered Thousands of Open Databases on AWS",
-    "url": "https://infosecwriteups.com/how-i-discovered-thousands-of-open-databases-on-aws-764729aa7f32?gi=ba781482d685",
-    "time": 1643598347,
-    "image": "https://miro.medium.com/max/1200/1*NxOo3DS3ZzyWxGvxSwIqyw.png",
-    "icon": "https://miro.medium.com/fit/c/256/256/1*vkqyAEGdZQZNbQp1AswznQ.png",
-    "publisher": "Medium",
-    "description": "My journey on finding and reporting databases with sensitive data about Fortune-500 companies, Hospitals, Crypto platforms, Startups during…",
-    "by": "boyter",
-    "points": 60,
-    "comment_count": 10,
-    "hn_item": {
-      "by": "doener",
-      "descendants": 25,
-      "id": 30125730,
-      "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
-      ],
-      "score": 53,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
-      "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
-    },
-    "og_item": {
-      "title": "How I Discovered Thousands of Open Databases on AWS",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://miro.medium.com/max/1200/1*NxOo3DS3ZzyWxGvxSwIqyw.png",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://infosecwriteups.com/how-i-discovered-thousands-of-open-databases-on-aws-764729aa7f32",
-      "audio": [],
-      "description": "My journey on finding and reporting databases with sensitive data about Fortune-500 companies, Hospitals, Crypto platforms, Startups during…",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Medium",
-      "video": [],
-      "favicon": {
-        "url": "https://miro.medium.com/fit/c/256/256/1*vkqyAEGdZQZNbQp1AswznQ.png"
-      }
-    }
-  },
-  {
     "id": 30144805,
     "title": "Examples of common false beliefs in mathematics",
     "url": "https://mathoverflow.net/questions/23478/examples-of-common-false-beliefs-in-mathematics",
@@ -318,25 +227,18 @@
     "publisher": "MathOverflow",
     "description": "The first thing to say is that this is not the same as the question about interesting mathematical mistakes. I am interested about the type of false beliefs that many intelligent people have while ...",
     "by": "gballan",
-    "points": 17,
+    "points": 22,
     "comment_count": 0,
     "hn_item": {
-      "by": "doener",
-      "descendants": 25,
-      "id": 30125730,
-      "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
-      ],
-      "score": 53,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
+      "by": "fangpenlin",
+      "descendants": 0,
+      "id": 30141215,
+      "kids": null,
+      "score": 18,
+      "time": 1643577545,
+      "title": "Show HN: BeanHub – A GitHub for Beancount",
       "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+      "url": "https://beanhub.io/"
     },
     "og_item": {
       "title": "Examples of common false beliefs in mathematics",
@@ -365,58 +267,51 @@
     }
   },
   {
-    "id": 30143946,
-    "title": "Mesmerizing Labor",
-    "url": "https://daily.jstor.org/mesmerizing-labor/",
-    "time": 1643597651,
-    "image": "https://daily.jstor.org/wp-content/uploads/2022/01/mesmerizing_labor_1050x700.jpg",
-    "icon": "https://daily.jstor.org/wp-content/uploads/2017/12/cropped-new_daily_favicon-300x300.png",
-    "publisher": "JSTOR Daily",
-    "description": "The man who introduced mesmerism to the US was a slave-owner from Guadeloupe, where planters were experimenting with “magnetizing” their enslaved people.",
-    "by": "onychomys",
-    "points": 27,
-    "comment_count": 3,
+    "id": 30144021,
+    "title": "How I Discovered Thousands of Open Databases on AWS",
+    "url": "https://infosecwriteups.com/how-i-discovered-thousands-of-open-databases-on-aws-764729aa7f32?gi=ba781482d685",
+    "time": 1643598347,
+    "image": "https://miro.medium.com/max/1200/1*NxOo3DS3ZzyWxGvxSwIqyw.png",
+    "icon": "https://miro.medium.com/fit/c/256/256/1*vkqyAEGdZQZNbQp1AswznQ.png",
+    "publisher": "Medium",
+    "description": "My journey on finding and reporting databases with sensitive data about Fortune-500 companies, Hospitals, Crypto platforms, Startups during…",
+    "by": "boyter",
+    "points": 65,
+    "comment_count": 10,
     "hn_item": {
-      "by": "doener",
-      "descendants": 25,
-      "id": 30125730,
-      "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
-      ],
-      "score": 53,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
+      "by": "fangpenlin",
+      "descendants": 0,
+      "id": 30141215,
+      "kids": null,
+      "score": 18,
+      "time": 1643577545,
+      "title": "Show HN: BeanHub – A GitHub for Beancount",
       "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+      "url": "https://beanhub.io/"
     },
     "og_item": {
-      "title": "Mesmerizing Labor - JSTOR Daily",
+      "title": "How I Discovered Thousands of Open Databases on AWS",
       "type": "article",
       "image": [
         {
-          "url": "https://daily.jstor.org/wp-content/uploads/2022/01/mesmerizing_labor_1050x700.jpg",
+          "url": "https://miro.medium.com/max/1200/1*NxOo3DS3ZzyWxGvxSwIqyw.png",
           "secure_url": "",
           "type": "",
-          "width": 1050,
-          "height": 700,
+          "width": 0,
+          "height": 0,
           "alt": ""
         }
       ],
-      "url": "https://daily.jstor.org/mesmerizing-labor/",
+      "url": "https://infosecwriteups.com/how-i-discovered-thousands-of-open-databases-on-aws-764729aa7f32",
       "audio": [],
-      "description": "The man who introduced mesmerism to the US was a slave-owner from Guadeloupe, where planters were experimenting with “magnetizing” their enslaved people.",
+      "description": "My journey on finding and reporting databases with sensitive data about Fortune-500 companies, Hospitals, Crypto platforms, Startups during…",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "JSTOR Daily",
+      "site_name": "Medium",
       "video": [],
       "favicon": {
-        "url": "https://daily.jstor.org/wp-content/uploads/2017/12/cropped-new_daily_favicon-300x300.png"
+        "url": "https://miro.medium.com/fit/c/256/256/1*vkqyAEGdZQZNbQp1AswznQ.png"
       }
     }
   },
@@ -430,25 +325,18 @@
     "publisher": "mattferraro.dev",
     "description": "What does it mean to invert a shape?",
     "by": "mferraro89",
-    "points": 21,
-    "comment_count": 3,
+    "points": 24,
+    "comment_count": 4,
     "hn_item": {
-      "by": "doener",
-      "descendants": 25,
-      "id": 30125730,
-      "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
-      ],
-      "score": 53,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
+      "by": "fangpenlin",
+      "descendants": 0,
+      "id": 30141215,
+      "kids": null,
+      "score": 18,
+      "time": 1643577545,
+      "title": "Show HN: BeanHub – A GitHub for Beancount",
       "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+      "url": "https://beanhub.io/"
     },
     "og_item": {
       "title": "What is the Inverse of a Circle?",
@@ -477,6 +365,55 @@
     }
   },
   {
+    "id": 30143946,
+    "title": "Mesmerizing Labor",
+    "url": "https://daily.jstor.org/mesmerizing-labor/",
+    "time": 1643597651,
+    "image": "https://daily.jstor.org/wp-content/uploads/2022/01/mesmerizing_labor_1050x700.jpg",
+    "icon": "https://daily.jstor.org/wp-content/uploads/2017/12/cropped-new_daily_favicon-300x300.png",
+    "publisher": "JSTOR Daily",
+    "description": "The man who introduced mesmerism to the US was a slave-owner from Guadeloupe, where planters were experimenting with “magnetizing” their enslaved people.",
+    "by": "onychomys",
+    "points": 27,
+    "comment_count": 3,
+    "hn_item": {
+      "by": "fangpenlin",
+      "descendants": 0,
+      "id": 30141215,
+      "kids": null,
+      "score": 18,
+      "time": 1643577545,
+      "title": "Show HN: BeanHub – A GitHub for Beancount",
+      "type": "story",
+      "url": "https://beanhub.io/"
+    },
+    "og_item": {
+      "title": "Mesmerizing Labor - JSTOR Daily",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://daily.jstor.org/wp-content/uploads/2022/01/mesmerizing_labor_1050x700.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 1050,
+          "height": 700,
+          "alt": ""
+        }
+      ],
+      "url": "https://daily.jstor.org/mesmerizing-labor/",
+      "audio": [],
+      "description": "The man who introduced mesmerism to the US was a slave-owner from Guadeloupe, where planters were experimenting with “magnetizing” their enslaved people.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "JSTOR Daily",
+      "video": [],
+      "favicon": {
+        "url": "https://daily.jstor.org/wp-content/uploads/2017/12/cropped-new_daily_favicon-300x300.png"
+      }
+    }
+  },
+  {
     "id": 30140835,
     "title": "Hardy, Ramanujan and Taxi No. 1729",
     "url": "https://johncarlosbaez.wordpress.com/2022/01/30/hardy-ramanujan-and-taxi-no-1729/",
@@ -486,25 +423,18 @@
     "publisher": "Azimuth",
     "description": "In his book Ramanujan: Twelve Lectures on Subjects Suggested by His Life and Work, G. H. Hardy tells this famous story: He could remember the idiosyncracies of numbers in an almost uncanny way. It …",
     "by": "johncarlosbaez",
-    "points": 72,
-    "comment_count": 6,
+    "points": 74,
+    "comment_count": 7,
     "hn_item": {
-      "by": "doener",
-      "descendants": 25,
-      "id": 30125730,
-      "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
-      ],
-      "score": 53,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
+      "by": "fangpenlin",
+      "descendants": 0,
+      "id": 30141215,
+      "kids": null,
+      "score": 18,
+      "time": 1643577545,
+      "title": "Show HN: BeanHub – A GitHub for Beancount",
       "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+      "url": "https://beanhub.io/"
     },
     "og_item": {
       "title": "Hardy, Ramanujan and Taxi No. 1729",
@@ -533,6 +463,55 @@
     }
   },
   {
+    "id": 30142558,
+    "title": "State of the Web: Static Site Generators",
+    "url": "https://byteofdev.com/posts/static-site-generators/",
+    "time": 1643586463,
+    "image": "https://ik.imagekit.io/serenity/ByteofDev/Blog_Heading_Images/State_of_the_Web_Static_Site_Generators",
+    "icon": "https://byteofdev.com/favicon.svg",
+    "publisher": "ByteofDev",
+    "description": "Static Site Generators have been changing quickly with new trends like Jamstack. Learn more about the background of static site generators, why people use them, and the current state of them, with information on modern SSGs like Eleventy, Next.js, SvelteKit, and Astro.",
+    "by": "AsyncBanana",
+    "points": 77,
+    "comment_count": 11,
+    "hn_item": {
+      "by": "fangpenlin",
+      "descendants": 0,
+      "id": 30141215,
+      "kids": null,
+      "score": 18,
+      "time": 1643577545,
+      "title": "Show HN: BeanHub – A GitHub for Beancount",
+      "type": "story",
+      "url": "https://beanhub.io/"
+    },
+    "og_item": {
+      "title": "State of the Web: Static Site Generators",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://ik.imagekit.io/serenity/ByteofDev/Blog_Heading_Images/State_of_the_Web_Static_Site_Generators",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://byteofdev.com/posts/static-site-generators/",
+      "audio": [],
+      "description": "Static Site Generators have been changing quickly with new trends like Jamstack. Learn more about the background of static site generators, why people use them, and the current state of them, with information on modern SSGs like Eleventy, Next.js, SvelteKit, and Astro.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "ByteofDev",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.svg"
+      }
+    }
+  },
+  {
     "id": 30138533,
     "title": "Hypercard Simulator",
     "url": "https://hypercardsimulator.com/",
@@ -545,25 +524,58 @@
     "points": 210,
     "comment_count": 14,
     "hn_item": {
-      "by": "doener",
-      "descendants": 25,
-      "id": 30125730,
-      "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
-      ],
-      "score": 53,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
+      "by": "fangpenlin",
+      "descendants": 0,
+      "id": 30141215,
+      "kids": null,
+      "score": 18,
+      "time": 1643577545,
+      "title": "Show HN: BeanHub – A GitHub for Beancount",
       "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+      "url": "https://beanhub.io/"
     },
     "og_item": {
       "title": "HyperCardSimulator",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30141278,
+    "title": "The Story of Maxis Software (1999)",
+    "url": "https://web.archive.org/web/19991012021220/http://gamespot.com/features/maxis/index.html",
+    "time": 1643577913,
+    "image": "",
+    "icon": "https://web.archive.org/favicon.ico",
+    "publisher": "web.archive.org",
+    "description": "",
+    "by": "ecliptik",
+    "points": 98,
+    "comment_count": 8,
+    "hn_item": {
+      "by": "fangpenlin",
+      "descendants": 0,
+      "id": 30141215,
+      "kids": null,
+      "score": 18,
+      "time": 1643577545,
+      "title": "Show HN: BeanHub – A GitHub for Beancount",
+      "type": "story",
+      "url": "https://beanhub.io/"
+    },
+    "og_item": {
+      "title": "GameSpot's SIMply Divine: The Story of Maxis Software",
       "type": "",
       "image": [],
       "url": "",
@@ -592,22 +604,15 @@
     "points": 31,
     "comment_count": 3,
     "hn_item": {
-      "by": "doener",
-      "descendants": 25,
-      "id": 30125730,
-      "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
-      ],
-      "score": 53,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
+      "by": "fangpenlin",
+      "descendants": 0,
+      "id": 30141215,
+      "kids": null,
+      "score": 18,
+      "time": 1643577545,
+      "title": "Show HN: BeanHub – A GitHub for Beancount",
       "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+      "url": "https://beanhub.io/"
     },
     "og_item": {
       "title": "Ylang: Universal Language for eBPF, Stap+, GDB, and More (Part 4) - OpenResty Official Blog",
@@ -627,53 +632,6 @@
     }
   },
   {
-    "id": 30141278,
-    "title": "The Story of Maxis Software (1999)",
-    "url": "https://web.archive.org/web/19991012021220/http://gamespot.com/features/maxis/index.html",
-    "time": 1643577913,
-    "image": "",
-    "icon": "https://web.archive.org/favicon.ico",
-    "publisher": "web.archive.org",
-    "description": "",
-    "by": "ecliptik",
-    "points": 95,
-    "comment_count": 8,
-    "hn_item": {
-      "by": "doener",
-      "descendants": 25,
-      "id": 30125730,
-      "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
-      ],
-      "score": 53,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
-      "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
-    },
-    "og_item": {
-      "title": "GameSpot's SIMply Divine: The Story of Maxis Software",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30134367,
     "title": "The case of the mysterious --help directory (2020)",
     "url": "https://leahneukirchen.org/blog/archive/2020/05/the-case-of-the-mysterious-help-directory.html",
@@ -683,25 +641,18 @@
     "publisher": "leahneukirchen.org",
     "description": "",
     "by": "panic",
-    "points": 139,
+    "points": 140,
     "comment_count": 11,
     "hn_item": {
-      "by": "doener",
-      "descendants": 25,
-      "id": 30125730,
-      "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
-      ],
-      "score": 53,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
+      "by": "fangpenlin",
+      "descendants": 0,
+      "id": 30141215,
+      "kids": null,
+      "score": 18,
+      "time": 1643577545,
+      "title": "Show HN: BeanHub – A GitHub for Beancount",
       "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+      "url": "https://beanhub.io/"
     },
     "og_item": {
       "title": "leah blogs: The case of the mysterious --help directory",
@@ -733,22 +684,15 @@
     "points": 32,
     "comment_count": 3,
     "hn_item": {
-      "by": "doener",
-      "descendants": 25,
-      "id": 30125730,
-      "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
-      ],
-      "score": 53,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
+      "by": "fangpenlin",
+      "descendants": 0,
+      "id": 30141215,
+      "kids": null,
+      "score": 18,
+      "time": 1643577545,
+      "title": "Show HN: BeanHub – A GitHub for Beancount",
       "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+      "url": "https://beanhub.io/"
     },
     "og_item": {
       "title": "Lizard Scale Patterns Described with Antiferromagnetic Model",
@@ -781,37 +725,30 @@
     "title": "Beancount: Double-entry accounting from text files",
     "url": "https://github.com/beancount/beancount",
     "time": 1643559445,
-    "image": "https://opengraph.githubassets.com/8d14f9d59a660e5a4177384f2431efa572f0326b4c8307814b99ea5c52a1016a/beancount/beancount",
+    "image": "https://opengraph.githubassets.com/d93938d422044d68188a07a5e55cbf73ac2c48101b48519f7e58d1266ac723cf/beancount/beancount",
     "icon": "https://github.githubassets.com/favicons/favicon.svg",
     "publisher": "GitHub",
     "description": "Beancount: Double-Entry Accounting from Text Files. - GitHub - beancount/beancount: Beancount: Double-Entry Accounting from Text Files.",
     "by": "techtalsky",
-    "points": 194,
+    "points": 195,
     "comment_count": 22,
     "hn_item": {
-      "by": "doener",
-      "descendants": 25,
-      "id": 30125730,
-      "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
-      ],
-      "score": 53,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
+      "by": "fangpenlin",
+      "descendants": 0,
+      "id": 30141215,
+      "kids": null,
+      "score": 18,
+      "time": 1643577545,
+      "title": "Show HN: BeanHub – A GitHub for Beancount",
       "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+      "url": "https://beanhub.io/"
     },
     "og_item": {
       "title": "GitHub - beancount/beancount: Beancount: Double-Entry Accounting from Text Files.",
       "type": "object",
       "image": [
         {
-          "url": "https://opengraph.githubassets.com/8d14f9d59a660e5a4177384f2431efa572f0326b4c8307814b99ea5c52a1016a/beancount/beancount",
+          "url": "https://opengraph.githubassets.com/d93938d422044d68188a07a5e55cbf73ac2c48101b48519f7e58d1266ac723cf/beancount/beancount",
           "secure_url": "",
           "type": "",
           "width": 1200,
@@ -842,25 +779,18 @@
     "publisher": "American Affairs Journal",
     "description": "Operation Warp Speed1 (OWS) was launched on May 15, 2020. A partnership between the Departments of Health and Human Services (HHS) and Defense (DoD), other agencies, and the private sector, its goal was to “accelerate the testing, supply, development, and distribution of safe and effective vacc…",
     "by": "gok",
-    "points": 98,
+    "points": 99,
     "comment_count": 7,
     "hn_item": {
-      "by": "doener",
-      "descendants": 25,
-      "id": 30125730,
-      "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
-      ],
-      "score": 53,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
+      "by": "fangpenlin",
+      "descendants": 0,
+      "id": 30141215,
+      "kids": null,
+      "score": 18,
+      "time": 1643577545,
+      "title": "Show HN: BeanHub – A GitHub for Beancount",
       "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+      "url": "https://beanhub.io/"
     },
     "og_item": {
       "title": "Inside Operation Warp Speed: A New Model for Industrial Policy - American Affairs Journal",
@@ -898,25 +828,18 @@
     "publisher": "luttig.substack.com",
     "description": "Understanding the behemoth in Redmond teaches us valuable lessons in cloud infrastructure, startup strategy, and the future of software.",
     "by": "SamvitJ",
-    "points": 242,
+    "points": 245,
     "comment_count": 49,
     "hn_item": {
-      "by": "doener",
-      "descendants": 25,
-      "id": 30125730,
-      "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
-      ],
-      "score": 53,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
+      "by": "fangpenlin",
+      "descendants": 0,
+      "id": 30141215,
+      "kids": null,
+      "score": 18,
+      "time": 1643577545,
+      "title": "Show HN: BeanHub – A GitHub for Beancount",
       "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+      "url": "https://beanhub.io/"
     },
     "og_item": {
       "title": "Don’t forget Microsoft",
@@ -954,25 +877,18 @@
     "publisher": "blog.laurel.world",
     "description": "",
     "by": "artmare",
-    "points": 30,
+    "points": 32,
     "comment_count": 0,
     "hn_item": {
-      "by": "doener",
-      "descendants": 25,
-      "id": 30125730,
-      "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
-      ],
-      "score": 53,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
+      "by": "fangpenlin",
+      "descendants": 0,
+      "id": 30141215,
+      "kids": null,
+      "score": 18,
+      "time": 1643577545,
+      "title": "Show HN: BeanHub – A GitHub for Beancount",
       "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+      "url": "https://beanhub.io/"
     },
     "og_item": {
       "title": "A couple years ago, I created this list: immersive: walking taking a shower sleeping teaching falling in love cinema life or death experience I was curious about these amazing parts of life that feel so meaningful — like portals, where time and space take on a totally different, enchanted feeling. I remember writing this list… – blog.laurel.world",
@@ -1001,25 +917,18 @@
     "publisher": "jenson.org",
     "description": "",
     "by": "radley",
-    "points": 684,
+    "points": 691,
     "comment_count": 95,
     "hn_item": {
-      "by": "doener",
-      "descendants": 25,
-      "id": 30125730,
-      "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
-      ],
-      "score": 53,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
+      "by": "fangpenlin",
+      "descendants": 0,
+      "id": 30141215,
+      "kids": null,
+      "score": 18,
+      "time": 1643577545,
+      "title": "Show HN: BeanHub – A GitHub for Beancount",
       "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+      "url": "https://beanhub.io/"
     },
     "og_item": {
       "title": "A UX designer walks into a Tesla Bar – Scott Jenson",
@@ -1048,25 +957,18 @@
     "publisher": "fahrrad-tools.de",
     "description": "Which tire fits my bike? Tires are always flat and now buy a tire with puncture protection? Find the right tire now!",
     "by": "moasda",
-    "points": 556,
+    "points": 560,
     "comment_count": 37,
     "hn_item": {
-      "by": "doener",
-      "descendants": 25,
-      "id": 30125730,
-      "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
-      ],
-      "score": 53,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
+      "by": "fangpenlin",
+      "descendants": 0,
+      "id": 30141215,
+      "kids": null,
+      "score": 18,
+      "time": 1643577545,
+      "title": "Show HN: BeanHub – A GitHub for Beancount",
       "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+      "url": "https://beanhub.io/"
     },
     "og_item": {
       "title": "Bike Tire | Fahrrad-Tools.de",
@@ -1086,53 +988,6 @@
     }
   },
   {
-    "id": 30142105,
-    "title": "Seattle Telecommunications History Museum",
-    "url": "https://www.telcomhistory.org/connections-museum-seattle/",
-    "time": 1643583232,
-    "image": "",
-    "icon": "https://www.telcomhistory.org/favicon.ico",
-    "publisher": "telcomhistory.org",
-    "description": "",
-    "by": "basementcat",
-    "points": 49,
-    "comment_count": 7,
-    "hn_item": {
-      "by": "doener",
-      "descendants": 25,
-      "id": 30125730,
-      "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
-      ],
-      "score": 53,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
-      "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
-    },
-    "og_item": {
-      "title": "403 Forbidden",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30140464,
     "title": "The Great Unconformity: Research points to glaciers being the culprit",
     "url": "https://www.vice.com/en/article/wxdzzb/a-billion-years-of-time-are-mysteriously-missing-scientists-think-they-know-why",
@@ -1145,22 +1000,15 @@
     "points": 73,
     "comment_count": 4,
     "hn_item": {
-      "by": "doener",
-      "descendants": 25,
-      "id": 30125730,
-      "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
-      ],
-      "score": 53,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
+      "by": "fangpenlin",
+      "descendants": 0,
+      "id": 30141215,
+      "kids": null,
+      "score": 18,
+      "time": 1643577545,
+      "title": "Show HN: BeanHub – A GitHub for Beancount",
       "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+      "url": "https://beanhub.io/"
     },
     "og_item": {
       "title": "A Billion Years of Time Are Mysteriously Missing. Scientists Think They Know Why.",
@@ -1189,6 +1037,46 @@
     }
   },
   {
+    "id": 30142105,
+    "title": "Seattle Telecommunications History Museum",
+    "url": "https://www.telcomhistory.org/connections-museum-seattle/",
+    "time": 1643583232,
+    "image": "",
+    "icon": "https://www.telcomhistory.org/favicon.ico",
+    "publisher": "telcomhistory.org",
+    "description": "",
+    "by": "basementcat",
+    "points": 49,
+    "comment_count": 7,
+    "hn_item": {
+      "by": "fangpenlin",
+      "descendants": 0,
+      "id": 30141215,
+      "kids": null,
+      "score": 18,
+      "time": 1643577545,
+      "title": "Show HN: BeanHub – A GitHub for Beancount",
+      "type": "story",
+      "url": "https://beanhub.io/"
+    },
+    "og_item": {
+      "title": "403 Forbidden",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30141022,
     "title": "BuildZoom (better way to build custom homes) Is hiring a Principal Engineer",
     "url": "https://jobs.lever.co/buildzoom",
@@ -1201,22 +1089,15 @@
     "points": 1,
     "comment_count": 0,
     "hn_item": {
-      "by": "doener",
-      "descendants": 25,
-      "id": 30125730,
-      "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
-      ],
-      "score": 53,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
+      "by": "fangpenlin",
+      "descendants": 0,
+      "id": 30141215,
+      "kids": null,
+      "score": 18,
+      "time": 1643577545,
+      "title": "Show HN: BeanHub – A GitHub for Beancount",
       "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+      "url": "https://beanhub.io/"
     },
     "og_item": {
       "title": "BuildZoom jobs",
@@ -1245,62 +1126,6 @@
     }
   },
   {
-    "id": 30142558,
-    "title": "State of the Web: Static Site Generators",
-    "url": "https://byteofdev.com/posts/static-site-generators/",
-    "time": 1643586463,
-    "image": "https://ik.imagekit.io/serenity/ByteofDev/Blog_Heading_Images/State_of_the_Web_Static_Site_Generators",
-    "icon": "https://byteofdev.com/favicon.svg",
-    "publisher": "ByteofDev",
-    "description": "Static Site Generators have been changing quickly with new trends like Jamstack. Learn more about the background of static site generators, why people use them, and the current state of them, with information on modern SSGs like Eleventy, Next.js, SvelteKit, and Astro.",
-    "by": "AsyncBanana",
-    "points": 71,
-    "comment_count": 11,
-    "hn_item": {
-      "by": "doener",
-      "descendants": 25,
-      "id": 30125730,
-      "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
-      ],
-      "score": 53,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
-      "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
-    },
-    "og_item": {
-      "title": "State of the Web: Static Site Generators",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://ik.imagekit.io/serenity/ByteofDev/Blog_Heading_Images/State_of_the_Web_Static_Site_Generators",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://byteofdev.com/posts/static-site-generators/",
-      "audio": [],
-      "description": "Static Site Generators have been changing quickly with new trends like Jamstack. Learn more about the background of static site generators, why people use them, and the current state of them, with information on modern SSGs like Eleventy, Next.js, SvelteKit, and Astro.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "ByteofDev",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.svg"
-      }
-    }
-  },
-  {
     "id": 30119925,
     "title": "Message in a bottle from Scottish girl found in Norway after 25 years",
     "url": "https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-60121185",
@@ -1310,25 +1135,18 @@
     "publisher": "BBC News",
     "description": "The bottle Joanna Buchan dropped in the sea at Peterhead when she was eight has washed up in Norway.",
     "by": "LinuxBender",
-    "points": 98,
+    "points": 99,
     "comment_count": 10,
     "hn_item": {
-      "by": "doener",
-      "descendants": 25,
-      "id": 30125730,
-      "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
-      ],
-      "score": 53,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
+      "by": "fangpenlin",
+      "descendants": 0,
+      "id": 30141215,
+      "kids": null,
+      "score": 18,
+      "time": 1643577545,
+      "title": "Show HN: BeanHub – A GitHub for Beancount",
       "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+      "url": "https://beanhub.io/"
     },
     "og_item": {
       "title": "Message in a bottle from Scottish girl found in Norway after 25 years",
@@ -1369,22 +1187,15 @@
     "points": 47,
     "comment_count": 4,
     "hn_item": {
-      "by": "doener",
-      "descendants": 25,
-      "id": 30125730,
-      "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
-      ],
-      "score": 53,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
+      "by": "fangpenlin",
+      "descendants": 0,
+      "id": 30141215,
+      "kids": null,
+      "score": 18,
+      "time": 1643577545,
+      "title": "Show HN: BeanHub – A GitHub for Beancount",
       "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+      "url": "https://beanhub.io/"
     },
     "og_item": {
       "title": "Game Performance Optimization - A Practical Example From Industry Idle",
@@ -1416,22 +1227,15 @@
     "points": 83,
     "comment_count": 12,
     "hn_item": {
-      "by": "doener",
-      "descendants": 25,
-      "id": 30125730,
-      "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
-      ],
-      "score": 53,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
+      "by": "fangpenlin",
+      "descendants": 0,
+      "id": 30141215,
+      "kids": null,
+      "score": 18,
+      "time": 1643577545,
+      "title": "Show HN: BeanHub – A GitHub for Beancount",
       "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+      "url": "https://beanhub.io/"
     },
     "og_item": {
       "title": "When the Algorithm Is Your Boss",
@@ -1472,22 +1276,15 @@
     "points": 54,
     "comment_count": 13,
     "hn_item": {
-      "by": "doener",
-      "descendants": 25,
-      "id": 30125730,
-      "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
-      ],
-      "score": 53,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
+      "by": "fangpenlin",
+      "descendants": 0,
+      "id": 30141215,
+      "kids": null,
+      "score": 18,
+      "time": 1643577545,
+      "title": "Show HN: BeanHub – A GitHub for Beancount",
       "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+      "url": "https://beanhub.io/"
     },
     "og_item": {
       "title": "Streamlit",
@@ -1519,22 +1316,15 @@
     "points": 75,
     "comment_count": 12,
     "hn_item": {
-      "by": "doener",
-      "descendants": 25,
-      "id": 30125730,
-      "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
-      ],
-      "score": 53,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
+      "by": "fangpenlin",
+      "descendants": 0,
+      "id": 30141215,
+      "kids": null,
+      "score": 18,
+      "time": 1643577545,
+      "title": "Show HN: BeanHub – A GitHub for Beancount",
       "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+      "url": "https://beanhub.io/"
     },
     "og_item": {
       "title": "COM+ revisited",
@@ -1572,25 +1362,18 @@
     "publisher": "win.tue.nl",
     "description": "",
     "by": "camnora",
-    "points": 100,
+    "points": 101,
     "comment_count": 7,
     "hn_item": {
-      "by": "doener",
-      "descendants": 25,
-      "id": 30125730,
-      "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
-      ],
-      "score": 53,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
+      "by": "fangpenlin",
+      "descendants": 0,
+      "id": 30141215,
+      "kids": null,
+      "score": 18,
+      "time": 1643577545,
+      "title": "Show HN: BeanHub – A GitHub for Beancount",
       "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+      "url": "https://beanhub.io/"
     },
     "og_item": null
   },
@@ -1604,25 +1387,18 @@
     "publisher": "TechCrunch",
     "description": "Today’s cars are dumb where they should be smart, and smart where they should be dumb. Enough already. Make a car that’s pretty much all dumb and watch it sell — because what automakers are giving people is so bad, they’ll pay more to have less of it. Cars now are like budget smar…",
     "by": "wrycoder",
-    "points": 38,
+    "points": 39,
     "comment_count": 8,
     "hn_item": {
-      "by": "doener",
-      "descendants": 25,
-      "id": 30125730,
-      "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
-      ],
-      "score": 53,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
+      "by": "fangpenlin",
+      "descendants": 0,
+      "id": 30141215,
+      "kids": null,
+      "score": 18,
+      "time": 1643577545,
+      "title": "Show HN: BeanHub – A GitHub for Beancount",
       "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+      "url": "https://beanhub.io/"
     },
     "og_item": {
       "title": "Please make a dumb car – TechCrunch",
@@ -1660,25 +1436,18 @@
     "publisher": "Rest of World",
     "description": "As a hedge against American talent poachers, some exasperated founders are recruiting developers who can’t speak English.",
     "by": "braco_alva",
-    "points": 187,
+    "points": 188,
     "comment_count": 40,
     "hn_item": {
-      "by": "doener",
-      "descendants": 25,
-      "id": 30125730,
-      "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
-      ],
-      "score": 53,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
+      "by": "fangpenlin",
+      "descendants": 0,
+      "id": 30141215,
+      "kids": null,
+      "score": 18,
+      "time": 1643577545,
+      "title": "Show HN: BeanHub – A GitHub for Beancount",
       "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+      "url": "https://beanhub.io/"
     },
     "og_item": {
       "title": "“It’s a bloodbath”: U.S. companies are pillaging Latin America’s tech talent",
@@ -1716,25 +1485,18 @@
     "publisher": "subconscious.substack.com",
     "description": "What if your notes could self-organize—from scratch notes, to draft, to finished creative work—through a stream-of-consciousness process—like dreaming? Years ago, I was part of a user study that aimed to understand how creators create. We interviewed authors, artists, students, influencers,…",
     "by": "fagnerbrack",
-    "points": 20,
+    "points": 21,
     "comment_count": 3,
     "hn_item": {
-      "by": "doener",
-      "descendants": 25,
-      "id": 30125730,
-      "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
-      ],
-      "score": 53,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
+      "by": "fangpenlin",
+      "descendants": 0,
+      "id": 30141215,
+      "kids": null,
+      "score": 18,
+      "time": 1643577545,
+      "title": "Show HN: BeanHub – A GitHub for Beancount",
       "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+      "url": "https://beanhub.io/"
     },
     "og_item": {
       "title": "Unconscious R\u0026D",
@@ -1775,22 +1537,15 @@
     "points": 33,
     "comment_count": 3,
     "hn_item": {
-      "by": "doener",
-      "descendants": 25,
-      "id": 30125730,
-      "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
-      ],
-      "score": 53,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
+      "by": "fangpenlin",
+      "descendants": 0,
+      "id": 30141215,
+      "kids": null,
+      "score": 18,
+      "time": 1643577545,
+      "title": "Show HN: BeanHub – A GitHub for Beancount",
       "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+      "url": "https://beanhub.io/"
     },
     "og_item": {
       "title": "GitHub - Idov31/FunctionStomping: A new shellcode injection technique. Given as C++ header or standalone Rust program.",
@@ -1831,22 +1586,15 @@
     "points": 28,
     "comment_count": 6,
     "hn_item": {
-      "by": "doener",
-      "descendants": 25,
-      "id": 30125730,
-      "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
-      ],
-      "score": 53,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
+      "by": "fangpenlin",
+      "descendants": 0,
+      "id": 30141215,
+      "kids": null,
+      "score": 18,
+      "time": 1643577545,
+      "title": "Show HN: BeanHub – A GitHub for Beancount",
       "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+      "url": "https://beanhub.io/"
     },
     "og_item": {
       "title": "Basic cryptography - the Vigenere cipher - Eric Mann's Blog",
@@ -1884,25 +1632,18 @@
     "publisher": "blog.crunchydata.com",
     "description": "An interesting question came up on the #postgresql IRC channel about how to use native PostgreSQL features to handle some sort of queuing behavior. While the specific usage was related to handling serialization of specific events to some external broker, the specifics are less important than the …",
     "by": "Scramblejams",
-    "points": 117,
+    "points": 118,
     "comment_count": 9,
     "hn_item": {
-      "by": "doener",
-      "descendants": 25,
-      "id": 30125730,
-      "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
-      ],
-      "score": 53,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
+      "by": "fangpenlin",
+      "descendants": 0,
+      "id": 30141215,
+      "kids": null,
+      "score": 18,
+      "time": 1643577545,
+      "title": "Show HN: BeanHub – A GitHub for Beancount",
       "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+      "url": "https://beanhub.io/"
     },
     "og_item": {
       "title": "Devious SQL: Message Queuing Using Native PostgreSQL",
@@ -1943,22 +1684,15 @@
     "points": 50,
     "comment_count": 7,
     "hn_item": {
-      "by": "doener",
-      "descendants": 25,
-      "id": 30125730,
-      "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
-      ],
-      "score": 53,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
+      "by": "fangpenlin",
+      "descendants": 0,
+      "id": 30141215,
+      "kids": null,
+      "score": 18,
+      "time": 1643577545,
+      "title": "Show HN: BeanHub – A GitHub for Beancount",
       "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+      "url": "https://beanhub.io/"
     },
     "og_item": {
       "title": "Using tree data structures to implement terminal split panes - more fun than it sounds",
@@ -1999,22 +1733,15 @@
     "points": 77,
     "comment_count": 17,
     "hn_item": {
-      "by": "doener",
-      "descendants": 25,
-      "id": 30125730,
-      "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
-      ],
-      "score": 53,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
+      "by": "fangpenlin",
+      "descendants": 0,
+      "id": 30141215,
+      "kids": null,
+      "score": 18,
+      "time": 1643577545,
+      "title": "Show HN: BeanHub – A GitHub for Beancount",
       "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+      "url": "https://beanhub.io/"
     },
     "og_item": {
       "title": "Autonomous battery-powered rail cars could steal shipments from truckers",
@@ -2053,24 +1780,17 @@
     "description": "Joshua Bell is one of the world’s greatest violinists. His instrument of choice is a multimillion-dollar Stradivarius. If he played it for spare change, incognito, outside a bustling Metro stop in Washington, would anyone notice?",
     "by": "Tomte",
     "points": 11,
-    "comment_count": 7,
+    "comment_count": 8,
     "hn_item": {
-      "by": "doener",
-      "descendants": 25,
-      "id": 30125730,
-      "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
-      ],
-      "score": 53,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
+      "by": "fangpenlin",
+      "descendants": 0,
+      "id": 30141215,
+      "kids": null,
+      "score": 18,
+      "time": 1643577545,
+      "title": "Show HN: BeanHub – A GitHub for Beancount",
       "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+      "url": "https://beanhub.io/"
     },
     "og_item": {
       "title": "Pearls Before Breakfast: Can one of the nation’s great musicians cut through the fog of a D.C. rush hour? Let’s find out.",
@@ -2099,165 +1819,6 @@
     }
   },
   {
-    "id": 30144083,
-    "title": "Rents are up 40 percent in some cities, forcing millions to move",
-    "url": "https://www.washingtonpost.com/business/2022/01/30/rent-inflation-housing/",
-    "time": 1643599234,
-    "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QJQ7K2D774I6ZDGIW2LFMS5HSY.jpg\u0026w=1440",
-    "icon": "https://www.washingtonpost.com/wp-stat/assets/favicons/touch-icon-iphone.png",
-    "publisher": "Washington Post",
-    "description": "Rising rents are also expected to be a driving force in inflation this year and have been an ongoing policy challenge for the Biden administration.",
-    "by": "MilnerRoute",
-    "points": 76,
-    "comment_count": 12,
-    "hn_item": {
-      "by": "doener",
-      "descendants": 25,
-      "id": 30125730,
-      "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
-      ],
-      "score": 53,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
-      "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
-    },
-    "og_item": {
-      "title": "Rents are up 40 percent in some cities, forcing millions to find another place to live",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QJQ7K2D774I6ZDGIW2LFMS5HSY.jpg\u0026w=1440",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://www.washingtonpost.com/business/2022/01/30/rent-inflation-housing/",
-      "audio": [],
-      "description": "Rising rents are also expected to be a driving force in inflation this year and have been an ongoing policy challenge for the Biden administration.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Washington Post",
-      "video": [],
-      "favicon": {
-        "url": "https://www.washingtonpost.com/wp-stat/assets/favicons/touch-icon-iphone.png"
-      }
-    }
-  },
-  {
-    "id": 30120857,
-    "title": "Writing an efficient Vulkan renderer (2020)",
-    "url": "https://zeux.io/2020/02/27/writing-an-efficient-vulkan-renderer/",
-    "time": 1643406697,
-    "image": "",
-    "icon": "https://zeux.io/2020/02/27/writing-an-efficient-vulkan-renderer/data:;base64,iVBORw0KGgo=",
-    "publisher": "zeux.io",
-    "description": "",
-    "by": "nabla9",
-    "points": 76,
-    "comment_count": 5,
-    "hn_item": {
-      "by": "doener",
-      "descendants": 25,
-      "id": 30125730,
-      "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
-      ],
-      "score": 53,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
-      "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
-    },
-    "og_item": {
-      "title": "\n    zeux.io - Writing an efficient Vulkan renderer\n  ",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "data:;base64,iVBORw0KGgo="
-      }
-    }
-  },
-  {
-    "id": 30144892,
-    "title": "Kia’s new EV6 electric crossover goes straight to the head of the pack",
-    "url": "https://arstechnica.com/cars/2022/01/kias-new-ev6-electric-crossover-goes-straight-to-the-head-of-the-pack/",
-    "time": 1643607086,
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/01/Kia-EV6-1-760x380.jpg",
-    "icon": "https://cdn.arstechnica.net/wp-content/themes/ars/assets/img/material-ars-db41652381.png",
-    "publisher": "Ars Technica",
-    "description": "It's highly efficient, fun to drive, and loaded with equipment, too.",
-    "by": "feross",
-    "points": 6,
-    "comment_count": 2,
-    "hn_item": {
-      "by": "doener",
-      "descendants": 25,
-      "id": 30125730,
-      "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
-      ],
-      "score": 53,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
-      "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
-    },
-    "og_item": {
-      "title": "Kia’s new EV6 electric crossover goes straight to the head of the pack",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/01/Kia-EV6-1-760x380.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://arstechnica.com/cars/2022/01/kias-new-ev6-electric-crossover-goes-straight-to-the-head-of-the-pack/",
-      "audio": [],
-      "description": "It's highly efficient, fun to drive, and loaded with equipment, too.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Ars Technica",
-      "video": [],
-      "favicon": {
-        "url": "https://cdn.arstechnica.net/wp-content/themes/ars/assets/img/material-ars-db41652381.png"
-      }
-    }
-  },
-  {
     "id": 30131847,
     "title": "Mix and Match Mental Models",
     "url": "https://lethain.com/mental-models-mix-match/",
@@ -2267,25 +1828,18 @@
     "publisher": "lethain.com",
     "description": "A few days ago, I got to have a delightful chat with Katie Wilde, digging into a question that we’ve both found difficult to answer: what distinguishes managers perceived to have good judgment from those perceived to have bad judgment? In exploring that question, the topic of mental models came…",
     "by": "wavelander",
-    "points": 33,
+    "points": 34,
     "comment_count": 0,
     "hn_item": {
-      "by": "doener",
-      "descendants": 25,
-      "id": 30125730,
-      "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
-      ],
-      "score": 53,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
+      "by": "fangpenlin",
+      "descendants": 0,
+      "id": 30141215,
+      "kids": null,
+      "score": 18,
+      "time": 1643577545,
+      "title": "Show HN: BeanHub – A GitHub for Beancount",
       "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+      "url": "https://beanhub.io/"
     },
     "og_item": {
       "title": "Mix and match mental models.",
@@ -2314,49 +1868,82 @@
     }
   },
   {
-    "id": 30138277,
-    "title": "Set up a website with Nim (2019)",
-    "url": "https://ttj.dk/blog/2019/01/20/setup-a-website-with-nim",
-    "time": 1643558464,
+    "id": 30142106,
+    "title": "Yoga and meditation do not quiet the ego but instead boost self-enhancement (2018)",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/0956797618764621",
+    "time": 1643583242,
     "image": "",
-    "icon": "https://ttj.dk/images/favicon-ttj.png",
-    "publisher": "ttj.dk",
-    "description": "This small tutorial will help you create a website with Nim. We'll use libraries from the standard library and some externals from Nim-users. You will learn to create a small webserver with an admin user who has access to the secret area.",
-    "by": "melissalobos",
-    "points": 77,
-    "comment_count": 7,
+    "icon": "https://journals.sagepub.com/favicon.ico",
+    "publisher": "journals.sagepub.com",
+    "description": "",
+    "by": "FrojoS",
+    "points": 21,
+    "comment_count": 8,
     "hn_item": {
-      "by": "doener",
-      "descendants": 25,
-      "id": 30125730,
-      "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
-      ],
-      "score": 53,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
+      "by": "fangpenlin",
+      "descendants": 0,
+      "id": 30141215,
+      "kids": null,
+      "score": 18,
+      "time": 1643577545,
+      "title": "Show HN: BeanHub – A GitHub for Beancount",
       "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+      "url": "https://beanhub.io/"
     },
     "og_item": {
-      "title": " Nim tutorial for setting up a website. ",
+      "title": "Just a moment...",
       "type": "",
       "image": [],
       "url": "",
       "audio": [],
-      "description": "This small tutorial will help you create a website with Nim. We'll use libraries from the standard library and some externals from Nim-users. You will learn to create a small webserver with an admin user who has access to the secret area.",
+      "description": "",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
       "site_name": "",
       "video": [],
       "favicon": {
-        "url": "/images/favicon-ttj.png"
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30120857,
+    "title": "Writing an efficient Vulkan renderer (2020)",
+    "url": "https://zeux.io/2020/02/27/writing-an-efficient-vulkan-renderer/",
+    "time": 1643406697,
+    "image": "",
+    "icon": "https://zeux.io/2020/02/27/writing-an-efficient-vulkan-renderer/data:;base64,iVBORw0KGgo=",
+    "publisher": "zeux.io",
+    "description": "",
+    "by": "nabla9",
+    "points": 76,
+    "comment_count": 5,
+    "hn_item": {
+      "by": "fangpenlin",
+      "descendants": 0,
+      "id": 30141215,
+      "kids": null,
+      "score": 18,
+      "time": 1643577545,
+      "title": "Show HN: BeanHub – A GitHub for Beancount",
+      "type": "story",
+      "url": "https://beanhub.io/"
+    },
+    "og_item": {
+      "title": "\n    zeux.io - Writing an efficient Vulkan renderer\n  ",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "data:;base64,iVBORw0KGgo="
       }
     }
   },
@@ -2370,25 +1957,18 @@
     "publisher": "BuzzFeed News",
     "description": "I went on a vacation. I came home with a mysterious fungus in my brain that is so rare only about 120 cases have been confirmed worldwide since its discovery in 1911.",
     "by": "yellow_lead",
-    "points": 188,
+    "points": 190,
     "comment_count": 10,
     "hn_item": {
-      "by": "doener",
-      "descendants": 25,
-      "id": 30125730,
-      "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
-      ],
-      "score": 53,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
+      "by": "fangpenlin",
+      "descendants": 0,
+      "id": 30141215,
+      "kids": null,
+      "score": 18,
+      "time": 1643577545,
+      "title": "Show HN: BeanHub – A GitHub for Beancount",
       "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+      "url": "https://beanhub.io/"
     },
     "og_item": {
       "title": "Toxic Black Mold Is Growing On My Brain",
@@ -2417,49 +1997,91 @@
     }
   },
   {
-    "id": 30142106,
-    "title": "Yoga and meditation do not quiet the ego but instead boost self-enhancement (2018)",
-    "url": "https://journals.sagepub.com/doi/abs/10.1177/0956797618764621",
-    "time": 1643583242,
+    "id": 30138277,
+    "title": "Set up a website with Nim (2019)",
+    "url": "https://ttj.dk/blog/2019/01/20/setup-a-website-with-nim",
+    "time": 1643558464,
     "image": "",
-    "icon": "https://journals.sagepub.com/favicon.ico",
-    "publisher": "journals.sagepub.com",
-    "description": "",
-    "by": "FrojoS",
-    "points": 20,
-    "comment_count": 8,
+    "icon": "https://ttj.dk/images/favicon-ttj.png",
+    "publisher": "ttj.dk",
+    "description": "This small tutorial will help you create a website with Nim. We'll use libraries from the standard library and some externals from Nim-users. You will learn to create a small webserver with an admin user who has access to the secret area.",
+    "by": "melissalobos",
+    "points": 77,
+    "comment_count": 7,
     "hn_item": {
-      "by": "doener",
-      "descendants": 25,
-      "id": 30125730,
-      "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
-      ],
-      "score": 53,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
+      "by": "fangpenlin",
+      "descendants": 0,
+      "id": 30141215,
+      "kids": null,
+      "score": 18,
+      "time": 1643577545,
+      "title": "Show HN: BeanHub – A GitHub for Beancount",
       "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+      "url": "https://beanhub.io/"
     },
     "og_item": {
-      "title": "Just a moment...",
+      "title": " Nim tutorial for setting up a website. ",
       "type": "",
       "image": [],
       "url": "",
       "audio": [],
-      "description": "",
+      "description": "This small tutorial will help you create a website with Nim. We'll use libraries from the standard library and some externals from Nim-users. You will learn to create a small webserver with an admin user who has access to the secret area.",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
       "site_name": "",
       "video": [],
       "favicon": {
-        "url": "/favicon.ico"
+        "url": "/images/favicon-ttj.png"
+      }
+    }
+  },
+  {
+    "id": 30144083,
+    "title": "Rents are up 40 percent in some cities, forcing millions to move",
+    "url": "https://www.washingtonpost.com/business/2022/01/30/rent-inflation-housing/",
+    "time": 1643599234,
+    "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QJQ7K2D774I6ZDGIW2LFMS5HSY.jpg\u0026w=1440",
+    "icon": "https://www.washingtonpost.com/wp-stat/assets/favicons/touch-icon-iphone.png",
+    "publisher": "Washington Post",
+    "description": "Rising rents are also expected to be a driving force in inflation this year and have been an ongoing policy challenge for the Biden administration.",
+    "by": "MilnerRoute",
+    "points": 76,
+    "comment_count": 12,
+    "hn_item": {
+      "by": "fangpenlin",
+      "descendants": 0,
+      "id": 30141215,
+      "kids": null,
+      "score": 18,
+      "time": 1643577545,
+      "title": "Show HN: BeanHub – A GitHub for Beancount",
+      "type": "story",
+      "url": "https://beanhub.io/"
+    },
+    "og_item": {
+      "title": "Rents are up 40 percent in some cities, forcing millions to find another place to live",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QJQ7K2D774I6ZDGIW2LFMS5HSY.jpg\u0026w=1440",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://www.washingtonpost.com/business/2022/01/30/rent-inflation-housing/",
+      "audio": [],
+      "description": "Rising rents are also expected to be a driving force in inflation this year and have been an ongoing policy challenge for the Biden administration.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Washington Post",
+      "video": [],
+      "favicon": {
+        "url": "https://www.washingtonpost.com/wp-stat/assets/favicons/touch-icon-iphone.png"
       }
     }
   },
@@ -2476,22 +2098,15 @@
     "points": 14,
     "comment_count": 1,
     "hn_item": {
-      "by": "doener",
-      "descendants": 25,
-      "id": 30125730,
-      "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
-      ],
-      "score": 53,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
+      "by": "fangpenlin",
+      "descendants": 0,
+      "id": 30141215,
+      "kids": null,
+      "score": 18,
+      "time": 1643577545,
+      "title": "Show HN: BeanHub – A GitHub for Beancount",
       "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+      "url": "https://beanhub.io/"
     },
     "og_item": {
       "title": "Harvard ceramics program recreates Art Museums’ pieces",
@@ -2520,6 +2135,55 @@
     }
   },
   {
+    "id": 30144892,
+    "title": "Kia’s new EV6 electric crossover goes straight to the head of the pack",
+    "url": "https://arstechnica.com/cars/2022/01/kias-new-ev6-electric-crossover-goes-straight-to-the-head-of-the-pack/",
+    "time": 1643607086,
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/01/Kia-EV6-1-760x380.jpg",
+    "icon": "https://cdn.arstechnica.net/wp-content/themes/ars/assets/img/material-ars-db41652381.png",
+    "publisher": "Ars Technica",
+    "description": "It's highly efficient, fun to drive, and loaded with equipment, too.",
+    "by": "feross",
+    "points": 6,
+    "comment_count": 2,
+    "hn_item": {
+      "by": "fangpenlin",
+      "descendants": 0,
+      "id": 30141215,
+      "kids": null,
+      "score": 18,
+      "time": 1643577545,
+      "title": "Show HN: BeanHub – A GitHub for Beancount",
+      "type": "story",
+      "url": "https://beanhub.io/"
+    },
+    "og_item": {
+      "title": "Kia’s new EV6 electric crossover goes straight to the head of the pack",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/01/Kia-EV6-1-760x380.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://arstechnica.com/cars/2022/01/kias-new-ev6-electric-crossover-goes-straight-to-the-head-of-the-pack/",
+      "audio": [],
+      "description": "It's highly efficient, fun to drive, and loaded with equipment, too.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Ars Technica",
+      "video": [],
+      "favicon": {
+        "url": "https://cdn.arstechnica.net/wp-content/themes/ars/assets/img/material-ars-db41652381.png"
+      }
+    }
+  },
+  {
     "id": 30143377,
     "title": "A Simple Transformer Implementation(PyTorch) Without Difficult Syntax",
     "url": "https://github.com/IpsumDominum/Pytorch-Simple-Transformer",
@@ -2532,22 +2196,15 @@
     "points": 7,
     "comment_count": 1,
     "hn_item": {
-      "by": "doener",
-      "descendants": 25,
-      "id": 30125730,
-      "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
-      ],
-      "score": 53,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
+      "by": "fangpenlin",
+      "descendants": 0,
+      "id": 30141215,
+      "kids": null,
+      "score": 18,
+      "time": 1643577545,
+      "title": "Show HN: BeanHub – A GitHub for Beancount",
       "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+      "url": "https://beanhub.io/"
     },
     "og_item": {
       "title": "GitHub - IpsumDominum/Pytorch-Simple-Transformer: A simple transformer implementation without difficult syntax and extra bells and whistles.",
@@ -2585,25 +2242,18 @@
     "publisher": "Eurogamer.net",
     "description": "",
     "by": "atombender",
-    "points": 227,
+    "points": 228,
     "comment_count": 25,
     "hn_item": {
-      "by": "doener",
-      "descendants": 25,
-      "id": 30125730,
-      "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
-      ],
-      "score": 53,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
+      "by": "fangpenlin",
+      "descendants": 0,
+      "id": 30141215,
+      "kids": null,
+      "score": 18,
+      "time": 1643577545,
+      "title": "Show HN: BeanHub – A GitHub for Beancount",
       "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+      "url": "https://beanhub.io/"
     },
     "og_item": {
       "title": "Sega quits Japanese arcade business after 50 years",
@@ -2632,53 +2282,6 @@
     }
   },
   {
-    "id": 30138669,
-    "title": "Ask HN: Has anyone leveraged GDPR to overturn automated bans?",
-    "url": "https://news.ycombinator.com/item?id=30138669",
-    "time": 1643561257,
-    "image": "",
-    "icon": "https://news.ycombinator.com/favicon.ico",
-    "publisher": "Hacker News",
-    "description": "",
-    "by": "ndmrs",
-    "points": 139,
-    "comment_count": 12,
-    "hn_item": {
-      "by": "doener",
-      "descendants": 25,
-      "id": 30125730,
-      "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
-      ],
-      "score": 53,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
-      "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
-    },
-    "og_item": {
-      "title": "Ask HN: Has anyone leveraged GDPR to overturn automated bans? | Hacker News",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30132612,
     "title": "John Locke’s recipe for Pancakes (2021)",
     "url": "https://rarecooking.com/2021/12/14/john-lockes-recipe-for-pancakes/",
@@ -2691,22 +2294,15 @@
     "points": 259,
     "comment_count": 32,
     "hn_item": {
-      "by": "doener",
-      "descendants": 25,
-      "id": 30125730,
-      "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
-      ],
-      "score": 53,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
+      "by": "fangpenlin",
+      "descendants": 0,
+      "id": 30141215,
+      "kids": null,
+      "score": 18,
+      "time": 1643577545,
+      "title": "Show HN: BeanHub – A GitHub for Beancount",
       "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+      "url": "https://beanhub.io/"
     },
     "og_item": {
       "title": "John Locke’s recipe for Pancakes",
@@ -2735,6 +2331,46 @@
     }
   },
   {
+    "id": 30138669,
+    "title": "Ask HN: Has anyone leveraged GDPR to overturn automated bans?",
+    "url": "https://news.ycombinator.com/item?id=30138669",
+    "time": 1643561257,
+    "image": "",
+    "icon": "https://news.ycombinator.com/favicon.ico",
+    "publisher": "Hacker News",
+    "description": "",
+    "by": "ndmrs",
+    "points": 139,
+    "comment_count": 12,
+    "hn_item": {
+      "by": "fangpenlin",
+      "descendants": 0,
+      "id": 30141215,
+      "kids": null,
+      "score": 18,
+      "time": 1643577545,
+      "title": "Show HN: BeanHub – A GitHub for Beancount",
+      "type": "story",
+      "url": "https://beanhub.io/"
+    },
+    "og_item": {
+      "title": "Ask HN: Has anyone leveraged GDPR to overturn automated bans? | Hacker News",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30137681,
     "title": "In defence of the boring web",
     "url": "https://bastian.rieck.me/blog/posts/2022/boring/",
@@ -2744,25 +2380,18 @@
     "publisher": "bastian.rieck.me",
     "description": "",
     "by": "Topolomancer",
-    "points": 203,
+    "points": 204,
     "comment_count": 24,
     "hn_item": {
-      "by": "doener",
-      "descendants": 25,
-      "id": 30125730,
-      "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
-      ],
-      "score": 53,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
+      "by": "fangpenlin",
+      "descendants": 0,
+      "id": 30141215,
+      "kids": null,
+      "score": 18,
+      "time": 1643577545,
+      "title": "Show HN: BeanHub – A GitHub for Beancount",
       "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+      "url": "https://beanhub.io/"
     },
     "og_item": {
       "title": "In Defence of the Boring Web",
@@ -2794,22 +2423,15 @@
     "points": 143,
     "comment_count": 7,
     "hn_item": {
-      "by": "doener",
-      "descendants": 25,
-      "id": 30125730,
-      "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
-      ],
-      "score": 53,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
+      "by": "fangpenlin",
+      "descendants": 0,
+      "id": 30141215,
+      "kids": null,
+      "score": 18,
+      "time": 1643577545,
+      "title": "Show HN: BeanHub – A GitHub for Beancount",
       "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+      "url": "https://beanhub.io/"
     },
     "og_item": {
       "title": "[1398] A Padlock I’d Use: Abus Granit 37RK/80 (Pick \u0026 Gut)",
@@ -2859,22 +2481,15 @@
     "points": 35,
     "comment_count": 5,
     "hn_item": {
-      "by": "doener",
-      "descendants": 25,
-      "id": 30125730,
-      "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
-      ],
-      "score": 53,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
+      "by": "fangpenlin",
+      "descendants": 0,
+      "id": 30141215,
+      "kids": null,
+      "score": 18,
+      "time": 1643577545,
+      "title": "Show HN: BeanHub – A GitHub for Beancount",
       "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+      "url": "https://beanhub.io/"
     },
     "og_item": {
       "title": "Show the case against - shubhro.com",
@@ -2894,6 +2509,46 @@
     }
   },
   {
+    "id": 30143170,
+    "title": "How long has _ existed?",
+    "url": "https://howoldisit.glitch.me",
+    "time": 1643591138,
+    "image": "",
+    "icon": "https://howoldisit.glitch.me/code.ico",
+    "publisher": "howoldisit.glitch.me",
+    "description": "",
+    "by": "zdw",
+    "points": 7,
+    "comment_count": 1,
+    "hn_item": {
+      "by": "fangpenlin",
+      "descendants": 0,
+      "id": 30141215,
+      "kids": null,
+      "score": 18,
+      "time": 1643577545,
+      "title": "Show HN: BeanHub – A GitHub for Beancount",
+      "type": "story",
+      "url": "https://beanhub.io/"
+    },
+    "og_item": {
+      "title": "You want HOW MANY years experience?!",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/code.ico"
+      }
+    }
+  },
+  {
     "id": 30129565,
     "title": "Static-Let, or how I Learned to stop worrying and love Load-Time-Value",
     "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md",
@@ -2906,22 +2561,15 @@
     "points": 9,
     "comment_count": 2,
     "hn_item": {
-      "by": "doener",
-      "descendants": 25,
-      "id": 30125730,
-      "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
-      ],
-      "score": 53,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
+      "by": "fangpenlin",
+      "descendants": 0,
+      "id": 30141215,
+      "kids": null,
+      "score": 18,
+      "time": 1643577545,
+      "title": "Show HN: BeanHub – A GitHub for Beancount",
       "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+      "url": "https://beanhub.io/"
     },
     "og_item": {
       "title": "articles/static-let.md at main · phoe/articles",
@@ -2962,22 +2610,15 @@
     "points": 25,
     "comment_count": 2,
     "hn_item": {
-      "by": "doener",
-      "descendants": 25,
-      "id": 30125730,
-      "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
-      ],
-      "score": 53,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
+      "by": "fangpenlin",
+      "descendants": 0,
+      "id": 30141215,
+      "kids": null,
+      "score": 18,
+      "time": 1643577545,
+      "title": "Show HN: BeanHub – A GitHub for Beancount",
       "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+      "url": "https://beanhub.io/"
     },
     "og_item": {
       "title": "The Game of War: An Overview | Alexander R. Galloway",
@@ -3015,25 +2656,18 @@
     "publisher": "susam.net",
     "description": "",
     "by": "susam",
-    "points": 38,
+    "points": 39,
     "comment_count": 4,
     "hn_item": {
-      "by": "doener",
-      "descendants": 25,
-      "id": 30125730,
-      "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
-      ],
-      "score": 53,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
+      "by": "fangpenlin",
+      "descendants": 0,
+      "id": 30141215,
+      "kids": null,
+      "score": 18,
+      "time": 1643577545,
+      "title": "Show HN: BeanHub – A GitHub for Beancount",
       "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+      "url": "https://beanhub.io/"
     },
     "og_item": {
       "title": "Very Remote Lisp Debugging Story - Susam's Maze",
@@ -3062,122 +2696,21 @@
     "publisher": "jeremymikkola.com",
     "description": "",
     "by": "piinbinary",
-    "points": 129,
+    "points": 130,
     "comment_count": 12,
     "hn_item": {
-      "by": "doener",
-      "descendants": 25,
-      "id": 30125730,
-      "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
-      ],
-      "score": 53,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
+      "by": "fangpenlin",
+      "descendants": 0,
+      "id": 30141215,
+      "kids": null,
+      "score": 18,
+      "time": 1643577545,
+      "title": "Show HN: BeanHub – A GitHub for Beancount",
       "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+      "url": "https://beanhub.io/"
     },
     "og_item": {
       "title": "Jeremy Mikkola - Tech debt gets worse before it gets better",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30142896,
-    "title": "Decrypt an encrypted message to any plaintext",
-    "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts",
-    "time": 1643589180,
-    "image": "",
-    "icon": "https://www.go350.com/favicon-16x16.png",
-    "publisher": "go350.com",
-    "description": "a one-time pad implementation",
-    "by": "_wldu",
-    "points": 12,
-    "comment_count": 1,
-    "hn_item": {
-      "by": "doener",
-      "descendants": 25,
-      "id": 30125730,
-      "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
-      ],
-      "score": 53,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
-      "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
-    },
-    "og_item": {
-      "title": "Padder",
-      "type": "article",
-      "image": [],
-      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/",
-      "audio": [],
-      "description": "a one-time pad implementation",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon-16x16.png"
-      }
-    }
-  },
-  {
-    "id": 30137864,
-    "title": "Midnight Commander Tips and Tricks",
-    "url": "http://www.softpanorama.org/OFM/MC/mc_tips.shtml",
-    "time": 1643555741,
-    "image": "",
-    "icon": "",
-    "publisher": "softpanorama.org",
-    "description": "",
-    "by": "ingve",
-    "points": 156,
-    "comment_count": 18,
-    "hn_item": {
-      "by": "doener",
-      "descendants": 25,
-      "id": 30125730,
-      "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
-      ],
-      "score": 53,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
-      "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
-    },
-    "og_item": {
-      "title": "Midnight Commander Tips and Tricks",
       "type": "",
       "image": [],
       "url": "",
@@ -3206,22 +2739,15 @@
     "points": 94,
     "comment_count": 10,
     "hn_item": {
-      "by": "doener",
-      "descendants": 25,
-      "id": 30125730,
-      "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
-      ],
-      "score": 53,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
+      "by": "fangpenlin",
+      "descendants": 0,
+      "id": 30141215,
+      "kids": null,
+      "score": 18,
+      "time": 1643577545,
+      "title": "Show HN: BeanHub – A GitHub for Beancount",
       "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+      "url": "https://beanhub.io/"
     },
     "og_item": {
       "title": "Unredacted Word",
@@ -3250,6 +2776,86 @@
     }
   },
   {
+    "id": 30137864,
+    "title": "Midnight Commander Tips and Tricks",
+    "url": "http://www.softpanorama.org/OFM/MC/mc_tips.shtml",
+    "time": 1643555741,
+    "image": "",
+    "icon": "",
+    "publisher": "softpanorama.org",
+    "description": "",
+    "by": "ingve",
+    "points": 156,
+    "comment_count": 18,
+    "hn_item": {
+      "by": "fangpenlin",
+      "descendants": 0,
+      "id": 30141215,
+      "kids": null,
+      "score": 18,
+      "time": 1643577545,
+      "title": "Show HN: BeanHub – A GitHub for Beancount",
+      "type": "story",
+      "url": "https://beanhub.io/"
+    },
+    "og_item": {
+      "title": "Midnight Commander Tips and Tricks",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30142896,
+    "title": "Decrypt an encrypted message to any plaintext",
+    "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts",
+    "time": 1643589180,
+    "image": "",
+    "icon": "https://www.go350.com/favicon-16x16.png",
+    "publisher": "go350.com",
+    "description": "a one-time pad implementation",
+    "by": "_wldu",
+    "points": 12,
+    "comment_count": 1,
+    "hn_item": {
+      "by": "fangpenlin",
+      "descendants": 0,
+      "id": 30141215,
+      "kids": null,
+      "score": 18,
+      "time": 1643577545,
+      "title": "Show HN: BeanHub – A GitHub for Beancount",
+      "type": "story",
+      "url": "https://beanhub.io/"
+    },
+    "og_item": {
+      "title": "Padder",
+      "type": "article",
+      "image": [],
+      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/",
+      "audio": [],
+      "description": "a one-time pad implementation",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon-16x16.png"
+      }
+    }
+  },
+  {
     "id": 30144041,
     "title": "Autonomous Detection and Deterrence of Pigeons on Buildings by Drones",
     "url": "https://ieeexplore.ieee.org/document/9656717",
@@ -3262,22 +2868,15 @@
     "points": 3,
     "comment_count": 0,
     "hn_item": {
-      "by": "doener",
-      "descendants": 25,
-      "id": 30125730,
-      "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
-      ],
-      "score": 53,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
+      "by": "fangpenlin",
+      "descendants": 0,
+      "id": 30141215,
+      "kids": null,
+      "score": 18,
+      "time": 1643577545,
+      "title": "Show HN: BeanHub – A GitHub for Beancount",
       "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+      "url": "https://beanhub.io/"
     },
     "og_item": {
       "title": "Autonomous Detection and Deterrence of Pigeons on Buildings by Drones",
@@ -3306,53 +2905,6 @@
     }
   },
   {
-    "id": 30143170,
-    "title": "How long has _ existed?",
-    "url": "https://howoldisit.glitch.me",
-    "time": 1643591138,
-    "image": "",
-    "icon": "https://howoldisit.glitch.me/code.ico",
-    "publisher": "howoldisit.glitch.me",
-    "description": "",
-    "by": "zdw",
-    "points": 6,
-    "comment_count": 1,
-    "hn_item": {
-      "by": "doener",
-      "descendants": 25,
-      "id": 30125730,
-      "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
-      ],
-      "score": 53,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
-      "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
-    },
-    "og_item": {
-      "title": "You want HOW MANY years experience?!",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/code.ico"
-      }
-    }
-  },
-  {
     "id": 30141784,
     "title": "I crowdfunded a novel using cryptocurrency",
     "url": "https://ellegriffin.substack.com/p/crypto-funded-nft-novel",
@@ -3365,22 +2917,15 @@
     "points": 14,
     "comment_count": 4,
     "hn_item": {
-      "by": "doener",
-      "descendants": 25,
-      "id": 30125730,
-      "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
-      ],
-      "score": 53,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
+      "by": "fangpenlin",
+      "descendants": 0,
+      "id": 30141215,
+      "kids": null,
+      "score": 18,
+      "time": 1643577545,
+      "title": "Show HN: BeanHub – A GitHub for Beancount",
       "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+      "url": "https://beanhub.io/"
     },
     "og_item": {
       "title": "I crowdfunded a novel using cryptocurrency ",
@@ -3421,22 +2966,15 @@
     "points": 35,
     "comment_count": 5,
     "hn_item": {
-      "by": "doener",
-      "descendants": 25,
-      "id": 30125730,
-      "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
-      ],
-      "score": 53,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
+      "by": "fangpenlin",
+      "descendants": 0,
+      "id": 30141215,
+      "kids": null,
+      "score": 18,
+      "time": 1643577545,
+      "title": "Show HN: BeanHub – A GitHub for Beancount",
       "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+      "url": "https://beanhub.io/"
     },
     "og_item": null
   },
@@ -3453,22 +2991,15 @@
     "points": 99,
     "comment_count": 5,
     "hn_item": {
-      "by": "doener",
-      "descendants": 25,
-      "id": 30125730,
-      "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
-      ],
-      "score": 53,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
+      "by": "fangpenlin",
+      "descendants": 0,
+      "id": 30141215,
+      "kids": null,
+      "score": 18,
+      "time": 1643577545,
+      "title": "Show HN: BeanHub – A GitHub for Beancount",
       "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+      "url": "https://beanhub.io/"
     },
     "og_item": {
       "title": "All News - Steel Bank Common Lisp",
@@ -3500,22 +3031,15 @@
     "points": 24,
     "comment_count": 2,
     "hn_item": {
-      "by": "doener",
-      "descendants": 25,
-      "id": 30125730,
-      "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
-      ],
-      "score": 53,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
+      "by": "fangpenlin",
+      "descendants": 0,
+      "id": 30141215,
+      "kids": null,
+      "score": 18,
+      "time": 1643577545,
+      "title": "Show HN: BeanHub – A GitHub for Beancount",
       "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+      "url": "https://beanhub.io/"
     },
     "og_item": {
       "title": "DDS — dds 0.1.0-alpha.3 documentation",
@@ -3535,6 +3059,55 @@
     }
   },
   {
+    "id": 30142494,
+    "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
+    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/",
+    "time": 1643586052,
+    "image": "https://www.reuters.com/resizer/nJB_ZidKD76ip6VAQlGhKHf1JI8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PYPUULVDLFI5ZBML3UV35CE4TA.jpg",
+    "icon": "https://www.reuters.com/pf/resources/icons/favicon.ico?d=69",
+    "publisher": "Reuters",
+    "description": "The highly transmissible Omicron variant of the SARS-CoV-2 virus - the most common form of which is known as BA.1 - now accounts for nearly all of the coronavirus infections globally, although dramatic surges in COVID cases have already peaked in some countries.",
+    "by": "lsllc",
+    "points": 27,
+    "comment_count": 1,
+    "hn_item": {
+      "by": "fangpenlin",
+      "descendants": 0,
+      "id": 30141215,
+      "kids": null,
+      "score": 18,
+      "time": 1643577545,
+      "title": "Show HN: BeanHub – A GitHub for Beancount",
+      "type": "story",
+      "url": "https://beanhub.io/"
+    },
+    "og_item": {
+      "title": "Explainer: Scientists on alert over rising cases caused by Omicron cousin BA.2",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://www.reuters.com/resizer/nJB_ZidKD76ip6VAQlGhKHf1JI8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PYPUULVDLFI5ZBML3UV35CE4TA.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/",
+      "audio": [],
+      "description": "The highly transmissible Omicron variant of the SARS-CoV-2 virus - the most common form of which is known as BA.1 - now accounts for nearly all of the coronavirus infections globally, although dramatic surges in COVID cases have already peaked in some countries.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Reuters",
+      "video": [],
+      "favicon": {
+        "url": "/pf/resources/icons/favicon.ico?d=69"
+      }
+    }
+  },
+  {
     "id": 30141215,
     "title": "Show HN: BeanHub – A GitHub for Beancount",
     "url": "https://beanhub.io/",
@@ -3547,22 +3120,15 @@
     "points": 18,
     "comment_count": 0,
     "hn_item": {
-      "by": "doener",
-      "descendants": 25,
-      "id": 30125730,
-      "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
-      ],
-      "score": 53,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
+      "by": "fangpenlin",
+      "descendants": 0,
+      "id": 30141215,
+      "kids": null,
+      "score": 18,
+      "time": 1643577545,
+      "title": "Show HN: BeanHub – A GitHub for Beancount",
       "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+      "url": "https://beanhub.io/"
     },
     "og_item": {
       "title": "\n    BeanHub\n    ",
@@ -3578,71 +3144,6 @@
       "video": [],
       "favicon": {
         "url": "/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30125730,
-    "title": "How Amiga 500 RAM Probably Works",
-    "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs",
-    "time": 1643458917,
-    "image": "https://i.ytimg.com/vi/e_f2Kg-bBUs/hqdefault.jpg",
-    "icon": "https://www.youtube.com/s/desktop/ca9cd554/img/favicon_144x144.png",
-    "publisher": "YouTube",
-    "description": "Amiga 500 RAM can be a bit of a mystery, like ghosts. But once you understand it, you'll never not understand it again. In this episode of \"How Things Probab...",
-    "by": "doener",
-    "points": 53,
-    "comment_count": 6,
-    "hn_item": {
-      "by": "doener",
-      "descendants": 25,
-      "id": 30125730,
-      "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
-      ],
-      "score": 53,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
-      "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
-    },
-    "og_item": {
-      "title": "How Amiga 500 RAM Probably Works | How Things Probably Work",
-      "type": "video.other",
-      "image": [
-        {
-          "url": "https://i.ytimg.com/vi/e_f2Kg-bBUs/hqdefault.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 480,
-          "height": 360,
-          "alt": ""
-        }
-      ],
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs",
-      "audio": [],
-      "description": "Amiga 500 RAM can be a bit of a mystery, like ghosts. But once you understand it, you'll never not understand it again. In this episode of \"How Things Probab...",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "YouTube",
-      "video": [
-        {
-          "url": "https://www.youtube.com/embed/e_f2Kg-bBUs",
-          "secure_url": "https://www.youtube.com/embed/e_f2Kg-bBUs",
-          "type": "text/html",
-          "width": 1280,
-          "height": 720,
-          "duration": 0
-        }
-      ],
-      "favicon": {
-        "url": "https://www.youtube.com/s/desktop/ca9cd554/img/favicon_144x144.png"
       }
     }
   }
