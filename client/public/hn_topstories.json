@@ -9,7 +9,7 @@
     "publisher": "zillow.com",
     "description": "",
     "by": "otras",
-    "points": 101,
+    "points": 106,
     "comment_count": 18,
     "hn_item": {
       "by": "fangpenlin",
@@ -49,7 +49,7 @@
     "publisher": "royalsociety.org",
     "description": "The Online Information Environment report discusses how to limit the harm of scientific misinformation online",
     "by": "steelstraw",
-    "points": 500,
+    "points": 510,
     "comment_count": 40,
     "hn_item": {
       "by": "fangpenlin",
@@ -98,8 +98,8 @@
     "publisher": "cacm.acm.org",
     "description": "AI is driving the next evolution of chess, giving players a glimpse into the game\u0026#39;s future.",
     "by": "joak",
-    "points": 36,
-    "comment_count": 4,
+    "points": 39,
+    "comment_count": 6,
     "hn_item": {
       "by": "fangpenlin",
       "descendants": 0,
@@ -134,6 +134,95 @@
       "video": [],
       "favicon": {
         "url": "/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30144021,
+    "title": "How I Discovered Thousands of Open Databases on AWS",
+    "url": "https://infosecwriteups.com/how-i-discovered-thousands-of-open-databases-on-aws-764729aa7f32?gi=ba781482d685",
+    "time": 1643598347,
+    "image": "https://miro.medium.com/max/1200/1*NxOo3DS3ZzyWxGvxSwIqyw.png",
+    "icon": "https://miro.medium.com/fit/c/256/256/1*vkqyAEGdZQZNbQp1AswznQ.png",
+    "publisher": "Medium",
+    "description": "My journey on finding and reporting databases with sensitive data about Fortune-500 companies, Hospitals, Crypto platforms, Startups during…",
+    "by": "boyter",
+    "points": 33,
+    "comment_count": 5,
+    "hn_item": {
+      "by": "fangpenlin",
+      "descendants": 0,
+      "id": 30141215,
+      "kids": null,
+      "score": 16,
+      "time": 1643577545,
+      "title": "Show HN: BeanHub – A GitHub for Beancount",
+      "type": "story",
+      "url": "https://beanhub.io/"
+    },
+    "og_item": {
+      "title": "How I Discovered Thousands of Open Databases on AWS",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://miro.medium.com/max/1200/1*NxOo3DS3ZzyWxGvxSwIqyw.png",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://infosecwriteups.com/how-i-discovered-thousands-of-open-databases-on-aws-764729aa7f32",
+      "audio": [],
+      "description": "My journey on finding and reporting databases with sensitive data about Fortune-500 companies, Hospitals, Crypto platforms, Startups during…",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Medium",
+      "video": [],
+      "favicon": {
+        "url": "https://miro.medium.com/fit/c/256/256/1*vkqyAEGdZQZNbQp1AswznQ.png"
+      }
+    }
+  },
+  {
+    "id": 30137984,
+    "title": "Show HN: Web page that parses and explains the label on a bike tire",
+    "url": "https://fahrrad-tools.de/tire.html",
+    "time": 1643556717,
+    "image": "",
+    "icon": "https://fahrrad-tools.de/tire.html/icon.png",
+    "publisher": "fahrrad-tools.de",
+    "description": "Which tire fits my bike? Tires are always flat and now buy a tire with puncture protection? Find the right tire now!",
+    "by": "moasda",
+    "points": 544,
+    "comment_count": 36,
+    "hn_item": {
+      "by": "fangpenlin",
+      "descendants": 0,
+      "id": 30141215,
+      "kids": null,
+      "score": 16,
+      "time": 1643577545,
+      "title": "Show HN: BeanHub – A GitHub for Beancount",
+      "type": "story",
+      "url": "https://beanhub.io/"
+    },
+    "og_item": {
+      "title": "Bike Tire | Fahrrad-Tools.de",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "Which tire fits my bike? Tires are always flat and now buy a tire with puncture protection? Find the right tire now!",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "icon.png"
       }
     }
   },
@@ -187,17 +276,17 @@
     }
   },
   {
-    "id": 30137984,
-    "title": "Show HN: Web page that parses and explains the label on a bike tire",
-    "url": "https://fahrrad-tools.de/tire.html",
-    "time": 1643556717,
+    "id": 30124457,
+    "title": "Chip shortages due to lack of investment in right fabs",
+    "url": "https://www.theregister.com/2022/01/28/idc_chip_shortages/",
+    "time": 1643440457,
     "image": "",
-    "icon": "https://fahrrad-tools.de/tire.html/icon.png",
-    "publisher": "fahrrad-tools.de",
-    "description": "Which tire fits my bike? Tires are always flat and now buy a tire with puncture protection? Find the right tire now!",
-    "by": "moasda",
-    "points": 543,
-    "comment_count": 36,
+    "icon": "https://www.theregister.com/favicon.ico",
+    "publisher": "theregister.com",
+    "description": "",
+    "by": "laktak",
+    "points": 12,
+    "comment_count": 1,
     "hn_item": {
       "by": "fangpenlin",
       "descendants": 0,
@@ -210,68 +299,19 @@
       "url": "https://beanhub.io/"
     },
     "og_item": {
-      "title": "Bike Tire | Fahrrad-Tools.de",
+      "title": "",
       "type": "",
       "image": [],
       "url": "",
       "audio": [],
-      "description": "Which tire fits my bike? Tires are always flat and now buy a tire with puncture protection? Find the right tire now!",
+      "description": "",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
       "site_name": "",
       "video": [],
       "favicon": {
-        "url": "icon.png"
-      }
-    }
-  },
-  {
-    "id": 30144021,
-    "title": "How I Discovered Thousands of Open Databases on AWS",
-    "url": "https://infosecwriteups.com/how-i-discovered-thousands-of-open-databases-on-aws-764729aa7f32?gi=ba781482d685",
-    "time": 1643598347,
-    "image": "https://miro.medium.com/max/1200/1*NxOo3DS3ZzyWxGvxSwIqyw.png",
-    "icon": "https://miro.medium.com/fit/c/256/256/1*vkqyAEGdZQZNbQp1AswznQ.png",
-    "publisher": "Medium",
-    "description": "My journey on finding and reporting databases with sensitive data about Fortune-500 companies, Hospitals, Crypto platforms, Startups during…",
-    "by": "boyter",
-    "points": 28,
-    "comment_count": 5,
-    "hn_item": {
-      "by": "fangpenlin",
-      "descendants": 0,
-      "id": 30141215,
-      "kids": null,
-      "score": 16,
-      "time": 1643577545,
-      "title": "Show HN: BeanHub – A GitHub for Beancount",
-      "type": "story",
-      "url": "https://beanhub.io/"
-    },
-    "og_item": {
-      "title": "How I Discovered Thousands of Open Databases on AWS",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://miro.medium.com/max/1200/1*NxOo3DS3ZzyWxGvxSwIqyw.png",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://infosecwriteups.com/how-i-discovered-thousands-of-open-databases-on-aws-764729aa7f32",
-      "audio": [],
-      "description": "My journey on finding and reporting databases with sensitive data about Fortune-500 companies, Hospitals, Crypto platforms, Startups during…",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Medium",
-      "video": [],
-      "favicon": {
-        "url": "https://miro.medium.com/fit/c/256/256/1*vkqyAEGdZQZNbQp1AswznQ.png"
+        "url": "/favicon.ico"
       }
     }
   },
@@ -285,7 +325,7 @@
     "publisher": "Azimuth",
     "description": "In his book Ramanujan: Twelve Lectures on Subjects Suggested by His Life and Work, G. H. Hardy tells this famous story: He could remember the idiosyncracies of numbers in an almost uncanny way. It …",
     "by": "johncarlosbaez",
-    "points": 64,
+    "points": 65,
     "comment_count": 6,
     "hn_item": {
       "by": "fangpenlin",
@@ -321,46 +361,6 @@
       "video": [],
       "favicon": {
         "url": "https://s0.wp.com/i/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30124457,
-    "title": "Chip shortages due to lack of investment in right fabs",
-    "url": "https://www.theregister.com/2022/01/28/idc_chip_shortages/",
-    "time": 1643440457,
-    "image": "",
-    "icon": "https://www.theregister.com/favicon.ico",
-    "publisher": "theregister.com",
-    "description": "",
-    "by": "laktak",
-    "points": 8,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "fangpenlin",
-      "descendants": 0,
-      "id": 30141215,
-      "kids": null,
-      "score": 16,
-      "time": 1643577545,
-      "title": "Show HN: BeanHub – A GitHub for Beancount",
-      "type": "story",
-      "url": "https://beanhub.io/"
-    },
-    "og_item": {
-      "title": "",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
       }
     }
   },
@@ -463,7 +463,7 @@
     "publisher": "hypercardsimulator.com",
     "description": "",
     "by": "alexmingoia",
-    "points": 203,
+    "points": 204,
     "comment_count": 14,
     "hn_item": {
       "by": "fangpenlin",
@@ -534,6 +534,233 @@
     }
   },
   {
+    "id": 30134367,
+    "title": "The case of the mysterious --help directory (2020)",
+    "url": "https://leahneukirchen.org/blog/archive/2020/05/the-case-of-the-mysterious-help-directory.html",
+    "time": 1643520785,
+    "image": "",
+    "icon": "https://leahneukirchen.org/favicon.ico",
+    "publisher": "leahneukirchen.org",
+    "description": "",
+    "by": "panic",
+    "points": 132,
+    "comment_count": 10,
+    "hn_item": {
+      "by": "fangpenlin",
+      "descendants": 0,
+      "id": 30141215,
+      "kids": null,
+      "score": 16,
+      "time": 1643577545,
+      "title": "Show HN: BeanHub – A GitHub for Beancount",
+      "type": "story",
+      "url": "https://beanhub.io/"
+    },
+    "og_item": {
+      "title": "leah blogs: The case of the mysterious --help directory",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30144083,
+    "title": "Rents are up 40 percent in some cities, forcing millions to move",
+    "url": "https://www.washingtonpost.com/business/2022/01/30/rent-inflation-housing/",
+    "time": 1643599234,
+    "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QJQ7K2D774I6ZDGIW2LFMS5HSY.jpg\u0026w=1440",
+    "icon": "https://www.washingtonpost.com/wp-stat/assets/favicons/touch-icon-iphone.png",
+    "publisher": "Washington Post",
+    "description": "Rising rents are also expected to be a driving force in inflation this year and have been an ongoing policy challenge for the Biden administration.",
+    "by": "MilnerRoute",
+    "points": 45,
+    "comment_count": 8,
+    "hn_item": {
+      "by": "fangpenlin",
+      "descendants": 0,
+      "id": 30141215,
+      "kids": null,
+      "score": 16,
+      "time": 1643577545,
+      "title": "Show HN: BeanHub – A GitHub for Beancount",
+      "type": "story",
+      "url": "https://beanhub.io/"
+    },
+    "og_item": {
+      "title": "Rents are up 40 percent in some cities, forcing millions to find another place to live",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QJQ7K2D774I6ZDGIW2LFMS5HSY.jpg\u0026w=1440",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://www.washingtonpost.com/business/2022/01/30/rent-inflation-housing/",
+      "audio": [],
+      "description": "Rising rents are also expected to be a driving force in inflation this year and have been an ongoing policy challenge for the Biden administration.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Washington Post",
+      "video": [],
+      "favicon": {
+        "url": "https://www.washingtonpost.com/wp-stat/assets/favicons/touch-icon-iphone.png"
+      }
+    }
+  },
+  {
+    "id": 30141192,
+    "title": "Don't forget Microsoft",
+    "url": "https://luttig.substack.com/p/dont-forget-microsoft",
+    "time": 1643577413,
+    "image": "https://cdn.substack.com/image/fetch/w_1200,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8ddf68e0-c549-49b6-8751-226f54fd4e30_1280x720.jpeg",
+    "icon": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/9c349228-1ca8-4dba-b953-12d78b35ee45/favicon-32x32.png",
+    "publisher": "luttig.substack.com",
+    "description": "Understanding the behemoth in Redmond teaches us valuable lessons in cloud infrastructure, startup strategy, and the future of software.",
+    "by": "SamvitJ",
+    "points": 221,
+    "comment_count": 48,
+    "hn_item": {
+      "by": "fangpenlin",
+      "descendants": 0,
+      "id": 30141215,
+      "kids": null,
+      "score": 16,
+      "time": 1643577545,
+      "title": "Show HN: BeanHub – A GitHub for Beancount",
+      "type": "story",
+      "url": "https://beanhub.io/"
+    },
+    "og_item": {
+      "title": "Don’t forget Microsoft",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://cdn.substack.com/image/fetch/w_1200,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8ddf68e0-c549-49b6-8751-226f54fd4e30_1280x720.jpeg",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://luttig.substack.com/p/dont-forget-microsoft",
+      "audio": [],
+      "description": "Understanding the behemoth in Redmond teaches us valuable lessons in cloud infrastructure, startup strategy, and the future of software.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/9c349228-1ca8-4dba-b953-12d78b35ee45/favicon-32x32.png"
+      }
+    }
+  },
+  {
+    "id": 30138434,
+    "title": "Beancount: Double-entry accounting from text files",
+    "url": "https://github.com/beancount/beancount",
+    "time": 1643559445,
+    "image": "https://opengraph.githubassets.com/95b449b49ae08df599fcc18fe75336114eef4623adae8dbc72b507baafee59d2/beancount/beancount",
+    "icon": "https://github.githubassets.com/favicons/favicon.svg",
+    "publisher": "GitHub",
+    "description": "Beancount: Double-Entry Accounting from Text Files. - GitHub - beancount/beancount: Beancount: Double-Entry Accounting from Text Files.",
+    "by": "techtalsky",
+    "points": 190,
+    "comment_count": 21,
+    "hn_item": {
+      "by": "fangpenlin",
+      "descendants": 0,
+      "id": 30141215,
+      "kids": null,
+      "score": 16,
+      "time": 1643577545,
+      "title": "Show HN: BeanHub – A GitHub for Beancount",
+      "type": "story",
+      "url": "https://beanhub.io/"
+    },
+    "og_item": {
+      "title": "GitHub - beancount/beancount: Beancount: Double-Entry Accounting from Text Files.",
+      "type": "object",
+      "image": [
+        {
+          "url": "https://opengraph.githubassets.com/95b449b49ae08df599fcc18fe75336114eef4623adae8dbc72b507baafee59d2/beancount/beancount",
+          "secure_url": "",
+          "type": "",
+          "width": 1200,
+          "height": 600,
+          "alt": ""
+        }
+      ],
+      "url": "https://github.com/beancount/beancount",
+      "audio": [],
+      "description": "Beancount: Double-Entry Accounting from Text Files. - GitHub - beancount/beancount: Beancount: Double-Entry Accounting from Text Files.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "GitHub",
+      "video": [],
+      "favicon": {
+        "url": "https://github.githubassets.com/favicons/favicon.svg"
+      }
+    }
+  },
+  {
+    "id": 30128193,
+    "title": "On Immersion",
+    "url": "https://blog.laurel.world/on-immersion/",
+    "time": 1643477006,
+    "image": "",
+    "icon": "https://blog.laurel.world/favicon.ico",
+    "publisher": "blog.laurel.world",
+    "description": "",
+    "by": "artmare",
+    "points": 25,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "fangpenlin",
+      "descendants": 0,
+      "id": 30141215,
+      "kids": null,
+      "score": 16,
+      "time": 1643577545,
+      "title": "Show HN: BeanHub – A GitHub for Beancount",
+      "type": "story",
+      "url": "https://beanhub.io/"
+    },
+    "og_item": {
+      "title": "A couple years ago, I created this list: immersive: walking taking a shower sleeping teaching falling in love cinema life or death experience I was curious about these amazing parts of life that feel so meaningful — like portals, where time and space take on a totally different, enchanted feeling. I remember writing this list… – blog.laurel.world",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30142558,
     "title": "State of the Web: Static Site Generators",
     "url": "https://byteofdev.com/posts/static-site-generators/",
@@ -579,46 +806,6 @@
       "video": [],
       "favicon": {
         "url": "/favicon.svg"
-      }
-    }
-  },
-  {
-    "id": 30134367,
-    "title": "The case of the mysterious --help directory (2020)",
-    "url": "https://leahneukirchen.org/blog/archive/2020/05/the-case-of-the-mysterious-help-directory.html",
-    "time": 1643520785,
-    "image": "",
-    "icon": "https://leahneukirchen.org/favicon.ico",
-    "publisher": "leahneukirchen.org",
-    "description": "",
-    "by": "panic",
-    "points": 132,
-    "comment_count": 10,
-    "hn_item": {
-      "by": "fangpenlin",
-      "descendants": 0,
-      "id": 30141215,
-      "kids": null,
-      "score": 16,
-      "time": 1643577545,
-      "title": "Show HN: BeanHub – A GitHub for Beancount",
-      "type": "story",
-      "url": "https://beanhub.io/"
-    },
-    "og_item": {
-      "title": "leah blogs: The case of the mysterious --help directory",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
       }
     }
   },
@@ -672,153 +859,6 @@
     }
   },
   {
-    "id": 30144083,
-    "title": "Rents are up 40 percent in some cities, forcing millions to move",
-    "url": "https://www.washingtonpost.com/business/2022/01/30/rent-inflation-housing/",
-    "time": 1643599234,
-    "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QJQ7K2D774I6ZDGIW2LFMS5HSY.jpg\u0026w=1440",
-    "icon": "https://www.washingtonpost.com/wp-stat/assets/favicons/touch-icon-iphone.png",
-    "publisher": "Washington Post",
-    "description": "Rising rents are also expected to be a driving force in inflation this year and have been an ongoing policy challenge for the Biden administration.",
-    "by": "MilnerRoute",
-    "points": 42,
-    "comment_count": 7,
-    "hn_item": {
-      "by": "fangpenlin",
-      "descendants": 0,
-      "id": 30141215,
-      "kids": null,
-      "score": 16,
-      "time": 1643577545,
-      "title": "Show HN: BeanHub – A GitHub for Beancount",
-      "type": "story",
-      "url": "https://beanhub.io/"
-    },
-    "og_item": {
-      "title": "Rents are up 40 percent in some cities, forcing millions to find another place to live",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QJQ7K2D774I6ZDGIW2LFMS5HSY.jpg\u0026w=1440",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://www.washingtonpost.com/business/2022/01/30/rent-inflation-housing/",
-      "audio": [],
-      "description": "Rising rents are also expected to be a driving force in inflation this year and have been an ongoing policy challenge for the Biden administration.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Washington Post",
-      "video": [],
-      "favicon": {
-        "url": "https://www.washingtonpost.com/wp-stat/assets/favicons/touch-icon-iphone.png"
-      }
-    }
-  },
-  {
-    "id": 30141192,
-    "title": "Don't forget Microsoft",
-    "url": "https://luttig.substack.com/p/dont-forget-microsoft",
-    "time": 1643577413,
-    "image": "https://cdn.substack.com/image/fetch/w_1200,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8ddf68e0-c549-49b6-8751-226f54fd4e30_1280x720.jpeg",
-    "icon": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/9c349228-1ca8-4dba-b953-12d78b35ee45/favicon-32x32.png",
-    "publisher": "luttig.substack.com",
-    "description": "Understanding the behemoth in Redmond teaches us valuable lessons in cloud infrastructure, startup strategy, and the future of software.",
-    "by": "SamvitJ",
-    "points": 218,
-    "comment_count": 47,
-    "hn_item": {
-      "by": "fangpenlin",
-      "descendants": 0,
-      "id": 30141215,
-      "kids": null,
-      "score": 16,
-      "time": 1643577545,
-      "title": "Show HN: BeanHub – A GitHub for Beancount",
-      "type": "story",
-      "url": "https://beanhub.io/"
-    },
-    "og_item": {
-      "title": "Don’t forget Microsoft",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://cdn.substack.com/image/fetch/w_1200,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8ddf68e0-c549-49b6-8751-226f54fd4e30_1280x720.jpeg",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://luttig.substack.com/p/dont-forget-microsoft",
-      "audio": [],
-      "description": "Understanding the behemoth in Redmond teaches us valuable lessons in cloud infrastructure, startup strategy, and the future of software.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/9c349228-1ca8-4dba-b953-12d78b35ee45/favicon-32x32.png"
-      }
-    }
-  },
-  {
-    "id": 30138434,
-    "title": "Beancount: Double-entry accounting from text files",
-    "url": "https://github.com/beancount/beancount",
-    "time": 1643559445,
-    "image": "https://opengraph.githubassets.com/c6abf4bb5be6fa101f02b9544b1fcb1817e537041245027baf4ad26691e4e747/beancount/beancount",
-    "icon": "https://github.githubassets.com/favicons/favicon.svg",
-    "publisher": "GitHub",
-    "description": "Beancount: Double-Entry Accounting from Text Files. - GitHub - beancount/beancount: Beancount: Double-Entry Accounting from Text Files.",
-    "by": "techtalsky",
-    "points": 188,
-    "comment_count": 21,
-    "hn_item": {
-      "by": "fangpenlin",
-      "descendants": 0,
-      "id": 30141215,
-      "kids": null,
-      "score": 16,
-      "time": 1643577545,
-      "title": "Show HN: BeanHub – A GitHub for Beancount",
-      "type": "story",
-      "url": "https://beanhub.io/"
-    },
-    "og_item": {
-      "title": "GitHub - beancount/beancount: Beancount: Double-Entry Accounting from Text Files.",
-      "type": "object",
-      "image": [
-        {
-          "url": "https://opengraph.githubassets.com/c6abf4bb5be6fa101f02b9544b1fcb1817e537041245027baf4ad26691e4e747/beancount/beancount",
-          "secure_url": "",
-          "type": "",
-          "width": 1200,
-          "height": 600,
-          "alt": ""
-        }
-      ],
-      "url": "https://github.com/beancount/beancount",
-      "audio": [],
-      "description": "Beancount: Double-Entry Accounting from Text Files. - GitHub - beancount/beancount: Beancount: Double-Entry Accounting from Text Files.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "GitHub",
-      "video": [],
-      "favicon": {
-        "url": "https://github.githubassets.com/favicons/favicon.svg"
-      }
-    }
-  },
-  {
     "id": 30140984,
     "title": "A UX designer walks into a Tesla Bar",
     "url": "https://jenson.org/tesla/",
@@ -828,7 +868,7 @@
     "publisher": "jenson.org",
     "description": "",
     "by": "radley",
-    "points": 643,
+    "points": 646,
     "comment_count": 92,
     "hn_item": {
       "by": "fangpenlin",
@@ -908,46 +948,6 @@
     }
   },
   {
-    "id": 30128193,
-    "title": "On Immersion",
-    "url": "https://blog.laurel.world/on-immersion/",
-    "time": 1643477006,
-    "image": "",
-    "icon": "https://blog.laurel.world/favicon.ico",
-    "publisher": "blog.laurel.world",
-    "description": "",
-    "by": "artmare",
-    "points": 23,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "fangpenlin",
-      "descendants": 0,
-      "id": 30141215,
-      "kids": null,
-      "score": 16,
-      "time": 1643577545,
-      "title": "Show HN: BeanHub – A GitHub for Beancount",
-      "type": "story",
-      "url": "https://beanhub.io/"
-    },
-    "og_item": {
-      "title": "A couple years ago, I created this list: immersive: walking taking a shower sleeping teaching falling in love cinema life or death experience I was curious about these amazing parts of life that feel so meaningful — like portals, where time and space take on a totally different, enchanted feeling. I remember writing this list… – blog.laurel.world",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30141022,
     "title": "BuildZoom (better way to build custom homes) Is hiring a Principal Engineer",
     "url": "https://jobs.lever.co/buildzoom",
@@ -1006,7 +1006,7 @@
     "publisher": "bastian.rieck.me",
     "description": "",
     "by": "Topolomancer",
-    "points": 195,
+    "points": 198,
     "comment_count": 23,
     "hn_item": {
       "by": "fangpenlin",
@@ -1046,7 +1046,7 @@
     "publisher": "telcomhistory.org",
     "description": "",
     "by": "basementcat",
-    "points": 41,
+    "points": 42,
     "comment_count": 7,
     "hn_item": {
       "by": "fangpenlin",
@@ -1073,6 +1073,55 @@
       "video": [],
       "favicon": {
         "url": "/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30140270,
+    "title": "When the algorithm is your boss",
+    "url": "https://tribunemag.co.uk/2022/01/amazon-algorithm-human-resource-management-tech-worker-surveillance",
+    "time": 1643570984,
+    "image": "https://images.jacobinmag.com/wp-content/uploads/sites/4/2022/01/26134053/GettyImages-454598586.jpg",
+    "icon": "https://tribunemag.co.uk/static/img/logo/logo-favicon.png",
+    "publisher": "tribunemag.co.uk",
+    "description": "At workplaces like Amazon, algorithms have become the worst kind of boss – one who watches you constantly, makes impossible demands and then sacks you without explanation.",
+    "by": "jrepinc",
+    "points": 80,
+    "comment_count": 12,
+    "hn_item": {
+      "by": "fangpenlin",
+      "descendants": 0,
+      "id": 30141215,
+      "kids": null,
+      "score": 16,
+      "time": 1643577545,
+      "title": "Show HN: BeanHub – A GitHub for Beancount",
+      "type": "story",
+      "url": "https://beanhub.io/"
+    },
+    "og_item": {
+      "title": "When the Algorithm Is Your Boss",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://images.jacobinmag.com/wp-content/uploads/sites/4/2022/01/26134053/GettyImages-454598586.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://tribunemag.co.uk/2022/01/amazon-algorithm-human-resource-management-tech-worker-surveillance",
+      "audio": [],
+      "description": "At workplaces like Amazon, algorithms have become the worst kind of boss – one who watches you constantly, makes impossible demands and then sacks you without explanation.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/static/img/logo/logo-favicon.png"
       }
     }
   },
@@ -1117,55 +1166,6 @@
     }
   },
   {
-    "id": 30140270,
-    "title": "When the algorithm is your boss",
-    "url": "https://tribunemag.co.uk/2022/01/amazon-algorithm-human-resource-management-tech-worker-surveillance",
-    "time": 1643570984,
-    "image": "https://images.jacobinmag.com/wp-content/uploads/sites/4/2022/01/26134053/GettyImages-454598586.jpg",
-    "icon": "https://tribunemag.co.uk/static/img/logo/logo-favicon.png",
-    "publisher": "tribunemag.co.uk",
-    "description": "At workplaces like Amazon, algorithms have become the worst kind of boss – one who watches you constantly, makes impossible demands and then sacks you without explanation.",
-    "by": "jrepinc",
-    "points": 79,
-    "comment_count": 12,
-    "hn_item": {
-      "by": "fangpenlin",
-      "descendants": 0,
-      "id": 30141215,
-      "kids": null,
-      "score": 16,
-      "time": 1643577545,
-      "title": "Show HN: BeanHub – A GitHub for Beancount",
-      "type": "story",
-      "url": "https://beanhub.io/"
-    },
-    "og_item": {
-      "title": "When the Algorithm Is Your Boss",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://images.jacobinmag.com/wp-content/uploads/sites/4/2022/01/26134053/GettyImages-454598586.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://tribunemag.co.uk/2022/01/amazon-algorithm-human-resource-management-tech-worker-surveillance",
-      "audio": [],
-      "description": "At workplaces like Amazon, algorithms have become the worst kind of boss – one who watches you constantly, makes impossible demands and then sacks you without explanation.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/static/img/logo/logo-favicon.png"
-      }
-    }
-  },
-  {
     "id": 30119925,
     "title": "Message in a bottle from Scottish girl found in Norway after 25 years",
     "url": "https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-60121185",
@@ -1175,7 +1175,7 @@
     "publisher": "BBC News",
     "description": "The bottle Joanna Buchan dropped in the sea at Peterhead when she was eight has washed up in Norway.",
     "by": "LinuxBender",
-    "points": 89,
+    "points": 90,
     "comment_count": 9,
     "hn_item": {
       "by": "fangpenlin",
@@ -1224,7 +1224,7 @@
     "publisher": "recur-env.eba-rm3fchmn.us-eas…",
     "description": "",
     "by": "ShamelessC",
-    "points": 50,
+    "points": 52,
     "comment_count": 11,
     "hn_item": {
       "by": "fangpenlin",
@@ -1264,7 +1264,7 @@
     "publisher": "softpanorama.org",
     "description": "",
     "by": "ingve",
-    "points": 146,
+    "points": 147,
     "comment_count": 18,
     "hn_item": {
       "by": "fangpenlin",
@@ -1565,55 +1565,6 @@
     }
   },
   {
-    "id": 30144101,
-    "title": "Please Make a Dumb Car",
-    "url": "https://techcrunch.com/2022/01/29/please-make-a-dumb-car/",
-    "time": 1643599448,
-    "image": "https://techcrunch.com/wp-content/uploads/2022/01/dumb-car2.jpg?w=711",
-    "icon": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=192",
-    "publisher": "TechCrunch",
-    "description": "Today’s cars are dumb where they should be smart, and smart where they should be dumb. Enough already. Make a car that’s pretty much all dumb and watch it sell — because what automakers are giving people is so bad, they’ll pay more to have less of it. Cars now are like budget smar…",
-    "by": "wrycoder",
-    "points": 22,
-    "comment_count": 3,
-    "hn_item": {
-      "by": "fangpenlin",
-      "descendants": 0,
-      "id": 30141215,
-      "kids": null,
-      "score": 16,
-      "time": 1643577545,
-      "title": "Show HN: BeanHub – A GitHub for Beancount",
-      "type": "story",
-      "url": "https://beanhub.io/"
-    },
-    "og_item": {
-      "title": "Please make a dumb car – TechCrunch",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/01/dumb-car2.jpg?w=711",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://social.techcrunch.com/2022/01/29/please-make-a-dumb-car/",
-      "audio": [],
-      "description": "Today’s cars are dumb where they should be smart, and smart where they should be dumb. Enough already. Make a car that’s pretty much all dumb and watch it sell — because what automakers are giving people is so bad, they’ll pay more to have less of it. Cars now are like budget smar…",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "TechCrunch",
-      "video": [],
-      "favicon": {
-        "url": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=192"
-      }
-    }
-  },
-  {
     "id": 30125933,
     "title": "Dataset and Model for “I built a system to take photos of planes over my house”",
     "url": "https://universe.roboflow.com/skybot-cam/overhead-plane-detector",
@@ -1712,6 +1663,55 @@
     }
   },
   {
+    "id": 30144101,
+    "title": "Please Make a Dumb Car",
+    "url": "https://techcrunch.com/2022/01/29/please-make-a-dumb-car/",
+    "time": 1643599448,
+    "image": "https://techcrunch.com/wp-content/uploads/2022/01/dumb-car2.jpg?w=711",
+    "icon": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=192",
+    "publisher": "TechCrunch",
+    "description": "Today’s cars are dumb where they should be smart, and smart where they should be dumb. Enough already. Make a car that’s pretty much all dumb and watch it sell — because what automakers are giving people is so bad, they’ll pay more to have less of it. Cars now are like budget smar…",
+    "by": "wrycoder",
+    "points": 22,
+    "comment_count": 3,
+    "hn_item": {
+      "by": "fangpenlin",
+      "descendants": 0,
+      "id": 30141215,
+      "kids": null,
+      "score": 16,
+      "time": 1643577545,
+      "title": "Show HN: BeanHub – A GitHub for Beancount",
+      "type": "story",
+      "url": "https://beanhub.io/"
+    },
+    "og_item": {
+      "title": "Please make a dumb car – TechCrunch",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/01/dumb-car2.jpg?w=711",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://social.techcrunch.com/2022/01/29/please-make-a-dumb-car/",
+      "audio": [],
+      "description": "Today’s cars are dumb where they should be smart, and smart where they should be dumb. Enough already. Make a car that’s pretty much all dumb and watch it sell — because what automakers are giving people is so bad, they’ll pay more to have less of it. Cars now are like budget smar…",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "TechCrunch",
+      "video": [],
+      "favicon": {
+        "url": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=192"
+      }
+    }
+  },
+  {
     "id": 30120901,
     "title": "Using tree data structures to implement terminal split panes",
     "url": "https://blog.warp.dev/using-tree-data-structures-to-implement-terminal-split-panes-more-fun-than-it-sounds/",
@@ -1757,104 +1757,6 @@
       "video": [],
       "favicon": {
         "url": "/favicon.png"
-      }
-    }
-  },
-  {
-    "id": 30117131,
-    "title": "How to excel in tech without learning to code",
-    "url": "https://future.a16z.com/excel-in-tech-without-learning-to-code/",
-    "time": 1643388553,
-    "image": "https://future.a16z.com/wp-content/uploads/2022/01/Technical-Literacy-for-Non-Engineers-Social_Share-FINAL.png",
-    "icon": "https://future.a16z.com/wp-content/themes/future/assets/images/favicon/icon.svg",
-    "publisher": "Future",
-    "description": "Technical literacy is key to career success, even for non-engineers. Learn how to master the tools of your trade and build a solid tech foundation.",
-    "by": "jseliger",
-    "points": 119,
-    "comment_count": 17,
-    "hn_item": {
-      "by": "fangpenlin",
-      "descendants": 0,
-      "id": 30141215,
-      "kids": null,
-      "score": 16,
-      "time": 1643577545,
-      "title": "Show HN: BeanHub – A GitHub for Beancount",
-      "type": "story",
-      "url": "https://beanhub.io/"
-    },
-    "og_item": {
-      "title": "How to Excel in Tech Without Learning to Code | Future",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://future.a16z.com/wp-content/uploads/2022/01/Technical-Literacy-for-Non-Engineers-Social_Share-FINAL.png",
-          "secure_url": "",
-          "type": "",
-          "width": 1200,
-          "height": 630,
-          "alt": ""
-        }
-      ],
-      "url": "https://future.a16z.com/excel-in-tech-without-learning-to-code/",
-      "audio": [],
-      "description": "Technical literacy is key to career success, even for non-engineers. Learn how to master the tools of your trade and build a solid tech foundation.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Future",
-      "video": [],
-      "favicon": {
-        "url": "https://future.a16z.com/wp-content/themes/future/assets/images/favicon/icon.svg"
-      }
-    }
-  },
-  {
-    "id": 30129565,
-    "title": "Static-Let, or how I Learned to stop worrying and love Load-Time-Value",
-    "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md",
-    "time": 1643484611,
-    "image": "https://opengraph.githubassets.com/ea544d0bb229911171eaeb56aeac2f73687bc3e4eb5ff0b1c01769be3a010e5c/phoe/articles",
-    "icon": "https://github.githubassets.com/favicons/favicon.svg",
-    "publisher": "GitHub",
-    "description": "An assorted gathering of the Lisp posts and articles I make. - articles/static-let.md at main · phoe/articles",
-    "by": "phoe-krk",
-    "points": 7,
-    "comment_count": 2,
-    "hn_item": {
-      "by": "fangpenlin",
-      "descendants": 0,
-      "id": 30141215,
-      "kids": null,
-      "score": 16,
-      "time": 1643577545,
-      "title": "Show HN: BeanHub – A GitHub for Beancount",
-      "type": "story",
-      "url": "https://beanhub.io/"
-    },
-    "og_item": {
-      "title": "articles/static-let.md at main · phoe/articles",
-      "type": "object",
-      "image": [
-        {
-          "url": "https://opengraph.githubassets.com/ea544d0bb229911171eaeb56aeac2f73687bc3e4eb5ff0b1c01769be3a010e5c/phoe/articles",
-          "secure_url": "",
-          "type": "",
-          "width": 1200,
-          "height": 600,
-          "alt": ""
-        }
-      ],
-      "url": "https://github.com/phoe/articles",
-      "audio": [],
-      "description": "An assorted gathering of the Lisp posts and articles I make. - articles/static-let.md at main · phoe/articles",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "GitHub",
-      "video": [],
-      "favicon": {
-        "url": "https://github.githubassets.com/favicons/favicon.svg"
       }
     }
   },
@@ -1957,6 +1859,55 @@
     }
   },
   {
+    "id": 30129565,
+    "title": "Static-Let, or how I Learned to stop worrying and love Load-Time-Value",
+    "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md",
+    "time": 1643484611,
+    "image": "https://opengraph.githubassets.com/ea544d0bb229911171eaeb56aeac2f73687bc3e4eb5ff0b1c01769be3a010e5c/phoe/articles",
+    "icon": "https://github.githubassets.com/favicons/favicon.svg",
+    "publisher": "GitHub",
+    "description": "An assorted gathering of the Lisp posts and articles I make. - articles/static-let.md at main · phoe/articles",
+    "by": "phoe-krk",
+    "points": 7,
+    "comment_count": 2,
+    "hn_item": {
+      "by": "fangpenlin",
+      "descendants": 0,
+      "id": 30141215,
+      "kids": null,
+      "score": 16,
+      "time": 1643577545,
+      "title": "Show HN: BeanHub – A GitHub for Beancount",
+      "type": "story",
+      "url": "https://beanhub.io/"
+    },
+    "og_item": {
+      "title": "articles/static-let.md at main · phoe/articles",
+      "type": "object",
+      "image": [
+        {
+          "url": "https://opengraph.githubassets.com/ea544d0bb229911171eaeb56aeac2f73687bc3e4eb5ff0b1c01769be3a010e5c/phoe/articles",
+          "secure_url": "",
+          "type": "",
+          "width": 1200,
+          "height": 600,
+          "alt": ""
+        }
+      ],
+      "url": "https://github.com/phoe/articles",
+      "audio": [],
+      "description": "An assorted gathering of the Lisp posts and articles I make. - articles/static-let.md at main · phoe/articles",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "GitHub",
+      "video": [],
+      "favicon": {
+        "url": "https://github.githubassets.com/favicons/favicon.svg"
+      }
+    }
+  },
+  {
     "id": 30131847,
     "title": "Mix and Match Mental Models",
     "url": "https://lethain.com/mental-models-mix-match/",
@@ -1966,7 +1917,7 @@
     "publisher": "lethain.com",
     "description": "A few days ago, I got to have a delightful chat with Katie Wilde, digging into a question that we’ve both found difficult to answer: what distinguishes managers perceived to have good judgment from those perceived to have bad judgment? In exploring that question, the topic of mental models came…",
     "by": "wavelander",
-    "points": 32,
+    "points": 33,
     "comment_count": 0,
     "hn_item": {
       "by": "fangpenlin",
@@ -2055,16 +2006,16 @@
     }
   },
   {
-    "id": 30144516,
-    "title": "“Memory leaks are memory safe in Rust”",
-    "url": "https://doc.rust-lang.org/book/ch15-06-reference-cycles.html",
-    "time": 1643603628,
-    "image": "",
-    "icon": "https://doc.rust-lang.org/book/favicon.png",
-    "publisher": "doc.rust-lang.org",
-    "description": "",
-    "by": "DoctorOW",
-    "points": 5,
+    "id": 30144041,
+    "title": "Autonomous Detection and Deterrence of Pigeons on Buildings by Drones",
+    "url": "https://ieeexplore.ieee.org/document/9656717",
+    "time": 1643598627,
+    "image": "https://ieeexplore.ieee.org/ielx7/6287639/9668973/9656717/graphical_abstract/access-gacovergraphic-3137031.jpg",
+    "icon": "https://ieeexplore.ieee.org/favicon.ico",
+    "publisher": "ieeexplore.ieee.org",
+    "description": "Pigeons may transmit diseases to humans and cause damages to buildings, monuments, and other infrastructure. Therefore, several control strategies have been developed, but they have been found to be either ineffective or harmful to animals and often depend on human operation. This study proposes …",
+    "by": "openknot",
+    "points": 3,
     "comment_count": 0,
     "hn_item": {
       "by": "fangpenlin",
@@ -2078,19 +2029,28 @@
       "url": "https://beanhub.io/"
     },
     "og_item": {
-      "title": "Reference Cycles Can Leak Memory - The Rust Programming Language",
+      "title": "Autonomous Detection and Deterrence of Pigeons on Buildings by Drones",
       "type": "",
-      "image": [],
+      "image": [
+        {
+          "url": "https://ieeexplore.ieee.org/ielx7/6287639/9668973/9656717/graphical_abstract/access-gacovergraphic-3137031.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
       "url": "",
       "audio": [],
-      "description": "",
+      "description": "Pigeons may transmit diseases to humans and cause damages to buildings, monuments, and other infrastructure. Therefore, several control strategies have been developed, but they have been found to be either ineffective or harmful to animals and often depend on human operation. This study proposes a system capable of autonomously detecting and deterring pigeons on building roofs using a drone. The presence and position of pigeons were detected in real time by a neural network using images taken by a video camera located on the roof. Moreover, a drone was utilized to deter the animals. Field experiments were conducted in a real-world urban setting to assess the proposed system by comparing the number of animals and their stay durations for over five days against the 21-day-trial experiment without the drone. During the five days of experiments, the drone was automatically deployed 55 times and was significantly effective in reducing the number of birds and their stay durations without causing any harm to them. In conclusion, this study has proven the effectiveness of this system in deterring birds, and this approach can be seen as a fully autonomous alternative to the already existing methods.",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
       "site_name": "",
       "video": [],
       "favicon": {
-        "url": "favicon.png"
+        "url": "/favicon.ico"
       }
     }
   },
@@ -2135,55 +2095,6 @@
     }
   },
   {
-    "id": 30143377,
-    "title": "A Simple Transformer Implementation(PyTorch) Without Difficult Syntax",
-    "url": "https://github.com/IpsumDominum/Pytorch-Simple-Transformer",
-    "time": 1643592608,
-    "image": "https://opengraph.githubassets.com/698ac3583e8fcb89ee508232e44fcc07e738e185856c3b4965114b99efb8d3e7/IpsumDominum/Pytorch-Simple-Transformer",
-    "icon": "https://github.githubassets.com/favicons/favicon.svg",
-    "publisher": "GitHub",
-    "description": "A simple transformer implementation without difficult syntax and extra bells and whistles. - GitHub - IpsumDominum/Pytorch-Simple-Transformer: A simple transformer implementation without difficult ...",
-    "by": "IpsumDominum",
-    "points": 6,
-    "comment_count": 1,
-    "hn_item": {
-      "by": "fangpenlin",
-      "descendants": 0,
-      "id": 30141215,
-      "kids": null,
-      "score": 16,
-      "time": 1643577545,
-      "title": "Show HN: BeanHub – A GitHub for Beancount",
-      "type": "story",
-      "url": "https://beanhub.io/"
-    },
-    "og_item": {
-      "title": "GitHub - IpsumDominum/Pytorch-Simple-Transformer: A simple transformer implementation without difficult syntax and extra bells and whistles.",
-      "type": "object",
-      "image": [
-        {
-          "url": "https://opengraph.githubassets.com/698ac3583e8fcb89ee508232e44fcc07e738e185856c3b4965114b99efb8d3e7/IpsumDominum/Pytorch-Simple-Transformer",
-          "secure_url": "",
-          "type": "",
-          "width": 1200,
-          "height": 600,
-          "alt": ""
-        }
-      ],
-      "url": "https://github.com/IpsumDominum/Pytorch-Simple-Transformer",
-      "audio": [],
-      "description": "A simple transformer implementation without difficult syntax and extra bells and whistles. - GitHub - IpsumDominum/Pytorch-Simple-Transformer: A simple transformer implementation without difficult ...",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "GitHub",
-      "video": [],
-      "favicon": {
-        "url": "https://github.githubassets.com/favicons/favicon.svg"
-      }
-    }
-  },
-  {
     "id": 30138277,
     "title": "Set up a website with Nim (2019)",
     "url": "https://ttj.dk/blog/2019/01/20/setup-a-website-with-nim",
@@ -2224,6 +2135,95 @@
     }
   },
   {
+    "id": 30143377,
+    "title": "A Simple Transformer Implementation(PyTorch) Without Difficult Syntax",
+    "url": "https://github.com/IpsumDominum/Pytorch-Simple-Transformer",
+    "time": 1643592608,
+    "image": "https://opengraph.githubassets.com/a6a0f18e050ef8520d18eb7b37ebab168aeaf369d33f630e29136dd51468facf/IpsumDominum/Pytorch-Simple-Transformer",
+    "icon": "https://github.githubassets.com/favicons/favicon.svg",
+    "publisher": "GitHub",
+    "description": "A simple transformer implementation without difficult syntax and extra bells and whistles. - GitHub - IpsumDominum/Pytorch-Simple-Transformer: A simple transformer implementation without difficult ...",
+    "by": "IpsumDominum",
+    "points": 6,
+    "comment_count": 1,
+    "hn_item": {
+      "by": "fangpenlin",
+      "descendants": 0,
+      "id": 30141215,
+      "kids": null,
+      "score": 16,
+      "time": 1643577545,
+      "title": "Show HN: BeanHub – A GitHub for Beancount",
+      "type": "story",
+      "url": "https://beanhub.io/"
+    },
+    "og_item": {
+      "title": "GitHub - IpsumDominum/Pytorch-Simple-Transformer: A simple transformer implementation without difficult syntax and extra bells and whistles.",
+      "type": "object",
+      "image": [
+        {
+          "url": "https://opengraph.githubassets.com/a6a0f18e050ef8520d18eb7b37ebab168aeaf369d33f630e29136dd51468facf/IpsumDominum/Pytorch-Simple-Transformer",
+          "secure_url": "",
+          "type": "",
+          "width": 1200,
+          "height": 600,
+          "alt": ""
+        }
+      ],
+      "url": "https://github.com/IpsumDominum/Pytorch-Simple-Transformer",
+      "audio": [],
+      "description": "A simple transformer implementation without difficult syntax and extra bells and whistles. - GitHub - IpsumDominum/Pytorch-Simple-Transformer: A simple transformer implementation without difficult ...",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "GitHub",
+      "video": [],
+      "favicon": {
+        "url": "https://github.githubassets.com/favicons/favicon.svg"
+      }
+    }
+  },
+  {
+    "id": 30144516,
+    "title": "“Memory leaks are memory safe in Rust”",
+    "url": "https://doc.rust-lang.org/book/ch15-06-reference-cycles.html",
+    "time": 1643603628,
+    "image": "",
+    "icon": "https://doc.rust-lang.org/book/favicon.png",
+    "publisher": "doc.rust-lang.org",
+    "description": "",
+    "by": "DoctorOW",
+    "points": 5,
+    "comment_count": 1,
+    "hn_item": {
+      "by": "fangpenlin",
+      "descendants": 0,
+      "id": 30141215,
+      "kids": null,
+      "score": 16,
+      "time": 1643577545,
+      "title": "Show HN: BeanHub – A GitHub for Beancount",
+      "type": "story",
+      "url": "https://beanhub.io/"
+    },
+    "og_item": {
+      "title": "Reference Cycles Can Leak Memory - The Rust Programming Language",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "favicon.png"
+      }
+    }
+  },
+  {
     "id": 30142106,
     "title": "Yoga and meditation do not quiet the ego but instead boost self-enhancement (2018)",
     "url": "https://journals.sagepub.com/doi/abs/10.1177/0956797618764621",
@@ -2233,7 +2233,7 @@
     "publisher": "journals.sagepub.com",
     "description": "",
     "by": "FrojoS",
-    "points": 17,
+    "points": 18,
     "comment_count": 6,
     "hn_item": {
       "by": "fangpenlin",
@@ -2353,6 +2353,46 @@
     }
   },
   {
+    "id": 30138669,
+    "title": "Ask HN: Has anyone leveraged GDPR to overturn automated bans?",
+    "url": "https://news.ycombinator.com/item?id=30138669",
+    "time": 1643561257,
+    "image": "",
+    "icon": "https://news.ycombinator.com/favicon.ico",
+    "publisher": "Hacker News",
+    "description": "",
+    "by": "ndmrs",
+    "points": 136,
+    "comment_count": 12,
+    "hn_item": {
+      "by": "fangpenlin",
+      "descendants": 0,
+      "id": 30141215,
+      "kids": null,
+      "score": 16,
+      "time": 1643577545,
+      "title": "Show HN: BeanHub – A GitHub for Beancount",
+      "type": "story",
+      "url": "https://beanhub.io/"
+    },
+    "og_item": {
+      "title": "Ask HN: Has anyone leveraged GDPR to overturn automated bans? | Hacker News",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30139734,
     "title": "Show the case against",
     "url": "https://www.shubhro.com/2022/01/03/show-the-case-against/",
@@ -2393,46 +2433,6 @@
     }
   },
   {
-    "id": 30138669,
-    "title": "Ask HN: Has anyone leveraged GDPR to overturn automated bans?",
-    "url": "https://news.ycombinator.com/item?id=30138669",
-    "time": 1643561257,
-    "image": "",
-    "icon": "https://news.ycombinator.com/favicon.ico",
-    "publisher": "Hacker News",
-    "description": "",
-    "by": "ndmrs",
-    "points": 135,
-    "comment_count": 12,
-    "hn_item": {
-      "by": "fangpenlin",
-      "descendants": 0,
-      "id": 30141215,
-      "kids": null,
-      "score": 16,
-      "time": 1643577545,
-      "title": "Show HN: BeanHub – A GitHub for Beancount",
-      "type": "story",
-      "url": "https://beanhub.io/"
-    },
-    "og_item": {
-      "title": "Ask HN: Has anyone leveraged GDPR to overturn automated bans? | Hacker News",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30122128,
     "title": "Sega quits arcade business after 50 years",
     "url": "https://www.eurogamer.net/articles/2022-01-28-sega-quits-japanese-arcade-business-after-50-years",
@@ -2442,7 +2442,7 @@
     "publisher": "Eurogamer.net",
     "description": "",
     "by": "atombender",
-    "points": 224,
+    "points": 226,
     "comment_count": 25,
     "hn_item": {
       "by": "fangpenlin",
@@ -2482,55 +2482,6 @@
     }
   },
   {
-    "id": 30142351,
-    "title": "Completing a Creative Project",
-    "url": "https://www.sonyasupposedly.com/completing-a-creative-project/",
-    "time": 1643585100,
-    "image": "https://www.sonyasupposedly.com/content/images/2022/01/artdecoladies-1.jpg",
-    "icon": "https://www.sonyasupposedly.com/favicon.png",
-    "publisher": "Sonya Supposedly",
-    "description": "My undying thanks to members for funding the following realizations 💖 Btw, click here for the PDF version that I mailed in November, if you want it for some reason. How to complete a creative project: stick with it until you're done. Gee thanks, great advice, I know. But it's true!",
-    "by": "exolymph",
-    "points": 4,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "fangpenlin",
-      "descendants": 0,
-      "id": 30141215,
-      "kids": null,
-      "score": 16,
-      "time": 1643577545,
-      "title": "Show HN: BeanHub – A GitHub for Beancount",
-      "type": "story",
-      "url": "https://beanhub.io/"
-    },
-    "og_item": {
-      "title": "Completing a Creative Project",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://www.sonyasupposedly.com/content/images/2022/01/artdecoladies-1.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 2000,
-          "height": 1050,
-          "alt": ""
-        }
-      ],
-      "url": "https://www.sonyasupposedly.com/completing-a-creative-project/",
-      "audio": [],
-      "description": "My undying thanks to members for funding the following realizations 💖 Btw, click here for the PDF version that I mailed in November, if you want it for some reason. How to complete a creative project: stick with it until you're done. Gee thanks, great advice, I know. But it's true!",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Sonya Supposedly",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.png"
-      }
-    }
-  },
-  {
     "id": 30116262,
     "title": "A Padlock I’d Use [video]",
     "url": "https://www.youtube.com/watch?v=HrV86GqlY8o",
@@ -2540,7 +2491,7 @@
     "publisher": "YouTube",
     "description": "https://www.CovertInstruments.com",
     "by": "CraigJPerry",
-    "points": 141,
+    "points": 142,
     "comment_count": 7,
     "hn_item": {
       "by": "fangpenlin",
@@ -2638,6 +2589,55 @@
     }
   },
   {
+    "id": 30142351,
+    "title": "Completing a Creative Project",
+    "url": "https://www.sonyasupposedly.com/completing-a-creative-project/",
+    "time": 1643585100,
+    "image": "https://www.sonyasupposedly.com/content/images/2022/01/artdecoladies-1.jpg",
+    "icon": "https://www.sonyasupposedly.com/favicon.png",
+    "publisher": "Sonya Supposedly",
+    "description": "My undying thanks to members for funding the following realizations 💖 Btw, click here for the PDF version that I mailed in November, if you want it for some reason. How to complete a creative project: stick with it until you're done. Gee thanks, great advice, I know. But it's true!",
+    "by": "exolymph",
+    "points": 4,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "fangpenlin",
+      "descendants": 0,
+      "id": 30141215,
+      "kids": null,
+      "score": 16,
+      "time": 1643577545,
+      "title": "Show HN: BeanHub – A GitHub for Beancount",
+      "type": "story",
+      "url": "https://beanhub.io/"
+    },
+    "og_item": {
+      "title": "Completing a Creative Project",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://www.sonyasupposedly.com/content/images/2022/01/artdecoladies-1.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 2000,
+          "height": 1050,
+          "alt": ""
+        }
+      ],
+      "url": "https://www.sonyasupposedly.com/completing-a-creative-project/",
+      "audio": [],
+      "description": "My undying thanks to members for funding the following realizations 💖 Btw, click here for the PDF version that I mailed in November, if you want it for some reason. How to complete a creative project: stick with it until you're done. Gee thanks, great advice, I know. But it's true!",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Sonya Supposedly",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.png"
+      }
+    }
+  },
+  {
     "id": 30136350,
     "title": "The Game of War: Chess with Networks (2008)",
     "url": "https://www.cabinetmagazine.org/issues/29/galloway.php",
@@ -2687,6 +2687,46 @@
     }
   },
   {
+    "id": 30111373,
+    "title": "What is FORGE?",
+    "url": "https://www.energy.gov/eere/geothermal/what-forge",
+    "time": 1643351840,
+    "image": "",
+    "icon": "https://www.energy.gov/themes/particle/apps/drupal/favicon.ico",
+    "publisher": "Energy.gov",
+    "description": "Our flagship effort over the next five years is the Frontier Observatory for Research in Geothermal Energy (FORGE) initiative — the first...",
+    "by": "manicennui",
+    "points": 63,
+    "comment_count": 5,
+    "hn_item": {
+      "by": "fangpenlin",
+      "descendants": 0,
+      "id": 30141215,
+      "kids": null,
+      "score": 16,
+      "time": 1643577545,
+      "title": "Show HN: BeanHub – A GitHub for Beancount",
+      "type": "story",
+      "url": "https://beanhub.io/"
+    },
+    "og_item": {
+      "title": "What is FORGE?",
+      "type": "article",
+      "image": [],
+      "url": "https://www.energy.gov/eere/geothermal/what-forge",
+      "audio": [],
+      "description": "Our flagship effort over the next five years is the Frontier Observatory for Research in Geothermal Energy (FORGE) initiative — the first...",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Energy.gov",
+      "video": [],
+      "favicon": {
+        "url": "/themes/particle/apps/drupal/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30141784,
     "title": "I crowdfunded a novel using cryptocurrency",
     "url": "https://ellegriffin.substack.com/p/crypto-funded-nft-novel",
@@ -2732,46 +2772,6 @@
       "video": [],
       "favicon": {
         "url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/6d33229e-dadd-4d42-81b0-60daf1fbc7ef/favicon-48x48.png"
-      }
-    }
-  },
-  {
-    "id": 30111373,
-    "title": "What is FORGE?",
-    "url": "https://www.energy.gov/eere/geothermal/what-forge",
-    "time": 1643351840,
-    "image": "",
-    "icon": "https://www.energy.gov/themes/particle/apps/drupal/favicon.ico",
-    "publisher": "Energy.gov",
-    "description": "Our flagship effort over the next five years is the Frontier Observatory for Research in Geothermal Energy (FORGE) initiative — the first...",
-    "by": "manicennui",
-    "points": 63,
-    "comment_count": 5,
-    "hn_item": {
-      "by": "fangpenlin",
-      "descendants": 0,
-      "id": 30141215,
-      "kids": null,
-      "score": 16,
-      "time": 1643577545,
-      "title": "Show HN: BeanHub – A GitHub for Beancount",
-      "type": "story",
-      "url": "https://beanhub.io/"
-    },
-    "og_item": {
-      "title": "What is FORGE?",
-      "type": "article",
-      "image": [],
-      "url": "https://www.energy.gov/eere/geothermal/what-forge",
-      "audio": [],
-      "description": "Our flagship effort over the next five years is the Frontier Observatory for Research in Geothermal Energy (FORGE) initiative — the first...",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Energy.gov",
-      "video": [],
-      "favicon": {
-        "url": "/themes/particle/apps/drupal/favicon.ico"
       }
     }
   },
@@ -2861,46 +2861,6 @@
       "video": [],
       "favicon": {
         "url": "/pf/resources/icons/favicon.ico?d=69"
-      }
-    }
-  },
-  {
-    "id": 30144114,
-    "title": "How do I check if our home network is compromised?",
-    "url": "https://news.ycombinator.com/item?id=30144114",
-    "time": 1643599602,
-    "image": "",
-    "icon": "https://news.ycombinator.com/favicon.ico",
-    "publisher": "Hacker News",
-    "description": "",
-    "by": "slategruen",
-    "points": 6,
-    "comment_count": 3,
-    "hn_item": {
-      "by": "fangpenlin",
-      "descendants": 0,
-      "id": 30141215,
-      "kids": null,
-      "score": 16,
-      "time": 1643577545,
-      "title": "Show HN: BeanHub – A GitHub for Beancount",
-      "type": "story",
-      "url": "https://beanhub.io/"
-    },
-    "og_item": {
-      "title": "How do I check if our home network is compromised? | Hacker News",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "favicon.ico"
       }
     }
   },
@@ -3095,6 +3055,46 @@
       "video": [],
       "favicon": {
         "url": "/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30144114,
+    "title": "How do I check if our home network is compromised?",
+    "url": "https://news.ycombinator.com/item?id=30144114",
+    "time": 1643599602,
+    "image": "",
+    "icon": "https://news.ycombinator.com/favicon.ico",
+    "publisher": "Hacker News",
+    "description": "",
+    "by": "slategruen",
+    "points": 6,
+    "comment_count": 3,
+    "hn_item": {
+      "by": "fangpenlin",
+      "descendants": 0,
+      "id": 30141215,
+      "kids": null,
+      "score": 16,
+      "time": 1643577545,
+      "title": "Show HN: BeanHub – A GitHub for Beancount",
+      "type": "story",
+      "url": "https://beanhub.io/"
+    },
+    "og_item": {
+      "title": "How do I check if our home network is compromised? | Hacker News",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "favicon.ico"
       }
     }
   },
