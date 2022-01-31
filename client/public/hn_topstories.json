@@ -9,11 +9,11 @@
     "publisher": "imlefthanded.com",
     "description": "",
     "by": "decrypt",
-    "points": 185,
-    "comment_count": 228,
+    "points": 207,
+    "comment_count": 259,
     "hn_item": {
       "by": "atombender",
-      "descendants": 111,
+      "descendants": 112,
       "id": 30122128,
       "kids": [
         30131868,
@@ -78,11 +78,11 @@
     "publisher": "magistrate.khanna.law",
     "description": "",
     "by": "hkhanna",
-    "points": 77,
-    "comment_count": 31,
+    "points": 88,
+    "comment_count": 34,
     "hn_item": {
       "by": "atombender",
-      "descendants": 111,
+      "descendants": 112,
       "id": 30122128,
       "kids": [
         30131868,
@@ -147,11 +147,11 @@
     "publisher": "Oceana",
     "description": "Giant Pyrosomes are bioluminescent (light producing), giving rise to the common name, which comes from the Greek for fire (“pyro”) and body (“soma”). The light produced by Giant Pyrosomes is particularly bright and long lasting and is beautiful to witness. Because the individual tunicat…",
     "by": "integrale",
-    "points": 47,
-    "comment_count": 6,
+    "points": 49,
+    "comment_count": 9,
     "hn_item": {
       "by": "atombender",
-      "descendants": 111,
+      "descendants": 112,
       "id": 30122128,
       "kids": [
         30131868,
@@ -220,16 +220,16 @@
     "title": "Pyflow – Visual and modular block programming in Python",
     "url": "https://github.com/Bycelium/PyFlow",
     "time": 1643647446,
-    "image": "https://opengraph.githubassets.com/ef3db6c25adcafe904d5f55a2834691afc4396dd018dbbbc2c3f00ec8e9bfbec/Bycelium/PyFlow",
+    "image": "https://opengraph.githubassets.com/ac671194e9b516c4443628f531321fbb9f65aff057ac41f4c516635fd5e47c1c/Bycelium/PyFlow",
     "icon": "https://github.githubassets.com/favicons/favicon.svg",
     "publisher": "GitHub",
     "description": "An open-source tool for visual and modular block programing in python - GitHub - Bycelium/PyFlow: An open-source tool for visual and modular block programing in python",
     "by": "amai",
-    "points": 30,
-    "comment_count": 4,
+    "points": 31,
+    "comment_count": 7,
     "hn_item": {
       "by": "atombender",
-      "descendants": 111,
+      "descendants": 112,
       "id": 30122128,
       "kids": [
         30131868,
@@ -272,7 +272,7 @@
       "type": "object",
       "image": [
         {
-          "url": "https://opengraph.githubassets.com/ef3db6c25adcafe904d5f55a2834691afc4396dd018dbbbc2c3f00ec8e9bfbec/Bycelium/PyFlow",
+          "url": "https://opengraph.githubassets.com/ac671194e9b516c4443628f531321fbb9f65aff057ac41f4c516635fd5e47c1c/Bycelium/PyFlow",
           "secure_url": "",
           "type": "",
           "width": 1200,
@@ -294,20 +294,20 @@
     }
   },
   {
-    "id": 30149213,
-    "title": "Learn Elisp the Hard Way (2011)",
-    "url": "https://github.com/hypernumbers/learn_elisp_the_hard_way",
-    "time": 1643643871,
-    "image": "https://opengraph.githubassets.com/14e48283e87dbed4708eb22b1e758c43a438470a2a00a93f8a635c73e8e7b440/hypernumbers/learn_elisp_the_hard_way",
-    "icon": "https://github.githubassets.com/favicons/favicon.svg",
-    "publisher": "GitHub",
-    "description": "A book about learning eLisp for customising Emacs the hard way - see the Gist https://gist.github.com/754568 - GitHub - hypernumbers/learn_elisp_the_hard_way: A book about learning eLisp for custom...",
-    "by": "AndroidKitKat",
-    "points": 44,
-    "comment_count": 16,
+    "id": 30150586,
+    "title": "Moderna’s HIV Vaccine Has Officially Begun Human Trials",
+    "url": "https://www.them.us/story/hiv-aids-vaccine-human-trials-moderna",
+    "time": 1643649372,
+    "image": "https://media.them.us/photos/61f463383d0a8375ee031f0f/16:9/w_1280,c_limit/48546114182_9bcd6f7446_o.jpg",
+    "icon": "https://www.them.us/verso/static/them/assets/favicon.ico",
+    "publisher": "them.",
+    "description": "We could be getting even closer to stopping the spread of HIV/AIDS.",
+    "by": "grawprog",
+    "points": 59,
+    "comment_count": 4,
     "hn_item": {
       "by": "atombender",
-      "descendants": 111,
+      "descendants": 112,
       "id": 30122128,
       "kids": [
         30131868,
@@ -346,28 +346,28 @@
       "url": "https://www.eurogamer.net/articles/2022-01-28-sega-quits-japanese-arcade-business-after-50-years"
     },
     "og_item": {
-      "title": "GitHub - hypernumbers/learn_elisp_the_hard_way: A book about learning eLisp for customising Emacs the hard way - see the Gist https://gist.github.com/754568",
-      "type": "object",
+      "title": "Moderna’s HIV Vaccine Has Officially Begun Human Trials",
+      "type": "article",
       "image": [
         {
-          "url": "https://opengraph.githubassets.com/14e48283e87dbed4708eb22b1e758c43a438470a2a00a93f8a635c73e8e7b440/hypernumbers/learn_elisp_the_hard_way",
+          "url": "https://media.them.us/photos/61f463383d0a8375ee031f0f/16:9/w_1280,c_limit/48546114182_9bcd6f7446_o.jpg",
           "secure_url": "",
           "type": "",
-          "width": 1200,
-          "height": 600,
+          "width": 0,
+          "height": 0,
           "alt": ""
         }
       ],
-      "url": "https://github.com/hypernumbers/learn_elisp_the_hard_way",
+      "url": "https://www.them.us/story/hiv-aids-vaccine-human-trials-moderna",
       "audio": [],
-      "description": "A book about learning eLisp for customising Emacs the hard way - see the Gist https://gist.github.com/754568 - GitHub - hypernumbers/learn_elisp_the_hard_way: A book about learning eLisp for custom...",
+      "description": "We could be getting even closer to stopping the spread of HIV/AIDS.",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "GitHub",
+      "site_name": "them.",
       "video": [],
       "favicon": {
-        "url": "https://github.githubassets.com/favicons/favicon.svg"
+        "url": "https://www.them.us/verso/static/them/assets/favicon.ico"
       }
     }
   },
@@ -381,11 +381,11 @@
     "publisher": "The New York Times",
     "description": "The ends of the college and pro football seasons were already a perilous time for people recovering from a gambling addiction. Then came the onslaught of ads for legal sports betting.",
     "by": "jbegley",
-    "points": 55,
-    "comment_count": 20,
+    "points": 63,
+    "comment_count": 34,
     "hn_item": {
       "by": "atombender",
-      "descendants": 111,
+      "descendants": 112,
       "id": 30122128,
       "kids": [
         30131868,
@@ -450,20 +450,20 @@
     }
   },
   {
-    "id": 30149864,
-    "title": "How to approach and prioritize technical debt",
-    "url": "https://leadership.garden/tips-on-prioritizing-tech-debt/",
-    "time": 1643646689,
-    "image": "",
-    "icon": "https://leadership.garden/favicon.ico",
-    "publisher": "leadership.garden",
-    "description": "",
-    "by": "ochronus",
-    "points": 23,
-    "comment_count": 9,
+    "id": 30149213,
+    "title": "Learn Elisp the Hard Way (2011)",
+    "url": "https://github.com/hypernumbers/learn_elisp_the_hard_way",
+    "time": 1643643871,
+    "image": "https://opengraph.githubassets.com/14e48283e87dbed4708eb22b1e758c43a438470a2a00a93f8a635c73e8e7b440/hypernumbers/learn_elisp_the_hard_way",
+    "icon": "https://github.githubassets.com/favicons/favicon.svg",
+    "publisher": "GitHub",
+    "description": "A book about learning eLisp for customising Emacs the hard way - see the Gist https://gist.github.com/754568 - GitHub - hypernumbers/learn_elisp_the_hard_way: A book about learning eLisp for custom...",
+    "by": "AndroidKitKat",
+    "points": 44,
+    "comment_count": 16,
     "hn_item": {
       "by": "atombender",
-      "descendants": 111,
+      "descendants": 112,
       "id": 30122128,
       "kids": [
         30131868,
@@ -502,19 +502,28 @@
       "url": "https://www.eurogamer.net/articles/2022-01-28-sega-quits-japanese-arcade-business-after-50-years"
     },
     "og_item": {
-      "title": "Please Wait... | Cloudflare",
-      "type": "",
-      "image": [],
-      "url": "",
+      "title": "GitHub - hypernumbers/learn_elisp_the_hard_way: A book about learning eLisp for customising Emacs the hard way - see the Gist https://gist.github.com/754568",
+      "type": "object",
+      "image": [
+        {
+          "url": "https://opengraph.githubassets.com/14e48283e87dbed4708eb22b1e758c43a438470a2a00a93f8a635c73e8e7b440/hypernumbers/learn_elisp_the_hard_way",
+          "secure_url": "",
+          "type": "",
+          "width": 1200,
+          "height": 600,
+          "alt": ""
+        }
+      ],
+      "url": "https://github.com/hypernumbers/learn_elisp_the_hard_way",
       "audio": [],
-      "description": "",
+      "description": "A book about learning eLisp for customising Emacs the hard way - see the Gist https://gist.github.com/754568 - GitHub - hypernumbers/learn_elisp_the_hard_way: A book about learning eLisp for custom...",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "",
+      "site_name": "GitHub",
       "video": [],
       "favicon": {
-        "url": "/favicon.ico"
+        "url": "https://github.githubassets.com/favicons/favicon.svg"
       }
     }
   },
@@ -532,7 +541,7 @@
     "comment_count": 0,
     "hn_item": {
       "by": "atombender",
-      "descendants": 111,
+      "descendants": 112,
       "id": 30122128,
       "kids": [
         30131868,
@@ -606,11 +615,11 @@
     "publisher": "Ask a Manager",
     "description": "A reader writes: This is a situation currently unfolding at my husband's office so I’m a very amused bystander and thought I’d get your opinion on this",
     "by": "amadeuspzs",
-    "points": 83,
-    "comment_count": 32,
+    "points": 104,
+    "comment_count": 38,
     "hn_item": {
       "by": "atombender",
-      "descendants": 111,
+      "descendants": 112,
       "id": 30122128,
       "kids": [
         30131868,
@@ -675,20 +684,20 @@
     }
   },
   {
-    "id": 30149099,
-    "title": "Google critiqued the practice of displaying ads above search results",
-    "url": "https://twitter.com/krebs_adrian/status/1488173888068542466",
-    "time": 1643643385,
+    "id": 30149864,
+    "title": "How to approach and prioritize technical debt",
+    "url": "https://leadership.garden/tips-on-prioritizing-tech-debt/",
+    "time": 1643646689,
     "image": "",
-    "icon": "https://abs.twimg.com/favicons/twitter.2.ico",
-    "publisher": "Twitter",
+    "icon": "https://leadership.garden/favicon.ico",
+    "publisher": "leadership.garden",
     "description": "",
-    "by": "hubraumhugo",
-    "points": 212,
-    "comment_count": 89,
+    "by": "ochronus",
+    "points": 27,
+    "comment_count": 11,
     "hn_item": {
       "by": "atombender",
-      "descendants": 111,
+      "descendants": 112,
       "id": 30122128,
       "kids": [
         30131868,
@@ -727,7 +736,7 @@
       "url": "https://www.eurogamer.net/articles/2022-01-28-sega-quits-japanese-arcade-business-after-50-years"
     },
     "og_item": {
-      "title": "",
+      "title": "Please Wait... | Cloudflare",
       "type": "",
       "image": [],
       "url": "",
@@ -736,157 +745,10 @@
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "Twitter",
-      "video": [],
-      "favicon": {
-        "url": "//abs.twimg.com/favicons/twitter.2.ico"
-      }
-    }
-  },
-  {
-    "id": 30150586,
-    "title": "Moderna’s HIV Vaccine Has Officially Begun Human Trials",
-    "url": "https://www.them.us/story/hiv-aids-vaccine-human-trials-moderna",
-    "time": 1643649372,
-    "image": "https://media.them.us/photos/61f463383d0a8375ee031f0f/16:9/w_1280,c_limit/48546114182_9bcd6f7446_o.jpg",
-    "icon": "https://www.them.us/verso/static/them/assets/favicon.ico",
-    "publisher": "them.",
-    "description": "We could be getting even closer to stopping the spread of HIV/AIDS.",
-    "by": "grawprog",
-    "points": 32,
-    "comment_count": 2,
-    "hn_item": {
-      "by": "atombender",
-      "descendants": 111,
-      "id": 30122128,
-      "kids": [
-        30131868,
-        30138701,
-        30143687,
-        30138743,
-        30139288,
-        30139541,
-        30149265,
-        30149255,
-        30123731,
-        30139982,
-        30123071,
-        30144293,
-        30146762,
-        30138648,
-        30139650,
-        30139540,
-        30140862,
-        30139965,
-        30139938,
-        30140036,
-        30139927,
-        30139519,
-        30138762,
-        30142058,
-        30140426,
-        30122277,
-        30138775,
-        30122426
-      ],
-      "score": 249,
-      "time": 1643413723,
-      "title": "Sega quits arcade business after 50 years",
-      "type": "story",
-      "url": "https://www.eurogamer.net/articles/2022-01-28-sega-quits-japanese-arcade-business-after-50-years"
-    },
-    "og_item": {
-      "title": "Moderna’s HIV Vaccine Has Officially Begun Human Trials",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://media.them.us/photos/61f463383d0a8375ee031f0f/16:9/w_1280,c_limit/48546114182_9bcd6f7446_o.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://www.them.us/story/hiv-aids-vaccine-human-trials-moderna",
-      "audio": [],
-      "description": "We could be getting even closer to stopping the spread of HIV/AIDS.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "them.",
-      "video": [],
-      "favicon": {
-        "url": "https://www.them.us/verso/static/them/assets/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30149108,
-    "title": "Boring Technology Checklist",
-    "url": "https://blog.staging.begin.com/posts/2022-01-27-the-boring-technology-checklist",
-    "time": 1643643407,
-    "image": "",
-    "icon": "https://static.begin.com/web/favicon/favicon-16-5360d8ce95.png",
-    "publisher": "blog.staging.begin.com",
-    "description": "Technologists love new technology—that new shiny thing. But, often, the promise of a new solution introduces new unforeseen problems creating unplanned challen…",
-    "by": "macdonst",
-    "points": 90,
-    "comment_count": 60,
-    "hn_item": {
-      "by": "atombender",
-      "descendants": 111,
-      "id": 30122128,
-      "kids": [
-        30131868,
-        30138701,
-        30143687,
-        30138743,
-        30139288,
-        30139541,
-        30149265,
-        30149255,
-        30123731,
-        30139982,
-        30123071,
-        30144293,
-        30146762,
-        30138648,
-        30139650,
-        30139540,
-        30140862,
-        30139965,
-        30139938,
-        30140036,
-        30139927,
-        30139519,
-        30138762,
-        30142058,
-        30140426,
-        30122277,
-        30138775,
-        30122426
-      ],
-      "score": 249,
-      "time": 1643413723,
-      "title": "Sega quits arcade business after 50 years",
-      "type": "story",
-      "url": "https://www.eurogamer.net/articles/2022-01-28-sega-quits-japanese-arcade-business-after-50-years"
-    },
-    "og_item": {
-      "title": "The Boring Technology Checklist - Begin",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "Technologists love new technology—that new shiny thing. But, often, the promise of a new solution introduces new unforeseen problems creating unplanned challen…",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
       "site_name": "",
       "video": [],
       "favicon": {
-        "url": "https://static.begin.com/web/favicon/favicon-16-5360d8ce95.png"
+        "url": "/favicon.ico"
       }
     }
   },
@@ -900,11 +762,11 @@
     "publisher": "jpkoning.blogspot.com",
     "description": "Over the last five years Yemen has stumbled into a unique monetary situation. I initially wrote about Yemen's odd currency status two years ...",
     "by": "rwmj",
-    "points": 11,
+    "points": 15,
     "comment_count": 0,
     "hn_item": {
       "by": "atombender",
-      "descendants": 111,
+      "descendants": 112,
       "id": 30122128,
       "kids": [
         30131868,
@@ -969,6 +831,213 @@
     }
   },
   {
+    "id": 30149099,
+    "title": "Google critiqued the practice of displaying ads above search results",
+    "url": "https://twitter.com/krebs_adrian/status/1488173888068542466",
+    "time": 1643643385,
+    "image": "",
+    "icon": "https://abs.twimg.com/favicons/twitter.2.ico",
+    "publisher": "Twitter",
+    "description": "",
+    "by": "hubraumhugo",
+    "points": 216,
+    "comment_count": 96,
+    "hn_item": {
+      "by": "atombender",
+      "descendants": 112,
+      "id": 30122128,
+      "kids": [
+        30131868,
+        30138701,
+        30143687,
+        30138743,
+        30139288,
+        30139541,
+        30149265,
+        30149255,
+        30123731,
+        30139982,
+        30123071,
+        30144293,
+        30146762,
+        30138648,
+        30139650,
+        30139540,
+        30140862,
+        30139965,
+        30139938,
+        30140036,
+        30139927,
+        30139519,
+        30138762,
+        30142058,
+        30140426,
+        30122277,
+        30138775,
+        30122426
+      ],
+      "score": 249,
+      "time": 1643413723,
+      "title": "Sega quits arcade business after 50 years",
+      "type": "story",
+      "url": "https://www.eurogamer.net/articles/2022-01-28-sega-quits-japanese-arcade-business-after-50-years"
+    },
+    "og_item": {
+      "title": "",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Twitter",
+      "video": [],
+      "favicon": {
+        "url": "//abs.twimg.com/favicons/twitter.2.ico"
+      }
+    }
+  },
+  {
+    "id": 30149108,
+    "title": "Boring Technology Checklist",
+    "url": "https://blog.staging.begin.com/posts/2022-01-27-the-boring-technology-checklist",
+    "time": 1643643407,
+    "image": "",
+    "icon": "https://static.begin.com/web/favicon/favicon-16-5360d8ce95.png",
+    "publisher": "blog.staging.begin.com",
+    "description": "Technologists love new technology—that new shiny thing. But, often, the promise of a new solution introduces new unforeseen problems creating unplanned challen…",
+    "by": "macdonst",
+    "points": 94,
+    "comment_count": 60,
+    "hn_item": {
+      "by": "atombender",
+      "descendants": 112,
+      "id": 30122128,
+      "kids": [
+        30131868,
+        30138701,
+        30143687,
+        30138743,
+        30139288,
+        30139541,
+        30149265,
+        30149255,
+        30123731,
+        30139982,
+        30123071,
+        30144293,
+        30146762,
+        30138648,
+        30139650,
+        30139540,
+        30140862,
+        30139965,
+        30139938,
+        30140036,
+        30139927,
+        30139519,
+        30138762,
+        30142058,
+        30140426,
+        30122277,
+        30138775,
+        30122426
+      ],
+      "score": 249,
+      "time": 1643413723,
+      "title": "Sega quits arcade business after 50 years",
+      "type": "story",
+      "url": "https://www.eurogamer.net/articles/2022-01-28-sega-quits-japanese-arcade-business-after-50-years"
+    },
+    "og_item": {
+      "title": "The Boring Technology Checklist - Begin",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "Technologists love new technology—that new shiny thing. But, often, the promise of a new solution introduces new unforeseen problems creating unplanned challen…",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "https://static.begin.com/web/favicon/favicon-16-5360d8ce95.png"
+      }
+    }
+  },
+  {
+    "id": 30149838,
+    "title": "Ask HN: Where do you hang out virtually online?",
+    "url": "https://news.ycombinator.com/item?id=30149838",
+    "time": 1643646557,
+    "image": "",
+    "icon": "https://news.ycombinator.com/favicon.ico",
+    "publisher": "Hacker News",
+    "description": "",
+    "by": "codemonkeysh",
+    "points": 52,
+    "comment_count": 60,
+    "hn_item": {
+      "by": "atombender",
+      "descendants": 112,
+      "id": 30122128,
+      "kids": [
+        30131868,
+        30138701,
+        30143687,
+        30138743,
+        30139288,
+        30139541,
+        30149265,
+        30149255,
+        30123731,
+        30139982,
+        30123071,
+        30144293,
+        30146762,
+        30138648,
+        30139650,
+        30139540,
+        30140862,
+        30139965,
+        30139938,
+        30140036,
+        30139927,
+        30139519,
+        30138762,
+        30142058,
+        30140426,
+        30122277,
+        30138775,
+        30122426
+      ],
+      "score": 249,
+      "time": 1643413723,
+      "title": "Sega quits arcade business after 50 years",
+      "type": "story",
+      "url": "https://www.eurogamer.net/articles/2022-01-28-sega-quits-japanese-arcade-business-after-50-years"
+    },
+    "og_item": {
+      "title": "Ask HN: Where do you hang out virtually online? | Hacker News",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30137254,
     "title": "Autodocumenting Makefiles",
     "url": "https://daniel.feldroy.com/posts/autodocumenting-makefiles",
@@ -978,11 +1047,11 @@
     "publisher": "Daniel Roy Greenfeld",
     "description": "Make Your Makefiles Make Your Day!",
     "by": "JNRowe",
-    "points": 15,
-    "comment_count": 7,
+    "points": 17,
+    "comment_count": 8,
     "hn_item": {
       "by": "atombender",
-      "descendants": 111,
+      "descendants": 112,
       "id": 30122128,
       "kids": [
         30131868,
@@ -1056,11 +1125,11 @@
     "publisher": "Antigone",
     "description": "ANDREW BEER The genuine pleasure of yielding to better arguments.",
     "by": "AverilS",
-    "points": 92,
-    "comment_count": 20,
+    "points": 94,
+    "comment_count": 22,
     "hn_item": {
       "by": "atombender",
-      "descendants": 111,
+      "descendants": 112,
       "id": 30122128,
       "kids": [
         30131868,
@@ -1125,75 +1194,6 @@
     }
   },
   {
-    "id": 30149838,
-    "title": "Ask HN: Where do you hang out virtually online?",
-    "url": "https://news.ycombinator.com/item?id=30149838",
-    "time": 1643646557,
-    "image": "",
-    "icon": "https://news.ycombinator.com/favicon.ico",
-    "publisher": "Hacker News",
-    "description": "",
-    "by": "codemonkeysh",
-    "points": 47,
-    "comment_count": 57,
-    "hn_item": {
-      "by": "atombender",
-      "descendants": 111,
-      "id": 30122128,
-      "kids": [
-        30131868,
-        30138701,
-        30143687,
-        30138743,
-        30139288,
-        30139541,
-        30149265,
-        30149255,
-        30123731,
-        30139982,
-        30123071,
-        30144293,
-        30146762,
-        30138648,
-        30139650,
-        30139540,
-        30140862,
-        30139965,
-        30139938,
-        30140036,
-        30139927,
-        30139519,
-        30138762,
-        30142058,
-        30140426,
-        30122277,
-        30138775,
-        30122426
-      ],
-      "score": 249,
-      "time": 1643413723,
-      "title": "Sega quits arcade business after 50 years",
-      "type": "story",
-      "url": "https://www.eurogamer.net/articles/2022-01-28-sega-quits-japanese-arcade-business-after-50-years"
-    },
-    "og_item": {
-      "title": "Ask HN: Where do you hang out virtually online? | Hacker News",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30144101,
     "title": "Please make a dumb car",
     "url": "https://techcrunch.com/2022/01/29/please-make-a-dumb-car/",
@@ -1203,11 +1203,11 @@
     "publisher": "TechCrunch",
     "description": "Today’s cars are dumb where they should be smart, and smart where they should be dumb. Enough already. Make a car that’s pretty much all dumb and watch it sell — because what automakers are giving people is so bad, they’ll pay more to have less of it. Cars now are like budget smar…",
     "by": "wrycoder",
-    "points": 180,
-    "comment_count": 266,
+    "points": 192,
+    "comment_count": 285,
     "hn_item": {
       "by": "atombender",
-      "descendants": 111,
+      "descendants": 112,
       "id": 30122128,
       "kids": [
         30131868,
@@ -1272,162 +1272,6 @@
     }
   },
   {
-    "id": 30116316,
-    "title": "Mixbox: Practical pigment mixing for digital painting",
-    "url": "https://github.com/scrtwpns/pigment-mixing",
-    "time": 1643385624,
-    "image": "https://opengraph.githubassets.com/2d118a7d6c6c56b6677a734930f20db0f04ad05d8d9c6a8f5750774f7236afcc/scrtwpns/pigment-mixing",
-    "icon": "https://github.githubassets.com/favicons/favicon.svg",
-    "publisher": "GitHub",
-    "description": "Practical Pigment Mixing for Digital Painting. Contribute to scrtwpns/pigment-mixing development by creating an account on GitHub.",
-    "by": "maydemir",
-    "points": 58,
-    "comment_count": 13,
-    "hn_item": {
-      "by": "atombender",
-      "descendants": 111,
-      "id": 30122128,
-      "kids": [
-        30131868,
-        30138701,
-        30143687,
-        30138743,
-        30139288,
-        30139541,
-        30149265,
-        30149255,
-        30123731,
-        30139982,
-        30123071,
-        30144293,
-        30146762,
-        30138648,
-        30139650,
-        30139540,
-        30140862,
-        30139965,
-        30139938,
-        30140036,
-        30139927,
-        30139519,
-        30138762,
-        30142058,
-        30140426,
-        30122277,
-        30138775,
-        30122426
-      ],
-      "score": 249,
-      "time": 1643413723,
-      "title": "Sega quits arcade business after 50 years",
-      "type": "story",
-      "url": "https://www.eurogamer.net/articles/2022-01-28-sega-quits-japanese-arcade-business-after-50-years"
-    },
-    "og_item": {
-      "title": "GitHub - scrtwpns/pigment-mixing: Practical Pigment Mixing for Digital Painting",
-      "type": "object",
-      "image": [
-        {
-          "url": "https://opengraph.githubassets.com/2d118a7d6c6c56b6677a734930f20db0f04ad05d8d9c6a8f5750774f7236afcc/scrtwpns/pigment-mixing",
-          "secure_url": "",
-          "type": "",
-          "width": 1200,
-          "height": 600,
-          "alt": ""
-        }
-      ],
-      "url": "https://github.com/scrtwpns/pigment-mixing",
-      "audio": [],
-      "description": "Practical Pigment Mixing for Digital Painting. Contribute to scrtwpns/pigment-mixing development by creating an account on GitHub.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "GitHub",
-      "video": [],
-      "favicon": {
-        "url": "https://github.githubassets.com/favicons/favicon.svg"
-      }
-    }
-  },
-  {
-    "id": 30147507,
-    "title": "VT100 Machine Emulator in JavaScript",
-    "url": "https://www.pcjs.org/machines/dec/vt100/",
-    "time": 1643634629,
-    "image": "https://www.pcjs.org/assets/img/logo-home.png",
-    "icon": "https://www.pcjs.org/assets/icons/favicon.ico",
-    "publisher": "pcjs.org",
-    "description": "Home of the original IBM PC emulator for browsers. PCjs offers a variety of online machine emulators written in JavaScript. Run DOS, Windows, OS/2 and other vintage PC applications in a web browser on your desktop computer, iPhone, or iPad. An assortment of microcomputers, minicomputers, terminal…",
-    "by": "DiabloD3",
-    "points": 59,
-    "comment_count": 22,
-    "hn_item": {
-      "by": "atombender",
-      "descendants": 111,
-      "id": 30122128,
-      "kids": [
-        30131868,
-        30138701,
-        30143687,
-        30138743,
-        30139288,
-        30139541,
-        30149265,
-        30149255,
-        30123731,
-        30139982,
-        30123071,
-        30144293,
-        30146762,
-        30138648,
-        30139650,
-        30139540,
-        30140862,
-        30139965,
-        30139938,
-        30140036,
-        30139927,
-        30139519,
-        30138762,
-        30142058,
-        30140426,
-        30122277,
-        30138775,
-        30122426
-      ],
-      "score": 249,
-      "time": 1643413723,
-      "title": "Sega quits arcade business after 50 years",
-      "type": "story",
-      "url": "https://www.eurogamer.net/articles/2022-01-28-sega-quits-japanese-arcade-business-after-50-years"
-    },
-    "og_item": {
-      "title": "DEC VT100 Terminal",
-      "type": "",
-      "image": [
-        {
-          "url": "https://www.pcjs.org/assets/img/logo-home.png",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "",
-      "audio": [],
-      "description": "Home of the original IBM PC emulator for browsers. PCjs offers a variety of online machine emulators written in JavaScript. Run DOS, Windows, OS/2 and other vintage PC applications in a web browser on your desktop computer, iPhone, or iPad. An assortment of microcomputers, minicomputers, terminals, programmable calculators, and arcade machines are available, along with an archive of historical software and documentation.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/assets/icons/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30150219,
     "title": "Show HN: Rich-CLI – A CLI toolbox for highlighting, Markdown, JSON and rich text",
     "url": "https://github.com/Textualize/rich-cli",
@@ -1437,11 +1281,11 @@
     "publisher": "GitHub",
     "description": "Rich-cli is a command line toolbox for fancy output in the terminal - GitHub - Textualize/rich-cli: Rich-cli is a command line toolbox for fancy output in the terminal",
     "by": "willm",
-    "points": 17,
+    "points": 19,
     "comment_count": 2,
     "hn_item": {
       "by": "atombender",
-      "descendants": 111,
+      "descendants": 112,
       "id": 30122128,
       "kids": [
         30131868,
@@ -1506,6 +1350,162 @@
     }
   },
   {
+    "id": 30116316,
+    "title": "Mixbox: Practical pigment mixing for digital painting",
+    "url": "https://github.com/scrtwpns/pigment-mixing",
+    "time": 1643385624,
+    "image": "https://opengraph.githubassets.com/19fe894c07f60bc571127069d85ea8261e7dfc52c03c63b24358cda7d3c42944/scrtwpns/pigment-mixing",
+    "icon": "https://github.githubassets.com/favicons/favicon.svg",
+    "publisher": "GitHub",
+    "description": "Practical Pigment Mixing for Digital Painting. Contribute to scrtwpns/pigment-mixing development by creating an account on GitHub.",
+    "by": "maydemir",
+    "points": 60,
+    "comment_count": 13,
+    "hn_item": {
+      "by": "atombender",
+      "descendants": 112,
+      "id": 30122128,
+      "kids": [
+        30131868,
+        30138701,
+        30143687,
+        30138743,
+        30139288,
+        30139541,
+        30149265,
+        30149255,
+        30123731,
+        30139982,
+        30123071,
+        30144293,
+        30146762,
+        30138648,
+        30139650,
+        30139540,
+        30140862,
+        30139965,
+        30139938,
+        30140036,
+        30139927,
+        30139519,
+        30138762,
+        30142058,
+        30140426,
+        30122277,
+        30138775,
+        30122426
+      ],
+      "score": 249,
+      "time": 1643413723,
+      "title": "Sega quits arcade business after 50 years",
+      "type": "story",
+      "url": "https://www.eurogamer.net/articles/2022-01-28-sega-quits-japanese-arcade-business-after-50-years"
+    },
+    "og_item": {
+      "title": "GitHub - scrtwpns/pigment-mixing: Practical Pigment Mixing for Digital Painting",
+      "type": "object",
+      "image": [
+        {
+          "url": "https://opengraph.githubassets.com/19fe894c07f60bc571127069d85ea8261e7dfc52c03c63b24358cda7d3c42944/scrtwpns/pigment-mixing",
+          "secure_url": "",
+          "type": "",
+          "width": 1200,
+          "height": 600,
+          "alt": ""
+        }
+      ],
+      "url": "https://github.com/scrtwpns/pigment-mixing",
+      "audio": [],
+      "description": "Practical Pigment Mixing for Digital Painting. Contribute to scrtwpns/pigment-mixing development by creating an account on GitHub.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "GitHub",
+      "video": [],
+      "favicon": {
+        "url": "https://github.githubassets.com/favicons/favicon.svg"
+      }
+    }
+  },
+  {
+    "id": 30147507,
+    "title": "VT100 Machine Emulator in JavaScript",
+    "url": "https://www.pcjs.org/machines/dec/vt100/",
+    "time": 1643634629,
+    "image": "https://www.pcjs.org/assets/img/logo-home.png",
+    "icon": "https://www.pcjs.org/assets/icons/favicon.ico",
+    "publisher": "pcjs.org",
+    "description": "Home of the original IBM PC emulator for browsers. PCjs offers a variety of online machine emulators written in JavaScript. Run DOS, Windows, OS/2 and other vintage PC applications in a web browser on your desktop computer, iPhone, or iPad. An assortment of microcomputers, minicomputers, terminal…",
+    "by": "DiabloD3",
+    "points": 60,
+    "comment_count": 22,
+    "hn_item": {
+      "by": "atombender",
+      "descendants": 112,
+      "id": 30122128,
+      "kids": [
+        30131868,
+        30138701,
+        30143687,
+        30138743,
+        30139288,
+        30139541,
+        30149265,
+        30149255,
+        30123731,
+        30139982,
+        30123071,
+        30144293,
+        30146762,
+        30138648,
+        30139650,
+        30139540,
+        30140862,
+        30139965,
+        30139938,
+        30140036,
+        30139927,
+        30139519,
+        30138762,
+        30142058,
+        30140426,
+        30122277,
+        30138775,
+        30122426
+      ],
+      "score": 249,
+      "time": 1643413723,
+      "title": "Sega quits arcade business after 50 years",
+      "type": "story",
+      "url": "https://www.eurogamer.net/articles/2022-01-28-sega-quits-japanese-arcade-business-after-50-years"
+    },
+    "og_item": {
+      "title": "DEC VT100 Terminal",
+      "type": "",
+      "image": [
+        {
+          "url": "https://www.pcjs.org/assets/img/logo-home.png",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "",
+      "audio": [],
+      "description": "Home of the original IBM PC emulator for browsers. PCjs offers a variety of online machine emulators written in JavaScript. Run DOS, Windows, OS/2 and other vintage PC applications in a web browser on your desktop computer, iPhone, or iPad. An assortment of microcomputers, minicomputers, terminals, programmable calculators, and arcade machines are available, along with an archive of historical software and documentation.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/assets/icons/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30146052,
     "title": "The Awk state machine parser pattern (2018)",
     "url": "https://two-wrongs.com/awk-state-machine-parser-pattern.html",
@@ -1519,7 +1519,7 @@
     "comment_count": 26,
     "hn_item": {
       "by": "atombender",
-      "descendants": 111,
+      "descendants": 112,
       "id": 30122128,
       "kids": [
         30131868,
@@ -1584,11 +1584,11 @@
     "publisher": "University of Michigan News",
     "description": "A new biologically inspired battery membrane has enabled a battery with five times the capacity of the industry-standard lithium ion design to run for the thousand-plus cycles needed to power an electric car.\n\nA network of aramid nanofibers, recycled from Kevlar, can enable lithium-sulfur batterie",
     "by": "maeln",
-    "points": 62,
-    "comment_count": 115,
+    "points": 63,
+    "comment_count": 118,
     "hn_item": {
       "by": "atombender",
-      "descendants": 111,
+      "descendants": 112,
       "id": 30122128,
       "kids": [
         30131868,
@@ -1662,11 +1662,11 @@
     "publisher": "Will McGugan Tech",
     "description": "Textual adds Windows support I've just released v0.1.15 of Textual, with Windows support. The Windows support is somewhat experimental, but so far seems solid. You will get best results on the new Windows Terminal. On the classic command prompt you might find a reduced color palette. This works o…",
     "by": "RojerGS",
-    "points": 58,
+    "points": 59,
     "comment_count": 9,
     "hn_item": {
       "by": "atombender",
-      "descendants": 111,
+      "descendants": 112,
       "id": 30122128,
       "kids": [
         30131868,
@@ -1740,11 +1740,11 @@
     "publisher": "the Guardian",
     "description": "Photographer Dmitry Kokh discovered polar bears living in an abandoned weather station in Kolyuchin in the Chukotka Autonomous Okrug of Russia",
     "by": "sofixa",
-    "points": 158,
+    "points": 161,
     "comment_count": 39,
     "hn_item": {
       "by": "atombender",
-      "descendants": 111,
+      "descendants": 112,
       "id": 30122128,
       "kids": [
         30131868,
@@ -1818,11 +1818,11 @@
     "publisher": "MathOverflow",
     "description": "The first thing to say is that this is not the same as the question about interesting mathematical mistakes. I am interested about the type of false beliefs that many intelligent people have while ...",
     "by": "gballan",
-    "points": 209,
-    "comment_count": 123,
+    "points": 211,
+    "comment_count": 124,
     "hn_item": {
       "by": "atombender",
-      "descendants": 111,
+      "descendants": 112,
       "id": 30122128,
       "kids": [
         30131868,
@@ -1900,7 +1900,7 @@
     "comment_count": 1,
     "hn_item": {
       "by": "atombender",
-      "descendants": 111,
+      "descendants": 112,
       "id": 30122128,
       "kids": [
         30131868,
@@ -1975,10 +1975,10 @@
     "description": "",
     "by": "pabs3",
     "points": 220,
-    "comment_count": 42,
+    "comment_count": 43,
     "hn_item": {
       "by": "atombender",
-      "descendants": 111,
+      "descendants": 112,
       "id": 30122128,
       "kids": [
         30131868,
@@ -2043,11 +2043,11 @@
     "publisher": "TechCrunch",
     "description": "More consolidation is afoot in the world of IT to meet a new demand from enterprises for “one-stop shops” covering a wide range of needs in our hybrid world of work. Citrix, the long-in-the-tooth virtualization giant that had been making a slow transition into cloud computing, is being …",
     "by": "blopeur",
-    "points": 60,
-    "comment_count": 42,
+    "points": 64,
+    "comment_count": 44,
     "hn_item": {
       "by": "atombender",
-      "descendants": 111,
+      "descendants": 112,
       "id": 30122128,
       "kids": [
         30131868,
@@ -2112,6 +2112,84 @@
     }
   },
   {
+    "id": 30150556,
+    "title": "‘Don’t Weigh Me’ Cards Are Game-Changing for Doctors Appointments",
+    "url": "https://www.self.com/story/dont-weigh-me-cards",
+    "time": 1643649278,
+    "image": "https://media.self.com/photos/61f42236a5dcc41c6c876612/2:1/w_1280,c_limit/Dont-Weigh-Me-Card.png",
+    "icon": "https://www.self.com/verso/static/self/assets/favicon.ico",
+    "publisher": "SELF",
+    "description": "Cards printed with the message \"please don't weigh me\" are appearing in some medical offices to combat fat bias in healthcare.",
+    "by": "harambae",
+    "points": 8,
+    "comment_count": 5,
+    "hn_item": {
+      "by": "atombender",
+      "descendants": 112,
+      "id": 30122128,
+      "kids": [
+        30131868,
+        30138701,
+        30143687,
+        30138743,
+        30139288,
+        30139541,
+        30149265,
+        30149255,
+        30123731,
+        30139982,
+        30123071,
+        30144293,
+        30146762,
+        30138648,
+        30139650,
+        30139540,
+        30140862,
+        30139965,
+        30139938,
+        30140036,
+        30139927,
+        30139519,
+        30138762,
+        30142058,
+        30140426,
+        30122277,
+        30138775,
+        30122426
+      ],
+      "score": 249,
+      "time": 1643413723,
+      "title": "Sega quits arcade business after 50 years",
+      "type": "story",
+      "url": "https://www.eurogamer.net/articles/2022-01-28-sega-quits-japanese-arcade-business-after-50-years"
+    },
+    "og_item": {
+      "title": "These ‘Don’t Weigh Me’ Cards Are Game-Changing for Doctors Appointments",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://media.self.com/photos/61f42236a5dcc41c6c876612/2:1/w_1280,c_limit/Dont-Weigh-Me-Card.png",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://www.self.com/story/dont-weigh-me-cards",
+      "audio": [],
+      "description": "Cards printed with the message \"please don't weigh me\" are appearing in some medical offices to combat fat bias in healthcare.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "SELF",
+      "video": [],
+      "favicon": {
+        "url": "https://www.self.com/verso/static/self/assets/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30117500,
     "title": "Plain Geology (1921)",
     "url": "https://pubs.usgs.gov/gip/plain.html",
@@ -2121,11 +2199,11 @@
     "publisher": "pubs.usgs.gov",
     "description": "",
     "by": "wrycoder",
-    "points": 17,
+    "points": 18,
     "comment_count": 2,
     "hn_item": {
       "by": "atombender",
-      "descendants": 111,
+      "descendants": 112,
       "id": 30122128,
       "kids": [
         30131868,
@@ -2191,10 +2269,10 @@
     "description": "",
     "by": "laktak",
     "points": 196,
-    "comment_count": 145,
+    "comment_count": 148,
     "hn_item": {
       "by": "atombender",
-      "descendants": 111,
+      "descendants": 112,
       "id": 30122128,
       "kids": [
         30131868,
@@ -2250,162 +2328,6 @@
     }
   },
   {
-    "id": 30148147,
-    "title": "BBC censors its own archives",
-    "url": "https://www.nationalreview.com/2022/01/the-bbc-quietly-censors-its-own-archives/",
-    "time": 1643638884,
-    "image": "https://www.nationalreview.com/wp-content/uploads/2022/01/bbc.jpg?fit=2057%2C1200",
-    "icon": "https://www.nationalreview.com/wp-content/themes/national-review/static/images/favicons/favicon-96x96.png",
-    "publisher": "National Review",
-    "description": "Out of public view, the state-owned broadcaster has been altering old episodes of its shows to make them ‘suitable’ for modern listeners.",
-    "by": "temp8964",
-    "points": 121,
-    "comment_count": 107,
-    "hn_item": {
-      "by": "atombender",
-      "descendants": 111,
-      "id": 30122128,
-      "kids": [
-        30131868,
-        30138701,
-        30143687,
-        30138743,
-        30139288,
-        30139541,
-        30149265,
-        30149255,
-        30123731,
-        30139982,
-        30123071,
-        30144293,
-        30146762,
-        30138648,
-        30139650,
-        30139540,
-        30140862,
-        30139965,
-        30139938,
-        30140036,
-        30139927,
-        30139519,
-        30138762,
-        30142058,
-        30140426,
-        30122277,
-        30138775,
-        30122426
-      ],
-      "score": 249,
-      "time": 1643413723,
-      "title": "Sega quits arcade business after 50 years",
-      "type": "story",
-      "url": "https://www.eurogamer.net/articles/2022-01-28-sega-quits-japanese-arcade-business-after-50-years"
-    },
-    "og_item": {
-      "title": "The BBC Quietly Censors Its Own Archives | National Review",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://www.nationalreview.com/wp-content/uploads/2022/01/bbc.jpg?fit=2057%2C1200",
-          "secure_url": "",
-          "type": "",
-          "width": 2057,
-          "height": 1200,
-          "alt": ""
-        }
-      ],
-      "url": "https://www.nationalreview.com/2022/01/the-bbc-quietly-censors-its-own-archives/",
-      "audio": [],
-      "description": "Out of public view, the state-owned broadcaster has been altering old episodes of its shows to make them ‘suitable’ for modern listeners.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "National Review",
-      "video": [],
-      "favicon": {
-        "url": "https://www.nationalreview.com/wp-content/themes/national-review/static/images/favicons/favicon-96x96.png"
-      }
-    }
-  },
-  {
-    "id": 30144021,
-    "title": "I discovered thousands of open databases on AWS",
-    "url": "https://infosecwriteups.com/how-i-discovered-thousands-of-open-databases-on-aws-764729aa7f32?gi=ba781482d685",
-    "time": 1643598347,
-    "image": "https://miro.medium.com/max/1200/1*NxOo3DS3ZzyWxGvxSwIqyw.png",
-    "icon": "https://miro.medium.com/fit/c/256/256/1*vkqyAEGdZQZNbQp1AswznQ.png",
-    "publisher": "Medium",
-    "description": "My journey on finding and reporting databases with sensitive data about Fortune-500 companies, Hospitals, Crypto platforms, Startups during…",
-    "by": "boyter",
-    "points": 256,
-    "comment_count": 68,
-    "hn_item": {
-      "by": "atombender",
-      "descendants": 111,
-      "id": 30122128,
-      "kids": [
-        30131868,
-        30138701,
-        30143687,
-        30138743,
-        30139288,
-        30139541,
-        30149265,
-        30149255,
-        30123731,
-        30139982,
-        30123071,
-        30144293,
-        30146762,
-        30138648,
-        30139650,
-        30139540,
-        30140862,
-        30139965,
-        30139938,
-        30140036,
-        30139927,
-        30139519,
-        30138762,
-        30142058,
-        30140426,
-        30122277,
-        30138775,
-        30122426
-      ],
-      "score": 249,
-      "time": 1643413723,
-      "title": "Sega quits arcade business after 50 years",
-      "type": "story",
-      "url": "https://www.eurogamer.net/articles/2022-01-28-sega-quits-japanese-arcade-business-after-50-years"
-    },
-    "og_item": {
-      "title": "How I Discovered Thousands of Open Databases on AWS",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://miro.medium.com/max/1200/1*NxOo3DS3ZzyWxGvxSwIqyw.png",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://infosecwriteups.com/how-i-discovered-thousands-of-open-databases-on-aws-764729aa7f32",
-      "audio": [],
-      "description": "My journey on finding and reporting databases with sensitive data about Fortune-500 companies, Hospitals, Crypto platforms, Startups during…",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Medium",
-      "video": [],
-      "favicon": {
-        "url": "https://miro.medium.com/fit/c/256/256/1*vkqyAEGdZQZNbQp1AswznQ.png"
-      }
-    }
-  },
-  {
     "id": 30131926,
     "title": "What is the inverse of a circle?",
     "url": "https://mattferraro.dev/posts/inverse-of-a-circle",
@@ -2419,7 +2341,7 @@
     "comment_count": 43,
     "hn_item": {
       "by": "atombender",
-      "descendants": 111,
+      "descendants": 112,
       "id": 30122128,
       "kids": [
         30131868,
@@ -2488,16 +2410,16 @@
     "title": "Boyfriend-alert – A light based alert system",
     "url": "https://github.com/jscd/Boyfriend-Alert",
     "time": 1643619852,
-    "image": "https://opengraph.githubassets.com/8fdc15dcfc0dc3a87f789ebcec620941a2662810a0392392f6af2c9554e091d0/jscd/Boyfriend-Alert",
+    "image": "https://opengraph.githubassets.com/f6332a60c753aa67dee19da07d24154b808f762661349a012d4c0c457e8d50f4/jscd/Boyfriend-Alert",
     "icon": "https://github.githubassets.com/favicons/favicon.svg",
     "publisher": "GitHub",
     "description": "A light based alert system. Contribute to jscd/Boyfriend-Alert development by creating an account on GitHub.",
     "by": "rgun",
     "points": 194,
-    "comment_count": 158,
+    "comment_count": 159,
     "hn_item": {
       "by": "atombender",
-      "descendants": 111,
+      "descendants": 112,
       "id": 30122128,
       "kids": [
         30131868,
@@ -2540,7 +2462,7 @@
       "type": "object",
       "image": [
         {
-          "url": "https://opengraph.githubassets.com/8fdc15dcfc0dc3a87f789ebcec620941a2662810a0392392f6af2c9554e091d0/jscd/Boyfriend-Alert",
+          "url": "https://opengraph.githubassets.com/f6332a60c753aa67dee19da07d24154b808f762661349a012d4c0c457e8d50f4/jscd/Boyfriend-Alert",
           "secure_url": "",
           "type": "",
           "width": 1200,
@@ -2562,6 +2484,75 @@
     }
   },
   {
+    "id": 30146042,
+    "title": "Finnish diplomats’ phones infected with NSO Group Pegasus spyware",
+    "url": "https://www.bleepingcomputer.com/news/security/finnish-diplomats-phones-infected-with-nso-group-pegasus-spyware/",
+    "time": 1643620174,
+    "image": "",
+    "icon": "https://www.bleepingcomputer.com/favicon.ico",
+    "publisher": "bleepingcomputer.com",
+    "description": "",
+    "by": "beermonster",
+    "points": 189,
+    "comment_count": 94,
+    "hn_item": {
+      "by": "atombender",
+      "descendants": 112,
+      "id": 30122128,
+      "kids": [
+        30131868,
+        30138701,
+        30143687,
+        30138743,
+        30139288,
+        30139541,
+        30149265,
+        30149255,
+        30123731,
+        30139982,
+        30123071,
+        30144293,
+        30146762,
+        30138648,
+        30139650,
+        30139540,
+        30140862,
+        30139965,
+        30139938,
+        30140036,
+        30139927,
+        30139519,
+        30138762,
+        30142058,
+        30140426,
+        30122277,
+        30138775,
+        30122426
+      ],
+      "score": 249,
+      "time": 1643413723,
+      "title": "Sega quits arcade business after 50 years",
+      "type": "story",
+      "url": "https://www.eurogamer.net/articles/2022-01-28-sega-quits-japanese-arcade-business-after-50-years"
+    },
+    "og_item": {
+      "title": "Just a moment...",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30150021,
     "title": "Slack Having a Partial Outage",
     "url": "https://status.slack.com/2022-01/f7d4da863db0707c",
@@ -2575,7 +2566,7 @@
     "comment_count": 2,
     "hn_item": {
       "by": "atombender",
-      "descendants": 111,
+      "descendants": 112,
       "id": 30122128,
       "kids": [
         30131868,
@@ -2640,153 +2631,6 @@
     }
   },
   {
-    "id": 30150556,
-    "title": "‘Don’t Weigh Me’ Cards Are Game-Changing for Doctors Appointments",
-    "url": "https://www.self.com/story/dont-weigh-me-cards",
-    "time": 1643649278,
-    "image": "https://media.self.com/photos/61f42236a5dcc41c6c876612/2:1/w_1280,c_limit/Dont-Weigh-Me-Card.png",
-    "icon": "https://www.self.com/verso/static/self/assets/favicon.ico",
-    "publisher": "SELF",
-    "description": "Cards printed with the message \"please don't weigh me\" are appearing in some medical offices to combat fat bias in healthcare.",
-    "by": "harambae",
-    "points": 6,
-    "comment_count": 3,
-    "hn_item": {
-      "by": "atombender",
-      "descendants": 111,
-      "id": 30122128,
-      "kids": [
-        30131868,
-        30138701,
-        30143687,
-        30138743,
-        30139288,
-        30139541,
-        30149265,
-        30149255,
-        30123731,
-        30139982,
-        30123071,
-        30144293,
-        30146762,
-        30138648,
-        30139650,
-        30139540,
-        30140862,
-        30139965,
-        30139938,
-        30140036,
-        30139927,
-        30139519,
-        30138762,
-        30142058,
-        30140426,
-        30122277,
-        30138775,
-        30122426
-      ],
-      "score": 249,
-      "time": 1643413723,
-      "title": "Sega quits arcade business after 50 years",
-      "type": "story",
-      "url": "https://www.eurogamer.net/articles/2022-01-28-sega-quits-japanese-arcade-business-after-50-years"
-    },
-    "og_item": {
-      "title": "These ‘Don’t Weigh Me’ Cards Are Game-Changing for Doctors Appointments",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://media.self.com/photos/61f42236a5dcc41c6c876612/2:1/w_1280,c_limit/Dont-Weigh-Me-Card.png",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://www.self.com/story/dont-weigh-me-cards",
-      "audio": [],
-      "description": "Cards printed with the message \"please don't weigh me\" are appearing in some medical offices to combat fat bias in healthcare.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "SELF",
-      "video": [],
-      "favicon": {
-        "url": "https://www.self.com/verso/static/self/assets/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30146042,
-    "title": "Finnish diplomats’ phones infected with NSO Group Pegasus spyware",
-    "url": "https://www.bleepingcomputer.com/news/security/finnish-diplomats-phones-infected-with-nso-group-pegasus-spyware/",
-    "time": 1643620174,
-    "image": "",
-    "icon": "https://www.bleepingcomputer.com/favicon.ico",
-    "publisher": "bleepingcomputer.com",
-    "description": "",
-    "by": "beermonster",
-    "points": 189,
-    "comment_count": 93,
-    "hn_item": {
-      "by": "atombender",
-      "descendants": 111,
-      "id": 30122128,
-      "kids": [
-        30131868,
-        30138701,
-        30143687,
-        30138743,
-        30139288,
-        30139541,
-        30149265,
-        30149255,
-        30123731,
-        30139982,
-        30123071,
-        30144293,
-        30146762,
-        30138648,
-        30139650,
-        30139540,
-        30140862,
-        30139965,
-        30139938,
-        30140036,
-        30139927,
-        30139519,
-        30138762,
-        30142058,
-        30140426,
-        30122277,
-        30138775,
-        30122426
-      ],
-      "score": 249,
-      "time": 1643413723,
-      "title": "Sega quits arcade business after 50 years",
-      "type": "story",
-      "url": "https://www.eurogamer.net/articles/2022-01-28-sega-quits-japanese-arcade-business-after-50-years"
-    },
-    "og_item": {
-      "title": "Just a moment...",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30147652,
     "title": "Firecracker v1.0 Released",
     "url": "https://github.com/firecracker-microvm/firecracker/releases/tag/v1.0.0",
@@ -2800,7 +2644,7 @@
     "comment_count": 13,
     "hn_item": {
       "by": "atombender",
-      "descendants": 111,
+      "descendants": 112,
       "id": 30122128,
       "kids": [
         30131868,
@@ -2865,75 +2709,6 @@
     }
   },
   {
-    "id": 30149797,
-    "title": "Internet outage affected nearly 30k people after Oakland fiber cable was shot",
-    "url": "https://www.datacenterdynamics.com/en/news/tens-of-thousands-left-without-internet-as-multiple-bullets-hit-oakland-xfinity-fiber-cable/",
-    "time": 1643646379,
-    "image": "",
-    "icon": "https://www.datacenterdynamics.com/favicon.ico",
-    "publisher": "datacenterdynamics.com",
-    "description": "",
-    "by": "Element_",
-    "points": 69,
-    "comment_count": 94,
-    "hn_item": {
-      "by": "atombender",
-      "descendants": 111,
-      "id": 30122128,
-      "kids": [
-        30131868,
-        30138701,
-        30143687,
-        30138743,
-        30139288,
-        30139541,
-        30149265,
-        30149255,
-        30123731,
-        30139982,
-        30123071,
-        30144293,
-        30146762,
-        30138648,
-        30139650,
-        30139540,
-        30140862,
-        30139965,
-        30139938,
-        30140036,
-        30139927,
-        30139519,
-        30138762,
-        30142058,
-        30140426,
-        30122277,
-        30138775,
-        30122426
-      ],
-      "score": 249,
-      "time": 1643413723,
-      "title": "Sega quits arcade business after 50 years",
-      "type": "story",
-      "url": "https://www.eurogamer.net/articles/2022-01-28-sega-quits-japanese-arcade-business-after-50-years"
-    },
-    "og_item": {
-      "title": "Please Wait... | Cloudflare",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30145237,
     "title": "Generate static sites from Markdown files with Caddy (2018)",
     "url": "https://blog.thomaspuppe.de/static-sites-from-markdown-with-caddy-server",
@@ -2944,10 +2719,10 @@
     "description": "",
     "by": "indigodaddy",
     "points": 93,
-    "comment_count": 23,
+    "comment_count": 24,
     "hn_item": {
       "by": "atombender",
-      "descendants": 111,
+      "descendants": 112,
       "id": 30122128,
       "kids": [
         30131868,
@@ -2998,10 +2773,10 @@
     "description": "AI is driving the next evolution of chess, giving players a glimpse into the game\u0026#39;s future.",
     "by": "joak",
     "points": 144,
-    "comment_count": 101,
+    "comment_count": 102,
     "hn_item": {
       "by": "atombender",
-      "descendants": 111,
+      "descendants": 112,
       "id": 30122128,
       "kids": [
         30131868,
@@ -3066,84 +2841,6 @@
     }
   },
   {
-    "id": 30149018,
-    "title": "Meat eating link to inflammation, worse gut health and MS",
-    "url": "https://www.sydney.edu.au/news-opinion/news/2022/01/28/meat-eating-linked-to-inflammation-worse-gut-health-and-ms.html",
-    "time": 1643643061,
-    "image": "https://www.sydney.edu.au/content/dam/corporate/images/news-and-opinion/news/2022/january/shutterstock__cropped_1264288867.jpg",
-    "icon": "https://www.sydney.edu.au/etc.clientlibs/corporate-commons/clientlibs/foundation/resources/corporate-frontend/assets/favicon/favicon.ico",
-    "publisher": "The University of Sydney",
-    "description": "Eating more meat, having less carbohydrate-digesting bacteria in the gut, and more pro-inflammatory immune cells in the blood all link with multiple sclerosis (MS), researchers from University of Sydney, Washington University and UConn Health have found.",
-    "by": "rustoo",
-    "points": 8,
-    "comment_count": 4,
-    "hn_item": {
-      "by": "atombender",
-      "descendants": 111,
-      "id": 30122128,
-      "kids": [
-        30131868,
-        30138701,
-        30143687,
-        30138743,
-        30139288,
-        30139541,
-        30149265,
-        30149255,
-        30123731,
-        30139982,
-        30123071,
-        30144293,
-        30146762,
-        30138648,
-        30139650,
-        30139540,
-        30140862,
-        30139965,
-        30139938,
-        30140036,
-        30139927,
-        30139519,
-        30138762,
-        30142058,
-        30140426,
-        30122277,
-        30138775,
-        30122426
-      ],
-      "score": 249,
-      "time": 1643413723,
-      "title": "Sega quits arcade business after 50 years",
-      "type": "story",
-      "url": "https://www.eurogamer.net/articles/2022-01-28-sega-quits-japanese-arcade-business-after-50-years"
-    },
-    "og_item": {
-      "title": "Meat eating link to inflammation worse gut health and MS",
-      "type": "website",
-      "image": [
-        {
-          "url": "https://www.sydney.edu.au/content/dam/corporate/images/news-and-opinion/news/2022/january/shutterstock__cropped_1264288867.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://www.sydney.edu.au/news-opinion/news/2022/01/28/meat-eating-linked-to-inflammation-worse-gut-health-and-ms.html",
-      "audio": [],
-      "description": "Eating more meat, having less carbohydrate-digesting bacteria in the gut, and more pro-inflammatory immune cells in the blood all link with multiple sclerosis (MS), researchers from University of Sydney, Washington University and UConn Health have found.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "The University of Sydney",
-      "video": [],
-      "favicon": {
-        "url": "/etc.clientlibs/corporate-commons/clientlibs/foundation/resources/corporate-frontend/assets/favicon/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30147379,
     "title": "My dishwasher won’t start until I let it update its firmware over the WiFi",
     "url": "https://twitter.com/isislovecruft/status/1487947074901463040",
@@ -3153,11 +2850,11 @@
     "publisher": "Twitter",
     "description": "",
     "by": "_Microft",
-    "points": 484,
+    "points": 486,
     "comment_count": 489,
     "hn_item": {
       "by": "atombender",
-      "descendants": 111,
+      "descendants": 112,
       "id": 30122128,
       "kids": [
         30131868,
@@ -3213,6 +2910,75 @@
     }
   },
   {
+    "id": 30149797,
+    "title": "Internet outage affected nearly 30k people after Oakland fiber cable was shot",
+    "url": "https://www.datacenterdynamics.com/en/news/tens-of-thousands-left-without-internet-as-multiple-bullets-hit-oakland-xfinity-fiber-cable/",
+    "time": 1643646379,
+    "image": "",
+    "icon": "https://www.datacenterdynamics.com/favicon.ico",
+    "publisher": "datacenterdynamics.com",
+    "description": "",
+    "by": "Element_",
+    "points": 69,
+    "comment_count": 98,
+    "hn_item": {
+      "by": "atombender",
+      "descendants": 112,
+      "id": 30122128,
+      "kids": [
+        30131868,
+        30138701,
+        30143687,
+        30138743,
+        30139288,
+        30139541,
+        30149265,
+        30149255,
+        30123731,
+        30139982,
+        30123071,
+        30144293,
+        30146762,
+        30138648,
+        30139650,
+        30139540,
+        30140862,
+        30139965,
+        30139938,
+        30140036,
+        30139927,
+        30139519,
+        30138762,
+        30142058,
+        30140426,
+        30122277,
+        30138775,
+        30122426
+      ],
+      "score": 249,
+      "time": 1643413723,
+      "title": "Sega quits arcade business after 50 years",
+      "type": "story",
+      "url": "https://www.eurogamer.net/articles/2022-01-28-sega-quits-japanese-arcade-business-after-50-years"
+    },
+    "og_item": {
+      "title": "Please Wait... | Cloudflare",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30147547,
     "title": "MNT Reform laptop has fully open hardware and software–for better or worse",
     "url": "https://arstechnica.com/gadgets/2022/01/review-mnt-reform-laptop-has-fully-open-hardware-and-software-for-better-or-worse/",
@@ -3223,10 +2989,10 @@
     "description": "Slow ARM CPU almost single-handedly derails an intriguing laptop experiment.",
     "by": "leephillips",
     "points": 72,
-    "comment_count": 18,
+    "comment_count": 19,
     "hn_item": {
       "by": "atombender",
-      "descendants": 111,
+      "descendants": 112,
       "id": 30122128,
       "kids": [
         30131868,
@@ -3304,7 +3070,7 @@
     "comment_count": 5,
     "hn_item": {
       "by": "atombender",
-      "descendants": 111,
+      "descendants": 112,
       "id": 30122128,
       "kids": [
         30131868,
@@ -3370,10 +3136,10 @@
     "description": "",
     "by": "otras",
     "points": 337,
-    "comment_count": 200,
+    "comment_count": 202,
     "hn_item": {
       "by": "atombender",
-      "descendants": 111,
+      "descendants": 112,
       "id": 30122128,
       "kids": [
         30131868,
@@ -3442,7 +3208,7 @@
     "comment_count": 4,
     "hn_item": {
       "by": "atombender",
-      "descendants": 111,
+      "descendants": 112,
       "id": 30122128,
       "kids": [
         30131868,
@@ -3517,10 +3283,10 @@
     "description": "",
     "by": "johnsanders",
     "points": 3,
-    "comment_count": 3,
+    "comment_count": 4,
     "hn_item": {
       "by": "atombender",
-      "descendants": 111,
+      "descendants": 112,
       "id": 30122128,
       "kids": [
         30131868,
@@ -3576,6 +3342,84 @@
     }
   },
   {
+    "id": 30144021,
+    "title": "I discovered thousands of open databases on AWS",
+    "url": "https://infosecwriteups.com/how-i-discovered-thousands-of-open-databases-on-aws-764729aa7f32?gi=ba781482d685",
+    "time": 1643598347,
+    "image": "https://miro.medium.com/max/1200/1*NxOo3DS3ZzyWxGvxSwIqyw.png",
+    "icon": "https://miro.medium.com/fit/c/256/256/1*vkqyAEGdZQZNbQp1AswznQ.png",
+    "publisher": "Medium",
+    "description": "My journey on finding and reporting databases with sensitive data about Fortune-500 companies, Hospitals, Crypto platforms, Startups during…",
+    "by": "boyter",
+    "points": 256,
+    "comment_count": 68,
+    "hn_item": {
+      "by": "atombender",
+      "descendants": 112,
+      "id": 30122128,
+      "kids": [
+        30131868,
+        30138701,
+        30143687,
+        30138743,
+        30139288,
+        30139541,
+        30149265,
+        30149255,
+        30123731,
+        30139982,
+        30123071,
+        30144293,
+        30146762,
+        30138648,
+        30139650,
+        30139540,
+        30140862,
+        30139965,
+        30139938,
+        30140036,
+        30139927,
+        30139519,
+        30138762,
+        30142058,
+        30140426,
+        30122277,
+        30138775,
+        30122426
+      ],
+      "score": 249,
+      "time": 1643413723,
+      "title": "Sega quits arcade business after 50 years",
+      "type": "story",
+      "url": "https://www.eurogamer.net/articles/2022-01-28-sega-quits-japanese-arcade-business-after-50-years"
+    },
+    "og_item": {
+      "title": "How I Discovered Thousands of Open Databases on AWS",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://miro.medium.com/max/1200/1*NxOo3DS3ZzyWxGvxSwIqyw.png",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://infosecwriteups.com/how-i-discovered-thousands-of-open-databases-on-aws-764729aa7f32",
+      "audio": [],
+      "description": "My journey on finding and reporting databases with sensitive data about Fortune-500 companies, Hospitals, Crypto platforms, Startups during…",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Medium",
+      "video": [],
+      "favicon": {
+        "url": "https://miro.medium.com/fit/c/256/256/1*vkqyAEGdZQZNbQp1AswznQ.png"
+      }
+    }
+  },
+  {
     "id": 30148354,
     "title": "The Financialization of Housing in Europe",
     "url": "https://unassumingeconomist.com/2022/01/the-financialization-of-housing-in-europe/",
@@ -3589,7 +3433,7 @@
     "comment_count": 0,
     "hn_item": {
       "by": "atombender",
-      "descendants": 111,
+      "descendants": 112,
       "id": 30122128,
       "kids": [
         30131868,
@@ -3654,11 +3498,11 @@
     "publisher": "fahrrad-tools.de",
     "description": "Which tire fits my bike? Tires are always flat and now buy a tire with puncture protection? Find the right tire now!",
     "by": "moasda",
-    "points": 607,
+    "points": 608,
     "comment_count": 177,
     "hn_item": {
       "by": "atombender",
-      "descendants": 111,
+      "descendants": 112,
       "id": 30122128,
       "kids": [
         30131868,
@@ -3714,84 +3558,6 @@
     }
   },
   {
-    "id": 30143946,
-    "title": "Mesmerizing Labor",
-    "url": "https://daily.jstor.org/mesmerizing-labor/",
-    "time": 1643597651,
-    "image": "https://daily.jstor.org/wp-content/uploads/2022/01/mesmerizing_labor_1050x700.jpg",
-    "icon": "https://daily.jstor.org/wp-content/uploads/2017/12/cropped-new_daily_favicon-300x300.png",
-    "publisher": "JSTOR Daily",
-    "description": "The man who introduced mesmerism to the US was a slave-owner from Guadeloupe, where planters were experimenting with “magnetizing” their enslaved people.",
-    "by": "onychomys",
-    "points": 45,
-    "comment_count": 11,
-    "hn_item": {
-      "by": "atombender",
-      "descendants": 111,
-      "id": 30122128,
-      "kids": [
-        30131868,
-        30138701,
-        30143687,
-        30138743,
-        30139288,
-        30139541,
-        30149265,
-        30149255,
-        30123731,
-        30139982,
-        30123071,
-        30144293,
-        30146762,
-        30138648,
-        30139650,
-        30139540,
-        30140862,
-        30139965,
-        30139938,
-        30140036,
-        30139927,
-        30139519,
-        30138762,
-        30142058,
-        30140426,
-        30122277,
-        30138775,
-        30122426
-      ],
-      "score": 249,
-      "time": 1643413723,
-      "title": "Sega quits arcade business after 50 years",
-      "type": "story",
-      "url": "https://www.eurogamer.net/articles/2022-01-28-sega-quits-japanese-arcade-business-after-50-years"
-    },
-    "og_item": {
-      "title": "Mesmerizing Labor - JSTOR Daily",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://daily.jstor.org/wp-content/uploads/2022/01/mesmerizing_labor_1050x700.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 1050,
-          "height": 700,
-          "alt": ""
-        }
-      ],
-      "url": "https://daily.jstor.org/mesmerizing-labor/",
-      "audio": [],
-      "description": "The man who introduced mesmerism to the US was a slave-owner from Guadeloupe, where planters were experimenting with “magnetizing” their enslaved people.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "JSTOR Daily",
-      "video": [],
-      "favicon": {
-        "url": "https://daily.jstor.org/wp-content/uploads/2017/12/cropped-new_daily_favicon-300x300.png"
-      }
-    }
-  },
-  {
     "id": 30119285,
     "title": "Devious SQL: Message Queuing Using Native PostgreSQL",
     "url": "https://blog.crunchydata.com/blog/message-queuing-using-native-postgresql",
@@ -3805,7 +3571,7 @@
     "comment_count": 36,
     "hn_item": {
       "by": "atombender",
-      "descendants": 111,
+      "descendants": 112,
       "id": 30122128,
       "kids": [
         30131868,
@@ -3870,6 +3636,75 @@
     }
   },
   {
+    "id": 30148527,
+    "title": "Run a Amiga Workbench simulation in your browser",
+    "url": "https://www.taws.ch/WB.html",
+    "time": 1643640933,
+    "image": "",
+    "icon": "https://www.taws.ch/favicon.ico",
+    "publisher": "taws.ch",
+    "description": "TAWS - The Amiga Workbench Simulation is a pure (no Java, no Flash) JavaScript simulation of the Amiga Workbench.",
+    "by": "Torwald",
+    "points": 4,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "atombender",
+      "descendants": 112,
+      "id": 30122128,
+      "kids": [
+        30131868,
+        30138701,
+        30143687,
+        30138743,
+        30139288,
+        30139541,
+        30149265,
+        30149255,
+        30123731,
+        30139982,
+        30123071,
+        30144293,
+        30146762,
+        30138648,
+        30139650,
+        30139540,
+        30140862,
+        30139965,
+        30139938,
+        30140036,
+        30139927,
+        30139519,
+        30138762,
+        30142058,
+        30140426,
+        30122277,
+        30138775,
+        30122426
+      ],
+      "score": 249,
+      "time": 1643413723,
+      "title": "Sega quits arcade business after 50 years",
+      "type": "story",
+      "url": "https://www.eurogamer.net/articles/2022-01-28-sega-quits-japanese-arcade-business-after-50-years"
+    },
+    "og_item": {
+      "title": "TAWS - The Amiga Workbench Simulation is loading...",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "TAWS - The Amiga Workbench Simulation is a pure (no Java, no Flash) JavaScript simulation of the Amiga Workbench.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30148806,
     "title": "Gitlab is down",
     "url": "https://gitlab.com/",
@@ -3883,7 +3718,7 @@
     "comment_count": 52,
     "hn_item": {
       "by": "atombender",
-      "descendants": 111,
+      "descendants": 112,
       "id": 30122128,
       "kids": [
         30131868,
@@ -3953,7 +3788,7 @@
     "url": "https://medium.com/swlh/zork-the-great-inner-workings-b68012952bdc",
     "time": 1643647563,
     "image": "https://miro.medium.com/max/1200/1*LbRFPyeOZOnh4SyO6apK8g.png",
-    "icon": "https://medium.com/favicon.ico",
+    "icon": "https://miro.medium.com/1*m-R_BkNf1Qjr1YbyOIJY2w.png",
     "publisher": "Medium",
     "description": "Exploring the source code and game architecture of Zork I: The Great Underground Empire.",
     "by": "ca98am79",
@@ -3961,7 +3796,7 @@
     "comment_count": 1,
     "hn_item": {
       "by": "atombender",
-      "descendants": 111,
+      "descendants": 112,
       "id": 30122128,
       "kids": [
         30131868,
@@ -4021,7 +3856,7 @@
       "site_name": "Medium",
       "video": [],
       "favicon": {
-        "url": "/favicon.ico"
+        "url": "https://miro.medium.com/1*m-R_BkNf1Qjr1YbyOIJY2w.png"
       }
     }
   },
@@ -4035,11 +3870,11 @@
     "publisher": "tesla.com",
     "description": "Launched in November 2021, our Non-Tesla Supercharger pilot will continue to expand to new sites and countries in support of our mission to accelerate the world’s transition to sustainable energy.",
     "by": "punnerud",
-    "points": 81,
-    "comment_count": 144,
+    "points": 82,
+    "comment_count": 145,
     "hn_item": {
       "by": "atombender",
-      "descendants": 111,
+      "descendants": 112,
       "id": 30122128,
       "kids": [
         30131868,
@@ -4117,7 +3952,7 @@
     "comment_count": 0,
     "hn_item": {
       "by": "atombender",
-      "descendants": 111,
+      "descendants": 112,
       "id": 30122128,
       "kids": [
         30131868,
@@ -4173,6 +4008,162 @@
     }
   },
   {
+    "id": 30148147,
+    "title": "BBC censors its own archives",
+    "url": "https://www.nationalreview.com/2022/01/the-bbc-quietly-censors-its-own-archives/",
+    "time": 1643638884,
+    "image": "https://www.nationalreview.com/wp-content/uploads/2022/01/bbc.jpg?fit=2057%2C1200",
+    "icon": "https://www.nationalreview.com/wp-content/themes/national-review/static/images/favicons/favicon-96x96.png",
+    "publisher": "National Review",
+    "description": "Out of public view, the state-owned broadcaster has been altering old episodes of its shows to make them ‘suitable’ for modern listeners.",
+    "by": "temp8964",
+    "points": 121,
+    "comment_count": 109,
+    "hn_item": {
+      "by": "atombender",
+      "descendants": 112,
+      "id": 30122128,
+      "kids": [
+        30131868,
+        30138701,
+        30143687,
+        30138743,
+        30139288,
+        30139541,
+        30149265,
+        30149255,
+        30123731,
+        30139982,
+        30123071,
+        30144293,
+        30146762,
+        30138648,
+        30139650,
+        30139540,
+        30140862,
+        30139965,
+        30139938,
+        30140036,
+        30139927,
+        30139519,
+        30138762,
+        30142058,
+        30140426,
+        30122277,
+        30138775,
+        30122426
+      ],
+      "score": 249,
+      "time": 1643413723,
+      "title": "Sega quits arcade business after 50 years",
+      "type": "story",
+      "url": "https://www.eurogamer.net/articles/2022-01-28-sega-quits-japanese-arcade-business-after-50-years"
+    },
+    "og_item": {
+      "title": "The BBC Quietly Censors Its Own Archives | National Review",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://www.nationalreview.com/wp-content/uploads/2022/01/bbc.jpg?fit=2057%2C1200",
+          "secure_url": "",
+          "type": "",
+          "width": 2057,
+          "height": 1200,
+          "alt": ""
+        }
+      ],
+      "url": "https://www.nationalreview.com/2022/01/the-bbc-quietly-censors-its-own-archives/",
+      "audio": [],
+      "description": "Out of public view, the state-owned broadcaster has been altering old episodes of its shows to make them ‘suitable’ for modern listeners.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "National Review",
+      "video": [],
+      "favicon": {
+        "url": "https://www.nationalreview.com/wp-content/themes/national-review/static/images/favicons/favicon-96x96.png"
+      }
+    }
+  },
+  {
+    "id": 30150803,
+    "title": "Workplace Disruption Reported at Meta Amid AR and VR Push",
+    "url": "https://www.macrumors.com/2022/01/31/workplace-disruption-at-meta-amid-ar-and-vr-push/",
+    "time": 1643650143,
+    "image": "https://images.macrumors.com/t/TFBkuLDX0tRnNFK6I0jzhGrAjiA=/1600x/article-new/2021/10/facebook-meta.jpg",
+    "icon": "https://images.macrumors.com/images-new/favicon-16x16.png",
+    "publisher": "MacRumors",
+    "description": "Some Meta employees are being aggressively pushed to apply for other jobs at the company and embrace the recent drive toward augmented reality (AR)...",
+    "by": "anonymousab",
+    "points": 3,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "atombender",
+      "descendants": 112,
+      "id": 30122128,
+      "kids": [
+        30131868,
+        30138701,
+        30143687,
+        30138743,
+        30139288,
+        30139541,
+        30149265,
+        30149255,
+        30123731,
+        30139982,
+        30123071,
+        30144293,
+        30146762,
+        30138648,
+        30139650,
+        30139540,
+        30140862,
+        30139965,
+        30139938,
+        30140036,
+        30139927,
+        30139519,
+        30138762,
+        30142058,
+        30140426,
+        30122277,
+        30138775,
+        30122426
+      ],
+      "score": 249,
+      "time": 1643413723,
+      "title": "Sega quits arcade business after 50 years",
+      "type": "story",
+      "url": "https://www.eurogamer.net/articles/2022-01-28-sega-quits-japanese-arcade-business-after-50-years"
+    },
+    "og_item": {
+      "title": "Workplace Disruption Reported at Meta Amid AR and VR Push, Some Staff Defecting to Competitors Like Apple",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://images.macrumors.com/t/TFBkuLDX0tRnNFK6I0jzhGrAjiA=/1600x/article-new/2021/10/facebook-meta.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 1600,
+          "height": 900,
+          "alt": ""
+        }
+      ],
+      "url": "https://www.macrumors.com/2022/01/31/workplace-disruption-at-meta-amid-ar-and-vr-push/",
+      "audio": [],
+      "description": "Some Meta employees are being aggressively pushed to apply for other jobs at the company and embrace the recent drive toward augmented reality (AR)...",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "MacRumors",
+      "video": [],
+      "favicon": {
+        "url": "https://images.macrumors.com/images-new/favicon-16x16.png"
+      }
+    }
+  },
+  {
     "id": 30148095,
     "title": "Cypress vs. Selenium vs. Playwright vs. Puppeteer speed comparison",
     "url": "https://blog.checklyhq.com/cypress-vs-selenium-vs-playwright-vs-puppeteer-speed-comparison/",
@@ -4186,7 +4177,7 @@
     "comment_count": 0,
     "hn_item": {
       "by": "atombender",
-      "descendants": 111,
+      "descendants": 112,
       "id": 30122128,
       "kids": [
         30131868,
@@ -4268,11 +4259,11 @@
     "publisher": "blog.laurel.world",
     "description": "",
     "by": "artmare",
-    "points": 61,
+    "points": 62,
     "comment_count": 4,
     "hn_item": {
       "by": "atombender",
-      "descendants": 111,
+      "descendants": 112,
       "id": 30122128,
       "kids": [
         30131868,
@@ -4341,7 +4332,7 @@
     "comment_count": 847,
     "hn_item": {
       "by": "atombender",
-      "descendants": 111,
+      "descendants": 112,
       "id": 30122128,
       "kids": [
         30131868,
@@ -4406,84 +4397,6 @@
     }
   },
   {
-    "id": 30150472,
-    "title": "How Homeowners defeated Zillow’s AI, which led to Zillow Offers’ demise",
-    "url": "https://www.geekwire.com/2022/commentary-how-homeowners-defeated-zillows-ai-ultimately-leading-to-zillow-offers-demise%ef%bf%bc/",
-    "time": 1643649020,
-    "image": "https://cdn.geekwire.com/wp-content/uploads/2021/11/bigstock-212306599.jpg",
-    "icon": "https://www.geekwire.com/favicon-16x16.png",
-    "publisher": "GeekWire",
-    "description": "Now that the dust has settled, we can ask how could the smart and savvy team at Zillow Group, armed with cutting-edge AI methods and mountains of data, lose half a billion dollars buying homes in the…",
-    "by": "jkuria",
-    "points": 3,
-    "comment_count": 1,
-    "hn_item": {
-      "by": "atombender",
-      "descendants": 111,
-      "id": 30122128,
-      "kids": [
-        30131868,
-        30138701,
-        30143687,
-        30138743,
-        30139288,
-        30139541,
-        30149265,
-        30149255,
-        30123731,
-        30139982,
-        30123071,
-        30144293,
-        30146762,
-        30138648,
-        30139650,
-        30139540,
-        30140862,
-        30139965,
-        30139938,
-        30140036,
-        30139927,
-        30139519,
-        30138762,
-        30142058,
-        30140426,
-        30122277,
-        30138775,
-        30122426
-      ],
-      "score": 249,
-      "time": 1643413723,
-      "title": "Sega quits arcade business after 50 years",
-      "type": "story",
-      "url": "https://www.eurogamer.net/articles/2022-01-28-sega-quits-japanese-arcade-business-after-50-years"
-    },
-    "og_item": {
-      "title": "Commentary: How homeowners defeated Zillow’s AI, which led to Zillow Offers’ demise",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2021/11/bigstock-212306599.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 900,
-          "height": 601,
-          "alt": ""
-        }
-      ],
-      "url": "https://www.geekwire.com/2022/commentary-how-homeowners-defeated-zillows-ai-ultimately-leading-to-zillow-offers-demise%ef%bf%bc/",
-      "audio": [],
-      "description": "Now that the dust has settled, we can ask how could the smart and savvy team at Zillow Group, armed with cutting-edge AI methods and mountains of data, lose half a billion dollars buying homes in the…",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "GeekWire",
-      "video": [],
-      "favicon": {
-        "url": "/favicon-16x16.png"
-      }
-    }
-  },
-  {
     "id": 30132612,
     "title": "John Locke’s recipe for Pancakes (2021)",
     "url": "https://rarecooking.com/2021/12/14/john-lockes-recipe-for-pancakes/",
@@ -4497,7 +4410,7 @@
     "comment_count": 151,
     "hn_item": {
       "by": "atombender",
-      "descendants": 111,
+      "descendants": 112,
       "id": 30122128,
       "kids": [
         30131868,
@@ -4562,6 +4475,84 @@
     }
   },
   {
+    "id": 30150472,
+    "title": "How Homeowners defeated Zillow’s AI, which led to Zillow Offers’ demise",
+    "url": "https://www.geekwire.com/2022/commentary-how-homeowners-defeated-zillows-ai-ultimately-leading-to-zillow-offers-demise%ef%bf%bc/",
+    "time": 1643649020,
+    "image": "https://cdn.geekwire.com/wp-content/uploads/2021/11/bigstock-212306599.jpg",
+    "icon": "https://www.geekwire.com/favicon-16x16.png",
+    "publisher": "GeekWire",
+    "description": "Now that the dust has settled, we can ask how could the smart and savvy team at Zillow Group, armed with cutting-edge AI methods and mountains of data, lose half a billion dollars buying homes in the…",
+    "by": "jkuria",
+    "points": 3,
+    "comment_count": 2,
+    "hn_item": {
+      "by": "atombender",
+      "descendants": 112,
+      "id": 30122128,
+      "kids": [
+        30131868,
+        30138701,
+        30143687,
+        30138743,
+        30139288,
+        30139541,
+        30149265,
+        30149255,
+        30123731,
+        30139982,
+        30123071,
+        30144293,
+        30146762,
+        30138648,
+        30139650,
+        30139540,
+        30140862,
+        30139965,
+        30139938,
+        30140036,
+        30139927,
+        30139519,
+        30138762,
+        30142058,
+        30140426,
+        30122277,
+        30138775,
+        30122426
+      ],
+      "score": 249,
+      "time": 1643413723,
+      "title": "Sega quits arcade business after 50 years",
+      "type": "story",
+      "url": "https://www.eurogamer.net/articles/2022-01-28-sega-quits-japanese-arcade-business-after-50-years"
+    },
+    "og_item": {
+      "title": "Commentary: How homeowners defeated Zillow’s AI, which led to Zillow Offers’ demise",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2021/11/bigstock-212306599.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 900,
+          "height": 601,
+          "alt": ""
+        }
+      ],
+      "url": "https://www.geekwire.com/2022/commentary-how-homeowners-defeated-zillows-ai-ultimately-leading-to-zillow-offers-demise/",
+      "audio": [],
+      "description": "Now that the dust has settled, we can ask how could the smart and savvy team at Zillow Group, armed with cutting-edge AI methods and mountains of data, lose half a billion dollars buying homes in the…",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "GeekWire",
+      "video": [],
+      "favicon": {
+        "url": "/favicon-16x16.png"
+      }
+    }
+  },
+  {
     "id": 30142558,
     "title": "State of the Web: Static Site Generators",
     "url": "https://byteofdev.com/posts/static-site-generators/",
@@ -4572,10 +4563,10 @@
     "description": "Static Site Generators have been changing quickly with new trends like Jamstack. Learn more about the background of static site generators, why people use them, and the current state of them, with information on modern SSGs like Eleventy, Next.js, SvelteKit, and Astro.",
     "by": "AsyncBanana",
     "points": 150,
-    "comment_count": 165,
+    "comment_count": 166,
     "hn_item": {
       "by": "atombender",
-      "descendants": 111,
+      "descendants": 112,
       "id": 30122128,
       "kids": [
         30131868,
@@ -4653,7 +4644,7 @@
     "comment_count": 5,
     "hn_item": {
       "by": "atombender",
-      "descendants": 111,
+      "descendants": 112,
       "id": 30122128,
       "kids": [
         30131868,
@@ -4731,7 +4722,7 @@
     "comment_count": 1,
     "hn_item": {
       "by": "atombender",
-      "descendants": 111,
+      "descendants": 112,
       "id": 30122128,
       "kids": [
         30131868,
@@ -4805,11 +4796,11 @@
     "publisher": "xkcd.com",
     "description": "",
     "by": "RojerGS",
-    "points": 36,
+    "points": 37,
     "comment_count": 1,
     "hn_item": {
       "by": "atombender",
-      "descendants": 111,
+      "descendants": 112,
       "id": 30122128,
       "kids": [
         30131868,
@@ -4865,84 +4856,6 @@
     }
   },
   {
-    "id": 30149807,
-    "title": "Rogan responds to Spotify protest, Covid advisories",
-    "url": "https://apnews.com/article/coronavirus-pandemic-entertainment-technology-health-business-435f6efc51f4d4c94587f1b4ffe5fbe3",
-    "time": 1643646421,
-    "image": "https://storage.googleapis.com/afs-prod/media/e6fa76ccd75a443e9ebcf7b66a06cdb6/3000.jpeg",
-    "icon": "https://apnews.com/branding/favicon/256.png",
-    "publisher": "AP NEWS",
-    "description": "NEW YORK (AP) — Following protests of Spotify kicked off by Neil Young over the spread of COVID-19 vaccine misinformation, the music streaming service said that it will add content advisories before podcasts discussing the virus.",
-    "by": "throwawaysea",
-    "points": 10,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "atombender",
-      "descendants": 111,
-      "id": 30122128,
-      "kids": [
-        30131868,
-        30138701,
-        30143687,
-        30138743,
-        30139288,
-        30139541,
-        30149265,
-        30149255,
-        30123731,
-        30139982,
-        30123071,
-        30144293,
-        30146762,
-        30138648,
-        30139650,
-        30139540,
-        30140862,
-        30139965,
-        30139938,
-        30140036,
-        30139927,
-        30139519,
-        30138762,
-        30142058,
-        30140426,
-        30122277,
-        30138775,
-        30122426
-      ],
-      "score": 249,
-      "time": 1643413723,
-      "title": "Sega quits arcade business after 50 years",
-      "type": "story",
-      "url": "https://www.eurogamer.net/articles/2022-01-28-sega-quits-japanese-arcade-business-after-50-years"
-    },
-    "og_item": {
-      "title": "Rogan responds to Spotify protest, COVID advisories",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://storage.googleapis.com/afs-prod/media/e6fa76ccd75a443e9ebcf7b66a06cdb6/3000.jpeg",
-          "secure_url": "",
-          "type": "",
-          "width": 4286,
-          "height": 3000,
-          "alt": ""
-        }
-      ],
-      "url": "https://apnews.com/article/spotify-joe-rogan-covid-advisories-435f6efc51f4d4c94587f1b4ffe5fbe3",
-      "audio": [],
-      "description": "NEW YORK (AP) — Following protests of Spotify kicked off by Neil Young over the spread of COVID-19 vaccine misinformation, the music streaming service said that it will add content advisories before podcasts discussing the virus. ",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "AP NEWS",
-      "video": [],
-      "favicon": {
-        "url": "/branding/favicon/256.png"
-      }
-    }
-  },
-  {
     "id": 30138533,
     "title": "Hypercard Simulator",
     "url": "https://hypercardsimulator.com/",
@@ -4956,7 +4869,7 @@
     "comment_count": 81,
     "hn_item": {
       "by": "atombender",
-      "descendants": 111,
+      "descendants": 112,
       "id": 30122128,
       "kids": [
         30131868,
@@ -5025,7 +4938,7 @@
     "comment_count": 19,
     "hn_item": {
       "by": "atombender",
-      "descendants": 111,
+      "descendants": 112,
       "id": 30122128,
       "kids": [
         30131868,
@@ -5090,6 +5003,84 @@
     }
   },
   {
+    "id": 30149807,
+    "title": "Rogan responds to Spotify protest, Covid advisories",
+    "url": "https://apnews.com/article/coronavirus-pandemic-entertainment-technology-health-business-435f6efc51f4d4c94587f1b4ffe5fbe3",
+    "time": 1643646421,
+    "image": "https://storage.googleapis.com/afs-prod/media/e6fa76ccd75a443e9ebcf7b66a06cdb6/3000.jpeg",
+    "icon": "https://apnews.com/branding/favicon/256.png",
+    "publisher": "AP NEWS",
+    "description": "NEW YORK (AP) — Following protests of Spotify kicked off by Neil Young over the spread of COVID-19 vaccine misinformation, the music streaming service said that it will add content advisories before podcasts discussing the virus.",
+    "by": "throwawaysea",
+    "points": 13,
+    "comment_count": 1,
+    "hn_item": {
+      "by": "atombender",
+      "descendants": 112,
+      "id": 30122128,
+      "kids": [
+        30131868,
+        30138701,
+        30143687,
+        30138743,
+        30139288,
+        30139541,
+        30149265,
+        30149255,
+        30123731,
+        30139982,
+        30123071,
+        30144293,
+        30146762,
+        30138648,
+        30139650,
+        30139540,
+        30140862,
+        30139965,
+        30139938,
+        30140036,
+        30139927,
+        30139519,
+        30138762,
+        30142058,
+        30140426,
+        30122277,
+        30138775,
+        30122426
+      ],
+      "score": 249,
+      "time": 1643413723,
+      "title": "Sega quits arcade business after 50 years",
+      "type": "story",
+      "url": "https://www.eurogamer.net/articles/2022-01-28-sega-quits-japanese-arcade-business-after-50-years"
+    },
+    "og_item": {
+      "title": "Rogan responds to Spotify protest, COVID advisories",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://storage.googleapis.com/afs-prod/media/e6fa76ccd75a443e9ebcf7b66a06cdb6/3000.jpeg",
+          "secure_url": "",
+          "type": "",
+          "width": 4286,
+          "height": 3000,
+          "alt": ""
+        }
+      ],
+      "url": "https://apnews.com/article/coronavirus-pandemic-entertainment-technology-health-business-435f6efc51f4d4c94587f1b4ffe5fbe3",
+      "audio": [],
+      "description": "NEW YORK (AP) — Following protests of Spotify kicked off by Neil Young over the spread of COVID-19 vaccine misinformation, the music streaming service said that it will add content advisories before podcasts discussing the virus. ",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "AP NEWS",
+      "video": [],
+      "favicon": {
+        "url": "/branding/favicon/256.png"
+      }
+    }
+  },
+  {
     "id": 30143587,
     "title": "Ylang: Universal language for eBPF, Stap+, GDB, and more",
     "url": "https://blog.openresty.com/en/ylang-intro-part4/",
@@ -5103,7 +5094,7 @@
     "comment_count": 16,
     "hn_item": {
       "by": "atombender",
-      "descendants": 111,
+      "descendants": 112,
       "id": 30122128,
       "kids": [
         30131868,
@@ -5169,10 +5160,10 @@
     "description": "",
     "by": "atombender",
     "points": 249,
-    "comment_count": 111,
+    "comment_count": 112,
     "hn_item": {
       "by": "atombender",
-      "descendants": 111,
+      "descendants": 112,
       "id": 30122128,
       "kids": [
         30131868,
