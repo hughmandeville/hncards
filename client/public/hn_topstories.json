@@ -9,23 +9,21 @@
     "publisher": "royalsociety.org",
     "description": "The Online Information Environment report discusses how to limit the harm of scientific misinformation online",
     "by": "steelstraw",
-    "points": 296,
+    "points": 306,
     "comment_count": 24,
     "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
+      "by": "greatjack613",
+      "descendants": 1,
+      "id": 30139637,
       "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
+        30140068,
+        30139647
       ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
+      "score": 17,
+      "time": 1643567025,
+      "title": "Show HN: I reverse engineered and documented United Airlines in flight API",
       "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
+      "url": "https://github.com/greatjack1/United-In-Flight-Api"
     },
     "og_item": {
       "title": "Royal Society cautions against censorship of scientific misinformation online | Royal Society",
@@ -66,20 +64,18 @@
     "points": 493,
     "comment_count": 36,
     "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
+      "by": "greatjack613",
+      "descendants": 1,
+      "id": 30139637,
       "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
+        30140068,
+        30139647
       ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
+      "score": 17,
+      "time": 1643567025,
+      "title": "Show HN: I reverse engineered and documented United Airlines in flight API",
       "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
+      "url": "https://github.com/greatjack1/United-In-Flight-Api"
     },
     "og_item": {
       "title": "Bike Tire | Fahrrad-Tools.de",
@@ -108,23 +104,21 @@
     "publisher": "American Affairs Journal",
     "description": "Operation Warp Speed1 (OWS) was launched on May 15, 2020. A partnership between the Departments of Health and Human Services (HHS) and Defense (DoD), other agencies, and the private sector, its goal was to “accelerate the testing, supply, development, and distribution of safe and effective vacc…",
     "by": "gok",
-    "points": 55,
+    "points": 56,
     "comment_count": 4,
     "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
+      "by": "greatjack613",
+      "descendants": 1,
+      "id": 30139637,
       "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
+        30140068,
+        30139647
       ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
+      "score": 17,
+      "time": 1643567025,
+      "title": "Show HN: I reverse engineered and documented United Airlines in flight API",
       "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
+      "url": "https://github.com/greatjack1/United-In-Flight-Api"
     },
     "og_item": {
       "title": "Inside Operation Warp Speed: A New Model for Industrial Policy - American Affairs Journal",
@@ -153,105 +147,6 @@
     }
   },
   {
-    "id": 30140835,
-    "title": "Hardy, Ramanujan and Taxi No. 1729",
-    "url": "https://johncarlosbaez.wordpress.com/2022/01/30/hardy-ramanujan-and-taxi-no-1729/",
-    "time": 1643574977,
-    "image": "https://johncarlosbaez.files.wordpress.com/2022/01/ramanujan_1729.jpg",
-    "icon": "https://s0.wp.com/i/favicon.ico",
-    "publisher": "Azimuth",
-    "description": "In his book Ramanujan: Twelve Lectures on Subjects Suggested by His Life and Work, G. H. Hardy tells this famous story: He could remember the idiosyncracies of numbers in an almost uncanny way. It …",
-    "by": "johncarlosbaez",
-    "points": 24,
-    "comment_count": 2,
-    "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
-      "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
-      ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
-      "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
-    },
-    "og_item": {
-      "title": "Hardy, Ramanujan and Taxi No. 1729",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://johncarlosbaez.files.wordpress.com/2022/01/ramanujan_1729.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 450,
-          "height": 609,
-          "alt": ""
-        }
-      ],
-      "url": "https://johncarlosbaez.wordpress.com/2022/01/30/hardy-ramanujan-and-taxi-no-1729/",
-      "audio": [],
-      "description": "In his book Ramanujan: Twelve Lectures on Subjects Suggested by His Life and Work, G. H. Hardy tells this famous story: He could remember the idiosyncracies of numbers in an almost uncanny way. It …",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Azimuth",
-      "video": [],
-      "favicon": {
-        "url": "https://s0.wp.com/i/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30140984,
-    "title": "A UX designer walks into a Tesla Bar",
-    "url": "https://jenson.org/tesla/",
-    "time": 1643576121,
-    "image": "",
-    "icon": "https://jenson.org/wp-content/uploads/2015/09/out-200x200.png",
-    "publisher": "jenson.org",
-    "description": "",
-    "by": "radley",
-    "points": 514,
-    "comment_count": 76,
-    "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
-      "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
-      ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
-      "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
-    },
-    "og_item": {
-      "title": "A UX designer walks into a Tesla Bar – Scott Jenson",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "https://jenson.org/wp-content/uploads/2015/09/out-200x200.png"
-      }
-    }
-  },
-  {
     "id": 30141278,
     "title": "The Story of Maxis Software (1999)",
     "url": "https://web.archive.org/web/19991012021220/http://gamespot.com/features/maxis/index.html",
@@ -261,23 +156,21 @@
     "publisher": "web.archive.org",
     "description": "",
     "by": "ecliptik",
-    "points": 45,
-    "comment_count": 4,
+    "points": 48,
+    "comment_count": 5,
     "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
+      "by": "greatjack613",
+      "descendants": 1,
+      "id": 30139637,
       "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
+        30140068,
+        30139647
       ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
+      "score": 17,
+      "time": 1643567025,
+      "title": "Show HN: I reverse engineered and documented United Airlines in flight API",
       "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
+      "url": "https://github.com/greatjack1/United-In-Flight-Api"
     },
     "og_item": {
       "title": "GameSpot's SIMply Divine: The Story of Maxis Software",
@@ -306,23 +199,21 @@
     "publisher": "hypercardsimulator.com",
     "description": "",
     "by": "alexmingoia",
-    "points": 181,
+    "points": 183,
     "comment_count": 13,
     "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
+      "by": "greatjack613",
+      "descendants": 1,
+      "id": 30139637,
       "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
+        30140068,
+        30139647
       ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
+      "score": 17,
+      "time": 1643567025,
+      "title": "Show HN: I reverse engineered and documented United Airlines in flight API",
       "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
+      "url": "https://github.com/greatjack1/United-In-Flight-Api"
     },
     "og_item": {
       "title": "HyperCardSimulator",
@@ -342,6 +233,49 @@
     }
   },
   {
+    "id": 30140984,
+    "title": "A UX designer walks into a Tesla Bar",
+    "url": "https://jenson.org/tesla/",
+    "time": 1643576121,
+    "image": "",
+    "icon": "https://jenson.org/wp-content/uploads/2015/09/out-200x200.png",
+    "publisher": "jenson.org",
+    "description": "",
+    "by": "radley",
+    "points": 521,
+    "comment_count": 77,
+    "hn_item": {
+      "by": "greatjack613",
+      "descendants": 1,
+      "id": 30139637,
+      "kids": [
+        30140068,
+        30139647
+      ],
+      "score": 17,
+      "time": 1643567025,
+      "title": "Show HN: I reverse engineered and documented United Airlines in flight API",
+      "type": "story",
+      "url": "https://github.com/greatjack1/United-In-Flight-Api"
+    },
+    "og_item": {
+      "title": "A UX designer walks into a Tesla Bar – Scott Jenson",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "https://jenson.org/wp-content/uploads/2015/09/out-200x200.png"
+      }
+    }
+  },
+  {
     "id": 30134367,
     "title": "The case of the mysterious --help directory (2020)",
     "url": "https://leahneukirchen.org/blog/archive/2020/05/the-case-of-the-mysterious-help-directory.html",
@@ -351,23 +285,21 @@
     "publisher": "leahneukirchen.org",
     "description": "",
     "by": "panic",
-    "points": 108,
-    "comment_count": 9,
+    "points": 109,
+    "comment_count": 10,
     "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
+      "by": "greatjack613",
+      "descendants": 1,
+      "id": 30139637,
       "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
+        30140068,
+        30139647
       ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
+      "score": 17,
+      "time": 1643567025,
+      "title": "Show HN: I reverse engineered and documented United Airlines in flight API",
       "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
+      "url": "https://github.com/greatjack1/United-In-Flight-Api"
     },
     "og_item": {
       "title": "leah blogs: The case of the mysterious --help directory",
@@ -387,6 +319,58 @@
     }
   },
   {
+    "id": 30140835,
+    "title": "Hardy, Ramanujan and Taxi No. 1729",
+    "url": "https://johncarlosbaez.wordpress.com/2022/01/30/hardy-ramanujan-and-taxi-no-1729/",
+    "time": 1643574977,
+    "image": "https://johncarlosbaez.files.wordpress.com/2022/01/ramanujan_1729.jpg",
+    "icon": "https://s0.wp.com/i/favicon.ico",
+    "publisher": "Azimuth",
+    "description": "In his book Ramanujan: Twelve Lectures on Subjects Suggested by His Life and Work, G. H. Hardy tells this famous story: He could remember the idiosyncracies of numbers in an almost uncanny way. It …",
+    "by": "johncarlosbaez",
+    "points": 24,
+    "comment_count": 2,
+    "hn_item": {
+      "by": "greatjack613",
+      "descendants": 1,
+      "id": 30139637,
+      "kids": [
+        30140068,
+        30139647
+      ],
+      "score": 17,
+      "time": 1643567025,
+      "title": "Show HN: I reverse engineered and documented United Airlines in flight API",
+      "type": "story",
+      "url": "https://github.com/greatjack1/United-In-Flight-Api"
+    },
+    "og_item": {
+      "title": "Hardy, Ramanujan and Taxi No. 1729",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://johncarlosbaez.files.wordpress.com/2022/01/ramanujan_1729.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 450,
+          "height": 609,
+          "alt": ""
+        }
+      ],
+      "url": "https://johncarlosbaez.wordpress.com/2022/01/30/hardy-ramanujan-and-taxi-no-1729/",
+      "audio": [],
+      "description": "In his book Ramanujan: Twelve Lectures on Subjects Suggested by His Life and Work, G. H. Hardy tells this famous story: He could remember the idiosyncracies of numbers in an almost uncanny way. It …",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Azimuth",
+      "video": [],
+      "favicon": {
+        "url": "https://s0.wp.com/i/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30141192,
     "title": "Don't forget Microsoft",
     "url": "https://luttig.substack.com/p/dont-forget-microsoft",
@@ -396,23 +380,21 @@
     "publisher": "luttig.substack.com",
     "description": "Understanding the behemoth in Redmond teaches us valuable lessons in cloud infrastructure, startup strategy, and the future of software.",
     "by": "SamvitJ",
-    "points": 134,
-    "comment_count": 33,
+    "points": 137,
+    "comment_count": 34,
     "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
+      "by": "greatjack613",
+      "descendants": 1,
+      "id": 30139637,
       "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
+        30140068,
+        30139647
       ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
+      "score": 17,
+      "time": 1643567025,
+      "title": "Show HN: I reverse engineered and documented United Airlines in flight API",
       "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
+      "url": "https://github.com/greatjack1/United-In-Flight-Api"
     },
     "og_item": {
       "title": "Don’t forget Microsoft",
@@ -441,159 +423,6 @@
     }
   },
   {
-    "id": 30142247,
-    "title": "Basic Cryptography – The Vigenere Cipher",
-    "url": "https://eric.mann.blog/basic-cryptography-the-vigenere-cipher/",
-    "time": 1643584323,
-    "image": "https://i0.wp.com/eric.mann.blog/wp-content/uploads/2022/01/fig-29-01-2022_17-52-02.jpg?fit=1500%2C900\u0026ssl=1",
-    "icon": "https://i0.wp.com/eric.mann.blog/wp-content/uploads/2021/12/cropped-00100sPORTRAIT_00100_BURST20190126115324341_COVER-scaled-1.jpg?fit=192%2C192\u0026ssl=1",
-    "publisher": "Eric Mann's Blog",
-    "description": "The Vigenere cipher is more complicated that the Caesar cipher but based on the same idea. It uses a running key to keep your message secure.",
-    "by": "eamann",
-    "points": 16,
-    "comment_count": 2,
-    "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
-      "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
-      ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
-      "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
-    },
-    "og_item": {
-      "title": "Basic cryptography - the Vigenere cipher - Eric Mann's Blog",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://i0.wp.com/eric.mann.blog/wp-content/uploads/2022/01/fig-29-01-2022_17-52-02.jpg?fit=1500%2C900\u0026ssl=1",
-          "secure_url": "",
-          "type": "",
-          "width": 1500,
-          "height": 900,
-          "alt": ""
-        }
-      ],
-      "url": "https://eric.mann.blog/basic-cryptography-the-vigenere-cipher/",
-      "audio": [],
-      "description": "The Vigenere cipher is more complicated that the Caesar cipher but based on the same idea. It uses a running key to keep your message secure.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Eric Mann's Blog",
-      "video": [],
-      "favicon": {
-        "url": "https://i0.wp.com/eric.mann.blog/wp-content/uploads/2021/12/cropped-00100sPORTRAIT_00100_BURST20190126115324341_COVER-scaled-1.jpg?fit=192%2C192\u0026ssl=1"
-      }
-    }
-  },
-  {
-    "id": 30138434,
-    "title": "Beancount: Double-entry accounting from text files",
-    "url": "https://github.com/beancount/beancount",
-    "time": 1643559445,
-    "image": "https://opengraph.githubassets.com/e4e8be9bbd95698944d7ad0cda3ec67c57eda929913747dff9958364d360fd72/beancount/beancount",
-    "icon": "https://github.githubassets.com/favicons/favicon.svg",
-    "publisher": "GitHub",
-    "description": "Beancount: Double-Entry Accounting from Text Files. - GitHub - beancount/beancount: Beancount: Double-Entry Accounting from Text Files.",
-    "by": "techtalsky",
-    "points": 163,
-    "comment_count": 18,
-    "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
-      "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
-      ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
-      "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
-    },
-    "og_item": {
-      "title": "GitHub - beancount/beancount: Beancount: Double-Entry Accounting from Text Files.",
-      "type": "object",
-      "image": [
-        {
-          "url": "https://opengraph.githubassets.com/e4e8be9bbd95698944d7ad0cda3ec67c57eda929913747dff9958364d360fd72/beancount/beancount",
-          "secure_url": "",
-          "type": "",
-          "width": 1200,
-          "height": 600,
-          "alt": ""
-        }
-      ],
-      "url": "https://github.com/beancount/beancount",
-      "audio": [],
-      "description": "Beancount: Double-Entry Accounting from Text Files. - GitHub - beancount/beancount: Beancount: Double-Entry Accounting from Text Files.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "GitHub",
-      "video": [],
-      "favicon": {
-        "url": "https://github.githubassets.com/favicons/favicon.svg"
-      }
-    }
-  },
-  {
-    "id": 30141171,
-    "title": "Deep symbolic regression for recurrent sequences",
-    "url": "http://recur-env.eba-rm3fchmn.us-east-2.elasticbeanstalk.com/",
-    "time": 1643577344,
-    "image": "",
-    "icon": "",
-    "publisher": "recur-env.eba-rm3fchmn.us-eas…",
-    "description": "",
-    "by": "ShamelessC",
-    "points": 40,
-    "comment_count": 11,
-    "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
-      "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
-      ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
-      "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
-    },
-    "og_item": {
-      "title": "Streamlit",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "./favicon.png"
-      }
-    }
-  },
-  {
     "id": 30119925,
     "title": "Message in a bottle from Scottish girl found in Norway after 25 years",
     "url": "https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-60121185",
@@ -603,23 +432,21 @@
     "publisher": "BBC News",
     "description": "The bottle Joanna Buchan dropped in the sea at Peterhead when she was eight has washed up in Norway.",
     "by": "LinuxBender",
-    "points": 73,
+    "points": 76,
     "comment_count": 8,
     "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
+      "by": "greatjack613",
+      "descendants": 1,
+      "id": 30139637,
       "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
+        30140068,
+        30139647
       ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
+      "score": 17,
+      "time": 1643567025,
+      "title": "Show HN: I reverse engineered and documented United Airlines in flight API",
       "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
+      "url": "https://github.com/greatjack1/United-In-Flight-Api"
     },
     "og_item": {
       "title": "Message in a bottle from Scottish girl found in Norway after 25 years",
@@ -648,6 +475,153 @@
     }
   },
   {
+    "id": 30138434,
+    "title": "Beancount: Double-entry accounting from text files",
+    "url": "https://github.com/beancount/beancount",
+    "time": 1643559445,
+    "image": "https://opengraph.githubassets.com/e4e8be9bbd95698944d7ad0cda3ec67c57eda929913747dff9958364d360fd72/beancount/beancount",
+    "icon": "https://github.githubassets.com/favicons/favicon.svg",
+    "publisher": "GitHub",
+    "description": "Beancount: Double-Entry Accounting from Text Files. - GitHub - beancount/beancount: Beancount: Double-Entry Accounting from Text Files.",
+    "by": "techtalsky",
+    "points": 163,
+    "comment_count": 18,
+    "hn_item": {
+      "by": "greatjack613",
+      "descendants": 1,
+      "id": 30139637,
+      "kids": [
+        30140068,
+        30139647
+      ],
+      "score": 17,
+      "time": 1643567025,
+      "title": "Show HN: I reverse engineered and documented United Airlines in flight API",
+      "type": "story",
+      "url": "https://github.com/greatjack1/United-In-Flight-Api"
+    },
+    "og_item": {
+      "title": "GitHub - beancount/beancount: Beancount: Double-Entry Accounting from Text Files.",
+      "type": "object",
+      "image": [
+        {
+          "url": "https://opengraph.githubassets.com/e4e8be9bbd95698944d7ad0cda3ec67c57eda929913747dff9958364d360fd72/beancount/beancount",
+          "secure_url": "",
+          "type": "",
+          "width": 1200,
+          "height": 600,
+          "alt": ""
+        }
+      ],
+      "url": "https://github.com/beancount/beancount",
+      "audio": [],
+      "description": "Beancount: Double-Entry Accounting from Text Files. - GitHub - beancount/beancount: Beancount: Double-Entry Accounting from Text Files.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "GitHub",
+      "video": [],
+      "favicon": {
+        "url": "https://github.githubassets.com/favicons/favicon.svg"
+      }
+    }
+  },
+  {
+    "id": 30142247,
+    "title": "Basic Cryptography – The Vigenere Cipher",
+    "url": "https://eric.mann.blog/basic-cryptography-the-vigenere-cipher/",
+    "time": 1643584323,
+    "image": "https://i0.wp.com/eric.mann.blog/wp-content/uploads/2022/01/fig-29-01-2022_17-52-02.jpg?fit=1500%2C900\u0026ssl=1",
+    "icon": "https://i0.wp.com/eric.mann.blog/wp-content/uploads/2021/12/cropped-00100sPORTRAIT_00100_BURST20190126115324341_COVER-scaled-1.jpg?fit=192%2C192\u0026ssl=1",
+    "publisher": "Eric Mann's Blog",
+    "description": "The Vigenere cipher is more complicated that the Caesar cipher but based on the same idea. It uses a running key to keep your message secure.",
+    "by": "eamann",
+    "points": 17,
+    "comment_count": 2,
+    "hn_item": {
+      "by": "greatjack613",
+      "descendants": 1,
+      "id": 30139637,
+      "kids": [
+        30140068,
+        30139647
+      ],
+      "score": 17,
+      "time": 1643567025,
+      "title": "Show HN: I reverse engineered and documented United Airlines in flight API",
+      "type": "story",
+      "url": "https://github.com/greatjack1/United-In-Flight-Api"
+    },
+    "og_item": {
+      "title": "Basic cryptography - the Vigenere cipher - Eric Mann's Blog",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://i0.wp.com/eric.mann.blog/wp-content/uploads/2022/01/fig-29-01-2022_17-52-02.jpg?fit=1500%2C900\u0026ssl=1",
+          "secure_url": "",
+          "type": "",
+          "width": 1500,
+          "height": 900,
+          "alt": ""
+        }
+      ],
+      "url": "https://eric.mann.blog/basic-cryptography-the-vigenere-cipher/",
+      "audio": [],
+      "description": "The Vigenere cipher is more complicated that the Caesar cipher but based on the same idea. It uses a running key to keep your message secure.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Eric Mann's Blog",
+      "video": [],
+      "favicon": {
+        "url": "https://i0.wp.com/eric.mann.blog/wp-content/uploads/2021/12/cropped-00100sPORTRAIT_00100_BURST20190126115324341_COVER-scaled-1.jpg?fit=192%2C192\u0026ssl=1"
+      }
+    }
+  },
+  {
+    "id": 30141171,
+    "title": "Deep symbolic regression for recurrent sequences",
+    "url": "http://recur-env.eba-rm3fchmn.us-east-2.elasticbeanstalk.com/",
+    "time": 1643577344,
+    "image": "",
+    "icon": "",
+    "publisher": "recur-env.eba-rm3fchmn.us-eas…",
+    "description": "",
+    "by": "ShamelessC",
+    "points": 40,
+    "comment_count": 11,
+    "hn_item": {
+      "by": "greatjack613",
+      "descendants": 1,
+      "id": 30139637,
+      "kids": [
+        30140068,
+        30139647
+      ],
+      "score": 17,
+      "time": 1643567025,
+      "title": "Show HN: I reverse engineered and documented United Airlines in flight API",
+      "type": "story",
+      "url": "https://github.com/greatjack1/United-In-Flight-Api"
+    },
+    "og_item": {
+      "title": "Streamlit",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "./favicon.png"
+      }
+    }
+  },
+  {
     "id": 30140464,
     "title": "The Great Unconformity: Research points to glaciers being the culprit",
     "url": "https://www.vice.com/en/article/wxdzzb/a-billion-years-of-time-are-mysteriously-missing-scientists-think-they-know-why",
@@ -660,20 +634,18 @@
     "points": 51,
     "comment_count": 3,
     "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
+      "by": "greatjack613",
+      "descendants": 1,
+      "id": 30139637,
       "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
+        30140068,
+        30139647
       ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
+      "score": 17,
+      "time": 1643567025,
+      "title": "Show HN: I reverse engineered and documented United Airlines in flight API",
       "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
+      "url": "https://github.com/greatjack1/United-In-Flight-Api"
     },
     "og_item": {
       "title": "A Billion Years of Time Are Mysteriously Missing. Scientists Think They Know Why.",
@@ -714,20 +686,18 @@
     "points": 1,
     "comment_count": 0,
     "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
+      "by": "greatjack613",
+      "descendants": 1,
+      "id": 30139637,
       "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
+        30140068,
+        30139647
       ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
+      "score": 17,
+      "time": 1643567025,
+      "title": "Show HN: I reverse engineered and documented United Airlines in flight API",
       "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
+      "url": "https://github.com/greatjack1/United-In-Flight-Api"
     },
     "og_item": {
       "title": "BuildZoom jobs",
@@ -765,23 +735,21 @@
     "publisher": "bastian.rieck.me",
     "description": "",
     "by": "Topolomancer",
-    "points": 163,
+    "points": 164,
     "comment_count": 20,
     "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
+      "by": "greatjack613",
+      "descendants": 1,
+      "id": 30139637,
       "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
+        30140068,
+        30139647
       ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
+      "score": 17,
+      "time": 1643567025,
+      "title": "Show HN: I reverse engineered and documented United Airlines in flight API",
       "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
+      "url": "https://github.com/greatjack1/United-In-Flight-Api"
     },
     "og_item": {
       "title": "In Defence of the Boring Web",
@@ -810,23 +778,21 @@
     "publisher": "Eurogamer.net",
     "description": "",
     "by": "atombender",
-    "points": 197,
+    "points": 198,
     "comment_count": 23,
     "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
+      "by": "greatjack613",
+      "descendants": 1,
+      "id": 30139637,
       "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
+        30140068,
+        30139647
       ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
+      "score": 17,
+      "time": 1643567025,
+      "title": "Show HN: I reverse engineered and documented United Airlines in flight API",
       "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
+      "url": "https://github.com/greatjack1/United-In-Flight-Api"
     },
     "og_item": {
       "title": "Sega quits Japanese arcade business after 50 years",
@@ -855,65 +821,45 @@
     }
   },
   {
-    "id": 30116262,
-    "title": "A Padlock I’d Use [video]",
-    "url": "https://www.youtube.com/watch?v=HrV86GqlY8o",
-    "time": 1643385483,
-    "image": "https://i.ytimg.com/vi/HrV86GqlY8o/hqdefault.jpg",
-    "icon": "https://www.youtube.com/s/desktop/ca9cd554/img/favicon_144x144.png",
-    "publisher": "YouTube",
-    "description": "https://www.CovertInstruments.com",
-    "by": "CraigJPerry",
-    "points": 138,
-    "comment_count": 7,
+    "id": 30142105,
+    "title": "Seattle Telecommunications History Museum",
+    "url": "https://www.telcomhistory.org/connections-museum-seattle/",
+    "time": 1643583232,
+    "image": "",
+    "icon": "https://www.telcomhistory.org/favicon.ico",
+    "publisher": "telcomhistory.org",
+    "description": "",
+    "by": "basementcat",
+    "points": 16,
+    "comment_count": 2,
     "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
+      "by": "greatjack613",
+      "descendants": 1,
+      "id": 30139637,
       "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
+        30140068,
+        30139647
       ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
+      "score": 17,
+      "time": 1643567025,
+      "title": "Show HN: I reverse engineered and documented United Airlines in flight API",
       "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
+      "url": "https://github.com/greatjack1/United-In-Flight-Api"
     },
     "og_item": {
-      "title": "[1398] A Padlock I’d Use: Abus Granit 37RK/80 (Pick \u0026 Gut)",
-      "type": "video.other",
-      "image": [
-        {
-          "url": "https://i.ytimg.com/vi/HrV86GqlY8o/hqdefault.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 480,
-          "height": 360,
-          "alt": ""
-        }
-      ],
-      "url": "https://www.youtube.com/watch?v=HrV86GqlY8o",
+      "title": "403 Forbidden",
+      "type": "",
+      "image": [],
+      "url": "",
       "audio": [],
-      "description": "https://www.CovertInstruments.com",
+      "description": "",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "YouTube",
-      "video": [
-        {
-          "url": "https://www.youtube.com/embed/HrV86GqlY8o",
-          "secure_url": "https://www.youtube.com/embed/HrV86GqlY8o",
-          "type": "text/html",
-          "width": 1280,
-          "height": 720,
-          "duration": 0
-        }
-      ],
+      "site_name": "",
+      "video": [],
       "favicon": {
-        "url": "https://www.youtube.com/s/desktop/ca9cd554/img/favicon_144x144.png"
+        "url": "/favicon.ico"
       }
     }
   },
@@ -930,20 +876,18 @@
     "points": 64,
     "comment_count": 12,
     "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
+      "by": "greatjack613",
+      "descendants": 1,
+      "id": 30139637,
       "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
+        30140068,
+        30139647
       ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
+      "score": 17,
+      "time": 1643567025,
+      "title": "Show HN: I reverse engineered and documented United Airlines in flight API",
       "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
+      "url": "https://github.com/greatjack1/United-In-Flight-Api"
     },
     "og_item": {
       "title": "When the Algorithm Is Your Boss",
@@ -972,138 +916,37 @@
     }
   },
   {
-    "id": 30110679,
-    "title": "Bringing Ancient Pottery to Life",
-    "url": "https://news.harvard.edu/gazette/story/2021/09/harvard-ceramics-program-recreates-art-museums-pieces/",
-    "time": 1643343649,
-    "image": "https://news.harvard.edu/wp-content/uploads/2021/09/071621_Ceramics_228-1200x630.jpg",
-    "icon": "https://news.harvard.edu/wp-content/themes/gazette-3-0/favicons/favicon-192x192.png",
-    "publisher": "Harvard Gazette",
-    "description": "Zoom pottery class enlists Harvard Art Museums experts to help re-create treasures from the collection.",
-    "by": "prismatic",
-    "points": 8,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
-      "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
-      ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
-      "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
-    },
-    "og_item": {
-      "title": "Harvard ceramics program recreates Art Museums’ pieces",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://news.harvard.edu/wp-content/uploads/2021/09/071621_Ceramics_228-1200x630.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 1200,
-          "height": 630,
-          "alt": ""
-        }
-      ],
-      "url": "https://news.harvard.edu/gazette/story/2021/09/harvard-ceramics-program-recreates-art-museums-pieces/",
-      "audio": [],
-      "description": "Zoom pottery class enlists Harvard Art Museums experts to help re-create treasures from the collection.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Harvard Gazette",
-      "video": [],
-      "favicon": {
-        "url": "https://news.harvard.edu/wp-content/themes/gazette-3-0/favicons/favicon-192x192.png"
-      }
-    }
-  },
-  {
-    "id": 30142105,
-    "title": "Seattle Telecommunications History Museum",
-    "url": "https://www.telcomhistory.org/connections-museum-seattle/",
-    "time": 1643583232,
-    "image": "",
-    "icon": "https://www.telcomhistory.org/favicon.ico",
-    "publisher": "telcomhistory.org",
-    "description": "",
-    "by": "basementcat",
-    "points": 15,
-    "comment_count": 2,
-    "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
-      "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
-      ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
-      "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
-    },
-    "og_item": {
-      "title": "403 Forbidden",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30135190,
     "title": "FunctionStomping – A new shellcode injection technique",
     "url": "https://github.com/Idov31/FunctionStomping",
     "time": 1643533222,
-    "image": "https://opengraph.githubassets.com/b74f1bcc5402441674bf79a647be1b178c061826ba768b598e2e6fc891c96826/Idov31/FunctionStomping",
+    "image": "https://opengraph.githubassets.com/f1831f63cac406b13e96d3c14404a440b29a7d08a016eaaf6923014b2ebfae2b/Idov31/FunctionStomping",
     "icon": "https://github.githubassets.com/favicons/favicon.svg",
     "publisher": "GitHub",
     "description": "A new shellcode injection technique. Given as C++ header or standalone Rust program. - GitHub - Idov31/FunctionStomping: A new shellcode injection technique. Given as C++ header or standalone Rust ...",
     "by": "maydemir",
-    "points": 25,
+    "points": 26,
     "comment_count": 1,
     "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
+      "by": "greatjack613",
+      "descendants": 1,
+      "id": 30139637,
       "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
+        30140068,
+        30139647
       ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
+      "score": 17,
+      "time": 1643567025,
+      "title": "Show HN: I reverse engineered and documented United Airlines in flight API",
       "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
+      "url": "https://github.com/greatjack1/United-In-Flight-Api"
     },
     "og_item": {
       "title": "GitHub - Idov31/FunctionStomping: A new shellcode injection technique. Given as C++ header or standalone Rust program.",
       "type": "object",
       "image": [
         {
-          "url": "https://opengraph.githubassets.com/b74f1bcc5402441674bf79a647be1b178c061826ba768b598e2e6fc891c96826/Idov31/FunctionStomping",
+          "url": "https://opengraph.githubassets.com/f1831f63cac406b13e96d3c14404a440b29a7d08a016eaaf6923014b2ebfae2b/Idov31/FunctionStomping",
           "secure_url": "",
           "type": "",
           "width": 1200,
@@ -1134,23 +977,21 @@
     "publisher": "ruoyusun.com",
     "description": "",
     "by": "insraq",
-    "points": 20,
+    "points": 22,
     "comment_count": 3,
     "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
+      "by": "greatjack613",
+      "descendants": 1,
+      "id": 30139637,
       "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
+        30140068,
+        30139647
       ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
+      "score": 17,
+      "time": 1643567025,
+      "title": "Show HN: I reverse engineered and documented United Airlines in flight API",
       "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
+      "url": "https://github.com/greatjack1/United-In-Flight-Api"
     },
     "og_item": {
       "title": "Game Performance Optimization - A Practical Example From Industry Idle",
@@ -1170,6 +1011,101 @@
     }
   },
   {
+    "id": 30110679,
+    "title": "Bringing Ancient Pottery to Life",
+    "url": "https://news.harvard.edu/gazette/story/2021/09/harvard-ceramics-program-recreates-art-museums-pieces/",
+    "time": 1643343649,
+    "image": "https://news.harvard.edu/wp-content/uploads/2021/09/071621_Ceramics_228-1200x630.jpg",
+    "icon": "https://news.harvard.edu/wp-content/themes/gazette-3-0/favicons/favicon-192x192.png",
+    "publisher": "Harvard Gazette",
+    "description": "Zoom pottery class enlists Harvard Art Museums experts to help re-create treasures from the collection.",
+    "by": "prismatic",
+    "points": 8,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "greatjack613",
+      "descendants": 1,
+      "id": 30139637,
+      "kids": [
+        30140068,
+        30139647
+      ],
+      "score": 17,
+      "time": 1643567025,
+      "title": "Show HN: I reverse engineered and documented United Airlines in flight API",
+      "type": "story",
+      "url": "https://github.com/greatjack1/United-In-Flight-Api"
+    },
+    "og_item": {
+      "title": "Harvard ceramics program recreates Art Museums’ pieces",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://news.harvard.edu/wp-content/uploads/2021/09/071621_Ceramics_228-1200x630.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 1200,
+          "height": 630,
+          "alt": ""
+        }
+      ],
+      "url": "https://news.harvard.edu/gazette/story/2021/09/harvard-ceramics-program-recreates-art-museums-pieces/",
+      "audio": [],
+      "description": "Zoom pottery class enlists Harvard Art Museums experts to help re-create treasures from the collection.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Harvard Gazette",
+      "video": [],
+      "favicon": {
+        "url": "https://news.harvard.edu/wp-content/themes/gazette-3-0/favicons/favicon-192x192.png"
+      }
+    }
+  },
+  {
+    "id": 30137864,
+    "title": "Midnight Commander Tips and Tricks",
+    "url": "http://www.softpanorama.org/OFM/MC/mc_tips.shtml",
+    "time": 1643555741,
+    "image": "",
+    "icon": "",
+    "publisher": "softpanorama.org",
+    "description": "",
+    "by": "ingve",
+    "points": 133,
+    "comment_count": 18,
+    "hn_item": {
+      "by": "greatjack613",
+      "descendants": 1,
+      "id": 30139637,
+      "kids": [
+        30140068,
+        30139647
+      ],
+      "score": 17,
+      "time": 1643567025,
+      "title": "Show HN: I reverse engineered and documented United Airlines in flight API",
+      "type": "story",
+      "url": "https://github.com/greatjack1/United-In-Flight-Api"
+    },
+    "og_item": {
+      "title": "Midnight Commander Tips and Tricks",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30142918,
     "title": "Unconscious R\u0026D (2021)",
     "url": "https://subconscious.substack.com/p/unconscious-r-and-d",
@@ -1182,20 +1118,18 @@
     "points": 6,
     "comment_count": 1,
     "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
+      "by": "greatjack613",
+      "descendants": 1,
+      "id": 30139637,
       "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
+        30140068,
+        30139647
       ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
+      "score": 17,
+      "time": 1643567025,
+      "title": "Show HN: I reverse engineered and documented United Airlines in flight API",
       "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
+      "url": "https://github.com/greatjack1/United-In-Flight-Api"
     },
     "og_item": {
       "title": "Unconscious R\u0026D",
@@ -1224,84 +1158,37 @@
     }
   },
   {
-    "id": 30137864,
-    "title": "Midnight Commander Tips and Tricks",
-    "url": "http://www.softpanorama.org/OFM/MC/mc_tips.shtml",
-    "time": 1643555741,
-    "image": "",
-    "icon": "",
-    "publisher": "softpanorama.org",
-    "description": "",
-    "by": "ingve",
-    "points": 133,
-    "comment_count": 18,
+    "id": 30142558,
+    "title": "State of the Web: Static Site Generators",
+    "url": "https://byteofdev.com/posts/static-site-generators/",
+    "time": 1643586463,
+    "image": "https://ik.imagekit.io/serenity/ByteofDev/Blog_Heading_Images/State_of_the_Web_Static_Site_Generators",
+    "icon": "https://byteofdev.com/favicon.svg",
+    "publisher": "ByteofDev",
+    "description": "Static Site Generators have been changing quickly with new trends like Jamstack. Learn more about the background of static site generators, why people use them, and the current state of them, with information on modern SSGs like Eleventy, Next.js, SvelteKit, and Astro.",
+    "by": "AsyncBanana",
+    "points": 10,
+    "comment_count": 0,
     "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
+      "by": "greatjack613",
+      "descendants": 1,
+      "id": 30139637,
       "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
+        30140068,
+        30139647
       ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
+      "score": 17,
+      "time": 1643567025,
+      "title": "Show HN: I reverse engineered and documented United Airlines in flight API",
       "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
+      "url": "https://github.com/greatjack1/United-In-Flight-Api"
     },
     "og_item": {
-      "title": "Midnight Commander Tips and Tricks",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30142227,
-    "title": "America's Favorite Pickup Truck Goes Electric",
-    "url": "https://www.newyorker.com/magazine/2022/01/31/americas-favorite-pickup-truck-goes-electric",
-    "time": 1643584218,
-    "image": "https://media.newyorker.com/photos/61eb71a540b49e277739cf73/16:9/w_1280,c_limit/220131_r39776.jpg",
-    "icon": "https://www.newyorker.com/verso/static/the-new-yorker/assets/favicon.ico",
-    "publisher": "The New Yorker",
-    "description": "Ford’s F-series trucks make up the best-selling vehicle line in the U.S. Can its new F-150 Lightning compete with Tesla in the E.V. market?",
-    "by": "nojito",
-    "points": 58,
-    "comment_count": 8,
-    "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
-      "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
-      ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
-      "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
-    },
-    "og_item": {
-      "title": "America’s Favorite Pickup Truck Goes Electric",
+      "title": "State of the Web: Static Site Generators",
       "type": "article",
       "image": [
         {
-          "url": "https://media.newyorker.com/photos/61eb71a540b49e277739cf73/16:9/w_1280,c_limit/220131_r39776.jpg",
+          "url": "https://ik.imagekit.io/serenity/ByteofDev/Blog_Heading_Images/State_of_the_Web_Static_Site_Generators",
           "secure_url": "",
           "type": "",
           "width": 0,
@@ -1309,16 +1196,16 @@
           "alt": ""
         }
       ],
-      "url": "https://www.newyorker.com/magazine/2022/01/31/americas-favorite-pickup-truck-goes-electric",
+      "url": "https://byteofdev.com/posts/static-site-generators/",
       "audio": [],
-      "description": "Ford’s F-series trucks make up the best-selling vehicle line in the U.S. Can its new F-150 Lightning compete with Tesla in the E.V. market?",
+      "description": "Static Site Generators have been changing quickly with new trends like Jamstack. Learn more about the background of static site generators, why people use them, and the current state of them, with information on modern SSGs like Eleventy, Next.js, SvelteKit, and Astro.",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "The New Yorker",
+      "site_name": "ByteofDev",
       "video": [],
       "favicon": {
-        "url": "https://www.newyorker.com/verso/static/the-new-yorker/assets/favicon.ico"
+        "url": "/favicon.svg"
       }
     }
   },
@@ -1332,23 +1219,21 @@
     "publisher": "win.tue.nl",
     "description": "",
     "by": "camnora",
-    "points": 89,
+    "points": 90,
     "comment_count": 7,
     "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
+      "by": "greatjack613",
+      "descendants": 1,
+      "id": 30139637,
       "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
+        30140068,
+        30139647
       ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
+      "score": 17,
+      "time": 1643567025,
+      "title": "Show HN: I reverse engineered and documented United Airlines in flight API",
       "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
+      "url": "https://github.com/greatjack1/United-In-Flight-Api"
     },
     "og_item": null
   },
@@ -1365,20 +1250,18 @@
     "points": 59,
     "comment_count": 8,
     "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
+      "by": "greatjack613",
+      "descendants": 1,
+      "id": 30139637,
       "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
+        30140068,
+        30139647
       ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
+      "score": 17,
+      "time": 1643567025,
+      "title": "Show HN: I reverse engineered and documented United Airlines in flight API",
       "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
+      "url": "https://github.com/greatjack1/United-In-Flight-Api"
     },
     "og_item": {
       "title": "COM+ revisited",
@@ -1417,22 +1300,20 @@
     "description": "As a hedge against American talent poachers, some exasperated founders are recruiting developers who can’t speak English.",
     "by": "braco_alva",
     "points": 160,
-    "comment_count": 35,
+    "comment_count": 36,
     "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
+      "by": "greatjack613",
+      "descendants": 1,
+      "id": 30139637,
       "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
+        30140068,
+        30139647
       ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
+      "score": 17,
+      "time": 1643567025,
+      "title": "Show HN: I reverse engineered and documented United Airlines in flight API",
       "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
+      "url": "https://github.com/greatjack1/United-In-Flight-Api"
     },
     "og_item": {
       "title": "“It’s a bloodbath”: U.S. companies are pillaging Latin America’s tech talent",
@@ -1470,23 +1351,21 @@
     "publisher": "Warp - Blog",
     "description": "This is how we used tree data structures to build split panes in our terminal app.",
     "by": "lukastyrychtr",
-    "points": 45,
+    "points": 46,
     "comment_count": 7,
     "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
+      "by": "greatjack613",
+      "descendants": 1,
+      "id": 30139637,
       "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
+        30140068,
+        30139647
       ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
+      "score": 17,
+      "time": 1643567025,
+      "title": "Show HN: I reverse engineered and documented United Airlines in flight API",
       "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
+      "url": "https://github.com/greatjack1/United-In-Flight-Api"
     },
     "og_item": {
       "title": "Using tree data structures to implement terminal split panes - more fun than it sounds",
@@ -1515,6 +1394,49 @@
     }
   },
   {
+    "id": 30142106,
+    "title": "Yoga and meditation do not quiet the ego but instead boost self-enhancement (2018)",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/0956797618764621",
+    "time": 1643583242,
+    "image": "",
+    "icon": "https://journals.sagepub.com/favicon.ico",
+    "publisher": "journals.sagepub.com",
+    "description": "",
+    "by": "FrojoS",
+    "points": 13,
+    "comment_count": 3,
+    "hn_item": {
+      "by": "greatjack613",
+      "descendants": 1,
+      "id": 30139637,
+      "kids": [
+        30140068,
+        30139647
+      ],
+      "score": 17,
+      "time": 1643567025,
+      "title": "Show HN: I reverse engineered and documented United Airlines in flight API",
+      "type": "story",
+      "url": "https://github.com/greatjack1/United-In-Flight-Api"
+    },
+    "og_item": {
+      "title": "Just a moment...",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30125933,
     "title": "Dataset and Model for “I built a system to take photos of planes over my house”",
     "url": "https://universe.roboflow.com/skybot-cam/overhead-plane-detector",
@@ -1524,23 +1446,21 @@
     "publisher": "Roboflow",
     "description": "Download 250 free images labeled with bounding boxes for object detection.",
     "by": "yeldarb",
-    "points": 113,
+    "points": 114,
     "comment_count": 7,
     "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
+      "by": "greatjack613",
+      "descendants": 1,
+      "id": 30139637,
       "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
+        30140068,
+        30139647
       ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
+      "score": 17,
+      "time": 1643567025,
+      "title": "Show HN: I reverse engineered and documented United Airlines in flight API",
       "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
+      "url": "https://github.com/greatjack1/United-In-Flight-Api"
     },
     "og_item": {
       "title": "Overhead Plane Detector Object Detection Dataset",
@@ -1581,20 +1501,18 @@
     "points": 28,
     "comment_count": 0,
     "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
+      "by": "greatjack613",
+      "descendants": 1,
+      "id": 30139637,
       "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
+        30140068,
+        30139647
       ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
+      "score": 17,
+      "time": 1643567025,
+      "title": "Show HN: I reverse engineered and documented United Airlines in flight API",
       "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
+      "url": "https://github.com/greatjack1/United-In-Flight-Api"
     },
     "og_item": {
       "title": "Mix and match mental models.",
@@ -1623,51 +1541,6 @@
     }
   },
   {
-    "id": 30142106,
-    "title": "Yoga and meditation do not quiet the ego but instead boost self-enhancement (2018)",
-    "url": "https://journals.sagepub.com/doi/abs/10.1177/0956797618764621",
-    "time": 1643583242,
-    "image": "",
-    "icon": "https://journals.sagepub.com/favicon.ico",
-    "publisher": "journals.sagepub.com",
-    "description": "",
-    "by": "FrojoS",
-    "points": 12,
-    "comment_count": 3,
-    "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
-      "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
-      ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
-      "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
-    },
-    "og_item": {
-      "title": "Just a moment...",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30138420,
     "title": "Autonomous battery-powered rail cars",
     "url": "https://arstechnica.com/cars/2022/01/moving-more-with-less-freight-startup-bets-on-autonomous-electric-rail-cars/",
@@ -1680,20 +1553,18 @@
     "points": 76,
     "comment_count": 17,
     "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
+      "by": "greatjack613",
+      "descendants": 1,
+      "id": 30139637,
       "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
+        30140068,
+        30139647
       ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
+      "score": 17,
+      "time": 1643567025,
+      "title": "Show HN: I reverse engineered and documented United Airlines in flight API",
       "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
+      "url": "https://github.com/greatjack1/United-In-Flight-Api"
     },
     "og_item": {
       "title": "Autonomous battery-powered rail cars could steal shipments from truckers",
@@ -1722,51 +1593,6 @@
     }
   },
   {
-    "id": 30142896,
-    "title": "Decrypt an encrypted message to any plaintext",
-    "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts",
-    "time": 1643589180,
-    "image": "",
-    "icon": "https://www.go350.com/favicon-16x16.png",
-    "publisher": "go350.com",
-    "description": "a one-time pad implementation",
-    "by": "_wldu",
-    "points": 4,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
-      "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
-      ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
-      "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
-    },
-    "og_item": {
-      "title": "Padder",
-      "type": "article",
-      "image": [],
-      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/",
-      "audio": [],
-      "description": "a one-time pad implementation",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon-16x16.png"
-      }
-    }
-  },
-  {
     "id": 30117131,
     "title": "How to excel in tech without learning to code",
     "url": "https://future.a16z.com/excel-in-tech-without-learning-to-code/",
@@ -1776,23 +1602,21 @@
     "publisher": "Future",
     "description": "Technical literacy is key to career success, even for non-engineers. Learn how to master the tools of your trade and build a solid tech foundation.",
     "by": "jseliger",
-    "points": 113,
+    "points": 114,
     "comment_count": 14,
     "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
+      "by": "greatjack613",
+      "descendants": 1,
+      "id": 30139637,
       "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
+        30140068,
+        30139647
       ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
+      "score": 17,
+      "time": 1643567025,
+      "title": "Show HN: I reverse engineered and documented United Airlines in flight API",
       "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
+      "url": "https://github.com/greatjack1/United-In-Flight-Api"
     },
     "og_item": {
       "title": "How to Excel in Tech Without Learning to Code | Future",
@@ -1821,56 +1645,45 @@
     }
   },
   {
-    "id": 30142558,
-    "title": "State of the Web: Static Site Generators",
-    "url": "https://byteofdev.com/posts/static-site-generators/",
-    "time": 1643586463,
-    "image": "https://ik.imagekit.io/serenity/ByteofDev/Blog_Heading_Images/State_of_the_Web_Static_Site_Generators",
-    "icon": "https://byteofdev.com/favicon.svg",
-    "publisher": "ByteofDev",
-    "description": "Static Site Generators have been changing quickly with new trends like Jamstack. Learn more about the background of static site generators, why people use them, and the current state of them, with information on modern SSGs like Eleventy, Next.js, SvelteKit, and Astro.",
-    "by": "AsyncBanana",
-    "points": 8,
+    "id": 30142896,
+    "title": "Decrypt an encrypted message to any plaintext",
+    "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts",
+    "time": 1643589180,
+    "image": "",
+    "icon": "https://www.go350.com/favicon-16x16.png",
+    "publisher": "go350.com",
+    "description": "a one-time pad implementation",
+    "by": "_wldu",
+    "points": 4,
     "comment_count": 0,
     "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
+      "by": "greatjack613",
+      "descendants": 1,
+      "id": 30139637,
       "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
+        30140068,
+        30139647
       ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
+      "score": 17,
+      "time": 1643567025,
+      "title": "Show HN: I reverse engineered and documented United Airlines in flight API",
       "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
+      "url": "https://github.com/greatjack1/United-In-Flight-Api"
     },
     "og_item": {
-      "title": "State of the Web: Static Site Generators",
+      "title": "Padder",
       "type": "article",
-      "image": [
-        {
-          "url": "https://ik.imagekit.io/serenity/ByteofDev/Blog_Heading_Images/State_of_the_Web_Static_Site_Generators",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://byteofdev.com/posts/static-site-generators/",
+      "image": [],
+      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/",
       "audio": [],
-      "description": "Static Site Generators have been changing quickly with new trends like Jamstack. Learn more about the background of static site generators, why people use them, and the current state of them, with information on modern SSGs like Eleventy, Next.js, SvelteKit, and Astro.",
+      "description": "a one-time pad implementation",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "ByteofDev",
+      "site_name": "",
       "video": [],
       "favicon": {
-        "url": "/favicon.svg"
+        "url": "/favicon-16x16.png"
       }
     }
   },
@@ -1887,20 +1700,18 @@
     "points": 74,
     "comment_count": 5,
     "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
+      "by": "greatjack613",
+      "descendants": 1,
+      "id": 30139637,
       "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
+        30140068,
+        30139647
       ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
+      "score": 17,
+      "time": 1643567025,
+      "title": "Show HN: I reverse engineered and documented United Airlines in flight API",
       "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
+      "url": "https://github.com/greatjack1/United-In-Flight-Api"
     },
     "og_item": {
       "title": "\n    zeux.io - Writing an efficient Vulkan renderer\n  ",
@@ -1932,20 +1743,18 @@
     "points": 35,
     "comment_count": 5,
     "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
+      "by": "greatjack613",
+      "descendants": 1,
+      "id": 30139637,
       "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
+        30140068,
+        30139647
       ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
+      "score": 17,
+      "time": 1643567025,
+      "title": "Show HN: I reverse engineered and documented United Airlines in flight API",
       "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
+      "url": "https://github.com/greatjack1/United-In-Flight-Api"
     },
     "og_item": {
       "title": "Show the case against - shubhro.com",
@@ -1977,20 +1786,18 @@
     "points": 72,
     "comment_count": 6,
     "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
+      "by": "greatjack613",
+      "descendants": 1,
+      "id": 30139637,
       "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
+        30140068,
+        30139647
       ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
+      "score": 17,
+      "time": 1643567025,
+      "title": "Show HN: I reverse engineered and documented United Airlines in flight API",
       "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
+      "url": "https://github.com/greatjack1/United-In-Flight-Api"
     },
     "og_item": {
       "title": " Nim tutorial for setting up a website. ",
@@ -2010,6 +1817,58 @@
     }
   },
   {
+    "id": 30142227,
+    "title": "America's Favorite Pickup Truck Goes Electric",
+    "url": "https://www.newyorker.com/magazine/2022/01/31/americas-favorite-pickup-truck-goes-electric",
+    "time": 1643584218,
+    "image": "https://media.newyorker.com/photos/61eb71a540b49e277739cf73/16:9/w_1280,c_limit/220131_r39776.jpg",
+    "icon": "https://www.newyorker.com/verso/static/the-new-yorker/assets/favicon.ico",
+    "publisher": "The New Yorker",
+    "description": "Ford’s F-series trucks make up the best-selling vehicle line in the U.S. Can its new F-150 Lightning compete with Tesla in the E.V. market?",
+    "by": "nojito",
+    "points": 58,
+    "comment_count": 8,
+    "hn_item": {
+      "by": "greatjack613",
+      "descendants": 1,
+      "id": 30139637,
+      "kids": [
+        30140068,
+        30139647
+      ],
+      "score": 17,
+      "time": 1643567025,
+      "title": "Show HN: I reverse engineered and documented United Airlines in flight API",
+      "type": "story",
+      "url": "https://github.com/greatjack1/United-In-Flight-Api"
+    },
+    "og_item": {
+      "title": "America’s Favorite Pickup Truck Goes Electric",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://media.newyorker.com/photos/61eb71a540b49e277739cf73/16:9/w_1280,c_limit/220131_r39776.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://www.newyorker.com/magazine/2022/01/31/americas-favorite-pickup-truck-goes-electric",
+      "audio": [],
+      "description": "Ford’s F-series trucks make up the best-selling vehicle line in the U.S. Can its new F-150 Lightning compete with Tesla in the E.V. market?",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "The New Yorker",
+      "video": [],
+      "favicon": {
+        "url": "https://www.newyorker.com/verso/static/the-new-yorker/assets/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30136350,
     "title": "The Game of War: Chess with Networks (2008)",
     "url": "https://www.cabinetmagazine.org/issues/29/galloway.php",
@@ -2022,20 +1881,18 @@
     "points": 23,
     "comment_count": 2,
     "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
+      "by": "greatjack613",
+      "descendants": 1,
+      "id": 30139637,
       "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
+        30140068,
+        30139647
       ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
+      "score": 17,
+      "time": 1643567025,
+      "title": "Show HN: I reverse engineered and documented United Airlines in flight API",
       "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
+      "url": "https://github.com/greatjack1/United-In-Flight-Api"
     },
     "og_item": {
       "title": "The Game of War: An Overview | Alexander R. Galloway",
@@ -2064,60 +1921,6 @@
     }
   },
   {
-    "id": 30142410,
-    "title": "The Wikimedia Foundation's acceptance of cryptocurrency donations",
-    "url": "https://blog.mollywhite.net/wikimedia-foundation-cryptocurrency-donations/",
-    "time": 1643585562,
-    "image": "https://blog.mollywhite.net/assets/mollyandmax.png",
-    "icon": "https://blog.mollywhite.net/assets/favicon-16x16.png",
-    "publisher": "blog.mollywhite.net",
-    "description": "Originally published in the Wikipedia Signpost: Should the Wikimedia Foundation continue to accept cryptocurrency donations? One editor doesn't think so.",
-    "by": "hesk",
-    "points": 7,
-    "comment_count": 1,
-    "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
-      "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
-      ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
-      "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
-    },
-    "og_item": {
-      "title": "Wikipedia Signpost: The Wikimedia Foundation's acceptance of cryptocurrency donations",
-      "type": "website",
-      "image": [
-        {
-          "url": "https://blog.mollywhite.net/assets/mollyandmax.png",
-          "secure_url": "",
-          "type": "",
-          "width": 200,
-          "height": 200,
-          "alt": ""
-        }
-      ],
-      "url": "https://blog.mollywhite.net/wikimedia-foundation-cryptocurrency-donations/",
-      "audio": [],
-      "description": "Originally published in the Wikipedia Signpost: Should the Wikimedia Foundation continue to accept cryptocurrency donations? One editor doesn't think so.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/assets/favicon-16x16.png"
-      }
-    }
-  },
-  {
     "id": 30138669,
     "title": "Ask HN: Has anyone leveraged GDPR to overturn automated bans?",
     "url": "https://news.ycombinator.com/item?id=30138669",
@@ -2127,23 +1930,21 @@
     "publisher": "Hacker News",
     "description": "",
     "by": "ndmrs",
-    "points": 132,
+    "points": 133,
     "comment_count": 11,
     "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
+      "by": "greatjack613",
+      "descendants": 1,
+      "id": 30139637,
       "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
+        30140068,
+        30139647
       ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
+      "score": 17,
+      "time": 1643567025,
+      "title": "Show HN: I reverse engineered and documented United Airlines in flight API",
       "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
+      "url": "https://github.com/greatjack1/United-In-Flight-Api"
     },
     "og_item": {
       "title": "Ask HN: Has anyone leveraged GDPR to overturn automated bans? | Hacker News",
@@ -2172,23 +1973,21 @@
     "publisher": "GitHub",
     "description": "Data structure and algorithm library for go, designed to provide functions similar to C++ STL - GitHub - liyue201/gostl: Data structure and algorithm library for go, designed to provide functions s...",
     "by": "gmgn",
-    "points": 83,
+    "points": 84,
     "comment_count": 9,
     "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
+      "by": "greatjack613",
+      "descendants": 1,
+      "id": 30139637,
       "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
+        30140068,
+        30139647
       ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
+      "score": 17,
+      "time": 1643567025,
+      "title": "Show HN: I reverse engineered and documented United Airlines in flight API",
       "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
+      "url": "https://github.com/greatjack1/United-In-Flight-Api"
     },
     "og_item": {
       "title": "GitHub - liyue201/gostl: Data structure and algorithm library for go, designed to provide functions similar to C++ STL",
@@ -2217,6 +2016,58 @@
     }
   },
   {
+    "id": 30142410,
+    "title": "The Wikimedia Foundation's acceptance of cryptocurrency donations",
+    "url": "https://blog.mollywhite.net/wikimedia-foundation-cryptocurrency-donations/",
+    "time": 1643585562,
+    "image": "https://blog.mollywhite.net/assets/mollyandmax.png",
+    "icon": "https://blog.mollywhite.net/assets/favicon-16x16.png",
+    "publisher": "blog.mollywhite.net",
+    "description": "Originally published in the Wikipedia Signpost: Should the Wikimedia Foundation continue to accept cryptocurrency donations? One editor doesn't think so.",
+    "by": "hesk",
+    "points": 8,
+    "comment_count": 1,
+    "hn_item": {
+      "by": "greatjack613",
+      "descendants": 1,
+      "id": 30139637,
+      "kids": [
+        30140068,
+        30139647
+      ],
+      "score": 17,
+      "time": 1643567025,
+      "title": "Show HN: I reverse engineered and documented United Airlines in flight API",
+      "type": "story",
+      "url": "https://github.com/greatjack1/United-In-Flight-Api"
+    },
+    "og_item": {
+      "title": "Wikipedia Signpost: The Wikimedia Foundation's acceptance of cryptocurrency donations",
+      "type": "website",
+      "image": [
+        {
+          "url": "https://blog.mollywhite.net/assets/mollyandmax.png",
+          "secure_url": "",
+          "type": "",
+          "width": 200,
+          "height": 200,
+          "alt": ""
+        }
+      ],
+      "url": "https://blog.mollywhite.net/wikimedia-foundation-cryptocurrency-donations/",
+      "audio": [],
+      "description": "Originally published in the Wikipedia Signpost: Should the Wikimedia Foundation continue to accept cryptocurrency donations? One editor doesn't think so.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/assets/favicon-16x16.png"
+      }
+    }
+  },
+  {
     "id": 30142494,
     "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
     "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/",
@@ -2229,20 +2080,18 @@
     "points": 17,
     "comment_count": 1,
     "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
+      "by": "greatjack613",
+      "descendants": 1,
+      "id": 30139637,
       "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
+        30140068,
+        30139647
       ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
+      "score": 17,
+      "time": 1643567025,
+      "title": "Show HN: I reverse engineered and documented United Airlines in flight API",
       "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
+      "url": "https://github.com/greatjack1/United-In-Flight-Api"
     },
     "og_item": {
       "title": "Explainer: Scientists on alert over rising cases caused by Omicron cousin BA.2",
@@ -2271,51 +2120,6 @@
     }
   },
   {
-    "id": 30141215,
-    "title": "Show HN: BeanHub – A GitHub for Beancount",
-    "url": "https://beanhub.io/",
-    "time": 1643577545,
-    "image": "",
-    "icon": "https://beanhub.io/favicon.ico",
-    "publisher": "beanhub.io",
-    "description": "",
-    "by": "fangpenlin",
-    "points": 13,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
-      "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
-      ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
-      "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
-    },
-    "og_item": {
-      "title": "\n    BeanHub\n    ",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30119285,
     "title": "Devious SQL: Message Queuing Using Native PostgreSQL",
     "url": "https://blog.crunchydata.com/blog/message-queuing-using-native-postgresql",
@@ -2328,20 +2132,18 @@
     "points": 108,
     "comment_count": 9,
     "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
+      "by": "greatjack613",
+      "descendants": 1,
+      "id": 30139637,
       "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
+        30140068,
+        30139647
       ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
+      "score": 17,
+      "time": 1643567025,
+      "title": "Show HN: I reverse engineered and documented United Airlines in flight API",
       "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
+      "url": "https://github.com/greatjack1/United-In-Flight-Api"
     },
     "og_item": {
       "title": "Devious SQL: Message Queuing Using Native PostgreSQL",
@@ -2370,6 +2172,49 @@
     }
   },
   {
+    "id": 30141215,
+    "title": "Show HN: BeanHub – A GitHub for Beancount",
+    "url": "https://beanhub.io/",
+    "time": 1643577545,
+    "image": "",
+    "icon": "https://beanhub.io/favicon.ico",
+    "publisher": "beanhub.io",
+    "description": "",
+    "by": "fangpenlin",
+    "points": 13,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "greatjack613",
+      "descendants": 1,
+      "id": 30139637,
+      "kids": [
+        30140068,
+        30139647
+      ],
+      "score": 17,
+      "time": 1643567025,
+      "title": "Show HN: I reverse engineered and documented United Airlines in flight API",
+      "type": "story",
+      "url": "https://github.com/greatjack1/United-In-Flight-Api"
+    },
+    "og_item": {
+      "title": "\n    BeanHub\n    ",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30139643,
     "title": "Very Remote Lisp Debugging Story",
     "url": "https://susam.net/maze/very-remote-debugging.html",
@@ -2382,20 +2227,18 @@
     "points": 33,
     "comment_count": 2,
     "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
+      "by": "greatjack613",
+      "descendants": 1,
+      "id": 30139637,
       "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
+        30140068,
+        30139647
       ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
+      "score": 17,
+      "time": 1643567025,
+      "title": "Show HN: I reverse engineered and documented United Airlines in flight API",
       "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
+      "url": "https://github.com/greatjack1/United-In-Flight-Api"
     },
     "og_item": {
       "title": "Very Remote Lisp Debugging Story - Susam's Maze",
@@ -2427,20 +2270,18 @@
     "points": 23,
     "comment_count": 2,
     "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
+      "by": "greatjack613",
+      "descendants": 1,
+      "id": 30139637,
       "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
+        30140068,
+        30139647
       ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
+      "score": 17,
+      "time": 1643567025,
+      "title": "Show HN: I reverse engineered and documented United Airlines in flight API",
       "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
+      "url": "https://github.com/greatjack1/United-In-Flight-Api"
     },
     "og_item": {
       "title": "DDS — dds 0.1.0-alpha.3 documentation",
@@ -2472,67 +2313,20 @@
     "points": 34,
     "comment_count": 4,
     "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
+      "by": "greatjack613",
+      "descendants": 1,
+      "id": 30139637,
       "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
+        30140068,
+        30139647
       ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
+      "score": 17,
+      "time": 1643567025,
+      "title": "Show HN: I reverse engineered and documented United Airlines in flight API",
       "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
+      "url": "https://github.com/greatjack1/United-In-Flight-Api"
     },
     "og_item": null
-  },
-  {
-    "id": 30140641,
-    "title": "Mistakes I've Made Building a Music Reactive LED Matrix",
-    "url": "https://aradaelli.com/blog/music-reactive-led-matrix/",
-    "time": 1643573549,
-    "image": "",
-    "icon": "https://aradaelli.com/favicon.ico",
-    "publisher": "aradaelli.com",
-    "description": "",
-    "by": "aradaelli",
-    "points": 14,
-    "comment_count": 2,
-    "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
-      "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
-      ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
-      "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
-    },
-    "og_item": {
-      "title": "\nMusic Reactive Led Matrix – Andrea Radaelli\n",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
   },
   {
     "id": 30111373,
@@ -2547,20 +2341,18 @@
     "points": 63,
     "comment_count": 5,
     "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
+      "by": "greatjack613",
+      "descendants": 1,
+      "id": 30139637,
       "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
+        30140068,
+        30139647
       ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
+      "score": 17,
+      "time": 1643567025,
+      "title": "Show HN: I reverse engineered and documented United Airlines in flight API",
       "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
+      "url": "https://github.com/greatjack1/United-In-Flight-Api"
     },
     "og_item": {
       "title": "What is FORGE?",
@@ -2580,6 +2372,205 @@
     }
   },
   {
+    "id": 30111033,
+    "title": "Toxic black mold is growing in my brain",
+    "url": "https://www.buzzfeednews.com/article/tysonbottenus/black-mold-growing-toxic-brain-vacation",
+    "time": 1643348571,
+    "image": "https://img.buzzfeed.com/buzzfeed-static/static/2022-01/27/14/enhanced/bed7df749335/original-1777-1643292826-2.jpg?crop=1200:628;0,0",
+    "icon": "https://www.buzzfeednews.com/static-assets/img/favicon.40f4055ea10bb11593f4c85d55164232.ico",
+    "publisher": "BuzzFeed News",
+    "description": "I went on a vacation. I came home with a mysterious fungus in my brain that is so rare only about 120 cases have been confirmed worldwide since its discovery in 1911.",
+    "by": "yellow_lead",
+    "points": 160,
+    "comment_count": 8,
+    "hn_item": {
+      "by": "greatjack613",
+      "descendants": 1,
+      "id": 30139637,
+      "kids": [
+        30140068,
+        30139647
+      ],
+      "score": 17,
+      "time": 1643567025,
+      "title": "Show HN: I reverse engineered and documented United Airlines in flight API",
+      "type": "story",
+      "url": "https://github.com/greatjack1/United-In-Flight-Api"
+    },
+    "og_item": {
+      "title": "Toxic Black Mold Is Growing On My Brain",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2022-01/27/14/enhanced/bed7df749335/original-1777-1643292826-2.jpg?crop=1200:628;0,0",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://www.buzzfeednews.com/article/tysonbottenus/black-mold-growing-toxic-brain-vacation",
+      "audio": [],
+      "description": "I went on a vacation. I came home with a mysterious fungus in my brain that is so rare only about 120 cases have been confirmed worldwide since its discovery in 1911.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "BuzzFeed News",
+      "video": [],
+      "favicon": {
+        "url": "/static-assets/img/favicon.40f4055ea10bb11593f4c85d55164232.ico"
+      }
+    }
+  },
+  {
+    "id": 30135758,
+    "title": "Uninitialized memory: Unsafe Rust is too hard",
+    "url": "https://lucumr.pocoo.org/2022/1/30/unsafe-rust/",
+    "time": 1643539905,
+    "image": "",
+    "icon": "https://lucumr.pocoo.org/favicon.ico",
+    "publisher": "lucumr.pocoo.org",
+    "description": "Why unsafe Rust is a complex and user unfriendly experience.",
+    "by": "drrlvn",
+    "points": 99,
+    "comment_count": 15,
+    "hn_item": {
+      "by": "greatjack613",
+      "descendants": 1,
+      "id": 30139637,
+      "kids": [
+        30140068,
+        30139647
+      ],
+      "score": 17,
+      "time": 1643567025,
+      "title": "Show HN: I reverse engineered and documented United Airlines in flight API",
+      "type": "story",
+      "url": "https://github.com/greatjack1/United-In-Flight-Api"
+    },
+    "og_item": {
+      "title": "Uninitialized Memory: Unsafe Rust is Too Hard",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "Why unsafe Rust is a complex and user unfriendly experience.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30140641,
+    "title": "Mistakes I've Made Building a Music Reactive LED Matrix",
+    "url": "https://aradaelli.com/blog/music-reactive-led-matrix/",
+    "time": 1643573549,
+    "image": "",
+    "icon": "https://aradaelli.com/favicon.ico",
+    "publisher": "aradaelli.com",
+    "description": "",
+    "by": "aradaelli",
+    "points": 14,
+    "comment_count": 2,
+    "hn_item": {
+      "by": "greatjack613",
+      "descendants": 1,
+      "id": 30139637,
+      "kids": [
+        30140068,
+        30139647
+      ],
+      "score": 17,
+      "time": 1643567025,
+      "title": "Show HN: I reverse engineered and documented United Airlines in flight API",
+      "type": "story",
+      "url": "https://github.com/greatjack1/United-In-Flight-Api"
+    },
+    "og_item": {
+      "title": "\nMusic Reactive Led Matrix – Andrea Radaelli\n",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30116262,
+    "title": "A Padlock I’d Use [video]",
+    "url": "https://www.youtube.com/watch?v=HrV86GqlY8o",
+    "time": 1643385483,
+    "image": "https://i.ytimg.com/vi/HrV86GqlY8o/hqdefault.jpg",
+    "icon": "https://www.youtube.com/s/desktop/ca9cd554/img/favicon_144x144.png",
+    "publisher": "YouTube",
+    "description": "https://www.CovertInstruments.com",
+    "by": "CraigJPerry",
+    "points": 140,
+    "comment_count": 7,
+    "hn_item": {
+      "by": "greatjack613",
+      "descendants": 1,
+      "id": 30139637,
+      "kids": [
+        30140068,
+        30139647
+      ],
+      "score": 17,
+      "time": 1643567025,
+      "title": "Show HN: I reverse engineered and documented United Airlines in flight API",
+      "type": "story",
+      "url": "https://github.com/greatjack1/United-In-Flight-Api"
+    },
+    "og_item": {
+      "title": "[1398] A Padlock I’d Use: Abus Granit 37RK/80 (Pick \u0026 Gut)",
+      "type": "video.other",
+      "image": [
+        {
+          "url": "https://i.ytimg.com/vi/HrV86GqlY8o/hqdefault.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 480,
+          "height": 360,
+          "alt": ""
+        }
+      ],
+      "url": "https://www.youtube.com/watch?v=HrV86GqlY8o",
+      "audio": [],
+      "description": "https://www.CovertInstruments.com",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "YouTube",
+      "video": [
+        {
+          "url": "https://www.youtube.com/embed/HrV86GqlY8o",
+          "secure_url": "https://www.youtube.com/embed/HrV86GqlY8o",
+          "type": "text/html",
+          "width": 1280,
+          "height": 720,
+          "duration": 0
+        }
+      ],
+      "favicon": {
+        "url": "https://www.youtube.com/s/desktop/ca9cd554/img/favicon_144x144.png"
+      }
+    }
+  },
+  {
     "id": 30139142,
     "title": "SBCL: New in Version 2.2.1",
     "url": "http://www.sbcl.org/all-news.html?2.2.1#2.2.1",
@@ -2589,23 +2580,21 @@
     "publisher": "sbcl.org",
     "description": "",
     "by": "susam",
-    "points": 92,
+    "points": 93,
     "comment_count": 5,
     "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
+      "by": "greatjack613",
+      "descendants": 1,
+      "id": 30139637,
       "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
+        30140068,
+        30139647
       ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
+      "score": 17,
+      "time": 1643567025,
+      "title": "Show HN: I reverse engineered and documented United Airlines in flight API",
       "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
+      "url": "https://github.com/greatjack1/United-In-Flight-Api"
     },
     "og_item": {
       "title": "All News - Steel Bank Common Lisp",
@@ -2637,20 +2626,18 @@
     "points": 18,
     "comment_count": 0,
     "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
+      "by": "greatjack613",
+      "descendants": 1,
+      "id": 30139637,
       "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
+        30140068,
+        30139647
       ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
+      "score": 17,
+      "time": 1643567025,
+      "title": "Show HN: I reverse engineered and documented United Airlines in flight API",
       "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
+      "url": "https://github.com/greatjack1/United-In-Flight-Api"
     },
     "og_item": {
       "title": "The Dialectic of Enlightenment",
@@ -2679,105 +2666,6 @@
     }
   },
   {
-    "id": 30135758,
-    "title": "Uninitialized memory: Unsafe Rust is too hard",
-    "url": "https://lucumr.pocoo.org/2022/1/30/unsafe-rust/",
-    "time": 1643539905,
-    "image": "",
-    "icon": "https://lucumr.pocoo.org/favicon.ico",
-    "publisher": "lucumr.pocoo.org",
-    "description": "Why unsafe Rust is a complex and user unfriendly experience.",
-    "by": "drrlvn",
-    "points": 99,
-    "comment_count": 15,
-    "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
-      "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
-      ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
-      "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
-    },
-    "og_item": {
-      "title": "Uninitialized Memory: Unsafe Rust is Too Hard",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "Why unsafe Rust is a complex and user unfriendly experience.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30111033,
-    "title": "Toxic black mold is growing in my brain",
-    "url": "https://www.buzzfeednews.com/article/tysonbottenus/black-mold-growing-toxic-brain-vacation",
-    "time": 1643348571,
-    "image": "https://img.buzzfeed.com/buzzfeed-static/static/2022-01/27/14/enhanced/bed7df749335/original-1777-1643292826-2.jpg?crop=1200:628;0,0",
-    "icon": "https://www.buzzfeednews.com/static-assets/img/favicon.40f4055ea10bb11593f4c85d55164232.ico",
-    "publisher": "BuzzFeed News",
-    "description": "I went on a vacation. I came home with a mysterious fungus in my brain that is so rare only about 120 cases have been confirmed worldwide since its discovery in 1911.",
-    "by": "yellow_lead",
-    "points": 160,
-    "comment_count": 8,
-    "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
-      "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
-      ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
-      "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
-    },
-    "og_item": {
-      "title": "Toxic Black Mold Is Growing On My Brain",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2022-01/27/14/enhanced/bed7df749335/original-1777-1643292826-2.jpg?crop=1200:628;0,0",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://www.buzzfeednews.com/article/tysonbottenus/black-mold-growing-toxic-brain-vacation",
-      "audio": [],
-      "description": "I went on a vacation. I came home with a mysterious fungus in my brain that is so rare only about 120 cases have been confirmed worldwide since its discovery in 1911.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "BuzzFeed News",
-      "video": [],
-      "favicon": {
-        "url": "/static-assets/img/favicon.40f4055ea10bb11593f4c85d55164232.ico"
-      }
-    }
-  },
-  {
     "id": 30134301,
     "title": "The Basilikon Doron of King James VI and I",
     "url": "https://blogs.bl.uk/digitisedmanuscripts/2022/01/how-to-be-an-effective-ruler.html",
@@ -2790,20 +2678,18 @@
     "points": 12,
     "comment_count": 2,
     "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
+      "by": "greatjack613",
+      "descendants": 1,
+      "id": 30139637,
       "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
+        30140068,
+        30139647
       ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
+      "score": 17,
+      "time": 1643567025,
+      "title": "Show HN: I reverse engineered and documented United Airlines in flight API",
       "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
+      "url": "https://github.com/greatjack1/United-In-Flight-Api"
     },
     "og_item": {
       "title": "How to be an effective ruler: the Basilikon Doron of King James VI and I",
@@ -2841,23 +2727,21 @@
     "publisher": "Cooking in the Archives",
     "description": "A collection of philosopher John Locke’s papers at the Bodleian Library includes letters, accounts, poetry, notes on medicine and books, and recipes. When David Armitage posted this recipe fo…",
     "by": "pepys",
-    "points": 255,
+    "points": 256,
     "comment_count": 32,
     "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
+      "by": "greatjack613",
+      "descendants": 1,
+      "id": 30139637,
       "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
+        30140068,
+        30139647
       ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
+      "score": 17,
+      "time": 1643567025,
+      "title": "Show HN: I reverse engineered and documented United Airlines in flight API",
       "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
+      "url": "https://github.com/greatjack1/United-In-Flight-Api"
     },
     "og_item": {
       "title": "John Locke’s recipe for Pancakes",
@@ -2886,105 +2770,6 @@
     }
   },
   {
-    "id": 30140210,
-    "title": "Why is Harvard astrophysicist Avi Loeb working with ardent UFO believers?",
-    "url": "https://www.science.org/content/article/why-is-harvard-astrophysicist-working-with-ufo-buffs",
-    "time": 1643570644,
-    "image": "https://www.science.org/do/10.1126/science.ada0631/abs/_20220128_nf_flying_saucer.jpg",
-    "icon": "https://www.science.org/favicon.ico",
-    "publisher": "science.org",
-    "description": "Avi Loeb’s Galileo Project will search for sky-prowling aliens, but some worry about the influence of pseudoscience",
-    "by": "tejohnso",
-    "points": 44,
-    "comment_count": 8,
-    "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
-      "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
-      ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
-      "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
-    },
-    "og_item": {
-      "title": "Why is a Harvard astrophysicist working with UFO buffs?",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://www.science.org/do/10.1126/science.ada0631/abs/_20220128_nf_flying_saucer.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://www.science.org/content/article/why-is-harvard-astrophysicist-working-with-ufo-buffs",
-      "audio": [],
-      "description": "Avi Loeb’s Galileo Project will search for sky-prowling aliens, but some worry about the influence of pseudoscience",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30141426,
-    "title": "Ulysses at 100: The Birth of the Modern",
-    "url": "https://www.ft.com/content/609d5d0d-b666-4af8-af39-82ddaf5f28de",
-    "time": 1643579002,
-    "image": "",
-    "icon": "https://www.ft.com/__origami/service/image/v2/images/raw/ftlogo-v1%3Abrand-ft-logo-square-coloured?source=update-logos\u0026format=svg",
-    "publisher": "ft.com",
-    "description": "News, analysis and comment from the Financial Times, the worldʼs leading global business publication",
-    "by": "kkwteh",
-    "points": 10,
-    "comment_count": 1,
-    "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
-      "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
-      ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
-      "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
-    },
-    "og_item": {
-      "title": "Subscribe to read | Financial Times",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "News, analysis and comment from the Financial Times, the worldʼs leading global business publication",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "https://www.ft.com/__origami/service/image/v2/images/raw/ftlogo-v1%3Abrand-ft-logo-square-coloured?source=update-logos\u0026format=svg"
-      }
-    }
-  },
-  {
     "id": 30114787,
     "title": "The Society of the Spectacle",
     "url": "https://unredacted-word.pub/",
@@ -2994,23 +2779,21 @@
     "publisher": "unredacted-word.pub",
     "description": "Unredacted Word: publisher of words, code \u0026 data. Our new edition of The Society of the Spectacle is out now 💥.",
     "by": "raldu",
-    "points": 92,
+    "points": 93,
     "comment_count": 10,
     "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
+      "by": "greatjack613",
+      "descendants": 1,
+      "id": 30139637,
       "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
+        30140068,
+        30139647
       ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
+      "score": 17,
+      "time": 1643567025,
+      "title": "Show HN: I reverse engineered and documented United Airlines in flight API",
       "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
+      "url": "https://github.com/greatjack1/United-In-Flight-Api"
     },
     "og_item": {
       "title": "Unredacted Word",
@@ -3039,6 +2822,135 @@
     }
   },
   {
+    "id": 30140210,
+    "title": "Why is Harvard astrophysicist Avi Loeb working with ardent UFO believers?",
+    "url": "https://www.science.org/content/article/why-is-harvard-astrophysicist-working-with-ufo-buffs",
+    "time": 1643570644,
+    "image": "",
+    "icon": "https://www.science.org/favicon.ico",
+    "publisher": "AAAS",
+    "description": "",
+    "by": "tejohnso",
+    "points": 44,
+    "comment_count": 8,
+    "hn_item": {
+      "by": "greatjack613",
+      "descendants": 1,
+      "id": 30139637,
+      "kids": [
+        30140068,
+        30139647
+      ],
+      "score": 17,
+      "time": 1643567025,
+      "title": "Show HN: I reverse engineered and documented United Airlines in flight API",
+      "type": "story",
+      "url": "https://github.com/greatjack1/United-In-Flight-Api"
+    },
+    "og_item": {
+      "title": "Science | AAAS",
+      "type": "Website",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "AAAS",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30128627,
+    "title": "Tech debt gets worse before it gets better",
+    "url": "https://jeremymikkola.com/posts/2022_01_29_tech_debt_gets_worse_before_it_gets_beffer.html",
+    "time": 1643479251,
+    "image": "",
+    "icon": "https://jeremymikkola.com/favicon.ico",
+    "publisher": "jeremymikkola.com",
+    "description": "",
+    "by": "piinbinary",
+    "points": 126,
+    "comment_count": 12,
+    "hn_item": {
+      "by": "greatjack613",
+      "descendants": 1,
+      "id": 30139637,
+      "kids": [
+        30140068,
+        30139647
+      ],
+      "score": 17,
+      "time": 1643567025,
+      "title": "Show HN: I reverse engineered and documented United Airlines in flight API",
+      "type": "story",
+      "url": "https://github.com/greatjack1/United-In-Flight-Api"
+    },
+    "og_item": {
+      "title": "Jeremy Mikkola - Tech debt gets worse before it gets better",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30141426,
+    "title": "Ulysses at 100: The Birth of the Modern",
+    "url": "https://www.ft.com/content/609d5d0d-b666-4af8-af39-82ddaf5f28de",
+    "time": 1643579002,
+    "image": "",
+    "icon": "https://www.ft.com/__origami/service/image/v2/images/raw/ftlogo-v1%3Abrand-ft-logo-square-coloured?source=update-logos\u0026format=svg",
+    "publisher": "ft.com",
+    "description": "News, analysis and comment from the Financial Times, the worldʼs leading global business publication",
+    "by": "kkwteh",
+    "points": 10,
+    "comment_count": 1,
+    "hn_item": {
+      "by": "greatjack613",
+      "descendants": 1,
+      "id": 30139637,
+      "kids": [
+        30140068,
+        30139647
+      ],
+      "score": 17,
+      "time": 1643567025,
+      "title": "Show HN: I reverse engineered and documented United Airlines in flight API",
+      "type": "story",
+      "url": "https://github.com/greatjack1/United-In-Flight-Api"
+    },
+    "og_item": {
+      "title": "Subscribe to read | Financial Times",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "News, analysis and comment from the Financial Times, the worldʼs leading global business publication",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "https://www.ft.com/__origami/service/image/v2/images/raw/ftlogo-v1%3Abrand-ft-logo-square-coloured?source=update-logos\u0026format=svg"
+      }
+    }
+  },
+  {
     "id": 30141784,
     "title": "I crowdfunded a novel using cryptocurrency",
     "url": "https://ellegriffin.substack.com/p/crypto-funded-nft-novel",
@@ -3051,20 +2963,18 @@
     "points": 5,
     "comment_count": 0,
     "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
+      "by": "greatjack613",
+      "descendants": 1,
+      "id": 30139637,
       "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
+        30140068,
+        30139647
       ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
+      "score": 17,
+      "time": 1643567025,
+      "title": "Show HN: I reverse engineered and documented United Airlines in flight API",
       "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
+      "url": "https://github.com/greatjack1/United-In-Flight-Api"
     },
     "og_item": {
       "title": "I crowdfunded a novel using cryptocurrency ",
@@ -3093,51 +3003,6 @@
     }
   },
   {
-    "id": 30128627,
-    "title": "Tech debt gets worse before it gets better",
-    "url": "https://jeremymikkola.com/posts/2022_01_29_tech_debt_gets_worse_before_it_gets_beffer.html",
-    "time": 1643479251,
-    "image": "",
-    "icon": "https://jeremymikkola.com/favicon.ico",
-    "publisher": "jeremymikkola.com",
-    "description": "",
-    "by": "piinbinary",
-    "points": 126,
-    "comment_count": 12,
-    "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
-      "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
-      ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
-      "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
-    },
-    "og_item": {
-      "title": "Jeremy Mikkola - Tech debt gets worse before it gets better",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30141266,
     "title": "Rpilocator – Find a Raspberry Pi in Stock",
     "url": "https://rpilocator.com",
@@ -3147,23 +3012,21 @@
     "publisher": "rpilocator.com",
     "description": "Find Raspberry Pi computers in stock with this simple to use web application.",
     "by": "geerlingguy",
-    "points": 11,
+    "points": 12,
     "comment_count": 3,
     "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
+      "by": "greatjack613",
+      "descendants": 1,
+      "id": 30139637,
       "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
+        30140068,
+        30139647
       ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
+      "score": 17,
+      "time": 1643567025,
+      "title": "Show HN: I reverse engineered and documented United Airlines in flight API",
       "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
+      "url": "https://github.com/greatjack1/United-In-Flight-Api"
     },
     "og_item": {
       "title": "rpilocator",
@@ -3195,20 +3058,18 @@
     "points": 21,
     "comment_count": 0,
     "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
+      "by": "greatjack613",
+      "descendants": 1,
+      "id": 30139637,
       "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
+        30140068,
+        30139647
       ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
+      "score": 17,
+      "time": 1643567025,
+      "title": "Show HN: I reverse engineered and documented United Airlines in flight API",
       "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
+      "url": "https://github.com/greatjack1/United-In-Flight-Api"
     },
     "og_item": {
       "title": "oss-security - Fun with DBM-type databases...",
@@ -3240,20 +3101,18 @@
     "points": 50,
     "comment_count": 6,
     "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
+      "by": "greatjack613",
+      "descendants": 1,
+      "id": 30139637,
       "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
+        30140068,
+        30139647
       ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
+      "score": 17,
+      "time": 1643567025,
+      "title": "Show HN: I reverse engineered and documented United Airlines in flight API",
       "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
+      "url": "https://github.com/greatjack1/United-In-Flight-Api"
     },
     "og_item": {
       "title": "How Amiga 500 RAM Probably Works | How Things Probably Work",
@@ -3291,60 +3150,6 @@
     }
   },
   {
-    "id": 30142065,
-    "title": "A hyperactive cell in the brain might trigger Alzheimer's disease",
-    "url": "https://www.npr.org/sections/health-shots/2022/01/30/1076166807/how-a-hyperactive-cell-in-the-brain-might-trigger-alzheimers-disease",
-    "time": 1643582988,
-    "image": "https://media.npr.org/assets/img/2022/01/27/sciencesource_microglia-21987196_wide-7afc62ca4328fa0cff9c6b3d9503c40257a7adf0.jpg?s=1400",
-    "icon": "https://static-assets.npr.org/static/images/favicon/favicon-16x16.png",
-    "publisher": "NPR.org",
-    "description": "Microglia are amoeba-like cells that scour the brain for injuries and invaders. But sometimes the usually helpful cells go into overdrive and damage the brain, researchers say.",
-    "by": "pseudolus",
-    "points": 8,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
-      "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
-      ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
-      "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
-    },
-    "og_item": {
-      "title": "How a hyperactive cell in the brain might trigger Alzheimer's disease",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://media.npr.org/assets/img/2022/01/27/sciencesource_microglia-21987196_wide-7afc62ca4328fa0cff9c6b3d9503c40257a7adf0.jpg?s=1400",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://www.npr.org/sections/health-shots/2022/01/30/1076166807/how-a-hyperactive-cell-in-the-brain-might-trigger-alzheimers-disease",
-      "audio": [],
-      "description": "Microglia are amoeba-like cells that scour the brain for injuries and invaders. But sometimes the usually helpful cells go into overdrive and damage the brain, researchers say. ",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "NPR.org",
-      "video": [],
-      "favicon": {
-        "url": "https://static-assets.npr.org/static/images/favicon/favicon-16x16.png"
-      }
-    }
-  },
-  {
     "id": 30128379,
     "title": "Controlling RGB LEDs with only powerlines: Anatomy of a Christmas light string",
     "url": "https://cpldcpu.wordpress.com/2022/01/23/controlling-rgb-leds-with-only-the-powerlines-anatomy-of-a-christmas-light-string/",
@@ -3357,20 +3162,18 @@
     "points": 142,
     "comment_count": 6,
     "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
+      "by": "greatjack613",
+      "descendants": 1,
+      "id": 30139637,
       "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
+        30140068,
+        30139647
       ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
+      "score": 17,
+      "time": 1643567025,
+      "title": "Show HN: I reverse engineered and documented United Airlines in flight API",
       "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
+      "url": "https://github.com/greatjack1/United-In-Flight-Api"
     },
     "og_item": {
       "title": "Controlling RGB LEDs With Only the Powerlines: Anatomy of a Christmas Light String",
@@ -3399,39 +3202,37 @@
     }
   },
   {
-    "id": 30141971,
-    "title": "Console – The Weekly Open Source Newsletter",
-    "url": "https://console.substack.com/p/console-90",
-    "time": 1643582322,
-    "image": "https://cdn.substack.com/image/fetch/w_1200,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd7c093b9-faa1-4bc3-add5-25256163193b_800x418.png",
-    "icon": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/0252db64-b700-4f18-865a-432a448714c1/favicon-32x32.png",
-    "publisher": "console.substack.com",
-    "description": "An Interview with Rasheed of Elasticlunr",
-    "by": "mmmmkay",
-    "points": 6,
+    "id": 30142065,
+    "title": "A hyperactive cell in the brain might trigger Alzheimer's disease",
+    "url": "https://www.npr.org/sections/health-shots/2022/01/30/1076166807/how-a-hyperactive-cell-in-the-brain-might-trigger-alzheimers-disease",
+    "time": 1643582988,
+    "image": "https://media.npr.org/assets/img/2022/01/27/sciencesource_microglia-21987196_wide-7afc62ca4328fa0cff9c6b3d9503c40257a7adf0.jpg?s=1400",
+    "icon": "https://static-assets.npr.org/static/images/favicon/favicon-16x16.png",
+    "publisher": "NPR.org",
+    "description": "Microglia are amoeba-like cells that scour the brain for injuries and invaders. But sometimes the usually helpful cells go into overdrive and damage the brain, researchers say.",
+    "by": "pseudolus",
+    "points": 8,
     "comment_count": 0,
     "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
+      "by": "greatjack613",
+      "descendants": 1,
+      "id": 30139637,
       "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
+        30140068,
+        30139647
       ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
+      "score": 17,
+      "time": 1643567025,
+      "title": "Show HN: I reverse engineered and documented United Airlines in flight API",
       "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
+      "url": "https://github.com/greatjack1/United-In-Flight-Api"
     },
     "og_item": {
-      "title": "Console #90 -- Authelia, Piped, and Elasticlunr",
+      "title": "How a hyperactive cell in the brain might trigger Alzheimer's disease",
       "type": "article",
       "image": [
         {
-          "url": "https://cdn.substack.com/image/fetch/w_1200,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd7c093b9-faa1-4bc3-add5-25256163193b_800x418.png",
+          "url": "https://media.npr.org/assets/img/2022/01/27/sciencesource_microglia-21987196_wide-7afc62ca4328fa0cff9c6b3d9503c40257a7adf0.jpg?s=1400",
           "secure_url": "",
           "type": "",
           "width": 0,
@@ -3439,16 +3240,16 @@
           "alt": ""
         }
       ],
-      "url": "https://console.substack.com/p/console-90",
+      "url": "https://www.npr.org/sections/health-shots/2022/01/30/1076166807/how-a-hyperactive-cell-in-the-brain-might-trigger-alzheimers-disease",
       "audio": [],
-      "description": "An Interview with Rasheed of Elasticlunr",
+      "description": "Microglia are amoeba-like cells that scour the brain for injuries and invaders. But sometimes the usually helpful cells go into overdrive and damage the brain, researchers say. ",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "",
+      "site_name": "NPR.org",
       "video": [],
       "favicon": {
-        "url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/0252db64-b700-4f18-865a-432a448714c1/favicon-32x32.png"
+        "url": "https://static-assets.npr.org/static/images/favicon/favicon-16x16.png"
       }
     }
   },
@@ -3465,20 +3266,18 @@
     "points": 29,
     "comment_count": 4,
     "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
+      "by": "greatjack613",
+      "descendants": 1,
+      "id": 30139637,
       "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
+        30140068,
+        30139647
       ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
+      "score": 17,
+      "time": 1643567025,
+      "title": "Show HN: I reverse engineered and documented United Airlines in flight API",
       "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
+      "url": "https://github.com/greatjack1/United-In-Flight-Api"
     },
     "og_item": {
       "title": "In defense of NIR",
@@ -3494,6 +3293,58 @@
       "video": [],
       "favicon": {
         "url": "/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30139637,
+    "title": "Show HN: I reverse engineered and documented United Airlines in flight API",
+    "url": "https://github.com/greatjack1/United-In-Flight-Api",
+    "time": 1643567025,
+    "image": "https://opengraph.githubassets.com/94a67c4f659139d52d401be7e4dee7a950ed433969ff68fd89fc4d398208b6a9/greatjack1/United-In-Flight-Api",
+    "icon": "https://github.githubassets.com/favicons/favicon.svg",
+    "publisher": "GitHub",
+    "description": "Postman collection for United's internal in-flight wifi api - GitHub - greatjack1/United-In-Flight-Api: Postman collection for United's internal in-flight wifi api",
+    "by": "greatjack613",
+    "points": 17,
+    "comment_count": 2,
+    "hn_item": {
+      "by": "greatjack613",
+      "descendants": 1,
+      "id": 30139637,
+      "kids": [
+        30140068,
+        30139647
+      ],
+      "score": 17,
+      "time": 1643567025,
+      "title": "Show HN: I reverse engineered and documented United Airlines in flight API",
+      "type": "story",
+      "url": "https://github.com/greatjack1/United-In-Flight-Api"
+    },
+    "og_item": {
+      "title": "GitHub - greatjack1/United-In-Flight-Api: Postman collection for United's internal in-flight wifi api",
+      "type": "object",
+      "image": [
+        {
+          "url": "https://opengraph.githubassets.com/94a67c4f659139d52d401be7e4dee7a950ed433969ff68fd89fc4d398208b6a9/greatjack1/United-In-Flight-Api",
+          "secure_url": "",
+          "type": "",
+          "width": 1200,
+          "height": 600,
+          "alt": ""
+        }
+      ],
+      "url": "https://github.com/greatjack1/United-In-Flight-Api",
+      "audio": [],
+      "description": "Postman collection for United's internal in-flight wifi api - GitHub - greatjack1/United-In-Flight-Api: Postman collection for United's internal in-flight wifi api",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "GitHub",
+      "video": [],
+      "favicon": {
+        "url": "https://github.githubassets.com/favicons/favicon.svg"
       }
     }
   }
