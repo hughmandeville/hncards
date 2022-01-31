@@ -9,8 +9,8 @@
     "publisher": "The New York Times",
     "description": "The word game, released in October, has millions of daily users.",
     "by": "lucis",
-    "points": 210,
-    "comment_count": 149,
+    "points": 244,
+    "comment_count": 166,
     "hn_item": {
       "by": "gballan",
       "descendants": 156,
@@ -79,8 +79,8 @@
     "publisher": "lsd.gnunet.org",
     "description": "This document contains the GNU Name System (GNS) technical\n      specification.\n      GNS is a decentralized and censorship-resistant name\n      system that provides a privacy-enhancing alternative to the Domain\n      Name System (DNS).\n       \n       \n      This document defines t…",
     "by": "simonpure",
-    "points": 27,
-    "comment_count": 7,
+    "points": 32,
+    "comment_count": 9,
     "hn_item": {
       "by": "gballan",
       "descendants": 156,
@@ -140,8 +140,8 @@
     "publisher": "them.",
     "description": "We could be getting even closer to stopping the spread of HIV/AIDS.",
     "by": "grawprog",
-    "points": 612,
-    "comment_count": 247,
+    "points": 627,
+    "comment_count": 251,
     "hn_item": {
       "by": "gballan",
       "descendants": 156,
@@ -210,8 +210,8 @@
     "publisher": "magistrate.khanna.law",
     "description": "",
     "by": "hkhanna",
-    "points": 193,
-    "comment_count": 71,
+    "points": 195,
+    "comment_count": 74,
     "hn_item": {
       "by": "gballan",
       "descendants": 156,
@@ -271,8 +271,8 @@
     "publisher": "evertpot.com",
     "description": "",
     "by": "treve",
-    "points": 95,
-    "comment_count": 68,
+    "points": 98,
+    "comment_count": 75,
     "hn_item": {
       "by": "gballan",
       "descendants": 156,
@@ -336,13 +336,13 @@
     "title": "Pyflow – Visual and modular block programming in Python",
     "url": "https://github.com/Bycelium/PyFlow",
     "time": 1643647446,
-    "image": "https://opengraph.githubassets.com/72272586b6c8cbe9fdfe88680e87a74cbbcb712bcac24194fcd496b38e5aa549/Bycelium/PyFlow",
+    "image": "https://opengraph.githubassets.com/00da3767faf7171bcea26ca22fe0110b44a5732199b9d4ebbd8e5d7a76f75ef9/Bycelium/PyFlow",
     "icon": "https://github.githubassets.com/favicons/favicon.svg",
     "publisher": "GitHub",
     "description": "An open-source tool for visual and modular block programing in python - GitHub - Bycelium/PyFlow: An open-source tool for visual and modular block programing in python",
     "by": "amai",
     "points": 136,
-    "comment_count": 66,
+    "comment_count": 67,
     "hn_item": {
       "by": "gballan",
       "descendants": 156,
@@ -380,7 +380,7 @@
       "type": "object",
       "image": [
         {
-          "url": "https://opengraph.githubassets.com/72272586b6c8cbe9fdfe88680e87a74cbbcb712bcac24194fcd496b38e5aa549/Bycelium/PyFlow",
+          "url": "https://opengraph.githubassets.com/00da3767faf7171bcea26ca22fe0110b44a5732199b9d4ebbd8e5d7a76f75ef9/Bycelium/PyFlow",
           "secure_url": "",
           "type": "",
           "width": 1200,
@@ -411,8 +411,8 @@
     "publisher": "Ask a Manager",
     "description": "A reader writes: This is a situation currently unfolding at my husband's office so I’m a very amused bystander and thought I’d get your opinion on this",
     "by": "amadeuspzs",
-    "points": 588,
-    "comment_count": 328,
+    "points": 602,
+    "comment_count": 337,
     "hn_item": {
       "by": "gballan",
       "descendants": 156,
@@ -472,17 +472,17 @@
     }
   },
   {
-    "id": 30150495,
-    "title": "Yemen's bifurcated monetary system",
-    "url": "http://jpkoning.blogspot.com/2022/01/yemens-bifurcated-monetary-system.html",
-    "time": 1643649091,
-    "image": "https://blogger.googleusercontent.com/img/a/AVvXsEik0CBmVpDrUhhIxH011-Fg_gzRQvIxXKxawcNToIYUvltxopGg7sVbzIiZdMjBvz3W5lFNfHa9zfInMtpmn1W73uCCQw4mOXEpVmw6OOkBflt7N2aPtKOr0z0f4KIw29OppnUpLnjYTM-nUcQ7Ap0HXrFXGJfy5u2R6LiNL7CLNx2U0cYp7t0S_qZr=w1200-h630-p-k-no-nu",
-    "icon": "",
-    "publisher": "jpkoning.blogspot.com",
-    "description": "Over the last five years Yemen has stumbled into a unique monetary situation. I initially wrote about Yemen's odd currency status two years ...",
-    "by": "rwmj",
-    "points": 77,
-    "comment_count": 43,
+    "id": 30152268,
+    "title": "The unreasonable effectiveness of one-on-ones",
+    "url": "https://www.benkuhn.net/11/",
+    "time": 1643654866,
+    "image": "",
+    "icon": "https://www.benkuhn.net/favicon.ico",
+    "publisher": "benkuhn.net",
+    "description": "When I started dating my partner, I quickly noticed that grad school was making her very sad.\nThis was shortly after I’d started leading an engineering team at Wave, and so the “obvious” hypothesis to me was that the management (okay, “management”) one gets in graduate school is totally…",
+    "by": "sebg",
+    "points": 87,
+    "comment_count": 92,
     "hn_item": {
       "by": "gballan",
       "descendants": 156,
@@ -516,28 +516,19 @@
       "url": "https://mathoverflow.net/questions/23478/examples-of-common-false-beliefs-in-mathematics"
     },
     "og_item": {
-      "title": "Yemen's bifurcated monetary system",
+      "title": "The unreasonable effectiveness of one-on-ones",
       "type": "",
-      "image": [
-        {
-          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEik0CBmVpDrUhhIxH011-Fg_gzRQvIxXKxawcNToIYUvltxopGg7sVbzIiZdMjBvz3W5lFNfHa9zfInMtpmn1W73uCCQw4mOXEpVmw6OOkBflt7N2aPtKOr0z0f4KIw29OppnUpLnjYTM-nUcQ7Ap0HXrFXGJfy5u2R6LiNL7CLNx2U0cYp7t0S_qZr=w1200-h630-p-k-no-nu",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "http://jpkoning.blogspot.com/2022/01/yemens-bifurcated-monetary-system.html",
+      "image": [],
+      "url": "https://www.benkuhn.net/11/",
       "audio": [],
-      "description": "Over the last five years Yemen has stumbled into a unique monetary situation. I initially wrote about Yemen's odd currency status two years ...",
+      "description": "When I started dating my partner, I quickly noticed that grad school was making her very sad.\nThis was shortly after I’d started leading an engineering team at Wave, and so the “obvious” hypothesis to me was that the management (okay, “management”) one gets in graduate school is totally ineffective.\nMost graduate students, including Eve, start school right after college, i.e., without much clue about how to effectively do self-directed work.",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "",
+      "site_name": "benkuhn.net",
       "video": [],
       "favicon": {
-        "url": "http://jpkoning.blogspot.com/favicon.ico"
+        "url": "/favicon.ico"
       }
     }
   },
@@ -612,17 +603,17 @@
     }
   },
   {
-    "id": 30152268,
-    "title": "The unreasonable effectiveness of one-on-ones",
-    "url": "https://www.benkuhn.net/11/",
-    "time": 1643654866,
-    "image": "",
-    "icon": "https://www.benkuhn.net/favicon.ico",
-    "publisher": "benkuhn.net",
-    "description": "When I started dating my partner, I quickly noticed that grad school was making her very sad.\nThis was shortly after I’d started leading an engineering team at Wave, and so the “obvious” hypothesis to me was that the management (okay, “management”) one gets in graduate school is totally…",
-    "by": "sebg",
-    "points": 83,
-    "comment_count": 90,
+    "id": 30150495,
+    "title": "Yemen's bifurcated monetary system",
+    "url": "http://jpkoning.blogspot.com/2022/01/yemens-bifurcated-monetary-system.html",
+    "time": 1643649091,
+    "image": "https://blogger.googleusercontent.com/img/a/AVvXsEik0CBmVpDrUhhIxH011-Fg_gzRQvIxXKxawcNToIYUvltxopGg7sVbzIiZdMjBvz3W5lFNfHa9zfInMtpmn1W73uCCQw4mOXEpVmw6OOkBflt7N2aPtKOr0z0f4KIw29OppnUpLnjYTM-nUcQ7Ap0HXrFXGJfy5u2R6LiNL7CLNx2U0cYp7t0S_qZr=w1200-h630-p-k-no-nu",
+    "icon": "",
+    "publisher": "jpkoning.blogspot.com",
+    "description": "Over the last five years Yemen has stumbled into a unique monetary situation. I initially wrote about Yemen's odd currency status two years ...",
+    "by": "rwmj",
+    "points": 78,
+    "comment_count": 43,
     "hn_item": {
       "by": "gballan",
       "descendants": 156,
@@ -656,19 +647,28 @@
       "url": "https://mathoverflow.net/questions/23478/examples-of-common-false-beliefs-in-mathematics"
     },
     "og_item": {
-      "title": "The unreasonable effectiveness of one-on-ones",
+      "title": "Yemen's bifurcated monetary system",
       "type": "",
-      "image": [],
-      "url": "https://www.benkuhn.net/11/",
+      "image": [
+        {
+          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEik0CBmVpDrUhhIxH011-Fg_gzRQvIxXKxawcNToIYUvltxopGg7sVbzIiZdMjBvz3W5lFNfHa9zfInMtpmn1W73uCCQw4mOXEpVmw6OOkBflt7N2aPtKOr0z0f4KIw29OppnUpLnjYTM-nUcQ7Ap0HXrFXGJfy5u2R6LiNL7CLNx2U0cYp7t0S_qZr=w1200-h630-p-k-no-nu",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "http://jpkoning.blogspot.com/2022/01/yemens-bifurcated-monetary-system.html",
       "audio": [],
-      "description": "When I started dating my partner, I quickly noticed that grad school was making her very sad.\nThis was shortly after I’d started leading an engineering team at Wave, and so the “obvious” hypothesis to me was that the management (okay, “management”) one gets in graduate school is totally ineffective.\nMost graduate students, including Eve, start school right after college, i.e., without much clue about how to effectively do self-directed work.",
+      "description": "Over the last five years Yemen has stumbled into a unique monetary situation. I initially wrote about Yemen's odd currency status two years ...",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "benkuhn.net",
+      "site_name": "",
       "video": [],
       "favicon": {
-        "url": "/favicon.ico"
+        "url": "http://jpkoning.blogspot.com/favicon.ico"
       }
     }
   },
@@ -682,8 +682,8 @@
     "publisher": "jeffgeerling.com",
     "description": "",
     "by": "geerlingguy",
-    "points": 54,
-    "comment_count": 23,
+    "points": 58,
+    "comment_count": 28,
     "hn_item": {
       "by": "gballan",
       "descendants": 156,
@@ -813,7 +813,7 @@
     "publisher": "Pixie Labs Blog",
     "description": "In today's world full of microservices, gaining observability into the messages sent between services is critical to understanding and troubleshooting issues…",
     "by": "nserrino",
-    "points": 31,
+    "points": 34,
     "comment_count": 1,
     "hn_item": {
       "by": "gballan",
@@ -883,8 +883,8 @@
     "publisher": "The New York Times",
     "description": "The ends of the college and pro football seasons were already a perilous time for people recovering from a gambling addiction. Then came the onslaught of ads for legal sports betting.",
     "by": "jbegley",
-    "points": 111,
-    "comment_count": 168,
+    "points": 114,
+    "comment_count": 170,
     "hn_item": {
       "by": "gballan",
       "descendants": 156,
@@ -953,8 +953,8 @@
     "publisher": "CNN",
     "description": "What started out as a couple's renovation project to convert a historic building into a bar has turned into an effort to restore decades-old artwork in a small Washington town.",
     "by": "wglb",
-    "points": 40,
-    "comment_count": 8,
+    "points": 41,
+    "comment_count": 9,
     "hn_item": {
       "by": "gballan",
       "descendants": 156,
@@ -1023,8 +1023,8 @@
     "publisher": "meadhbh.hamrick.rocks",
     "description": "An overview of the IETF's Virtual Worlds Agent Region Protocol and it's development.",
     "by": "dingosity",
-    "points": 37,
-    "comment_count": 35,
+    "points": 38,
+    "comment_count": 37,
     "hn_item": {
       "by": "gballan",
       "descendants": 156,
@@ -1084,8 +1084,8 @@
     "publisher": "CNBC",
     "description": "Sony has agreed to acquire Bungie in a $3.6 billion deal, continuing January's torrid pace of video game consolidation",
     "by": "daveaiello",
-    "points": 214,
-    "comment_count": 181,
+    "points": 220,
+    "comment_count": 185,
     "hn_item": {
       "by": "gballan",
       "descendants": 156,
@@ -1145,67 +1145,6 @@
     }
   },
   {
-    "id": 30137127,
-    "title": "Reducing the Size of Large PDFs",
-    "url": "https://leancrew.com/all-this/2022/01/reducing-the-size-of-large-pdfs/",
-    "time": 1643550336,
-    "image": "",
-    "icon": "https://leancrew.com/all-this/2022/01/reducing-the-size-of-large-pdfs/../../../resources/snowman-200.png",
-    "publisher": "leancrew.com",
-    "description": "",
-    "by": "ingve",
-    "points": 48,
-    "comment_count": 14,
-    "hn_item": {
-      "by": "gballan",
-      "descendants": 156,
-      "id": 30144805,
-      "kids": [
-        30145624,
-        30146670,
-        30149605,
-        30149271,
-        30145376,
-        30145576,
-        30153054,
-        30154040,
-        30148863,
-        30146426,
-        30150322,
-        30152549,
-        30152184,
-        30145888,
-        30146105,
-        30145424,
-        30150353,
-        30146422,
-        30146637,
-        30149567
-      ],
-      "score": 234,
-      "time": 1643606336,
-      "title": "Examples of common false beliefs in mathematics",
-      "type": "story",
-      "url": "https://mathoverflow.net/questions/23478/examples-of-common-false-beliefs-in-mathematics"
-    },
-    "og_item": {
-      "title": "Reducing the size of large PDFs - All this",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "../../../resources/snowman-200.png"
-      }
-    }
-  },
-  {
     "id": 30153841,
     "title": "Spanish Wordle",
     "url": "https://wordle.santiagodebus.com/",
@@ -1215,7 +1154,7 @@
     "publisher": "wordle.santiagodebus.com",
     "description": "Adivine la palabra en 6 intentos. Un nuevo desafio es generado cada día.",
     "by": "sandes",
-    "points": 23,
+    "points": 25,
     "comment_count": 17,
     "hn_item": {
       "by": "gballan",
@@ -1276,6 +1215,128 @@
     }
   },
   {
+    "id": 30137127,
+    "title": "Reducing the Size of Large PDFs",
+    "url": "https://leancrew.com/all-this/2022/01/reducing-the-size-of-large-pdfs/",
+    "time": 1643550336,
+    "image": "",
+    "icon": "https://leancrew.com/all-this/2022/01/reducing-the-size-of-large-pdfs/../../../resources/snowman-200.png",
+    "publisher": "leancrew.com",
+    "description": "",
+    "by": "ingve",
+    "points": 50,
+    "comment_count": 14,
+    "hn_item": {
+      "by": "gballan",
+      "descendants": 156,
+      "id": 30144805,
+      "kids": [
+        30145624,
+        30146670,
+        30149605,
+        30149271,
+        30145376,
+        30145576,
+        30153054,
+        30154040,
+        30148863,
+        30146426,
+        30150322,
+        30152549,
+        30152184,
+        30145888,
+        30146105,
+        30145424,
+        30150353,
+        30146422,
+        30146637,
+        30149567
+      ],
+      "score": 234,
+      "time": 1643606336,
+      "title": "Examples of common false beliefs in mathematics",
+      "type": "story",
+      "url": "https://mathoverflow.net/questions/23478/examples-of-common-false-beliefs-in-mathematics"
+    },
+    "og_item": {
+      "title": "Reducing the size of large PDFs - All this",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "../../../resources/snowman-200.png"
+      }
+    }
+  },
+  {
+    "id": 30155295,
+    "title": "Pay Attention to WebAssembly",
+    "url": "https://harshal.sheth.io/2022/01/31/webassembly.html",
+    "time": 1643666927,
+    "image": "",
+    "icon": "https://harshal.sheth.io/favicon.ico",
+    "publisher": "Harshal Sheth",
+    "description": "\u003c!—–",
+    "by": "hsheth2",
+    "points": 6,
+    "comment_count": 1,
+    "hn_item": {
+      "by": "gballan",
+      "descendants": 156,
+      "id": 30144805,
+      "kids": [
+        30145624,
+        30146670,
+        30149605,
+        30149271,
+        30145376,
+        30145576,
+        30153054,
+        30154040,
+        30148863,
+        30146426,
+        30150322,
+        30152549,
+        30152184,
+        30145888,
+        30146105,
+        30145424,
+        30150353,
+        30146422,
+        30146637,
+        30149567
+      ],
+      "score": 234,
+      "time": 1643606336,
+      "title": "Examples of common false beliefs in mathematics",
+      "type": "story",
+      "url": "https://mathoverflow.net/questions/23478/examples-of-common-false-beliefs-in-mathematics"
+    },
+    "og_item": {
+      "title": "Pay attention to WebAssembly",
+      "type": "article",
+      "image": [],
+      "url": "https://harshal.sheth.io/2022/01/31/webassembly.html",
+      "audio": [],
+      "description": "\u003c!—–",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Harshal Sheth",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30150219,
     "title": "Show HN: Rich-CLI – A CLI toolbox for highlighting, Markdown, JSON and rich text",
     "url": "https://github.com/Textualize/rich-cli",
@@ -1285,7 +1346,7 @@
     "publisher": "GitHub",
     "description": "Rich-cli is a command line toolbox for fancy output in the terminal - GitHub - Textualize/rich-cli: Rich-cli is a command line toolbox for fancy output in the terminal",
     "by": "willm",
-    "points": 73,
+    "points": 75,
     "comment_count": 26,
     "hn_item": {
       "by": "gballan",
@@ -1346,17 +1407,17 @@
     }
   },
   {
-    "id": 30149800,
-    "title": "Adblocking people and non-adblocking people experience a different web",
-    "url": "https://imlefthanded.com/2022/adblocking-people-and-non-adblocking-people-experience-a-totally-different-web/",
-    "time": 1643646392,
+    "id": 30151021,
+    "title": "YouTube ranks “wholesome and funny” comments higher?",
+    "url": "https://twitter.com/patrickc/status/1487982804784726018",
+    "time": 1643650806,
     "image": "",
-    "icon": "https://imlefthanded.com/favicon.ico",
-    "publisher": "imlefthanded.com",
+    "icon": "https://abs.twimg.com/favicons/twitter.2.ico",
+    "publisher": "Twitter",
     "description": "",
-    "by": "decrypt",
-    "points": 599,
-    "comment_count": 625,
+    "by": "ipsum2",
+    "points": 92,
+    "comment_count": 118,
     "hn_item": {
       "by": "gballan",
       "descendants": 156,
@@ -1390,7 +1451,7 @@
       "url": "https://mathoverflow.net/questions/23478/examples-of-common-false-beliefs-in-mathematics"
     },
     "og_item": {
-      "title": "Just a moment...",
+      "title": "",
       "type": "",
       "image": [],
       "url": "",
@@ -1399,10 +1460,10 @@
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "",
+      "site_name": "Twitter",
       "video": [],
       "favicon": {
-        "url": "/favicon.ico"
+        "url": "//abs.twimg.com/favicons/twitter.2.ico"
       }
     }
   },
@@ -1411,12 +1472,12 @@
     "title": "Boyfriend-alert – A light based alert system",
     "url": "https://github.com/jscd/Boyfriend-Alert",
     "time": 1643619852,
-    "image": "https://opengraph.githubassets.com/a6b15a10e10066dd7afea341e64b6311cca53f9b4d05ce726f404b9cad973d03/jscd/Boyfriend-Alert",
+    "image": "https://opengraph.githubassets.com/f55c0f1d7a9fdbe3a707f0823d51f63afa9867ae28932960e50663c7ccde0c17/jscd/Boyfriend-Alert",
     "icon": "https://github.githubassets.com/favicons/favicon.svg",
     "publisher": "GitHub",
     "description": "A light based alert system. Contribute to jscd/Boyfriend-Alert development by creating an account on GitHub.",
     "by": "rgun",
-    "points": 209,
+    "points": 211,
     "comment_count": 162,
     "hn_item": {
       "by": "gballan",
@@ -1455,7 +1516,7 @@
       "type": "object",
       "image": [
         {
-          "url": "https://opengraph.githubassets.com/a6b15a10e10066dd7afea341e64b6311cca53f9b4d05ce726f404b9cad973d03/jscd/Boyfriend-Alert",
+          "url": "https://opengraph.githubassets.com/f55c0f1d7a9fdbe3a707f0823d51f63afa9867ae28932960e50663c7ccde0c17/jscd/Boyfriend-Alert",
           "secure_url": "",
           "type": "",
           "width": 1200,
@@ -1486,7 +1547,7 @@
     "publisher": "leadership.garden",
     "description": "",
     "by": "ochronus",
-    "points": 58,
+    "points": 60,
     "comment_count": 28,
     "hn_item": {
       "by": "gballan",
@@ -1538,17 +1599,17 @@
     }
   },
   {
-    "id": 30151021,
-    "title": "YouTube ranks “wholesome and funny” comments higher?",
-    "url": "https://twitter.com/patrickc/status/1487982804784726018",
-    "time": 1643650806,
+    "id": 30149800,
+    "title": "Adblocking people and non-adblocking people experience a different web",
+    "url": "https://imlefthanded.com/2022/adblocking-people-and-non-adblocking-people-experience-a-totally-different-web/",
+    "time": 1643646392,
     "image": "",
-    "icon": "https://abs.twimg.com/favicons/twitter.2.ico",
-    "publisher": "Twitter",
+    "icon": "https://imlefthanded.com/favicon.ico",
+    "publisher": "imlefthanded.com",
     "description": "",
-    "by": "ipsum2",
-    "points": 89,
-    "comment_count": 116,
+    "by": "decrypt",
+    "points": 604,
+    "comment_count": 631,
     "hn_item": {
       "by": "gballan",
       "descendants": 156,
@@ -1582,68 +1643,7 @@
       "url": "https://mathoverflow.net/questions/23478/examples-of-common-false-beliefs-in-mathematics"
     },
     "og_item": {
-      "title": "",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Twitter",
-      "video": [],
-      "favicon": {
-        "url": "//abs.twimg.com/favicons/twitter.2.ico"
-      }
-    }
-  },
-  {
-    "id": 30152930,
-    "title": "Software Development Languages: Haskell",
-    "url": "https://www.fosskers.ca/en/blog/haskell-software-dev",
-    "time": 1643657291,
-    "image": "",
-    "icon": "https://www.fosskers.ca/assets/images/favicon-32x32.png",
-    "publisher": "fosskers.ca",
-    "description": "",
-    "by": "colingw",
-    "points": 23,
-    "comment_count": 5,
-    "hn_item": {
-      "by": "gballan",
-      "descendants": 156,
-      "id": 30144805,
-      "kids": [
-        30145624,
-        30146670,
-        30149605,
-        30149271,
-        30145376,
-        30145576,
-        30153054,
-        30154040,
-        30148863,
-        30146426,
-        30150322,
-        30152549,
-        30152184,
-        30145888,
-        30146105,
-        30145424,
-        30150353,
-        30146422,
-        30146637,
-        30149567
-      ],
-      "score": 234,
-      "time": 1643606336,
-      "title": "Examples of common false beliefs in mathematics",
-      "type": "story",
-      "url": "https://mathoverflow.net/questions/23478/examples-of-common-false-beliefs-in-mathematics"
-    },
-    "og_item": {
-      "title": "Colin Woodbury",
+      "title": "Just a moment...",
       "type": "",
       "image": [],
       "url": "",
@@ -1655,77 +1655,7 @@
       "site_name": "",
       "video": [],
       "favicon": {
-        "url": "/assets/images/favicon-32x32.png"
-      }
-    }
-  },
-  {
-    "id": 30149213,
-    "title": "Learn Elisp the Hard Way (2011)",
-    "url": "https://github.com/hypernumbers/learn_elisp_the_hard_way",
-    "time": 1643643871,
-    "image": "https://opengraph.githubassets.com/8d6293eeaf6faef43d5664f9f5c283ad278db3cb74d1c51d1dea147cd4d09cfc/hypernumbers/learn_elisp_the_hard_way",
-    "icon": "https://github.githubassets.com/favicons/favicon.svg",
-    "publisher": "GitHub",
-    "description": "A book about learning eLisp for customising Emacs the hard way - see the Gist https://gist.github.com/754568 - GitHub - hypernumbers/learn_elisp_the_hard_way: A book about learning eLisp for custom...",
-    "by": "AndroidKitKat",
-    "points": 67,
-    "comment_count": 21,
-    "hn_item": {
-      "by": "gballan",
-      "descendants": 156,
-      "id": 30144805,
-      "kids": [
-        30145624,
-        30146670,
-        30149605,
-        30149271,
-        30145376,
-        30145576,
-        30153054,
-        30154040,
-        30148863,
-        30146426,
-        30150322,
-        30152549,
-        30152184,
-        30145888,
-        30146105,
-        30145424,
-        30150353,
-        30146422,
-        30146637,
-        30149567
-      ],
-      "score": 234,
-      "time": 1643606336,
-      "title": "Examples of common false beliefs in mathematics",
-      "type": "story",
-      "url": "https://mathoverflow.net/questions/23478/examples-of-common-false-beliefs-in-mathematics"
-    },
-    "og_item": {
-      "title": "GitHub - hypernumbers/learn_elisp_the_hard_way: A book about learning eLisp for customising Emacs the hard way - see the Gist https://gist.github.com/754568",
-      "type": "object",
-      "image": [
-        {
-          "url": "https://opengraph.githubassets.com/8d6293eeaf6faef43d5664f9f5c283ad278db3cb74d1c51d1dea147cd4d09cfc/hypernumbers/learn_elisp_the_hard_way",
-          "secure_url": "",
-          "type": "",
-          "width": 1200,
-          "height": 600,
-          "alt": ""
-        }
-      ],
-      "url": "https://github.com/hypernumbers/learn_elisp_the_hard_way",
-      "audio": [],
-      "description": "A book about learning eLisp for customising Emacs the hard way - see the Gist https://gist.github.com/754568 - GitHub - hypernumbers/learn_elisp_the_hard_way: A book about learning eLisp for custom...",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "GitHub",
-      "video": [],
-      "favicon": {
-        "url": "https://github.githubassets.com/favicons/favicon.svg"
+        "url": "/favicon.ico"
       }
     }
   },
@@ -1739,7 +1669,7 @@
     "publisher": "Washington Post",
     "description": "Called preprint servers, these free sites allow the public to read such studies before their formal publication. They are shifting how people approach new research, experts say.",
     "by": "bookofjoe",
-    "points": 8,
+    "points": 10,
     "comment_count": 1,
     "hn_item": {
       "by": "gballan",
@@ -1800,6 +1730,137 @@
     }
   },
   {
+    "id": 30149213,
+    "title": "Learn Elisp the Hard Way (2011)",
+    "url": "https://github.com/hypernumbers/learn_elisp_the_hard_way",
+    "time": 1643643871,
+    "image": "https://opengraph.githubassets.com/8d6293eeaf6faef43d5664f9f5c283ad278db3cb74d1c51d1dea147cd4d09cfc/hypernumbers/learn_elisp_the_hard_way",
+    "icon": "https://github.githubassets.com/favicons/favicon.svg",
+    "publisher": "GitHub",
+    "description": "A book about learning eLisp for customising Emacs the hard way - see the Gist https://gist.github.com/754568 - GitHub - hypernumbers/learn_elisp_the_hard_way: A book about learning eLisp for custom...",
+    "by": "AndroidKitKat",
+    "points": 68,
+    "comment_count": 21,
+    "hn_item": {
+      "by": "gballan",
+      "descendants": 156,
+      "id": 30144805,
+      "kids": [
+        30145624,
+        30146670,
+        30149605,
+        30149271,
+        30145376,
+        30145576,
+        30153054,
+        30154040,
+        30148863,
+        30146426,
+        30150322,
+        30152549,
+        30152184,
+        30145888,
+        30146105,
+        30145424,
+        30150353,
+        30146422,
+        30146637,
+        30149567
+      ],
+      "score": 234,
+      "time": 1643606336,
+      "title": "Examples of common false beliefs in mathematics",
+      "type": "story",
+      "url": "https://mathoverflow.net/questions/23478/examples-of-common-false-beliefs-in-mathematics"
+    },
+    "og_item": {
+      "title": "GitHub - hypernumbers/learn_elisp_the_hard_way: A book about learning eLisp for customising Emacs the hard way - see the Gist https://gist.github.com/754568",
+      "type": "object",
+      "image": [
+        {
+          "url": "https://opengraph.githubassets.com/8d6293eeaf6faef43d5664f9f5c283ad278db3cb74d1c51d1dea147cd4d09cfc/hypernumbers/learn_elisp_the_hard_way",
+          "secure_url": "",
+          "type": "",
+          "width": 1200,
+          "height": 600,
+          "alt": ""
+        }
+      ],
+      "url": "https://github.com/hypernumbers/learn_elisp_the_hard_way",
+      "audio": [],
+      "description": "A book about learning eLisp for customising Emacs the hard way - see the Gist https://gist.github.com/754568 - GitHub - hypernumbers/learn_elisp_the_hard_way: A book about learning eLisp for custom...",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "GitHub",
+      "video": [],
+      "favicon": {
+        "url": "https://github.githubassets.com/favicons/favicon.svg"
+      }
+    }
+  },
+  {
+    "id": 30152930,
+    "title": "Software Development Languages: Haskell",
+    "url": "https://www.fosskers.ca/en/blog/haskell-software-dev",
+    "time": 1643657291,
+    "image": "",
+    "icon": "https://www.fosskers.ca/assets/images/favicon-32x32.png",
+    "publisher": "fosskers.ca",
+    "description": "",
+    "by": "colingw",
+    "points": 24,
+    "comment_count": 6,
+    "hn_item": {
+      "by": "gballan",
+      "descendants": 156,
+      "id": 30144805,
+      "kids": [
+        30145624,
+        30146670,
+        30149605,
+        30149271,
+        30145376,
+        30145576,
+        30153054,
+        30154040,
+        30148863,
+        30146426,
+        30150322,
+        30152549,
+        30152184,
+        30145888,
+        30146105,
+        30145424,
+        30150353,
+        30146422,
+        30146637,
+        30149567
+      ],
+      "score": 234,
+      "time": 1643606336,
+      "title": "Examples of common false beliefs in mathematics",
+      "type": "story",
+      "url": "https://mathoverflow.net/questions/23478/examples-of-common-false-beliefs-in-mathematics"
+    },
+    "og_item": {
+      "title": "Colin Woodbury",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/assets/images/favicon-32x32.png"
+      }
+    }
+  },
+  {
     "id": 30151963,
     "title": "Gains I'm seeing from my second brain tool",
     "url": "https://joeldare.com/gains-im-seeing-from-my-second-brain-tool.html",
@@ -1809,8 +1870,8 @@
     "publisher": "Joel Dare",
     "description": "",
     "by": "codazoda",
-    "points": 116,
-    "comment_count": 91,
+    "points": 117,
+    "comment_count": 92,
     "hn_item": {
       "by": "gballan",
       "descendants": 156,
@@ -1861,67 +1922,6 @@
     }
   },
   {
-    "id": 30150749,
-    "title": "Does my site need HTTPS?",
-    "url": "https://doesmysiteneedhttps.com/",
-    "time": 1643649923,
-    "image": "",
-    "icon": "https://doesmysiteneedhttps.com/favicon.ico",
-    "publisher": "Caddy",
-    "description": "Find out if your site needs HTTPS.",
-    "by": "WallyFunk",
-    "points": 74,
-    "comment_count": 86,
-    "hn_item": {
-      "by": "gballan",
-      "descendants": 156,
-      "id": 30144805,
-      "kids": [
-        30145624,
-        30146670,
-        30149605,
-        30149271,
-        30145376,
-        30145576,
-        30153054,
-        30154040,
-        30148863,
-        30146426,
-        30150322,
-        30152549,
-        30152184,
-        30145888,
-        30146105,
-        30145424,
-        30150353,
-        30146422,
-        30146637,
-        30149567
-      ],
-      "score": 234,
-      "time": 1643606336,
-      "title": "Examples of common false beliefs in mathematics",
-      "type": "story",
-      "url": "https://mathoverflow.net/questions/23478/examples-of-common-false-beliefs-in-mathematics"
-    },
-    "og_item": {
-      "title": "Does my site need HTTPS?",
-      "type": "article",
-      "image": [],
-      "url": "/",
-      "audio": [],
-      "description": "Find out if your site needs HTTPS.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Caddy",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30137254,
     "title": "Autodocumenting Makefiles",
     "url": "https://daniel.feldroy.com/posts/autodocumenting-makefiles",
@@ -1931,7 +1931,7 @@
     "publisher": "Daniel Roy Greenfeld",
     "description": "Make Your Makefiles Make Your Day!",
     "by": "JNRowe",
-    "points": 48,
+    "points": 49,
     "comment_count": 29,
     "hn_item": {
       "by": "gballan",
@@ -2062,17 +2062,17 @@
     }
   },
   {
-    "id": 30153624,
-    "title": "DockerHub Active Incident",
-    "url": "https://status.docker.com/pages/history/533c6539221ae15e3f000031",
-    "time": 1643660098,
+    "id": 30150749,
+    "title": "Does my site need HTTPS?",
+    "url": "https://doesmysiteneedhttps.com/",
+    "time": 1643649923,
     "image": "",
-    "icon": "https://image.status.io/PYCmnvEWUfEF.ico",
-    "publisher": "status.docker.com",
-    "description": "Current system status. View active incidents or upcoming maintenances. Subscribe to receive status notifications.",
-    "by": "mkl95",
-    "points": 9,
-    "comment_count": 2,
+    "icon": "https://doesmysiteneedhttps.com/favicon.ico",
+    "publisher": "Caddy",
+    "description": "Find out if your site needs HTTPS.",
+    "by": "WallyFunk",
+    "points": 76,
+    "comment_count": 93,
     "hn_item": {
       "by": "gballan",
       "descendants": 156,
@@ -2106,19 +2106,19 @@
       "url": "https://mathoverflow.net/questions/23478/examples-of-common-false-beliefs-in-mathematics"
     },
     "og_item": {
-      "title": "Docker system status real-time view",
-      "type": "",
+      "title": "Does my site need HTTPS?",
+      "type": "article",
       "image": [],
-      "url": "",
+      "url": "/",
       "audio": [],
-      "description": "Current system status. View active incidents or upcoming maintenances. Subscribe to receive status notifications.",
+      "description": "Find out if your site needs HTTPS.",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "",
+      "site_name": "Caddy",
       "video": [],
       "favicon": {
-        "url": "//image.status.io/PYCmnvEWUfEF.ico"
+        "url": "/favicon.ico"
       }
     }
   },
@@ -2193,6 +2193,67 @@
     }
   },
   {
+    "id": 30153624,
+    "title": "DockerHub Active Incident",
+    "url": "https://status.docker.com/pages/history/533c6539221ae15e3f000031",
+    "time": 1643660098,
+    "image": "",
+    "icon": "https://image.status.io/PYCmnvEWUfEF.ico",
+    "publisher": "status.docker.com",
+    "description": "Current system status. View active incidents or upcoming maintenances. Subscribe to receive status notifications.",
+    "by": "mkl95",
+    "points": 9,
+    "comment_count": 2,
+    "hn_item": {
+      "by": "gballan",
+      "descendants": 156,
+      "id": 30144805,
+      "kids": [
+        30145624,
+        30146670,
+        30149605,
+        30149271,
+        30145376,
+        30145576,
+        30153054,
+        30154040,
+        30148863,
+        30146426,
+        30150322,
+        30152549,
+        30152184,
+        30145888,
+        30146105,
+        30145424,
+        30150353,
+        30146422,
+        30146637,
+        30149567
+      ],
+      "score": 234,
+      "time": 1643606336,
+      "title": "Examples of common false beliefs in mathematics",
+      "type": "story",
+      "url": "https://mathoverflow.net/questions/23478/examples-of-common-false-beliefs-in-mathematics"
+    },
+    "og_item": {
+      "title": "Docker system status real-time view",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "Current system status. View active incidents or upcoming maintenances. Subscribe to receive status notifications.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "//image.status.io/PYCmnvEWUfEF.ico"
+      }
+    }
+  },
+  {
     "id": 30154492,
     "title": "Phase I clinical trial of Moderna mRNA vaccine for Epstein-Barr virus starting",
     "url": "https://www.umassmed.edu/news/news-archives/2022/01/phase-i-clinical-trial-of-moderna-mrna-vaccine-for-epstein-barr-virus-starting-at-umass-chan/",
@@ -2259,6 +2320,259 @@
       "video": [],
       "favicon": {
         "url": "/globalassets/12/favicon/umass-favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30146052,
+    "title": "The Awk state machine parser pattern (2018)",
+    "url": "https://two-wrongs.com/awk-state-machine-parser-pattern.html",
+    "time": 1643620307,
+    "image": "",
+    "icon": "https://two-wrongs.com/favicon.ico",
+    "publisher": "two-wrongs.com",
+    "description": "",
+    "by": "Tomte",
+    "points": 155,
+    "comment_count": 26,
+    "hn_item": {
+      "by": "gballan",
+      "descendants": 156,
+      "id": 30144805,
+      "kids": [
+        30145624,
+        30146670,
+        30149605,
+        30149271,
+        30145376,
+        30145576,
+        30153054,
+        30154040,
+        30148863,
+        30146426,
+        30150322,
+        30152549,
+        30152184,
+        30145888,
+        30146105,
+        30145424,
+        30150353,
+        30146422,
+        30146637,
+        30149567
+      ],
+      "score": 234,
+      "time": 1643606336,
+      "title": "Examples of common false beliefs in mathematics",
+      "type": "story",
+      "url": "https://mathoverflow.net/questions/23478/examples-of-common-false-beliefs-in-mathematics"
+    },
+    "og_item": {
+      "title": "The AWK State Machine Parser Pattern",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30149108,
+    "title": "Boring Technology Checklist",
+    "url": "https://blog.begin.com/posts/2022-01-27-the-boring-technology-checklist",
+    "time": 1643643407,
+    "image": "",
+    "icon": "https://static.begin.com/web/favicon/favicon-16-5360d8ce95.png",
+    "publisher": "blog.begin.com",
+    "description": "Technologists love new technology—that new shiny thing. But, often, the promise of a new solution introduces new unforeseen problems creating unplanned challen…",
+    "by": "macdonst",
+    "points": 150,
+    "comment_count": 93,
+    "hn_item": {
+      "by": "gballan",
+      "descendants": 156,
+      "id": 30144805,
+      "kids": [
+        30145624,
+        30146670,
+        30149605,
+        30149271,
+        30145376,
+        30145576,
+        30153054,
+        30154040,
+        30148863,
+        30146426,
+        30150322,
+        30152549,
+        30152184,
+        30145888,
+        30146105,
+        30145424,
+        30150353,
+        30146422,
+        30146637,
+        30149567
+      ],
+      "score": 234,
+      "time": 1643606336,
+      "title": "Examples of common false beliefs in mathematics",
+      "type": "story",
+      "url": "https://mathoverflow.net/questions/23478/examples-of-common-false-beliefs-in-mathematics"
+    },
+    "og_item": {
+      "title": "The Boring Technology Checklist - Begin",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "Technologists love new technology—that new shiny thing. But, often, the promise of a new solution introduces new unforeseen problems creating unplanned challen…",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "https://static.begin.com/web/favicon/favicon-16-5360d8ce95.png"
+      }
+    }
+  },
+  {
+    "id": 30149099,
+    "title": "Google critiqued the practice of displaying ads above search results",
+    "url": "https://twitter.com/krebs_adrian/status/1488173888068542466",
+    "time": 1643643385,
+    "image": "",
+    "icon": "https://abs.twimg.com/favicons/twitter.2.ico",
+    "publisher": "Twitter",
+    "description": "",
+    "by": "hubraumhugo",
+    "points": 289,
+    "comment_count": 136,
+    "hn_item": {
+      "by": "gballan",
+      "descendants": 156,
+      "id": 30144805,
+      "kids": [
+        30145624,
+        30146670,
+        30149605,
+        30149271,
+        30145376,
+        30145576,
+        30153054,
+        30154040,
+        30148863,
+        30146426,
+        30150322,
+        30152549,
+        30152184,
+        30145888,
+        30146105,
+        30145424,
+        30150353,
+        30146422,
+        30146637,
+        30149567
+      ],
+      "score": 234,
+      "time": 1643606336,
+      "title": "Examples of common false beliefs in mathematics",
+      "type": "story",
+      "url": "https://mathoverflow.net/questions/23478/examples-of-common-false-beliefs-in-mathematics"
+    },
+    "og_item": {
+      "title": "",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Twitter",
+      "video": [],
+      "favicon": {
+        "url": "//abs.twimg.com/favicons/twitter.2.ico"
+      }
+    }
+  },
+  {
+    "id": 30154070,
+    "title": "Realtime Inequality",
+    "url": "https://realtimeinequality.org/",
+    "time": 1643662001,
+    "image": "https://realtimeinequality.org/rti-twitter.jpg",
+    "icon": "https://realtimeinequality.org/favicon.ico",
+    "publisher": "realtimeinequality.org",
+    "description": "Visualizing income and wealth inequality in the U.S. in real time.",
+    "by": "jbegley",
+    "points": 8,
+    "comment_count": 1,
+    "hn_item": {
+      "by": "gballan",
+      "descendants": 156,
+      "id": 30144805,
+      "kids": [
+        30145624,
+        30146670,
+        30149605,
+        30149271,
+        30145376,
+        30145576,
+        30153054,
+        30154040,
+        30148863,
+        30146426,
+        30150322,
+        30152549,
+        30152184,
+        30145888,
+        30146105,
+        30145424,
+        30150353,
+        30146422,
+        30146637,
+        30149567
+      ],
+      "score": 234,
+      "time": 1643606336,
+      "title": "Examples of common false beliefs in mathematics",
+      "type": "story",
+      "url": "https://mathoverflow.net/questions/23478/examples-of-common-false-beliefs-in-mathematics"
+    },
+    "og_item": {
+      "title": "Realtime Inequality",
+      "type": "website",
+      "image": [
+        {
+          "url": "https://realtimeinequality.org/rti-twitter.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "",
+      "audio": [],
+      "description": "Visualizing income and wealth inequality in the U.S. in real time.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
       }
     }
   },
@@ -2333,189 +2647,6 @@
     }
   },
   {
-    "id": 30146052,
-    "title": "The Awk state machine parser pattern (2018)",
-    "url": "https://two-wrongs.com/awk-state-machine-parser-pattern.html",
-    "time": 1643620307,
-    "image": "",
-    "icon": "https://two-wrongs.com/favicon.ico",
-    "publisher": "two-wrongs.com",
-    "description": "",
-    "by": "Tomte",
-    "points": 155,
-    "comment_count": 26,
-    "hn_item": {
-      "by": "gballan",
-      "descendants": 156,
-      "id": 30144805,
-      "kids": [
-        30145624,
-        30146670,
-        30149605,
-        30149271,
-        30145376,
-        30145576,
-        30153054,
-        30154040,
-        30148863,
-        30146426,
-        30150322,
-        30152549,
-        30152184,
-        30145888,
-        30146105,
-        30145424,
-        30150353,
-        30146422,
-        30146637,
-        30149567
-      ],
-      "score": 234,
-      "time": 1643606336,
-      "title": "Examples of common false beliefs in mathematics",
-      "type": "story",
-      "url": "https://mathoverflow.net/questions/23478/examples-of-common-false-beliefs-in-mathematics"
-    },
-    "og_item": {
-      "title": "The AWK State Machine Parser Pattern",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30149099,
-    "title": "Google critiqued the practice of displaying ads above search results",
-    "url": "https://twitter.com/krebs_adrian/status/1488173888068542466",
-    "time": 1643643385,
-    "image": "",
-    "icon": "https://abs.twimg.com/favicons/twitter.2.ico",
-    "publisher": "Twitter",
-    "description": "",
-    "by": "hubraumhugo",
-    "points": 288,
-    "comment_count": 135,
-    "hn_item": {
-      "by": "gballan",
-      "descendants": 156,
-      "id": 30144805,
-      "kids": [
-        30145624,
-        30146670,
-        30149605,
-        30149271,
-        30145376,
-        30145576,
-        30153054,
-        30154040,
-        30148863,
-        30146426,
-        30150322,
-        30152549,
-        30152184,
-        30145888,
-        30146105,
-        30145424,
-        30150353,
-        30146422,
-        30146637,
-        30149567
-      ],
-      "score": 234,
-      "time": 1643606336,
-      "title": "Examples of common false beliefs in mathematics",
-      "type": "story",
-      "url": "https://mathoverflow.net/questions/23478/examples-of-common-false-beliefs-in-mathematics"
-    },
-    "og_item": {
-      "title": "",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Twitter",
-      "video": [],
-      "favicon": {
-        "url": "//abs.twimg.com/favicons/twitter.2.ico"
-      }
-    }
-  },
-  {
-    "id": 30149108,
-    "title": "Boring Technology Checklist",
-    "url": "https://blog.begin.com/posts/2022-01-27-the-boring-technology-checklist",
-    "time": 1643643407,
-    "image": "",
-    "icon": "https://static.begin.com/web/favicon/favicon-16-5360d8ce95.png",
-    "publisher": "blog.begin.com",
-    "description": "Technologists love new technology—that new shiny thing. But, often, the promise of a new solution introduces new unforeseen problems creating unplanned challen…",
-    "by": "macdonst",
-    "points": 149,
-    "comment_count": 93,
-    "hn_item": {
-      "by": "gballan",
-      "descendants": 156,
-      "id": 30144805,
-      "kids": [
-        30145624,
-        30146670,
-        30149605,
-        30149271,
-        30145376,
-        30145576,
-        30153054,
-        30154040,
-        30148863,
-        30146426,
-        30150322,
-        30152549,
-        30152184,
-        30145888,
-        30146105,
-        30145424,
-        30150353,
-        30146422,
-        30146637,
-        30149567
-      ],
-      "score": 234,
-      "time": 1643606336,
-      "title": "Examples of common false beliefs in mathematics",
-      "type": "story",
-      "url": "https://mathoverflow.net/questions/23478/examples-of-common-false-beliefs-in-mathematics"
-    },
-    "og_item": {
-      "title": "The Boring Technology Checklist - Begin",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "Technologists love new technology—that new shiny thing. But, often, the promise of a new solution introduces new unforeseen problems creating unplanned challen…",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "https://static.begin.com/web/favicon/favicon-16-5360d8ce95.png"
-      }
-    }
-  },
-  {
     "id": 30144101,
     "title": "Please make a dumb car",
     "url": "https://techcrunch.com/2022/01/29/please-make-a-dumb-car/",
@@ -2525,8 +2656,8 @@
     "publisher": "TechCrunch",
     "description": "Today’s cars are dumb where they should be smart, and smart where they should be dumb. Enough already. Make a car that’s pretty much all dumb and watch it sell — because what automakers are giving people is so bad, they’ll pay more to have less of it. Cars now are like budget smar…",
     "by": "wrycoder",
-    "points": 455,
-    "comment_count": 537,
+    "points": 457,
+    "comment_count": 541,
     "hn_item": {
       "by": "gballan",
       "descendants": 156,
@@ -2596,7 +2727,7 @@
     "description": "A new biologically inspired battery membrane has enabled a battery with five times the capacity of the industry-standard lithium ion design to run for the thousand-plus cycles needed to power an electric car.\n\nA network of aramid nanofibers, recycled from Kevlar, can enable lithium-sulfur batterie",
     "by": "maeln",
     "points": 74,
-    "comment_count": 153,
+    "comment_count": 154,
     "hn_item": {
       "by": "gballan",
       "descendants": 156,
@@ -2656,16 +2787,16 @@
     }
   },
   {
-    "id": 30154070,
-    "title": "Realtime Inequality",
-    "url": "https://realtimeinequality.org/",
-    "time": 1643662001,
-    "image": "https://realtimeinequality.org/rti-twitter.jpg",
-    "icon": "https://realtimeinequality.org/favicon.ico",
-    "publisher": "realtimeinequality.org",
-    "description": "Visualizing income and wealth inequality in the U.S. in real time.",
-    "by": "jbegley",
-    "points": 7,
+    "id": 30153326,
+    "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
+    "url": "https://ar5iv.org/",
+    "time": 1643658897,
+    "image": "https://ar5iv.org/assets/ar5iv_card.png",
+    "icon": "https://ar5iv.org/favicon.ico",
+    "publisher": "ar5iv",
+    "description": "ar5iv offers a modern web view for arXiv's preprints. An open community resource, on a quest to a full collection of high-quality documents.",
+    "by": "rg111",
+    "points": 9,
     "comment_count": 1,
     "hn_item": {
       "by": "gballan",
@@ -2700,11 +2831,11 @@
       "url": "https://mathoverflow.net/questions/23478/examples-of-common-false-beliefs-in-mathematics"
     },
     "og_item": {
-      "title": "Realtime Inequality",
-      "type": "website",
+      "title": "ar5iv – Articles from arXiv.org as responsive HTML5 web documents",
+      "type": "",
       "image": [
         {
-          "url": "https://realtimeinequality.org/rti-twitter.jpg",
+          "url": "https://ar5iv.org/assets/ar5iv_card.png",
           "secure_url": "",
           "type": "",
           "width": 0,
@@ -2712,86 +2843,16 @@
           "alt": ""
         }
       ],
-      "url": "",
+      "url": "https://ar5iv.org",
       "audio": [],
-      "description": "Visualizing income and wealth inequality in the U.S. in real time.",
+      "description": "ar5iv offers a modern web view for arXiv's preprints. An open community resource, on a quest to a full collection of high-quality documents.",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "",
+      "site_name": "ar5iv",
       "video": [],
       "favicon": {
         "url": "/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30151779,
-    "title": "Sony is buying Bungie, the developer of Destiny and original creator of Halo",
-    "url": "https://www.theverge.com/22910846/sony-bungie-acquisition-playstation-destiny-halo",
-    "time": 1643653158,
-    "image": "https://cdn.vox-cdn.com/thumbor/_8kP_DYbLyY3jgA9zvhIMrYZNy8=/0x21:1088x591/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23207703/8f2d141dbfa9c1dd61befc2de0a92266.jpeg",
-    "icon": "https://cdn.vox-cdn.com/uploads/chorus_asset/file/7395351/android-chrome-192x192.0.png",
-    "publisher": "The Verge",
-    "description": "Another huge acquisition in the gaming industry",
-    "by": "KoftaBob",
-    "points": 73,
-    "comment_count": 38,
-    "hn_item": {
-      "by": "gballan",
-      "descendants": 156,
-      "id": 30144805,
-      "kids": [
-        30145624,
-        30146670,
-        30149605,
-        30149271,
-        30145376,
-        30145576,
-        30153054,
-        30154040,
-        30148863,
-        30146426,
-        30150322,
-        30152549,
-        30152184,
-        30145888,
-        30146105,
-        30145424,
-        30150353,
-        30146422,
-        30146637,
-        30149567
-      ],
-      "score": 234,
-      "time": 1643606336,
-      "title": "Examples of common false beliefs in mathematics",
-      "type": "story",
-      "url": "https://mathoverflow.net/questions/23478/examples-of-common-false-beliefs-in-mathematics"
-    },
-    "og_item": {
-      "title": "Sony is buying Bungie, the developer of Destiny and original creator of Halo",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/_8kP_DYbLyY3jgA9zvhIMrYZNy8=/0x21:1088x591/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23207703/8f2d141dbfa9c1dd61befc2de0a92266.jpeg",
-          "secure_url": "",
-          "type": "",
-          "width": 1200,
-          "height": 630,
-          "alt": ""
-        }
-      ],
-      "url": "https://www.theverge.com/22910846/sony-bungie-acquisition-playstation-destiny-halo",
-      "audio": [],
-      "description": "Another huge acquisition in the gaming industry",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "The Verge",
-      "video": [],
-      "favicon": {
-        "url": "https://cdn.vox-cdn.com/uploads/chorus_asset/file/7395351/android-chrome-192x192.0.png"
       }
     }
   },
@@ -2936,12 +2997,82 @@
     }
   },
   {
+    "id": 30151779,
+    "title": "Sony is buying Bungie, the developer of Destiny and original creator of Halo",
+    "url": "https://www.theverge.com/22910846/sony-bungie-acquisition-playstation-destiny-halo",
+    "time": 1643653158,
+    "image": "https://cdn.vox-cdn.com/thumbor/_8kP_DYbLyY3jgA9zvhIMrYZNy8=/0x21:1088x591/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23207703/8f2d141dbfa9c1dd61befc2de0a92266.jpeg",
+    "icon": "https://cdn.vox-cdn.com/uploads/chorus_asset/file/7395351/android-chrome-192x192.0.png",
+    "publisher": "The Verge",
+    "description": "Another huge acquisition in the gaming industry",
+    "by": "KoftaBob",
+    "points": 73,
+    "comment_count": 39,
+    "hn_item": {
+      "by": "gballan",
+      "descendants": 156,
+      "id": 30144805,
+      "kids": [
+        30145624,
+        30146670,
+        30149605,
+        30149271,
+        30145376,
+        30145576,
+        30153054,
+        30154040,
+        30148863,
+        30146426,
+        30150322,
+        30152549,
+        30152184,
+        30145888,
+        30146105,
+        30145424,
+        30150353,
+        30146422,
+        30146637,
+        30149567
+      ],
+      "score": 234,
+      "time": 1643606336,
+      "title": "Examples of common false beliefs in mathematics",
+      "type": "story",
+      "url": "https://mathoverflow.net/questions/23478/examples-of-common-false-beliefs-in-mathematics"
+    },
+    "og_item": {
+      "title": "Sony is buying Bungie, the developer of Destiny and original creator of Halo",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/_8kP_DYbLyY3jgA9zvhIMrYZNy8=/0x21:1088x591/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23207703/8f2d141dbfa9c1dd61befc2de0a92266.jpeg",
+          "secure_url": "",
+          "type": "",
+          "width": 1200,
+          "height": 630,
+          "alt": ""
+        }
+      ],
+      "url": "https://www.theverge.com/22910846/sony-bungie-acquisition-playstation-destiny-halo",
+      "audio": [],
+      "description": "Another huge acquisition in the gaming industry",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "The Verge",
+      "video": [],
+      "favicon": {
+        "url": "https://cdn.vox-cdn.com/uploads/chorus_asset/file/7395351/android-chrome-192x192.0.png"
+      }
+    }
+  },
+  {
     "id": 30152168,
     "title": "Sony Buys Bungie",
     "url": "https://blog.playstation.com/2022/01/31/bungie-is-joining-playstation/",
     "time": 1643654556,
     "image": "https://blog.playstation.com/tachyon/2022/01/8f2d141dbfa9c1dd61befc2de0a92266b3e9a9d0.jpg",
-    "icon": "https://blog.playstation.com/tachyon/2019/03/cropped-pslogo.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD\u0026X-Amz-Security-Token=IQoJb3JpZ2luX2VjEP7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQCx8KKnUgxieCwNgbKR30ZvczfM5BfMDQDuao0A9FQgvgIhAIRbZfozxiRYdby6XMICYdFL3WfQxpgLkVSKLHD4ydjQKv0DCDcQABoMNTc3NDE4ODE4NDEzIgxvxr1b%2FP8kPULVxrwq2gOEoJblJCjjNxfJZcuNxr1nR2U%2FLT326AP1jadQGKK7uBJ8yE0R4pTt1CDHIagAH%2FaxVEFMc0m%2BKBCmQyz%2FwYKdY6wWPaJ%2BmcFjpSxWxxheWA0v9zfOtac9gWecxxa8fqBbvc3jNRb6cZJEKJap3QIAfJZ12W569Gj4xb6bkfSu%2BTWZzq2lJ2Fei67Z3MlTaXQQyTMZNTXKZO6iH2hqpdhUA2CRD9t6wFRlX8Dm52NduY4epKFoWdRZV6uQGfhznIi6784IorVMWhez2ibV9tvNAiesFZr4uyaduQDFWZMA6ZFFtcSjCS18bwJbHPa4Cby9go7A9eViuo%2B3YFq5ka2rZgtqBPureeuX%2B5RLobJb2EAkyJxn6m6QEJCb%2FQJ2WHfUtlnt%2FZKV6yJsDRFhdTL8im7elLSU8%2FtEgiZ%2FRx%2FN6lU00atKLf0MUqbg5KmSu76vaRp1r%2BwrQzE940JhMyy9%2Bhas8leHxy99IqsxrDdotnuQ5JtBNt6t6TWhEqNT65sWy%2BGZKK3cL7HY%2BJ%2B9zRIdrW4DSO7pbpZGQ8MUSZ%2FgU2%2FSBWIaRDfP1%2Bs5m21XmGg8W2g2B%2FVGZx2jEA5BOPcLK830NeoHJpUVrfaszEFuqvaE2rjOp85LnvcwwKfhjwY6pAGKlgiuj2Ws2voJFlvyCMe35vuL8TQEk782Iffw0Z%2F0YzD6lIfrBdA0c1PZcojVlm4Ddnu0ggVN5%2FGq%2Bi0A9dvdylGqz5qafn5USiFu0R9hB91Iva2E9ew0MAG%2BQKVDcie1bEz5zeWapl9gIaVCzU%2F148kmIRcdcAnEWC6EUshexQedCKID7JDZ5m%2FxzjiKSWaovlXjK3p5hdwkdu49IBGN6R23Zg%3D%3D\u0026X-Amz-Algorithm=AWS4-HMAC-SHA256\u0026X-Amz-Credential=ASIAYM4GX6NWZU6NNU65%2F20220131%2Fus-east-1%2Fs3%2Faws4_request\u0026X-Amz-Date=20220131T223356Z\u0026X-Amz-SignedHeaders=host\u0026X-Amz-Expires=900\u0026X-Amz-Signature=17d964aab7b0f53fc0aef6579dc2fc10cc07538f65b2cf00674b01069e13113d\u0026fit=192%2C192",
+    "icon": "https://blog.playstation.com/tachyon/2019/03/cropped-pslogo.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD\u0026X-Amz-Security-Token=IQoJb3JpZ2luX2VjEP7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIC%2B0IZADKTP8OSaDcUZ%2FhlKeZ%2FIUB4DkPLEUhwa7PwqvAiEA2iK8h5JsH8VvhPcfCNz7%2F9vfHqxfTI7vV%2BuZQu58eeoq%2FQMINxAAGgw1Nzc0MTg4MTg0MTMiDIBFRwZ%2FNA2wmv%2FTZCraA3zWYe%2FFwfWApm2OJJue8q6bsz4UKUiBSm3mb8RN9roJ7S%2FNjEKgMwfvcvf9aAAhqTG%2FzILg1RGec225AgWQK3JC28D2CEPyBMhUDB1h%2B2sCZ2MaKZRw6dKfyQ1tUtJ6vfDmzKaSCVctelm5DH7obIaXv8w78VEs9WxI6B74C5YTvi3tGnJiqSiLgZfAYH7bgHumyv7E63M3Y%2BtIK0Sql8g898Zw79a4YYzjmJHbgFZsNXtpyl%2F%2FVtb5UIYIFcAqy5nw7sm6djtcgA%2FFWDkLoVq9YsbvPhOHEHep%2FQ8wOD3gTACdMSh%2Fb%2FvCmWVZ%2BPhqtuV6Tyqp89QQzPhA4HRPCvoog8XHmINh2G09iOPVa7ZKvhAORTq2K0O0Pw1Q99gZgWQsG4IZdaue7yBCKlxNtgynuVCRKshmLQYOT0e95YAPN2uTOzUou%2FfsT4VW6AVLliYeIOXnQhAU5hZ3HrTc1deC1B47YGNBAGU9nt1Q6GdH7GtVzc2bHIoyyqiHRtCIIpqrCkNdyOttkjWgivyrxwU49V7T5BD9kMwGr0DZIcO%2FF7MdIMPmhUcVNx%2F0dQMrJNOtY3uObxvu11KSNkmeOLeIiUmkGx8k50ZivSskXyktCD%2FACp5mzCP2lTDRpuGPBjqlAckWrzB3QPQrJFKiItdqi3dYJPUKJGn%2BbFFYaatyXyPyTC4CcoVGi7pMW2Tcz%2BQQFqeJ6MaOZPJ9JeN%2B42urpledY2KeAwVJgMicRVgfxcPIzAqauQM1lFILaRAxuJvIPWZ6Q1%2FszdKUjeRHklG7jfIUaiUB%2BnZ97sLMMlmn83HzCe%2FkdhW8%2BxPghBzEmCLnOPXakPetv6yGrdJHDugzTF73M2tCMQ%3D%3D\u0026X-Amz-Algorithm=AWS4-HMAC-SHA256\u0026X-Amz-Credential=ASIAYM4GX6NW73ZZQPM6%2F20220131%2Fus-east-1%2Fs3%2Faws4_request\u0026X-Amz-Date=20220131T224356Z\u0026X-Amz-SignedHeaders=host\u0026X-Amz-Expires=900\u0026X-Amz-Signature=248983cffac260d673cfb8298bf583ecc6c194717581e9e10c978106dedaa1a3\u0026fit=192%2C192",
     "publisher": "PlayStation.Blog",
     "description": "Legendary developer to join PlayStation as independent, multi-platform studio and publisher.",
     "by": "zdw",
@@ -3001,22 +3132,22 @@
       "site_name": "PlayStation.Blog",
       "video": [],
       "favicon": {
-        "url": "https://blog.playstation.com/tachyon/2019/03/cropped-pslogo.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD\u0026X-Amz-Security-Token=IQoJb3JpZ2luX2VjEP7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQCx8KKnUgxieCwNgbKR30ZvczfM5BfMDQDuao0A9FQgvgIhAIRbZfozxiRYdby6XMICYdFL3WfQxpgLkVSKLHD4ydjQKv0DCDcQABoMNTc3NDE4ODE4NDEzIgxvxr1b%2FP8kPULVxrwq2gOEoJblJCjjNxfJZcuNxr1nR2U%2FLT326AP1jadQGKK7uBJ8yE0R4pTt1CDHIagAH%2FaxVEFMc0m%2BKBCmQyz%2FwYKdY6wWPaJ%2BmcFjpSxWxxheWA0v9zfOtac9gWecxxa8fqBbvc3jNRb6cZJEKJap3QIAfJZ12W569Gj4xb6bkfSu%2BTWZzq2lJ2Fei67Z3MlTaXQQyTMZNTXKZO6iH2hqpdhUA2CRD9t6wFRlX8Dm52NduY4epKFoWdRZV6uQGfhznIi6784IorVMWhez2ibV9tvNAiesFZr4uyaduQDFWZMA6ZFFtcSjCS18bwJbHPa4Cby9go7A9eViuo%2B3YFq5ka2rZgtqBPureeuX%2B5RLobJb2EAkyJxn6m6QEJCb%2FQJ2WHfUtlnt%2FZKV6yJsDRFhdTL8im7elLSU8%2FtEgiZ%2FRx%2FN6lU00atKLf0MUqbg5KmSu76vaRp1r%2BwrQzE940JhMyy9%2Bhas8leHxy99IqsxrDdotnuQ5JtBNt6t6TWhEqNT65sWy%2BGZKK3cL7HY%2BJ%2B9zRIdrW4DSO7pbpZGQ8MUSZ%2FgU2%2FSBWIaRDfP1%2Bs5m21XmGg8W2g2B%2FVGZx2jEA5BOPcLK830NeoHJpUVrfaszEFuqvaE2rjOp85LnvcwwKfhjwY6pAGKlgiuj2Ws2voJFlvyCMe35vuL8TQEk782Iffw0Z%2F0YzD6lIfrBdA0c1PZcojVlm4Ddnu0ggVN5%2FGq%2Bi0A9dvdylGqz5qafn5USiFu0R9hB91Iva2E9ew0MAG%2BQKVDcie1bEz5zeWapl9gIaVCzU%2F148kmIRcdcAnEWC6EUshexQedCKID7JDZ5m%2FxzjiKSWaovlXjK3p5hdwkdu49IBGN6R23Zg%3D%3D\u0026X-Amz-Algorithm=AWS4-HMAC-SHA256\u0026X-Amz-Credential=ASIAYM4GX6NWZU6NNU65%2F20220131%2Fus-east-1%2Fs3%2Faws4_request\u0026X-Amz-Date=20220131T223356Z\u0026X-Amz-SignedHeaders=host\u0026X-Amz-Expires=900\u0026X-Amz-Signature=17d964aab7b0f53fc0aef6579dc2fc10cc07538f65b2cf00674b01069e13113d\u0026fit=192%2C192"
+        "url": "https://blog.playstation.com/tachyon/2019/03/cropped-pslogo.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD\u0026X-Amz-Security-Token=IQoJb3JpZ2luX2VjEP7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIC%2B0IZADKTP8OSaDcUZ%2FhlKeZ%2FIUB4DkPLEUhwa7PwqvAiEA2iK8h5JsH8VvhPcfCNz7%2F9vfHqxfTI7vV%2BuZQu58eeoq%2FQMINxAAGgw1Nzc0MTg4MTg0MTMiDIBFRwZ%2FNA2wmv%2FTZCraA3zWYe%2FFwfWApm2OJJue8q6bsz4UKUiBSm3mb8RN9roJ7S%2FNjEKgMwfvcvf9aAAhqTG%2FzILg1RGec225AgWQK3JC28D2CEPyBMhUDB1h%2B2sCZ2MaKZRw6dKfyQ1tUtJ6vfDmzKaSCVctelm5DH7obIaXv8w78VEs9WxI6B74C5YTvi3tGnJiqSiLgZfAYH7bgHumyv7E63M3Y%2BtIK0Sql8g898Zw79a4YYzjmJHbgFZsNXtpyl%2F%2FVtb5UIYIFcAqy5nw7sm6djtcgA%2FFWDkLoVq9YsbvPhOHEHep%2FQ8wOD3gTACdMSh%2Fb%2FvCmWVZ%2BPhqtuV6Tyqp89QQzPhA4HRPCvoog8XHmINh2G09iOPVa7ZKvhAORTq2K0O0Pw1Q99gZgWQsG4IZdaue7yBCKlxNtgynuVCRKshmLQYOT0e95YAPN2uTOzUou%2FfsT4VW6AVLliYeIOXnQhAU5hZ3HrTc1deC1B47YGNBAGU9nt1Q6GdH7GtVzc2bHIoyyqiHRtCIIpqrCkNdyOttkjWgivyrxwU49V7T5BD9kMwGr0DZIcO%2FF7MdIMPmhUcVNx%2F0dQMrJNOtY3uObxvu11KSNkmeOLeIiUmkGx8k50ZivSskXyktCD%2FACp5mzCP2lTDRpuGPBjqlAckWrzB3QPQrJFKiItdqi3dYJPUKJGn%2BbFFYaatyXyPyTC4CcoVGi7pMW2Tcz%2BQQFqeJ6MaOZPJ9JeN%2B42urpledY2KeAwVJgMicRVgfxcPIzAqauQM1lFILaRAxuJvIPWZ6Q1%2FszdKUjeRHklG7jfIUaiUB%2BnZ97sLMMlmn83HzCe%2FkdhW8%2BxPghBzEmCLnOPXakPetv6yGrdJHDugzTF73M2tCMQ%3D%3D\u0026X-Amz-Algorithm=AWS4-HMAC-SHA256\u0026X-Amz-Credential=ASIAYM4GX6NW73ZZQPM6%2F20220131%2Fus-east-1%2Fs3%2Faws4_request\u0026X-Amz-Date=20220131T224356Z\u0026X-Amz-SignedHeaders=host\u0026X-Amz-Expires=900\u0026X-Amz-Signature=248983cffac260d673cfb8298bf583ecc6c194717581e9e10c978106dedaa1a3\u0026fit=192%2C192"
       }
     }
   },
   {
-    "id": 30153326,
-    "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
-    "url": "https://ar5iv.org/",
-    "time": 1643658897,
-    "image": "https://ar5iv.org/assets/ar5iv_card.png",
-    "icon": "https://ar5iv.org/favicon.ico",
-    "publisher": "ar5iv",
-    "description": "ar5iv offers a modern web view for arXiv's preprints. An open community resource, on a quest to a full collection of high-quality documents.",
-    "by": "rg111",
-    "points": 7,
-    "comment_count": 1,
+    "id": 30147755,
+    "title": "Polar bears move into abandoned Arctic weather station",
+    "url": "https://www.theguardian.com/world/2022/jan/31/polar-bears-move-into-abandoned-arctic-weather-station-photo-essay",
+    "time": 1643636620,
+    "image": "https://i.guim.co.uk/img/media/b9c97924f2784beddc80fab14f75453d83824613/0_231_3500_2101/master/3500.jpg?width=1200\u0026height=630\u0026quality=85\u0026auto=format\u0026fit=crop\u0026overlay-align=bottom%2Cleft\u0026overlay-width=100p\u0026overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc\u0026enable=upscale\u0026s=5d8713011a3bb525f19bf8544cb15bcc",
+    "icon": "https://static.guim.co.uk/images/favicon-32x32.ico",
+    "publisher": "the Guardian",
+    "description": "Photographer Dmitry Kokh discovered polar bears living in an abandoned weather station in Kolyuchin in the Chukotka Autonomous Okrug of Russia",
+    "by": "sofixa",
+    "points": 191,
+    "comment_count": 46,
     "hn_item": {
       "by": "gballan",
       "descendants": 156,
@@ -3050,11 +3181,11 @@
       "url": "https://mathoverflow.net/questions/23478/examples-of-common-false-beliefs-in-mathematics"
     },
     "og_item": {
-      "title": "ar5iv – Articles from arXiv.org as responsive HTML5 web documents",
-      "type": "",
+      "title": "Polar bears move into abandoned Arctic weather station – photo essay",
+      "type": "article",
       "image": [
         {
-          "url": "https://ar5iv.org/assets/ar5iv_card.png",
+          "url": "https://i.guim.co.uk/img/media/b9c97924f2784beddc80fab14f75453d83824613/0_231_3500_2101/master/3500.jpg?width=1200\u0026height=630\u0026quality=85\u0026auto=format\u0026fit=crop\u0026overlay-align=bottom%2Cleft\u0026overlay-width=100p\u0026overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc\u0026enable=upscale\u0026s=5d8713011a3bb525f19bf8544cb15bcc",
           "secure_url": "",
           "type": "",
           "width": 0,
@@ -3062,16 +3193,16 @@
           "alt": ""
         }
       ],
-      "url": "https://ar5iv.org",
+      "url": "https://www.theguardian.com/world/2022/jan/31/polar-bears-move-into-abandoned-arctic-weather-station-photo-essay",
       "audio": [],
-      "description": "ar5iv offers a modern web view for arXiv's preprints. An open community resource, on a quest to a full collection of high-quality documents.",
+      "description": "Photographer Dmitry Kokh discovered polar bears living in an abandoned weather station in Kolyuchin in the Chukotka Autonomous Okrug of Russia",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "ar5iv",
+      "site_name": "the Guardian",
       "video": [],
       "favicon": {
-        "url": "/favicon.ico"
+        "url": "https://static.guim.co.uk/images/favicon-32x32.ico"
       }
     }
   },
@@ -3146,137 +3277,6 @@
     }
   },
   {
-    "id": 30147755,
-    "title": "Polar bears move into abandoned Arctic weather station",
-    "url": "https://www.theguardian.com/world/2022/jan/31/polar-bears-move-into-abandoned-arctic-weather-station-photo-essay",
-    "time": 1643636620,
-    "image": "https://i.guim.co.uk/img/media/b9c97924f2784beddc80fab14f75453d83824613/0_231_3500_2101/master/3500.jpg?width=1200\u0026height=630\u0026quality=85\u0026auto=format\u0026fit=crop\u0026overlay-align=bottom%2Cleft\u0026overlay-width=100p\u0026overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc\u0026enable=upscale\u0026s=5d8713011a3bb525f19bf8544cb15bcc",
-    "icon": "https://static.guim.co.uk/images/favicon-32x32.ico",
-    "publisher": "the Guardian",
-    "description": "Photographer Dmitry Kokh discovered polar bears living in an abandoned weather station in Kolyuchin in the Chukotka Autonomous Okrug of Russia",
-    "by": "sofixa",
-    "points": 190,
-    "comment_count": 46,
-    "hn_item": {
-      "by": "gballan",
-      "descendants": 156,
-      "id": 30144805,
-      "kids": [
-        30145624,
-        30146670,
-        30149605,
-        30149271,
-        30145376,
-        30145576,
-        30153054,
-        30154040,
-        30148863,
-        30146426,
-        30150322,
-        30152549,
-        30152184,
-        30145888,
-        30146105,
-        30145424,
-        30150353,
-        30146422,
-        30146637,
-        30149567
-      ],
-      "score": 234,
-      "time": 1643606336,
-      "title": "Examples of common false beliefs in mathematics",
-      "type": "story",
-      "url": "https://mathoverflow.net/questions/23478/examples-of-common-false-beliefs-in-mathematics"
-    },
-    "og_item": {
-      "title": "Polar bears move into abandoned Arctic weather station – photo essay",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://i.guim.co.uk/img/media/b9c97924f2784beddc80fab14f75453d83824613/0_231_3500_2101/master/3500.jpg?width=1200\u0026height=630\u0026quality=85\u0026auto=format\u0026fit=crop\u0026overlay-align=bottom%2Cleft\u0026overlay-width=100p\u0026overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc\u0026enable=upscale\u0026s=5d8713011a3bb525f19bf8544cb15bcc",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://www.theguardian.com/world/2022/jan/31/polar-bears-move-into-abandoned-arctic-weather-station-photo-essay",
-      "audio": [],
-      "description": "Photographer Dmitry Kokh discovered polar bears living in an abandoned weather station in Kolyuchin in the Chukotka Autonomous Okrug of Russia",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "the Guardian",
-      "video": [],
-      "favicon": {
-        "url": "https://static.guim.co.uk/images/favicon-32x32.ico"
-      }
-    }
-  },
-  {
-    "id": 30154195,
-    "title": "Website fined by German court for leaking visitor's IP address via Google Fonts",
-    "url": "https://www.theregister.com/2022/01/31/website_fine_google_fonts_gdpr/",
-    "time": 1643662561,
-    "image": "",
-    "icon": "https://www.theregister.com/favicon.ico",
-    "publisher": "theregister.com",
-    "description": "",
-    "by": "logronoide",
-    "points": 16,
-    "comment_count": 2,
-    "hn_item": {
-      "by": "gballan",
-      "descendants": 156,
-      "id": 30144805,
-      "kids": [
-        30145624,
-        30146670,
-        30149605,
-        30149271,
-        30145376,
-        30145576,
-        30153054,
-        30154040,
-        30148863,
-        30146426,
-        30150322,
-        30152549,
-        30152184,
-        30145888,
-        30146105,
-        30145424,
-        30150353,
-        30146422,
-        30146637,
-        30149567
-      ],
-      "score": 234,
-      "time": 1643606336,
-      "title": "Examples of common false beliefs in mathematics",
-      "type": "story",
-      "url": "https://mathoverflow.net/questions/23478/examples-of-common-false-beliefs-in-mathematics"
-    },
-    "og_item": {
-      "title": "",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30150990,
     "title": "How to recommend books, or, stop recommending SICP",
     "url": "https://notes.eatonphil.com/recommending-a-book.html",
@@ -3286,8 +3286,8 @@
     "publisher": "notes.eatonphil.com",
     "description": "How to recommend books, or, stop recommending SICP",
     "by": "eatonphil",
-    "points": 12,
-    "comment_count": 11,
+    "points": 13,
+    "comment_count": 12,
     "hn_item": {
       "by": "gballan",
       "descendants": 156,
@@ -3338,6 +3338,76 @@
     }
   },
   {
+    "id": 30152714,
+    "title": "HVM: A Parallel Functional Runtime",
+    "url": "https://github.com/Kindelia/HVM",
+    "time": 1643656542,
+    "image": "https://opengraph.githubassets.com/7b7a943ae5c1ab7cdf93abde2afbbf682838edc21653641bf7aa72b1c473ef35/Kindelia/HVM",
+    "icon": "https://github.githubassets.com/favicons/favicon.svg",
+    "publisher": "GitHub",
+    "description": "LambdaVM in Rust. Contribute to Kindelia/HVM development by creating an account on GitHub.",
+    "by": "LightMachine",
+    "points": 13,
+    "comment_count": 3,
+    "hn_item": {
+      "by": "gballan",
+      "descendants": 156,
+      "id": 30144805,
+      "kids": [
+        30145624,
+        30146670,
+        30149605,
+        30149271,
+        30145376,
+        30145576,
+        30153054,
+        30154040,
+        30148863,
+        30146426,
+        30150322,
+        30152549,
+        30152184,
+        30145888,
+        30146105,
+        30145424,
+        30150353,
+        30146422,
+        30146637,
+        30149567
+      ],
+      "score": 234,
+      "time": 1643606336,
+      "title": "Examples of common false beliefs in mathematics",
+      "type": "story",
+      "url": "https://mathoverflow.net/questions/23478/examples-of-common-false-beliefs-in-mathematics"
+    },
+    "og_item": {
+      "title": "GitHub - Kindelia/HVM: LambdaVM in Rust",
+      "type": "object",
+      "image": [
+        {
+          "url": "https://opengraph.githubassets.com/7b7a943ae5c1ab7cdf93abde2afbbf682838edc21653641bf7aa72b1c473ef35/Kindelia/HVM",
+          "secure_url": "",
+          "type": "",
+          "width": 1200,
+          "height": 600,
+          "alt": ""
+        }
+      ],
+      "url": "https://github.com/Kindelia/HVM",
+      "audio": [],
+      "description": "LambdaVM in Rust. Contribute to Kindelia/HVM development by creating an account on GitHub.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "GitHub",
+      "video": [],
+      "favicon": {
+        "url": "https://github.githubassets.com/favicons/favicon.svg"
+      }
+    }
+  },
+  {
     "id": 30148272,
     "title": "Citrix to be acquired for $16.5B, will be merged with Tibco",
     "url": "https://techcrunch.com/2022/01/31/citrix-to-be-acquired-by-vista-and-evergreen-elliott-in-a-16-5b-all-cash-deal-will-be-merged-with-tibco-to-create-saas-powerhouse/",
@@ -3348,7 +3418,7 @@
     "description": "More consolidation is afoot in the world of IT to meet a new demand from enterprises for “one-stop shops” covering a wide range of needs in our hybrid world of work. Citrix, the long-in-the-tooth virtualization giant that had been making a slow transition into cloud computing, is being …",
     "by": "blopeur",
     "points": 86,
-    "comment_count": 67,
+    "comment_count": 68,
     "hn_item": {
       "by": "gballan",
       "descendants": 156,
@@ -3478,6 +3548,67 @@
     }
   },
   {
+    "id": 30154195,
+    "title": "Website fined by German court for leaking visitor's IP address via Google Fonts",
+    "url": "https://www.theregister.com/2022/01/31/website_fine_google_fonts_gdpr/",
+    "time": 1643662561,
+    "image": "",
+    "icon": "https://www.theregister.com/favicon.ico",
+    "publisher": "theregister.com",
+    "description": "",
+    "by": "logronoide",
+    "points": 17,
+    "comment_count": 2,
+    "hn_item": {
+      "by": "gballan",
+      "descendants": 156,
+      "id": 30144805,
+      "kids": [
+        30145624,
+        30146670,
+        30149605,
+        30149271,
+        30145376,
+        30145576,
+        30153054,
+        30154040,
+        30148863,
+        30146426,
+        30150322,
+        30152549,
+        30152184,
+        30145888,
+        30146105,
+        30145424,
+        30150353,
+        30146422,
+        30146637,
+        30149567
+      ],
+      "score": 234,
+      "time": 1643606336,
+      "title": "Examples of common false beliefs in mathematics",
+      "type": "story",
+      "url": "https://mathoverflow.net/questions/23478/examples-of-common-false-beliefs-in-mathematics"
+    },
+    "og_item": {
+      "title": "",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30150895,
     "title": "Argo CD – Declarative GitOps CD for Kubernetes",
     "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/helm/",
@@ -3488,7 +3619,7 @@
     "description": "",
     "by": "JordanTen",
     "points": 15,
-    "comment_count": 5,
+    "comment_count": 6,
     "hn_item": {
       "by": "gballan",
       "descendants": 156,
@@ -3548,7 +3679,7 @@
     "publisher": "bleepingcomputer.com",
     "description": "",
     "by": "beermonster",
-    "points": 204,
+    "points": 205,
     "comment_count": 100,
     "hn_item": {
       "by": "gballan",
@@ -3600,6 +3731,198 @@
     }
   },
   {
+    "id": 30153653,
+    "title": "Go 1.18 Beta 2",
+    "url": "https://go.dev/blog/go1.18beta2",
+    "time": 1643660229,
+    "image": "",
+    "icon": "https://go.dev/favicon.ico",
+    "publisher": "go.dev",
+    "description": "Go is an open source programming language that makes it easy to build simple, reliable, and efficient software.",
+    "by": "0xedb",
+    "points": 13,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "gballan",
+      "descendants": 156,
+      "id": 30144805,
+      "kids": [
+        30145624,
+        30146670,
+        30149605,
+        30149271,
+        30145376,
+        30145576,
+        30153054,
+        30154040,
+        30148863,
+        30146426,
+        30150322,
+        30152549,
+        30152184,
+        30145888,
+        30146105,
+        30145424,
+        30150353,
+        30146422,
+        30146637,
+        30149567
+      ],
+      "score": 234,
+      "time": 1643606336,
+      "title": "Examples of common false beliefs in mathematics",
+      "type": "story",
+      "url": "https://mathoverflow.net/questions/23478/examples-of-common-false-beliefs-in-mathematics"
+    },
+    "og_item": {
+      "title": "Announcing Go 1.18 Beta 2 - The Go Programming Language",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "Go is an open source programming language that makes it easy to build simple, reliable, and efficient software.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30151571,
+    "title": "Show HN: Espial – AI tool to automate discovery and organization of knowledge",
+    "url": "https://github.com/Uzay-G/espial",
+    "time": 1643652505,
+    "image": "https://opengraph.githubassets.com/226f36cb87ef323eeb5569dcd9be35bedbb3cc681a006738d009e56aae42ad92/Uzay-G/espial",
+    "icon": "https://github.githubassets.com/favicons/favicon.svg",
+    "publisher": "GitHub",
+    "description": "Espial is an engine for automated organization and discovery of personal knowledge - GitHub - Uzay-G/espial: Espial is an engine for automated organization and discovery of personal knowledge",
+    "by": "etherio",
+    "points": 10,
+    "comment_count": 2,
+    "hn_item": {
+      "by": "gballan",
+      "descendants": 156,
+      "id": 30144805,
+      "kids": [
+        30145624,
+        30146670,
+        30149605,
+        30149271,
+        30145376,
+        30145576,
+        30153054,
+        30154040,
+        30148863,
+        30146426,
+        30150322,
+        30152549,
+        30152184,
+        30145888,
+        30146105,
+        30145424,
+        30150353,
+        30146422,
+        30146637,
+        30149567
+      ],
+      "score": 234,
+      "time": 1643606336,
+      "title": "Examples of common false beliefs in mathematics",
+      "type": "story",
+      "url": "https://mathoverflow.net/questions/23478/examples-of-common-false-beliefs-in-mathematics"
+    },
+    "og_item": {
+      "title": "GitHub - Uzay-G/espial: Espial is an engine for automated organization and discovery of personal knowledge",
+      "type": "object",
+      "image": [
+        {
+          "url": "https://opengraph.githubassets.com/226f36cb87ef323eeb5569dcd9be35bedbb3cc681a006738d009e56aae42ad92/Uzay-G/espial",
+          "secure_url": "",
+          "type": "",
+          "width": 1200,
+          "height": 600,
+          "alt": ""
+        }
+      ],
+      "url": "https://github.com/Uzay-G/espial",
+      "audio": [],
+      "description": "Espial is an engine for automated organization and discovery of personal knowledge - GitHub - Uzay-G/espial: Espial is an engine for automated organization and discovery of personal knowledge",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "GitHub",
+      "video": [],
+      "favicon": {
+        "url": "https://github.githubassets.com/favicons/favicon.svg"
+      }
+    }
+  },
+  {
+    "id": 30150995,
+    "title": "Show HN: Practical Python Projects book now free to read online",
+    "url": "https://practicalpython.yasoob.me/toc.html",
+    "time": 1643650734,
+    "image": "",
+    "icon": "https://practicalpython.yasoob.me/toc.html/_static/favicon.png",
+    "publisher": "practicalpython.yasoob.me",
+    "description": "",
+    "by": "yasoob",
+    "points": 10,
+    "comment_count": 3,
+    "hn_item": {
+      "by": "gballan",
+      "descendants": 156,
+      "id": 30144805,
+      "kids": [
+        30145624,
+        30146670,
+        30149605,
+        30149271,
+        30145376,
+        30145576,
+        30153054,
+        30154040,
+        30148863,
+        30146426,
+        30150322,
+        30152549,
+        30152184,
+        30145888,
+        30146105,
+        30145424,
+        30150353,
+        30146422,
+        30146637,
+        30149567
+      ],
+      "score": 234,
+      "time": 1643606336,
+      "title": "Examples of common false beliefs in mathematics",
+      "type": "story",
+      "url": "https://mathoverflow.net/questions/23478/examples-of-common-false-beliefs-in-mathematics"
+    },
+    "og_item": {
+      "title": "Table of Contents - Practical Python Projects",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "_static/favicon.png"
+      }
+    }
+  },
+  {
     "id": 30153287,
     "title": "GCC Rust Monthly Report #13: January 2021",
     "url": "https://thephilbert.io/2022/01/31/gcc-rust-monthly-report-13-january-2021/",
@@ -3609,7 +3932,7 @@
     "publisher": "thephilbert.io",
     "description": "",
     "by": "ingve",
-    "points": 9,
+    "points": 10,
     "comment_count": 0,
     "hn_item": {
       "by": "gballan",
@@ -3661,76 +3984,6 @@
     }
   },
   {
-    "id": 30148147,
-    "title": "BBC censors its own archives",
-    "url": "https://www.nationalreview.com/2022/01/the-bbc-quietly-censors-its-own-archives/",
-    "time": 1643638884,
-    "image": "https://www.nationalreview.com/wp-content/uploads/2022/01/bbc.jpg?fit=2057%2C1200",
-    "icon": "https://www.nationalreview.com/wp-content/themes/national-review/static/images/favicons/favicon-96x96.png",
-    "publisher": "National Review",
-    "description": "Out of public view, the state-owned broadcaster has been altering old episodes of its shows to make them ‘suitable’ for modern listeners.",
-    "by": "temp8964",
-    "points": 144,
-    "comment_count": 136,
-    "hn_item": {
-      "by": "gballan",
-      "descendants": 156,
-      "id": 30144805,
-      "kids": [
-        30145624,
-        30146670,
-        30149605,
-        30149271,
-        30145376,
-        30145576,
-        30153054,
-        30154040,
-        30148863,
-        30146426,
-        30150322,
-        30152549,
-        30152184,
-        30145888,
-        30146105,
-        30145424,
-        30150353,
-        30146422,
-        30146637,
-        30149567
-      ],
-      "score": 234,
-      "time": 1643606336,
-      "title": "Examples of common false beliefs in mathematics",
-      "type": "story",
-      "url": "https://mathoverflow.net/questions/23478/examples-of-common-false-beliefs-in-mathematics"
-    },
-    "og_item": {
-      "title": "The BBC Quietly Censors Its Own Archives | National Review",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://www.nationalreview.com/wp-content/uploads/2022/01/bbc.jpg?fit=2057%2C1200",
-          "secure_url": "",
-          "type": "",
-          "width": 2057,
-          "height": 1200,
-          "alt": ""
-        }
-      ],
-      "url": "https://www.nationalreview.com/2022/01/the-bbc-quietly-censors-its-own-archives/",
-      "audio": [],
-      "description": "Out of public view, the state-owned broadcaster has been altering old episodes of its shows to make them ‘suitable’ for modern listeners.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "National Review",
-      "video": [],
-      "favicon": {
-        "url": "https://www.nationalreview.com/wp-content/themes/national-review/static/images/favicons/favicon-96x96.png"
-      }
-    }
-  },
-  {
     "id": 30145237,
     "title": "Generate static sites from Markdown files with Caddy (2018)",
     "url": "https://blog.thomaspuppe.de/static-sites-from-markdown-with-caddy-server",
@@ -3775,67 +4028,6 @@
       "url": "https://mathoverflow.net/questions/23478/examples-of-common-false-beliefs-in-mathematics"
     },
     "og_item": null
-  },
-  {
-    "id": 30153589,
-    "title": "YouTube limits live streams viewers for accounts with \"limited creator history\"",
-    "url": "https://twitter.com/infolibnews/status/1488013567207120896",
-    "time": 1643659930,
-    "image": "",
-    "icon": "https://abs.twimg.com/favicons/twitter.2.ico",
-    "publisher": "Twitter",
-    "description": "",
-    "by": "Otter-man",
-    "points": 26,
-    "comment_count": 4,
-    "hn_item": {
-      "by": "gballan",
-      "descendants": 156,
-      "id": 30144805,
-      "kids": [
-        30145624,
-        30146670,
-        30149605,
-        30149271,
-        30145376,
-        30145576,
-        30153054,
-        30154040,
-        30148863,
-        30146426,
-        30150322,
-        30152549,
-        30152184,
-        30145888,
-        30146105,
-        30145424,
-        30150353,
-        30146422,
-        30146637,
-        30149567
-      ],
-      "score": 234,
-      "time": 1643606336,
-      "title": "Examples of common false beliefs in mathematics",
-      "type": "story",
-      "url": "https://mathoverflow.net/questions/23478/examples-of-common-false-beliefs-in-mathematics"
-    },
-    "og_item": {
-      "title": "",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Twitter",
-      "video": [],
-      "favicon": {
-        "url": "//abs.twimg.com/favicons/twitter.2.ico"
-      }
-    }
   },
   {
     "id": 30130447,
@@ -3908,6 +4100,67 @@
     }
   },
   {
+    "id": 30153589,
+    "title": "YouTube limits live streams viewers for accounts with \"limited creator history\"",
+    "url": "https://twitter.com/infolibnews/status/1488013567207120896",
+    "time": 1643659930,
+    "image": "",
+    "icon": "https://abs.twimg.com/favicons/twitter.2.ico",
+    "publisher": "Twitter",
+    "description": "",
+    "by": "Otter-man",
+    "points": 26,
+    "comment_count": 4,
+    "hn_item": {
+      "by": "gballan",
+      "descendants": 156,
+      "id": 30144805,
+      "kids": [
+        30145624,
+        30146670,
+        30149605,
+        30149271,
+        30145376,
+        30145576,
+        30153054,
+        30154040,
+        30148863,
+        30146426,
+        30150322,
+        30152549,
+        30152184,
+        30145888,
+        30146105,
+        30145424,
+        30150353,
+        30146422,
+        30146637,
+        30149567
+      ],
+      "score": 234,
+      "time": 1643606336,
+      "title": "Examples of common false beliefs in mathematics",
+      "type": "story",
+      "url": "https://mathoverflow.net/questions/23478/examples-of-common-false-beliefs-in-mathematics"
+    },
+    "og_item": {
+      "title": "",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Twitter",
+      "video": [],
+      "favicon": {
+        "url": "//abs.twimg.com/favicons/twitter.2.ico"
+      }
+    }
+  },
+  {
     "id": 30153547,
     "title": "Why Henry III's gold penny failed",
     "url": "http://jpkoning.blogspot.com/2022/01/why-henry-iiis-gold-penny-failed.html",
@@ -3974,137 +4227,6 @@
       "video": [],
       "favicon": {
         "url": "http://jpkoning.blogspot.com/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30150995,
-    "title": "Show HN: Practical Python Projects book now free to read online",
-    "url": "https://practicalpython.yasoob.me/toc.html",
-    "time": 1643650734,
-    "image": "",
-    "icon": "https://practicalpython.yasoob.me/toc.html/_static/favicon.png",
-    "publisher": "practicalpython.yasoob.me",
-    "description": "",
-    "by": "yasoob",
-    "points": 9,
-    "comment_count": 3,
-    "hn_item": {
-      "by": "gballan",
-      "descendants": 156,
-      "id": 30144805,
-      "kids": [
-        30145624,
-        30146670,
-        30149605,
-        30149271,
-        30145376,
-        30145576,
-        30153054,
-        30154040,
-        30148863,
-        30146426,
-        30150322,
-        30152549,
-        30152184,
-        30145888,
-        30146105,
-        30145424,
-        30150353,
-        30146422,
-        30146637,
-        30149567
-      ],
-      "score": 234,
-      "time": 1643606336,
-      "title": "Examples of common false beliefs in mathematics",
-      "type": "story",
-      "url": "https://mathoverflow.net/questions/23478/examples-of-common-false-beliefs-in-mathematics"
-    },
-    "og_item": {
-      "title": "Table of Contents - Practical Python Projects",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "_static/favicon.png"
-      }
-    }
-  },
-  {
-    "id": 30151571,
-    "title": "Show HN: Espial – AI tool to automate discovery and organization of knowledge",
-    "url": "https://github.com/Uzay-G/espial",
-    "time": 1643652505,
-    "image": "https://opengraph.githubassets.com/c7cc48e1283f0c1f1837f672b8b993cee4fb400da734b2623f2b148fb2ef2faa/Uzay-G/espial",
-    "icon": "https://github.githubassets.com/favicons/favicon.svg",
-    "publisher": "GitHub",
-    "description": "Espial is an engine for automated organization and discovery of personal knowledge - GitHub - Uzay-G/espial: Espial is an engine for automated organization and discovery of personal knowledge",
-    "by": "etherio",
-    "points": 9,
-    "comment_count": 2,
-    "hn_item": {
-      "by": "gballan",
-      "descendants": 156,
-      "id": 30144805,
-      "kids": [
-        30145624,
-        30146670,
-        30149605,
-        30149271,
-        30145376,
-        30145576,
-        30153054,
-        30154040,
-        30148863,
-        30146426,
-        30150322,
-        30152549,
-        30152184,
-        30145888,
-        30146105,
-        30145424,
-        30150353,
-        30146422,
-        30146637,
-        30149567
-      ],
-      "score": 234,
-      "time": 1643606336,
-      "title": "Examples of common false beliefs in mathematics",
-      "type": "story",
-      "url": "https://mathoverflow.net/questions/23478/examples-of-common-false-beliefs-in-mathematics"
-    },
-    "og_item": {
-      "title": "GitHub - Uzay-G/espial: Espial is an engine for automated organization and discovery of personal knowledge",
-      "type": "object",
-      "image": [
-        {
-          "url": "https://opengraph.githubassets.com/c7cc48e1283f0c1f1837f672b8b993cee4fb400da734b2623f2b148fb2ef2faa/Uzay-G/espial",
-          "secure_url": "",
-          "type": "",
-          "width": 1200,
-          "height": 600,
-          "alt": ""
-        }
-      ],
-      "url": "https://github.com/Uzay-G/espial",
-      "audio": [],
-      "description": "Espial is an engine for automated organization and discovery of personal knowledge - GitHub - Uzay-G/espial: Espial is an engine for automated organization and discovery of personal knowledge",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "GitHub",
-      "video": [],
-      "favicon": {
-        "url": "https://github.githubassets.com/favicons/favicon.svg"
       }
     }
   },
@@ -4249,16 +4371,86 @@
     }
   },
   {
-    "id": 30153653,
-    "title": "Go 1.18 Beta 2",
-    "url": "https://go.dev/blog/go1.18beta2",
-    "time": 1643660229,
-    "image": "",
-    "icon": "https://go.dev/favicon.ico",
-    "publisher": "go.dev",
-    "description": "Go is an open source programming language that makes it easy to build simple, reliable, and efficient software.",
-    "by": "0xedb",
-    "points": 11,
+    "id": 30148147,
+    "title": "BBC censors its own archives",
+    "url": "https://www.nationalreview.com/2022/01/the-bbc-quietly-censors-its-own-archives/",
+    "time": 1643638884,
+    "image": "https://www.nationalreview.com/wp-content/uploads/2022/01/bbc.jpg?fit=2057%2C1200",
+    "icon": "https://www.nationalreview.com/wp-content/themes/national-review/static/images/favicons/favicon-96x96.png",
+    "publisher": "National Review",
+    "description": "Out of public view, the state-owned broadcaster has been altering old episodes of its shows to make them ‘suitable’ for modern listeners.",
+    "by": "temp8964",
+    "points": 145,
+    "comment_count": 136,
+    "hn_item": {
+      "by": "gballan",
+      "descendants": 156,
+      "id": 30144805,
+      "kids": [
+        30145624,
+        30146670,
+        30149605,
+        30149271,
+        30145376,
+        30145576,
+        30153054,
+        30154040,
+        30148863,
+        30146426,
+        30150322,
+        30152549,
+        30152184,
+        30145888,
+        30146105,
+        30145424,
+        30150353,
+        30146422,
+        30146637,
+        30149567
+      ],
+      "score": 234,
+      "time": 1643606336,
+      "title": "Examples of common false beliefs in mathematics",
+      "type": "story",
+      "url": "https://mathoverflow.net/questions/23478/examples-of-common-false-beliefs-in-mathematics"
+    },
+    "og_item": {
+      "title": "The BBC Quietly Censors Its Own Archives | National Review",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://www.nationalreview.com/wp-content/uploads/2022/01/bbc.jpg?fit=2057%2C1200",
+          "secure_url": "",
+          "type": "",
+          "width": 2057,
+          "height": 1200,
+          "alt": ""
+        }
+      ],
+      "url": "https://www.nationalreview.com/2022/01/the-bbc-quietly-censors-its-own-archives/",
+      "audio": [],
+      "description": "Out of public view, the state-owned broadcaster has been altering old episodes of its shows to make them ‘suitable’ for modern listeners.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "National Review",
+      "video": [],
+      "favicon": {
+        "url": "https://www.nationalreview.com/wp-content/themes/national-review/static/images/favicons/favicon-96x96.png"
+      }
+    }
+  },
+  {
+    "id": 30154955,
+    "title": "Crypto Project in Chaos After Co-Founder Outed as Fraudster",
+    "url": "https://www.vice.com/en/article/epxaww/popcorn-time-crypto-project-in-chaos-after-co-founder-outed-as-fraudster",
+    "time": 1643665623,
+    "image": "https://video-images.vice.com/articles/61f83c1f96a45d009bfafafc/lede/1643663753558-image-1.jpeg?image-resize-opts=Y3JvcD0wLjgxNTN4dzowLjk5OXhoOzAuMDl4dywwLjAwMXhoJnJlc2l6ZT0xMjAwOiomcmVzaXplPTEyMDA6Kg",
+    "icon": "https://vice-web-statics-cdn.vice.com/favicons/vice/favicon-16x16.png",
+    "publisher": "Vice",
+    "description": "The multi-billion dollar crypto project Wonderland has been engulfed in chaos after one of the co-founders was revealed to be a convicted fraudster.",
+    "by": "jbegley",
+    "points": 5,
     "comment_count": 0,
     "hn_item": {
       "by": "gballan",
@@ -4293,211 +4485,28 @@
       "url": "https://mathoverflow.net/questions/23478/examples-of-common-false-beliefs-in-mathematics"
     },
     "og_item": {
-      "title": "Announcing Go 1.18 Beta 2 - The Go Programming Language",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "Go is an open source programming language that makes it easy to build simple, reliable, and efficient software.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30152714,
-    "title": "HVM: A Parallel Functional Runtime",
-    "url": "https://github.com/Kindelia/HVM",
-    "time": 1643656542,
-    "image": "https://opengraph.githubassets.com/9a1c74ef4cbab88ad4b72fc80cabd1d7556fd4bd87a556800f8097493de67219/Kindelia/HVM",
-    "icon": "https://github.githubassets.com/favicons/favicon.svg",
-    "publisher": "GitHub",
-    "description": "LambdaVM in Rust. Contribute to Kindelia/HVM development by creating an account on GitHub.",
-    "by": "LightMachine",
-    "points": 11,
-    "comment_count": 3,
-    "hn_item": {
-      "by": "gballan",
-      "descendants": 156,
-      "id": 30144805,
-      "kids": [
-        30145624,
-        30146670,
-        30149605,
-        30149271,
-        30145376,
-        30145576,
-        30153054,
-        30154040,
-        30148863,
-        30146426,
-        30150322,
-        30152549,
-        30152184,
-        30145888,
-        30146105,
-        30145424,
-        30150353,
-        30146422,
-        30146637,
-        30149567
-      ],
-      "score": 234,
-      "time": 1643606336,
-      "title": "Examples of common false beliefs in mathematics",
-      "type": "story",
-      "url": "https://mathoverflow.net/questions/23478/examples-of-common-false-beliefs-in-mathematics"
-    },
-    "og_item": {
-      "title": "GitHub - Kindelia/HVM: LambdaVM in Rust",
-      "type": "object",
+      "title": "Popcorn Time: Crypto Project In Chaos After Co-Founder Outed as Fraudster",
+      "type": "website",
       "image": [
         {
-          "url": "https://opengraph.githubassets.com/9a1c74ef4cbab88ad4b72fc80cabd1d7556fd4bd87a556800f8097493de67219/Kindelia/HVM",
+          "url": "https://video-images.vice.com/articles/61f83c1f96a45d009bfafafc/lede/1643663753558-image-1.jpeg?image-resize-opts=Y3JvcD0wLjgxNTN4dzowLjk5OXhoOzAuMDl4dywwLjAwMXhoJnJlc2l6ZT0xMjAwOiomcmVzaXplPTEyMDA6Kg",
           "secure_url": "",
           "type": "",
-          "width": 1200,
-          "height": 600,
+          "width": 0,
+          "height": 0,
           "alt": ""
         }
       ],
-      "url": "https://github.com/Kindelia/HVM",
+      "url": "https://www.vice.com/en/article/epxaww/popcorn-time-crypto-project-in-chaos-after-co-founder-outed-as-fraudster",
       "audio": [],
-      "description": "LambdaVM in Rust. Contribute to Kindelia/HVM development by creating an account on GitHub.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "GitHub",
-      "video": [],
-      "favicon": {
-        "url": "https://github.githubassets.com/favicons/favicon.svg"
-      }
-    }
-  },
-  {
-    "id": 30150776,
-    "title": "Ask HN: AT\u0026T Charing for FaceTime?",
-    "url": "https://news.ycombinator.com/item?id=30150776",
-    "time": 1643650048,
-    "image": "",
-    "icon": "https://news.ycombinator.com/favicon.ico",
-    "publisher": "Hacker News",
-    "description": "",
-    "by": "ada1981",
-    "points": 25,
-    "comment_count": 11,
-    "hn_item": {
-      "by": "gballan",
-      "descendants": 156,
-      "id": 30144805,
-      "kids": [
-        30145624,
-        30146670,
-        30149605,
-        30149271,
-        30145376,
-        30145576,
-        30153054,
-        30154040,
-        30148863,
-        30146426,
-        30150322,
-        30152549,
-        30152184,
-        30145888,
-        30146105,
-        30145424,
-        30150353,
-        30146422,
-        30146637,
-        30149567
-      ],
-      "score": 234,
-      "time": 1643606336,
-      "title": "Examples of common false beliefs in mathematics",
-      "type": "story",
-      "url": "https://mathoverflow.net/questions/23478/examples-of-common-false-beliefs-in-mathematics"
-    },
-    "og_item": {
-      "title": "Ask HN: AT\u0026T Charing for FaceTime? | Hacker News",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
+      "description": "The multi-billion dollar crypto project Wonderland has been engulfed in chaos after one of the co-founders was revealed to be a convicted fraudster.",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
       "site_name": "",
       "video": [],
       "favicon": {
-        "url": "favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30154875,
-    "title": "An Update on Wordle",
-    "url": "https://twitter.com/powerlanguish/status/1488263944309731329",
-    "time": 1643665295,
-    "image": "",
-    "icon": "https://abs.twimg.com/favicons/twitter.2.ico",
-    "publisher": "Twitter",
-    "description": "",
-    "by": "jbegley",
-    "points": 5,
-    "comment_count": 2,
-    "hn_item": {
-      "by": "gballan",
-      "descendants": 156,
-      "id": 30144805,
-      "kids": [
-        30145624,
-        30146670,
-        30149605,
-        30149271,
-        30145376,
-        30145576,
-        30153054,
-        30154040,
-        30148863,
-        30146426,
-        30150322,
-        30152549,
-        30152184,
-        30145888,
-        30146105,
-        30145424,
-        30150353,
-        30146422,
-        30146637,
-        30149567
-      ],
-      "score": 234,
-      "time": 1643606336,
-      "title": "Examples of common false beliefs in mathematics",
-      "type": "story",
-      "url": "https://mathoverflow.net/questions/23478/examples-of-common-false-beliefs-in-mathematics"
-    },
-    "og_item": {
-      "title": "",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Twitter",
-      "video": [],
-      "favicon": {
-        "url": "//abs.twimg.com/favicons/twitter.2.ico"
+        "url": "https://vice-web-statics-cdn.vice.com/favicons/vice/favicon-16x16.png"
       }
     }
   },
