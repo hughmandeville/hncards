@@ -58,7 +58,7 @@ const TopStoriesPage = () => {
           </div>
         )}
       </div>
-      <div id="footer">hnards.com is an unofficial alternative <a href="https://news.ycombinator.com/">Hacker News</a> UI.</div>
+      <div id="footer"><a href="https://hncards.com/">hncards.com</a> is an unofficial alternative <a href="https://news.ycombinator.com/">Hacker News</a> UI.</div>
     </div>
   );
 };
