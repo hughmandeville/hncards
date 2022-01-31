@@ -9,8 +9,8 @@
     "publisher": "imlefthanded.com",
     "description": "",
     "by": "decrypt",
-    "points": 229,
-    "comment_count": 299,
+    "points": 253,
+    "comment_count": 320,
     "hn_item": {
       "by": "walterbell",
       "descendants": 16,
@@ -57,7 +57,7 @@
     "publisher": "magistrate.khanna.law",
     "description": "",
     "by": "hkhanna",
-    "points": 93,
+    "points": 107,
     "comment_count": 36,
     "hn_item": {
       "by": "walterbell",
@@ -96,120 +96,6 @@
     }
   },
   {
-    "id": 30149844,
-    "title": "Giant Pyrosome",
-    "url": "https://oceana.org/marine-life/giant-pyrosome/",
-    "time": 1643646580,
-    "image": "https://oceana.org/wp-content/uploads/sites/18/shutterstock_1346977811-scaled.jpg",
-    "icon": "https://oceana.org/wp-content/uploads/sites/18/2021/05/cropped-cropped-Oceana_Icon_2Blue_RGB-01-192x192.png",
-    "publisher": "Oceana",
-    "description": "Giant Pyrosomes are bioluminescent (light producing), giving rise to the common name, which comes from the Greek for fire (“pyro”) and body (“soma”). The light produced by Giant Pyrosomes is particularly bright and long lasting and is beautiful to witness. Because the individual tunicat…",
-    "by": "integrale",
-    "points": 56,
-    "comment_count": 10,
-    "hn_item": {
-      "by": "walterbell",
-      "descendants": 16,
-      "id": 30143587,
-      "kids": [
-        30145356,
-        30145029,
-        30146983,
-        30143941,
-        30143985,
-        30146466,
-        30146168
-      ],
-      "score": 72,
-      "time": 1643594248,
-      "title": "Ylang: Universal language for eBPF, Stap+, GDB, and more",
-      "type": "story",
-      "url": "https://blog.openresty.com/en/ylang-intro-part4/"
-    },
-    "og_item": {
-      "title": "Giant Pyrosome",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://oceana.org/wp-content/uploads/sites/18/shutterstock_1346977811-scaled.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 2560,
-          "height": 1920,
-          "alt": ""
-        }
-      ],
-      "url": "https://oceana.org/marine-life/giant-pyrosome/",
-      "audio": [],
-      "description": "Giant Pyrosomes are bioluminescent (light producing), giving rise to the common name, which comes from the Greek for fire (“pyro”) and body (“soma”). The light produced by Giant Pyrosomes is particularly bright and long lasting and is beautiful to witness. Because the individual tunicates can reproduce via cloning, the colony can regenerate injured parts or continue growing ... Read more",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Oceana",
-      "video": [],
-      "favicon": {
-        "url": "https://oceana.org/wp-content/uploads/sites/18/2021/05/cropped-cropped-Oceana_Icon_2Blue_RGB-01-192x192.png"
-      }
-    }
-  },
-  {
-    "id": 30150018,
-    "title": "Pyflow – Visual and modular block programming in Python",
-    "url": "https://github.com/Bycelium/PyFlow",
-    "time": 1643647446,
-    "image": "https://opengraph.githubassets.com/14437649bcb776ce6ede1b71a19d2d382ad4ea69b99619a7f0e2a82beeec8b86/Bycelium/PyFlow",
-    "icon": "https://github.githubassets.com/favicons/favicon.svg",
-    "publisher": "GitHub",
-    "description": "An open-source tool for visual and modular block programing in python - GitHub - Bycelium/PyFlow: An open-source tool for visual and modular block programing in python",
-    "by": "amai",
-    "points": 41,
-    "comment_count": 11,
-    "hn_item": {
-      "by": "walterbell",
-      "descendants": 16,
-      "id": 30143587,
-      "kids": [
-        30145356,
-        30145029,
-        30146983,
-        30143941,
-        30143985,
-        30146466,
-        30146168
-      ],
-      "score": 72,
-      "time": 1643594248,
-      "title": "Ylang: Universal language for eBPF, Stap+, GDB, and more",
-      "type": "story",
-      "url": "https://blog.openresty.com/en/ylang-intro-part4/"
-    },
-    "og_item": {
-      "title": "GitHub - Bycelium/PyFlow: An open-source tool for visual and modular block programing in python",
-      "type": "object",
-      "image": [
-        {
-          "url": "https://opengraph.githubassets.com/14437649bcb776ce6ede1b71a19d2d382ad4ea69b99619a7f0e2a82beeec8b86/Bycelium/PyFlow",
-          "secure_url": "",
-          "type": "",
-          "width": 1200,
-          "height": 600,
-          "alt": ""
-        }
-      ],
-      "url": "https://github.com/Bycelium/PyFlow",
-      "audio": [],
-      "description": "An open-source tool for visual and modular block programing in python - GitHub - Bycelium/PyFlow: An open-source tool for visual and modular block programing in python",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "GitHub",
-      "video": [],
-      "favicon": {
-        "url": "https://github.githubassets.com/favicons/favicon.svg"
-      }
-    }
-  },
-  {
     "id": 30150586,
     "title": "Moderna’s HIV Vaccine Has Officially Begun Human Trials",
     "url": "https://www.them.us/story/hiv-aids-vaccine-human-trials-moderna",
@@ -219,8 +105,8 @@
     "publisher": "them.",
     "description": "We could be getting even closer to stopping the spread of HIV/AIDS.",
     "by": "grawprog",
-    "points": 82,
-    "comment_count": 17,
+    "points": 120,
+    "comment_count": 35,
     "hn_item": {
       "by": "walterbell",
       "descendants": 16,
@@ -267,17 +153,17 @@
     }
   },
   {
-    "id": 30148364,
-    "title": "The rising human cost of sports betting",
-    "url": "https://www.nytimes.com/2022/01/31/sports/football/super-bowl-sports-betting.html",
-    "time": 1643640178,
-    "image": "https://static01.nyt.com/images/2022/01/31/sports/31streeter-sot-podcast/merlin_201062172_a6e09b9d-629b-4a9d-91e8-9fcdb8365fe4-facebookJumbo.jpg",
-    "icon": "https://www.nytimes.com/vi-assets/static-assets/favicon-d2483f10ef688e6f89e23806b9700298.ico",
-    "publisher": "The New York Times",
-    "description": "The ends of the college and pro football seasons were already a perilous time for people recovering from a gambling addiction. Then came the onslaught of ads for legal sports betting.",
-    "by": "jbegley",
-    "points": 69,
-    "comment_count": 42,
+    "id": 30150018,
+    "title": "Pyflow – Visual and modular block programming in Python",
+    "url": "https://github.com/Bycelium/PyFlow",
+    "time": 1643647446,
+    "image": "https://opengraph.githubassets.com/6323db802471980539d6c265beab6610a332b945f5a1dd6a05895bf6dfe30412/Bycelium/PyFlow",
+    "icon": "https://github.githubassets.com/favicons/favicon.svg",
+    "publisher": "GitHub",
+    "description": "An open-source tool for visual and modular block programing in python - GitHub - Bycelium/PyFlow: An open-source tool for visual and modular block programing in python",
+    "by": "amai",
+    "points": 47,
+    "comment_count": 12,
     "hn_item": {
       "by": "walterbell",
       "descendants": 16,
@@ -298,28 +184,85 @@
       "url": "https://blog.openresty.com/en/ylang-intro-part4/"
     },
     "og_item": {
-      "title": "The Rising Human Cost of Sports Betting",
-      "type": "article",
+      "title": "GitHub - Bycelium/PyFlow: An open-source tool for visual and modular block programing in python",
+      "type": "object",
       "image": [
         {
-          "url": "https://static01.nyt.com/images/2022/01/31/sports/31streeter-sot-podcast/merlin_201062172_a6e09b9d-629b-4a9d-91e8-9fcdb8365fe4-facebookJumbo.jpg",
+          "url": "https://opengraph.githubassets.com/6323db802471980539d6c265beab6610a332b945f5a1dd6a05895bf6dfe30412/Bycelium/PyFlow",
           "secure_url": "",
           "type": "",
-          "width": 0,
-          "height": 0,
+          "width": 1200,
+          "height": 600,
           "alt": ""
         }
       ],
-      "url": "https://www.nytimes.com/2022/01/31/sports/football/super-bowl-sports-betting.html",
+      "url": "https://github.com/Bycelium/PyFlow",
       "audio": [],
-      "description": "The ends of the college and pro football seasons were already a perilous time for people recovering from a gambling addiction. Then came the onslaught of ads for legal sports betting.",
+      "description": "An open-source tool for visual and modular block programing in python - GitHub - Bycelium/PyFlow: An open-source tool for visual and modular block programing in python",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "",
+      "site_name": "GitHub",
       "video": [],
       "favicon": {
-        "url": "/vi-assets/static-assets/favicon-d2483f10ef688e6f89e23806b9700298.ico"
+        "url": "https://github.githubassets.com/favicons/favicon.svg"
+      }
+    }
+  },
+  {
+    "id": 30149844,
+    "title": "Giant Pyrosome",
+    "url": "https://oceana.org/marine-life/giant-pyrosome/",
+    "time": 1643646580,
+    "image": "https://oceana.org/wp-content/uploads/sites/18/shutterstock_1346977811-scaled.jpg",
+    "icon": "https://oceana.org/wp-content/uploads/sites/18/2021/05/cropped-cropped-Oceana_Icon_2Blue_RGB-01-192x192.png",
+    "publisher": "Oceana",
+    "description": "Giant Pyrosomes are bioluminescent (light producing), giving rise to the common name, which comes from the Greek for fire (“pyro”) and body (“soma”). The light produced by Giant Pyrosomes is particularly bright and long lasting and is beautiful to witness. Because the individual tunicat…",
+    "by": "integrale",
+    "points": 60,
+    "comment_count": 12,
+    "hn_item": {
+      "by": "walterbell",
+      "descendants": 16,
+      "id": 30143587,
+      "kids": [
+        30145356,
+        30145029,
+        30146983,
+        30143941,
+        30143985,
+        30146466,
+        30146168
+      ],
+      "score": 72,
+      "time": 1643594248,
+      "title": "Ylang: Universal language for eBPF, Stap+, GDB, and more",
+      "type": "story",
+      "url": "https://blog.openresty.com/en/ylang-intro-part4/"
+    },
+    "og_item": {
+      "title": "Giant Pyrosome",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://oceana.org/wp-content/uploads/sites/18/shutterstock_1346977811-scaled.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 2560,
+          "height": 1920,
+          "alt": ""
+        }
+      ],
+      "url": "https://oceana.org/marine-life/giant-pyrosome/",
+      "audio": [],
+      "description": "Giant Pyrosomes are bioluminescent (light producing), giving rise to the common name, which comes from the Greek for fire (“pyro”) and body (“soma”). The light produced by Giant Pyrosomes is particularly bright and long lasting and is beautiful to witness. Because the individual tunicates can reproduce via cloning, the colony can regenerate injured parts or continue growing ... Read more",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Oceana",
+      "video": [],
+      "favicon": {
+        "url": "https://oceana.org/wp-content/uploads/sites/18/2021/05/cropped-cropped-Oceana_Icon_2Blue_RGB-01-192x192.png"
       }
     }
   },
@@ -333,8 +276,8 @@
     "publisher": "Ask a Manager",
     "description": "A reader writes: This is a situation currently unfolding at my husband's office so I’m a very amused bystander and thought I’d get your opinion on this",
     "by": "amadeuspzs",
-    "points": 123,
-    "comment_count": 49,
+    "points": 149,
+    "comment_count": 62,
     "hn_item": {
       "by": "walterbell",
       "descendants": 16,
@@ -381,17 +324,17 @@
     }
   },
   {
-    "id": 30149213,
-    "title": "Learn Elisp the Hard Way (2011)",
-    "url": "https://github.com/hypernumbers/learn_elisp_the_hard_way",
-    "time": 1643643871,
-    "image": "https://opengraph.githubassets.com/14e48283e87dbed4708eb22b1e758c43a438470a2a00a93f8a635c73e8e7b440/hypernumbers/learn_elisp_the_hard_way",
-    "icon": "https://github.githubassets.com/favicons/favicon.svg",
-    "publisher": "GitHub",
-    "description": "A book about learning eLisp for customising Emacs the hard way - see the Gist https://gist.github.com/754568 - GitHub - hypernumbers/learn_elisp_the_hard_way: A book about learning eLisp for custom...",
-    "by": "AndroidKitKat",
-    "points": 46,
-    "comment_count": 18,
+    "id": 30148364,
+    "title": "The rising human cost of sports betting",
+    "url": "https://www.nytimes.com/2022/01/31/sports/football/super-bowl-sports-betting.html",
+    "time": 1643640178,
+    "image": "https://static01.nyt.com/images/2022/01/31/sports/31streeter-sot-podcast/merlin_201062172_a6e09b9d-629b-4a9d-91e8-9fcdb8365fe4-facebookJumbo.jpg",
+    "icon": "https://www.nytimes.com/vi-assets/static-assets/favicon-d2483f10ef688e6f89e23806b9700298.ico",
+    "publisher": "The New York Times",
+    "description": "The ends of the college and pro football seasons were already a perilous time for people recovering from a gambling addiction. Then came the onslaught of ads for legal sports betting.",
+    "by": "jbegley",
+    "points": 75,
+    "comment_count": 54,
     "hn_item": {
       "by": "walterbell",
       "descendants": 16,
@@ -412,28 +355,85 @@
       "url": "https://blog.openresty.com/en/ylang-intro-part4/"
     },
     "og_item": {
-      "title": "GitHub - hypernumbers/learn_elisp_the_hard_way: A book about learning eLisp for customising Emacs the hard way - see the Gist https://gist.github.com/754568",
-      "type": "object",
+      "title": "The Rising Human Cost of Sports Betting",
+      "type": "article",
       "image": [
         {
-          "url": "https://opengraph.githubassets.com/14e48283e87dbed4708eb22b1e758c43a438470a2a00a93f8a635c73e8e7b440/hypernumbers/learn_elisp_the_hard_way",
+          "url": "https://static01.nyt.com/images/2022/01/31/sports/31streeter-sot-podcast/merlin_201062172_a6e09b9d-629b-4a9d-91e8-9fcdb8365fe4-facebookJumbo.jpg",
           "secure_url": "",
           "type": "",
-          "width": 1200,
-          "height": 600,
+          "width": 0,
+          "height": 0,
           "alt": ""
         }
       ],
-      "url": "https://github.com/hypernumbers/learn_elisp_the_hard_way",
+      "url": "https://www.nytimes.com/2022/01/31/sports/football/super-bowl-sports-betting.html",
       "audio": [],
-      "description": "A book about learning eLisp for customising Emacs the hard way - see the Gist https://gist.github.com/754568 - GitHub - hypernumbers/learn_elisp_the_hard_way: A book about learning eLisp for custom...",
+      "description": "The ends of the college and pro football seasons were already a perilous time for people recovering from a gambling addiction. Then came the onslaught of ads for legal sports betting.",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "GitHub",
+      "site_name": "",
       "video": [],
       "favicon": {
-        "url": "https://github.githubassets.com/favicons/favicon.svg"
+        "url": "/vi-assets/static-assets/favicon-d2483f10ef688e6f89e23806b9700298.ico"
+      }
+    }
+  },
+  {
+    "id": 30150495,
+    "title": "Yemen's Bifurcated Monetary System",
+    "url": "http://jpkoning.blogspot.com/2022/01/yemens-bifurcated-monetary-system.html",
+    "time": 1643649091,
+    "image": "https://blogger.googleusercontent.com/img/a/AVvXsEik0CBmVpDrUhhIxH011-Fg_gzRQvIxXKxawcNToIYUvltxopGg7sVbzIiZdMjBvz3W5lFNfHa9zfInMtpmn1W73uCCQw4mOXEpVmw6OOkBflt7N2aPtKOr0z0f4KIw29OppnUpLnjYTM-nUcQ7Ap0HXrFXGJfy5u2R6LiNL7CLNx2U0cYp7t0S_qZr=w1200-h630-p-k-no-nu",
+    "icon": "",
+    "publisher": "jpkoning.blogspot.com",
+    "description": "Over the last five years Yemen has stumbled into a unique monetary situation. I initially wrote about Yemen's odd currency status two years ...",
+    "by": "rwmj",
+    "points": 23,
+    "comment_count": 2,
+    "hn_item": {
+      "by": "walterbell",
+      "descendants": 16,
+      "id": 30143587,
+      "kids": [
+        30145356,
+        30145029,
+        30146983,
+        30143941,
+        30143985,
+        30146466,
+        30146168
+      ],
+      "score": 72,
+      "time": 1643594248,
+      "title": "Ylang: Universal language for eBPF, Stap+, GDB, and more",
+      "type": "story",
+      "url": "https://blog.openresty.com/en/ylang-intro-part4/"
+    },
+    "og_item": {
+      "title": "Yemen's bifurcated monetary system",
+      "type": "",
+      "image": [
+        {
+          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEik0CBmVpDrUhhIxH011-Fg_gzRQvIxXKxawcNToIYUvltxopGg7sVbzIiZdMjBvz3W5lFNfHa9zfInMtpmn1W73uCCQw4mOXEpVmw6OOkBflt7N2aPtKOr0z0f4KIw29OppnUpLnjYTM-nUcQ7Ap0HXrFXGJfy5u2R6LiNL7CLNx2U0cYp7t0S_qZr=w1200-h630-p-k-no-nu",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "http://jpkoning.blogspot.com/2022/01/yemens-bifurcated-monetary-system.html",
+      "audio": [],
+      "description": "Over the last five years Yemen has stumbled into a unique monetary situation. I initially wrote about Yemen's odd currency status two years ...",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "http://jpkoning.blogspot.com/favicon.ico"
       }
     }
   },
@@ -495,17 +495,17 @@
     }
   },
   {
-    "id": 30150495,
-    "title": "Yemen's Bifurcated Monetary System",
-    "url": "http://jpkoning.blogspot.com/2022/01/yemens-bifurcated-monetary-system.html",
-    "time": 1643649091,
-    "image": "https://blogger.googleusercontent.com/img/a/AVvXsEik0CBmVpDrUhhIxH011-Fg_gzRQvIxXKxawcNToIYUvltxopGg7sVbzIiZdMjBvz3W5lFNfHa9zfInMtpmn1W73uCCQw4mOXEpVmw6OOkBflt7N2aPtKOr0z0f4KIw29OppnUpLnjYTM-nUcQ7Ap0HXrFXGJfy5u2R6LiNL7CLNx2U0cYp7t0S_qZr=w1200-h630-p-k-no-nu",
-    "icon": "",
-    "publisher": "jpkoning.blogspot.com",
-    "description": "Over the last five years Yemen has stumbled into a unique monetary situation. I initially wrote about Yemen's odd currency status two years ...",
-    "by": "rwmj",
-    "points": 18,
-    "comment_count": 2,
+    "id": 30149213,
+    "title": "Learn Elisp the Hard Way (2011)",
+    "url": "https://github.com/hypernumbers/learn_elisp_the_hard_way",
+    "time": 1643643871,
+    "image": "https://opengraph.githubassets.com/78278882c2e2efd6b2821c0fa34d83edba53f1219460b0d60b9bb4adf18c9596/hypernumbers/learn_elisp_the_hard_way",
+    "icon": "https://github.githubassets.com/favicons/favicon.svg",
+    "publisher": "GitHub",
+    "description": "A book about learning eLisp for customising Emacs the hard way - see the Gist https://gist.github.com/754568 - GitHub - hypernumbers/learn_elisp_the_hard_way: A book about learning eLisp for custom...",
+    "by": "AndroidKitKat",
+    "points": 48,
+    "comment_count": 19,
     "hn_item": {
       "by": "walterbell",
       "descendants": 16,
@@ -526,28 +526,28 @@
       "url": "https://blog.openresty.com/en/ylang-intro-part4/"
     },
     "og_item": {
-      "title": "Yemen's bifurcated monetary system",
-      "type": "",
+      "title": "GitHub - hypernumbers/learn_elisp_the_hard_way: A book about learning eLisp for customising Emacs the hard way - see the Gist https://gist.github.com/754568",
+      "type": "object",
       "image": [
         {
-          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEik0CBmVpDrUhhIxH011-Fg_gzRQvIxXKxawcNToIYUvltxopGg7sVbzIiZdMjBvz3W5lFNfHa9zfInMtpmn1W73uCCQw4mOXEpVmw6OOkBflt7N2aPtKOr0z0f4KIw29OppnUpLnjYTM-nUcQ7Ap0HXrFXGJfy5u2R6LiNL7CLNx2U0cYp7t0S_qZr=w1200-h630-p-k-no-nu",
+          "url": "https://opengraph.githubassets.com/78278882c2e2efd6b2821c0fa34d83edba53f1219460b0d60b9bb4adf18c9596/hypernumbers/learn_elisp_the_hard_way",
           "secure_url": "",
           "type": "",
-          "width": 0,
-          "height": 0,
+          "width": 1200,
+          "height": 600,
           "alt": ""
         }
       ],
-      "url": "http://jpkoning.blogspot.com/2022/01/yemens-bifurcated-monetary-system.html",
+      "url": "https://github.com/hypernumbers/learn_elisp_the_hard_way",
       "audio": [],
-      "description": "Over the last five years Yemen has stumbled into a unique monetary situation. I initially wrote about Yemen's odd currency status two years ...",
+      "description": "A book about learning eLisp for customising Emacs the hard way - see the Gist https://gist.github.com/754568 - GitHub - hypernumbers/learn_elisp_the_hard_way: A book about learning eLisp for custom...",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "",
+      "site_name": "GitHub",
       "video": [],
       "favicon": {
-        "url": "http://jpkoning.blogspot.com/favicon.ico"
+        "url": "https://github.githubassets.com/favicons/favicon.svg"
       }
     }
   },
@@ -561,7 +561,7 @@
     "publisher": "leadership.garden",
     "description": "",
     "by": "ochronus",
-    "points": 28,
+    "points": 31,
     "comment_count": 13,
     "hn_item": {
       "by": "walterbell",
@@ -609,8 +609,8 @@
     "publisher": "Twitter",
     "description": "",
     "by": "hubraumhugo",
-    "points": 225,
-    "comment_count": 100,
+    "points": 228,
+    "comment_count": 105,
     "hn_item": {
       "by": "walterbell",
       "descendants": 16,
@@ -648,54 +648,6 @@
     }
   },
   {
-    "id": 30149108,
-    "title": "Boring Technology Checklist",
-    "url": "https://blog.staging.begin.com/posts/2022-01-27-the-boring-technology-checklist",
-    "time": 1643643407,
-    "image": "",
-    "icon": "https://static.begin.com/web/favicon/favicon-16-5360d8ce95.png",
-    "publisher": "blog.staging.begin.com",
-    "description": "Technologists love new technology—that new shiny thing. But, often, the promise of a new solution introduces new unforeseen problems creating unplanned challen…",
-    "by": "macdonst",
-    "points": 95,
-    "comment_count": 61,
-    "hn_item": {
-      "by": "walterbell",
-      "descendants": 16,
-      "id": 30143587,
-      "kids": [
-        30145356,
-        30145029,
-        30146983,
-        30143941,
-        30143985,
-        30146466,
-        30146168
-      ],
-      "score": 72,
-      "time": 1643594248,
-      "title": "Ylang: Universal language for eBPF, Stap+, GDB, and more",
-      "type": "story",
-      "url": "https://blog.openresty.com/en/ylang-intro-part4/"
-    },
-    "og_item": {
-      "title": "The Boring Technology Checklist - Begin",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "Technologists love new technology—that new shiny thing. But, often, the promise of a new solution introduces new unforeseen problems creating unplanned challen…",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "https://static.begin.com/web/favicon/favicon-16-5360d8ce95.png"
-      }
-    }
-  },
-  {
     "id": 30149838,
     "title": "Ask HN: Where do you hang out virtually online?",
     "url": "https://news.ycombinator.com/item?id=30149838",
@@ -705,8 +657,8 @@
     "publisher": "Hacker News",
     "description": "",
     "by": "codemonkeysh",
-    "points": 60,
-    "comment_count": 69,
+    "points": 67,
+    "comment_count": 78,
     "hn_item": {
       "by": "walterbell",
       "descendants": 16,
@@ -744,17 +696,17 @@
     }
   },
   {
-    "id": 30137254,
-    "title": "Autodocumenting Makefiles",
-    "url": "https://daniel.feldroy.com/posts/autodocumenting-makefiles",
-    "time": 1643551305,
-    "image": "https://daniel.feldroy.com/images/autodocumenting-makefiles.png",
-    "icon": "https://daniel.feldroy.com/favicon/favicon-16x16.png",
-    "publisher": "Daniel Roy Greenfeld",
-    "description": "Make Your Makefiles Make Your Day!",
-    "by": "JNRowe",
-    "points": 18,
-    "comment_count": 8,
+    "id": 30150219,
+    "title": "Show HN: Rich-CLI – A CLI toolbox for highlighting, Markdown, JSON and rich text",
+    "url": "https://github.com/Textualize/rich-cli",
+    "time": 1643648179,
+    "image": "https://repository-images.githubusercontent.com/450811921/deaed23c-21f6-4a3a-bc40-9b2d0ae33b38",
+    "icon": "https://github.githubassets.com/favicons/favicon.svg",
+    "publisher": "GitHub",
+    "description": "Rich-cli is a command line toolbox for fancy output in the terminal - GitHub - Textualize/rich-cli: Rich-cli is a command line toolbox for fancy output in the terminal",
+    "by": "willm",
+    "points": 24,
+    "comment_count": 5,
     "hn_item": {
       "by": "walterbell",
       "descendants": 16,
@@ -775,11 +727,11 @@
       "url": "https://blog.openresty.com/en/ylang-intro-part4/"
     },
     "og_item": {
-      "title": "Autodocumenting Makefiles",
-      "type": "website",
+      "title": "GitHub - Textualize/rich-cli: Rich-cli is a command line toolbox for fancy output in the terminal",
+      "type": "object",
       "image": [
         {
-          "url": "https://daniel.feldroy.com/images/autodocumenting-makefiles.png",
+          "url": "https://repository-images.githubusercontent.com/450811921/deaed23c-21f6-4a3a-bc40-9b2d0ae33b38",
           "secure_url": "",
           "type": "",
           "width": 0,
@@ -787,16 +739,64 @@
           "alt": ""
         }
       ],
-      "url": "https://daniel.feldroy.com/posts/autodocumenting-makefiles",
+      "url": "https://github.com/Textualize/rich-cli",
       "audio": [],
-      "description": "Make Your Makefiles Make Your Day!",
+      "description": "Rich-cli is a command line toolbox for fancy output in the terminal - GitHub - Textualize/rich-cli: Rich-cli is a command line toolbox for fancy output in the terminal",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "Daniel Roy Greenfeld",
+      "site_name": "GitHub",
       "video": [],
       "favicon": {
-        "url": "/favicon/favicon-16x16.png"
+        "url": "https://github.githubassets.com/favicons/favicon.svg"
+      }
+    }
+  },
+  {
+    "id": 30149108,
+    "title": "Boring Technology Checklist",
+    "url": "https://blog.staging.begin.com/posts/2022-01-27-the-boring-technology-checklist",
+    "time": 1643643407,
+    "image": "",
+    "icon": "https://static.begin.com/web/favicon/favicon-16-5360d8ce95.png",
+    "publisher": "blog.staging.begin.com",
+    "description": "Technologists love new technology—that new shiny thing. But, often, the promise of a new solution introduces new unforeseen problems creating unplanned challen…",
+    "by": "macdonst",
+    "points": 99,
+    "comment_count": 64,
+    "hn_item": {
+      "by": "walterbell",
+      "descendants": 16,
+      "id": 30143587,
+      "kids": [
+        30145356,
+        30145029,
+        30146983,
+        30143941,
+        30143985,
+        30146466,
+        30146168
+      ],
+      "score": 72,
+      "time": 1643594248,
+      "title": "Ylang: Universal language for eBPF, Stap+, GDB, and more",
+      "type": "story",
+      "url": "https://blog.openresty.com/en/ylang-intro-part4/"
+    },
+    "og_item": {
+      "title": "The Boring Technology Checklist - Begin",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "Technologists love new technology—that new shiny thing. But, often, the promise of a new solution introduces new unforeseen problems creating unplanned challen…",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "https://static.begin.com/web/favicon/favicon-16-5360d8ce95.png"
       }
     }
   },
@@ -810,8 +810,8 @@
     "publisher": "Antigone",
     "description": "ANDREW BEER The genuine pleasure of yielding to better arguments.",
     "by": "AverilS",
-    "points": 95,
-    "comment_count": 24,
+    "points": 99,
+    "comment_count": 28,
     "hn_item": {
       "by": "walterbell",
       "descendants": 16,
@@ -867,8 +867,8 @@
     "publisher": "TechCrunch",
     "description": "Today’s cars are dumb where they should be smart, and smart where they should be dumb. Enough already. Make a car that’s pretty much all dumb and watch it sell — because what automakers are giving people is so bad, they’ll pay more to have less of it. Cars now are like budget smar…",
     "by": "wrycoder",
-    "points": 206,
-    "comment_count": 296,
+    "points": 217,
+    "comment_count": 312,
     "hn_item": {
       "by": "walterbell",
       "descendants": 16,
@@ -915,17 +915,17 @@
     }
   },
   {
-    "id": 30150219,
-    "title": "Show HN: Rich-CLI – A CLI toolbox for highlighting, Markdown, JSON and rich text",
-    "url": "https://github.com/Textualize/rich-cli",
-    "time": 1643648179,
-    "image": "https://repository-images.githubusercontent.com/450811921/deaed23c-21f6-4a3a-bc40-9b2d0ae33b38",
-    "icon": "https://github.githubassets.com/favicons/favicon.svg",
-    "publisher": "GitHub",
-    "description": "Rich-cli is a command line toolbox for fancy output in the terminal - GitHub - Textualize/rich-cli: Rich-cli is a command line toolbox for fancy output in the terminal",
-    "by": "willm",
-    "points": 22,
-    "comment_count": 4,
+    "id": 30137254,
+    "title": "Autodocumenting Makefiles",
+    "url": "https://daniel.feldroy.com/posts/autodocumenting-makefiles",
+    "time": 1643551305,
+    "image": "https://daniel.feldroy.com/images/autodocumenting-makefiles.png",
+    "icon": "https://daniel.feldroy.com/favicon/favicon-16x16.png",
+    "publisher": "Daniel Roy Greenfeld",
+    "description": "Make Your Makefiles Make Your Day!",
+    "by": "JNRowe",
+    "points": 18,
+    "comment_count": 11,
     "hn_item": {
       "by": "walterbell",
       "descendants": 16,
@@ -946,11 +946,11 @@
       "url": "https://blog.openresty.com/en/ylang-intro-part4/"
     },
     "og_item": {
-      "title": "GitHub - Textualize/rich-cli: Rich-cli is a command line toolbox for fancy output in the terminal",
-      "type": "object",
+      "title": "Autodocumenting Makefiles",
+      "type": "website",
       "image": [
         {
-          "url": "https://repository-images.githubusercontent.com/450811921/deaed23c-21f6-4a3a-bc40-9b2d0ae33b38",
+          "url": "https://daniel.feldroy.com/images/autodocumenting-makefiles.png",
           "secure_url": "",
           "type": "",
           "width": 0,
@@ -958,16 +958,16 @@
           "alt": ""
         }
       ],
-      "url": "https://github.com/Textualize/rich-cli",
+      "url": "https://daniel.feldroy.com/posts/autodocumenting-makefiles",
       "audio": [],
-      "description": "Rich-cli is a command line toolbox for fancy output in the terminal - GitHub - Textualize/rich-cli: Rich-cli is a command line toolbox for fancy output in the terminal",
+      "description": "Make Your Makefiles Make Your Day!",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "GitHub",
+      "site_name": "Daniel Roy Greenfeld",
       "video": [],
       "favicon": {
-        "url": "https://github.githubassets.com/favicons/favicon.svg"
+        "url": "/favicon/favicon-16x16.png"
       }
     }
   },
@@ -976,12 +976,12 @@
     "title": "Mixbox: Practical pigment mixing for digital painting",
     "url": "https://github.com/scrtwpns/pigment-mixing",
     "time": 1643385624,
-    "image": "https://opengraph.githubassets.com/9ef3fffed992e85052eb6a6026813de357c3fb1c976fc1305645f1b9e549ac90/scrtwpns/pigment-mixing",
+    "image": "https://opengraph.githubassets.com/ed772fd988fdedff2bfbaaf38653ba8720e1fc90c3152966087a2b103fb50749/scrtwpns/pigment-mixing",
     "icon": "https://github.githubassets.com/favicons/favicon.svg",
     "publisher": "GitHub",
     "description": "Practical Pigment Mixing for Digital Painting. Contribute to scrtwpns/pigment-mixing development by creating an account on GitHub.",
     "by": "maydemir",
-    "points": 61,
+    "points": 63,
     "comment_count": 13,
     "hn_item": {
       "by": "walterbell",
@@ -1007,7 +1007,7 @@
       "type": "object",
       "image": [
         {
-          "url": "https://opengraph.githubassets.com/9ef3fffed992e85052eb6a6026813de357c3fb1c976fc1305645f1b9e549ac90/scrtwpns/pigment-mixing",
+          "url": "https://opengraph.githubassets.com/ed772fd988fdedff2bfbaaf38653ba8720e1fc90c3152966087a2b103fb50749/scrtwpns/pigment-mixing",
           "secure_url": "",
           "type": "",
           "width": 1200,
@@ -1038,8 +1038,8 @@
     "publisher": "pcjs.org",
     "description": "Home of the original IBM PC emulator for browsers. PCjs offers a variety of online machine emulators written in JavaScript. Run DOS, Windows, OS/2 and other vintage PC applications in a web browser on your desktop computer, iPhone, or iPad. An assortment of microcomputers, minicomputers, terminal…",
     "by": "DiabloD3",
-    "points": 63,
-    "comment_count": 22,
+    "points": 64,
+    "comment_count": 23,
     "hn_item": {
       "by": "walterbell",
       "descendants": 16,
@@ -1143,8 +1143,8 @@
     "publisher": "University of Michigan News",
     "description": "A new biologically inspired battery membrane has enabled a battery with five times the capacity of the industry-standard lithium ion design to run for the thousand-plus cycles needed to power an electric car.\n\nA network of aramid nanofibers, recycled from Kevlar, can enable lithium-sulfur batterie",
     "by": "maeln",
-    "points": 64,
-    "comment_count": 121,
+    "points": 65,
+    "comment_count": 122,
     "hn_item": {
       "by": "walterbell",
       "descendants": 16,
@@ -1191,63 +1191,6 @@
     }
   },
   {
-    "id": 30147213,
-    "title": "Textual for Windows (Python package for TUIs)",
-    "url": "https://www.willmcgugan.com/blog/tech/post/textual-for-windows/",
-    "time": 1643632067,
-    "image": "https://media.moyaproject.com/willmcgugan/uploads/thumbnails/techblog/9f8c0466-8285-11ec-97a9-f23c91845b44.png/9f8c0466-8285-11ec-97a9-f23c91845b44png.og.preview.2.jpeg",
-    "icon": "https://www.willmcgugan.com/favicon.ico",
-    "publisher": "Will McGugan Tech",
-    "description": "Textual adds Windows support I've just released v0.1.15 of Textual, with Windows support. The Windows support is somewhat experimental, but so far seems solid. You will get best results on the new Windows Terminal. On the classic command prompt you might find a reduced color palette. This works o…",
-    "by": "RojerGS",
-    "points": 59,
-    "comment_count": 9,
-    "hn_item": {
-      "by": "walterbell",
-      "descendants": 16,
-      "id": 30143587,
-      "kids": [
-        30145356,
-        30145029,
-        30146983,
-        30143941,
-        30143985,
-        30146466,
-        30146168
-      ],
-      "score": 72,
-      "time": 1643594248,
-      "title": "Ylang: Universal language for eBPF, Stap+, GDB, and more",
-      "type": "story",
-      "url": "https://blog.openresty.com/en/ylang-intro-part4/"
-    },
-    "og_item": {
-      "title": "Textual for Windows",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://media.moyaproject.com/willmcgugan/uploads/thumbnails/techblog/9f8c0466-8285-11ec-97a9-f23c91845b44.png/9f8c0466-8285-11ec-97a9-f23c91845b44png.og.preview.2.jpeg",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://www.willmcgugan.com/blog/tech/post/textual-for-windows/",
-      "audio": [],
-      "description": "Textual adds Windows support I've just released v0.1.15 of Textual, with Windows support. The Windows support is somewhat experimental, but so far seems solid. You will get best results on the new Windows Terminal. On the classic command prompt you might find a reduced color palette. This works on […]",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Will McGugan Tech",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30144805,
     "title": "Examples of common false beliefs in mathematics",
     "url": "https://mathoverflow.net/questions/23478/examples-of-common-false-beliefs-in-mathematics",
@@ -1257,7 +1200,7 @@
     "publisher": "MathOverflow",
     "description": "The first thing to say is that this is not the same as the question about interesting mathematical mistakes. I am interested about the type of false beliefs that many intelligent people have while ...",
     "by": "gballan",
-    "points": 211,
+    "points": 212,
     "comment_count": 127,
     "hn_item": {
       "by": "walterbell",
@@ -1305,6 +1248,63 @@
     }
   },
   {
+    "id": 30147213,
+    "title": "Textual for Windows (Python package for TUIs)",
+    "url": "https://www.willmcgugan.com/blog/tech/post/textual-for-windows/",
+    "time": 1643632067,
+    "image": "https://media.moyaproject.com/willmcgugan/uploads/thumbnails/techblog/9f8c0466-8285-11ec-97a9-f23c91845b44.png/9f8c0466-8285-11ec-97a9-f23c91845b44png.og.preview.2.jpeg",
+    "icon": "https://www.willmcgugan.com/favicon.ico",
+    "publisher": "Will McGugan Tech",
+    "description": "Textual adds Windows support I've just released v0.1.15 of Textual, with Windows support. The Windows support is somewhat experimental, but so far seems solid. You will get best results on the new Windows Terminal. On the classic command prompt you might find a reduced color palette. This works o…",
+    "by": "RojerGS",
+    "points": 60,
+    "comment_count": 9,
+    "hn_item": {
+      "by": "walterbell",
+      "descendants": 16,
+      "id": 30143587,
+      "kids": [
+        30145356,
+        30145029,
+        30146983,
+        30143941,
+        30143985,
+        30146466,
+        30146168
+      ],
+      "score": 72,
+      "time": 1643594248,
+      "title": "Ylang: Universal language for eBPF, Stap+, GDB, and more",
+      "type": "story",
+      "url": "https://blog.openresty.com/en/ylang-intro-part4/"
+    },
+    "og_item": {
+      "title": "Textual for Windows",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://media.moyaproject.com/willmcgugan/uploads/thumbnails/techblog/9f8c0466-8285-11ec-97a9-f23c91845b44.png/9f8c0466-8285-11ec-97a9-f23c91845b44png.og.preview.2.jpeg",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://www.willmcgugan.com/blog/tech/post/textual-for-windows/",
+      "audio": [],
+      "description": "Textual adds Windows support I've just released v0.1.15 of Textual, with Windows support. The Windows support is somewhat experimental, but so far seems solid. You will get best results on the new Windows Terminal. On the classic command prompt you might find a reduced color palette. This works on […]",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Will McGugan Tech",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30147755,
     "title": "Polar bears move into abandoned Arctic weather station",
     "url": "https://www.theguardian.com/world/2022/jan/31/polar-bears-move-into-abandoned-arctic-weather-station-photo-essay",
@@ -1315,7 +1315,7 @@
     "description": "Photographer Dmitry Kokh discovered polar bears living in an abandoned weather station in Kolyuchin in the Chukotka Autonomous Okrug of Russia",
     "by": "sofixa",
     "points": 162,
-    "comment_count": 39,
+    "comment_count": 40,
     "hn_item": {
       "by": "walterbell",
       "descendants": 16,
@@ -1371,7 +1371,7 @@
     "publisher": "IEEE Spectrum",
     "description": "In 1879, a physicist set the stage for efficient space propulsion",
     "by": "headalgorithm",
-    "points": 27,
+    "points": 28,
     "comment_count": 1,
     "hn_item": {
       "by": "walterbell",
@@ -1419,54 +1419,6 @@
     }
   },
   {
-    "id": 30144652,
-    "title": "Zero-copy network transmission with io_uring (2021)",
-    "url": "https://lwn.net/Articles/879724/",
-    "time": 1643605041,
-    "image": "",
-    "icon": "https://static.lwn.net/images/favicon.png",
-    "publisher": "lwn.net",
-    "description": "",
-    "by": "pabs3",
-    "points": 221,
-    "comment_count": 43,
-    "hn_item": {
-      "by": "walterbell",
-      "descendants": 16,
-      "id": 30143587,
-      "kids": [
-        30145356,
-        30145029,
-        30146983,
-        30143941,
-        30143985,
-        30146466,
-        30146168
-      ],
-      "score": 72,
-      "time": 1643594248,
-      "title": "Ylang: Universal language for eBPF, Stap+, GDB, and more",
-      "type": "story",
-      "url": "https://blog.openresty.com/en/ylang-intro-part4/"
-    },
-    "og_item": {
-      "title": "Zero-copy network transmission with io_uring [LWN.net]",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "https://static.lwn.net/images/favicon.png"
-      }
-    }
-  },
-  {
     "id": 30148272,
     "title": "Citrix to be acquired for $16.5B, will be merged with Tibco",
     "url": "https://techcrunch.com/2022/01/31/citrix-to-be-acquired-by-vista-and-evergreen-elliott-in-a-16-5b-all-cash-deal-will-be-merged-with-tibco-to-create-saas-powerhouse/",
@@ -1476,8 +1428,8 @@
     "publisher": "TechCrunch",
     "description": "More consolidation is afoot in the world of IT to meet a new demand from enterprises for “one-stop shops” covering a wide range of needs in our hybrid world of work. Citrix, the long-in-the-tooth virtualization giant that had been making a slow transition into cloud computing, is being …",
     "by": "blopeur",
-    "points": 68,
-    "comment_count": 44,
+    "points": 72,
+    "comment_count": 46,
     "hn_item": {
       "by": "walterbell",
       "descendants": 16,
@@ -1524,6 +1476,54 @@
     }
   },
   {
+    "id": 30144652,
+    "title": "Zero-copy network transmission with io_uring (2021)",
+    "url": "https://lwn.net/Articles/879724/",
+    "time": 1643605041,
+    "image": "",
+    "icon": "https://static.lwn.net/images/favicon.png",
+    "publisher": "lwn.net",
+    "description": "",
+    "by": "pabs3",
+    "points": 223,
+    "comment_count": 43,
+    "hn_item": {
+      "by": "walterbell",
+      "descendants": 16,
+      "id": 30143587,
+      "kids": [
+        30145356,
+        30145029,
+        30146983,
+        30143941,
+        30143985,
+        30146466,
+        30146168
+      ],
+      "score": 72,
+      "time": 1643594248,
+      "title": "Ylang: Universal language for eBPF, Stap+, GDB, and more",
+      "type": "story",
+      "url": "https://blog.openresty.com/en/ylang-intro-part4/"
+    },
+    "og_item": {
+      "title": "Zero-copy network transmission with io_uring [LWN.net]",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "https://static.lwn.net/images/favicon.png"
+      }
+    }
+  },
+  {
     "id": 30124457,
     "title": "Chip shortages due to lack of investment in right fabs",
     "url": "https://www.theregister.com/2022/01/28/idc_chip_shortages/",
@@ -1533,8 +1533,8 @@
     "publisher": "theregister.com",
     "description": "",
     "by": "laktak",
-    "points": 196,
-    "comment_count": 149,
+    "points": 197,
+    "comment_count": 151,
     "hn_item": {
       "by": "walterbell",
       "descendants": 16,
@@ -1629,7 +1629,7 @@
     "publisher": "mattferraro.dev",
     "description": "What does it mean to invert a shape?",
     "by": "mferraro89",
-    "points": 201,
+    "points": 202,
     "comment_count": 43,
     "hn_item": {
       "by": "walterbell",
@@ -1686,8 +1686,8 @@
     "publisher": "GitHub",
     "description": "A light based alert system. Contribute to jscd/Boyfriend-Alert development by creating an account on GitHub.",
     "by": "rgun",
-    "points": 194,
-    "comment_count": 159,
+    "points": 196,
+    "comment_count": 160,
     "hn_item": {
       "by": "walterbell",
       "descendants": 16,
@@ -1743,8 +1743,8 @@
     "publisher": "bleepingcomputer.com",
     "description": "",
     "by": "beermonster",
-    "points": 190,
-    "comment_count": 94,
+    "points": 192,
+    "comment_count": 96,
     "hn_item": {
       "by": "walterbell",
       "descendants": 16,
@@ -1778,6 +1778,120 @@
       "video": [],
       "favicon": {
         "url": "/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30151580,
+    "title": "Sony to buy video game maker Bungie in $3.6B deal",
+    "url": "https://www.cnbc.com/2022/01/31/sony-to-buy-video-game-maker-bungie-in-3point6-billion-deal.html",
+    "time": 1643652527,
+    "image": "https://image.cnbcfm.com/api/v1/image/107008952-1643653079291-gettyimages-868750574-98242287.jpeg?v=1643653125",
+    "icon": "https://www.cnbc.com/favicon.ico",
+    "publisher": "CNBC",
+    "description": "Sony has agreed to acquire Bungie in a $3.6 billion deal, continuing January's torrid pace of video game consolidation",
+    "by": "daveaiello",
+    "points": 11,
+    "comment_count": 1,
+    "hn_item": {
+      "by": "walterbell",
+      "descendants": 16,
+      "id": 30143587,
+      "kids": [
+        30145356,
+        30145029,
+        30146983,
+        30143941,
+        30143985,
+        30146466,
+        30146168
+      ],
+      "score": 72,
+      "time": 1643594248,
+      "title": "Ylang: Universal language for eBPF, Stap+, GDB, and more",
+      "type": "story",
+      "url": "https://blog.openresty.com/en/ylang-intro-part4/"
+    },
+    "og_item": {
+      "title": "Sony to buy video game maker Bungie in $3.6 billion deal as video game consolidation heats up",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107008952-1643653079291-gettyimages-868750574-98242287.jpeg?v=1643653125",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://www.cnbc.com/2022/01/31/sony-to-buy-video-game-maker-bungie-in-3point6-billion-deal.html",
+      "audio": [],
+      "description": "Sony has agreed to acquire Bungie in a $3.6 billion deal, continuing January's torrid pace of video game consolidation",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "CNBC",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30147652,
+    "title": "Firecracker v1.0 Released",
+    "url": "https://github.com/firecracker-microvm/firecracker/releases/tag/v1.0.0",
+    "time": 1643635848,
+    "image": "https://opengraph.githubassets.com/43df46d273bf8d33a7b16fa8ef2d30f812936ef3d106169e6ae22ce4eea6e046/firecracker-microvm/firecracker/releases/tag/v1.0.0",
+    "icon": "https://github.githubassets.com/favicons/favicon.svg",
+    "publisher": "GitHub",
+    "description": "Added\n\nAdded jailer option --parent-cgroup \u003crelative_path\u003e to allow the placement\nof microvm cgroups in custom cgroup nested hierarchies. The default value is\n\u003cexec-file\u003e which is backwards compati...",
+    "by": "ciprian_craciun",
+    "points": 66,
+    "comment_count": 13,
+    "hn_item": {
+      "by": "walterbell",
+      "descendants": 16,
+      "id": 30143587,
+      "kids": [
+        30145356,
+        30145029,
+        30146983,
+        30143941,
+        30143985,
+        30146466,
+        30146168
+      ],
+      "score": 72,
+      "time": 1643594248,
+      "title": "Ylang: Universal language for eBPF, Stap+, GDB, and more",
+      "type": "story",
+      "url": "https://blog.openresty.com/en/ylang-intro-part4/"
+    },
+    "og_item": {
+      "title": "Release Firecracker v1.0.0 · firecracker-microvm/firecracker",
+      "type": "object",
+      "image": [
+        {
+          "url": "https://opengraph.githubassets.com/43df46d273bf8d33a7b16fa8ef2d30f812936ef3d106169e6ae22ce4eea6e046/firecracker-microvm/firecracker/releases/tag/v1.0.0",
+          "secure_url": "",
+          "type": "",
+          "width": 1200,
+          "height": 600,
+          "alt": ""
+        }
+      ],
+      "url": "/firecracker-microvm/firecracker/releases/tag/v1.0.0",
+      "audio": [],
+      "description": "Added\n\nAdded jailer option --parent-cgroup \u003crelative_path\u003e to allow the placement\nof microvm cgroups in custom cgroup nested hierarchies. The default value is\n\u003cexec-file\u003e which is backwards compati...",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "GitHub",
+      "video": [],
+      "favicon": {
+        "url": "https://github.githubassets.com/favicons/favicon.svg"
       }
     }
   },
@@ -1839,63 +1953,6 @@
     }
   },
   {
-    "id": 30147652,
-    "title": "Firecracker v1.0 Released",
-    "url": "https://github.com/firecracker-microvm/firecracker/releases/tag/v1.0.0",
-    "time": 1643635848,
-    "image": "https://opengraph.githubassets.com/43df46d273bf8d33a7b16fa8ef2d30f812936ef3d106169e6ae22ce4eea6e046/firecracker-microvm/firecracker/releases/tag/v1.0.0",
-    "icon": "https://github.githubassets.com/favicons/favicon.svg",
-    "publisher": "GitHub",
-    "description": "Added\n\nAdded jailer option --parent-cgroup \u003crelative_path\u003e to allow the placement\nof microvm cgroups in custom cgroup nested hierarchies. The default value is\n\u003cexec-file\u003e which is backwards compati...",
-    "by": "ciprian_craciun",
-    "points": 65,
-    "comment_count": 13,
-    "hn_item": {
-      "by": "walterbell",
-      "descendants": 16,
-      "id": 30143587,
-      "kids": [
-        30145356,
-        30145029,
-        30146983,
-        30143941,
-        30143985,
-        30146466,
-        30146168
-      ],
-      "score": 72,
-      "time": 1643594248,
-      "title": "Ylang: Universal language for eBPF, Stap+, GDB, and more",
-      "type": "story",
-      "url": "https://blog.openresty.com/en/ylang-intro-part4/"
-    },
-    "og_item": {
-      "title": "Release Firecracker v1.0.0 · firecracker-microvm/firecracker",
-      "type": "object",
-      "image": [
-        {
-          "url": "https://opengraph.githubassets.com/43df46d273bf8d33a7b16fa8ef2d30f812936ef3d106169e6ae22ce4eea6e046/firecracker-microvm/firecracker/releases/tag/v1.0.0",
-          "secure_url": "",
-          "type": "",
-          "width": 1200,
-          "height": 600,
-          "alt": ""
-        }
-      ],
-      "url": "/firecracker-microvm/firecracker/releases/tag/v1.0.0",
-      "audio": [],
-      "description": "Added\n\nAdded jailer option --parent-cgroup \u003crelative_path\u003e to allow the placement\nof microvm cgroups in custom cgroup nested hierarchies. The default value is\n\u003cexec-file\u003e which is backwards compati...",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "GitHub",
-      "video": [],
-      "favicon": {
-        "url": "https://github.githubassets.com/favicons/favicon.svg"
-      }
-    }
-  },
-  {
     "id": 30145237,
     "title": "Generate static sites from Markdown files with Caddy (2018)",
     "url": "https://blog.thomaspuppe.de/static-sites-from-markdown-with-caddy-server",
@@ -1906,7 +1963,7 @@
     "description": "",
     "by": "indigodaddy",
     "points": 93,
-    "comment_count": 24,
+    "comment_count": 25,
     "hn_item": {
       "by": "walterbell",
       "descendants": 16,
@@ -1986,6 +2043,63 @@
     }
   },
   {
+    "id": 30151779,
+    "title": "Sony is buying Bungie, the developer of Destiny and original creator of Halo",
+    "url": "https://www.theverge.com/22910846/sony-bungie-acquisition-playstation-destiny-halo",
+    "time": 1643653158,
+    "image": "https://cdn.vox-cdn.com/thumbor/_8kP_DYbLyY3jgA9zvhIMrYZNy8=/0x21:1088x591/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23207703/8f2d141dbfa9c1dd61befc2de0a92266.jpeg",
+    "icon": "https://cdn.vox-cdn.com/uploads/chorus_asset/file/7395351/android-chrome-192x192.0.png",
+    "publisher": "The Verge",
+    "description": "Another huge acquisition in the gaming industry",
+    "by": "KoftaBob",
+    "points": 8,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "walterbell",
+      "descendants": 16,
+      "id": 30143587,
+      "kids": [
+        30145356,
+        30145029,
+        30146983,
+        30143941,
+        30143985,
+        30146466,
+        30146168
+      ],
+      "score": 72,
+      "time": 1643594248,
+      "title": "Ylang: Universal language for eBPF, Stap+, GDB, and more",
+      "type": "story",
+      "url": "https://blog.openresty.com/en/ylang-intro-part4/"
+    },
+    "og_item": {
+      "title": "Sony is buying Bungie, the developer of Destiny and original creator of Halo",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/_8kP_DYbLyY3jgA9zvhIMrYZNy8=/0x21:1088x591/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23207703/8f2d141dbfa9c1dd61befc2de0a92266.jpeg",
+          "secure_url": "",
+          "type": "",
+          "width": 1200,
+          "height": 630,
+          "alt": ""
+        }
+      ],
+      "url": "https://www.theverge.com/22910846/sony-bungie-acquisition-playstation-destiny-halo",
+      "audio": [],
+      "description": "Another huge acquisition in the gaming industry",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "The Verge",
+      "video": [],
+      "favicon": {
+        "url": "https://cdn.vox-cdn.com/uploads/chorus_asset/file/7395351/android-chrome-192x192.0.png"
+      }
+    }
+  },
+  {
     "id": 30147379,
     "title": "My dishwasher won’t start until I let it update its firmware over the WiFi",
     "url": "https://twitter.com/isislovecruft/status/1487947074901463040",
@@ -1996,7 +2110,7 @@
     "description": "",
     "by": "_Microft",
     "points": 488,
-    "comment_count": 490,
+    "comment_count": 493,
     "hn_item": {
       "by": "walterbell",
       "descendants": 16,
@@ -2101,7 +2215,7 @@
     "description": "",
     "by": "Element_",
     "points": 69,
-    "comment_count": 101,
+    "comment_count": 103,
     "hn_item": {
       "by": "walterbell",
       "descendants": 16,
@@ -2139,17 +2253,17 @@
     }
   },
   {
-    "id": 30151580,
-    "title": "Sony to buy video game maker Bungie in $3.6B deal",
-    "url": "https://www.cnbc.com/2022/01/31/sony-to-buy-video-game-maker-bungie-in-3point6-billion-deal.html",
-    "time": 1643652527,
-    "image": "https://image.cnbcfm.com/api/v1/image/107008952-1643653079291-gettyimages-868750574-98242287.jpeg?v=1643653125",
-    "icon": "https://www.cnbc.com/favicon.ico",
-    "publisher": "CNBC",
-    "description": "Sony has agreed to acquire Bungie in a $3.6 billion deal, continuing January's torrid pace of video game consolidation",
-    "by": "daveaiello",
-    "points": 6,
-    "comment_count": 0,
+    "id": 30148147,
+    "title": "BBC censors its own archives",
+    "url": "https://www.nationalreview.com/2022/01/the-bbc-quietly-censors-its-own-archives/",
+    "time": 1643638884,
+    "image": "https://www.nationalreview.com/wp-content/uploads/2022/01/bbc.jpg?fit=2057%2C1200",
+    "icon": "https://www.nationalreview.com/wp-content/themes/national-review/static/images/favicons/favicon-96x96.png",
+    "publisher": "National Review",
+    "description": "Out of public view, the state-owned broadcaster has been altering old episodes of its shows to make them ‘suitable’ for modern listeners.",
+    "by": "temp8964",
+    "points": 124,
+    "comment_count": 116,
     "hn_item": {
       "by": "walterbell",
       "descendants": 16,
@@ -2170,76 +2284,28 @@
       "url": "https://blog.openresty.com/en/ylang-intro-part4/"
     },
     "og_item": {
-      "title": "Sony to buy video game maker Bungie in $3.6 billion deal as video game consolidation heats up",
+      "title": "The BBC Quietly Censors Its Own Archives | National Review",
       "type": "article",
       "image": [
         {
-          "url": "https://image.cnbcfm.com/api/v1/image/107008952-1643653079291-gettyimages-868750574-98242287.jpeg?v=1643653125",
+          "url": "https://www.nationalreview.com/wp-content/uploads/2022/01/bbc.jpg?fit=2057%2C1200",
           "secure_url": "",
           "type": "",
-          "width": 0,
-          "height": 0,
+          "width": 2057,
+          "height": 1200,
           "alt": ""
         }
       ],
-      "url": "https://www.cnbc.com/2022/01/31/sony-to-buy-video-game-maker-bungie-in-3point6-billion-deal.html",
+      "url": "https://www.nationalreview.com/2022/01/the-bbc-quietly-censors-its-own-archives/",
       "audio": [],
-      "description": "Sony has agreed to acquire Bungie in a $3.6 billion deal, continuing January's torrid pace of video game consolidation",
+      "description": "Out of public view, the state-owned broadcaster has been altering old episodes of its shows to make them ‘suitable’ for modern listeners.",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "CNBC",
+      "site_name": "National Review",
       "video": [],
       "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30150776,
-    "title": "Ask HN: AT\u0026T Charing for FaceTime?",
-    "url": "https://news.ycombinator.com/item?id=30150776",
-    "time": 1643650048,
-    "image": "",
-    "icon": "https://news.ycombinator.com/favicon.ico",
-    "publisher": "Hacker News",
-    "description": "",
-    "by": "ada1981",
-    "points": 7,
-    "comment_count": 6,
-    "hn_item": {
-      "by": "walterbell",
-      "descendants": 16,
-      "id": 30143587,
-      "kids": [
-        30145356,
-        30145029,
-        30146983,
-        30143941,
-        30143985,
-        30146466,
-        30146168
-      ],
-      "score": 72,
-      "time": 1643594248,
-      "title": "Ylang: Universal language for eBPF, Stap+, GDB, and more",
-      "type": "story",
-      "url": "https://blog.openresty.com/en/ylang-intro-part4/"
-    },
-    "og_item": {
-      "title": "Ask HN: AT\u0026T Charing for FaceTime? | Hacker News",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "favicon.ico"
+        "url": "https://www.nationalreview.com/wp-content/themes/national-review/static/images/favicons/favicon-96x96.png"
       }
     }
   },
@@ -2288,6 +2354,102 @@
       "video": [],
       "favicon": {
         "url": "/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30148354,
+    "title": "The Financialization of Housing in Europe",
+    "url": "https://unassumingeconomist.com/2022/01/the-financialization-of-housing-in-europe/",
+    "time": 1643640106,
+    "image": "",
+    "icon": "https://unassumingeconomist.com/favicon.ico",
+    "publisher": "unassumingeconomist.com",
+    "description": "",
+    "by": "rustoo",
+    "points": 9,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "walterbell",
+      "descendants": 16,
+      "id": 30143587,
+      "kids": [
+        30145356,
+        30145029,
+        30146983,
+        30143941,
+        30143985,
+        30146466,
+        30146168
+      ],
+      "score": 72,
+      "time": 1643594248,
+      "title": "Ylang: Universal language for eBPF, Stap+, GDB, and more",
+      "type": "story",
+      "url": "https://blog.openresty.com/en/ylang-intro-part4/"
+    },
+    "og_item": {
+      "title": "\n\t\tThe Unassuming Economist | The Financialization of Housing in Europe\t",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30150776,
+    "title": "Ask HN: AT\u0026T Charing for FaceTime?",
+    "url": "https://news.ycombinator.com/item?id=30150776",
+    "time": 1643650048,
+    "image": "",
+    "icon": "https://news.ycombinator.com/favicon.ico",
+    "publisher": "Hacker News",
+    "description": "",
+    "by": "ada1981",
+    "points": 8,
+    "comment_count": 7,
+    "hn_item": {
+      "by": "walterbell",
+      "descendants": 16,
+      "id": 30143587,
+      "kids": [
+        30145356,
+        30145029,
+        30146983,
+        30143941,
+        30143985,
+        30146466,
+        30146168
+      ],
+      "score": 72,
+      "time": 1643594248,
+      "title": "Ylang: Universal language for eBPF, Stap+, GDB, and more",
+      "type": "story",
+      "url": "https://blog.openresty.com/en/ylang-intro-part4/"
+    },
+    "og_item": {
+      "title": "Ask HN: AT\u0026T Charing for FaceTime? | Hacker News",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "favicon.ico"
       }
     }
   },
@@ -2349,63 +2511,6 @@
     }
   },
   {
-    "id": 30151779,
-    "title": "Sony is buying Bungie, the developer of Destiny and original creator of Halo",
-    "url": "https://www.theverge.com/22910846/sony-bungie-acquisition-playstation-destiny-halo",
-    "time": 1643653158,
-    "image": "https://cdn.vox-cdn.com/thumbor/_8kP_DYbLyY3jgA9zvhIMrYZNy8=/0x21:1088x591/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23207703/8f2d141dbfa9c1dd61befc2de0a92266.jpeg",
-    "icon": "https://cdn.vox-cdn.com/uploads/chorus_asset/file/7395351/android-chrome-192x192.0.png",
-    "publisher": "The Verge",
-    "description": "Another huge acquisition in the gaming industry",
-    "by": "KoftaBob",
-    "points": 3,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "walterbell",
-      "descendants": 16,
-      "id": 30143587,
-      "kids": [
-        30145356,
-        30145029,
-        30146983,
-        30143941,
-        30143985,
-        30146466,
-        30146168
-      ],
-      "score": 72,
-      "time": 1643594248,
-      "title": "Ylang: Universal language for eBPF, Stap+, GDB, and more",
-      "type": "story",
-      "url": "https://blog.openresty.com/en/ylang-intro-part4/"
-    },
-    "og_item": {
-      "title": "Sony is buying Bungie, the developer of Destiny and original creator of Halo",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/_8kP_DYbLyY3jgA9zvhIMrYZNy8=/0x21:1088x591/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23207703/8f2d141dbfa9c1dd61befc2de0a92266.jpeg",
-          "secure_url": "",
-          "type": "",
-          "width": 1200,
-          "height": 630,
-          "alt": ""
-        }
-      ],
-      "url": "https://www.theverge.com/22910846/sony-bungie-acquisition-playstation-destiny-halo",
-      "audio": [],
-      "description": "Another huge acquisition in the gaming industry",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "The Verge",
-      "video": [],
-      "favicon": {
-        "url": "https://cdn.vox-cdn.com/uploads/chorus_asset/file/7395351/android-chrome-192x192.0.png"
-      }
-    }
-  },
-  {
     "id": 30144021,
     "title": "I discovered thousands of open databases on AWS",
     "url": "https://infosecwriteups.com/how-i-discovered-thousands-of-open-databases-on-aws-764729aa7f32?gi=ba781482d685",
@@ -2463,6 +2568,54 @@
     }
   },
   {
+    "id": 30137984,
+    "title": "Show HN: Web page that parses and explains the label on a bike tire",
+    "url": "https://fahrrad-tools.de/tire.html",
+    "time": 1643556717,
+    "image": "",
+    "icon": "https://fahrrad-tools.de/tire.html/icon.png",
+    "publisher": "fahrrad-tools.de",
+    "description": "Which tire fits my bike? Tires are always flat and now buy a tire with puncture protection? Find the right tire now!",
+    "by": "moasda",
+    "points": 609,
+    "comment_count": 177,
+    "hn_item": {
+      "by": "walterbell",
+      "descendants": 16,
+      "id": 30143587,
+      "kids": [
+        30145356,
+        30145029,
+        30146983,
+        30143941,
+        30143985,
+        30146466,
+        30146168
+      ],
+      "score": 72,
+      "time": 1643594248,
+      "title": "Ylang: Universal language for eBPF, Stap+, GDB, and more",
+      "type": "story",
+      "url": "https://blog.openresty.com/en/ylang-intro-part4/"
+    },
+    "og_item": {
+      "title": "Bike Tire | Fahrrad-Tools.de",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "Which tire fits my bike? Tires are always flat and now buy a tire with puncture protection? Find the right tire now!",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "icon.png"
+      }
+    }
+  },
+  {
     "id": 30150877,
     "title": "Ask HN: Why do adblockers still work?",
     "url": "https://news.ycombinator.com/item?id=30150877",
@@ -2511,16 +2664,16 @@
     }
   },
   {
-    "id": 30148354,
-    "title": "The Financialization of Housing in Europe",
-    "url": "https://unassumingeconomist.com/2022/01/the-financialization-of-housing-in-europe/",
-    "time": 1643640106,
-    "image": "",
-    "icon": "https://unassumingeconomist.com/favicon.ico",
-    "publisher": "unassumingeconomist.com",
-    "description": "",
-    "by": "rustoo",
-    "points": 8,
+    "id": 30148095,
+    "title": "Cypress vs. Selenium vs. Playwright vs. Puppeteer speed comparison",
+    "url": "https://blog.checklyhq.com/cypress-vs-selenium-vs-playwright-vs-puppeteer-speed-comparison/",
+    "time": 1643638614,
+    "image": "https://og-image.checklyhq.com/image.png?titleText=Cypress vs Selenium vs Playwright vs Puppeteer speed comparison\u0026subtitleText=How does Cypress compare to Puppeteer, Playwright, WebDriverIO and Selenium, speed-wise? We ran our own benchmark to find out.\u0026template=blog\u0026image=https://blog.checklyhq.com/content/images/2021/01/banner-image.png\u0026width=300\u0026fontSize=55px",
+    "icon": "https://blog.checklyhq.com/favicon.png",
+    "publisher": "The Checkly Blog",
+    "description": "How does Cypress compare to Puppeteer, Playwright, WebDriverIO and Selenium, speed-wise? We ran our own benchmark to find out.",
+    "by": "qa-guy",
+    "points": 6,
     "comment_count": 0,
     "hn_item": {
       "by": "walterbell",
@@ -2542,124 +2695,36 @@
       "url": "https://blog.openresty.com/en/ylang-intro-part4/"
     },
     "og_item": {
-      "title": "\n\t\tThe Unassuming Economist | The Financialization of Housing in Europe\t",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30137984,
-    "title": "Show HN: Web page that parses and explains the label on a bike tire",
-    "url": "https://fahrrad-tools.de/tire.html",
-    "time": 1643556717,
-    "image": "",
-    "icon": "https://fahrrad-tools.de/tire.html/icon.png",
-    "publisher": "fahrrad-tools.de",
-    "description": "Which tire fits my bike? Tires are always flat and now buy a tire with puncture protection? Find the right tire now!",
-    "by": "moasda",
-    "points": 608,
-    "comment_count": 177,
-    "hn_item": {
-      "by": "walterbell",
-      "descendants": 16,
-      "id": 30143587,
-      "kids": [
-        30145356,
-        30145029,
-        30146983,
-        30143941,
-        30143985,
-        30146466,
-        30146168
-      ],
-      "score": 72,
-      "time": 1643594248,
-      "title": "Ylang: Universal language for eBPF, Stap+, GDB, and more",
-      "type": "story",
-      "url": "https://blog.openresty.com/en/ylang-intro-part4/"
-    },
-    "og_item": {
-      "title": "Bike Tire | Fahrrad-Tools.de",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "Which tire fits my bike? Tires are always flat and now buy a tire with puncture protection? Find the right tire now!",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "icon.png"
-      }
-    }
-  },
-  {
-    "id": 30148147,
-    "title": "BBC censors its own archives",
-    "url": "https://www.nationalreview.com/2022/01/the-bbc-quietly-censors-its-own-archives/",
-    "time": 1643638884,
-    "image": "https://www.nationalreview.com/wp-content/uploads/2022/01/bbc.jpg?fit=2057%2C1200",
-    "icon": "https://www.nationalreview.com/wp-content/themes/national-review/static/images/favicons/favicon-96x96.png",
-    "publisher": "National Review",
-    "description": "Out of public view, the state-owned broadcaster has been altering old episodes of its shows to make them ‘suitable’ for modern listeners.",
-    "by": "temp8964",
-    "points": 122,
-    "comment_count": 115,
-    "hn_item": {
-      "by": "walterbell",
-      "descendants": 16,
-      "id": 30143587,
-      "kids": [
-        30145356,
-        30145029,
-        30146983,
-        30143941,
-        30143985,
-        30146466,
-        30146168
-      ],
-      "score": 72,
-      "time": 1643594248,
-      "title": "Ylang: Universal language for eBPF, Stap+, GDB, and more",
-      "type": "story",
-      "url": "https://blog.openresty.com/en/ylang-intro-part4/"
-    },
-    "og_item": {
-      "title": "The BBC Quietly Censors Its Own Archives | National Review",
+      "title": "Cypress vs Selenium vs Playwright vs Puppeteer speed comparison",
       "type": "article",
       "image": [
         {
-          "url": "https://www.nationalreview.com/wp-content/uploads/2022/01/bbc.jpg?fit=2057%2C1200",
+          "url": "https://og-image.checklyhq.com/image.png?titleText=Cypress vs Selenium vs Playwright vs Puppeteer speed comparison\u0026subtitleText=How does Cypress compare to Puppeteer, Playwright, WebDriverIO and Selenium, speed-wise? We ran our own benchmark to find out.\u0026template=blog\u0026image=https://blog.checklyhq.com/content/images/2021/01/banner-image.png\u0026width=300\u0026fontSize=55px",
           "secure_url": "",
           "type": "",
-          "width": 2057,
-          "height": 1200,
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        },
+        {
+          "url": "https://blog.checklyhq.com/content/images/2021/01/banner-image.png",
+          "secure_url": "",
+          "type": "",
+          "width": 1000,
+          "height": 497,
           "alt": ""
         }
       ],
-      "url": "https://www.nationalreview.com/2022/01/the-bbc-quietly-censors-its-own-archives/",
+      "url": "https://blog.checklyhq.com/cypress-vs-selenium-vs-playwright-vs-puppeteer-speed-comparison/",
       "audio": [],
-      "description": "Out of public view, the state-owned broadcaster has been altering old episodes of its shows to make them ‘suitable’ for modern listeners.",
+      "description": "How does Cypress compare to Puppeteer, Playwright, WebDriverIO and Selenium, speed-wise? We ran our own benchmark to find out.",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "National Review",
+      "site_name": "The Checkly Blog",
       "video": [],
       "favicon": {
-        "url": "https://www.nationalreview.com/wp-content/themes/national-review/static/images/favicons/favicon-96x96.png"
+        "url": "/favicon.png"
       }
     }
   },
@@ -2778,7 +2843,7 @@
     "publisher": "GitLab",
     "description": "GitLab's DevOps platform is a single application for unparalleled collaboration, visibility, and development velocity. Learn more here!",
     "by": "riyadparvez",
-    "points": 57,
+    "points": 58,
     "comment_count": 52,
     "hn_item": {
       "by": "walterbell",
@@ -2836,7 +2901,7 @@
     "description": "Exploring the source code and game architecture of Zork I: The Great Underground Empire.",
     "by": "ca98am79",
     "points": 8,
-    "comment_count": 1,
+    "comment_count": 2,
     "hn_item": {
       "by": "walterbell",
       "descendants": 16,
@@ -2879,63 +2944,6 @@
       "video": [],
       "favicon": {
         "url": "/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30148547,
-    "title": "Non-Tesla Supercharger Pilot",
-    "url": "https://www.tesla.com/support/non-tesla-supercharging",
-    "time": 1643641025,
-    "image": "https://www.tesla.com/sites/default/files/blog_images/tesla_announcement_social.jpg",
-    "icon": "https://www.tesla.com/sites/all/themes/custom/tesla_theme/assets/img/icons/favicon-32x32.png",
-    "publisher": "tesla.com",
-    "description": "Launched in November 2021, our Non-Tesla Supercharger pilot will continue to expand to new sites and countries in support of our mission to accelerate the world’s transition to sustainable energy.",
-    "by": "punnerud",
-    "points": 82,
-    "comment_count": 146,
-    "hn_item": {
-      "by": "walterbell",
-      "descendants": 16,
-      "id": 30143587,
-      "kids": [
-        30145356,
-        30145029,
-        30146983,
-        30143941,
-        30143985,
-        30146466,
-        30146168
-      ],
-      "score": 72,
-      "time": 1643594248,
-      "title": "Ylang: Universal language for eBPF, Stap+, GDB, and more",
-      "type": "story",
-      "url": "https://blog.openresty.com/en/ylang-intro-part4/"
-    },
-    "og_item": {
-      "title": "Non-Tesla Supercharger Pilot",
-      "type": "",
-      "image": [
-        {
-          "url": "https://www.tesla.com/sites/default/files/blog_images/tesla_announcement_social.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "",
-      "audio": [],
-      "description": "Launched in November 2021, our Non-Tesla Supercharger pilot will continue to expand to new sites and countries in support of our mission to accelerate the world’s transition to sustainable energy.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/sites/all/themes/custom/tesla_theme/assets/img/icons/favicon-32x32.png"
       }
     }
   },
@@ -2988,6 +2996,63 @@
     }
   },
   {
+    "id": 30148547,
+    "title": "Non-Tesla Supercharger Pilot",
+    "url": "https://www.tesla.com/support/non-tesla-supercharging",
+    "time": 1643641025,
+    "image": "https://www.tesla.com/sites/default/files/blog_images/tesla_announcement_social.jpg",
+    "icon": "https://www.tesla.com/sites/all/themes/custom/tesla_theme/assets/img/icons/favicon-32x32.png",
+    "publisher": "tesla.com",
+    "description": "Launched in November 2021, our Non-Tesla Supercharger pilot will continue to expand to new sites and countries in support of our mission to accelerate the world’s transition to sustainable energy.",
+    "by": "punnerud",
+    "points": 83,
+    "comment_count": 147,
+    "hn_item": {
+      "by": "walterbell",
+      "descendants": 16,
+      "id": 30143587,
+      "kids": [
+        30145356,
+        30145029,
+        30146983,
+        30143941,
+        30143985,
+        30146466,
+        30146168
+      ],
+      "score": 72,
+      "time": 1643594248,
+      "title": "Ylang: Universal language for eBPF, Stap+, GDB, and more",
+      "type": "story",
+      "url": "https://blog.openresty.com/en/ylang-intro-part4/"
+    },
+    "og_item": {
+      "title": "Non-Tesla Supercharger Pilot",
+      "type": "",
+      "image": [
+        {
+          "url": "https://www.tesla.com/sites/default/files/blog_images/tesla_announcement_social.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "",
+      "audio": [],
+      "description": "Launched in November 2021, our Non-Tesla Supercharger pilot will continue to expand to new sites and countries in support of our mission to accelerate the world’s transition to sustainable energy.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/sites/all/themes/custom/tesla_theme/assets/img/icons/favicon-32x32.png"
+      }
+    }
+  },
+  {
     "id": 30128193,
     "title": "On Immersion",
     "url": "https://blog.laurel.world/on-immersion/",
@@ -3036,71 +3101,6 @@
     }
   },
   {
-    "id": 30148095,
-    "title": "Cypress vs. Selenium vs. Playwright vs. Puppeteer speed comparison",
-    "url": "https://blog.checklyhq.com/cypress-vs-selenium-vs-playwright-vs-puppeteer-speed-comparison/",
-    "time": 1643638614,
-    "image": "https://og-image.checklyhq.com/image.png?titleText=Cypress vs Selenium vs Playwright vs Puppeteer speed comparison\u0026subtitleText=How does Cypress compare to Puppeteer, Playwright, WebDriverIO and Selenium, speed-wise? We ran our own benchmark to find out.\u0026template=blog\u0026image=https://blog.checklyhq.com/content/images/2021/01/banner-image.png\u0026width=300\u0026fontSize=55px",
-    "icon": "https://blog.checklyhq.com/favicon.png",
-    "publisher": "The Checkly Blog",
-    "description": "How does Cypress compare to Puppeteer, Playwright, WebDriverIO and Selenium, speed-wise? We ran our own benchmark to find out.",
-    "by": "qa-guy",
-    "points": 5,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "walterbell",
-      "descendants": 16,
-      "id": 30143587,
-      "kids": [
-        30145356,
-        30145029,
-        30146983,
-        30143941,
-        30143985,
-        30146466,
-        30146168
-      ],
-      "score": 72,
-      "time": 1643594248,
-      "title": "Ylang: Universal language for eBPF, Stap+, GDB, and more",
-      "type": "story",
-      "url": "https://blog.openresty.com/en/ylang-intro-part4/"
-    },
-    "og_item": {
-      "title": "Cypress vs Selenium vs Playwright vs Puppeteer speed comparison",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://og-image.checklyhq.com/image.png?titleText=Cypress vs Selenium vs Playwright vs Puppeteer speed comparison\u0026subtitleText=How does Cypress compare to Puppeteer, Playwright, WebDriverIO and Selenium, speed-wise? We ran our own benchmark to find out.\u0026template=blog\u0026image=https://blog.checklyhq.com/content/images/2021/01/banner-image.png\u0026width=300\u0026fontSize=55px",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        },
-        {
-          "url": "https://blog.checklyhq.com/content/images/2021/01/banner-image.png",
-          "secure_url": "",
-          "type": "",
-          "width": 1000,
-          "height": 497,
-          "alt": ""
-        }
-      ],
-      "url": "https://blog.checklyhq.com/cypress-vs-selenium-vs-playwright-vs-puppeteer-speed-comparison/",
-      "audio": [],
-      "description": "How does Cypress compare to Puppeteer, Playwright, WebDriverIO and Selenium, speed-wise? We ran our own benchmark to find out.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "The Checkly Blog",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.png"
-      }
-    }
-  },
-  {
     "id": 30141460,
     "title": "Royal Society cautions against censorship of scientific misinformation online",
     "url": "https://royalsociety.org/news/2022/01/scientific-misinformation-report/",
@@ -3110,8 +3110,8 @@
     "publisher": "royalsociety.org",
     "description": "The Online Information Environment report discusses how to limit the harm of scientific misinformation online",
     "by": "steelstraw",
-    "points": 956,
-    "comment_count": 848,
+    "points": 958,
+    "comment_count": 850,
     "hn_item": {
       "by": "walterbell",
       "descendants": 16,
@@ -3154,63 +3154,6 @@
       "video": [],
       "favicon": {
         "url": "/images/Main/favIcon.ico"
-      }
-    }
-  },
-  {
-    "id": 30150803,
-    "title": "Workplace Disruption Reported at Meta Amid AR and VR Push",
-    "url": "https://www.macrumors.com/2022/01/31/workplace-disruption-at-meta-amid-ar-and-vr-push/",
-    "time": 1643650143,
-    "image": "https://images.macrumors.com/t/TFBkuLDX0tRnNFK6I0jzhGrAjiA=/1600x/article-new/2021/10/facebook-meta.jpg",
-    "icon": "https://images.macrumors.com/images-new/favicon-16x16.png",
-    "publisher": "MacRumors",
-    "description": "Some Meta employees are being aggressively pushed to apply for other jobs at the company and embrace the recent drive toward augmented reality (AR)...",
-    "by": "anonymousab",
-    "points": 3,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "walterbell",
-      "descendants": 16,
-      "id": 30143587,
-      "kids": [
-        30145356,
-        30145029,
-        30146983,
-        30143941,
-        30143985,
-        30146466,
-        30146168
-      ],
-      "score": 72,
-      "time": 1643594248,
-      "title": "Ylang: Universal language for eBPF, Stap+, GDB, and more",
-      "type": "story",
-      "url": "https://blog.openresty.com/en/ylang-intro-part4/"
-    },
-    "og_item": {
-      "title": "Workplace Disruption Reported at Meta Amid AR and VR Push, Some Staff Defecting to Competitors Like Apple",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://images.macrumors.com/t/TFBkuLDX0tRnNFK6I0jzhGrAjiA=/1600x/article-new/2021/10/facebook-meta.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 1600,
-          "height": 900,
-          "alt": ""
-        }
-      ],
-      "url": "https://www.macrumors.com/2022/01/31/workplace-disruption-at-meta-amid-ar-and-vr-push/",
-      "audio": [],
-      "description": "Some Meta employees are being aggressively pushed to apply for other jobs at the company and embrace the recent drive toward augmented reality (AR)...",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "MacRumors",
-      "video": [],
-      "favicon": {
-        "url": "https://images.macrumors.com/images-new/favicon-16x16.png"
       }
     }
   },
@@ -3272,6 +3215,63 @@
     }
   },
   {
+    "id": 30150803,
+    "title": "Workplace Disruption Reported at Meta Amid AR and VR Push",
+    "url": "https://www.macrumors.com/2022/01/31/workplace-disruption-at-meta-amid-ar-and-vr-push/",
+    "time": 1643650143,
+    "image": "https://images.macrumors.com/t/TFBkuLDX0tRnNFK6I0jzhGrAjiA=/1600x/article-new/2021/10/facebook-meta.jpg",
+    "icon": "https://images.macrumors.com/images-new/favicon-16x16.png",
+    "publisher": "MacRumors",
+    "description": "Some Meta employees are being aggressively pushed to apply for other jobs at the company and embrace the recent drive toward augmented reality (AR)...",
+    "by": "anonymousab",
+    "points": 3,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "walterbell",
+      "descendants": 16,
+      "id": 30143587,
+      "kids": [
+        30145356,
+        30145029,
+        30146983,
+        30143941,
+        30143985,
+        30146466,
+        30146168
+      ],
+      "score": 72,
+      "time": 1643594248,
+      "title": "Ylang: Universal language for eBPF, Stap+, GDB, and more",
+      "type": "story",
+      "url": "https://blog.openresty.com/en/ylang-intro-part4/"
+    },
+    "og_item": {
+      "title": "Workplace Disruption Reported at Meta Amid AR and VR Push, Some Staff Defecting to Competitors Like Apple",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://images.macrumors.com/t/TFBkuLDX0tRnNFK6I0jzhGrAjiA=/1600x/article-new/2021/10/facebook-meta.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 1600,
+          "height": 900,
+          "alt": ""
+        }
+      ],
+      "url": "https://www.macrumors.com/2022/01/31/workplace-disruption-at-meta-amid-ar-and-vr-push/",
+      "audio": [],
+      "description": "Some Meta employees are being aggressively pushed to apply for other jobs at the company and embrace the recent drive toward augmented reality (AR)...",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "MacRumors",
+      "video": [],
+      "favicon": {
+        "url": "https://images.macrumors.com/images-new/favicon-16x16.png"
+      }
+    }
+  },
+  {
     "id": 30142558,
     "title": "State of the Web: Static Site Generators",
     "url": "https://byteofdev.com/posts/static-site-generators/",
@@ -3325,177 +3325,6 @@
       "video": [],
       "favicon": {
         "url": "/favicon.svg"
-      }
-    }
-  },
-  {
-    "id": 30150472,
-    "title": "How Homeowners defeated Zillow’s AI, which led to Zillow Offers’ demise",
-    "url": "https://www.geekwire.com/2022/commentary-how-homeowners-defeated-zillows-ai-ultimately-leading-to-zillow-offers-demise%ef%bf%bc/",
-    "time": 1643649020,
-    "image": "https://cdn.geekwire.com/wp-content/uploads/2021/11/bigstock-212306599.jpg",
-    "icon": "https://www.geekwire.com/favicon-16x16.png",
-    "publisher": "GeekWire",
-    "description": "Now that the dust has settled, we can ask how could the smart and savvy team at Zillow Group, armed with cutting-edge AI methods and mountains of data, lose half a billion dollars buying homes in the…",
-    "by": "jkuria",
-    "points": 3,
-    "comment_count": 3,
-    "hn_item": {
-      "by": "walterbell",
-      "descendants": 16,
-      "id": 30143587,
-      "kids": [
-        30145356,
-        30145029,
-        30146983,
-        30143941,
-        30143985,
-        30146466,
-        30146168
-      ],
-      "score": 72,
-      "time": 1643594248,
-      "title": "Ylang: Universal language for eBPF, Stap+, GDB, and more",
-      "type": "story",
-      "url": "https://blog.openresty.com/en/ylang-intro-part4/"
-    },
-    "og_item": {
-      "title": "Commentary: How homeowners defeated Zillow’s AI, which led to Zillow Offers’ demise",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2021/11/bigstock-212306599.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 900,
-          "height": 601,
-          "alt": ""
-        }
-      ],
-      "url": "https://www.geekwire.com/2022/commentary-how-homeowners-defeated-zillows-ai-ultimately-leading-to-zillow-offers-demise/",
-      "audio": [],
-      "description": "Now that the dust has settled, we can ask how could the smart and savvy team at Zillow Group, armed with cutting-edge AI methods and mountains of data, lose half a billion dollars buying homes in the…",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "GeekWire",
-      "video": [],
-      "favicon": {
-        "url": "/favicon-16x16.png"
-      }
-    }
-  },
-  {
-    "id": 30147534,
-    "title": "Stop Storing Secrets in Environment Variables",
-    "url": "https://blog.forcesunseen.com/stop-storing-secrets-in-environment-variables",
-    "time": 1643634896,
-    "image": "https://imgs.xkcd.com/comics/dependency.png",
-    "icon": "https://i.snap.as/O5O4jMJD.png",
-    "publisher": "Forces Unseen Blog",
-    "description": "Did that get your attention? Good. The goal of this short post is to evangelize engineering teams to end the psychosis that is storing se...",
-    "by": "alxjsn",
-    "points": 3,
-    "comment_count": 1,
-    "hn_item": {
-      "by": "walterbell",
-      "descendants": 16,
-      "id": 30143587,
-      "kids": [
-        30145356,
-        30145029,
-        30146983,
-        30143941,
-        30143985,
-        30146466,
-        30146168
-      ],
-      "score": 72,
-      "time": 1643594248,
-      "title": "Ylang: Universal language for eBPF, Stap+, GDB, and more",
-      "type": "story",
-      "url": "https://blog.openresty.com/en/ylang-intro-part4/"
-    },
-    "og_item": {
-      "title": "Stop Storing Secrets In Environment Variables!",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://imgs.xkcd.com/comics/dependency.png",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://blog.forcesunseen.com/stop-storing-secrets-in-environment-variables",
-      "audio": [],
-      "description": "Did that get your attention? Good. The goal of this short post is to evangelize engineering teams to end the psychosis that is storing se...",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Forces Unseen Blog",
-      "video": [],
-      "favicon": {
-        "url": "https://i.snap.as/O5O4jMJD.png"
-      }
-    }
-  },
-  {
-    "id": 30148557,
-    "title": "Show HN: I've built a list of 300 e-commerce conversion checkpoints",
-    "url": "https://docs.google.com/spreadsheets/d/1BpMAOACYkPw1vG_3oZ5b7ZzvBoRX4jRG79xuqln61tc/edit?usp=sharing",
-    "time": 1643641086,
-    "image": "https://lh4.googleusercontent.com/cWpOJREya5BDZ_80b9255sCdOxTjKrKiNqBgtuClVNh5yg6igVM0D1xsgAvU2D4lDY0_uWvosdoDKA=w1200-h630-p",
-    "icon": "https://ssl.gstatic.com/docs/spreadsheets/favicon3.ico",
-    "publisher": "Google Docs",
-    "description": "📊  Overview\n\n📊,Pages,All Tasks,To Improve,To Do,Done,%,%,Completion Bar,Page Importancy\n\u003ca href=\"#gid=445679181\"\u003eGeneral\u003c/a\u003e,45,43,43,0,0%,100,0%,3/5\n\u003ca href=\"#gid=1290347356\"\u003eHome page\u003c/a\u003e,21,21,21,0,0%,100,0%,2/5\n\u003ca href=\"#gid=789638632\"\u003eCategory page\u003c/a\u003e,29,29,29,0,0%,100,0%,3/5\n\u003ca href=…",
-    "by": "rockerfell",
-    "points": 9,
-    "comment_count": 5,
-    "hn_item": {
-      "by": "walterbell",
-      "descendants": 16,
-      "id": 30143587,
-      "kids": [
-        30145356,
-        30145029,
-        30146983,
-        30143941,
-        30143985,
-        30146466,
-        30146168
-      ],
-      "score": 72,
-      "time": 1643594248,
-      "title": "Ylang: Universal language for eBPF, Stap+, GDB, and more",
-      "type": "story",
-      "url": "https://blog.openresty.com/en/ylang-intro-part4/"
-    },
-    "og_item": {
-      "title": "E-commerce Checklist with 300+ Conversion Checkpoints",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://lh4.googleusercontent.com/cWpOJREya5BDZ_80b9255sCdOxTjKrKiNqBgtuClVNh5yg6igVM0D1xsgAvU2D4lDY0_uWvosdoDKA=w1200-h630-p",
-          "secure_url": "",
-          "type": "",
-          "width": 1200,
-          "height": 630,
-          "alt": ""
-        }
-      ],
-      "url": "https://docs.google.com/spreadsheets/d/1BpMAOACYkPw1vG_3oZ5b7ZzvBoRX4jRG79xuqln61tc/edit?usp=sharing\u0026usp=embed_facebook",
-      "audio": [],
-      "description": "📊  Overview\n\n📊,Pages,All Tasks,To Improve,To Do,Done,%,%,Completion Bar,Page Importancy\n\u003ca href=\"#gid=445679181\"\u003eGeneral\u003c/a\u003e,45,43,43,0,0%,100,0%,3/5\n\u003ca href=\"#gid=1290347356\"\u003eHome page\u003c/a\u003e,21,21,21,0,0%,100,0%,2/5\n\u003ca href=\"#gid=789638632\"\u003eCategory page\u003c/a\u003e,29,29,29,0,0%,100,0%,3/5\n\u003ca href=\"#gi...",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Google Docs",
-      "video": [],
-      "favicon": {
-        "url": "//ssl.gstatic.com/docs/spreadsheets/favicon3.ico"
       }
     }
   },
@@ -3557,7 +3386,7 @@
     "publisher": "Azimuth",
     "description": "In his book Ramanujan: Twelve Lectures on Subjects Suggested by His Life and Work, G. H. Hardy tells this famous story: He could remember the idiosyncracies of numbers in an almost uncanny way. It …",
     "by": "johncarlosbaez",
-    "points": 126,
+    "points": 127,
     "comment_count": 19,
     "hn_item": {
       "by": "walterbell",
@@ -3605,16 +3434,16 @@
     }
   },
   {
-    "id": 30148670,
-    "title": "What If? 2: the book (by the author of Xkcd)",
-    "url": "https://xkcd.com/what-if-2/",
-    "time": 1643641679,
-    "image": "",
-    "icon": "https://xkcd.com/favicon.ico",
-    "publisher": "xkcd.com",
-    "description": "",
-    "by": "RojerGS",
-    "points": 37,
+    "id": 30147534,
+    "title": "Stop Storing Secrets in Environment Variables",
+    "url": "https://blog.forcesunseen.com/stop-storing-secrets-in-environment-variables",
+    "time": 1643634896,
+    "image": "https://imgs.xkcd.com/comics/dependency.png",
+    "icon": "https://i.snap.as/O5O4jMJD.png",
+    "publisher": "Forces Unseen Blog",
+    "description": "Did that get your attention? Good. The goal of this short post is to evangelize engineering teams to end the psychosis that is storing se...",
+    "by": "alxjsn",
+    "points": 3,
     "comment_count": 1,
     "hn_item": {
       "by": "walterbell",
@@ -3636,19 +3465,142 @@
       "url": "https://blog.openresty.com/en/ylang-intro-part4/"
     },
     "og_item": {
-      "title": "What if? 2: Additional Serious Scientific Answers to Absurd Hypothetical Questions ",
-      "type": "",
-      "image": [],
-      "url": "",
+      "title": "Stop Storing Secrets In Environment Variables!",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://imgs.xkcd.com/comics/dependency.png",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://blog.forcesunseen.com/stop-storing-secrets-in-environment-variables",
       "audio": [],
-      "description": "",
+      "description": "Did that get your attention? Good. The goal of this short post is to evangelize engineering teams to end the psychosis that is storing se...",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "",
+      "site_name": "Forces Unseen Blog",
       "video": [],
       "favicon": {
-        "url": "/favicon.ico"
+        "url": "https://i.snap.as/O5O4jMJD.png"
+      }
+    }
+  },
+  {
+    "id": 30150472,
+    "title": "How Homeowners defeated Zillow’s AI, which led to Zillow Offers’ demise",
+    "url": "https://www.geekwire.com/2022/commentary-how-homeowners-defeated-zillows-ai-ultimately-leading-to-zillow-offers-demise%ef%bf%bc/",
+    "time": 1643649020,
+    "image": "https://cdn.geekwire.com/wp-content/uploads/2021/11/bigstock-212306599.jpg",
+    "icon": "https://www.geekwire.com/favicon-16x16.png",
+    "publisher": "GeekWire",
+    "description": "Now that the dust has settled, we can ask how could the smart and savvy team at Zillow Group, armed with cutting-edge AI methods and mountains of data, lose half a billion dollars buying homes in the…",
+    "by": "jkuria",
+    "points": 3,
+    "comment_count": 3,
+    "hn_item": {
+      "by": "walterbell",
+      "descendants": 16,
+      "id": 30143587,
+      "kids": [
+        30145356,
+        30145029,
+        30146983,
+        30143941,
+        30143985,
+        30146466,
+        30146168
+      ],
+      "score": 72,
+      "time": 1643594248,
+      "title": "Ylang: Universal language for eBPF, Stap+, GDB, and more",
+      "type": "story",
+      "url": "https://blog.openresty.com/en/ylang-intro-part4/"
+    },
+    "og_item": {
+      "title": "Commentary: How homeowners defeated Zillow’s AI, which led to Zillow Offers’ demise",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2021/11/bigstock-212306599.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 900,
+          "height": 601,
+          "alt": ""
+        }
+      ],
+      "url": "https://www.geekwire.com/2022/commentary-how-homeowners-defeated-zillows-ai-ultimately-leading-to-zillow-offers-demise/",
+      "audio": [],
+      "description": "Now that the dust has settled, we can ask how could the smart and savvy team at Zillow Group, armed with cutting-edge AI methods and mountains of data, lose half a billion dollars buying homes in the…",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "GeekWire",
+      "video": [],
+      "favicon": {
+        "url": "/favicon-16x16.png"
+      }
+    }
+  },
+  {
+    "id": 30148557,
+    "title": "Show HN: I've built a list of 300 e-commerce conversion checkpoints",
+    "url": "https://docs.google.com/spreadsheets/d/1BpMAOACYkPw1vG_3oZ5b7ZzvBoRX4jRG79xuqln61tc/edit?usp=sharing",
+    "time": 1643641086,
+    "image": "https://lh4.googleusercontent.com/cWpOJREya5BDZ_80b9255sCdOxTjKrKiNqBgtuClVNh5yg6igVM0D1xsgAvU2D4lDY0_uWvosdoDKA=w1200-h630-p",
+    "icon": "https://ssl.gstatic.com/docs/spreadsheets/favicon3.ico",
+    "publisher": "Google Docs",
+    "description": "📊  Overview\n\n📊,Pages,All Tasks,To Improve,To Do,Done,%,%,Completion Bar,Page Importancy\n\u003ca href=\"#gid=445679181\"\u003eGeneral\u003c/a\u003e,45,43,43,0,0%,100,0%,3/5\n\u003ca href=\"#gid=1290347356\"\u003eHome page\u003c/a\u003e,21,21,21,0,0%,100,0%,2/5\n\u003ca href=\"#gid=789638632\"\u003eCategory page\u003c/a\u003e,29,29,29,0,0%,100,0%,3/5\n\u003ca href=…",
+    "by": "rockerfell",
+    "points": 10,
+    "comment_count": 5,
+    "hn_item": {
+      "by": "walterbell",
+      "descendants": 16,
+      "id": 30143587,
+      "kids": [
+        30145356,
+        30145029,
+        30146983,
+        30143941,
+        30143985,
+        30146466,
+        30146168
+      ],
+      "score": 72,
+      "time": 1643594248,
+      "title": "Ylang: Universal language for eBPF, Stap+, GDB, and more",
+      "type": "story",
+      "url": "https://blog.openresty.com/en/ylang-intro-part4/"
+    },
+    "og_item": {
+      "title": "E-commerce Checklist with 300+ Conversion Checkpoints",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://lh4.googleusercontent.com/cWpOJREya5BDZ_80b9255sCdOxTjKrKiNqBgtuClVNh5yg6igVM0D1xsgAvU2D4lDY0_uWvosdoDKA=w1200-h630-p",
+          "secure_url": "",
+          "type": "",
+          "width": 1200,
+          "height": 630,
+          "alt": ""
+        }
+      ],
+      "url": "https://docs.google.com/spreadsheets/d/1BpMAOACYkPw1vG_3oZ5b7ZzvBoRX4jRG79xuqln61tc/edit?usp=sharing\u0026usp=embed_facebook",
+      "audio": [],
+      "description": "📊  Overview\n\n📊,Pages,All Tasks,To Improve,To Do,Done,%,%,Completion Bar,Page Importancy\n\u003ca href=\"#gid=445679181\"\u003eGeneral\u003c/a\u003e,45,43,43,0,0%,100,0%,3/5\n\u003ca href=\"#gid=1290347356\"\u003eHome page\u003c/a\u003e,21,21,21,0,0%,100,0%,2/5\n\u003ca href=\"#gid=789638632\"\u003eCategory page\u003c/a\u003e,29,29,29,0,0%,100,0%,3/5\n\u003ca href=\"#gi...",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Google Docs",
+      "video": [],
+      "favicon": {
+        "url": "//ssl.gstatic.com/docs/spreadsheets/favicon3.ico"
       }
     }
   },
@@ -3706,6 +3658,72 @@
       "video": [],
       "favicon": {
         "url": "https://www.eurogamer.net/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30116262,
+    "title": "A Padlock I’d Use [video]",
+    "url": "https://www.youtube.com/watch?v=HrV86GqlY8o",
+    "time": 1643385483,
+    "image": "https://i.ytimg.com/vi/HrV86GqlY8o/hqdefault.jpg",
+    "icon": "https://www.youtube.com/s/desktop/ca9cd554/img/favicon_144x144.png",
+    "publisher": "YouTube",
+    "description": "https://www.CovertInstruments.com",
+    "by": "CraigJPerry",
+    "points": 150,
+    "comment_count": 60,
+    "hn_item": {
+      "by": "walterbell",
+      "descendants": 16,
+      "id": 30143587,
+      "kids": [
+        30145356,
+        30145029,
+        30146983,
+        30143941,
+        30143985,
+        30146466,
+        30146168
+      ],
+      "score": 72,
+      "time": 1643594248,
+      "title": "Ylang: Universal language for eBPF, Stap+, GDB, and more",
+      "type": "story",
+      "url": "https://blog.openresty.com/en/ylang-intro-part4/"
+    },
+    "og_item": {
+      "title": "[1398] A Padlock I’d Use: Abus Granit 37RK/80 (Pick \u0026 Gut)",
+      "type": "video.other",
+      "image": [
+        {
+          "url": "https://i.ytimg.com/vi/HrV86GqlY8o/hqdefault.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 480,
+          "height": 360,
+          "alt": ""
+        }
+      ],
+      "url": "https://www.youtube.com/watch?v=HrV86GqlY8o",
+      "audio": [],
+      "description": "https://www.CovertInstruments.com",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "YouTube",
+      "video": [
+        {
+          "url": "https://www.youtube.com/embed/HrV86GqlY8o",
+          "secure_url": "https://www.youtube.com/embed/HrV86GqlY8o",
+          "type": "text/html",
+          "width": 1280,
+          "height": 720,
+          "duration": 0
+        }
+      ],
+      "favicon": {
+        "url": "https://www.youtube.com/s/desktop/ca9cd554/img/favicon_144x144.png"
       }
     }
   },
