@@ -9,20 +9,25 @@
     "publisher": "zillow.com",
     "description": "",
     "by": "otras",
-    "points": 183,
-    "comment_count": 24,
+    "points": 194,
+    "comment_count": 25,
     "hn_item": {
-      "by": "lsllc",
-      "descendants": 4,
-      "id": 30142494,
+      "by": "doener",
+      "descendants": 25,
+      "id": 30125730,
       "kids": [
-        30143090
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
       ],
-      "score": 26,
-      "time": 1643586052,
-      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
+      "score": 53,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
       "type": "story",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
     },
     "og_item": {
       "title": "",
@@ -51,20 +56,25 @@
     "publisher": "royalsociety.org",
     "description": "The Online Information Environment report discusses how to limit the harm of scientific misinformation online",
     "by": "steelstraw",
-    "points": 560,
+    "points": 574,
     "comment_count": 40,
     "hn_item": {
-      "by": "lsllc",
-      "descendants": 4,
-      "id": 30142494,
+      "by": "doener",
+      "descendants": 25,
+      "id": 30125730,
       "kids": [
-        30143090
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
       ],
-      "score": 26,
-      "time": 1643586052,
-      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
+      "score": 53,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
       "type": "story",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
     },
     "og_item": {
       "title": "Royal Society cautions against censorship of scientific misinformation online | Royal Society",
@@ -93,6 +103,53 @@
     }
   },
   {
+    "id": 30144652,
+    "title": "Zero-copy network transmission with io_uring",
+    "url": "https://lwn.net/Articles/879724/",
+    "time": 1643605041,
+    "image": "",
+    "icon": "https://static.lwn.net/images/favicon.png",
+    "publisher": "lwn.net",
+    "description": "",
+    "by": "pabs3",
+    "points": 28,
+    "comment_count": 2,
+    "hn_item": {
+      "by": "doener",
+      "descendants": 25,
+      "id": 30125730,
+      "kids": [
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
+      ],
+      "score": 53,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
+      "type": "story",
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+    },
+    "og_item": {
+      "title": "Zero-copy network transmission with io_uring [LWN.net]",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "https://static.lwn.net/images/favicon.png"
+      }
+    }
+  },
+  {
     "id": 30144108,
     "title": "Reimagining Chess with AlphaZero",
     "url": "https://cacm.acm.org/magazines/2022/2/258230-reimagining-chess-with-alphazero/fulltext",
@@ -102,20 +159,25 @@
     "publisher": "cacm.acm.org",
     "description": "AI is driving the next evolution of chess, giving players a glimpse into the game\u0026#39;s future.",
     "by": "joak",
-    "points": 60,
+    "points": 64,
     "comment_count": 7,
     "hn_item": {
-      "by": "lsllc",
-      "descendants": 4,
-      "id": 30142494,
+      "by": "doener",
+      "descendants": 25,
+      "id": 30125730,
       "kids": [
-        30143090
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
       ],
-      "score": 26,
-      "time": 1643586052,
-      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
+      "score": 53,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
       "type": "story",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
     },
     "og_item": {
       "title": "Reimagining Chess with AlphaZero",
@@ -144,48 +206,6 @@
     }
   },
   {
-    "id": 30144652,
-    "title": "Zero-copy network transmission with io_uring",
-    "url": "https://lwn.net/Articles/879724/",
-    "time": 1643605041,
-    "image": "",
-    "icon": "https://static.lwn.net/images/favicon.png",
-    "publisher": "lwn.net",
-    "description": "",
-    "by": "pabs3",
-    "points": 20,
-    "comment_count": 2,
-    "hn_item": {
-      "by": "lsllc",
-      "descendants": 4,
-      "id": 30142494,
-      "kids": [
-        30143090
-      ],
-      "score": 26,
-      "time": 1643586052,
-      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
-      "type": "story",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
-    },
-    "og_item": {
-      "title": "Zero-copy network transmission with io_uring [LWN.net]",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "https://static.lwn.net/images/favicon.png"
-      }
-    }
-  },
-  {
     "id": 30124457,
     "title": "Chip shortages due to lack of investment in right fabs",
     "url": "https://www.theregister.com/2022/01/28/idc_chip_shortages/",
@@ -195,20 +215,25 @@
     "publisher": "theregister.com",
     "description": "",
     "by": "laktak",
-    "points": 34,
-    "comment_count": 2,
+    "points": 39,
+    "comment_count": 3,
     "hn_item": {
-      "by": "lsllc",
-      "descendants": 4,
-      "id": 30142494,
+      "by": "doener",
+      "descendants": 25,
+      "id": 30125730,
       "kids": [
-        30143090
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
       ],
-      "score": 26,
-      "time": 1643586052,
-      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
+      "score": 53,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
       "type": "story",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
     },
     "og_item": {
       "title": "",
@@ -237,20 +262,25 @@
     "publisher": "Medium",
     "description": "My journey on finding and reporting databases with sensitive data about Fortune-500 companies, Hospitals, Crypto platforms, Startups during…",
     "by": "boyter",
-    "points": 54,
+    "points": 60,
     "comment_count": 10,
     "hn_item": {
-      "by": "lsllc",
-      "descendants": 4,
-      "id": 30142494,
+      "by": "doener",
+      "descendants": 25,
+      "id": 30125730,
       "kids": [
-        30143090
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
       ],
-      "score": 26,
-      "time": 1643586052,
-      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
+      "score": 53,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
       "type": "story",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
     },
     "og_item": {
       "title": "How I Discovered Thousands of Open Databases on AWS",
@@ -279,48 +309,6 @@
     }
   },
   {
-    "id": 30137984,
-    "title": "Show HN: Web page that parses and explains the label on a bike tire",
-    "url": "https://fahrrad-tools.de/tire.html",
-    "time": 1643556717,
-    "image": "",
-    "icon": "https://fahrrad-tools.de/tire.html/icon.png",
-    "publisher": "fahrrad-tools.de",
-    "description": "Which tire fits my bike? Tires are always flat and now buy a tire with puncture protection? Find the right tire now!",
-    "by": "moasda",
-    "points": 554,
-    "comment_count": 37,
-    "hn_item": {
-      "by": "lsllc",
-      "descendants": 4,
-      "id": 30142494,
-      "kids": [
-        30143090
-      ],
-      "score": 26,
-      "time": 1643586052,
-      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
-      "type": "story",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
-    },
-    "og_item": {
-      "title": "Bike Tire | Fahrrad-Tools.de",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "Which tire fits my bike? Tires are always flat and now buy a tire with puncture protection? Find the right tire now!",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "icon.png"
-      }
-    }
-  },
-  {
     "id": 30144805,
     "title": "Examples of common false beliefs in mathematics",
     "url": "https://mathoverflow.net/questions/23478/examples-of-common-false-beliefs-in-mathematics",
@@ -330,20 +318,25 @@
     "publisher": "MathOverflow",
     "description": "The first thing to say is that this is not the same as the question about interesting mathematical mistakes. I am interested about the type of false beliefs that many intelligent people have while ...",
     "by": "gballan",
-    "points": 10,
+    "points": 17,
     "comment_count": 0,
     "hn_item": {
-      "by": "lsllc",
-      "descendants": 4,
-      "id": 30142494,
+      "by": "doener",
+      "descendants": 25,
+      "id": 30125730,
       "kids": [
-        30143090
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
       ],
-      "score": 26,
-      "time": 1643586052,
-      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
+      "score": 53,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
       "type": "story",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
     },
     "og_item": {
       "title": "Examples of common false beliefs in mathematics",
@@ -381,20 +374,25 @@
     "publisher": "JSTOR Daily",
     "description": "The man who introduced mesmerism to the US was a slave-owner from Guadeloupe, where planters were experimenting with “magnetizing” their enslaved people.",
     "by": "onychomys",
-    "points": 26,
+    "points": 27,
     "comment_count": 3,
     "hn_item": {
-      "by": "lsllc",
-      "descendants": 4,
-      "id": 30142494,
+      "by": "doener",
+      "descendants": 25,
+      "id": 30125730,
       "kids": [
-        30143090
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
       ],
-      "score": 26,
-      "time": 1643586052,
-      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
+      "score": 53,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
       "type": "story",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
     },
     "og_item": {
       "title": "Mesmerizing Labor - JSTOR Daily",
@@ -423,183 +421,6 @@
     }
   },
   {
-    "id": 30140835,
-    "title": "Hardy, Ramanujan and Taxi No. 1729",
-    "url": "https://johncarlosbaez.wordpress.com/2022/01/30/hardy-ramanujan-and-taxi-no-1729/",
-    "time": 1643574977,
-    "image": "https://johncarlosbaez.files.wordpress.com/2022/01/ramanujan_1729.jpg",
-    "icon": "https://s0.wp.com/i/favicon.ico",
-    "publisher": "Azimuth",
-    "description": "In his book Ramanujan: Twelve Lectures on Subjects Suggested by His Life and Work, G. H. Hardy tells this famous story: He could remember the idiosyncracies of numbers in an almost uncanny way. It …",
-    "by": "johncarlosbaez",
-    "points": 71,
-    "comment_count": 6,
-    "hn_item": {
-      "by": "lsllc",
-      "descendants": 4,
-      "id": 30142494,
-      "kids": [
-        30143090
-      ],
-      "score": 26,
-      "time": 1643586052,
-      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
-      "type": "story",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
-    },
-    "og_item": {
-      "title": "Hardy, Ramanujan and Taxi No. 1729",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://johncarlosbaez.files.wordpress.com/2022/01/ramanujan_1729.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 450,
-          "height": 609,
-          "alt": ""
-        }
-      ],
-      "url": "https://johncarlosbaez.wordpress.com/2022/01/30/hardy-ramanujan-and-taxi-no-1729/",
-      "audio": [],
-      "description": "In his book Ramanujan: Twelve Lectures on Subjects Suggested by His Life and Work, G. H. Hardy tells this famous story: He could remember the idiosyncracies of numbers in an almost uncanny way. It …",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Azimuth",
-      "video": [],
-      "favicon": {
-        "url": "https://s0.wp.com/i/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30143587,
-    "title": "Ylang: Universal Language for eBPF, Stap+, GDB, and More (2021)",
-    "url": "https://blog.openresty.com/en/ylang-intro-part4/",
-    "time": 1643594248,
-    "image": "",
-    "icon": "https://blog.openresty.com/favicon-16x16.png",
-    "publisher": "blog.openresty.com",
-    "description": "Transparent Container Tracing Efficient Stack Unwinding Analyzing Dead Processes (Core Dumps) Very Low Tracing Overhead Standard Ylang Libraries \u0026amp; Tools Network Filtering \u0026amp; Control The Ylang Compiler\u0026rsquo;s Implementation Operating System Support Contributions to Open-Source Communities",
-    "by": "walterbell",
-    "points": 29,
-    "comment_count": 3,
-    "hn_item": {
-      "by": "lsllc",
-      "descendants": 4,
-      "id": 30142494,
-      "kids": [
-        30143090
-      ],
-      "score": 26,
-      "time": 1643586052,
-      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
-      "type": "story",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
-    },
-    "og_item": {
-      "title": "Ylang: Universal Language for eBPF, Stap+, GDB, and More (Part 4) - OpenResty Official Blog",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": " Transparent Container Tracing Efficient Stack Unwinding Analyzing Dead Processes (Core Dumps) Very Low Tracing Overhead Standard Ylang Libraries \u0026amp; Tools Network Filtering \u0026amp; Control The Ylang Compiler\u0026rsquo;s Implementation Operating System Support Contributions to Open-Source Communities  ",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon-16x16.png"
-      }
-    }
-  },
-  {
-    "id": 30138533,
-    "title": "Hypercard Simulator",
-    "url": "https://hypercardsimulator.com/",
-    "time": 1643560248,
-    "image": "",
-    "icon": "https://hypercardsimulator.com/favicon.ico",
-    "publisher": "hypercardsimulator.com",
-    "description": "",
-    "by": "alexmingoia",
-    "points": 209,
-    "comment_count": 14,
-    "hn_item": {
-      "by": "lsllc",
-      "descendants": 4,
-      "id": 30142494,
-      "kids": [
-        30143090
-      ],
-      "score": 26,
-      "time": 1643586052,
-      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
-      "type": "story",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
-    },
-    "og_item": {
-      "title": "HyperCardSimulator",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30141278,
-    "title": "The Story of Maxis Software (1999)",
-    "url": "https://web.archive.org/web/19991012021220/http://gamespot.com/features/maxis/index.html",
-    "time": 1643577913,
-    "image": "",
-    "icon": "https://web.archive.org/favicon.ico",
-    "publisher": "web.archive.org",
-    "description": "",
-    "by": "ecliptik",
-    "points": 94,
-    "comment_count": 8,
-    "hn_item": {
-      "by": "lsllc",
-      "descendants": 4,
-      "id": 30142494,
-      "kids": [
-        30143090
-      ],
-      "score": 26,
-      "time": 1643586052,
-      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
-      "type": "story",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
-    },
-    "og_item": {
-      "title": "GameSpot's SIMply Divine: The Story of Maxis Software",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30131926,
     "title": "What is the inverse of a circle?",
     "url": "https://mattferraro.dev/posts/inverse-of-a-circle",
@@ -609,20 +430,25 @@
     "publisher": "mattferraro.dev",
     "description": "What does it mean to invert a shape?",
     "by": "mferraro89",
-    "points": 14,
-    "comment_count": 1,
+    "points": 21,
+    "comment_count": 3,
     "hn_item": {
-      "by": "lsllc",
-      "descendants": 4,
-      "id": 30142494,
+      "by": "doener",
+      "descendants": 25,
+      "id": 30125730,
       "kids": [
-        30143090
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
       ],
-      "score": 26,
-      "time": 1643586052,
-      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
+      "score": 53,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
       "type": "story",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
     },
     "og_item": {
       "title": "What is the Inverse of a Circle?",
@@ -651,6 +477,250 @@
     }
   },
   {
+    "id": 30140835,
+    "title": "Hardy, Ramanujan and Taxi No. 1729",
+    "url": "https://johncarlosbaez.wordpress.com/2022/01/30/hardy-ramanujan-and-taxi-no-1729/",
+    "time": 1643574977,
+    "image": "https://johncarlosbaez.files.wordpress.com/2022/01/ramanujan_1729.jpg",
+    "icon": "https://s0.wp.com/i/favicon.ico",
+    "publisher": "Azimuth",
+    "description": "In his book Ramanujan: Twelve Lectures on Subjects Suggested by His Life and Work, G. H. Hardy tells this famous story: He could remember the idiosyncracies of numbers in an almost uncanny way. It …",
+    "by": "johncarlosbaez",
+    "points": 72,
+    "comment_count": 6,
+    "hn_item": {
+      "by": "doener",
+      "descendants": 25,
+      "id": 30125730,
+      "kids": [
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
+      ],
+      "score": 53,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
+      "type": "story",
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+    },
+    "og_item": {
+      "title": "Hardy, Ramanujan and Taxi No. 1729",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://johncarlosbaez.files.wordpress.com/2022/01/ramanujan_1729.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 450,
+          "height": 609,
+          "alt": ""
+        }
+      ],
+      "url": "https://johncarlosbaez.wordpress.com/2022/01/30/hardy-ramanujan-and-taxi-no-1729/",
+      "audio": [],
+      "description": "In his book Ramanujan: Twelve Lectures on Subjects Suggested by His Life and Work, G. H. Hardy tells this famous story: He could remember the idiosyncracies of numbers in an almost uncanny way. It …",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Azimuth",
+      "video": [],
+      "favicon": {
+        "url": "https://s0.wp.com/i/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30138533,
+    "title": "Hypercard Simulator",
+    "url": "https://hypercardsimulator.com/",
+    "time": 1643560248,
+    "image": "",
+    "icon": "https://hypercardsimulator.com/favicon.ico",
+    "publisher": "hypercardsimulator.com",
+    "description": "",
+    "by": "alexmingoia",
+    "points": 210,
+    "comment_count": 14,
+    "hn_item": {
+      "by": "doener",
+      "descendants": 25,
+      "id": 30125730,
+      "kids": [
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
+      ],
+      "score": 53,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
+      "type": "story",
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+    },
+    "og_item": {
+      "title": "HyperCardSimulator",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30143587,
+    "title": "Ylang: Universal Language for eBPF, Stap+, GDB, and More (2021)",
+    "url": "https://blog.openresty.com/en/ylang-intro-part4/",
+    "time": 1643594248,
+    "image": "",
+    "icon": "https://blog.openresty.com/favicon-16x16.png",
+    "publisher": "blog.openresty.com",
+    "description": "Transparent Container Tracing Efficient Stack Unwinding Analyzing Dead Processes (Core Dumps) Very Low Tracing Overhead Standard Ylang Libraries \u0026amp; Tools Network Filtering \u0026amp; Control The Ylang Compiler\u0026rsquo;s Implementation Operating System Support Contributions to Open-Source Communities",
+    "by": "walterbell",
+    "points": 31,
+    "comment_count": 3,
+    "hn_item": {
+      "by": "doener",
+      "descendants": 25,
+      "id": 30125730,
+      "kids": [
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
+      ],
+      "score": 53,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
+      "type": "story",
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+    },
+    "og_item": {
+      "title": "Ylang: Universal Language for eBPF, Stap+, GDB, and More (Part 4) - OpenResty Official Blog",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": " Transparent Container Tracing Efficient Stack Unwinding Analyzing Dead Processes (Core Dumps) Very Low Tracing Overhead Standard Ylang Libraries \u0026amp; Tools Network Filtering \u0026amp; Control The Ylang Compiler\u0026rsquo;s Implementation Operating System Support Contributions to Open-Source Communities  ",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon-16x16.png"
+      }
+    }
+  },
+  {
+    "id": 30141278,
+    "title": "The Story of Maxis Software (1999)",
+    "url": "https://web.archive.org/web/19991012021220/http://gamespot.com/features/maxis/index.html",
+    "time": 1643577913,
+    "image": "",
+    "icon": "https://web.archive.org/favicon.ico",
+    "publisher": "web.archive.org",
+    "description": "",
+    "by": "ecliptik",
+    "points": 95,
+    "comment_count": 8,
+    "hn_item": {
+      "by": "doener",
+      "descendants": 25,
+      "id": 30125730,
+      "kids": [
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
+      ],
+      "score": 53,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
+      "type": "story",
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+    },
+    "og_item": {
+      "title": "GameSpot's SIMply Divine: The Story of Maxis Software",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30134367,
+    "title": "The case of the mysterious --help directory (2020)",
+    "url": "https://leahneukirchen.org/blog/archive/2020/05/the-case-of-the-mysterious-help-directory.html",
+    "time": 1643520785,
+    "image": "",
+    "icon": "https://leahneukirchen.org/favicon.ico",
+    "publisher": "leahneukirchen.org",
+    "description": "",
+    "by": "panic",
+    "points": 139,
+    "comment_count": 11,
+    "hn_item": {
+      "by": "doener",
+      "descendants": 25,
+      "id": 30125730,
+      "kids": [
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
+      ],
+      "score": 53,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
+      "type": "story",
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+    },
+    "og_item": {
+      "title": "leah blogs: The case of the mysterious --help directory",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30143375,
     "title": "Lizard scale patterns described with antiferromagnetic model",
     "url": "https://physics.aps.org/articles/v15/s12",
@@ -663,17 +733,22 @@
     "points": 32,
     "comment_count": 3,
     "hn_item": {
-      "by": "lsllc",
-      "descendants": 4,
-      "id": 30142494,
+      "by": "doener",
+      "descendants": 25,
+      "id": 30125730,
       "kids": [
-        30143090
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
       ],
-      "score": 26,
-      "time": 1643586052,
-      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
+      "score": 53,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
       "type": "story",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
     },
     "og_item": {
       "title": "Lizard Scale Patterns Described with Antiferromagnetic Model",
@@ -702,78 +777,41 @@
     }
   },
   {
-    "id": 30134367,
-    "title": "The case of the mysterious --help directory (2020)",
-    "url": "https://leahneukirchen.org/blog/archive/2020/05/the-case-of-the-mysterious-help-directory.html",
-    "time": 1643520785,
-    "image": "",
-    "icon": "https://leahneukirchen.org/favicon.ico",
-    "publisher": "leahneukirchen.org",
-    "description": "",
-    "by": "panic",
-    "points": 139,
-    "comment_count": 11,
-    "hn_item": {
-      "by": "lsllc",
-      "descendants": 4,
-      "id": 30142494,
-      "kids": [
-        30143090
-      ],
-      "score": 26,
-      "time": 1643586052,
-      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
-      "type": "story",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
-    },
-    "og_item": {
-      "title": "leah blogs: The case of the mysterious --help directory",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30138434,
     "title": "Beancount: Double-entry accounting from text files",
     "url": "https://github.com/beancount/beancount",
     "time": 1643559445,
-    "image": "https://opengraph.githubassets.com/de48de91fe0c4269bd8e5142636d1ed435028c6b7470aedb7ae6aa4923a7a398/beancount/beancount",
+    "image": "https://opengraph.githubassets.com/8d14f9d59a660e5a4177384f2431efa572f0326b4c8307814b99ea5c52a1016a/beancount/beancount",
     "icon": "https://github.githubassets.com/favicons/favicon.svg",
     "publisher": "GitHub",
     "description": "Beancount: Double-Entry Accounting from Text Files. - GitHub - beancount/beancount: Beancount: Double-Entry Accounting from Text Files.",
     "by": "techtalsky",
-    "points": 192,
+    "points": 194,
     "comment_count": 22,
     "hn_item": {
-      "by": "lsllc",
-      "descendants": 4,
-      "id": 30142494,
+      "by": "doener",
+      "descendants": 25,
+      "id": 30125730,
       "kids": [
-        30143090
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
       ],
-      "score": 26,
-      "time": 1643586052,
-      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
+      "score": 53,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
       "type": "story",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
     },
     "og_item": {
       "title": "GitHub - beancount/beancount: Beancount: Double-Entry Accounting from Text Files.",
       "type": "object",
       "image": [
         {
-          "url": "https://opengraph.githubassets.com/de48de91fe0c4269bd8e5142636d1ed435028c6b7470aedb7ae6aa4923a7a398/beancount/beancount",
+          "url": "https://opengraph.githubassets.com/8d14f9d59a660e5a4177384f2431efa572f0326b4c8307814b99ea5c52a1016a/beancount/beancount",
           "secure_url": "",
           "type": "",
           "width": 1200,
@@ -795,6 +833,62 @@
     }
   },
   {
+    "id": 30141439,
+    "title": "Operation Warp Speed: A new model for industrial policy",
+    "url": "https://americanaffairsjournal.org/2021/05/inside-operation-warp-speed-a-new-model-for-industrial-policy/",
+    "time": 1643579096,
+    "image": "https://americanaffairsjournal.org/wp-content/uploads/2021/05/Jenner-Vaccine.jpg",
+    "icon": "https://americanaffairsjournal.org/wp-content/themes/american-affairs-journal/assets/images/favicon-new.png",
+    "publisher": "American Affairs Journal",
+    "description": "Operation Warp Speed1 (OWS) was launched on May 15, 2020. A partnership between the Departments of Health and Human Services (HHS) and Defense (DoD), other agencies, and the private sector, its goal was to “accelerate the testing, supply, development, and distribution of safe and effective vacc…",
+    "by": "gok",
+    "points": 98,
+    "comment_count": 7,
+    "hn_item": {
+      "by": "doener",
+      "descendants": 25,
+      "id": 30125730,
+      "kids": [
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
+      ],
+      "score": 53,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
+      "type": "story",
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+    },
+    "og_item": {
+      "title": "Inside Operation Warp Speed: A New Model for Industrial Policy - American Affairs Journal",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://americanaffairsjournal.org/wp-content/uploads/2021/05/Jenner-Vaccine.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 1200,
+          "height": 794,
+          "alt": ""
+        }
+      ],
+      "url": "https://americanaffairsjournal.org/2021/05/inside-operation-warp-speed-a-new-model-for-industrial-policy/",
+      "audio": [],
+      "description": "Operation Warp Speed1 (OWS) was launched on May 15, 2020. A partnership between the Departments of Health and Human Services (HHS) and Defense (DoD), other agencies, and the private sector, its goal was to “accelerate the testing, supply, development, and distribution of safe and effective vaccines, therapeutics, and diag­nostics to counter Covid-19.” As a result…",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "American Affairs Journal",
+      "video": [],
+      "favicon": {
+        "url": "https://americanaffairsjournal.org/wp-content/themes/american-affairs-journal/assets/images/favicon-new.png"
+      }
+    }
+  },
+  {
     "id": 30141192,
     "title": "Don't forget Microsoft",
     "url": "https://luttig.substack.com/p/dont-forget-microsoft",
@@ -807,17 +901,22 @@
     "points": 242,
     "comment_count": 49,
     "hn_item": {
-      "by": "lsllc",
-      "descendants": 4,
-      "id": 30142494,
+      "by": "doener",
+      "descendants": 25,
+      "id": 30125730,
       "kids": [
-        30143090
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
       ],
-      "score": 26,
-      "time": 1643586052,
-      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
+      "score": 53,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
       "type": "story",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
     },
     "og_item": {
       "title": "Don’t forget Microsoft",
@@ -858,17 +957,22 @@
     "points": 30,
     "comment_count": 0,
     "hn_item": {
-      "by": "lsllc",
-      "descendants": 4,
-      "id": 30142494,
+      "by": "doener",
+      "descendants": 25,
+      "id": 30125730,
       "kids": [
-        30143090
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
       ],
-      "score": 26,
-      "time": 1643586052,
-      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
+      "score": 53,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
       "type": "story",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
     },
     "og_item": {
       "title": "A couple years ago, I created this list: immersive: walking taking a shower sleeping teaching falling in love cinema life or death experience I was curious about these amazing parts of life that feel so meaningful — like portals, where time and space take on a totally different, enchanted feeling. I remember writing this list… – blog.laurel.world",
@@ -897,20 +1001,25 @@
     "publisher": "jenson.org",
     "description": "",
     "by": "radley",
-    "points": 679,
+    "points": 684,
     "comment_count": 95,
     "hn_item": {
-      "by": "lsllc",
-      "descendants": 4,
-      "id": 30142494,
+      "by": "doener",
+      "descendants": 25,
+      "id": 30125730,
       "kids": [
-        30143090
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
       ],
-      "score": 26,
-      "time": 1643586052,
-      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
+      "score": 53,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
       "type": "story",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
     },
     "og_item": {
       "title": "A UX designer walks into a Tesla Bar – Scott Jenson",
@@ -930,6 +1039,53 @@
     }
   },
   {
+    "id": 30137984,
+    "title": "Show HN: Web page that parses and explains the label on a bike tire",
+    "url": "https://fahrrad-tools.de/tire.html",
+    "time": 1643556717,
+    "image": "",
+    "icon": "https://fahrrad-tools.de/tire.html/icon.png",
+    "publisher": "fahrrad-tools.de",
+    "description": "Which tire fits my bike? Tires are always flat and now buy a tire with puncture protection? Find the right tire now!",
+    "by": "moasda",
+    "points": 556,
+    "comment_count": 37,
+    "hn_item": {
+      "by": "doener",
+      "descendants": 25,
+      "id": 30125730,
+      "kids": [
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
+      ],
+      "score": 53,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
+      "type": "story",
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+    },
+    "og_item": {
+      "title": "Bike Tire | Fahrrad-Tools.de",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "Which tire fits my bike? Tires are always flat and now buy a tire with puncture protection? Find the right tire now!",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "icon.png"
+      }
+    }
+  },
+  {
     "id": 30142105,
     "title": "Seattle Telecommunications History Museum",
     "url": "https://www.telcomhistory.org/connections-museum-seattle/",
@@ -942,17 +1098,22 @@
     "points": 49,
     "comment_count": 7,
     "hn_item": {
-      "by": "lsllc",
-      "descendants": 4,
-      "id": 30142494,
+      "by": "doener",
+      "descendants": 25,
+      "id": 30125730,
       "kids": [
-        30143090
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
       ],
-      "score": 26,
-      "time": 1643586052,
-      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
+      "score": 53,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
       "type": "story",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
     },
     "og_item": {
       "title": "403 Forbidden",
@@ -984,17 +1145,22 @@
     "points": 73,
     "comment_count": 4,
     "hn_item": {
-      "by": "lsllc",
-      "descendants": 4,
-      "id": 30142494,
+      "by": "doener",
+      "descendants": 25,
+      "id": 30125730,
       "kids": [
-        30143090
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
       ],
-      "score": 26,
-      "time": 1643586052,
-      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
+      "score": 53,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
       "type": "story",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
     },
     "og_item": {
       "title": "A Billion Years of Time Are Mysteriously Missing. Scientists Think They Know Why.",
@@ -1023,108 +1189,6 @@
     }
   },
   {
-    "id": 30141439,
-    "title": "Operation Warp Speed: A new model for industrial policy",
-    "url": "https://americanaffairsjournal.org/2021/05/inside-operation-warp-speed-a-new-model-for-industrial-policy/",
-    "time": 1643579096,
-    "image": "https://americanaffairsjournal.org/wp-content/uploads/2021/05/Jenner-Vaccine.jpg",
-    "icon": "https://americanaffairsjournal.org/wp-content/themes/american-affairs-journal/assets/images/favicon-new.png",
-    "publisher": "American Affairs Journal",
-    "description": "Operation Warp Speed1 (OWS) was launched on May 15, 2020. A partnership between the Departments of Health and Human Services (HHS) and Defense (DoD), other agencies, and the private sector, its goal was to “accelerate the testing, supply, development, and distribution of safe and effective vacc…",
-    "by": "gok",
-    "points": 96,
-    "comment_count": 6,
-    "hn_item": {
-      "by": "lsllc",
-      "descendants": 4,
-      "id": 30142494,
-      "kids": [
-        30143090
-      ],
-      "score": 26,
-      "time": 1643586052,
-      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
-      "type": "story",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
-    },
-    "og_item": {
-      "title": "Inside Operation Warp Speed: A New Model for Industrial Policy - American Affairs Journal",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://americanaffairsjournal.org/wp-content/uploads/2021/05/Jenner-Vaccine.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 1200,
-          "height": 794,
-          "alt": ""
-        }
-      ],
-      "url": "https://americanaffairsjournal.org/2021/05/inside-operation-warp-speed-a-new-model-for-industrial-policy/",
-      "audio": [],
-      "description": "Operation Warp Speed1 (OWS) was launched on May 15, 2020. A partnership between the Departments of Health and Human Services (HHS) and Defense (DoD), other agencies, and the private sector, its goal was to “accelerate the testing, supply, development, and distribution of safe and effective vaccines, therapeutics, and diag­nostics to counter Covid-19.” As a result…",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "American Affairs Journal",
-      "video": [],
-      "favicon": {
-        "url": "https://americanaffairsjournal.org/wp-content/themes/american-affairs-journal/assets/images/favicon-new.png"
-      }
-    }
-  },
-  {
-    "id": 30119925,
-    "title": "Message in a bottle from Scottish girl found in Norway after 25 years",
-    "url": "https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-60121185",
-    "time": 1643401844,
-    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/16512/production/_123001419_joanna2.jpg",
-    "icon": "https://www.bbc.co.uk/favicon.ico",
-    "publisher": "BBC News",
-    "description": "The bottle Joanna Buchan dropped in the sea at Peterhead when she was eight has washed up in Norway.",
-    "by": "LinuxBender",
-    "points": 98,
-    "comment_count": 10,
-    "hn_item": {
-      "by": "lsllc",
-      "descendants": 4,
-      "id": 30142494,
-      "kids": [
-        30143090
-      ],
-      "score": 26,
-      "time": 1643586052,
-      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
-      "type": "story",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
-    },
-    "og_item": {
-      "title": "Message in a bottle from Scottish girl found in Norway after 25 years",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/16512/production/_123001419_joanna2.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://www.bbc.com/news/uk-scotland-north-east-orkney-shetland-60121185",
-      "audio": [],
-      "description": "The bottle Joanna Buchan dropped in the sea at Peterhead when she was eight has washed up in Norway.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "BBC News",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30141022,
     "title": "BuildZoom (better way to build custom homes) Is hiring a Principal Engineer",
     "url": "https://jobs.lever.co/buildzoom",
@@ -1137,17 +1201,22 @@
     "points": 1,
     "comment_count": 0,
     "hn_item": {
-      "by": "lsllc",
-      "descendants": 4,
-      "id": 30142494,
+      "by": "doener",
+      "descendants": 25,
+      "id": 30125730,
       "kids": [
-        30143090
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
       ],
-      "score": 26,
-      "time": 1643586052,
-      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
+      "score": 53,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
       "type": "story",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
     },
     "og_item": {
       "title": "BuildZoom jobs",
@@ -1176,48 +1245,6 @@
     }
   },
   {
-    "id": 30131387,
-    "title": "Game performance optimization – A practical example from Industry Idle",
-    "url": "https://ruoyusun.com/2022/01/28/game-pref.html",
-    "time": 1643496513,
-    "image": "",
-    "icon": "https://ruoyusun.com/favicon-16x16.png",
-    "publisher": "ruoyusun.com",
-    "description": "",
-    "by": "insraq",
-    "points": 46,
-    "comment_count": 4,
-    "hn_item": {
-      "by": "lsllc",
-      "descendants": 4,
-      "id": 30142494,
-      "kids": [
-        30143090
-      ],
-      "score": 26,
-      "time": 1643586052,
-      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
-      "type": "story",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
-    },
-    "og_item": {
-      "title": "Game Performance Optimization - A Practical Example From Industry Idle",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon-16x16.png"
-      }
-    }
-  },
-  {
     "id": 30142558,
     "title": "State of the Web: Static Site Generators",
     "url": "https://byteofdev.com/posts/static-site-generators/",
@@ -1227,20 +1254,25 @@
     "publisher": "ByteofDev",
     "description": "Static Site Generators have been changing quickly with new trends like Jamstack. Learn more about the background of static site generators, why people use them, and the current state of them, with information on modern SSGs like Eleventy, Next.js, SvelteKit, and Astro.",
     "by": "AsyncBanana",
-    "points": 70,
+    "points": 71,
     "comment_count": 11,
     "hn_item": {
-      "by": "lsllc",
-      "descendants": 4,
-      "id": 30142494,
+      "by": "doener",
+      "descendants": 25,
+      "id": 30125730,
       "kids": [
-        30143090
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
       ],
-      "score": 26,
-      "time": 1643586052,
-      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
+      "score": 53,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
       "type": "story",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
     },
     "og_item": {
       "title": "State of the Web: Static Site Generators",
@@ -1269,6 +1301,109 @@
     }
   },
   {
+    "id": 30119925,
+    "title": "Message in a bottle from Scottish girl found in Norway after 25 years",
+    "url": "https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-60121185",
+    "time": 1643401844,
+    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/16512/production/_123001419_joanna2.jpg",
+    "icon": "https://www.bbc.co.uk/favicon.ico",
+    "publisher": "BBC News",
+    "description": "The bottle Joanna Buchan dropped in the sea at Peterhead when she was eight has washed up in Norway.",
+    "by": "LinuxBender",
+    "points": 98,
+    "comment_count": 10,
+    "hn_item": {
+      "by": "doener",
+      "descendants": 25,
+      "id": 30125730,
+      "kids": [
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
+      ],
+      "score": 53,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
+      "type": "story",
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+    },
+    "og_item": {
+      "title": "Message in a bottle from Scottish girl found in Norway after 25 years",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/16512/production/_123001419_joanna2.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://www.bbc.com/news/uk-scotland-north-east-orkney-shetland-60121185",
+      "audio": [],
+      "description": "The bottle Joanna Buchan dropped in the sea at Peterhead when she was eight has washed up in Norway.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "BBC News",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30131387,
+    "title": "Game performance optimization – A practical example from Industry Idle",
+    "url": "https://ruoyusun.com/2022/01/28/game-pref.html",
+    "time": 1643496513,
+    "image": "",
+    "icon": "https://ruoyusun.com/favicon-16x16.png",
+    "publisher": "ruoyusun.com",
+    "description": "",
+    "by": "insraq",
+    "points": 47,
+    "comment_count": 4,
+    "hn_item": {
+      "by": "doener",
+      "descendants": 25,
+      "id": 30125730,
+      "kids": [
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
+      ],
+      "score": 53,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
+      "type": "story",
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+    },
+    "og_item": {
+      "title": "Game Performance Optimization - A Practical Example From Industry Idle",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon-16x16.png"
+      }
+    }
+  },
+  {
     "id": 30140270,
     "title": "When the algorithm is your boss",
     "url": "https://tribunemag.co.uk/2022/01/amazon-algorithm-human-resource-management-tech-worker-surveillance",
@@ -1281,17 +1416,22 @@
     "points": 83,
     "comment_count": 12,
     "hn_item": {
-      "by": "lsllc",
-      "descendants": 4,
-      "id": 30142494,
+      "by": "doener",
+      "descendants": 25,
+      "id": 30125730,
       "kids": [
-        30143090
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
       ],
-      "score": 26,
-      "time": 1643586052,
-      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
+      "score": 53,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
       "type": "story",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
     },
     "og_item": {
       "title": "When the Algorithm Is Your Boss",
@@ -1320,48 +1460,6 @@
     }
   },
   {
-    "id": 30137864,
-    "title": "Midnight Commander Tips and Tricks",
-    "url": "http://www.softpanorama.org/OFM/MC/mc_tips.shtml",
-    "time": 1643555741,
-    "image": "",
-    "icon": "",
-    "publisher": "softpanorama.org",
-    "description": "",
-    "by": "ingve",
-    "points": 156,
-    "comment_count": 18,
-    "hn_item": {
-      "by": "lsllc",
-      "descendants": 4,
-      "id": 30142494,
-      "kids": [
-        30143090
-      ],
-      "score": 26,
-      "time": 1643586052,
-      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
-      "type": "story",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
-    },
-    "og_item": {
-      "title": "Midnight Commander Tips and Tricks",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30141171,
     "title": "Deep symbolic regression for recurrent sequences",
     "url": "http://recur-env.eba-rm3fchmn.us-east-2.elasticbeanstalk.com/",
@@ -1372,19 +1470,24 @@
     "description": "",
     "by": "ShamelessC",
     "points": 54,
-    "comment_count": 12,
+    "comment_count": 13,
     "hn_item": {
-      "by": "lsllc",
-      "descendants": 4,
-      "id": 30142494,
+      "by": "doener",
+      "descendants": 25,
+      "id": 30125730,
       "kids": [
-        30143090
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
       ],
-      "score": 26,
-      "time": 1643586052,
-      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
+      "score": 53,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
       "type": "story",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
     },
     "og_item": {
       "title": "Streamlit",
@@ -1416,17 +1519,22 @@
     "points": 75,
     "comment_count": 12,
     "hn_item": {
-      "by": "lsllc",
-      "descendants": 4,
-      "id": 30142494,
+      "by": "doener",
+      "descendants": 25,
+      "id": 30125730,
       "kids": [
-        30143090
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
       ],
-      "score": 26,
-      "time": 1643586052,
-      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
+      "score": 53,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
       "type": "story",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
     },
     "og_item": {
       "title": "COM+ revisited",
@@ -1455,6 +1563,38 @@
     }
   },
   {
+    "id": 30138468,
+    "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
+    "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf",
+    "time": 1643559712,
+    "image": "",
+    "icon": "",
+    "publisher": "win.tue.nl",
+    "description": "",
+    "by": "camnora",
+    "points": 100,
+    "comment_count": 7,
+    "hn_item": {
+      "by": "doener",
+      "descendants": 25,
+      "id": 30125730,
+      "kids": [
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
+      ],
+      "score": 53,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
+      "type": "story",
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+    },
+    "og_item": null
+  },
+  {
     "id": 30144101,
     "title": "Please Make a Dumb Car",
     "url": "https://techcrunch.com/2022/01/29/please-make-a-dumb-car/",
@@ -1464,20 +1604,25 @@
     "publisher": "TechCrunch",
     "description": "Today’s cars are dumb where they should be smart, and smart where they should be dumb. Enough already. Make a car that’s pretty much all dumb and watch it sell — because what automakers are giving people is so bad, they’ll pay more to have less of it. Cars now are like budget smar…",
     "by": "wrycoder",
-    "points": 37,
-    "comment_count": 6,
+    "points": 38,
+    "comment_count": 8,
     "hn_item": {
-      "by": "lsllc",
-      "descendants": 4,
-      "id": 30142494,
+      "by": "doener",
+      "descendants": 25,
+      "id": 30125730,
       "kids": [
-        30143090
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
       ],
-      "score": 26,
-      "time": 1643586052,
-      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
+      "score": 53,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
       "type": "story",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
     },
     "og_item": {
       "title": "Please make a dumb car – TechCrunch",
@@ -1506,33 +1651,6 @@
     }
   },
   {
-    "id": 30138468,
-    "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
-    "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf",
-    "time": 1643559712,
-    "image": "",
-    "icon": "",
-    "publisher": "win.tue.nl",
-    "description": "",
-    "by": "camnora",
-    "points": 100,
-    "comment_count": 7,
-    "hn_item": {
-      "by": "lsllc",
-      "descendants": 4,
-      "id": 30142494,
-      "kids": [
-        30143090
-      ],
-      "score": 26,
-      "time": 1643586052,
-      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
-      "type": "story",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
-    },
-    "og_item": null
-  },
-  {
     "id": 30137720,
     "title": "U.S. companies are hiring Latin America’s tech talent",
     "url": "https://restofworld.org/2022/latin-america-startup-developer-scarcity/",
@@ -1542,20 +1660,25 @@
     "publisher": "Rest of World",
     "description": "As a hedge against American talent poachers, some exasperated founders are recruiting developers who can’t speak English.",
     "by": "braco_alva",
-    "points": 185,
-    "comment_count": 39,
+    "points": 187,
+    "comment_count": 40,
     "hn_item": {
-      "by": "lsllc",
-      "descendants": 4,
-      "id": 30142494,
+      "by": "doener",
+      "descendants": 25,
+      "id": 30125730,
       "kids": [
-        30143090
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
       ],
-      "score": 26,
-      "time": 1643586052,
-      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
+      "score": 53,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
       "type": "story",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
     },
     "og_item": {
       "title": "“It’s a bloodbath”: U.S. companies are pillaging Latin America’s tech talent",
@@ -1596,17 +1719,22 @@
     "points": 20,
     "comment_count": 3,
     "hn_item": {
-      "by": "lsllc",
-      "descendants": 4,
-      "id": 30142494,
+      "by": "doener",
+      "descendants": 25,
+      "id": 30125730,
       "kids": [
-        30143090
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
       ],
-      "score": 26,
-      "time": 1643586052,
-      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
+      "score": 53,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
       "type": "story",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
     },
     "og_item": {
       "title": "Unconscious R\u0026D",
@@ -1639,7 +1767,7 @@
     "title": "FunctionStomping – A new shellcode injection technique",
     "url": "https://github.com/Idov31/FunctionStomping",
     "time": 1643533222,
-    "image": "https://opengraph.githubassets.com/0f84129ae8190c59d47d34df949b3bd1b673cc282e5a9d024e2eca5eed569b86/Idov31/FunctionStomping",
+    "image": "https://opengraph.githubassets.com/fa5bb9f9a84593e371a43359067fdf97c0eab1d83e5bf3092701ec65d55204b1/Idov31/FunctionStomping",
     "icon": "https://github.githubassets.com/favicons/favicon.svg",
     "publisher": "GitHub",
     "description": "A new shellcode injection technique. Given as C++ header or standalone Rust program. - GitHub - Idov31/FunctionStomping: A new shellcode injection technique. Given as C++ header or standalone Rust ...",
@@ -1647,24 +1775,29 @@
     "points": 33,
     "comment_count": 3,
     "hn_item": {
-      "by": "lsllc",
-      "descendants": 4,
-      "id": 30142494,
+      "by": "doener",
+      "descendants": 25,
+      "id": 30125730,
       "kids": [
-        30143090
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
       ],
-      "score": 26,
-      "time": 1643586052,
-      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
+      "score": 53,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
       "type": "story",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
     },
     "og_item": {
       "title": "GitHub - Idov31/FunctionStomping: A new shellcode injection technique. Given as C++ header or standalone Rust program.",
       "type": "object",
       "image": [
         {
-          "url": "https://opengraph.githubassets.com/0f84129ae8190c59d47d34df949b3bd1b673cc282e5a9d024e2eca5eed569b86/Idov31/FunctionStomping",
+          "url": "https://opengraph.githubassets.com/fa5bb9f9a84593e371a43359067fdf97c0eab1d83e5bf3092701ec65d55204b1/Idov31/FunctionStomping",
           "secure_url": "",
           "type": "",
           "width": 1200,
@@ -1698,17 +1831,22 @@
     "points": 28,
     "comment_count": 6,
     "hn_item": {
-      "by": "lsllc",
-      "descendants": 4,
-      "id": 30142494,
+      "by": "doener",
+      "descendants": 25,
+      "id": 30125730,
       "kids": [
-        30143090
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
       ],
-      "score": 26,
-      "time": 1643586052,
-      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
+      "score": 53,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
       "type": "story",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
     },
     "og_item": {
       "title": "Basic cryptography - the Vigenere cipher - Eric Mann's Blog",
@@ -1737,57 +1875,6 @@
     }
   },
   {
-    "id": 30144083,
-    "title": "Rents are up 40 percent in some cities, forcing millions to move",
-    "url": "https://www.washingtonpost.com/business/2022/01/30/rent-inflation-housing/",
-    "time": 1643599234,
-    "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QJQ7K2D774I6ZDGIW2LFMS5HSY.jpg\u0026w=1440",
-    "icon": "https://www.washingtonpost.com/wp-stat/assets/favicons/touch-icon-iphone.png",
-    "publisher": "Washington Post",
-    "description": "Rising rents are also expected to be a driving force in inflation this year and have been an ongoing policy challenge for the Biden administration.",
-    "by": "MilnerRoute",
-    "points": 75,
-    "comment_count": 12,
-    "hn_item": {
-      "by": "lsllc",
-      "descendants": 4,
-      "id": 30142494,
-      "kids": [
-        30143090
-      ],
-      "score": 26,
-      "time": 1643586052,
-      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
-      "type": "story",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
-    },
-    "og_item": {
-      "title": "Rents are up 40 percent in some cities, forcing millions to find another place to live",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QJQ7K2D774I6ZDGIW2LFMS5HSY.jpg\u0026w=1440",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://www.washingtonpost.com/business/2022/01/30/rent-inflation-housing/",
-      "audio": [],
-      "description": "Rising rents are also expected to be a driving force in inflation this year and have been an ongoing policy challenge for the Biden administration.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Washington Post",
-      "video": [],
-      "favicon": {
-        "url": "https://www.washingtonpost.com/wp-stat/assets/favicons/touch-icon-iphone.png"
-      }
-    }
-  },
-  {
     "id": 30119285,
     "title": "Devious SQL: Message Queuing Using Native PostgreSQL",
     "url": "https://blog.crunchydata.com/blog/message-queuing-using-native-postgresql",
@@ -1800,17 +1887,22 @@
     "points": 117,
     "comment_count": 9,
     "hn_item": {
-      "by": "lsllc",
-      "descendants": 4,
-      "id": 30142494,
+      "by": "doener",
+      "descendants": 25,
+      "id": 30125730,
       "kids": [
-        30143090
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
       ],
-      "score": 26,
-      "time": 1643586052,
-      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
+      "score": 53,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
       "type": "story",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
     },
     "og_item": {
       "title": "Devious SQL: Message Queuing Using Native PostgreSQL",
@@ -1851,17 +1943,22 @@
     "points": 50,
     "comment_count": 7,
     "hn_item": {
-      "by": "lsllc",
-      "descendants": 4,
-      "id": 30142494,
+      "by": "doener",
+      "descendants": 25,
+      "id": 30125730,
       "kids": [
-        30143090
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
       ],
-      "score": 26,
-      "time": 1643586052,
-      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
+      "score": 53,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
       "type": "story",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
     },
     "og_item": {
       "title": "Using tree data structures to implement terminal split panes - more fun than it sounds",
@@ -1890,57 +1987,6 @@
     }
   },
   {
-    "id": 30115520,
-    "title": "Pearls Before Breakfast (2007)",
-    "url": "https://www.washingtonpost.com/lifestyle/magazine/pearls-before-breakfast-can-one-of-the-nations-great-musicians-cut-through-the-fog-of-a-dc-rush-hour-lets-find-out/2014/09/23/8a6d46da-4331-11e4-b47c-f5889e061e5f_story.html",
-    "time": 1643382593,
-    "image": "https://www.washingtonpost.com/pbox.php?url=https://www.washingtonpost.com/pb/resources/img/twp-social-share.png\u0026w=1484\u0026op=resize\u0026opt=1\u0026filter=antialias\u0026t=20170517",
-    "icon": "https://www.washingtonpost.com/favicon.ico",
-    "publisher": "Washington Post",
-    "description": "Joshua Bell is one of the world’s greatest violinists. His instrument of choice is a multimillion-dollar Stradivarius. If he played it for spare change, incognito, outside a bustling Metro stop in Washington, would anyone notice?",
-    "by": "Tomte",
-    "points": 11,
-    "comment_count": 7,
-    "hn_item": {
-      "by": "lsllc",
-      "descendants": 4,
-      "id": 30142494,
-      "kids": [
-        30143090
-      ],
-      "score": 26,
-      "time": 1643586052,
-      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
-      "type": "story",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
-    },
-    "og_item": {
-      "title": "Pearls Before Breakfast: Can one of the nation’s great musicians cut through the fog of a D.C. rush hour? Let’s find out.",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://www.washingtonpost.com/pbox.php?url=https://www.washingtonpost.com/pb/resources/img/twp-social-share.png\u0026w=1484\u0026op=resize\u0026opt=1\u0026filter=antialias\u0026t=20170517",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://www.washingtonpost.com/lifestyle/magazine/pearls-before-breakfast-can-one-of-the-nations-great-musicians-cut-through-the-fog-of-a-dc-rush-hour-lets-find-out/2014/09/23/8a6d46da-4331-11e4-b47c-f5889e061e5f_story.html",
-      "audio": [],
-      "description": "Joshua Bell is one of the world’s greatest violinists. His instrument of choice is a multimillion-dollar Stradivarius. If he played it for spare change, incognito, outside a bustling Metro stop in Washington, would anyone notice?",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Washington Post",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30138420,
     "title": "Autonomous battery-powered rail cars",
     "url": "https://arstechnica.com/cars/2022/01/moving-more-with-less-freight-startup-bets-on-autonomous-electric-rail-cars/",
@@ -1953,17 +1999,22 @@
     "points": 77,
     "comment_count": 17,
     "hn_item": {
-      "by": "lsllc",
-      "descendants": 4,
-      "id": 30142494,
+      "by": "doener",
+      "descendants": 25,
+      "id": 30125730,
       "kids": [
-        30143090
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
       ],
-      "score": 26,
-      "time": 1643586052,
-      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
+      "score": 53,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
       "type": "story",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
     },
     "og_item": {
       "title": "Autonomous battery-powered rail cars could steal shipments from truckers",
@@ -1992,6 +2043,165 @@
     }
   },
   {
+    "id": 30115520,
+    "title": "Pearls Before Breakfast (2007)",
+    "url": "https://www.washingtonpost.com/lifestyle/magazine/pearls-before-breakfast-can-one-of-the-nations-great-musicians-cut-through-the-fog-of-a-dc-rush-hour-lets-find-out/2014/09/23/8a6d46da-4331-11e4-b47c-f5889e061e5f_story.html",
+    "time": 1643382593,
+    "image": "https://www.washingtonpost.com/pbox.php?url=https://www.washingtonpost.com/pb/resources/img/twp-social-share.png\u0026w=1484\u0026op=resize\u0026opt=1\u0026filter=antialias\u0026t=20170517",
+    "icon": "https://www.washingtonpost.com/favicon.ico",
+    "publisher": "Washington Post",
+    "description": "Joshua Bell is one of the world’s greatest violinists. His instrument of choice is a multimillion-dollar Stradivarius. If he played it for spare change, incognito, outside a bustling Metro stop in Washington, would anyone notice?",
+    "by": "Tomte",
+    "points": 11,
+    "comment_count": 7,
+    "hn_item": {
+      "by": "doener",
+      "descendants": 25,
+      "id": 30125730,
+      "kids": [
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
+      ],
+      "score": 53,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
+      "type": "story",
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+    },
+    "og_item": {
+      "title": "Pearls Before Breakfast: Can one of the nation’s great musicians cut through the fog of a D.C. rush hour? Let’s find out.",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://www.washingtonpost.com/pbox.php?url=https://www.washingtonpost.com/pb/resources/img/twp-social-share.png\u0026w=1484\u0026op=resize\u0026opt=1\u0026filter=antialias\u0026t=20170517",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://www.washingtonpost.com/lifestyle/magazine/pearls-before-breakfast-can-one-of-the-nations-great-musicians-cut-through-the-fog-of-a-dc-rush-hour-lets-find-out/2014/09/23/8a6d46da-4331-11e4-b47c-f5889e061e5f_story.html",
+      "audio": [],
+      "description": "Joshua Bell is one of the world’s greatest violinists. His instrument of choice is a multimillion-dollar Stradivarius. If he played it for spare change, incognito, outside a bustling Metro stop in Washington, would anyone notice?",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Washington Post",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30144083,
+    "title": "Rents are up 40 percent in some cities, forcing millions to move",
+    "url": "https://www.washingtonpost.com/business/2022/01/30/rent-inflation-housing/",
+    "time": 1643599234,
+    "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QJQ7K2D774I6ZDGIW2LFMS5HSY.jpg\u0026w=1440",
+    "icon": "https://www.washingtonpost.com/wp-stat/assets/favicons/touch-icon-iphone.png",
+    "publisher": "Washington Post",
+    "description": "Rising rents are also expected to be a driving force in inflation this year and have been an ongoing policy challenge for the Biden administration.",
+    "by": "MilnerRoute",
+    "points": 76,
+    "comment_count": 12,
+    "hn_item": {
+      "by": "doener",
+      "descendants": 25,
+      "id": 30125730,
+      "kids": [
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
+      ],
+      "score": 53,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
+      "type": "story",
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+    },
+    "og_item": {
+      "title": "Rents are up 40 percent in some cities, forcing millions to find another place to live",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QJQ7K2D774I6ZDGIW2LFMS5HSY.jpg\u0026w=1440",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://www.washingtonpost.com/business/2022/01/30/rent-inflation-housing/",
+      "audio": [],
+      "description": "Rising rents are also expected to be a driving force in inflation this year and have been an ongoing policy challenge for the Biden administration.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Washington Post",
+      "video": [],
+      "favicon": {
+        "url": "https://www.washingtonpost.com/wp-stat/assets/favicons/touch-icon-iphone.png"
+      }
+    }
+  },
+  {
+    "id": 30120857,
+    "title": "Writing an efficient Vulkan renderer (2020)",
+    "url": "https://zeux.io/2020/02/27/writing-an-efficient-vulkan-renderer/",
+    "time": 1643406697,
+    "image": "",
+    "icon": "https://zeux.io/2020/02/27/writing-an-efficient-vulkan-renderer/data:;base64,iVBORw0KGgo=",
+    "publisher": "zeux.io",
+    "description": "",
+    "by": "nabla9",
+    "points": 76,
+    "comment_count": 5,
+    "hn_item": {
+      "by": "doener",
+      "descendants": 25,
+      "id": 30125730,
+      "kids": [
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
+      ],
+      "score": 53,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
+      "type": "story",
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+    },
+    "og_item": {
+      "title": "\n    zeux.io - Writing an efficient Vulkan renderer\n  ",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "data:;base64,iVBORw0KGgo="
+      }
+    }
+  },
+  {
     "id": 30144892,
     "title": "Kia’s new EV6 electric crossover goes straight to the head of the pack",
     "url": "https://arstechnica.com/cars/2022/01/kias-new-ev6-electric-crossover-goes-straight-to-the-head-of-the-pack/",
@@ -2002,19 +2212,24 @@
     "description": "It's highly efficient, fun to drive, and loaded with equipment, too.",
     "by": "feross",
     "points": 6,
-    "comment_count": 1,
+    "comment_count": 2,
     "hn_item": {
-      "by": "lsllc",
-      "descendants": 4,
-      "id": 30142494,
+      "by": "doener",
+      "descendants": 25,
+      "id": 30125730,
       "kids": [
-        30143090
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
       ],
-      "score": 26,
-      "time": 1643586052,
-      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
+      "score": 53,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
       "type": "story",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
     },
     "og_item": {
       "title": "Kia’s new EV6 electric crossover goes straight to the head of the pack",
@@ -2043,48 +2258,6 @@
     }
   },
   {
-    "id": 30120857,
-    "title": "Writing an efficient Vulkan renderer (2020)",
-    "url": "https://zeux.io/2020/02/27/writing-an-efficient-vulkan-renderer/",
-    "time": 1643406697,
-    "image": "",
-    "icon": "https://zeux.io/2020/02/27/writing-an-efficient-vulkan-renderer/data:;base64,iVBORw0KGgo=",
-    "publisher": "zeux.io",
-    "description": "",
-    "by": "nabla9",
-    "points": 76,
-    "comment_count": 5,
-    "hn_item": {
-      "by": "lsllc",
-      "descendants": 4,
-      "id": 30142494,
-      "kids": [
-        30143090
-      ],
-      "score": 26,
-      "time": 1643586052,
-      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
-      "type": "story",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
-    },
-    "og_item": {
-      "title": "\n    zeux.io - Writing an efficient Vulkan renderer\n  ",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "data:;base64,iVBORw0KGgo="
-      }
-    }
-  },
-  {
     "id": 30131847,
     "title": "Mix and Match Mental Models",
     "url": "https://lethain.com/mental-models-mix-match/",
@@ -2097,17 +2270,22 @@
     "points": 33,
     "comment_count": 0,
     "hn_item": {
-      "by": "lsllc",
-      "descendants": 4,
-      "id": 30142494,
+      "by": "doener",
+      "descendants": 25,
+      "id": 30125730,
       "kids": [
-        30143090
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
       ],
-      "score": 26,
-      "time": 1643586052,
-      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
+      "score": 53,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
       "type": "story",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
     },
     "og_item": {
       "title": "Mix and match mental models.",
@@ -2136,48 +2314,6 @@
     }
   },
   {
-    "id": 30142106,
-    "title": "Yoga and meditation do not quiet the ego but instead boost self-enhancement (2018)",
-    "url": "https://journals.sagepub.com/doi/abs/10.1177/0956797618764621",
-    "time": 1643583242,
-    "image": "",
-    "icon": "https://journals.sagepub.com/favicon.ico",
-    "publisher": "journals.sagepub.com",
-    "description": "",
-    "by": "FrojoS",
-    "points": 20,
-    "comment_count": 8,
-    "hn_item": {
-      "by": "lsllc",
-      "descendants": 4,
-      "id": 30142494,
-      "kids": [
-        30143090
-      ],
-      "score": 26,
-      "time": 1643586052,
-      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
-      "type": "story",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
-    },
-    "og_item": {
-      "title": "Just a moment...",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30138277,
     "title": "Set up a website with Nim (2019)",
     "url": "https://ttj.dk/blog/2019/01/20/setup-a-website-with-nim",
@@ -2190,17 +2326,22 @@
     "points": 77,
     "comment_count": 7,
     "hn_item": {
-      "by": "lsllc",
-      "descendants": 4,
-      "id": 30142494,
+      "by": "doener",
+      "descendants": 25,
+      "id": 30125730,
       "kids": [
-        30143090
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
       ],
-      "score": 26,
-      "time": 1643586052,
-      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
+      "score": 53,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
       "type": "story",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
     },
     "og_item": {
       "title": " Nim tutorial for setting up a website. ",
@@ -2220,57 +2361,6 @@
     }
   },
   {
-    "id": 30110679,
-    "title": "Bringing Ancient Pottery to Life",
-    "url": "https://news.harvard.edu/gazette/story/2021/09/harvard-ceramics-program-recreates-art-museums-pieces/",
-    "time": 1643343649,
-    "image": "https://news.harvard.edu/wp-content/uploads/2021/09/071621_Ceramics_228-1200x630.jpg",
-    "icon": "https://news.harvard.edu/wp-content/themes/gazette-3-0/favicons/favicon-192x192.png",
-    "publisher": "Harvard Gazette",
-    "description": "Zoom pottery class enlists Harvard Art Museums experts to help re-create treasures from the collection.",
-    "by": "prismatic",
-    "points": 14,
-    "comment_count": 1,
-    "hn_item": {
-      "by": "lsllc",
-      "descendants": 4,
-      "id": 30142494,
-      "kids": [
-        30143090
-      ],
-      "score": 26,
-      "time": 1643586052,
-      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
-      "type": "story",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
-    },
-    "og_item": {
-      "title": "Harvard ceramics program recreates Art Museums’ pieces",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://news.harvard.edu/wp-content/uploads/2021/09/071621_Ceramics_228-1200x630.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 1200,
-          "height": 630,
-          "alt": ""
-        }
-      ],
-      "url": "https://news.harvard.edu/gazette/story/2021/09/harvard-ceramics-program-recreates-art-museums-pieces/",
-      "audio": [],
-      "description": "Zoom pottery class enlists Harvard Art Museums experts to help re-create treasures from the collection.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Harvard Gazette",
-      "video": [],
-      "favicon": {
-        "url": "https://news.harvard.edu/wp-content/themes/gazette-3-0/favicons/favicon-192x192.png"
-      }
-    }
-  },
-  {
     "id": 30111033,
     "title": "Toxic black mold is growing in my brain",
     "url": "https://www.buzzfeednews.com/article/tysonbottenus/black-mold-growing-toxic-brain-vacation",
@@ -2283,17 +2373,22 @@
     "points": 188,
     "comment_count": 10,
     "hn_item": {
-      "by": "lsllc",
-      "descendants": 4,
-      "id": 30142494,
+      "by": "doener",
+      "descendants": 25,
+      "id": 30125730,
       "kids": [
-        30143090
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
       ],
-      "score": 26,
-      "time": 1643586052,
-      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
+      "score": 53,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
       "type": "story",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
     },
     "og_item": {
       "title": "Toxic Black Mold Is Growing On My Brain",
@@ -2322,6 +2417,109 @@
     }
   },
   {
+    "id": 30142106,
+    "title": "Yoga and meditation do not quiet the ego but instead boost self-enhancement (2018)",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/0956797618764621",
+    "time": 1643583242,
+    "image": "",
+    "icon": "https://journals.sagepub.com/favicon.ico",
+    "publisher": "journals.sagepub.com",
+    "description": "",
+    "by": "FrojoS",
+    "points": 20,
+    "comment_count": 8,
+    "hn_item": {
+      "by": "doener",
+      "descendants": 25,
+      "id": 30125730,
+      "kids": [
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
+      ],
+      "score": 53,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
+      "type": "story",
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+    },
+    "og_item": {
+      "title": "Just a moment...",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30110679,
+    "title": "Bringing Ancient Pottery to Life",
+    "url": "https://news.harvard.edu/gazette/story/2021/09/harvard-ceramics-program-recreates-art-museums-pieces/",
+    "time": 1643343649,
+    "image": "https://news.harvard.edu/wp-content/uploads/2021/09/071621_Ceramics_228-1200x630.jpg",
+    "icon": "https://news.harvard.edu/wp-content/themes/gazette-3-0/favicons/favicon-192x192.png",
+    "publisher": "Harvard Gazette",
+    "description": "Zoom pottery class enlists Harvard Art Museums experts to help re-create treasures from the collection.",
+    "by": "prismatic",
+    "points": 14,
+    "comment_count": 1,
+    "hn_item": {
+      "by": "doener",
+      "descendants": 25,
+      "id": 30125730,
+      "kids": [
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
+      ],
+      "score": 53,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
+      "type": "story",
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+    },
+    "og_item": {
+      "title": "Harvard ceramics program recreates Art Museums’ pieces",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://news.harvard.edu/wp-content/uploads/2021/09/071621_Ceramics_228-1200x630.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 1200,
+          "height": 630,
+          "alt": ""
+        }
+      ],
+      "url": "https://news.harvard.edu/gazette/story/2021/09/harvard-ceramics-program-recreates-art-museums-pieces/",
+      "audio": [],
+      "description": "Zoom pottery class enlists Harvard Art Museums experts to help re-create treasures from the collection.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Harvard Gazette",
+      "video": [],
+      "favicon": {
+        "url": "https://news.harvard.edu/wp-content/themes/gazette-3-0/favicons/favicon-192x192.png"
+      }
+    }
+  },
+  {
     "id": 30143377,
     "title": "A Simple Transformer Implementation(PyTorch) Without Difficult Syntax",
     "url": "https://github.com/IpsumDominum/Pytorch-Simple-Transformer",
@@ -2334,17 +2532,22 @@
     "points": 7,
     "comment_count": 1,
     "hn_item": {
-      "by": "lsllc",
-      "descendants": 4,
-      "id": 30142494,
+      "by": "doener",
+      "descendants": 25,
+      "id": 30125730,
       "kids": [
-        30143090
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
       ],
-      "score": 26,
-      "time": 1643586052,
-      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
+      "score": 53,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
       "type": "story",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
     },
     "og_item": {
       "title": "GitHub - IpsumDominum/Pytorch-Simple-Transformer: A simple transformer implementation without difficult syntax and extra bells and whistles.",
@@ -2385,17 +2588,22 @@
     "points": 227,
     "comment_count": 25,
     "hn_item": {
-      "by": "lsllc",
-      "descendants": 4,
-      "id": 30142494,
+      "by": "doener",
+      "descendants": 25,
+      "id": 30125730,
       "kids": [
-        30143090
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
       ],
-      "score": 26,
-      "time": 1643586052,
-      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
+      "score": 53,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
       "type": "story",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
     },
     "og_item": {
       "title": "Sega quits Japanese arcade business after 50 years",
@@ -2433,20 +2641,25 @@
     "publisher": "Hacker News",
     "description": "",
     "by": "ndmrs",
-    "points": 136,
+    "points": 139,
     "comment_count": 12,
     "hn_item": {
-      "by": "lsllc",
-      "descendants": 4,
-      "id": 30142494,
+      "by": "doener",
+      "descendants": 25,
+      "id": 30125730,
       "kids": [
-        30143090
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
       ],
-      "score": 26,
-      "time": 1643586052,
-      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
+      "score": 53,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
       "type": "story",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
     },
     "og_item": {
       "title": "Ask HN: Has anyone leveraged GDPR to overturn automated bans? | Hacker News",
@@ -2478,17 +2691,22 @@
     "points": 259,
     "comment_count": 32,
     "hn_item": {
-      "by": "lsllc",
-      "descendants": 4,
-      "id": 30142494,
+      "by": "doener",
+      "descendants": 25,
+      "id": 30125730,
       "kids": [
-        30143090
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
       ],
-      "score": 26,
-      "time": 1643586052,
-      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
+      "score": 53,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
       "type": "story",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
     },
     "og_item": {
       "title": "John Locke’s recipe for Pancakes",
@@ -2529,17 +2747,22 @@
     "points": 203,
     "comment_count": 24,
     "hn_item": {
-      "by": "lsllc",
-      "descendants": 4,
-      "id": 30142494,
+      "by": "doener",
+      "descendants": 25,
+      "id": 30125730,
       "kids": [
-        30143090
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
       ],
-      "score": 26,
-      "time": 1643586052,
-      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
+      "score": 53,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
       "type": "story",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
     },
     "og_item": {
       "title": "In Defence of the Boring Web",
@@ -2571,17 +2794,22 @@
     "points": 143,
     "comment_count": 7,
     "hn_item": {
-      "by": "lsllc",
-      "descendants": 4,
-      "id": 30142494,
+      "by": "doener",
+      "descendants": 25,
+      "id": 30125730,
       "kids": [
-        30143090
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
       ],
-      "score": 26,
-      "time": 1643586052,
-      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
+      "score": 53,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
       "type": "story",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
     },
     "og_item": {
       "title": "[1398] A Padlock I’d Use: Abus Granit 37RK/80 (Pick \u0026 Gut)",
@@ -2631,17 +2859,22 @@
     "points": 35,
     "comment_count": 5,
     "hn_item": {
-      "by": "lsllc",
-      "descendants": 4,
-      "id": 30142494,
+      "by": "doener",
+      "descendants": 25,
+      "id": 30125730,
       "kids": [
-        30143090
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
       ],
-      "score": 26,
-      "time": 1643586052,
-      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
+      "score": 53,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
       "type": "story",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
     },
     "og_item": {
       "title": "Show the case against - shubhro.com",
@@ -2673,17 +2906,22 @@
     "points": 9,
     "comment_count": 2,
     "hn_item": {
-      "by": "lsllc",
-      "descendants": 4,
-      "id": 30142494,
+      "by": "doener",
+      "descendants": 25,
+      "id": 30125730,
       "kids": [
-        30143090
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
       ],
-      "score": 26,
-      "time": 1643586052,
-      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
+      "score": 53,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
       "type": "story",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
     },
     "og_item": {
       "title": "articles/static-let.md at main · phoe/articles",
@@ -2712,48 +2950,6 @@
     }
   },
   {
-    "id": 30111373,
-    "title": "What is FORGE?",
-    "url": "https://www.energy.gov/eere/geothermal/what-forge",
-    "time": 1643351840,
-    "image": "",
-    "icon": "https://www.energy.gov/themes/particle/apps/drupal/favicon.ico",
-    "publisher": "Energy.gov",
-    "description": "Our flagship effort over the next five years is the Frontier Observatory for Research in Geothermal Energy (FORGE) initiative — the first...",
-    "by": "manicennui",
-    "points": 64,
-    "comment_count": 5,
-    "hn_item": {
-      "by": "lsllc",
-      "descendants": 4,
-      "id": 30142494,
-      "kids": [
-        30143090
-      ],
-      "score": 26,
-      "time": 1643586052,
-      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
-      "type": "story",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
-    },
-    "og_item": {
-      "title": "What is FORGE?",
-      "type": "article",
-      "image": [],
-      "url": "https://www.energy.gov/eere/geothermal/what-forge",
-      "audio": [],
-      "description": "Our flagship effort over the next five years is the Frontier Observatory for Research in Geothermal Energy (FORGE) initiative — the first...",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Energy.gov",
-      "video": [],
-      "favicon": {
-        "url": "/themes/particle/apps/drupal/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30136350,
     "title": "The Game of War: Chess with Networks (2008)",
     "url": "https://www.cabinetmagazine.org/issues/29/galloway.php",
@@ -2766,17 +2962,22 @@
     "points": 25,
     "comment_count": 2,
     "hn_item": {
-      "by": "lsllc",
-      "descendants": 4,
-      "id": 30142494,
+      "by": "doener",
+      "descendants": 25,
+      "id": 30125730,
       "kids": [
-        30143090
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
       ],
-      "score": 26,
-      "time": 1643586052,
-      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
+      "score": 53,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
       "type": "story",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
     },
     "og_item": {
       "title": "The Game of War: An Overview | Alexander R. Galloway",
@@ -2805,99 +3006,6 @@
     }
   },
   {
-    "id": 30142896,
-    "title": "Decrypt an encrypted message to any plaintext",
-    "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts",
-    "time": 1643589180,
-    "image": "",
-    "icon": "https://www.go350.com/favicon-16x16.png",
-    "publisher": "go350.com",
-    "description": "a one-time pad implementation",
-    "by": "_wldu",
-    "points": 12,
-    "comment_count": 1,
-    "hn_item": {
-      "by": "lsllc",
-      "descendants": 4,
-      "id": 30142494,
-      "kids": [
-        30143090
-      ],
-      "score": 26,
-      "time": 1643586052,
-      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
-      "type": "story",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
-    },
-    "og_item": {
-      "title": "Padder",
-      "type": "article",
-      "image": [],
-      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/",
-      "audio": [],
-      "description": "a one-time pad implementation",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon-16x16.png"
-      }
-    }
-  },
-  {
-    "id": 30144041,
-    "title": "Autonomous Detection and Deterrence of Pigeons on Buildings by Drones",
-    "url": "https://ieeexplore.ieee.org/document/9656717",
-    "time": 1643598627,
-    "image": "https://ieeexplore.ieee.org/ielx7/6287639/9668973/9656717/graphical_abstract/access-gacovergraphic-3137031.jpg",
-    "icon": "https://ieeexplore.ieee.org/favicon.ico",
-    "publisher": "ieeexplore.ieee.org",
-    "description": "Pigeons may transmit diseases to humans and cause damages to buildings, monuments, and other infrastructure. Therefore, several control strategies have been developed, but they have been found to be either ineffective or harmful to animals and often depend on human operation. This study proposes …",
-    "by": "openknot",
-    "points": 3,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "lsllc",
-      "descendants": 4,
-      "id": 30142494,
-      "kids": [
-        30143090
-      ],
-      "score": 26,
-      "time": 1643586052,
-      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
-      "type": "story",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
-    },
-    "og_item": {
-      "title": "Autonomous Detection and Deterrence of Pigeons on Buildings by Drones",
-      "type": "",
-      "image": [
-        {
-          "url": "https://ieeexplore.ieee.org/ielx7/6287639/9668973/9656717/graphical_abstract/access-gacovergraphic-3137031.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "",
-      "audio": [],
-      "description": "Pigeons may transmit diseases to humans and cause damages to buildings, monuments, and other infrastructure. Therefore, several control strategies have been developed, but they have been found to be either ineffective or harmful to animals and often depend on human operation. This study proposes a system capable of autonomously detecting and deterring pigeons on building roofs using a drone. The presence and position of pigeons were detected in real time by a neural network using images taken by a video camera located on the roof. Moreover, a drone was utilized to deter the animals. Field experiments were conducted in a real-world urban setting to assess the proposed system by comparing the number of animals and their stay durations for over five days against the 21-day-trial experiment without the drone. During the five days of experiments, the drone was automatically deployed 55 times and was significantly effective in reducing the number of birds and their stay durations without causing any harm to them. In conclusion, this study has proven the effectiveness of this system in deterring birds, and this approach can be seen as a fully autonomous alternative to the already existing methods.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30139643,
     "title": "Very Remote Lisp Debugging Story",
     "url": "https://susam.net/maze/very-remote-debugging.html",
@@ -2910,17 +3018,22 @@
     "points": 38,
     "comment_count": 4,
     "hn_item": {
-      "by": "lsllc",
-      "descendants": 4,
-      "id": 30142494,
+      "by": "doener",
+      "descendants": 25,
+      "id": 30125730,
       "kids": [
-        30143090
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
       ],
-      "score": 26,
-      "time": 1643586052,
-      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
+      "score": 53,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
       "type": "story",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
     },
     "og_item": {
       "title": "Very Remote Lisp Debugging Story - Susam's Maze",
@@ -2952,20 +3065,119 @@
     "points": 129,
     "comment_count": 12,
     "hn_item": {
-      "by": "lsllc",
-      "descendants": 4,
-      "id": 30142494,
+      "by": "doener",
+      "descendants": 25,
+      "id": 30125730,
       "kids": [
-        30143090
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
       ],
-      "score": 26,
-      "time": 1643586052,
-      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
+      "score": 53,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
       "type": "story",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
     },
     "og_item": {
       "title": "Jeremy Mikkola - Tech debt gets worse before it gets better",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30142896,
+    "title": "Decrypt an encrypted message to any plaintext",
+    "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts",
+    "time": 1643589180,
+    "image": "",
+    "icon": "https://www.go350.com/favicon-16x16.png",
+    "publisher": "go350.com",
+    "description": "a one-time pad implementation",
+    "by": "_wldu",
+    "points": 12,
+    "comment_count": 1,
+    "hn_item": {
+      "by": "doener",
+      "descendants": 25,
+      "id": 30125730,
+      "kids": [
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
+      ],
+      "score": 53,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
+      "type": "story",
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+    },
+    "og_item": {
+      "title": "Padder",
+      "type": "article",
+      "image": [],
+      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/",
+      "audio": [],
+      "description": "a one-time pad implementation",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon-16x16.png"
+      }
+    }
+  },
+  {
+    "id": 30137864,
+    "title": "Midnight Commander Tips and Tricks",
+    "url": "http://www.softpanorama.org/OFM/MC/mc_tips.shtml",
+    "time": 1643555741,
+    "image": "",
+    "icon": "",
+    "publisher": "softpanorama.org",
+    "description": "",
+    "by": "ingve",
+    "points": 156,
+    "comment_count": 18,
+    "hn_item": {
+      "by": "doener",
+      "descendants": 25,
+      "id": 30125730,
+      "kids": [
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
+      ],
+      "score": 53,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
+      "type": "story",
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+    },
+    "og_item": {
+      "title": "Midnight Commander Tips and Tricks",
       "type": "",
       "image": [],
       "url": "",
@@ -2994,17 +3206,22 @@
     "points": 94,
     "comment_count": 10,
     "hn_item": {
-      "by": "lsllc",
-      "descendants": 4,
-      "id": 30142494,
+      "by": "doener",
+      "descendants": 25,
+      "id": 30125730,
       "kids": [
-        30143090
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
       ],
-      "score": 26,
-      "time": 1643586052,
-      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
+      "score": 53,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
       "type": "story",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
     },
     "og_item": {
       "title": "Unredacted Word",
@@ -3033,6 +3250,109 @@
     }
   },
   {
+    "id": 30144041,
+    "title": "Autonomous Detection and Deterrence of Pigeons on Buildings by Drones",
+    "url": "https://ieeexplore.ieee.org/document/9656717",
+    "time": 1643598627,
+    "image": "https://ieeexplore.ieee.org/ielx7/6287639/9668973/9656717/graphical_abstract/access-gacovergraphic-3137031.jpg",
+    "icon": "https://ieeexplore.ieee.org/favicon.ico",
+    "publisher": "ieeexplore.ieee.org",
+    "description": "Pigeons may transmit diseases to humans and cause damages to buildings, monuments, and other infrastructure. Therefore, several control strategies have been developed, but they have been found to be either ineffective or harmful to animals and often depend on human operation. This study proposes …",
+    "by": "openknot",
+    "points": 3,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "doener",
+      "descendants": 25,
+      "id": 30125730,
+      "kids": [
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
+      ],
+      "score": 53,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
+      "type": "story",
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+    },
+    "og_item": {
+      "title": "Autonomous Detection and Deterrence of Pigeons on Buildings by Drones",
+      "type": "",
+      "image": [
+        {
+          "url": "https://ieeexplore.ieee.org/ielx7/6287639/9668973/9656717/graphical_abstract/access-gacovergraphic-3137031.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "",
+      "audio": [],
+      "description": "Pigeons may transmit diseases to humans and cause damages to buildings, monuments, and other infrastructure. Therefore, several control strategies have been developed, but they have been found to be either ineffective or harmful to animals and often depend on human operation. This study proposes a system capable of autonomously detecting and deterring pigeons on building roofs using a drone. The presence and position of pigeons were detected in real time by a neural network using images taken by a video camera located on the roof. Moreover, a drone was utilized to deter the animals. Field experiments were conducted in a real-world urban setting to assess the proposed system by comparing the number of animals and their stay durations for over five days against the 21-day-trial experiment without the drone. During the five days of experiments, the drone was automatically deployed 55 times and was significantly effective in reducing the number of birds and their stay durations without causing any harm to them. In conclusion, this study has proven the effectiveness of this system in deterring birds, and this approach can be seen as a fully autonomous alternative to the already existing methods.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30143170,
+    "title": "How long has _ existed?",
+    "url": "https://howoldisit.glitch.me",
+    "time": 1643591138,
+    "image": "",
+    "icon": "https://howoldisit.glitch.me/code.ico",
+    "publisher": "howoldisit.glitch.me",
+    "description": "",
+    "by": "zdw",
+    "points": 6,
+    "comment_count": 1,
+    "hn_item": {
+      "by": "doener",
+      "descendants": 25,
+      "id": 30125730,
+      "kids": [
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
+      ],
+      "score": 53,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
+      "type": "story",
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+    },
+    "og_item": {
+      "title": "You want HOW MANY years experience?!",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/code.ico"
+      }
+    }
+  },
+  {
     "id": 30141784,
     "title": "I crowdfunded a novel using cryptocurrency",
     "url": "https://ellegriffin.substack.com/p/crypto-funded-nft-novel",
@@ -3045,17 +3365,22 @@
     "points": 14,
     "comment_count": 4,
     "hn_item": {
-      "by": "lsllc",
-      "descendants": 4,
-      "id": 30142494,
+      "by": "doener",
+      "descendants": 25,
+      "id": 30125730,
       "kids": [
-        30143090
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
       ],
-      "score": 26,
-      "time": 1643586052,
-      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
+      "score": 53,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
       "type": "story",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
     },
     "og_item": {
       "title": "I crowdfunded a novel using cryptocurrency ",
@@ -3096,17 +3421,22 @@
     "points": 35,
     "comment_count": 5,
     "hn_item": {
-      "by": "lsllc",
-      "descendants": 4,
-      "id": 30142494,
+      "by": "doener",
+      "descendants": 25,
+      "id": 30125730,
       "kids": [
-        30143090
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
       ],
-      "score": 26,
-      "time": 1643586052,
-      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
+      "score": 53,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
       "type": "story",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
     },
     "og_item": null
   },
@@ -3123,62 +3453,25 @@
     "points": 99,
     "comment_count": 5,
     "hn_item": {
-      "by": "lsllc",
-      "descendants": 4,
-      "id": 30142494,
+      "by": "doener",
+      "descendants": 25,
+      "id": 30125730,
       "kids": [
-        30143090
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
       ],
-      "score": 26,
-      "time": 1643586052,
-      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
+      "score": 53,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
       "type": "story",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
     },
     "og_item": {
       "title": "All News - Steel Bank Common Lisp",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30141215,
-    "title": "Show HN: BeanHub – A GitHub for Beancount",
-    "url": "https://beanhub.io/",
-    "time": 1643577545,
-    "image": "",
-    "icon": "https://beanhub.io/favicon.ico",
-    "publisher": "beanhub.io",
-    "description": "",
-    "by": "fangpenlin",
-    "points": 18,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "lsllc",
-      "descendants": 4,
-      "id": 30142494,
-      "kids": [
-        30143090
-      ],
-      "score": 26,
-      "time": 1643586052,
-      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
-      "type": "story",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
-    },
-    "og_item": {
-      "title": "\n    BeanHub\n    ",
       "type": "",
       "image": [],
       "url": "",
@@ -3207,17 +3500,22 @@
     "points": 24,
     "comment_count": 2,
     "hn_item": {
-      "by": "lsllc",
-      "descendants": 4,
-      "id": 30142494,
+      "by": "doener",
+      "descendants": 25,
+      "id": 30125730,
       "kids": [
-        30143090
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
       ],
-      "score": 26,
-      "time": 1643586052,
-      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
+      "score": 53,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
       "type": "story",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
     },
     "og_item": {
       "title": "DDS — dds 0.1.0-alpha.3 documentation",
@@ -3237,53 +3535,114 @@
     }
   },
   {
-    "id": 30142494,
-    "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
-    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/",
-    "time": 1643586052,
-    "image": "https://www.reuters.com/resizer/nJB_ZidKD76ip6VAQlGhKHf1JI8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PYPUULVDLFI5ZBML3UV35CE4TA.jpg",
-    "icon": "https://www.reuters.com/pf/resources/icons/favicon.ico?d=69",
-    "publisher": "Reuters",
-    "description": "The highly transmissible Omicron variant of the SARS-CoV-2 virus - the most common form of which is known as BA.1 - now accounts for nearly all of the coronavirus infections globally, although dramatic surges in COVID cases have already peaked in some countries.",
-    "by": "lsllc",
-    "points": 26,
-    "comment_count": 1,
+    "id": 30141215,
+    "title": "Show HN: BeanHub – A GitHub for Beancount",
+    "url": "https://beanhub.io/",
+    "time": 1643577545,
+    "image": "",
+    "icon": "https://beanhub.io/favicon.ico",
+    "publisher": "beanhub.io",
+    "description": "",
+    "by": "fangpenlin",
+    "points": 18,
+    "comment_count": 0,
     "hn_item": {
-      "by": "lsllc",
-      "descendants": 4,
-      "id": 30142494,
+      "by": "doener",
+      "descendants": 25,
+      "id": 30125730,
       "kids": [
-        30143090
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
       ],
-      "score": 26,
-      "time": 1643586052,
-      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
+      "score": 53,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
       "type": "story",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
     },
     "og_item": {
-      "title": "Explainer: Scientists on alert over rising cases caused by Omicron cousin BA.2",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://www.reuters.com/resizer/nJB_ZidKD76ip6VAQlGhKHf1JI8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PYPUULVDLFI5ZBML3UV35CE4TA.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/",
+      "title": "\n    BeanHub\n    ",
+      "type": "",
+      "image": [],
+      "url": "",
       "audio": [],
-      "description": "The highly transmissible Omicron variant of the SARS-CoV-2 virus - the most common form of which is known as BA.1 - now accounts for nearly all of the coronavirus infections globally, although dramatic surges in COVID cases have already peaked in some countries.",
+      "description": "",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "Reuters",
+      "site_name": "",
       "video": [],
       "favicon": {
-        "url": "/pf/resources/icons/favicon.ico?d=69"
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30125730,
+    "title": "How Amiga 500 RAM Probably Works",
+    "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs",
+    "time": 1643458917,
+    "image": "https://i.ytimg.com/vi/e_f2Kg-bBUs/hqdefault.jpg",
+    "icon": "https://www.youtube.com/s/desktop/ca9cd554/img/favicon_144x144.png",
+    "publisher": "YouTube",
+    "description": "Amiga 500 RAM can be a bit of a mystery, like ghosts. But once you understand it, you'll never not understand it again. In this episode of \"How Things Probab...",
+    "by": "doener",
+    "points": 53,
+    "comment_count": 6,
+    "hn_item": {
+      "by": "doener",
+      "descendants": 25,
+      "id": 30125730,
+      "kids": [
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
+      ],
+      "score": 53,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
+      "type": "story",
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+    },
+    "og_item": {
+      "title": "How Amiga 500 RAM Probably Works | How Things Probably Work",
+      "type": "video.other",
+      "image": [
+        {
+          "url": "https://i.ytimg.com/vi/e_f2Kg-bBUs/hqdefault.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 480,
+          "height": 360,
+          "alt": ""
+        }
+      ],
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs",
+      "audio": [],
+      "description": "Amiga 500 RAM can be a bit of a mystery, like ghosts. But once you understand it, you'll never not understand it again. In this episode of \"How Things Probab...",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "YouTube",
+      "video": [
+        {
+          "url": "https://www.youtube.com/embed/e_f2Kg-bBUs",
+          "secure_url": "https://www.youtube.com/embed/e_f2Kg-bBUs",
+          "type": "text/html",
+          "width": 1280,
+          "height": 720,
+          "duration": 0
+        }
+      ],
+      "favicon": {
+        "url": "https://www.youtube.com/s/desktop/ca9cd554/img/favicon_144x144.png"
       }
     }
   }
