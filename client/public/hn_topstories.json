@@ -9,24 +9,20 @@
     "publisher": "royalsociety.org",
     "description": "The Online Information Environment report discusses how to limit the harm of scientific misinformation online",
     "by": "steelstraw",
-    "points": 144,
-    "comment_count": 14,
+    "points": 170,
+    "comment_count": 15,
     "hn_item": {
-      "by": "hprotagonist",
-      "descendants": 5,
-      "id": 30138561,
+      "by": "jkuria",
+      "descendants": 1,
+      "id": 30139971,
       "kids": [
-        30140615,
-        30141489,
-        30140885,
-        30140266,
-        30140936
+        30140729
       ],
-      "score": 21,
-      "time": 1643560439,
-      "title": "24/192 Music Downloads and why they make no sense (2012)",
+      "score": 8,
+      "time": 1643569114,
+      "title": "The UN is testing technology that processes data confidentially",
       "type": "story",
-      "url": "https://web.archive.org/web/20200417180912/https://people.xiph.org/~xiphmont/demo/neil-young.html"
+      "url": "https://www.economist.com/science-and-technology/the-un-is-testing-technology-that-processes-data-confidentially/21807385"
     },
     "og_item": {
       "title": "Royal Society cautions against censorship of scientific misinformation online | Royal Society",
@@ -55,61 +51,6 @@
     }
   },
   {
-    "id": 30141192,
-    "title": "Don't forget Microsoft",
-    "url": "https://luttig.substack.com/p/dont-forget-microsoft",
-    "time": 1643577413,
-    "image": "https://cdn.substack.com/image/fetch/w_1200,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8ddf68e0-c549-49b6-8751-226f54fd4e30_1280x720.jpeg",
-    "icon": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/9c349228-1ca8-4dba-b953-12d78b35ee45/favicon-32x32.png",
-    "publisher": "luttig.substack.com",
-    "description": "Understanding the behemoth in Redmond teaches us valuable lessons in cloud infrastructure, startup strategy, and the future of software.",
-    "by": "SamvitJ",
-    "points": 82,
-    "comment_count": 23,
-    "hn_item": {
-      "by": "hprotagonist",
-      "descendants": 5,
-      "id": 30138561,
-      "kids": [
-        30140615,
-        30141489,
-        30140885,
-        30140266,
-        30140936
-      ],
-      "score": 21,
-      "time": 1643560439,
-      "title": "24/192 Music Downloads and why they make no sense (2012)",
-      "type": "story",
-      "url": "https://web.archive.org/web/20200417180912/https://people.xiph.org/~xiphmont/demo/neil-young.html"
-    },
-    "og_item": {
-      "title": "Don’t forget Microsoft",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://cdn.substack.com/image/fetch/w_1200,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8ddf68e0-c549-49b6-8751-226f54fd4e30_1280x720.jpeg",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://luttig.substack.com/p/dont-forget-microsoft",
-      "audio": [],
-      "description": "Understanding the behemoth in Redmond teaches us valuable lessons in cloud infrastructure, startup strategy, and the future of software.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/9c349228-1ca8-4dba-b953-12d78b35ee45/favicon-32x32.png"
-      }
-    }
-  },
-  {
     "id": 30137984,
     "title": "Show HN: Web page that parses and explains the label on a bike tire",
     "url": "https://fahrrad-tools.de/tire.html",
@@ -119,24 +60,20 @@
     "publisher": "fahrrad-tools.de",
     "description": "Which tire fits my bike? Tires are always flat and now buy a tire with puncture protection? Find the right tire now!",
     "by": "moasda",
-    "points": 467,
+    "points": 471,
     "comment_count": 36,
     "hn_item": {
-      "by": "hprotagonist",
-      "descendants": 5,
-      "id": 30138561,
+      "by": "jkuria",
+      "descendants": 1,
+      "id": 30139971,
       "kids": [
-        30140615,
-        30141489,
-        30140885,
-        30140266,
-        30140936
+        30140729
       ],
-      "score": 21,
-      "time": 1643560439,
-      "title": "24/192 Music Downloads and why they make no sense (2012)",
+      "score": 8,
+      "time": 1643569114,
+      "title": "The UN is testing technology that processes data confidentially",
       "type": "story",
-      "url": "https://web.archive.org/web/20200417180912/https://people.xiph.org/~xiphmont/demo/neil-young.html"
+      "url": "https://www.economist.com/science-and-technology/the-un-is-testing-technology-that-processes-data-confidentially/21807385"
     },
     "og_item": {
       "title": "Bike Tire | Fahrrad-Tools.de",
@@ -165,24 +102,20 @@
     "publisher": "American Affairs Journal",
     "description": "Operation Warp Speed1 (OWS) was launched on May 15, 2020. A partnership between the Departments of Health and Human Services (HHS) and Defense (DoD), other agencies, and the private sector, its goal was to “accelerate the testing, supply, development, and distribution of safe and effective vacc…",
     "by": "gok",
-    "points": 31,
+    "points": 33,
     "comment_count": 2,
     "hn_item": {
-      "by": "hprotagonist",
-      "descendants": 5,
-      "id": 30138561,
+      "by": "jkuria",
+      "descendants": 1,
+      "id": 30139971,
       "kids": [
-        30140615,
-        30141489,
-        30140885,
-        30140266,
-        30140936
+        30140729
       ],
-      "score": 21,
-      "time": 1643560439,
-      "title": "24/192 Music Downloads and why they make no sense (2012)",
+      "score": 8,
+      "time": 1643569114,
+      "title": "The UN is testing technology that processes data confidentially",
       "type": "story",
-      "url": "https://web.archive.org/web/20200417180912/https://people.xiph.org/~xiphmont/demo/neil-young.html"
+      "url": "https://www.economist.com/science-and-technology/the-un-is-testing-technology-that-processes-data-confidentially/21807385"
     },
     "og_item": {
       "title": "Inside Operation Warp Speed: A New Model for Industrial Policy - American Affairs Journal",
@@ -220,24 +153,20 @@
     "publisher": "jenson.org",
     "description": "",
     "by": "radley",
-    "points": 426,
+    "points": 439,
     "comment_count": 67,
     "hn_item": {
-      "by": "hprotagonist",
-      "descendants": 5,
-      "id": 30138561,
+      "by": "jkuria",
+      "descendants": 1,
+      "id": 30139971,
       "kids": [
-        30140615,
-        30141489,
-        30140885,
-        30140266,
-        30140936
+        30140729
       ],
-      "score": 21,
-      "time": 1643560439,
-      "title": "24/192 Music Downloads and why they make no sense (2012)",
+      "score": 8,
+      "time": 1643569114,
+      "title": "The UN is testing technology that processes data confidentially",
       "type": "story",
-      "url": "https://web.archive.org/web/20200417180912/https://people.xiph.org/~xiphmont/demo/neil-young.html"
+      "url": "https://www.economist.com/science-and-technology/the-un-is-testing-technology-that-processes-data-confidentially/21807385"
     },
     "og_item": {
       "title": "A UX designer walks into a Tesla Bar – Scott Jenson",
@@ -269,21 +198,17 @@
     "points": 171,
     "comment_count": 12,
     "hn_item": {
-      "by": "hprotagonist",
-      "descendants": 5,
-      "id": 30138561,
+      "by": "jkuria",
+      "descendants": 1,
+      "id": 30139971,
       "kids": [
-        30140615,
-        30141489,
-        30140885,
-        30140266,
-        30140936
+        30140729
       ],
-      "score": 21,
-      "time": 1643560439,
-      "title": "24/192 Music Downloads and why they make no sense (2012)",
+      "score": 8,
+      "time": 1643569114,
+      "title": "The UN is testing technology that processes data confidentially",
       "type": "story",
-      "url": "https://web.archive.org/web/20200417180912/https://people.xiph.org/~xiphmont/demo/neil-young.html"
+      "url": "https://www.economist.com/science-and-technology/the-un-is-testing-technology-that-processes-data-confidentially/21807385"
     },
     "og_item": {
       "title": "HyperCardSimulator",
@@ -313,23 +238,19 @@
     "description": "",
     "by": "panic",
     "points": 91,
-    "comment_count": 6,
+    "comment_count": 7,
     "hn_item": {
-      "by": "hprotagonist",
-      "descendants": 5,
-      "id": 30138561,
+      "by": "jkuria",
+      "descendants": 1,
+      "id": 30139971,
       "kids": [
-        30140615,
-        30141489,
-        30140885,
-        30140266,
-        30140936
+        30140729
       ],
-      "score": 21,
-      "time": 1643560439,
-      "title": "24/192 Music Downloads and why they make no sense (2012)",
+      "score": 8,
+      "time": 1643569114,
+      "title": "The UN is testing technology that processes data confidentially",
       "type": "story",
-      "url": "https://web.archive.org/web/20200417180912/https://people.xiph.org/~xiphmont/demo/neil-young.html"
+      "url": "https://www.economist.com/science-and-technology/the-un-is-testing-technology-that-processes-data-confidentially/21807385"
     },
     "og_item": {
       "title": "leah blogs: The case of the mysterious --help directory",
@@ -358,24 +279,20 @@
     "publisher": "recur-env.eba-rm3fchmn.us-eas…",
     "description": "",
     "by": "ShamelessC",
-    "points": 35,
+    "points": 37,
     "comment_count": 10,
     "hn_item": {
-      "by": "hprotagonist",
-      "descendants": 5,
-      "id": 30138561,
+      "by": "jkuria",
+      "descendants": 1,
+      "id": 30139971,
       "kids": [
-        30140615,
-        30141489,
-        30140885,
-        30140266,
-        30140936
+        30140729
       ],
-      "score": 21,
-      "time": 1643560439,
-      "title": "24/192 Music Downloads and why they make no sense (2012)",
+      "score": 8,
+      "time": 1643569114,
+      "title": "The UN is testing technology that processes data confidentially",
       "type": "story",
-      "url": "https://web.archive.org/web/20200417180912/https://people.xiph.org/~xiphmont/demo/neil-young.html"
+      "url": "https://www.economist.com/science-and-technology/the-un-is-testing-technology-that-processes-data-confidentially/21807385"
     },
     "og_item": {
       "title": "Streamlit",
@@ -395,6 +312,57 @@
     }
   },
   {
+    "id": 30141192,
+    "title": "Don't forget Microsoft",
+    "url": "https://luttig.substack.com/p/dont-forget-microsoft",
+    "time": 1643577413,
+    "image": "https://cdn.substack.com/image/fetch/w_1200,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8ddf68e0-c549-49b6-8751-226f54fd4e30_1280x720.jpeg",
+    "icon": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/9c349228-1ca8-4dba-b953-12d78b35ee45/favicon-32x32.png",
+    "publisher": "luttig.substack.com",
+    "description": "Understanding the behemoth in Redmond teaches us valuable lessons in cloud infrastructure, startup strategy, and the future of software.",
+    "by": "SamvitJ",
+    "points": 93,
+    "comment_count": 25,
+    "hn_item": {
+      "by": "jkuria",
+      "descendants": 1,
+      "id": 30139971,
+      "kids": [
+        30140729
+      ],
+      "score": 8,
+      "time": 1643569114,
+      "title": "The UN is testing technology that processes data confidentially",
+      "type": "story",
+      "url": "https://www.economist.com/science-and-technology/the-un-is-testing-technology-that-processes-data-confidentially/21807385"
+    },
+    "og_item": {
+      "title": "Don’t forget Microsoft",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://cdn.substack.com/image/fetch/w_1200,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8ddf68e0-c549-49b6-8751-226f54fd4e30_1280x720.jpeg",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://luttig.substack.com/p/dont-forget-microsoft",
+      "audio": [],
+      "description": "Understanding the behemoth in Redmond teaches us valuable lessons in cloud infrastructure, startup strategy, and the future of software.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/9c349228-1ca8-4dba-b953-12d78b35ee45/favicon-32x32.png"
+      }
+    }
+  },
+  {
     "id": 30141278,
     "title": "The Story of Maxis Software (1999)",
     "url": "https://web.archive.org/web/19991012021220/http://gamespot.com/features/maxis/index.html",
@@ -404,24 +372,20 @@
     "publisher": "web.archive.org",
     "description": "",
     "by": "ecliptik",
-    "points": 24,
+    "points": 26,
     "comment_count": 3,
     "hn_item": {
-      "by": "hprotagonist",
-      "descendants": 5,
-      "id": 30138561,
+      "by": "jkuria",
+      "descendants": 1,
+      "id": 30139971,
       "kids": [
-        30140615,
-        30141489,
-        30140885,
-        30140266,
-        30140936
+        30140729
       ],
-      "score": 21,
-      "time": 1643560439,
-      "title": "24/192 Music Downloads and why they make no sense (2012)",
+      "score": 8,
+      "time": 1643569114,
+      "title": "The UN is testing technology that processes data confidentially",
       "type": "story",
-      "url": "https://web.archive.org/web/20200417180912/https://people.xiph.org/~xiphmont/demo/neil-young.html"
+      "url": "https://www.economist.com/science-and-technology/the-un-is-testing-technology-that-processes-data-confidentially/21807385"
     },
     "og_item": {
       "title": "GameSpot's SIMply Divine: The Story of Maxis Software",
@@ -445,36 +409,32 @@
     "title": "Beancount: Double-entry accounting from text files",
     "url": "https://github.com/beancount/beancount",
     "time": 1643559445,
-    "image": "https://opengraph.githubassets.com/b5b4bf173203f0c5a1aa4ccf74525e6b591d66ed3033bf1a96328226aa8d0e6a/beancount/beancount",
+    "image": "https://opengraph.githubassets.com/fde67a866327987a0c92ffc639942d1f74399123ec3fa99bfe49e7bb06aa0e63/beancount/beancount",
     "icon": "https://github.githubassets.com/favicons/favicon.svg",
     "publisher": "GitHub",
     "description": "Beancount: Double-Entry Accounting from Text Files. - GitHub - beancount/beancount: Beancount: Double-Entry Accounting from Text Files.",
     "by": "techtalsky",
-    "points": 150,
-    "comment_count": 15,
+    "points": 154,
+    "comment_count": 16,
     "hn_item": {
-      "by": "hprotagonist",
-      "descendants": 5,
-      "id": 30138561,
+      "by": "jkuria",
+      "descendants": 1,
+      "id": 30139971,
       "kids": [
-        30140615,
-        30141489,
-        30140885,
-        30140266,
-        30140936
+        30140729
       ],
-      "score": 21,
-      "time": 1643560439,
-      "title": "24/192 Music Downloads and why they make no sense (2012)",
+      "score": 8,
+      "time": 1643569114,
+      "title": "The UN is testing technology that processes data confidentially",
       "type": "story",
-      "url": "https://web.archive.org/web/20200417180912/https://people.xiph.org/~xiphmont/demo/neil-young.html"
+      "url": "https://www.economist.com/science-and-technology/the-un-is-testing-technology-that-processes-data-confidentially/21807385"
     },
     "og_item": {
       "title": "GitHub - beancount/beancount: Beancount: Double-Entry Accounting from Text Files.",
       "type": "object",
       "image": [
         {
-          "url": "https://opengraph.githubassets.com/b5b4bf173203f0c5a1aa4ccf74525e6b591d66ed3033bf1a96328226aa8d0e6a/beancount/beancount",
+          "url": "https://opengraph.githubassets.com/fde67a866327987a0c92ffc639942d1f74399123ec3fa99bfe49e7bb06aa0e63/beancount/beancount",
           "secure_url": "",
           "type": "",
           "width": 1200,
@@ -496,57 +456,53 @@
     }
   },
   {
-    "id": 30140464,
-    "title": "The Great Unconformity: Research points to glaciers being the culprit",
-    "url": "https://www.vice.com/en/article/wxdzzb/a-billion-years-of-time-are-mysteriously-missing-scientists-think-they-know-why",
-    "time": 1643572375,
-    "image": "https://video-images.vice.com/articles/61f2a92be1de8b0094f51e5e/lede/1643293461145-screen-shot-2022-01-27-at-92341-am.png?image-resize-opts=Y3JvcD0xeHc6MC44NDUxeGg7MHh3LDAuMTE0OXhoJnJlc2l6ZT0xMjAwOiomcmVzaXplPTEyMDA6Kg",
-    "icon": "https://vice-web-statics-cdn.vice.com/favicons/vice/favicon-16x16.png",
-    "publisher": "Vice",
-    "description": "The Great Unconformity has baffled geologists for a century. New research points to glaciers being the culprit.",
-    "by": "cbkeller",
-    "points": 42,
-    "comment_count": 3,
+    "id": 30135190,
+    "title": "FunctionStomping – A new shellcode injection technique",
+    "url": "https://github.com/Idov31/FunctionStomping",
+    "time": 1643533222,
+    "image": "https://opengraph.githubassets.com/3b5bfe3e74e7bbdaaff0406f6764c8aae6e488e94735a4e4f18e946fb5de69f9/Idov31/FunctionStomping",
+    "icon": "https://github.githubassets.com/favicons/favicon.svg",
+    "publisher": "GitHub",
+    "description": "A new shellcode injection technique. Given as C++ header or standalone Rust program. - GitHub - Idov31/FunctionStomping: A new shellcode injection technique. Given as C++ header or standalone Rust ...",
+    "by": "maydemir",
+    "points": 20,
+    "comment_count": 1,
     "hn_item": {
-      "by": "hprotagonist",
-      "descendants": 5,
-      "id": 30138561,
+      "by": "jkuria",
+      "descendants": 1,
+      "id": 30139971,
       "kids": [
-        30140615,
-        30141489,
-        30140885,
-        30140266,
-        30140936
+        30140729
       ],
-      "score": 21,
-      "time": 1643560439,
-      "title": "24/192 Music Downloads and why they make no sense (2012)",
+      "score": 8,
+      "time": 1643569114,
+      "title": "The UN is testing technology that processes data confidentially",
       "type": "story",
-      "url": "https://web.archive.org/web/20200417180912/https://people.xiph.org/~xiphmont/demo/neil-young.html"
+      "url": "https://www.economist.com/science-and-technology/the-un-is-testing-technology-that-processes-data-confidentially/21807385"
     },
     "og_item": {
-      "title": "A Billion Years of Time Are Mysteriously Missing. Scientists Think They Know Why.",
-      "type": "website",
+      "title": "GitHub - Idov31/FunctionStomping: A new shellcode injection technique. Given as C++ header or standalone Rust program.",
+      "type": "object",
       "image": [
         {
-          "url": "https://video-images.vice.com/articles/61f2a92be1de8b0094f51e5e/lede/1643293461145-screen-shot-2022-01-27-at-92341-am.png?image-resize-opts=Y3JvcD0xeHc6MC44NDUxeGg7MHh3LDAuMTE0OXhoJnJlc2l6ZT0xMjAwOiomcmVzaXplPTEyMDA6Kg",
+          "url": "https://opengraph.githubassets.com/3b5bfe3e74e7bbdaaff0406f6764c8aae6e488e94735a4e4f18e946fb5de69f9/Idov31/FunctionStomping",
           "secure_url": "",
           "type": "",
-          "width": 0,
-          "height": 0,
+          "width": 1200,
+          "height": 600,
           "alt": ""
         }
       ],
-      "url": "https://www.vice.com/en/article/wxdzzb/a-billion-years-of-time-are-mysteriously-missing-scientists-think-they-know-why",
+      "url": "https://github.com/Idov31/FunctionStomping",
       "audio": [],
-      "description": "The Great Unconformity has baffled geologists for a century. New research points to glaciers being the culprit.",
+      "description": "A new shellcode injection technique. Given as C++ header or standalone Rust program. - GitHub - Idov31/FunctionStomping: A new shellcode injection technique. Given as C++ header or standalone Rust ...",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "",
+      "site_name": "GitHub",
       "video": [],
       "favicon": {
-        "url": "https://vice-web-statics-cdn.vice.com/favicons/vice/favicon-16x16.png"
+        "url": "https://github.githubassets.com/favicons/favicon.svg"
       }
     }
   },
@@ -563,21 +519,17 @@
     "points": 1,
     "comment_count": 0,
     "hn_item": {
-      "by": "hprotagonist",
-      "descendants": 5,
-      "id": 30138561,
+      "by": "jkuria",
+      "descendants": 1,
+      "id": 30139971,
       "kids": [
-        30140615,
-        30141489,
-        30140885,
-        30140266,
-        30140936
+        30140729
       ],
-      "score": 21,
-      "time": 1643560439,
-      "title": "24/192 Music Downloads and why they make no sense (2012)",
+      "score": 8,
+      "time": 1643569114,
+      "title": "The UN is testing technology that processes data confidentially",
       "type": "story",
-      "url": "https://web.archive.org/web/20200417180912/https://people.xiph.org/~xiphmont/demo/neil-young.html"
+      "url": "https://www.economist.com/science-and-technology/the-un-is-testing-technology-that-processes-data-confidentially/21807385"
     },
     "og_item": {
       "title": "BuildZoom jobs",
@@ -615,24 +567,20 @@
     "publisher": "BBC News",
     "description": "The bottle Joanna Buchan dropped in the sea at Peterhead when she was eight has washed up in Norway.",
     "by": "LinuxBender",
-    "points": 56,
-    "comment_count": 7,
+    "points": 58,
+    "comment_count": 8,
     "hn_item": {
-      "by": "hprotagonist",
-      "descendants": 5,
-      "id": 30138561,
+      "by": "jkuria",
+      "descendants": 1,
+      "id": 30139971,
       "kids": [
-        30140615,
-        30141489,
-        30140885,
-        30140266,
-        30140936
+        30140729
       ],
-      "score": 21,
-      "time": 1643560439,
-      "title": "24/192 Music Downloads and why they make no sense (2012)",
+      "score": 8,
+      "time": 1643569114,
+      "title": "The UN is testing technology that processes data confidentially",
       "type": "story",
-      "url": "https://web.archive.org/web/20200417180912/https://people.xiph.org/~xiphmont/demo/neil-young.html"
+      "url": "https://www.economist.com/science-and-technology/the-un-is-testing-technology-that-processes-data-confidentially/21807385"
     },
     "og_item": {
       "title": "Message in a bottle from Scottish girl found in Norway after 25 years",
@@ -670,24 +618,20 @@
     "publisher": "tribunemag.co.uk",
     "description": "At workplaces like Amazon, algorithms have become the worst kind of boss – one who watches you constantly, makes impossible demands and then sacks you without explanation.",
     "by": "jrepinc",
-    "points": 58,
-    "comment_count": 8,
+    "points": 59,
+    "comment_count": 9,
     "hn_item": {
-      "by": "hprotagonist",
-      "descendants": 5,
-      "id": 30138561,
+      "by": "jkuria",
+      "descendants": 1,
+      "id": 30139971,
       "kids": [
-        30140615,
-        30141489,
-        30140885,
-        30140266,
-        30140936
+        30140729
       ],
-      "score": 21,
-      "time": 1643560439,
-      "title": "24/192 Music Downloads and why they make no sense (2012)",
+      "score": 8,
+      "time": 1643569114,
+      "title": "The UN is testing technology that processes data confidentially",
       "type": "story",
-      "url": "https://web.archive.org/web/20200417180912/https://people.xiph.org/~xiphmont/demo/neil-young.html"
+      "url": "https://www.economist.com/science-and-technology/the-un-is-testing-technology-that-processes-data-confidentially/21807385"
     },
     "og_item": {
       "title": "When the Algorithm Is Your Boss",
@@ -716,95 +660,36 @@
     }
   },
   {
-    "id": 30135190,
-    "title": "FunctionStomping – A new shellcode injection technique",
-    "url": "https://github.com/Idov31/FunctionStomping",
-    "time": 1643533222,
-    "image": "https://opengraph.githubassets.com/3b5bfe3e74e7bbdaaff0406f6764c8aae6e488e94735a4e4f18e946fb5de69f9/Idov31/FunctionStomping",
-    "icon": "https://github.githubassets.com/favicons/favicon.svg",
-    "publisher": "GitHub",
-    "description": "A new shellcode injection technique. Given as C++ header or standalone Rust program. - GitHub - Idov31/FunctionStomping: A new shellcode injection technique. Given as C++ header or standalone Rust ...",
-    "by": "maydemir",
-    "points": 19,
-    "comment_count": 1,
+    "id": 30140464,
+    "title": "The Great Unconformity: Research points to glaciers being the culprit",
+    "url": "https://www.vice.com/en/article/wxdzzb/a-billion-years-of-time-are-mysteriously-missing-scientists-think-they-know-why",
+    "time": 1643572375,
+    "image": "https://video-images.vice.com/articles/61f2a92be1de8b0094f51e5e/lede/1643293461145-screen-shot-2022-01-27-at-92341-am.png?image-resize-opts=Y3JvcD0xeHc6MC44NDUxeGg7MHh3LDAuMTE0OXhoJnJlc2l6ZT0xMjAwOiomcmVzaXplPTEyMDA6Kg",
+    "icon": "https://vice-web-statics-cdn.vice.com/favicons/vice/favicon-16x16.png",
+    "publisher": "Vice",
+    "description": "The Great Unconformity has baffled geologists for a century. New research points to glaciers being the culprit.",
+    "by": "cbkeller",
+    "points": 42,
+    "comment_count": 3,
     "hn_item": {
-      "by": "hprotagonist",
-      "descendants": 5,
-      "id": 30138561,
+      "by": "jkuria",
+      "descendants": 1,
+      "id": 30139971,
       "kids": [
-        30140615,
-        30141489,
-        30140885,
-        30140266,
-        30140936
+        30140729
       ],
-      "score": 21,
-      "time": 1643560439,
-      "title": "24/192 Music Downloads and why they make no sense (2012)",
+      "score": 8,
+      "time": 1643569114,
+      "title": "The UN is testing technology that processes data confidentially",
       "type": "story",
-      "url": "https://web.archive.org/web/20200417180912/https://people.xiph.org/~xiphmont/demo/neil-young.html"
+      "url": "https://www.economist.com/science-and-technology/the-un-is-testing-technology-that-processes-data-confidentially/21807385"
     },
     "og_item": {
-      "title": "GitHub - Idov31/FunctionStomping: A new shellcode injection technique. Given as C++ header or standalone Rust program.",
-      "type": "object",
+      "title": "A Billion Years of Time Are Mysteriously Missing. Scientists Think They Know Why.",
+      "type": "website",
       "image": [
         {
-          "url": "https://opengraph.githubassets.com/3b5bfe3e74e7bbdaaff0406f6764c8aae6e488e94735a4e4f18e946fb5de69f9/Idov31/FunctionStomping",
-          "secure_url": "",
-          "type": "",
-          "width": 1200,
-          "height": 600,
-          "alt": ""
-        }
-      ],
-      "url": "https://github.com/Idov31/FunctionStomping",
-      "audio": [],
-      "description": "A new shellcode injection technique. Given as C++ header or standalone Rust program. - GitHub - Idov31/FunctionStomping: A new shellcode injection technique. Given as C++ header or standalone Rust ...",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "GitHub",
-      "video": [],
-      "favicon": {
-        "url": "https://github.githubassets.com/favicons/favicon.svg"
-      }
-    }
-  },
-  {
-    "id": 30131847,
-    "title": "Mix and Match Mental Models",
-    "url": "https://lethain.com/mental-models-mix-match/",
-    "time": 1643499930,
-    "image": "https://lethain.com/static/author.png",
-    "icon": "https://lethain.com/favicon.ico",
-    "publisher": "lethain.com",
-    "description": "A few days ago, I got to have a delightful chat with Katie Wilde, digging into a question that we’ve both found difficult to answer: what distinguishes managers perceived to have good judgment from those perceived to have bad judgment? In exploring that question, the topic of mental models came…",
-    "by": "wavelander",
-    "points": 25,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "hprotagonist",
-      "descendants": 5,
-      "id": 30138561,
-      "kids": [
-        30140615,
-        30141489,
-        30140885,
-        30140266,
-        30140936
-      ],
-      "score": 21,
-      "time": 1643560439,
-      "title": "24/192 Music Downloads and why they make no sense (2012)",
-      "type": "story",
-      "url": "https://web.archive.org/web/20200417180912/https://people.xiph.org/~xiphmont/demo/neil-young.html"
-    },
-    "og_item": {
-      "title": "Mix and match mental models.",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://lethain.com/static/author.png",
+          "url": "https://video-images.vice.com/articles/61f2a92be1de8b0094f51e5e/lede/1643293461145-screen-shot-2022-01-27-at-92341-am.png?image-resize-opts=Y3JvcD0xeHc6MC44NDUxeGg7MHh3LDAuMTE0OXhoJnJlc2l6ZT0xMjAwOiomcmVzaXplPTEyMDA6Kg",
           "secure_url": "",
           "type": "",
           "width": 0,
@@ -812,16 +697,16 @@
           "alt": ""
         }
       ],
-      "url": "https://lethain.com/mental-models-mix-match/",
+      "url": "https://www.vice.com/en/article/wxdzzb/a-billion-years-of-time-are-mysteriously-missing-scientists-think-they-know-why",
       "audio": [],
-      "description": "A few days ago, I got to have a delightful chat with Katie Wilde, digging into a question that we’ve both found difficult to answer: what distinguishes managers perceived to have good judgment from those perceived to have bad judgment? In exploring that question, the topic of mental models came up frequently.",
+      "description": "The Great Unconformity has baffled geologists for a century. New research points to glaciers being the culprit.",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
       "site_name": "",
       "video": [],
       "favicon": {
-        "url": "/favicon.ico"
+        "url": "https://vice-web-statics-cdn.vice.com/favicons/vice/favicon-16x16.png"
       }
     }
   },
@@ -835,24 +720,20 @@
     "publisher": "bastian.rieck.me",
     "description": "",
     "by": "Topolomancer",
-    "points": 151,
+    "points": 152,
     "comment_count": 20,
     "hn_item": {
-      "by": "hprotagonist",
-      "descendants": 5,
-      "id": 30138561,
+      "by": "jkuria",
+      "descendants": 1,
+      "id": 30139971,
       "kids": [
-        30140615,
-        30141489,
-        30140885,
-        30140266,
-        30140936
+        30140729
       ],
-      "score": 21,
-      "time": 1643560439,
-      "title": "24/192 Music Downloads and why they make no sense (2012)",
+      "score": 8,
+      "time": 1643569114,
+      "title": "The UN is testing technology that processes data confidentially",
       "type": "story",
-      "url": "https://web.archive.org/web/20200417180912/https://people.xiph.org/~xiphmont/demo/neil-young.html"
+      "url": "https://www.economist.com/science-and-technology/the-un-is-testing-technology-that-processes-data-confidentially/21807385"
     },
     "og_item": {
       "title": "In Defence of the Boring Web",
@@ -872,52 +753,6 @@
     }
   },
   {
-    "id": 30131387,
-    "title": "Game performance optimization – A practical example from Industry Idle",
-    "url": "https://ruoyusun.com/2022/01/28/game-pref.html",
-    "time": 1643496513,
-    "image": "",
-    "icon": "https://ruoyusun.com/favicon-16x16.png",
-    "publisher": "ruoyusun.com",
-    "description": "",
-    "by": "insraq",
-    "points": 13,
-    "comment_count": 1,
-    "hn_item": {
-      "by": "hprotagonist",
-      "descendants": 5,
-      "id": 30138561,
-      "kids": [
-        30140615,
-        30141489,
-        30140885,
-        30140266,
-        30140936
-      ],
-      "score": 21,
-      "time": 1643560439,
-      "title": "24/192 Music Downloads and why they make no sense (2012)",
-      "type": "story",
-      "url": "https://web.archive.org/web/20200417180912/https://people.xiph.org/~xiphmont/demo/neil-young.html"
-    },
-    "og_item": {
-      "title": "Game Performance Optimization - A Practical Example From Industry Idle",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon-16x16.png"
-      }
-    }
-  },
-  {
     "id": 30122128,
     "title": "Sega quits arcade business after 50 years",
     "url": "https://www.eurogamer.net/articles/2022-01-28-sega-quits-japanese-arcade-business-after-50-years",
@@ -930,21 +765,17 @@
     "points": 182,
     "comment_count": 23,
     "hn_item": {
-      "by": "hprotagonist",
-      "descendants": 5,
-      "id": 30138561,
+      "by": "jkuria",
+      "descendants": 1,
+      "id": 30139971,
       "kids": [
-        30140615,
-        30141489,
-        30140885,
-        30140266,
-        30140936
+        30140729
       ],
-      "score": 21,
-      "time": 1643560439,
-      "title": "24/192 Music Downloads and why they make no sense (2012)",
+      "score": 8,
+      "time": 1643569114,
+      "title": "The UN is testing technology that processes data confidentially",
       "type": "story",
-      "url": "https://web.archive.org/web/20200417180912/https://people.xiph.org/~xiphmont/demo/neil-young.html"
+      "url": "https://www.economist.com/science-and-technology/the-un-is-testing-technology-that-processes-data-confidentially/21807385"
     },
     "og_item": {
       "title": "Sega quits Japanese arcade business after 50 years",
@@ -973,6 +804,57 @@
     }
   },
   {
+    "id": 30131847,
+    "title": "Mix and Match Mental Models",
+    "url": "https://lethain.com/mental-models-mix-match/",
+    "time": 1643499930,
+    "image": "https://lethain.com/static/author.png",
+    "icon": "https://lethain.com/favicon.ico",
+    "publisher": "lethain.com",
+    "description": "A few days ago, I got to have a delightful chat with Katie Wilde, digging into a question that we’ve both found difficult to answer: what distinguishes managers perceived to have good judgment from those perceived to have bad judgment? In exploring that question, the topic of mental models came…",
+    "by": "wavelander",
+    "points": 25,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "jkuria",
+      "descendants": 1,
+      "id": 30139971,
+      "kids": [
+        30140729
+      ],
+      "score": 8,
+      "time": 1643569114,
+      "title": "The UN is testing technology that processes data confidentially",
+      "type": "story",
+      "url": "https://www.economist.com/science-and-technology/the-un-is-testing-technology-that-processes-data-confidentially/21807385"
+    },
+    "og_item": {
+      "title": "Mix and match mental models.",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://lethain.com/static/author.png",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://lethain.com/mental-models-mix-match/",
+      "audio": [],
+      "description": "A few days ago, I got to have a delightful chat with Katie Wilde, digging into a question that we’ve both found difficult to answer: what distinguishes managers perceived to have good judgment from those perceived to have bad judgment? In exploring that question, the topic of mental models came up frequently.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30137864,
     "title": "Midnight Commander Tips and Tricks",
     "url": "http://www.softpanorama.org/OFM/MC/mc_tips.shtml",
@@ -985,21 +867,17 @@
     "points": 128,
     "comment_count": 17,
     "hn_item": {
-      "by": "hprotagonist",
-      "descendants": 5,
-      "id": 30138561,
+      "by": "jkuria",
+      "descendants": 1,
+      "id": 30139971,
       "kids": [
-        30140615,
-        30141489,
-        30140885,
-        30140266,
-        30140936
+        30140729
       ],
-      "score": 21,
-      "time": 1643560439,
-      "title": "24/192 Music Downloads and why they make no sense (2012)",
+      "score": 8,
+      "time": 1643569114,
+      "title": "The UN is testing technology that processes data confidentially",
       "type": "story",
-      "url": "https://web.archive.org/web/20200417180912/https://people.xiph.org/~xiphmont/demo/neil-young.html"
+      "url": "https://www.economist.com/science-and-technology/the-un-is-testing-technology-that-processes-data-confidentially/21807385"
     },
     "og_item": {
       "title": "Midnight Commander Tips and Tricks",
@@ -1019,6 +897,48 @@
     }
   },
   {
+    "id": 30131387,
+    "title": "Game performance optimization – A practical example from Industry Idle",
+    "url": "https://ruoyusun.com/2022/01/28/game-pref.html",
+    "time": 1643496513,
+    "image": "",
+    "icon": "https://ruoyusun.com/favicon-16x16.png",
+    "publisher": "ruoyusun.com",
+    "description": "",
+    "by": "insraq",
+    "points": 14,
+    "comment_count": 1,
+    "hn_item": {
+      "by": "jkuria",
+      "descendants": 1,
+      "id": 30139971,
+      "kids": [
+        30140729
+      ],
+      "score": 8,
+      "time": 1643569114,
+      "title": "The UN is testing technology that processes data confidentially",
+      "type": "story",
+      "url": "https://www.economist.com/science-and-technology/the-un-is-testing-technology-that-processes-data-confidentially/21807385"
+    },
+    "og_item": {
+      "title": "Game Performance Optimization - A Practical Example From Industry Idle",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon-16x16.png"
+      }
+    }
+  },
+  {
     "id": 30116262,
     "title": "A Padlock I’d Use [video]",
     "url": "https://www.youtube.com/watch?v=HrV86GqlY8o",
@@ -1028,24 +948,20 @@
     "publisher": "YouTube",
     "description": "https://www.CovertInstruments.com",
     "by": "CraigJPerry",
-    "points": 122,
+    "points": 123,
     "comment_count": 7,
     "hn_item": {
-      "by": "hprotagonist",
-      "descendants": 5,
-      "id": 30138561,
+      "by": "jkuria",
+      "descendants": 1,
+      "id": 30139971,
       "kids": [
-        30140615,
-        30141489,
-        30140885,
-        30140266,
-        30140936
+        30140729
       ],
-      "score": 21,
-      "time": 1643560439,
-      "title": "24/192 Music Downloads and why they make no sense (2012)",
+      "score": 8,
+      "time": 1643569114,
+      "title": "The UN is testing technology that processes data confidentially",
       "type": "story",
-      "url": "https://web.archive.org/web/20200417180912/https://people.xiph.org/~xiphmont/demo/neil-young.html"
+      "url": "https://www.economist.com/science-and-technology/the-un-is-testing-technology-that-processes-data-confidentially/21807385"
     },
     "og_item": {
       "title": "[1398] A Padlock I’d Use: Abus Granit 37RK/80 (Pick \u0026 Gut)",
@@ -1092,24 +1008,20 @@
     "publisher": "Rest of World",
     "description": "As a hedge against American talent poachers, some exasperated founders are recruiting developers who can’t speak English.",
     "by": "braco_alva",
-    "points": 145,
-    "comment_count": 33,
+    "points": 146,
+    "comment_count": 34,
     "hn_item": {
-      "by": "hprotagonist",
-      "descendants": 5,
-      "id": 30138561,
+      "by": "jkuria",
+      "descendants": 1,
+      "id": 30139971,
       "kids": [
-        30140615,
-        30141489,
-        30140885,
-        30140266,
-        30140936
+        30140729
       ],
-      "score": 21,
-      "time": 1643560439,
-      "title": "24/192 Music Downloads and why they make no sense (2012)",
+      "score": 8,
+      "time": 1643569114,
+      "title": "The UN is testing technology that processes data confidentially",
       "type": "story",
-      "url": "https://web.archive.org/web/20200417180912/https://people.xiph.org/~xiphmont/demo/neil-young.html"
+      "url": "https://www.economist.com/science-and-technology/the-un-is-testing-technology-that-processes-data-confidentially/21807385"
     },
     "og_item": {
       "title": "“It’s a bloodbath”: U.S. companies are pillaging Latin America’s tech talent",
@@ -1147,24 +1059,20 @@
     "publisher": "win.tue.nl",
     "description": "",
     "by": "camnora",
-    "points": 85,
+    "points": 86,
     "comment_count": 7,
     "hn_item": {
-      "by": "hprotagonist",
-      "descendants": 5,
-      "id": 30138561,
+      "by": "jkuria",
+      "descendants": 1,
+      "id": 30139971,
       "kids": [
-        30140615,
-        30141489,
-        30140885,
-        30140266,
-        30140936
+        30140729
       ],
-      "score": 21,
-      "time": 1643560439,
-      "title": "24/192 Music Downloads and why they make no sense (2012)",
+      "score": 8,
+      "time": 1643569114,
+      "title": "The UN is testing technology that processes data confidentially",
       "type": "story",
-      "url": "https://web.archive.org/web/20200417180912/https://people.xiph.org/~xiphmont/demo/neil-young.html"
+      "url": "https://www.economist.com/science-and-technology/the-un-is-testing-technology-that-processes-data-confidentially/21807385"
     },
     "og_item": null
   },
@@ -1178,24 +1086,20 @@
     "publisher": "lowleveldesign.org",
     "description": "More than ten years ago (how time flies!), when I published the basic sample of a COM+ server and client, I thought that I wouldn’t be touching this subject again. But here we are, in 2022, a…",
     "by": "lowleveldesign",
-    "points": 50,
+    "points": 51,
     "comment_count": 7,
     "hn_item": {
-      "by": "hprotagonist",
-      "descendants": 5,
-      "id": 30138561,
+      "by": "jkuria",
+      "descendants": 1,
+      "id": 30139971,
       "kids": [
-        30140615,
-        30141489,
-        30140885,
-        30140266,
-        30140936
+        30140729
       ],
-      "score": 21,
-      "time": 1643560439,
-      "title": "24/192 Music Downloads and why they make no sense (2012)",
+      "score": 8,
+      "time": 1643569114,
+      "title": "The UN is testing technology that processes data confidentially",
       "type": "story",
-      "url": "https://web.archive.org/web/20200417180912/https://people.xiph.org/~xiphmont/demo/neil-young.html"
+      "url": "https://www.economist.com/science-and-technology/the-un-is-testing-technology-that-processes-data-confidentially/21807385"
     },
     "og_item": {
       "title": "COM+ revisited",
@@ -1233,24 +1137,20 @@
     "publisher": "Warp - Blog",
     "description": "This is how we used tree data structures to build split panes in our terminal app.",
     "by": "lukastyrychtr",
-    "points": 39,
+    "points": 40,
     "comment_count": 6,
     "hn_item": {
-      "by": "hprotagonist",
-      "descendants": 5,
-      "id": 30138561,
+      "by": "jkuria",
+      "descendants": 1,
+      "id": 30139971,
       "kids": [
-        30140615,
-        30141489,
-        30140885,
-        30140266,
-        30140936
+        30140729
       ],
-      "score": 21,
-      "time": 1643560439,
-      "title": "24/192 Music Downloads and why they make no sense (2012)",
+      "score": 8,
+      "time": 1643569114,
+      "title": "The UN is testing technology that processes data confidentially",
       "type": "story",
-      "url": "https://web.archive.org/web/20200417180912/https://people.xiph.org/~xiphmont/demo/neil-young.html"
+      "url": "https://www.economist.com/science-and-technology/the-un-is-testing-technology-that-processes-data-confidentially/21807385"
     },
     "og_item": {
       "title": "Using tree data structures to implement terminal split panes - more fun than it sounds",
@@ -1291,21 +1191,17 @@
     "points": 110,
     "comment_count": 7,
     "hn_item": {
-      "by": "hprotagonist",
-      "descendants": 5,
-      "id": 30138561,
+      "by": "jkuria",
+      "descendants": 1,
+      "id": 30139971,
       "kids": [
-        30140615,
-        30141489,
-        30140885,
-        30140266,
-        30140936
+        30140729
       ],
-      "score": 21,
-      "time": 1643560439,
-      "title": "24/192 Music Downloads and why they make no sense (2012)",
+      "score": 8,
+      "time": 1643569114,
+      "title": "The UN is testing technology that processes data confidentially",
       "type": "story",
-      "url": "https://web.archive.org/web/20200417180912/https://people.xiph.org/~xiphmont/demo/neil-young.html"
+      "url": "https://www.economist.com/science-and-technology/the-un-is-testing-technology-that-processes-data-confidentially/21807385"
     },
     "og_item": {
       "title": "Overhead Plane Detector Object Detection Dataset",
@@ -1334,6 +1230,48 @@
     }
   },
   {
+    "id": 30142105,
+    "title": "Seattle Telecommunications History Museum",
+    "url": "https://www.telcomhistory.org/connections-museum-seattle/",
+    "time": 1643583232,
+    "image": "",
+    "icon": "https://www.telcomhistory.org/favicon.ico",
+    "publisher": "telcomhistory.org",
+    "description": "",
+    "by": "basementcat",
+    "points": 4,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "jkuria",
+      "descendants": 1,
+      "id": 30139971,
+      "kids": [
+        30140729
+      ],
+      "score": 8,
+      "time": 1643569114,
+      "title": "The UN is testing technology that processes data confidentially",
+      "type": "story",
+      "url": "https://www.economist.com/science-and-technology/the-un-is-testing-technology-that-processes-data-confidentially/21807385"
+    },
+    "og_item": {
+      "title": "403 Forbidden",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30138420,
     "title": "Autonomous battery-powered rail cars",
     "url": "https://arstechnica.com/cars/2022/01/moving-more-with-less-freight-startup-bets-on-autonomous-electric-rail-cars/",
@@ -1346,21 +1284,17 @@
     "points": 71,
     "comment_count": 16,
     "hn_item": {
-      "by": "hprotagonist",
-      "descendants": 5,
-      "id": 30138561,
+      "by": "jkuria",
+      "descendants": 1,
+      "id": 30139971,
       "kids": [
-        30140615,
-        30141489,
-        30140885,
-        30140266,
-        30140936
+        30140729
       ],
-      "score": 21,
-      "time": 1643560439,
-      "title": "24/192 Music Downloads and why they make no sense (2012)",
+      "score": 8,
+      "time": 1643569114,
+      "title": "The UN is testing technology that processes data confidentially",
       "type": "story",
-      "url": "https://web.archive.org/web/20200417180912/https://people.xiph.org/~xiphmont/demo/neil-young.html"
+      "url": "https://www.economist.com/science-and-technology/the-un-is-testing-technology-that-processes-data-confidentially/21807385"
     },
     "og_item": {
       "title": "Autonomous battery-powered rail cars could steal shipments from truckers",
@@ -1398,27 +1332,65 @@
     "publisher": "shubhro.com",
     "description": "",
     "by": "shbhrsaha",
-    "points": 33,
+    "points": 34,
     "comment_count": 5,
     "hn_item": {
-      "by": "hprotagonist",
-      "descendants": 5,
-      "id": 30138561,
+      "by": "jkuria",
+      "descendants": 1,
+      "id": 30139971,
       "kids": [
-        30140615,
-        30141489,
-        30140885,
-        30140266,
-        30140936
+        30140729
       ],
-      "score": 21,
-      "time": 1643560439,
-      "title": "24/192 Music Downloads and why they make no sense (2012)",
+      "score": 8,
+      "time": 1643569114,
+      "title": "The UN is testing technology that processes data confidentially",
       "type": "story",
-      "url": "https://web.archive.org/web/20200417180912/https://people.xiph.org/~xiphmont/demo/neil-young.html"
+      "url": "https://www.economist.com/science-and-technology/the-un-is-testing-technology-that-processes-data-confidentially/21807385"
     },
     "og_item": {
       "title": "Show the case against - shubhro.com",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30142065,
+    "title": "A hyperactive cell in the brain might trigger Alzheimer's disease",
+    "url": "https://www.npr.org/sections/health-shots/2022/01/30/1076166807/how-a-hyperactive-cell-in-the-brain-might-trigger-alzheimers-disease",
+    "time": 1643582988,
+    "image": "",
+    "icon": "https://www.npr.org/favicon.ico",
+    "publisher": "npr.org",
+    "description": "",
+    "by": "pseudolus",
+    "points": 4,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "jkuria",
+      "descendants": 1,
+      "id": 30139971,
+      "kids": [
+        30140729
+      ],
+      "score": 8,
+      "time": 1643569114,
+      "title": "The UN is testing technology that processes data confidentially",
+      "type": "story",
+      "url": "https://www.economist.com/science-and-technology/the-un-is-testing-technology-that-processes-data-confidentially/21807385"
+    },
+    "og_item": {
+      "title": "NPR Cookie Consent and Choices",
       "type": "",
       "image": [],
       "url": "",
@@ -1444,24 +1416,20 @@
     "publisher": "Future",
     "description": "Technical literacy is key to career success, even for non-engineers. Learn how to master the tools of your trade and build a solid tech foundation.",
     "by": "jseliger",
-    "points": 109,
-    "comment_count": 13,
+    "points": 110,
+    "comment_count": 14,
     "hn_item": {
-      "by": "hprotagonist",
-      "descendants": 5,
-      "id": 30138561,
+      "by": "jkuria",
+      "descendants": 1,
+      "id": 30139971,
       "kids": [
-        30140615,
-        30141489,
-        30140885,
-        30140266,
-        30140936
+        30140729
       ],
-      "score": 21,
-      "time": 1643560439,
-      "title": "24/192 Music Downloads and why they make no sense (2012)",
+      "score": 8,
+      "time": 1643569114,
+      "title": "The UN is testing technology that processes data confidentially",
       "type": "story",
-      "url": "https://web.archive.org/web/20200417180912/https://people.xiph.org/~xiphmont/demo/neil-young.html"
+      "url": "https://www.economist.com/science-and-technology/the-un-is-testing-technology-that-processes-data-confidentially/21807385"
     },
     "og_item": {
       "title": "How to Excel in Tech Without Learning to Code | Future",
@@ -1502,21 +1470,17 @@
     "points": 142,
     "comment_count": 6,
     "hn_item": {
-      "by": "hprotagonist",
-      "descendants": 5,
-      "id": 30138561,
+      "by": "jkuria",
+      "descendants": 1,
+      "id": 30139971,
       "kids": [
-        30140615,
-        30141489,
-        30140885,
-        30140266,
-        30140936
+        30140729
       ],
-      "score": 21,
-      "time": 1643560439,
-      "title": "24/192 Music Downloads and why they make no sense (2012)",
+      "score": 8,
+      "time": 1643569114,
+      "title": "The UN is testing technology that processes data confidentially",
       "type": "story",
-      "url": "https://web.archive.org/web/20200417180912/https://people.xiph.org/~xiphmont/demo/neil-young.html"
+      "url": "https://www.economist.com/science-and-technology/the-un-is-testing-technology-that-processes-data-confidentially/21807385"
     },
     "og_item": {
       "title": "Controlling RGB LEDs With Only the Powerlines: Anatomy of a Christmas Light String",
@@ -1545,6 +1509,48 @@
     }
   },
   {
+    "id": 30120857,
+    "title": "Writing an efficient Vulkan renderer (2020)",
+    "url": "https://zeux.io/2020/02/27/writing-an-efficient-vulkan-renderer/",
+    "time": 1643406697,
+    "image": "",
+    "icon": "https://zeux.io/2020/02/27/writing-an-efficient-vulkan-renderer/data:;base64,iVBORw0KGgo=",
+    "publisher": "zeux.io",
+    "description": "",
+    "by": "nabla9",
+    "points": 74,
+    "comment_count": 4,
+    "hn_item": {
+      "by": "jkuria",
+      "descendants": 1,
+      "id": 30139971,
+      "kids": [
+        30140729
+      ],
+      "score": 8,
+      "time": 1643569114,
+      "title": "The UN is testing technology that processes data confidentially",
+      "type": "story",
+      "url": "https://www.economist.com/science-and-technology/the-un-is-testing-technology-that-processes-data-confidentially/21807385"
+    },
+    "og_item": {
+      "title": "\n    zeux.io - Writing an efficient Vulkan renderer\n  ",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "data:;base64,iVBORw0KGgo="
+      }
+    }
+  },
+  {
     "id": 30136350,
     "title": "The Game of War: Chess with Networks (2008)",
     "url": "https://www.cabinetmagazine.org/issues/29/galloway.php",
@@ -1557,21 +1563,17 @@
     "points": 22,
     "comment_count": 2,
     "hn_item": {
-      "by": "hprotagonist",
-      "descendants": 5,
-      "id": 30138561,
+      "by": "jkuria",
+      "descendants": 1,
+      "id": 30139971,
       "kids": [
-        30140615,
-        30141489,
-        30140885,
-        30140266,
-        30140936
+        30140729
       ],
-      "score": 21,
-      "time": 1643560439,
-      "title": "24/192 Music Downloads and why they make no sense (2012)",
+      "score": 8,
+      "time": 1643569114,
+      "title": "The UN is testing technology that processes data confidentially",
       "type": "story",
-      "url": "https://web.archive.org/web/20200417180912/https://people.xiph.org/~xiphmont/demo/neil-young.html"
+      "url": "https://www.economist.com/science-and-technology/the-un-is-testing-technology-that-processes-data-confidentially/21807385"
     },
     "og_item": {
       "title": "The Game of War: An Overview | Alexander R. Galloway",
@@ -1600,52 +1602,6 @@
     }
   },
   {
-    "id": 30120857,
-    "title": "Writing an efficient Vulkan renderer (2020)",
-    "url": "https://zeux.io/2020/02/27/writing-an-efficient-vulkan-renderer/",
-    "time": 1643406697,
-    "image": "",
-    "icon": "https://zeux.io/2020/02/27/writing-an-efficient-vulkan-renderer/data:;base64,iVBORw0KGgo=",
-    "publisher": "zeux.io",
-    "description": "",
-    "by": "nabla9",
-    "points": 73,
-    "comment_count": 4,
-    "hn_item": {
-      "by": "hprotagonist",
-      "descendants": 5,
-      "id": 30138561,
-      "kids": [
-        30140615,
-        30141489,
-        30140885,
-        30140266,
-        30140936
-      ],
-      "score": 21,
-      "time": 1643560439,
-      "title": "24/192 Music Downloads and why they make no sense (2012)",
-      "type": "story",
-      "url": "https://web.archive.org/web/20200417180912/https://people.xiph.org/~xiphmont/demo/neil-young.html"
-    },
-    "og_item": {
-      "title": "\n    zeux.io - Writing an efficient Vulkan renderer\n  ",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "data:;base64,iVBORw0KGgo="
-      }
-    }
-  },
-  {
     "id": 30138277,
     "title": "Set up a website with Nim (2019)",
     "url": "https://ttj.dk/blog/2019/01/20/setup-a-website-with-nim",
@@ -1655,24 +1611,20 @@
     "publisher": "ttj.dk",
     "description": "This small tutorial will help you create a website with Nim. We'll use libraries from the standard library and some externals from Nim-users. You will learn to create a small webserver with an admin user who has access to the secret area.",
     "by": "melissalobos",
-    "points": 71,
+    "points": 72,
     "comment_count": 6,
     "hn_item": {
-      "by": "hprotagonist",
-      "descendants": 5,
-      "id": 30138561,
+      "by": "jkuria",
+      "descendants": 1,
+      "id": 30139971,
       "kids": [
-        30140615,
-        30141489,
-        30140885,
-        30140266,
-        30140936
+        30140729
       ],
-      "score": 21,
-      "time": 1643560439,
-      "title": "24/192 Music Downloads and why they make no sense (2012)",
+      "score": 8,
+      "time": 1643569114,
+      "title": "The UN is testing technology that processes data confidentially",
       "type": "story",
-      "url": "https://web.archive.org/web/20200417180912/https://people.xiph.org/~xiphmont/demo/neil-young.html"
+      "url": "https://www.economist.com/science-and-technology/the-un-is-testing-technology-that-processes-data-confidentially/21807385"
     },
     "og_item": {
       "title": " Nim tutorial for setting up a website. ",
@@ -1692,6 +1644,108 @@
     }
   },
   {
+    "id": 30142247,
+    "title": "Basic Cryptography – The Vigenere Cipher",
+    "url": "https://eric.mann.blog/basic-cryptography-the-vigenere-cipher/",
+    "time": 1643584323,
+    "image": "https://i0.wp.com/eric.mann.blog/wp-content/uploads/2022/01/fig-29-01-2022_17-52-02.jpg?fit=1500%2C900\u0026ssl=1",
+    "icon": "https://i0.wp.com/eric.mann.blog/wp-content/uploads/2021/12/cropped-00100sPORTRAIT_00100_BURST20190126115324341_COVER-scaled-1.jpg?fit=192%2C192\u0026ssl=1",
+    "publisher": "Eric Mann's Blog",
+    "description": "The Vigenere cipher is more complicated that the Caesar cipher but based on the same idea. It uses a running key to keep your message secure.",
+    "by": "eamann",
+    "points": 3,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "jkuria",
+      "descendants": 1,
+      "id": 30139971,
+      "kids": [
+        30140729
+      ],
+      "score": 8,
+      "time": 1643569114,
+      "title": "The UN is testing technology that processes data confidentially",
+      "type": "story",
+      "url": "https://www.economist.com/science-and-technology/the-un-is-testing-technology-that-processes-data-confidentially/21807385"
+    },
+    "og_item": {
+      "title": "Basic cryptography - the Vigenere cipher - Eric Mann's Blog",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://i0.wp.com/eric.mann.blog/wp-content/uploads/2022/01/fig-29-01-2022_17-52-02.jpg?fit=1500%2C900\u0026ssl=1",
+          "secure_url": "",
+          "type": "",
+          "width": 1500,
+          "height": 900,
+          "alt": ""
+        }
+      ],
+      "url": "https://eric.mann.blog/basic-cryptography-the-vigenere-cipher/",
+      "audio": [],
+      "description": "The Vigenere cipher is more complicated that the Caesar cipher but based on the same idea. It uses a running key to keep your message secure.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Eric Mann's Blog",
+      "video": [],
+      "favicon": {
+        "url": "https://i0.wp.com/eric.mann.blog/wp-content/uploads/2021/12/cropped-00100sPORTRAIT_00100_BURST20190126115324341_COVER-scaled-1.jpg?fit=192%2C192\u0026ssl=1"
+      }
+    }
+  },
+  {
+    "id": 30142227,
+    "title": "America's Favorite Pickup Truck Goes Electric",
+    "url": "https://www.newyorker.com/magazine/2022/01/31/americas-favorite-pickup-truck-goes-electric",
+    "time": 1643584218,
+    "image": "https://media.newyorker.com/photos/61eb71a540b49e277739cf73/16:9/w_1280,c_limit/220131_r39776.jpg",
+    "icon": "https://www.newyorker.com/verso/static/the-new-yorker/assets/favicon.ico",
+    "publisher": "The New Yorker",
+    "description": "Ford’s F-series trucks make up the best-selling vehicle line in the U.S. Can its new F-150 Lightning compete with Tesla in the E.V. market?",
+    "by": "nojito",
+    "points": 3,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "jkuria",
+      "descendants": 1,
+      "id": 30139971,
+      "kids": [
+        30140729
+      ],
+      "score": 8,
+      "time": 1643569114,
+      "title": "The UN is testing technology that processes data confidentially",
+      "type": "story",
+      "url": "https://www.economist.com/science-and-technology/the-un-is-testing-technology-that-processes-data-confidentially/21807385"
+    },
+    "og_item": {
+      "title": "America’s Favorite Pickup Truck Goes Electric",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://media.newyorker.com/photos/61eb71a540b49e277739cf73/16:9/w_1280,c_limit/220131_r39776.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://www.newyorker.com/magazine/2022/01/31/americas-favorite-pickup-truck-goes-electric",
+      "audio": [],
+      "description": "Ford’s F-series trucks make up the best-selling vehicle line in the U.S. Can its new F-150 Lightning compete with Tesla in the E.V. market?",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "The New Yorker",
+      "video": [],
+      "favicon": {
+        "url": "https://www.newyorker.com/verso/static/the-new-yorker/assets/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30138669,
     "title": "Ask HN: Has anyone leveraged GDPR to overturn automated bans?",
     "url": "https://news.ycombinator.com/item?id=30138669",
@@ -1704,21 +1758,17 @@
     "points": 129,
     "comment_count": 11,
     "hn_item": {
-      "by": "hprotagonist",
-      "descendants": 5,
-      "id": 30138561,
+      "by": "jkuria",
+      "descendants": 1,
+      "id": 30139971,
       "kids": [
-        30140615,
-        30141489,
-        30140885,
-        30140266,
-        30140936
+        30140729
       ],
-      "score": 21,
-      "time": 1643560439,
-      "title": "24/192 Music Downloads and why they make no sense (2012)",
+      "score": 8,
+      "time": 1643569114,
+      "title": "The UN is testing technology that processes data confidentially",
       "type": "story",
-      "url": "https://web.archive.org/web/20200417180912/https://people.xiph.org/~xiphmont/demo/neil-young.html"
+      "url": "https://www.economist.com/science-and-technology/the-un-is-testing-technology-that-processes-data-confidentially/21807385"
     },
     "og_item": {
       "title": "Ask HN: Has anyone leveraged GDPR to overturn automated bans? | Hacker News",
@@ -1750,21 +1800,17 @@
     "points": 18,
     "comment_count": 0,
     "hn_item": {
-      "by": "hprotagonist",
-      "descendants": 5,
-      "id": 30138561,
+      "by": "jkuria",
+      "descendants": 1,
+      "id": 30139971,
       "kids": [
-        30140615,
-        30141489,
-        30140885,
-        30140266,
-        30140936
+        30140729
       ],
-      "score": 21,
-      "time": 1643560439,
-      "title": "24/192 Music Downloads and why they make no sense (2012)",
+      "score": 8,
+      "time": 1643569114,
+      "title": "The UN is testing technology that processes data confidentially",
       "type": "story",
-      "url": "https://web.archive.org/web/20200417180912/https://people.xiph.org/~xiphmont/demo/neil-young.html"
+      "url": "https://www.economist.com/science-and-technology/the-un-is-testing-technology-that-processes-data-confidentially/21807385"
     },
     "og_item": {
       "title": "The Dialectic of Enlightenment",
@@ -1797,7 +1843,7 @@
     "title": "GoSTL: Algorithm and datastructure library for Go similar to C++ STL",
     "url": "https://github.com/liyue201/gostl",
     "time": 1643549145,
-    "image": "https://opengraph.githubassets.com/7090c0274120fa175fc69c9393f5e7a35d6ffb6d6b592a2a7f46e30f6beffa2b/liyue201/gostl",
+    "image": "https://opengraph.githubassets.com/663cc95b6d6bb2e2699d3b4c54bcfea9232f6304e51ebd62aa08e2ae2015fd48/liyue201/gostl",
     "icon": "https://github.githubassets.com/favicons/favicon.svg",
     "publisher": "GitHub",
     "description": "Data structure and algorithm library for go, designed to provide functions similar to C++ STL - GitHub - liyue201/gostl: Data structure and algorithm library for go, designed to provide functions s...",
@@ -1805,28 +1851,24 @@
     "points": 82,
     "comment_count": 9,
     "hn_item": {
-      "by": "hprotagonist",
-      "descendants": 5,
-      "id": 30138561,
+      "by": "jkuria",
+      "descendants": 1,
+      "id": 30139971,
       "kids": [
-        30140615,
-        30141489,
-        30140885,
-        30140266,
-        30140936
+        30140729
       ],
-      "score": 21,
-      "time": 1643560439,
-      "title": "24/192 Music Downloads and why they make no sense (2012)",
+      "score": 8,
+      "time": 1643569114,
+      "title": "The UN is testing technology that processes data confidentially",
       "type": "story",
-      "url": "https://web.archive.org/web/20200417180912/https://people.xiph.org/~xiphmont/demo/neil-young.html"
+      "url": "https://www.economist.com/science-and-technology/the-un-is-testing-technology-that-processes-data-confidentially/21807385"
     },
     "og_item": {
       "title": "GitHub - liyue201/gostl: Data structure and algorithm library for go, designed to provide functions similar to C++ STL",
       "type": "object",
       "image": [
         {
-          "url": "https://opengraph.githubassets.com/7090c0274120fa175fc69c9393f5e7a35d6ffb6d6b592a2a7f46e30f6beffa2b/liyue201/gostl",
+          "url": "https://opengraph.githubassets.com/663cc95b6d6bb2e2699d3b4c54bcfea9232f6304e51ebd62aa08e2ae2015fd48/liyue201/gostl",
           "secure_url": "",
           "type": "",
           "width": 1200,
@@ -1848,61 +1890,6 @@
     }
   },
   {
-    "id": 30142065,
-    "title": "A hyperactive cell in the brain might trigger Alzheimer's disease",
-    "url": "https://www.npr.org/sections/health-shots/2022/01/30/1076166807/how-a-hyperactive-cell-in-the-brain-might-trigger-alzheimers-disease",
-    "time": 1643582988,
-    "image": "https://media.npr.org/assets/img/2022/01/27/sciencesource_microglia-21987196_wide-7afc62ca4328fa0cff9c6b3d9503c40257a7adf0.jpg?s=1400",
-    "icon": "https://static-assets.npr.org/static/images/favicon/favicon-16x16.png",
-    "publisher": "NPR.org",
-    "description": "Microglia are amoeba-like cells that scour the brain for injuries and invaders. But sometimes the usually helpful cells go into overdrive and damage the brain, researchers say.",
-    "by": "pseudolus",
-    "points": 3,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "hprotagonist",
-      "descendants": 5,
-      "id": 30138561,
-      "kids": [
-        30140615,
-        30141489,
-        30140885,
-        30140266,
-        30140936
-      ],
-      "score": 21,
-      "time": 1643560439,
-      "title": "24/192 Music Downloads and why they make no sense (2012)",
-      "type": "story",
-      "url": "https://web.archive.org/web/20200417180912/https://people.xiph.org/~xiphmont/demo/neil-young.html"
-    },
-    "og_item": {
-      "title": "How a hyperactive cell in the brain might trigger Alzheimer's disease",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://media.npr.org/assets/img/2022/01/27/sciencesource_microglia-21987196_wide-7afc62ca4328fa0cff9c6b3d9503c40257a7adf0.jpg?s=1400",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://www.npr.org/sections/health-shots/2022/01/30/1076166807/how-a-hyperactive-cell-in-the-brain-might-trigger-alzheimers-disease",
-      "audio": [],
-      "description": "Microglia are amoeba-like cells that scour the brain for injuries and invaders. But sometimes the usually helpful cells go into overdrive and damage the brain, researchers say. ",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "NPR.org",
-      "video": [],
-      "favicon": {
-        "url": "https://static-assets.npr.org/static/images/favicon/favicon-16x16.png"
-      }
-    }
-  },
-  {
     "id": 30122435,
     "title": "DDS: Build and library management tool for C, C++",
     "url": "https://vector-of-bool.github.io/docs/dds/index.html",
@@ -1915,24 +1902,104 @@
     "points": 22,
     "comment_count": 2,
     "hn_item": {
-      "by": "hprotagonist",
-      "descendants": 5,
-      "id": 30138561,
+      "by": "jkuria",
+      "descendants": 1,
+      "id": 30139971,
       "kids": [
-        30140615,
-        30141489,
-        30140885,
-        30140266,
-        30140936
+        30140729
       ],
-      "score": 21,
-      "time": 1643560439,
-      "title": "24/192 Music Downloads and why they make no sense (2012)",
+      "score": 8,
+      "time": 1643569114,
+      "title": "The UN is testing technology that processes data confidentially",
       "type": "story",
-      "url": "https://web.archive.org/web/20200417180912/https://people.xiph.org/~xiphmont/demo/neil-young.html"
+      "url": "https://www.economist.com/science-and-technology/the-un-is-testing-technology-that-processes-data-confidentially/21807385"
     },
     "og_item": {
       "title": "DDS — dds 0.1.0-alpha.3 documentation",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30142106,
+    "title": "Yoga and Meditation Do Not Quiet the Ego but Instead Boost Self-Enhancement",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/0956797618764621",
+    "time": 1643583242,
+    "image": "",
+    "icon": "https://journals.sagepub.com/favicon.ico",
+    "publisher": "journals.sagepub.com",
+    "description": "",
+    "by": "FrojoS",
+    "points": 4,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "jkuria",
+      "descendants": 1,
+      "id": 30139971,
+      "kids": [
+        30140729
+      ],
+      "score": 8,
+      "time": 1643569114,
+      "title": "The UN is testing technology that processes data confidentially",
+      "type": "story",
+      "url": "https://www.economist.com/science-and-technology/the-un-is-testing-technology-that-processes-data-confidentially/21807385"
+    },
+    "og_item": {
+      "title": "Just a moment...",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30141215,
+    "title": "Show HN: BeanHub – A GitHub for Beancount",
+    "url": "https://beanhub.io/",
+    "time": 1643577545,
+    "image": "",
+    "icon": "https://beanhub.io/favicon.ico",
+    "publisher": "beanhub.io",
+    "description": "",
+    "by": "fangpenlin",
+    "points": 10,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "jkuria",
+      "descendants": 1,
+      "id": 30139971,
+      "kids": [
+        30140729
+      ],
+      "score": 8,
+      "time": 1643569114,
+      "title": "The UN is testing technology that processes data confidentially",
+      "type": "story",
+      "url": "https://www.economist.com/science-and-technology/the-un-is-testing-technology-that-processes-data-confidentially/21807385"
+    },
+    "og_item": {
+      "title": "\n    BeanHub\n    ",
       "type": "",
       "image": [],
       "url": "",
@@ -1961,21 +2028,17 @@
     "points": 11,
     "comment_count": 2,
     "hn_item": {
-      "by": "hprotagonist",
-      "descendants": 5,
-      "id": 30138561,
+      "by": "jkuria",
+      "descendants": 1,
+      "id": 30139971,
       "kids": [
-        30140615,
-        30141489,
-        30140885,
-        30140266,
-        30140936
+        30140729
       ],
-      "score": 21,
-      "time": 1643560439,
-      "title": "24/192 Music Downloads and why they make no sense (2012)",
+      "score": 8,
+      "time": 1643569114,
+      "title": "The UN is testing technology that processes data confidentially",
       "type": "story",
-      "url": "https://web.archive.org/web/20200417180912/https://people.xiph.org/~xiphmont/demo/neil-young.html"
+      "url": "https://www.economist.com/science-and-technology/the-un-is-testing-technology-that-processes-data-confidentially/21807385"
     },
     "og_item": {
       "title": "How to be an effective ruler: the Basilikon Doron of King James VI and I",
@@ -2016,21 +2079,17 @@
     "points": 31,
     "comment_count": 2,
     "hn_item": {
-      "by": "hprotagonist",
-      "descendants": 5,
-      "id": 30138561,
+      "by": "jkuria",
+      "descendants": 1,
+      "id": 30139971,
       "kids": [
-        30140615,
-        30141489,
-        30140885,
-        30140266,
-        30140936
+        30140729
       ],
-      "score": 21,
-      "time": 1643560439,
-      "title": "24/192 Music Downloads and why they make no sense (2012)",
+      "score": 8,
+      "time": 1643569114,
+      "title": "The UN is testing technology that processes data confidentially",
       "type": "story",
-      "url": "https://web.archive.org/web/20200417180912/https://people.xiph.org/~xiphmont/demo/neil-young.html"
+      "url": "https://www.economist.com/science-and-technology/the-un-is-testing-technology-that-processes-data-confidentially/21807385"
     },
     "og_item": {
       "title": "Very Remote Lisp Debugging Story - Susam's Maze",
@@ -2050,6 +2109,57 @@
     }
   },
   {
+    "id": 30142494,
+    "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
+    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/",
+    "time": 1643586052,
+    "image": "https://www.reuters.com/resizer/nJB_ZidKD76ip6VAQlGhKHf1JI8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PYPUULVDLFI5ZBML3UV35CE4TA.jpg",
+    "icon": "https://www.reuters.com/pf/resources/icons/favicon.ico?d=69",
+    "publisher": "Reuters",
+    "description": "The highly transmissible Omicron variant of the SARS-CoV-2 virus - the most common form of which is known as BA.1 - now accounts for nearly all of the coronavirus infections globally, although dramatic surges in COVID cases have already peaked in some countries.",
+    "by": "lsllc",
+    "points": 7,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "jkuria",
+      "descendants": 1,
+      "id": 30139971,
+      "kids": [
+        30140729
+      ],
+      "score": 8,
+      "time": 1643569114,
+      "title": "The UN is testing technology that processes data confidentially",
+      "type": "story",
+      "url": "https://www.economist.com/science-and-technology/the-un-is-testing-technology-that-processes-data-confidentially/21807385"
+    },
+    "og_item": {
+      "title": "Explainer: Scientists on alert over rising cases caused by Omicron cousin BA.2",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://www.reuters.com/resizer/nJB_ZidKD76ip6VAQlGhKHf1JI8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PYPUULVDLFI5ZBML3UV35CE4TA.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/",
+      "audio": [],
+      "description": "The highly transmissible Omicron variant of the SARS-CoV-2 virus - the most common form of which is known as BA.1 - now accounts for nearly all of the coronavirus infections globally, although dramatic surges in COVID cases have already peaked in some countries.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Reuters",
+      "video": [],
+      "favicon": {
+        "url": "/pf/resources/icons/favicon.ico?d=69"
+      }
+    }
+  },
+  {
     "id": 30139142,
     "title": "SBCL: New in Version 2.2.1",
     "url": "http://www.sbcl.org/all-news.html?2.2.1#2.2.1",
@@ -2062,21 +2172,17 @@
     "points": 90,
     "comment_count": 5,
     "hn_item": {
-      "by": "hprotagonist",
-      "descendants": 5,
-      "id": 30138561,
+      "by": "jkuria",
+      "descendants": 1,
+      "id": 30139971,
       "kids": [
-        30140615,
-        30141489,
-        30140885,
-        30140266,
-        30140936
+        30140729
       ],
-      "score": 21,
-      "time": 1643560439,
-      "title": "24/192 Music Downloads and why they make no sense (2012)",
+      "score": 8,
+      "time": 1643569114,
+      "title": "The UN is testing technology that processes data confidentially",
       "type": "story",
-      "url": "https://web.archive.org/web/20200417180912/https://people.xiph.org/~xiphmont/demo/neil-young.html"
+      "url": "https://www.economist.com/science-and-technology/the-un-is-testing-technology-that-processes-data-confidentially/21807385"
     },
     "og_item": {
       "title": "All News - Steel Bank Common Lisp",
@@ -2108,21 +2214,17 @@
     "points": 208,
     "comment_count": 31,
     "hn_item": {
-      "by": "hprotagonist",
-      "descendants": 5,
-      "id": 30138561,
+      "by": "jkuria",
+      "descendants": 1,
+      "id": 30139971,
       "kids": [
-        30140615,
-        30141489,
-        30140885,
-        30140266,
-        30140936
+        30140729
       ],
-      "score": 21,
-      "time": 1643560439,
-      "title": "24/192 Music Downloads and why they make no sense (2012)",
+      "score": 8,
+      "time": 1643569114,
+      "title": "The UN is testing technology that processes data confidentially",
       "type": "story",
-      "url": "https://web.archive.org/web/20200417180912/https://people.xiph.org/~xiphmont/demo/neil-young.html"
+      "url": "https://www.economist.com/science-and-technology/the-un-is-testing-technology-that-processes-data-confidentially/21807385"
     },
     "og_item": {
       "title": "If It Were My Home",
@@ -2154,69 +2256,19 @@
     "points": 32,
     "comment_count": 4,
     "hn_item": {
-      "by": "hprotagonist",
-      "descendants": 5,
-      "id": 30138561,
+      "by": "jkuria",
+      "descendants": 1,
+      "id": 30139971,
       "kids": [
-        30140615,
-        30141489,
-        30140885,
-        30140266,
-        30140936
+        30140729
       ],
-      "score": 21,
-      "time": 1643560439,
-      "title": "24/192 Music Downloads and why they make no sense (2012)",
+      "score": 8,
+      "time": 1643569114,
+      "title": "The UN is testing technology that processes data confidentially",
       "type": "story",
-      "url": "https://web.archive.org/web/20200417180912/https://people.xiph.org/~xiphmont/demo/neil-young.html"
+      "url": "https://www.economist.com/science-and-technology/the-un-is-testing-technology-that-processes-data-confidentially/21807385"
     },
     "og_item": null
-  },
-  {
-    "id": 30141215,
-    "title": "Show HN: BeanHub – A GitHub for Beancount",
-    "url": "https://beanhub.io/",
-    "time": 1643577545,
-    "image": "",
-    "icon": "https://beanhub.io/favicon.ico",
-    "publisher": "beanhub.io",
-    "description": "",
-    "by": "fangpenlin",
-    "points": 9,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "hprotagonist",
-      "descendants": 5,
-      "id": 30138561,
-      "kids": [
-        30140615,
-        30141489,
-        30140885,
-        30140266,
-        30140936
-      ],
-      "score": 21,
-      "time": 1643560439,
-      "title": "24/192 Music Downloads and why they make no sense (2012)",
-      "type": "story",
-      "url": "https://web.archive.org/web/20200417180912/https://people.xiph.org/~xiphmont/demo/neil-young.html"
-    },
-    "og_item": {
-      "title": "\n    BeanHub\n    ",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
   },
   {
     "id": 30111373,
@@ -2231,21 +2283,17 @@
     "points": 63,
     "comment_count": 5,
     "hn_item": {
-      "by": "hprotagonist",
-      "descendants": 5,
-      "id": 30138561,
+      "by": "jkuria",
+      "descendants": 1,
+      "id": 30139971,
       "kids": [
-        30140615,
-        30141489,
-        30140885,
-        30140266,
-        30140936
+        30140729
       ],
-      "score": 21,
-      "time": 1643560439,
-      "title": "24/192 Music Downloads and why they make no sense (2012)",
+      "score": 8,
+      "time": 1643569114,
+      "title": "The UN is testing technology that processes data confidentially",
       "type": "story",
-      "url": "https://web.archive.org/web/20200417180912/https://people.xiph.org/~xiphmont/demo/neil-young.html"
+      "url": "https://www.economist.com/science-and-technology/the-un-is-testing-technology-that-processes-data-confidentially/21807385"
     },
     "og_item": {
       "title": "What is FORGE?",
@@ -2265,6 +2313,48 @@
     }
   },
   {
+    "id": 30141266,
+    "title": "Rpilocator – Find a Raspberry Pi in Stock",
+    "url": "https://rpilocator.com",
+    "time": 1643577841,
+    "image": "",
+    "icon": "https://rpilocator.com/favicon.ico",
+    "publisher": "rpilocator.com",
+    "description": "Find Raspberry Pi computers in stock with this simple to use web application.",
+    "by": "geerlingguy",
+    "points": 8,
+    "comment_count": 2,
+    "hn_item": {
+      "by": "jkuria",
+      "descendants": 1,
+      "id": 30139971,
+      "kids": [
+        30140729
+      ],
+      "score": 8,
+      "time": 1643569114,
+      "title": "The UN is testing technology that processes data confidentially",
+      "type": "story",
+      "url": "https://www.economist.com/science-and-technology/the-un-is-testing-technology-that-processes-data-confidentially/21807385"
+    },
+    "og_item": {
+      "title": "rpilocator",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "Find Raspberry Pi computers in stock with this simple to use web application.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30135758,
     "title": "Uninitialized memory: Unsafe Rust is too hard",
     "url": "https://lucumr.pocoo.org/2022/1/30/unsafe-rust/",
@@ -2277,21 +2367,17 @@
     "points": 98,
     "comment_count": 15,
     "hn_item": {
-      "by": "hprotagonist",
-      "descendants": 5,
-      "id": 30138561,
+      "by": "jkuria",
+      "descendants": 1,
+      "id": 30139971,
       "kids": [
-        30140615,
-        30141489,
-        30140885,
-        30140266,
-        30140936
+        30140729
       ],
-      "score": 21,
-      "time": 1643560439,
-      "title": "24/192 Music Downloads and why they make no sense (2012)",
+      "score": 8,
+      "time": 1643569114,
+      "title": "The UN is testing technology that processes data confidentially",
       "type": "story",
-      "url": "https://web.archive.org/web/20200417180912/https://people.xiph.org/~xiphmont/demo/neil-young.html"
+      "url": "https://www.economist.com/science-and-technology/the-un-is-testing-technology-that-processes-data-confidentially/21807385"
     },
     "og_item": {
       "title": "Uninitialized Memory: Unsafe Rust is Too Hard",
@@ -2323,21 +2409,17 @@
     "points": 107,
     "comment_count": 9,
     "hn_item": {
-      "by": "hprotagonist",
-      "descendants": 5,
-      "id": 30138561,
+      "by": "jkuria",
+      "descendants": 1,
+      "id": 30139971,
       "kids": [
-        30140615,
-        30141489,
-        30140885,
-        30140266,
-        30140936
+        30140729
       ],
-      "score": 21,
-      "time": 1643560439,
-      "title": "24/192 Music Downloads and why they make no sense (2012)",
+      "score": 8,
+      "time": 1643569114,
+      "title": "The UN is testing technology that processes data confidentially",
       "type": "story",
-      "url": "https://web.archive.org/web/20200417180912/https://people.xiph.org/~xiphmont/demo/neil-young.html"
+      "url": "https://www.economist.com/science-and-technology/the-un-is-testing-technology-that-processes-data-confidentially/21807385"
     },
     "og_item": {
       "title": "Devious SQL: Message Queuing Using Native PostgreSQL",
@@ -2366,98 +2448,6 @@
     }
   },
   {
-    "id": 30141426,
-    "title": "Ulysses at 100: The Birth of the Modern",
-    "url": "https://www.ft.com/content/609d5d0d-b666-4af8-af39-82ddaf5f28de",
-    "time": 1643579002,
-    "image": "",
-    "icon": "https://www.ft.com/__origami/service/image/v2/images/raw/ftlogo-v1%3Abrand-ft-logo-square-coloured?source=update-logos\u0026format=svg",
-    "publisher": "ft.com",
-    "description": "News, analysis and comment from the Financial Times, the worldʼs leading global business publication",
-    "by": "kkwteh",
-    "points": 7,
-    "comment_count": 1,
-    "hn_item": {
-      "by": "hprotagonist",
-      "descendants": 5,
-      "id": 30138561,
-      "kids": [
-        30140615,
-        30141489,
-        30140885,
-        30140266,
-        30140936
-      ],
-      "score": 21,
-      "time": 1643560439,
-      "title": "24/192 Music Downloads and why they make no sense (2012)",
-      "type": "story",
-      "url": "https://web.archive.org/web/20200417180912/https://people.xiph.org/~xiphmont/demo/neil-young.html"
-    },
-    "og_item": {
-      "title": "Subscribe to read | Financial Times",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "News, analysis and comment from the Financial Times, the worldʼs leading global business publication",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "https://www.ft.com/__origami/service/image/v2/images/raw/ftlogo-v1%3Abrand-ft-logo-square-coloured?source=update-logos\u0026format=svg"
-      }
-    }
-  },
-  {
-    "id": 30140641,
-    "title": "Mistakes I've Made Building a Music Reactive LED Matrix",
-    "url": "https://aradaelli.com/blog/music-reactive-led-matrix/",
-    "time": 1643573549,
-    "image": "",
-    "icon": "https://aradaelli.com/favicon.ico",
-    "publisher": "aradaelli.com",
-    "description": "",
-    "by": "aradaelli",
-    "points": 9,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "hprotagonist",
-      "descendants": 5,
-      "id": 30138561,
-      "kids": [
-        30140615,
-        30141489,
-        30140885,
-        30140266,
-        30140936
-      ],
-      "score": 21,
-      "time": 1643560439,
-      "title": "24/192 Music Downloads and why they make no sense (2012)",
-      "type": "story",
-      "url": "https://web.archive.org/web/20200417180912/https://people.xiph.org/~xiphmont/demo/neil-young.html"
-    },
-    "og_item": {
-      "title": "\nMusic Reactive Led Matrix – Andrea Radaelli\n",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30111033,
     "title": "Toxic black mold is growing in my brain",
     "url": "https://www.buzzfeednews.com/article/tysonbottenus/black-mold-growing-toxic-brain-vacation",
@@ -2470,21 +2460,17 @@
     "points": 154,
     "comment_count": 8,
     "hn_item": {
-      "by": "hprotagonist",
-      "descendants": 5,
-      "id": 30138561,
+      "by": "jkuria",
+      "descendants": 1,
+      "id": 30139971,
       "kids": [
-        30140615,
-        30141489,
-        30140885,
-        30140266,
-        30140936
+        30140729
       ],
-      "score": 21,
-      "time": 1643560439,
-      "title": "24/192 Music Downloads and why they make no sense (2012)",
+      "score": 8,
+      "time": 1643569114,
+      "title": "The UN is testing technology that processes data confidentially",
       "type": "story",
-      "url": "https://web.archive.org/web/20200417180912/https://people.xiph.org/~xiphmont/demo/neil-young.html"
+      "url": "https://www.economist.com/science-and-technology/the-un-is-testing-technology-that-processes-data-confidentially/21807385"
     },
     "og_item": {
       "title": "Toxic Black Mold Is Growing On My Brain",
@@ -2513,57 +2499,44 @@
     }
   },
   {
-    "id": 30142494,
-    "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
-    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/",
-    "time": 1643586052,
-    "image": "https://www.reuters.com/resizer/nJB_ZidKD76ip6VAQlGhKHf1JI8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PYPUULVDLFI5ZBML3UV35CE4TA.jpg",
-    "icon": "https://www.reuters.com/pf/resources/icons/favicon.ico?d=69",
-    "publisher": "Reuters",
-    "description": "The highly transmissible Omicron variant of the SARS-CoV-2 virus - the most common form of which is known as BA.1 - now accounts for nearly all of the coronavirus infections globally, although dramatic surges in COVID cases have already peaked in some countries.",
-    "by": "lsllc",
-    "points": 4,
+    "id": 30140641,
+    "title": "Mistakes I've Made Building a Music Reactive LED Matrix",
+    "url": "https://aradaelli.com/blog/music-reactive-led-matrix/",
+    "time": 1643573549,
+    "image": "",
+    "icon": "https://aradaelli.com/favicon.ico",
+    "publisher": "aradaelli.com",
+    "description": "",
+    "by": "aradaelli",
+    "points": 9,
     "comment_count": 0,
     "hn_item": {
-      "by": "hprotagonist",
-      "descendants": 5,
-      "id": 30138561,
+      "by": "jkuria",
+      "descendants": 1,
+      "id": 30139971,
       "kids": [
-        30140615,
-        30141489,
-        30140885,
-        30140266,
-        30140936
+        30140729
       ],
-      "score": 21,
-      "time": 1643560439,
-      "title": "24/192 Music Downloads and why they make no sense (2012)",
+      "score": 8,
+      "time": 1643569114,
+      "title": "The UN is testing technology that processes data confidentially",
       "type": "story",
-      "url": "https://web.archive.org/web/20200417180912/https://people.xiph.org/~xiphmont/demo/neil-young.html"
+      "url": "https://www.economist.com/science-and-technology/the-un-is-testing-technology-that-processes-data-confidentially/21807385"
     },
     "og_item": {
-      "title": "Explainer: Scientists on alert over rising cases caused by Omicron cousin BA.2",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://www.reuters.com/resizer/nJB_ZidKD76ip6VAQlGhKHf1JI8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PYPUULVDLFI5ZBML3UV35CE4TA.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/",
+      "title": "\nMusic Reactive Led Matrix – Andrea Radaelli\n",
+      "type": "",
+      "image": [],
+      "url": "",
       "audio": [],
-      "description": "The highly transmissible Omicron variant of the SARS-CoV-2 virus - the most common form of which is known as BA.1 - now accounts for nearly all of the coronavirus infections globally, although dramatic surges in COVID cases have already peaked in some countries.",
+      "description": "",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "Reuters",
+      "site_name": "",
       "video": [],
       "favicon": {
-        "url": "/pf/resources/icons/favicon.ico?d=69"
+        "url": "/favicon.ico"
       }
     }
   },
@@ -2577,24 +2550,20 @@
     "publisher": "AAAS",
     "description": "",
     "by": "tejohnso",
-    "points": 38,
+    "points": 40,
     "comment_count": 7,
     "hn_item": {
-      "by": "hprotagonist",
-      "descendants": 5,
-      "id": 30138561,
+      "by": "jkuria",
+      "descendants": 1,
+      "id": 30139971,
       "kids": [
-        30140615,
-        30141489,
-        30140885,
-        30140266,
-        30140936
+        30140729
       ],
-      "score": 21,
-      "time": 1643560439,
-      "title": "24/192 Music Downloads and why they make no sense (2012)",
+      "score": 8,
+      "time": 1643569114,
+      "title": "The UN is testing technology that processes data confidentially",
       "type": "story",
-      "url": "https://web.archive.org/web/20200417180912/https://people.xiph.org/~xiphmont/demo/neil-young.html"
+      "url": "https://www.economist.com/science-and-technology/the-un-is-testing-technology-that-processes-data-confidentially/21807385"
     },
     "og_item": {
       "title": "Science | AAAS",
@@ -2614,149 +2583,44 @@
     }
   },
   {
-    "id": 30141266,
-    "title": "Rpilocator – Find a Raspberry Pi in Stock",
-    "url": "https://rpilocator.com",
-    "time": 1643577841,
+    "id": 30141426,
+    "title": "Ulysses at 100: The Birth of the Modern",
+    "url": "https://www.ft.com/content/609d5d0d-b666-4af8-af39-82ddaf5f28de",
+    "time": 1643579002,
     "image": "",
-    "icon": "https://rpilocator.com/favicon.ico",
-    "publisher": "rpilocator.com",
-    "description": "Find Raspberry Pi computers in stock with this simple to use web application.",
-    "by": "geerlingguy",
+    "icon": "https://www.ft.com/__origami/service/image/v2/images/raw/ftlogo-v1%3Abrand-ft-logo-square-coloured?source=update-logos\u0026format=svg",
+    "publisher": "ft.com",
+    "description": "News, analysis and comment from the Financial Times, the worldʼs leading global business publication",
+    "by": "kkwteh",
     "points": 7,
-    "comment_count": 2,
+    "comment_count": 1,
     "hn_item": {
-      "by": "hprotagonist",
-      "descendants": 5,
-      "id": 30138561,
+      "by": "jkuria",
+      "descendants": 1,
+      "id": 30139971,
       "kids": [
-        30140615,
-        30141489,
-        30140885,
-        30140266,
-        30140936
+        30140729
       ],
-      "score": 21,
-      "time": 1643560439,
-      "title": "24/192 Music Downloads and why they make no sense (2012)",
+      "score": 8,
+      "time": 1643569114,
+      "title": "The UN is testing technology that processes data confidentially",
       "type": "story",
-      "url": "https://web.archive.org/web/20200417180912/https://people.xiph.org/~xiphmont/demo/neil-young.html"
+      "url": "https://www.economist.com/science-and-technology/the-un-is-testing-technology-that-processes-data-confidentially/21807385"
     },
     "og_item": {
-      "title": "rpilocator",
+      "title": "Subscribe to read | Financial Times",
       "type": "",
       "image": [],
       "url": "",
       "audio": [],
-      "description": "Find Raspberry Pi computers in stock with this simple to use web application.",
+      "description": "News, analysis and comment from the Financial Times, the worldʼs leading global business publication",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
       "site_name": "",
       "video": [],
       "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30141380,
-    "title": "On literally working with COVID-19",
-    "url": "https://drlaurenserino.substack.com/p/on-literally-working-with-covid-19",
-    "time": 1643578644,
-    "image": "",
-    "icon": "https://cdn.substack.com/icons/substack/favicon-32x32.png",
-    "publisher": "drlaurenserino.substack.com",
-    "description": "Why are doctors being told to come to work while sick with COVID?",
-    "by": "Disgruntled_Doc",
-    "points": 13,
-    "comment_count": 2,
-    "hn_item": {
-      "by": "hprotagonist",
-      "descendants": 5,
-      "id": 30138561,
-      "kids": [
-        30140615,
-        30141489,
-        30140885,
-        30140266,
-        30140936
-      ],
-      "score": 21,
-      "time": 1643560439,
-      "title": "24/192 Music Downloads and why they make no sense (2012)",
-      "type": "story",
-      "url": "https://web.archive.org/web/20200417180912/https://people.xiph.org/~xiphmont/demo/neil-young.html"
-    },
-    "og_item": {
-      "title": "On literally working with COVID-19",
-      "type": "article",
-      "image": [],
-      "url": "https://drlaurenserino.substack.com/p/on-literally-working-with-covid-19",
-      "audio": [],
-      "description": "Why are doctors being told to come to work while sick with COVID?",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "https://cdn.substack.com/icons/substack/favicon-32x32.png"
-      }
-    }
-  },
-  {
-    "id": 30141918,
-    "title": "Tesla now monitors how often you adjust your seat position",
-    "url": "https://driveteslacanada.ca/news/tesla-now-monitors-how-often-you-adjust-your-seat-position-and-will-disable-controls-for-chronic-abusers/",
-    "time": 1643582008,
-    "image": "https://driveteslacanada.ca/wp-content/uploads/2021/04/0x0-Model3_14-scaled.jpg",
-    "icon": "https://driveteslacanada.ca/wp-content/uploads/2020/08/cropped-DTC-favico-1-192x192.png",
-    "publisher": "Drive Tesla",
-    "description": "Tesla often takes advantage of the connected nature of their cars for good. They have warned owners of potential problems with their cars, or notified them to limit charging to help ease pressure on the [...]",
-    "by": "rootusrootus",
-    "points": 12,
-    "comment_count": 1,
-    "hn_item": {
-      "by": "hprotagonist",
-      "descendants": 5,
-      "id": 30138561,
-      "kids": [
-        30140615,
-        30141489,
-        30140885,
-        30140266,
-        30140936
-      ],
-      "score": 21,
-      "time": 1643560439,
-      "title": "24/192 Music Downloads and why they make no sense (2012)",
-      "type": "story",
-      "url": "https://web.archive.org/web/20200417180912/https://people.xiph.org/~xiphmont/demo/neil-young.html"
-    },
-    "og_item": {
-      "title": "Tesla now monitors how often you adjust your seat position and will disable controls for 'chronic abusers'",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://driveteslacanada.ca/wp-content/uploads/2021/04/0x0-Model3_14-scaled.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 2560,
-          "height": 1707,
-          "alt": ""
-        }
-      ],
-      "url": "https://driveteslacanada.ca/news/tesla-now-monitors-how-often-you-adjust-your-seat-position-and-will-disable-controls-for-chronic-abusers/",
-      "audio": [],
-      "description": "Tesla often takes advantage of the connected nature of their cars for good. They have warned owners of potential problems with their cars, or notified them to limit charging to help ease pressure on the [...]",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Drive Tesla",
-      "video": [],
-      "favicon": {
-        "url": "https://driveteslacanada.ca/wp-content/uploads/2020/08/cropped-DTC-favico-1-192x192.png"
+        "url": "https://www.ft.com/__origami/service/image/v2/images/raw/ftlogo-v1%3Abrand-ft-logo-square-coloured?source=update-logos\u0026format=svg"
       }
     }
   },
@@ -2773,21 +2637,17 @@
     "points": 254,
     "comment_count": 32,
     "hn_item": {
-      "by": "hprotagonist",
-      "descendants": 5,
-      "id": 30138561,
+      "by": "jkuria",
+      "descendants": 1,
+      "id": 30139971,
       "kids": [
-        30140615,
-        30141489,
-        30140885,
-        30140266,
-        30140936
+        30140729
       ],
-      "score": 21,
-      "time": 1643560439,
-      "title": "24/192 Music Downloads and why they make no sense (2012)",
+      "score": 8,
+      "time": 1643569114,
+      "title": "The UN is testing technology that processes data confidentially",
       "type": "story",
-      "url": "https://web.archive.org/web/20200417180912/https://people.xiph.org/~xiphmont/demo/neil-young.html"
+      "url": "https://www.economist.com/science-and-technology/the-un-is-testing-technology-that-processes-data-confidentially/21807385"
     },
     "og_item": {
       "title": "John Locke’s recipe for Pancakes",
@@ -2828,21 +2688,17 @@
     "points": 21,
     "comment_count": 0,
     "hn_item": {
-      "by": "hprotagonist",
-      "descendants": 5,
-      "id": 30138561,
+      "by": "jkuria",
+      "descendants": 1,
+      "id": 30139971,
       "kids": [
-        30140615,
-        30141489,
-        30140885,
-        30140266,
-        30140936
+        30140729
       ],
-      "score": 21,
-      "time": 1643560439,
-      "title": "24/192 Music Downloads and why they make no sense (2012)",
+      "score": 8,
+      "time": 1643569114,
+      "title": "The UN is testing technology that processes data confidentially",
       "type": "story",
-      "url": "https://web.archive.org/web/20200417180912/https://people.xiph.org/~xiphmont/demo/neil-young.html"
+      "url": "https://www.economist.com/science-and-technology/the-un-is-testing-technology-that-processes-data-confidentially/21807385"
     },
     "og_item": {
       "title": "oss-security - Fun with DBM-type databases...",
@@ -2874,21 +2730,17 @@
     "points": 92,
     "comment_count": 10,
     "hn_item": {
-      "by": "hprotagonist",
-      "descendants": 5,
-      "id": 30138561,
+      "by": "jkuria",
+      "descendants": 1,
+      "id": 30139971,
       "kids": [
-        30140615,
-        30141489,
-        30140885,
-        30140266,
-        30140936
+        30140729
       ],
-      "score": 21,
-      "time": 1643560439,
-      "title": "24/192 Music Downloads and why they make no sense (2012)",
+      "score": 8,
+      "time": 1643569114,
+      "title": "The UN is testing technology that processes data confidentially",
       "type": "story",
-      "url": "https://web.archive.org/web/20200417180912/https://people.xiph.org/~xiphmont/demo/neil-young.html"
+      "url": "https://www.economist.com/science-and-technology/the-un-is-testing-technology-that-processes-data-confidentially/21807385"
     },
     "og_item": {
       "title": "Unredacted Word",
@@ -2917,6 +2769,141 @@
     }
   },
   {
+    "id": 30141380,
+    "title": "On literally working with COVID-19",
+    "url": "https://drlaurenserino.substack.com/p/on-literally-working-with-covid-19",
+    "time": 1643578644,
+    "image": "",
+    "icon": "https://cdn.substack.com/icons/substack/favicon-32x32.png",
+    "publisher": "drlaurenserino.substack.com",
+    "description": "Why are doctors being told to come to work while sick with COVID?",
+    "by": "Disgruntled_Doc",
+    "points": 13,
+    "comment_count": 2,
+    "hn_item": {
+      "by": "jkuria",
+      "descendants": 1,
+      "id": 30139971,
+      "kids": [
+        30140729
+      ],
+      "score": 8,
+      "time": 1643569114,
+      "title": "The UN is testing technology that processes data confidentially",
+      "type": "story",
+      "url": "https://www.economist.com/science-and-technology/the-un-is-testing-technology-that-processes-data-confidentially/21807385"
+    },
+    "og_item": {
+      "title": "On literally working with COVID-19",
+      "type": "article",
+      "image": [],
+      "url": "https://drlaurenserino.substack.com/p/on-literally-working-with-covid-19",
+      "audio": [],
+      "description": "Why are doctors being told to come to work while sick with COVID?",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "https://cdn.substack.com/icons/substack/favicon-32x32.png"
+      }
+    }
+  },
+  {
+    "id": 30141918,
+    "title": "Tesla now monitors how often you adjust your seat position",
+    "url": "https://driveteslacanada.ca/news/tesla-now-monitors-how-often-you-adjust-your-seat-position-and-will-disable-controls-for-chronic-abusers/",
+    "time": 1643582008,
+    "image": "https://driveteslacanada.ca/wp-content/uploads/2021/04/0x0-Model3_14-scaled.jpg",
+    "icon": "https://driveteslacanada.ca/wp-content/uploads/2020/08/cropped-DTC-favico-1-192x192.png",
+    "publisher": "Drive Tesla",
+    "description": "Tesla often takes advantage of the connected nature of their cars for good. They have warned owners of potential problems with their cars, or notified them to limit charging to help ease pressure on the [...]",
+    "by": "rootusrootus",
+    "points": 12,
+    "comment_count": 1,
+    "hn_item": {
+      "by": "jkuria",
+      "descendants": 1,
+      "id": 30139971,
+      "kids": [
+        30140729
+      ],
+      "score": 8,
+      "time": 1643569114,
+      "title": "The UN is testing technology that processes data confidentially",
+      "type": "story",
+      "url": "https://www.economist.com/science-and-technology/the-un-is-testing-technology-that-processes-data-confidentially/21807385"
+    },
+    "og_item": {
+      "title": "Tesla now monitors how often you adjust your seat position and will disable controls for 'chronic abusers'",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://driveteslacanada.ca/wp-content/uploads/2021/04/0x0-Model3_14-scaled.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 2560,
+          "height": 1707,
+          "alt": ""
+        }
+      ],
+      "url": "https://driveteslacanada.ca/news/tesla-now-monitors-how-often-you-adjust-your-seat-position-and-will-disable-controls-for-chronic-abusers/",
+      "audio": [],
+      "description": "Tesla often takes advantage of the connected nature of their cars for good. They have warned owners of potential problems with their cars, or notified them to limit charging to help ease pressure on the [...]",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Drive Tesla",
+      "video": [],
+      "favicon": {
+        "url": "https://driveteslacanada.ca/wp-content/uploads/2020/08/cropped-DTC-favico-1-192x192.png"
+      }
+    }
+  },
+  {
+    "id": 30128627,
+    "title": "Tech debt gets worse before it gets better",
+    "url": "https://jeremymikkola.com/posts/2022_01_29_tech_debt_gets_worse_before_it_gets_beffer.html",
+    "time": 1643479251,
+    "image": "",
+    "icon": "https://jeremymikkola.com/favicon.ico",
+    "publisher": "jeremymikkola.com",
+    "description": "",
+    "by": "piinbinary",
+    "points": 124,
+    "comment_count": 12,
+    "hn_item": {
+      "by": "jkuria",
+      "descendants": 1,
+      "id": 30139971,
+      "kids": [
+        30140729
+      ],
+      "score": 8,
+      "time": 1643569114,
+      "title": "The UN is testing technology that processes data confidentially",
+      "type": "story",
+      "url": "https://www.economist.com/science-and-technology/the-un-is-testing-technology-that-processes-data-confidentially/21807385"
+    },
+    "og_item": {
+      "title": "Jeremy Mikkola - Tech debt gets worse before it gets better",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30139637,
     "title": "Show HN: I reverse engineered and documented United Airlines in flight API",
     "url": "https://github.com/greatjack1/United-In-Flight-Api",
@@ -2929,21 +2916,17 @@
     "points": 15,
     "comment_count": 2,
     "hn_item": {
-      "by": "hprotagonist",
-      "descendants": 5,
-      "id": 30138561,
+      "by": "jkuria",
+      "descendants": 1,
+      "id": 30139971,
       "kids": [
-        30140615,
-        30141489,
-        30140885,
-        30140266,
-        30140936
+        30140729
       ],
-      "score": 21,
-      "time": 1643560439,
-      "title": "24/192 Music Downloads and why they make no sense (2012)",
+      "score": 8,
+      "time": 1643569114,
+      "title": "The UN is testing technology that processes data confidentially",
       "type": "story",
-      "url": "https://web.archive.org/web/20200417180912/https://people.xiph.org/~xiphmont/demo/neil-young.html"
+      "url": "https://www.economist.com/science-and-technology/the-un-is-testing-technology-that-processes-data-confidentially/21807385"
     },
     "og_item": {
       "title": "GitHub - greatjack1/United-In-Flight-Api: Postman collection for United's internal in-flight wifi api",
@@ -2972,52 +2955,6 @@
     }
   },
   {
-    "id": 30128627,
-    "title": "Tech debt gets worse before it gets better",
-    "url": "https://jeremymikkola.com/posts/2022_01_29_tech_debt_gets_worse_before_it_gets_beffer.html",
-    "time": 1643479251,
-    "image": "",
-    "icon": "https://jeremymikkola.com/favicon.ico",
-    "publisher": "jeremymikkola.com",
-    "description": "",
-    "by": "piinbinary",
-    "points": 124,
-    "comment_count": 12,
-    "hn_item": {
-      "by": "hprotagonist",
-      "descendants": 5,
-      "id": 30138561,
-      "kids": [
-        30140615,
-        30141489,
-        30140885,
-        30140266,
-        30140936
-      ],
-      "score": 21,
-      "time": 1643560439,
-      "title": "24/192 Music Downloads and why they make no sense (2012)",
-      "type": "story",
-      "url": "https://web.archive.org/web/20200417180912/https://people.xiph.org/~xiphmont/demo/neil-young.html"
-    },
-    "og_item": {
-      "title": "Jeremy Mikkola - Tech debt gets worse before it gets better",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30125730,
     "title": "How Amiga 500 RAM Probably Works",
     "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs",
@@ -3030,21 +2967,17 @@
     "points": 50,
     "comment_count": 6,
     "hn_item": {
-      "by": "hprotagonist",
-      "descendants": 5,
-      "id": 30138561,
+      "by": "jkuria",
+      "descendants": 1,
+      "id": 30139971,
       "kids": [
-        30140615,
-        30141489,
-        30140885,
-        30140266,
-        30140936
+        30140729
       ],
-      "score": 21,
-      "time": 1643560439,
-      "title": "24/192 Music Downloads and why they make no sense (2012)",
+      "score": 8,
+      "time": 1643569114,
+      "title": "The UN is testing technology that processes data confidentially",
       "type": "story",
-      "url": "https://web.archive.org/web/20200417180912/https://people.xiph.org/~xiphmont/demo/neil-young.html"
+      "url": "https://www.economist.com/science-and-technology/the-un-is-testing-technology-that-processes-data-confidentially/21807385"
     },
     "og_item": {
       "title": "How Amiga 500 RAM Probably Works | How Things Probably Work",
@@ -3094,21 +3027,17 @@
     "points": 28,
     "comment_count": 4,
     "hn_item": {
-      "by": "hprotagonist",
-      "descendants": 5,
-      "id": 30138561,
+      "by": "jkuria",
+      "descendants": 1,
+      "id": 30139971,
       "kids": [
-        30140615,
-        30141489,
-        30140885,
-        30140266,
-        30140936
+        30140729
       ],
-      "score": 21,
-      "time": 1643560439,
-      "title": "24/192 Music Downloads and why they make no sense (2012)",
+      "score": 8,
+      "time": 1643569114,
+      "title": "The UN is testing technology that processes data confidentially",
       "type": "story",
-      "url": "https://web.archive.org/web/20200417180912/https://people.xiph.org/~xiphmont/demo/neil-young.html"
+      "url": "https://www.economist.com/science-and-technology/the-un-is-testing-technology-that-processes-data-confidentially/21807385"
     },
     "og_item": {
       "title": "In defense of NIR",
@@ -3140,21 +3069,17 @@
     "points": 23,
     "comment_count": 2,
     "hn_item": {
-      "by": "hprotagonist",
-      "descendants": 5,
-      "id": 30138561,
+      "by": "jkuria",
+      "descendants": 1,
+      "id": 30139971,
       "kids": [
-        30140615,
-        30141489,
-        30140885,
-        30140266,
-        30140936
+        30140729
       ],
-      "score": 21,
-      "time": 1643560439,
-      "title": "24/192 Music Downloads and why they make no sense (2012)",
+      "score": 8,
+      "time": 1643569114,
+      "title": "The UN is testing technology that processes data confidentially",
       "type": "story",
-      "url": "https://web.archive.org/web/20200417180912/https://people.xiph.org/~xiphmont/demo/neil-young.html"
+      "url": "https://www.economist.com/science-and-technology/the-un-is-testing-technology-that-processes-data-confidentially/21807385"
     },
     "og_item": {
       "title": "GitHub - hasherezade/hollows_hunter: Scans all running processes. Recognizes and dumps a variety of potentially malicious implants (replaced/implanted PEs, shellcodes, hooks, in-memory patches).",
@@ -3195,21 +3120,17 @@
     "points": 26,
     "comment_count": 3,
     "hn_item": {
-      "by": "hprotagonist",
-      "descendants": 5,
-      "id": 30138561,
+      "by": "jkuria",
+      "descendants": 1,
+      "id": 30139971,
       "kids": [
-        30140615,
-        30141489,
-        30140885,
-        30140266,
-        30140936
+        30140729
       ],
-      "score": 21,
-      "time": 1643560439,
-      "title": "24/192 Music Downloads and why they make no sense (2012)",
+      "score": 8,
+      "time": 1643569114,
+      "title": "The UN is testing technology that processes data confidentially",
       "type": "story",
-      "url": "https://web.archive.org/web/20200417180912/https://people.xiph.org/~xiphmont/demo/neil-young.html"
+      "url": "https://www.economist.com/science-and-technology/the-un-is-testing-technology-that-processes-data-confidentially/21807385"
     },
     "og_item": {
       "title": "Too Many Requests",
@@ -3229,61 +3150,6 @@
     }
   },
   {
-    "id": 30141205,
-    "title": "The Promise of Hierarchical Reinforcement Learning (2019)",
-    "url": "https://thegradient.pub/the-promise-of-hierarchical-reinforcement-learning/",
-    "time": 1643577464,
-    "image": "https://thegradient.pub/content/images/2019/03/photo-1502101872923-d48509bff386.jpeg",
-    "icon": "https://thegradient.pub/favicon.png",
-    "publisher": "The Gradient",
-    "description": "This idea of temporal abstraction, once incorporated into reinforcement learning (RL), converts it into *hierarchical* reinforcement learning (HRL).",
-    "by": "beefman",
-    "points": 6,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "hprotagonist",
-      "descendants": 5,
-      "id": 30138561,
-      "kids": [
-        30140615,
-        30141489,
-        30140885,
-        30140266,
-        30140936
-      ],
-      "score": 21,
-      "time": 1643560439,
-      "title": "24/192 Music Downloads and why they make no sense (2012)",
-      "type": "story",
-      "url": "https://web.archive.org/web/20200417180912/https://people.xiph.org/~xiphmont/demo/neil-young.html"
-    },
-    "og_item": {
-      "title": "The Promise of Hierarchical Reinforcement Learning",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://thegradient.pub/content/images/2019/03/photo-1502101872923-d48509bff386.jpeg",
-          "secure_url": "",
-          "type": "",
-          "width": 1489,
-          "height": 838,
-          "alt": ""
-        }
-      ],
-      "url": "https://thegradient.pub/the-promise-of-hierarchical-reinforcement-learning/",
-      "audio": [],
-      "description": "This idea of temporal abstraction, once incorporated into reinforcement learning (RL), converts it into *hierarchical* reinforcement learning (HRL).",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "The Gradient",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.png"
-      }
-    }
-  },
-  {
     "id": 30140593,
     "title": "Apple removes Grindr from the Chinese app store",
     "url": "https://applecensorship.com/app-store-monitor/",
@@ -3293,24 +3159,20 @@
     "publisher": "applecensorship.com",
     "description": "",
     "by": "cryoz",
-    "points": 38,
+    "points": 39,
     "comment_count": 9,
     "hn_item": {
-      "by": "hprotagonist",
-      "descendants": 5,
-      "id": 30138561,
+      "by": "jkuria",
+      "descendants": 1,
+      "id": 30139971,
       "kids": [
-        30140615,
-        30141489,
-        30140885,
-        30140266,
-        30140936
+        30140729
       ],
-      "score": 21,
-      "time": 1643560439,
-      "title": "24/192 Music Downloads and why they make no sense (2012)",
+      "score": 8,
+      "time": 1643569114,
+      "title": "The UN is testing technology that processes data confidentially",
       "type": "story",
-      "url": "https://web.archive.org/web/20200417180912/https://people.xiph.org/~xiphmont/demo/neil-young.html"
+      "url": "https://www.economist.com/science-and-technology/the-un-is-testing-technology-that-processes-data-confidentially/21807385"
     },
     "og_item": {
       "title": "App Store Monitor – Apple Censorship",
@@ -3342,21 +3204,17 @@
     "points": 8,
     "comment_count": 1,
     "hn_item": {
-      "by": "hprotagonist",
-      "descendants": 5,
-      "id": 30138561,
+      "by": "jkuria",
+      "descendants": 1,
+      "id": 30139971,
       "kids": [
-        30140615,
-        30141489,
-        30140885,
-        30140266,
-        30140936
+        30140729
       ],
-      "score": 21,
-      "time": 1643560439,
-      "title": "24/192 Music Downloads and why they make no sense (2012)",
+      "score": 8,
+      "time": 1643569114,
+      "title": "The UN is testing technology that processes data confidentially",
       "type": "story",
-      "url": "https://web.archive.org/web/20200417180912/https://people.xiph.org/~xiphmont/demo/neil-young.html"
+      "url": "https://www.economist.com/science-and-technology/the-un-is-testing-technology-that-processes-data-confidentially/21807385"
     },
     "og_item": {
       "title": "The UN is testing technology that processes data confidentially",
@@ -3381,153 +3239,6 @@
       "video": [],
       "favicon": {
         "url": "/engassets/ico/favicon.f1ea908894.ico"
-      }
-    }
-  },
-  {
-    "id": 30136479,
-    "title": "Socrates on the blessing of being refuted",
-    "url": "https://antigonejournal.com/2022/01/socrates-being-refuted/",
-    "time": 1643545027,
-    "image": "https://antigonejournal.com/wp-content/uploads/2022/01/HWDrops.png",
-    "icon": "https://i0.wp.com/antigonejournal.com/wp-content/uploads/2021/03/cropped-Ant.png?fit=192%2C192\u0026ssl=1",
-    "publisher": "Antigone",
-    "description": "ANDREW BEER The genuine pleasure of yielding to better arguments.",
-    "by": "AverilS",
-    "points": 13,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "hprotagonist",
-      "descendants": 5,
-      "id": 30138561,
-      "kids": [
-        30140615,
-        30141489,
-        30140885,
-        30140266,
-        30140936
-      ],
-      "score": 21,
-      "time": 1643560439,
-      "title": "24/192 Music Downloads and why they make no sense (2012)",
-      "type": "story",
-      "url": "https://web.archive.org/web/20200417180912/https://people.xiph.org/~xiphmont/demo/neil-young.html"
-    },
-    "og_item": {
-      "title": "Socrates on the Blessing of Being Refuted - Antigone",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://antigonejournal.com/wp-content/uploads/2022/01/HWDrops.png",
-          "secure_url": "",
-          "type": "",
-          "width": 1049,
-          "height": 539,
-          "alt": ""
-        }
-      ],
-      "url": "https://antigonejournal.com/2022/01/socrates-being-refuted/",
-      "audio": [],
-      "description": "ANDREW BEER The genuine pleasure of yielding to better arguments.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Antigone",
-      "video": [],
-      "favicon": {
-        "url": "https://i0.wp.com/antigonejournal.com/wp-content/uploads/2021/03/cropped-Ant.png?fit=192%2C192\u0026ssl=1"
-      }
-    }
-  },
-  {
-    "id": 30124569,
-    "title": "Dennis Ritchie Home Page (2006)",
-    "url": "https://www.bell-labs.com/usr/dmr/www/",
-    "time": 1643442151,
-    "image": "",
-    "icon": "https://www.bell-labs.com/favicon.ico",
-    "publisher": "bell-labs.com",
-    "description": "",
-    "by": "mehdix",
-    "points": 207,
-    "comment_count": 18,
-    "hn_item": {
-      "by": "hprotagonist",
-      "descendants": 5,
-      "id": 30138561,
-      "kids": [
-        30140615,
-        30141489,
-        30140885,
-        30140266,
-        30140936
-      ],
-      "score": 21,
-      "time": 1643560439,
-      "title": "24/192 Music Downloads and why they make no sense (2012)",
-      "type": "story",
-      "url": "https://web.archive.org/web/20200417180912/https://people.xiph.org/~xiphmont/demo/neil-young.html"
-    },
-    "og_item": {
-      "title": "Dennis Ritchie Home Page",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30138561,
-    "title": "24/192 Music Downloads and why they make no sense (2012)",
-    "url": "https://web.archive.org/web/20200417180912/https://people.xiph.org/~xiphmont/demo/neil-young.html",
-    "time": 1643560439,
-    "image": "",
-    "icon": "https://web.archive.org/web/20200417180912im_/https://xiph.org/images/logos/xiph.ico",
-    "publisher": "web.archive.org",
-    "description": "",
-    "by": "hprotagonist",
-    "points": 21,
-    "comment_count": 5,
-    "hn_item": {
-      "by": "hprotagonist",
-      "descendants": 5,
-      "id": 30138561,
-      "kids": [
-        30140615,
-        30141489,
-        30140885,
-        30140266,
-        30140936
-      ],
-      "score": 21,
-      "time": 1643560439,
-      "title": "24/192 Music Downloads and why they make no sense (2012)",
-      "type": "story",
-      "url": "https://web.archive.org/web/20200417180912/https://people.xiph.org/~xiphmont/demo/neil-young.html"
-    },
-    "og_item": {
-      "title": "24/192 Music Downloads are Very Silly Indeed",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "//web.archive.org/web/20200417180912im_/https://xiph.org/images/logos/xiph.ico"
       }
     }
   }
