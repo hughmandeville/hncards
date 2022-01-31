@@ -1,10 +1,8 @@
-# Hacker News Alternative UI
+# Hacker News Cards: An Alternative UI
 
-This project contains an unofficial [alternative web UI](https://hncards.com) for [Hacker News](https://news.ycombinator.com/).
+<https://hncards.com/> is an unofficial alternative web UI for [Hacker News](https://news.ycombinator.com/).
 
-<https://hncards.com/>
-
-[![Hacker News](hnui-ss.png)](https://hughmandeville.github.io/hnui)
+[![Hacker News](hnui-ss.png)](https://hncards.com/)
 
 ## Overview
 
@@ -14,7 +12,9 @@ The Go script gets the top stories from the [Hacker News API](https://github.com
 
 ## GitHub Pages
 
-Run `make gh-deploy` to deploy the React app to [GitHub Pages](https://pages.github.com).
+This GitHub repo has GitHub Pages [setup with the custom domain](https://github.com/hughmandeville/hnui/settings/pages) hncard.com which is managed by [Google Domains](https://domains.google.com/registrar/hncards.com/dns).
+
+Run `make gh-deploy` to deploy the React app to GitHub Pages.
 
 ```sh
 make gh-deploy
