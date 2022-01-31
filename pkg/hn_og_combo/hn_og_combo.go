@@ -76,7 +76,7 @@ func GetTopStories(numStories int, verbose bool) (items []Item, err error) {
 			Time:         hi.Time,
 			By:           hi.By,
 			Points:       hi.Score,
-			CommentCount: len(hi.Kids),
+			CommentCount: hi.Descendants,
 			HNItem:       &hi,
 		}
 		time.Sleep(100 * time.Millisecond)
