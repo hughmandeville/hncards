@@ -1,5 +1,56 @@
 [
   {
+    "id": 30146505,
+    "title": "Wokeademia",
+    "url": "https://johnhcochrane.blogspot.com/2020/01/wokeademia.html",
+    "time": 1643624509,
+    "image": "https://1.bp.blogspot.com/-PGegYolMXoA/XjH-__gMeTI/AAAAAAAACq0/blNGOgDJe20blxfDiaIA2ez_8HR87zeHgCLcBGAsYHQ/w1200-h630-p-k-no-nu/Screen%2BShot%2B2020-01-29%2Bat%2B1.53.34%2BPM.png",
+    "icon": "https://johnhcochrane.blogspot.com/favicon.ico",
+    "publisher": "johnhcochrane.blogspot.com",
+    "description": "",
+    "by": "kkwteh",
+    "points": 23,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "_wldu",
+      "descendants": 2,
+      "id": 30142896,
+      "kids": [
+        30144335
+      ],
+      "score": 15,
+      "time": 1643589180,
+      "title": "Decrypt an encrypted message to any plaintext",
+      "type": "story",
+      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts"
+    },
+    "og_item": {
+      "title": "Wokeademia",
+      "type": "",
+      "image": [
+        {
+          "url": "https://1.bp.blogspot.com/-PGegYolMXoA/XjH-__gMeTI/AAAAAAAACq0/blNGOgDJe20blxfDiaIA2ez_8HR87zeHgCLcBGAsYHQ/w1200-h630-p-k-no-nu/Screen%2BShot%2B2020-01-29%2Bat%2B1.53.34%2BPM.png",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://johnhcochrane.blogspot.com/2020/01/wokeademia.html",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "https://johnhcochrane.blogspot.com/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30146052,
     "title": "The Awk State Machine Parser Pattern (2018)",
     "url": "https://two-wrongs.com/awk-state-machine-parser-pattern.html",
@@ -9,21 +60,20 @@
     "publisher": "two-wrongs.com",
     "description": "",
     "by": "Tomte",
-    "points": 32,
+    "points": 38,
     "comment_count": 1,
     "hn_item": {
-      "by": "phoe-krk",
+      "by": "_wldu",
       "descendants": 2,
-      "id": 30129565,
+      "id": 30142896,
       "kids": [
-        30130272,
-        30129721
+        30144335
       ],
-      "score": 11,
-      "time": 1643484611,
-      "title": "Static-Let, or how I Learned to stop worrying and love Load-Time-Value",
+      "score": 15,
+      "time": 1643589180,
+      "title": "Decrypt an encrypted message to any plaintext",
       "type": "story",
-      "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md"
+      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts"
     },
     "og_item": {
       "title": "The AWK State Machine Parser Pattern",
@@ -52,21 +102,20 @@
     "publisher": "royalsociety.org",
     "description": "The Online Information Environment report discusses how to limit the harm of scientific misinformation online",
     "by": "steelstraw",
-    "points": 812,
+    "points": 819,
     "comment_count": 54,
     "hn_item": {
-      "by": "phoe-krk",
+      "by": "_wldu",
       "descendants": 2,
-      "id": 30129565,
+      "id": 30142896,
       "kids": [
-        30130272,
-        30129721
+        30144335
       ],
-      "score": 11,
-      "time": 1643484611,
-      "title": "Static-Let, or how I Learned to stop worrying and love Load-Time-Value",
+      "score": 15,
+      "time": 1643589180,
+      "title": "Decrypt an encrypted message to any plaintext",
       "type": "story",
-      "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md"
+      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts"
     },
     "og_item": {
       "title": "Royal Society cautions against censorship of scientific misinformation online | Royal Society",
@@ -104,21 +153,20 @@
     "publisher": "lwn.net",
     "description": "",
     "by": "pabs3",
-    "points": 128,
+    "points": 129,
     "comment_count": 5,
     "hn_item": {
-      "by": "phoe-krk",
+      "by": "_wldu",
       "descendants": 2,
-      "id": 30129565,
+      "id": 30142896,
       "kids": [
-        30130272,
-        30129721
+        30144335
       ],
-      "score": 11,
-      "time": 1643484611,
-      "title": "Static-Let, or how I Learned to stop worrying and love Load-Time-Value",
+      "score": 15,
+      "time": 1643589180,
+      "title": "Decrypt an encrypted message to any plaintext",
       "type": "story",
-      "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md"
+      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts"
     },
     "og_item": {
       "title": "Zero-copy network transmission with io_uring [LWN.net]",
@@ -138,6 +186,48 @@
     }
   },
   {
+    "id": 30114822,
+    "title": "Async Rust: Panics vs. Cancellation",
+    "url": "https://smallcultfollowing.com/babysteps//blog/2022/01/27/panics-vs-cancellation-part-1/",
+    "time": 1643379403,
+    "image": "",
+    "icon": "https://smallcultfollowing.com/favicon.ico",
+    "publisher": "smallcultfollowing.com",
+    "description": "",
+    "by": "ingve",
+    "points": 30,
+    "comment_count": 1,
+    "hn_item": {
+      "by": "_wldu",
+      "descendants": 2,
+      "id": 30142896,
+      "kids": [
+        30144335
+      ],
+      "score": 15,
+      "time": 1643589180,
+      "title": "Decrypt an encrypted message to any plaintext",
+      "type": "story",
+      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts"
+    },
+    "og_item": {
+      "title": "Baby Steps",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30144805,
     "title": "Examples of common false beliefs in mathematics",
     "url": "https://mathoverflow.net/questions/23478/examples-of-common-false-beliefs-in-mathematics",
@@ -147,21 +237,20 @@
     "publisher": "MathOverflow",
     "description": "The first thing to say is that this is not the same as the question about interesting mathematical mistakes. I am interested about the type of false beliefs that many intelligent people have while ...",
     "by": "gballan",
-    "points": 99,
-    "comment_count": 9,
+    "points": 105,
+    "comment_count": 10,
     "hn_item": {
-      "by": "phoe-krk",
+      "by": "_wldu",
       "descendants": 2,
-      "id": 30129565,
+      "id": 30142896,
       "kids": [
-        30130272,
-        30129721
+        30144335
       ],
-      "score": 11,
-      "time": 1643484611,
-      "title": "Static-Let, or how I Learned to stop worrying and love Load-Time-Value",
+      "score": 15,
+      "time": 1643589180,
+      "title": "Decrypt an encrypted message to any plaintext",
       "type": "story",
-      "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md"
+      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts"
     },
     "og_item": {
       "title": "Examples of common false beliefs in mathematics",
@@ -190,80 +279,36 @@
     }
   },
   {
-    "id": 30114822,
-    "title": "Async Rust: Panics vs. Cancellation",
-    "url": "https://smallcultfollowing.com/babysteps//blog/2022/01/27/panics-vs-cancellation-part-1/",
-    "time": 1643379403,
-    "image": "",
-    "icon": "https://smallcultfollowing.com/favicon.ico",
-    "publisher": "smallcultfollowing.com",
-    "description": "",
-    "by": "ingve",
-    "points": 25,
-    "comment_count": 1,
-    "hn_item": {
-      "by": "phoe-krk",
-      "descendants": 2,
-      "id": 30129565,
-      "kids": [
-        30130272,
-        30129721
-      ],
-      "score": 11,
-      "time": 1643484611,
-      "title": "Static-Let, or how I Learned to stop worrying and love Load-Time-Value",
-      "type": "story",
-      "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md"
-    },
-    "og_item": {
-      "title": "Baby Steps",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30146019,
     "title": "Boyfriend Alert",
     "url": "https://github.com/jscd/Boyfriend-Alert",
     "time": 1643619852,
-    "image": "https://opengraph.githubassets.com/c1362c20e8dbd89a752e0b153fc3c822d221a564eb3de0d1a3af8c87b8d458c6/jscd/Boyfriend-Alert",
+    "image": "https://opengraph.githubassets.com/5420ad7ecfc0fa7dbd215c484d899ea688cff6f2122b2940e79d5298bffdf570/jscd/Boyfriend-Alert",
     "icon": "https://github.githubassets.com/favicons/favicon.svg",
     "publisher": "GitHub",
     "description": "A light based alert system. Contribute to jscd/Boyfriend-Alert development by creating an account on GitHub.",
     "by": "rgun",
-    "points": 25,
-    "comment_count": 6,
+    "points": 29,
+    "comment_count": 8,
     "hn_item": {
-      "by": "phoe-krk",
+      "by": "_wldu",
       "descendants": 2,
-      "id": 30129565,
+      "id": 30142896,
       "kids": [
-        30130272,
-        30129721
+        30144335
       ],
-      "score": 11,
-      "time": 1643484611,
-      "title": "Static-Let, or how I Learned to stop worrying and love Load-Time-Value",
+      "score": 15,
+      "time": 1643589180,
+      "title": "Decrypt an encrypted message to any plaintext",
       "type": "story",
-      "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md"
+      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts"
     },
     "og_item": {
       "title": "GitHub - jscd/Boyfriend-Alert: A light based alert system",
       "type": "object",
       "image": [
         {
-          "url": "https://opengraph.githubassets.com/c1362c20e8dbd89a752e0b153fc3c822d221a564eb3de0d1a3af8c87b8d458c6/jscd/Boyfriend-Alert",
+          "url": "https://opengraph.githubassets.com/5420ad7ecfc0fa7dbd215c484d899ea688cff6f2122b2940e79d5298bffdf570/jscd/Boyfriend-Alert",
           "secure_url": "",
           "type": "",
           "width": 1200,
@@ -294,21 +339,20 @@
     "publisher": "theregister.com",
     "description": "",
     "by": "laktak",
-    "points": 98,
-    "comment_count": 9,
+    "points": 100,
+    "comment_count": 10,
     "hn_item": {
-      "by": "phoe-krk",
+      "by": "_wldu",
       "descendants": 2,
-      "id": 30129565,
+      "id": 30142896,
       "kids": [
-        30130272,
-        30129721
+        30144335
       ],
-      "score": 11,
-      "time": 1643484611,
-      "title": "Static-Let, or how I Learned to stop worrying and love Load-Time-Value",
+      "score": 15,
+      "time": 1643589180,
+      "title": "Decrypt an encrypted message to any plaintext",
       "type": "story",
-      "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md"
+      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts"
     },
     "og_item": {
       "title": "",
@@ -337,21 +381,20 @@
     "publisher": "Medium",
     "description": "My journey on finding and reporting databases with sensitive data about Fortune-500 companies, Hospitals, Crypto platforms, Startups during…",
     "by": "boyter",
-    "points": 154,
+    "points": 156,
     "comment_count": 14,
     "hn_item": {
-      "by": "phoe-krk",
+      "by": "_wldu",
       "descendants": 2,
-      "id": 30129565,
+      "id": 30142896,
       "kids": [
-        30130272,
-        30129721
+        30144335
       ],
-      "score": 11,
-      "time": 1643484611,
-      "title": "Static-Let, or how I Learned to stop worrying and love Load-Time-Value",
+      "score": 15,
+      "time": 1643589180,
+      "title": "Decrypt an encrypted message to any plaintext",
       "type": "story",
-      "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md"
+      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts"
     },
     "og_item": {
       "title": "How I Discovered Thousands of Open Databases on AWS",
@@ -389,21 +432,20 @@
     "publisher": "blog.thomaspuppe.de",
     "description": "",
     "by": "indigodaddy",
-    "points": 42,
+    "points": 43,
     "comment_count": 8,
     "hn_item": {
-      "by": "phoe-krk",
+      "by": "_wldu",
       "descendants": 2,
-      "id": 30129565,
+      "id": 30142896,
       "kids": [
-        30130272,
-        30129721
+        30144335
       ],
-      "score": 11,
-      "time": 1643484611,
-      "title": "Static-Let, or how I Learned to stop worrying and love Load-Time-Value",
+      "score": 15,
+      "time": 1643589180,
+      "title": "Decrypt an encrypted message to any plaintext",
       "type": "story",
-      "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md"
+      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts"
     },
     "og_item": null
   },
@@ -417,21 +459,20 @@
     "publisher": "cacm.acm.org",
     "description": "AI is driving the next evolution of chess, giving players a glimpse into the game\u0026#39;s future.",
     "by": "joak",
-    "points": 101,
+    "points": 103,
     "comment_count": 13,
     "hn_item": {
-      "by": "phoe-krk",
+      "by": "_wldu",
       "descendants": 2,
-      "id": 30129565,
+      "id": 30142896,
       "kids": [
-        30130272,
-        30129721
+        30144335
       ],
-      "score": 11,
-      "time": 1643484611,
-      "title": "Static-Let, or how I Learned to stop worrying and love Load-Time-Value",
+      "score": 15,
+      "time": 1643589180,
+      "title": "Decrypt an encrypted message to any plaintext",
       "type": "story",
-      "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md"
+      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts"
     },
     "og_item": {
       "title": "Reimagining Chess with AlphaZero",
@@ -472,18 +513,17 @@
     "points": 87,
     "comment_count": 9,
     "hn_item": {
-      "by": "phoe-krk",
+      "by": "_wldu",
       "descendants": 2,
-      "id": 30129565,
+      "id": 30142896,
       "kids": [
-        30130272,
-        30129721
+        30144335
       ],
-      "score": 11,
-      "time": 1643484611,
-      "title": "Static-Let, or how I Learned to stop worrying and love Load-Time-Value",
+      "score": 15,
+      "time": 1643589180,
+      "title": "Decrypt an encrypted message to any plaintext",
       "type": "story",
-      "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md"
+      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts"
     },
     "og_item": {
       "title": "What is the Inverse of a Circle?",
@@ -521,21 +561,20 @@
     "publisher": "bleepingcomputer.com",
     "description": "",
     "by": "beermonster",
-    "points": 42,
-    "comment_count": 5,
+    "points": 46,
+    "comment_count": 6,
     "hn_item": {
-      "by": "phoe-krk",
+      "by": "_wldu",
       "descendants": 2,
-      "id": 30129565,
+      "id": 30142896,
       "kids": [
-        30130272,
-        30129721
+        30144335
       ],
-      "score": 11,
-      "time": 1643484611,
-      "title": "Static-Let, or how I Learned to stop worrying and love Load-Time-Value",
+      "score": 15,
+      "time": 1643589180,
+      "title": "Decrypt an encrypted message to any plaintext",
       "type": "story",
-      "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md"
+      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts"
     },
     "og_item": {
       "title": "Just a moment...",
@@ -564,21 +603,20 @@
     "publisher": "zillow.com",
     "description": "",
     "by": "otras",
-    "points": 275,
+    "points": 276,
     "comment_count": 34,
     "hn_item": {
-      "by": "phoe-krk",
+      "by": "_wldu",
       "descendants": 2,
-      "id": 30129565,
+      "id": 30142896,
       "kids": [
-        30130272,
-        30129721
+        30144335
       ],
-      "score": 11,
-      "time": 1643484611,
-      "title": "Static-Let, or how I Learned to stop worrying and love Load-Time-Value",
+      "score": 15,
+      "time": 1643589180,
+      "title": "Decrypt an encrypted message to any plaintext",
       "type": "story",
-      "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md"
+      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts"
     },
     "og_item": {
       "title": "",
@@ -610,18 +648,17 @@
     "points": 61,
     "comment_count": 6,
     "hn_item": {
-      "by": "phoe-krk",
+      "by": "_wldu",
       "descendants": 2,
-      "id": 30129565,
+      "id": 30142896,
       "kids": [
-        30130272,
-        30129721
+        30144335
       ],
-      "score": 11,
-      "time": 1643484611,
-      "title": "Static-Let, or how I Learned to stop worrying and love Load-Time-Value",
+      "score": 15,
+      "time": 1643589180,
+      "title": "Decrypt an encrypted message to any plaintext",
       "type": "story",
-      "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md"
+      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts"
     },
     "og_item": {
       "title": "How a virus helped a woman survive a dangerous antibiotic-resistant infection",
@@ -662,18 +699,17 @@
     "points": 103,
     "comment_count": 9,
     "hn_item": {
-      "by": "phoe-krk",
+      "by": "_wldu",
       "descendants": 2,
-      "id": 30129565,
+      "id": 30142896,
       "kids": [
-        30130272,
-        30129721
+        30144335
       ],
-      "score": 11,
-      "time": 1643484611,
-      "title": "Static-Let, or how I Learned to stop worrying and love Load-Time-Value",
+      "score": 15,
+      "time": 1643589180,
+      "title": "Decrypt an encrypted message to any plaintext",
       "type": "story",
-      "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md"
+      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts"
     },
     "og_item": {
       "title": "Hardy, Ramanujan and Taxi No. 1729",
@@ -711,21 +747,20 @@
     "publisher": "blog.openresty.com",
     "description": "Transparent Container Tracing Efficient Stack Unwinding Analyzing Dead Processes (Core Dumps) Very Low Tracing Overhead Standard Ylang Libraries \u0026amp; Tools Network Filtering \u0026amp; Control The Ylang Compiler\u0026rsquo;s Implementation Operating System Support Contributions to Open-Source Communities",
     "by": "walterbell",
-    "points": 49,
+    "points": 51,
     "comment_count": 6,
     "hn_item": {
-      "by": "phoe-krk",
+      "by": "_wldu",
       "descendants": 2,
-      "id": 30129565,
+      "id": 30142896,
       "kids": [
-        30130272,
-        30129721
+        30144335
       ],
-      "score": 11,
-      "time": 1643484611,
-      "title": "Static-Let, or how I Learned to stop worrying and love Load-Time-Value",
+      "score": 15,
+      "time": 1643589180,
+      "title": "Decrypt an encrypted message to any plaintext",
       "type": "story",
-      "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md"
+      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts"
     },
     "og_item": {
       "title": "Ylang: Universal Language for eBPF, Stap+, GDB, and More (Part 4) - OpenResty Official Blog",
@@ -745,6 +780,48 @@
     }
   },
   {
+    "id": 30141278,
+    "title": "The Story of Maxis Software (1999)",
+    "url": "https://web.archive.org/web/19991012021220/http://gamespot.com/features/maxis/index.html",
+    "time": 1643577913,
+    "image": "",
+    "icon": "https://web.archive.org/favicon.ico",
+    "publisher": "web.archive.org",
+    "description": "",
+    "by": "ecliptik",
+    "points": 115,
+    "comment_count": 10,
+    "hn_item": {
+      "by": "_wldu",
+      "descendants": 2,
+      "id": 30142896,
+      "kids": [
+        30144335
+      ],
+      "score": 15,
+      "time": 1643589180,
+      "title": "Decrypt an encrypted message to any plaintext",
+      "type": "story",
+      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts"
+    },
+    "og_item": {
+      "title": "GameSpot's SIMply Divine: The Story of Maxis Software",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30143946,
     "title": "Mesmerizing Labor",
     "url": "https://daily.jstor.org/mesmerizing-labor/",
@@ -757,18 +834,17 @@
     "points": 36,
     "comment_count": 3,
     "hn_item": {
-      "by": "phoe-krk",
+      "by": "_wldu",
       "descendants": 2,
-      "id": 30129565,
+      "id": 30142896,
       "kids": [
-        30130272,
-        30129721
+        30144335
       ],
-      "score": 11,
-      "time": 1643484611,
-      "title": "Static-Let, or how I Learned to stop worrying and love Load-Time-Value",
+      "score": 15,
+      "time": 1643589180,
+      "title": "Decrypt an encrypted message to any plaintext",
       "type": "story",
-      "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md"
+      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts"
     },
     "og_item": {
       "title": "Mesmerizing Labor - JSTOR Daily",
@@ -797,49 +873,6 @@
     }
   },
   {
-    "id": 30141278,
-    "title": "The Story of Maxis Software (1999)",
-    "url": "https://web.archive.org/web/19991012021220/http://gamespot.com/features/maxis/index.html",
-    "time": 1643577913,
-    "image": "",
-    "icon": "https://web.archive.org/favicon.ico",
-    "publisher": "web.archive.org",
-    "description": "",
-    "by": "ecliptik",
-    "points": 114,
-    "comment_count": 10,
-    "hn_item": {
-      "by": "phoe-krk",
-      "descendants": 2,
-      "id": 30129565,
-      "kids": [
-        30130272,
-        30129721
-      ],
-      "score": 11,
-      "time": 1643484611,
-      "title": "Static-Let, or how I Learned to stop worrying and love Load-Time-Value",
-      "type": "story",
-      "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md"
-    },
-    "og_item": {
-      "title": "GameSpot's SIMply Divine: The Story of Maxis Software",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30134367,
     "title": "The case of the mysterious --help directory (2020)",
     "url": "https://leahneukirchen.org/blog/archive/2020/05/the-case-of-the-mysterious-help-directory.html",
@@ -852,18 +885,17 @@
     "points": 149,
     "comment_count": 13,
     "hn_item": {
-      "by": "phoe-krk",
+      "by": "_wldu",
       "descendants": 2,
-      "id": 30129565,
+      "id": 30142896,
       "kids": [
-        30130272,
-        30129721
+        30144335
       ],
-      "score": 11,
-      "time": 1643484611,
-      "title": "Static-Let, or how I Learned to stop worrying and love Load-Time-Value",
+      "score": 15,
+      "time": 1643589180,
+      "title": "Decrypt an encrypted message to any plaintext",
       "type": "story",
-      "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md"
+      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts"
     },
     "og_item": {
       "title": "leah blogs: The case of the mysterious --help directory",
@@ -892,21 +924,20 @@
     "publisher": "luttig.substack.com",
     "description": "Understanding the behemoth in Redmond teaches us valuable lessons in cloud infrastructure, startup strategy, and the future of software.",
     "by": "SamvitJ",
-    "points": 318,
+    "points": 319,
     "comment_count": 57,
     "hn_item": {
-      "by": "phoe-krk",
+      "by": "_wldu",
       "descendants": 2,
-      "id": 30129565,
+      "id": 30142896,
       "kids": [
-        30130272,
-        30129721
+        30144335
       ],
-      "score": 11,
-      "time": 1643484611,
-      "title": "Static-Let, or how I Learned to stop worrying and love Load-Time-Value",
+      "score": 15,
+      "time": 1643589180,
+      "title": "Decrypt an encrypted message to any plaintext",
       "type": "story",
-      "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md"
+      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts"
     },
     "og_item": {
       "title": "Don’t forget Microsoft",
@@ -947,18 +978,17 @@
     "points": 48,
     "comment_count": 3,
     "hn_item": {
-      "by": "phoe-krk",
+      "by": "_wldu",
       "descendants": 2,
-      "id": 30129565,
+      "id": 30142896,
       "kids": [
-        30130272,
-        30129721
+        30144335
       ],
-      "score": 11,
-      "time": 1643484611,
-      "title": "Static-Let, or how I Learned to stop worrying and love Load-Time-Value",
+      "score": 15,
+      "time": 1643589180,
+      "title": "Decrypt an encrypted message to any plaintext",
       "type": "story",
-      "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md"
+      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts"
     },
     "og_item": {
       "title": "Lizard Scale Patterns Described with Antiferromagnetic Model",
@@ -996,21 +1026,20 @@
     "publisher": "ruoyusun.com",
     "description": "",
     "by": "insraq",
-    "points": 70,
+    "points": 71,
     "comment_count": 7,
     "hn_item": {
-      "by": "phoe-krk",
+      "by": "_wldu",
       "descendants": 2,
-      "id": 30129565,
+      "id": 30142896,
       "kids": [
-        30130272,
-        30129721
+        30144335
       ],
-      "score": 11,
-      "time": 1643484611,
-      "title": "Static-Let, or how I Learned to stop worrying and love Load-Time-Value",
+      "score": 15,
+      "time": 1643589180,
+      "title": "Decrypt an encrypted message to any plaintext",
       "type": "story",
-      "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md"
+      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts"
     },
     "og_item": {
       "title": "Game Performance Optimization - A Practical Example From Industry Idle",
@@ -1040,20 +1069,19 @@
     "description": "Which tire fits my bike? Tires are always flat and now buy a tire with puncture protection? Find the right tire now!",
     "by": "moasda",
     "points": 574,
-    "comment_count": 37,
+    "comment_count": 38,
     "hn_item": {
-      "by": "phoe-krk",
+      "by": "_wldu",
       "descendants": 2,
-      "id": 30129565,
+      "id": 30142896,
       "kids": [
-        30130272,
-        30129721
+        30144335
       ],
-      "score": 11,
-      "time": 1643484611,
-      "title": "Static-Let, or how I Learned to stop worrying and love Load-Time-Value",
+      "score": 15,
+      "time": 1643589180,
+      "title": "Decrypt an encrypted message to any plaintext",
       "type": "story",
-      "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md"
+      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts"
     },
     "og_item": {
       "title": "Bike Tire | Fahrrad-Tools.de",
@@ -1082,21 +1110,20 @@
     "publisher": "jenson.org",
     "description": "",
     "by": "radley",
-    "points": 782,
-    "comment_count": 101,
+    "points": 784,
+    "comment_count": 102,
     "hn_item": {
-      "by": "phoe-krk",
+      "by": "_wldu",
       "descendants": 2,
-      "id": 30129565,
+      "id": 30142896,
       "kids": [
-        30130272,
-        30129721
+        30144335
       ],
-      "score": 11,
-      "time": 1643484611,
-      "title": "Static-Let, or how I Learned to stop worrying and love Load-Time-Value",
+      "score": 15,
+      "time": 1643589180,
+      "title": "Decrypt an encrypted message to any plaintext",
       "type": "story",
-      "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md"
+      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts"
     },
     "og_item": {
       "title": "A UX designer walks into a Tesla Bar – Scott Jenson",
@@ -1128,18 +1155,17 @@
     "points": 79,
     "comment_count": 4,
     "hn_item": {
-      "by": "phoe-krk",
+      "by": "_wldu",
       "descendants": 2,
-      "id": 30129565,
+      "id": 30142896,
       "kids": [
-        30130272,
-        30129721
+        30144335
       ],
-      "score": 11,
-      "time": 1643484611,
-      "title": "Static-Let, or how I Learned to stop worrying and love Load-Time-Value",
+      "score": 15,
+      "time": 1643589180,
+      "title": "Decrypt an encrypted message to any plaintext",
       "type": "story",
-      "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md"
+      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts"
     },
     "og_item": {
       "title": "A Billion Years of Time Are Mysteriously Missing. Scientists Think They Know Why.",
@@ -1180,18 +1206,17 @@
     "points": 114,
     "comment_count": 9,
     "hn_item": {
-      "by": "phoe-krk",
+      "by": "_wldu",
       "descendants": 2,
-      "id": 30129565,
+      "id": 30142896,
       "kids": [
-        30130272,
-        30129721
+        30144335
       ],
-      "score": 11,
-      "time": 1643484611,
-      "title": "Static-Let, or how I Learned to stop worrying and love Load-Time-Value",
+      "score": 15,
+      "time": 1643589180,
+      "title": "Decrypt an encrypted message to any plaintext",
       "type": "story",
-      "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md"
+      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts"
     },
     "og_item": {
       "title": "Inside Operation Warp Speed: A New Model for Industrial Policy - American Affairs Journal",
@@ -1232,18 +1257,17 @@
     "points": 48,
     "comment_count": 1,
     "hn_item": {
-      "by": "phoe-krk",
+      "by": "_wldu",
       "descendants": 2,
-      "id": 30129565,
+      "id": 30142896,
       "kids": [
-        30130272,
-        30129721
+        30144335
       ],
-      "score": 11,
-      "time": 1643484611,
-      "title": "Static-Let, or how I Learned to stop worrying and love Load-Time-Value",
+      "score": 15,
+      "time": 1643589180,
+      "title": "Decrypt an encrypted message to any plaintext",
       "type": "story",
-      "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md"
+      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts"
     },
     "og_item": {
       "title": "A couple years ago, I created this list: immersive: walking taking a shower sleeping teaching falling in love cinema life or death experience I was curious about these amazing parts of life that feel so meaningful — like portals, where time and space take on a totally different, enchanted feeling. I remember writing this list… – blog.laurel.world",
@@ -1272,21 +1296,20 @@
     "publisher": "telcomhistory.org",
     "description": "",
     "by": "basementcat",
-    "points": 59,
-    "comment_count": 9,
+    "points": 60,
+    "comment_count": 10,
     "hn_item": {
-      "by": "phoe-krk",
+      "by": "_wldu",
       "descendants": 2,
-      "id": 30129565,
+      "id": 30142896,
       "kids": [
-        30130272,
-        30129721
+        30144335
       ],
-      "score": 11,
-      "time": 1643484611,
-      "title": "Static-Let, or how I Learned to stop worrying and love Load-Time-Value",
+      "score": 15,
+      "time": 1643589180,
+      "title": "Decrypt an encrypted message to any plaintext",
       "type": "story",
-      "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md"
+      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts"
     },
     "og_item": {
       "title": "403 Forbidden",
@@ -1315,21 +1338,20 @@
     "publisher": "ByteofDev",
     "description": "Static Site Generators have been changing quickly with new trends like Jamstack. Learn more about the background of static site generators, why people use them, and the current state of them, with information on modern SSGs like Eleventy, Next.js, SvelteKit, and Astro.",
     "by": "AsyncBanana",
-    "points": 114,
-    "comment_count": 23,
+    "points": 117,
+    "comment_count": 24,
     "hn_item": {
-      "by": "phoe-krk",
+      "by": "_wldu",
       "descendants": 2,
-      "id": 30129565,
+      "id": 30142896,
       "kids": [
-        30130272,
-        30129721
+        30144335
       ],
-      "score": 11,
-      "time": 1643484611,
-      "title": "Static-Let, or how I Learned to stop worrying and love Load-Time-Value",
+      "score": 15,
+      "time": 1643589180,
+      "title": "Decrypt an encrypted message to any plaintext",
       "type": "story",
-      "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md"
+      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts"
     },
     "og_item": {
       "title": "State of the Web: Static Site Generators",
@@ -1367,21 +1389,20 @@
     "publisher": "recur-env.eba-rm3fchmn.us-eas…",
     "description": "",
     "by": "ShamelessC",
-    "points": 62,
+    "points": 63,
     "comment_count": 13,
     "hn_item": {
-      "by": "phoe-krk",
+      "by": "_wldu",
       "descendants": 2,
-      "id": 30129565,
+      "id": 30142896,
       "kids": [
-        30130272,
-        30129721
+        30144335
       ],
-      "score": 11,
-      "time": 1643484611,
-      "title": "Static-Let, or how I Learned to stop worrying and love Load-Time-Value",
+      "score": 15,
+      "time": 1643589180,
+      "title": "Decrypt an encrypted message to any plaintext",
       "type": "story",
-      "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md"
+      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts"
     },
     "og_item": {
       "title": "Streamlit",
@@ -1413,18 +1434,17 @@
     "points": 1,
     "comment_count": 0,
     "hn_item": {
-      "by": "phoe-krk",
+      "by": "_wldu",
       "descendants": 2,
-      "id": 30129565,
+      "id": 30142896,
       "kids": [
-        30130272,
-        30129721
+        30144335
       ],
-      "score": 11,
-      "time": 1643484611,
-      "title": "Static-Let, or how I Learned to stop worrying and love Load-Time-Value",
+      "score": 15,
+      "time": 1643589180,
+      "title": "Decrypt an encrypted message to any plaintext",
       "type": "story",
-      "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md"
+      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts"
     },
     "og_item": {
       "title": "BuildZoom jobs",
@@ -1453,58 +1473,6 @@
     }
   },
   {
-    "id": 30119800,
-    "title": "How the Hall Effect Still Reverberates",
-    "url": "https://spectrum.ieee.org/hall-effect-sensor",
-    "time": 1643401246,
-    "image": "https://spectrum.ieee.org/media-library/edwin-herbert-hall.png?id=29169021\u0026width=1200\u0026coordinates=0%2C466%2C0%2C466\u0026height=600",
-    "icon": "https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yNjU5NjY0OS9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTY1OTYwMjUwNn0.83ww7bkGqpGwDJ0lJUQ9t40jCxvzIiI09EEqwNcU8HE/img.png?width=32\u0026height=32",
-    "publisher": "IEEE Spectrum",
-    "description": "In 1879, a physicist set the stage for efficient space propulsion",
-    "by": "headalgorithm",
-    "points": 6,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "phoe-krk",
-      "descendants": 2,
-      "id": 30129565,
-      "kids": [
-        30130272,
-        30129721
-      ],
-      "score": 11,
-      "time": 1643484611,
-      "title": "Static-Let, or how I Learned to stop worrying and love Load-Time-Value",
-      "type": "story",
-      "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md"
-    },
-    "og_item": {
-      "title": "How the Hall Effect Still Reverberates",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://spectrum.ieee.org/media-library/edwin-herbert-hall.png?id=29169021\u0026width=1200\u0026coordinates=0%2C466%2C0%2C466\u0026height=600",
-          "secure_url": "",
-          "type": "",
-          "width": 1200,
-          "height": 600,
-          "alt": ""
-        }
-      ],
-      "url": "https://spectrum.ieee.org/hall-effect-sensor",
-      "audio": [],
-      "description": "In 1879, a physicist set the stage for efficient space propulsion",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "IEEE Spectrum",
-      "video": [],
-      "favicon": {
-        "url": "https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yNjU5NjY0OS9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTY1OTYwMjUwNn0.83ww7bkGqpGwDJ0lJUQ9t40jCxvzIiI09EEqwNcU8HE/img.png?width=32\u0026height=32"
-      }
-    }
-  },
-  {
     "id": 30119285,
     "title": "Devious SQL: Message Queuing Using Native PostgreSQL",
     "url": "https://blog.crunchydata.com/blog/message-queuing-using-native-postgresql",
@@ -1517,18 +1485,17 @@
     "points": 124,
     "comment_count": 9,
     "hn_item": {
-      "by": "phoe-krk",
+      "by": "_wldu",
       "descendants": 2,
-      "id": 30129565,
+      "id": 30142896,
       "kids": [
-        30130272,
-        30129721
+        30144335
       ],
-      "score": 11,
-      "time": 1643484611,
-      "title": "Static-Let, or how I Learned to stop worrying and love Load-Time-Value",
+      "score": 15,
+      "time": 1643589180,
+      "title": "Decrypt an encrypted message to any plaintext",
       "type": "story",
-      "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md"
+      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts"
     },
     "og_item": {
       "title": "Devious SQL: Message Queuing Using Native PostgreSQL",
@@ -1557,6 +1524,57 @@
     }
   },
   {
+    "id": 30119800,
+    "title": "How the Hall Effect Still Reverberates",
+    "url": "https://spectrum.ieee.org/hall-effect-sensor",
+    "time": 1643401246,
+    "image": "https://spectrum.ieee.org/media-library/edwin-herbert-hall.png?id=29169021\u0026width=1200\u0026coordinates=0%2C466%2C0%2C466\u0026height=600",
+    "icon": "https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yNjU5NjY0OS9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTY1OTYwMjUwNn0.83ww7bkGqpGwDJ0lJUQ9t40jCxvzIiI09EEqwNcU8HE/img.png?width=32\u0026height=32",
+    "publisher": "IEEE Spectrum",
+    "description": "In 1879, a physicist set the stage for efficient space propulsion",
+    "by": "headalgorithm",
+    "points": 6,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "_wldu",
+      "descendants": 2,
+      "id": 30142896,
+      "kids": [
+        30144335
+      ],
+      "score": 15,
+      "time": 1643589180,
+      "title": "Decrypt an encrypted message to any plaintext",
+      "type": "story",
+      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts"
+    },
+    "og_item": {
+      "title": "How the Hall Effect Still Reverberates",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://spectrum.ieee.org/media-library/edwin-herbert-hall.png?id=29169021\u0026width=1200\u0026coordinates=0%2C466%2C0%2C466\u0026height=600",
+          "secure_url": "",
+          "type": "",
+          "width": 1200,
+          "height": 600,
+          "alt": ""
+        }
+      ],
+      "url": "https://spectrum.ieee.org/hall-effect-sensor",
+      "audio": [],
+      "description": "In 1879, a physicist set the stage for efficient space propulsion",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "IEEE Spectrum",
+      "video": [],
+      "favicon": {
+        "url": "https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yNjU5NjY0OS9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTY1OTYwMjUwNn0.83ww7bkGqpGwDJ0lJUQ9t40jCxvzIiI09EEqwNcU8HE/img.png?width=32\u0026height=32"
+      }
+    }
+  },
+  {
     "id": 30144673,
     "title": "Will Tokens Replace Equity?",
     "url": "https://every.to/napkin-math/will-tokens-replace-equity",
@@ -1569,18 +1587,17 @@
     "points": 9,
     "comment_count": 1,
     "hn_item": {
-      "by": "phoe-krk",
+      "by": "_wldu",
       "descendants": 2,
-      "id": 30129565,
+      "id": 30142896,
       "kids": [
-        30130272,
-        30129721
+        30144335
       ],
-      "score": 11,
-      "time": 1643484611,
-      "title": "Static-Let, or how I Learned to stop worrying and love Load-Time-Value",
+      "score": 15,
+      "time": 1643589180,
+      "title": "Decrypt an encrypted message to any plaintext",
       "type": "story",
-      "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md"
+      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts"
     },
     "og_item": {
       "title": "Will Tokens Replace Equity?",
@@ -1618,21 +1635,20 @@
     "publisher": "BuzzFeed News",
     "description": "I went on a vacation. I came home with a mysterious fungus in my brain that is so rare only about 120 cases have been confirmed worldwide since its discovery in 1911.",
     "by": "yellow_lead",
-    "points": 203,
+    "points": 205,
     "comment_count": 10,
     "hn_item": {
-      "by": "phoe-krk",
+      "by": "_wldu",
       "descendants": 2,
-      "id": 30129565,
+      "id": 30142896,
       "kids": [
-        30130272,
-        30129721
+        30144335
       ],
-      "score": 11,
-      "time": 1643484611,
-      "title": "Static-Let, or how I Learned to stop worrying and love Load-Time-Value",
+      "score": 15,
+      "time": 1643589180,
+      "title": "Decrypt an encrypted message to any plaintext",
       "type": "story",
-      "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md"
+      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts"
     },
     "og_item": {
       "title": "Toxic Black Mold Is Growing On My Brain",
@@ -1673,18 +1689,17 @@
     "points": 216,
     "comment_count": 14,
     "hn_item": {
-      "by": "phoe-krk",
+      "by": "_wldu",
       "descendants": 2,
-      "id": 30129565,
+      "id": 30142896,
       "kids": [
-        30130272,
-        30129721
+        30144335
       ],
-      "score": 11,
-      "time": 1643484611,
-      "title": "Static-Let, or how I Learned to stop worrying and love Load-Time-Value",
+      "score": 15,
+      "time": 1643589180,
+      "title": "Decrypt an encrypted message to any plaintext",
       "type": "story",
-      "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md"
+      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts"
     },
     "og_item": {
       "title": "HyperCardSimulator",
@@ -1716,18 +1731,17 @@
     "points": 35,
     "comment_count": 3,
     "hn_item": {
-      "by": "phoe-krk",
+      "by": "_wldu",
       "descendants": 2,
-      "id": 30129565,
+      "id": 30142896,
       "kids": [
-        30130272,
-        30129721
+        30144335
       ],
-      "score": 11,
-      "time": 1643484611,
-      "title": "Static-Let, or how I Learned to stop worrying and love Load-Time-Value",
+      "score": 15,
+      "time": 1643589180,
+      "title": "Decrypt an encrypted message to any plaintext",
       "type": "story",
-      "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md"
+      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts"
     },
     "og_item": {
       "title": "GitHub - Idov31/FunctionStomping: A new shellcode injection technique. Given as C++ header or standalone Rust program.",
@@ -1768,18 +1782,17 @@
     "points": 33,
     "comment_count": 7,
     "hn_item": {
-      "by": "phoe-krk",
+      "by": "_wldu",
       "descendants": 2,
-      "id": 30129565,
+      "id": 30142896,
       "kids": [
-        30130272,
-        30129721
+        30144335
       ],
-      "score": 11,
-      "time": 1643484611,
-      "title": "Static-Let, or how I Learned to stop worrying and love Load-Time-Value",
+      "score": 15,
+      "time": 1643589180,
+      "title": "Decrypt an encrypted message to any plaintext",
       "type": "story",
-      "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md"
+      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts"
     },
     "og_item": {
       "title": "Basic cryptography - the Vigenere cipher - Eric Mann's Blog",
@@ -1820,18 +1833,17 @@
     "points": 264,
     "comment_count": 32,
     "hn_item": {
-      "by": "phoe-krk",
+      "by": "_wldu",
       "descendants": 2,
-      "id": 30129565,
+      "id": 30142896,
       "kids": [
-        30130272,
-        30129721
+        30144335
       ],
-      "score": 11,
-      "time": 1643484611,
-      "title": "Static-Let, or how I Learned to stop worrying and love Load-Time-Value",
+      "score": 15,
+      "time": 1643589180,
+      "title": "Decrypt an encrypted message to any plaintext",
       "type": "story",
-      "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md"
+      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts"
     },
     "og_item": {
       "title": "John Locke’s recipe for Pancakes",
@@ -1860,49 +1872,6 @@
     }
   },
   {
-    "id": 30145872,
-    "title": "Ask HN: What does the GDPR penalty for loading fonts mean for website owners?",
-    "url": "https://news.ycombinator.com/item?id=30145872",
-    "time": 1643618616,
-    "image": "",
-    "icon": "https://news.ycombinator.com/favicon.ico",
-    "publisher": "Hacker News",
-    "description": "",
-    "by": "emschlr",
-    "points": 5,
-    "comment_count": 4,
-    "hn_item": {
-      "by": "phoe-krk",
-      "descendants": 2,
-      "id": 30129565,
-      "kids": [
-        30130272,
-        30129721
-      ],
-      "score": 11,
-      "time": 1643484611,
-      "title": "Static-Let, or how I Learned to stop worrying and love Load-Time-Value",
-      "type": "story",
-      "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md"
-    },
-    "og_item": {
-      "title": "Ask HN: What does the GDPR penalty for loading fonts mean for website owners? | Hacker News",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30142106,
     "title": "Yoga and meditation do not quiet the ego but instead boost self-enhancement (2018)",
     "url": "https://journals.sagepub.com/doi/abs/10.1177/0956797618764621",
@@ -1912,21 +1881,20 @@
     "publisher": "journals.sagepub.com",
     "description": "",
     "by": "FrojoS",
-    "points": 30,
+    "points": 31,
     "comment_count": 9,
     "hn_item": {
-      "by": "phoe-krk",
+      "by": "_wldu",
       "descendants": 2,
-      "id": 30129565,
+      "id": 30142896,
       "kids": [
-        30130272,
-        30129721
+        30144335
       ],
-      "score": 11,
-      "time": 1643484611,
-      "title": "Static-Let, or how I Learned to stop worrying and love Load-Time-Value",
+      "score": 15,
+      "time": 1643589180,
+      "title": "Decrypt an encrypted message to any plaintext",
       "type": "story",
-      "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md"
+      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts"
     },
     "og_item": {
       "title": "Just a moment...",
@@ -1958,18 +1926,17 @@
     "points": 23,
     "comment_count": 3,
     "hn_item": {
-      "by": "phoe-krk",
+      "by": "_wldu",
       "descendants": 2,
-      "id": 30129565,
+      "id": 30142896,
       "kids": [
-        30130272,
-        30129721
+        30144335
       ],
-      "score": 11,
-      "time": 1643484611,
-      "title": "Static-Let, or how I Learned to stop worrying and love Load-Time-Value",
+      "score": 15,
+      "time": 1643589180,
+      "title": "Decrypt an encrypted message to any plaintext",
       "type": "story",
-      "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md"
+      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts"
     },
     "og_item": {
       "title": "Unconscious R\u0026D",
@@ -1998,58 +1965,6 @@
     }
   },
   {
-    "id": 30143377,
-    "title": "A Simple Transformer Implementation(PyTorch) Without Difficult Syntax",
-    "url": "https://github.com/IpsumDominum/Pytorch-Simple-Transformer",
-    "time": 1643592608,
-    "image": "https://opengraph.githubassets.com/90f5486f612821b4701c5a6ba160a7488e66b81e8afa5ef76cf5ce57e8a8529c/IpsumDominum/Pytorch-Simple-Transformer",
-    "icon": "https://github.githubassets.com/favicons/favicon.svg",
-    "publisher": "GitHub",
-    "description": "A simple transformer implementation without difficult syntax and extra bells and whistles. - GitHub - IpsumDominum/Pytorch-Simple-Transformer: A simple transformer implementation without difficult ...",
-    "by": "IpsumDominum",
-    "points": 13,
-    "comment_count": 1,
-    "hn_item": {
-      "by": "phoe-krk",
-      "descendants": 2,
-      "id": 30129565,
-      "kids": [
-        30130272,
-        30129721
-      ],
-      "score": 11,
-      "time": 1643484611,
-      "title": "Static-Let, or how I Learned to stop worrying and love Load-Time-Value",
-      "type": "story",
-      "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md"
-    },
-    "og_item": {
-      "title": "GitHub - IpsumDominum/Pytorch-Simple-Transformer: A simple transformer implementation without difficult syntax and extra bells and whistles.",
-      "type": "object",
-      "image": [
-        {
-          "url": "https://opengraph.githubassets.com/90f5486f612821b4701c5a6ba160a7488e66b81e8afa5ef76cf5ce57e8a8529c/IpsumDominum/Pytorch-Simple-Transformer",
-          "secure_url": "",
-          "type": "",
-          "width": 1200,
-          "height": 600,
-          "alt": ""
-        }
-      ],
-      "url": "https://github.com/IpsumDominum/Pytorch-Simple-Transformer",
-      "audio": [],
-      "description": "A simple transformer implementation without difficult syntax and extra bells and whistles. - GitHub - IpsumDominum/Pytorch-Simple-Transformer: A simple transformer implementation without difficult ...",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "GitHub",
-      "video": [],
-      "favicon": {
-        "url": "https://github.githubassets.com/favicons/favicon.svg"
-      }
-    }
-  },
-  {
     "id": 30122128,
     "title": "Sega quits arcade business after 50 years",
     "url": "https://www.eurogamer.net/articles/2022-01-28-sega-quits-japanese-arcade-business-after-50-years",
@@ -2062,18 +1977,17 @@
     "points": 233,
     "comment_count": 25,
     "hn_item": {
-      "by": "phoe-krk",
+      "by": "_wldu",
       "descendants": 2,
-      "id": 30129565,
+      "id": 30142896,
       "kids": [
-        30130272,
-        30129721
+        30144335
       ],
-      "score": 11,
-      "time": 1643484611,
-      "title": "Static-Let, or how I Learned to stop worrying and love Load-Time-Value",
+      "score": 15,
+      "time": 1643589180,
+      "title": "Decrypt an encrypted message to any plaintext",
       "type": "story",
-      "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md"
+      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts"
     },
     "og_item": {
       "title": "Sega quits Japanese arcade business after 50 years",
@@ -2114,18 +2028,17 @@
     "points": 146,
     "comment_count": 7,
     "hn_item": {
-      "by": "phoe-krk",
+      "by": "_wldu",
       "descendants": 2,
-      "id": 30129565,
+      "id": 30142896,
       "kids": [
-        30130272,
-        30129721
+        30144335
       ],
-      "score": 11,
-      "time": 1643484611,
-      "title": "Static-Let, or how I Learned to stop worrying and love Load-Time-Value",
+      "score": 15,
+      "time": 1643589180,
+      "title": "Decrypt an encrypted message to any plaintext",
       "type": "story",
-      "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md"
+      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts"
     },
     "og_item": {
       "title": "[1398] A Padlock I’d Use: Abus Granit 37RK/80 (Pick \u0026 Gut)",
@@ -2163,54 +2076,95 @@
     }
   },
   {
-    "id": 30131847,
-    "title": "Mix and Match Mental Models",
-    "url": "https://lethain.com/mental-models-mix-match/",
-    "time": 1643499930,
-    "image": "https://lethain.com/static/author.png",
-    "icon": "https://lethain.com/favicon.ico",
-    "publisher": "lethain.com",
-    "description": "A few days ago, I got to have a delightful chat with Katie Wilde, digging into a question that we’ve both found difficult to answer: what distinguishes managers perceived to have good judgment from those perceived to have bad judgment? In exploring that question, the topic of mental models came…",
-    "by": "wavelander",
-    "points": 36,
-    "comment_count": 0,
+    "id": 30145872,
+    "title": "Ask HN: What does the GDPR penalty for loading fonts mean for website owners?",
+    "url": "https://news.ycombinator.com/item?id=30145872",
+    "time": 1643618616,
+    "image": "",
+    "icon": "https://news.ycombinator.com/favicon.ico",
+    "publisher": "Hacker News",
+    "description": "",
+    "by": "emschlr",
+    "points": 5,
+    "comment_count": 4,
     "hn_item": {
-      "by": "phoe-krk",
+      "by": "_wldu",
       "descendants": 2,
-      "id": 30129565,
+      "id": 30142896,
       "kids": [
-        30130272,
-        30129721
+        30144335
       ],
-      "score": 11,
-      "time": 1643484611,
-      "title": "Static-Let, or how I Learned to stop worrying and love Load-Time-Value",
+      "score": 15,
+      "time": 1643589180,
+      "title": "Decrypt an encrypted message to any plaintext",
       "type": "story",
-      "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md"
+      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts"
     },
     "og_item": {
-      "title": "Mix and match mental models.",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://lethain.com/static/author.png",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://lethain.com/mental-models-mix-match/",
+      "title": "Ask HN: What does the GDPR penalty for loading fonts mean for website owners? | Hacker News",
+      "type": "",
+      "image": [],
+      "url": "",
       "audio": [],
-      "description": "A few days ago, I got to have a delightful chat with Katie Wilde, digging into a question that we’ve both found difficult to answer: what distinguishes managers perceived to have good judgment from those perceived to have bad judgment? In exploring that question, the topic of mental models came up frequently.",
+      "description": "",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
       "site_name": "",
       "video": [],
       "favicon": {
-        "url": "/favicon.ico"
+        "url": "favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30143377,
+    "title": "A Simple Transformer Implementation(PyTorch) Without Difficult Syntax",
+    "url": "https://github.com/IpsumDominum/Pytorch-Simple-Transformer",
+    "time": 1643592608,
+    "image": "https://opengraph.githubassets.com/2129739e27d77f005c178d2d301679e8bd379c0248ef2930674de0d3118f0859/IpsumDominum/Pytorch-Simple-Transformer",
+    "icon": "https://github.githubassets.com/favicons/favicon.svg",
+    "publisher": "GitHub",
+    "description": "A simple transformer implementation without difficult syntax and extra bells and whistles. - GitHub - IpsumDominum/Pytorch-Simple-Transformer: A simple transformer implementation without difficult ...",
+    "by": "IpsumDominum",
+    "points": 13,
+    "comment_count": 1,
+    "hn_item": {
+      "by": "_wldu",
+      "descendants": 2,
+      "id": 30142896,
+      "kids": [
+        30144335
+      ],
+      "score": 15,
+      "time": 1643589180,
+      "title": "Decrypt an encrypted message to any plaintext",
+      "type": "story",
+      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts"
+    },
+    "og_item": {
+      "title": "GitHub - IpsumDominum/Pytorch-Simple-Transformer: A simple transformer implementation without difficult syntax and extra bells and whistles.",
+      "type": "object",
+      "image": [
+        {
+          "url": "https://opengraph.githubassets.com/2129739e27d77f005c178d2d301679e8bd379c0248ef2930674de0d3118f0859/IpsumDominum/Pytorch-Simple-Transformer",
+          "secure_url": "",
+          "type": "",
+          "width": 1200,
+          "height": 600,
+          "alt": ""
+        }
+      ],
+      "url": "https://github.com/IpsumDominum/Pytorch-Simple-Transformer",
+      "audio": [],
+      "description": "A simple transformer implementation without difficult syntax and extra bells and whistles. - GitHub - IpsumDominum/Pytorch-Simple-Transformer: A simple transformer implementation without difficult ...",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "GitHub",
+      "video": [],
+      "favicon": {
+        "url": "https://github.githubassets.com/favicons/favicon.svg"
       }
     }
   },
@@ -2227,18 +2181,17 @@
     "points": 201,
     "comment_count": 22,
     "hn_item": {
-      "by": "phoe-krk",
+      "by": "_wldu",
       "descendants": 2,
-      "id": 30129565,
+      "id": 30142896,
       "kids": [
-        30130272,
-        30129721
+        30144335
       ],
-      "score": 11,
-      "time": 1643484611,
-      "title": "Static-Let, or how I Learned to stop worrying and love Load-Time-Value",
+      "score": 15,
+      "time": 1643589180,
+      "title": "Decrypt an encrypted message to any plaintext",
       "type": "story",
-      "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md"
+      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts"
     },
     "og_item": {
       "title": "GitHub - beancount/beancount: Beancount: Double-Entry Accounting from Text Files.",
@@ -2267,45 +2220,53 @@
     }
   },
   {
-    "id": 30143170,
-    "title": "How long has _ existed?",
-    "url": "https://howoldisit.glitch.me",
-    "time": 1643591138,
-    "image": "",
-    "icon": "https://howoldisit.glitch.me/code.ico",
-    "publisher": "howoldisit.glitch.me",
-    "description": "",
-    "by": "zdw",
-    "points": 14,
-    "comment_count": 2,
+    "id": 30131847,
+    "title": "Mix and Match Mental Models",
+    "url": "https://lethain.com/mental-models-mix-match/",
+    "time": 1643499930,
+    "image": "https://lethain.com/static/author.png",
+    "icon": "https://lethain.com/favicon.ico",
+    "publisher": "lethain.com",
+    "description": "A few days ago, I got to have a delightful chat with Katie Wilde, digging into a question that we’ve both found difficult to answer: what distinguishes managers perceived to have good judgment from those perceived to have bad judgment? In exploring that question, the topic of mental models came…",
+    "by": "wavelander",
+    "points": 37,
+    "comment_count": 0,
     "hn_item": {
-      "by": "phoe-krk",
+      "by": "_wldu",
       "descendants": 2,
-      "id": 30129565,
+      "id": 30142896,
       "kids": [
-        30130272,
-        30129721
+        30144335
       ],
-      "score": 11,
-      "time": 1643484611,
-      "title": "Static-Let, or how I Learned to stop worrying and love Load-Time-Value",
+      "score": 15,
+      "time": 1643589180,
+      "title": "Decrypt an encrypted message to any plaintext",
       "type": "story",
-      "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md"
+      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts"
     },
     "og_item": {
-      "title": "You want HOW MANY years experience?!",
-      "type": "",
-      "image": [],
-      "url": "",
+      "title": "Mix and match mental models.",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://lethain.com/static/author.png",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://lethain.com/mental-models-mix-match/",
       "audio": [],
-      "description": "",
+      "description": "A few days ago, I got to have a delightful chat with Katie Wilde, digging into a question that we’ve both found difficult to answer: what distinguishes managers perceived to have good judgment from those perceived to have bad judgment? In exploring that question, the topic of mental models came up frequently.",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
       "site_name": "",
       "video": [],
       "favicon": {
-        "url": "/code.ico"
+        "url": "/favicon.ico"
       }
     }
   },
@@ -2322,18 +2283,17 @@
     "points": 211,
     "comment_count": 24,
     "hn_item": {
-      "by": "phoe-krk",
+      "by": "_wldu",
       "descendants": 2,
-      "id": 30129565,
+      "id": 30142896,
       "kids": [
-        30130272,
-        30129721
+        30144335
       ],
-      "score": 11,
-      "time": 1643484611,
-      "title": "Static-Let, or how I Learned to stop worrying and love Load-Time-Value",
+      "score": 15,
+      "time": 1643589180,
+      "title": "Decrypt an encrypted message to any plaintext",
       "type": "story",
-      "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md"
+      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts"
     },
     "og_item": {
       "title": "In Defence of the Boring Web",
@@ -2353,6 +2313,48 @@
     }
   },
   {
+    "id": 30143170,
+    "title": "How long has _ existed?",
+    "url": "https://howoldisit.glitch.me",
+    "time": 1643591138,
+    "image": "",
+    "icon": "https://howoldisit.glitch.me/code.ico",
+    "publisher": "howoldisit.glitch.me",
+    "description": "",
+    "by": "zdw",
+    "points": 14,
+    "comment_count": 2,
+    "hn_item": {
+      "by": "_wldu",
+      "descendants": 2,
+      "id": 30142896,
+      "kids": [
+        30144335
+      ],
+      "score": 15,
+      "time": 1643589180,
+      "title": "Decrypt an encrypted message to any plaintext",
+      "type": "story",
+      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts"
+    },
+    "og_item": {
+      "title": "You want HOW MANY years experience?!",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/code.ico"
+      }
+    }
+  },
+  {
     "id": 30144101,
     "title": "Please Make a Dumb Car",
     "url": "https://techcrunch.com/2022/01/29/please-make-a-dumb-car/",
@@ -2362,21 +2364,20 @@
     "publisher": "TechCrunch",
     "description": "Today’s cars are dumb where they should be smart, and smart where they should be dumb. Enough already. Make a car that’s pretty much all dumb and watch it sell — because what automakers are giving people is so bad, they’ll pay more to have less of it. Cars now are like budget smar…",
     "by": "wrycoder",
-    "points": 126,
+    "points": 128,
     "comment_count": 43,
     "hn_item": {
-      "by": "phoe-krk",
+      "by": "_wldu",
       "descendants": 2,
-      "id": 30129565,
+      "id": 30142896,
       "kids": [
-        30130272,
-        30129721
+        30144335
       ],
-      "score": 11,
-      "time": 1643484611,
-      "title": "Static-Let, or how I Learned to stop worrying and love Load-Time-Value",
+      "score": 15,
+      "time": 1643589180,
+      "title": "Decrypt an encrypted message to any plaintext",
       "type": "story",
-      "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md"
+      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts"
     },
     "og_item": {
       "title": "Please make a dumb car – TechCrunch",
@@ -2405,58 +2406,6 @@
     }
   },
   {
-    "id": 30115520,
-    "title": "Pearls Before Breakfast (2007)",
-    "url": "https://www.washingtonpost.com/lifestyle/magazine/pearls-before-breakfast-can-one-of-the-nations-great-musicians-cut-through-the-fog-of-a-dc-rush-hour-lets-find-out/2014/09/23/8a6d46da-4331-11e4-b47c-f5889e061e5f_story.html",
-    "time": 1643382593,
-    "image": "https://www.washingtonpost.com/pbox.php?url=https://www.washingtonpost.com/pb/resources/img/twp-social-share.png\u0026w=1484\u0026op=resize\u0026opt=1\u0026filter=antialias\u0026t=20170517",
-    "icon": "https://www.washingtonpost.com/favicon.ico",
-    "publisher": "Washington Post",
-    "description": "Joshua Bell is one of the world’s greatest violinists. His instrument of choice is a multimillion-dollar Stradivarius. If he played it for spare change, incognito, outside a bustling Metro stop in Washington, would anyone notice?",
-    "by": "Tomte",
-    "points": 13,
-    "comment_count": 8,
-    "hn_item": {
-      "by": "phoe-krk",
-      "descendants": 2,
-      "id": 30129565,
-      "kids": [
-        30130272,
-        30129721
-      ],
-      "score": 11,
-      "time": 1643484611,
-      "title": "Static-Let, or how I Learned to stop worrying and love Load-Time-Value",
-      "type": "story",
-      "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md"
-    },
-    "og_item": {
-      "title": "Pearls Before Breakfast: Can one of the nation’s great musicians cut through the fog of a D.C. rush hour? Let’s find out.",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://www.washingtonpost.com/pbox.php?url=https://www.washingtonpost.com/pb/resources/img/twp-social-share.png\u0026w=1484\u0026op=resize\u0026opt=1\u0026filter=antialias\u0026t=20170517",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://www.washingtonpost.com/lifestyle/magazine/pearls-before-breakfast-can-one-of-the-nations-great-musicians-cut-through-the-fog-of-a-dc-rush-hour-lets-find-out/2014/09/23/8a6d46da-4331-11e4-b47c-f5889e061e5f_story.html",
-      "audio": [],
-      "description": "Joshua Bell is one of the world’s greatest violinists. His instrument of choice is a multimillion-dollar Stradivarius. If he played it for spare change, incognito, outside a bustling Metro stop in Washington, would anyone notice?",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Washington Post",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30114787,
     "title": "The Society of the Spectacle",
     "url": "https://unredacted-word.pub/",
@@ -2469,18 +2418,17 @@
     "points": 97,
     "comment_count": 10,
     "hn_item": {
-      "by": "phoe-krk",
+      "by": "_wldu",
       "descendants": 2,
-      "id": 30129565,
+      "id": 30142896,
       "kids": [
-        30130272,
-        30129721
+        30144335
       ],
-      "score": 11,
-      "time": 1643484611,
-      "title": "Static-Let, or how I Learned to stop worrying and love Load-Time-Value",
+      "score": 15,
+      "time": 1643589180,
+      "title": "Decrypt an encrypted message to any plaintext",
       "type": "story",
-      "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md"
+      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts"
     },
     "og_item": {
       "title": "Unredacted Word",
@@ -2509,6 +2457,57 @@
     }
   },
   {
+    "id": 30115520,
+    "title": "Pearls Before Breakfast (2007)",
+    "url": "https://www.washingtonpost.com/lifestyle/magazine/pearls-before-breakfast-can-one-of-the-nations-great-musicians-cut-through-the-fog-of-a-dc-rush-hour-lets-find-out/2014/09/23/8a6d46da-4331-11e4-b47c-f5889e061e5f_story.html",
+    "time": 1643382593,
+    "image": "https://www.washingtonpost.com/pbox.php?url=https://www.washingtonpost.com/pb/resources/img/twp-social-share.png\u0026w=1484\u0026op=resize\u0026opt=1\u0026filter=antialias\u0026t=20170517",
+    "icon": "https://www.washingtonpost.com/favicon.ico",
+    "publisher": "Washington Post",
+    "description": "Joshua Bell is one of the world’s greatest violinists. His instrument of choice is a multimillion-dollar Stradivarius. If he played it for spare change, incognito, outside a bustling Metro stop in Washington, would anyone notice?",
+    "by": "Tomte",
+    "points": 13,
+    "comment_count": 8,
+    "hn_item": {
+      "by": "_wldu",
+      "descendants": 2,
+      "id": 30142896,
+      "kids": [
+        30144335
+      ],
+      "score": 15,
+      "time": 1643589180,
+      "title": "Decrypt an encrypted message to any plaintext",
+      "type": "story",
+      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts"
+    },
+    "og_item": {
+      "title": "Pearls Before Breakfast: Can one of the nation’s great musicians cut through the fog of a D.C. rush hour? Let’s find out.",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://www.washingtonpost.com/pbox.php?url=https://www.washingtonpost.com/pb/resources/img/twp-social-share.png\u0026w=1484\u0026op=resize\u0026opt=1\u0026filter=antialias\u0026t=20170517",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://www.washingtonpost.com/lifestyle/magazine/pearls-before-breakfast-can-one-of-the-nations-great-musicians-cut-through-the-fog-of-a-dc-rush-hour-lets-find-out/2014/09/23/8a6d46da-4331-11e4-b47c-f5889e061e5f_story.html",
+      "audio": [],
+      "description": "Joshua Bell is one of the world’s greatest violinists. His instrument of choice is a multimillion-dollar Stradivarius. If he played it for spare change, incognito, outside a bustling Metro stop in Washington, would anyone notice?",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Washington Post",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30139734,
     "title": "Show the case against",
     "url": "https://www.shubhro.com/2022/01/03/show-the-case-against/",
@@ -2521,18 +2520,17 @@
     "points": 37,
     "comment_count": 6,
     "hn_item": {
-      "by": "phoe-krk",
+      "by": "_wldu",
       "descendants": 2,
-      "id": 30129565,
+      "id": 30142896,
       "kids": [
-        30130272,
-        30129721
+        30144335
       ],
-      "score": 11,
-      "time": 1643484611,
-      "title": "Static-Let, or how I Learned to stop worrying and love Load-Time-Value",
+      "score": 15,
+      "time": 1643589180,
+      "title": "Decrypt an encrypted message to any plaintext",
       "type": "story",
-      "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md"
+      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts"
     },
     "og_item": {
       "title": "Show the case against - shubhro.com",
@@ -2564,18 +2562,17 @@
     "points": 43,
     "comment_count": 4,
     "hn_item": {
-      "by": "phoe-krk",
+      "by": "_wldu",
       "descendants": 2,
-      "id": 30129565,
+      "id": 30142896,
       "kids": [
-        30130272,
-        30129721
+        30144335
       ],
-      "score": 11,
-      "time": 1643484611,
-      "title": "Static-Let, or how I Learned to stop worrying and love Load-Time-Value",
+      "score": 15,
+      "time": 1643589180,
+      "title": "Decrypt an encrypted message to any plaintext",
       "type": "story",
-      "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md"
+      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts"
     },
     "og_item": {
       "title": "Very Remote Lisp Debugging Story - Susam's Maze",
@@ -2607,18 +2604,17 @@
     "points": 102,
     "comment_count": 14,
     "hn_item": {
-      "by": "phoe-krk",
+      "by": "_wldu",
       "descendants": 2,
-      "id": 30129565,
+      "id": 30142896,
       "kids": [
-        30130272,
-        30129721
+        30144335
       ],
-      "score": 11,
-      "time": 1643484611,
-      "title": "Static-Let, or how I Learned to stop worrying and love Load-Time-Value",
+      "score": 15,
+      "time": 1643589180,
+      "title": "Decrypt an encrypted message to any plaintext",
       "type": "story",
-      "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md"
+      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts"
     },
     "og_item": {
       "title": "When the Algorithm Is Your Boss",
@@ -2659,18 +2655,17 @@
     "points": 162,
     "comment_count": 19,
     "hn_item": {
-      "by": "phoe-krk",
+      "by": "_wldu",
       "descendants": 2,
-      "id": 30129565,
+      "id": 30142896,
       "kids": [
-        30130272,
-        30129721
+        30144335
       ],
-      "score": 11,
-      "time": 1643484611,
-      "title": "Static-Let, or how I Learned to stop worrying and love Load-Time-Value",
+      "score": 15,
+      "time": 1643589180,
+      "title": "Decrypt an encrypted message to any plaintext",
       "type": "story",
-      "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md"
+      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts"
     },
     "og_item": {
       "title": "Midnight Commander Tips and Tricks",
@@ -2702,18 +2697,17 @@
     "points": 15,
     "comment_count": 1,
     "hn_item": {
-      "by": "phoe-krk",
+      "by": "_wldu",
       "descendants": 2,
-      "id": 30129565,
+      "id": 30142896,
       "kids": [
-        30130272,
-        30129721
+        30144335
       ],
-      "score": 11,
-      "time": 1643484611,
-      "title": "Static-Let, or how I Learned to stop worrying and love Load-Time-Value",
+      "score": 15,
+      "time": 1643589180,
+      "title": "Decrypt an encrypted message to any plaintext",
       "type": "story",
-      "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md"
+      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts"
     },
     "og_item": {
       "title": "Harvard ceramics program recreates Art Museums’ pieces",
@@ -2754,18 +2748,17 @@
     "points": 26,
     "comment_count": 2,
     "hn_item": {
-      "by": "phoe-krk",
+      "by": "_wldu",
       "descendants": 2,
-      "id": 30129565,
+      "id": 30142896,
       "kids": [
-        30130272,
-        30129721
+        30144335
       ],
-      "score": 11,
-      "time": 1643484611,
-      "title": "Static-Let, or how I Learned to stop worrying and love Load-Time-Value",
+      "score": 15,
+      "time": 1643589180,
+      "title": "Decrypt an encrypted message to any plaintext",
       "type": "story",
-      "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md"
+      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts"
     },
     "og_item": {
       "title": "The Game of War: An Overview | Alexander R. Galloway",
@@ -2803,21 +2796,20 @@
     "publisher": "YouTube",
     "description": "Amiga 500 RAM can be a bit of a mystery, like ghosts. But once you understand it, you'll never not understand it again. In this episode of \"How Things Probab...",
     "by": "doener",
-    "points": 57,
+    "points": 58,
     "comment_count": 6,
     "hn_item": {
-      "by": "phoe-krk",
+      "by": "_wldu",
       "descendants": 2,
-      "id": 30129565,
+      "id": 30142896,
       "kids": [
-        30130272,
-        30129721
+        30144335
       ],
-      "score": 11,
-      "time": 1643484611,
-      "title": "Static-Let, or how I Learned to stop worrying and love Load-Time-Value",
+      "score": 15,
+      "time": 1643589180,
+      "title": "Decrypt an encrypted message to any plaintext",
       "type": "story",
-      "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md"
+      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts"
     },
     "og_item": {
       "title": "How Amiga 500 RAM Probably Works | How Things Probably Work",
@@ -2867,18 +2859,17 @@
     "points": 38,
     "comment_count": 5,
     "hn_item": {
-      "by": "phoe-krk",
+      "by": "_wldu",
       "descendants": 2,
-      "id": 30129565,
+      "id": 30142896,
       "kids": [
-        30130272,
-        30129721
+        30144335
       ],
-      "score": 11,
-      "time": 1643484611,
-      "title": "Static-Let, or how I Learned to stop worrying and love Load-Time-Value",
+      "score": 15,
+      "time": 1643589180,
+      "title": "Decrypt an encrypted message to any plaintext",
       "type": "story",
-      "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md"
+      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts"
     },
     "og_item": null
   },
@@ -2895,18 +2886,17 @@
     "points": 693,
     "comment_count": 70,
     "hn_item": {
-      "by": "phoe-krk",
+      "by": "_wldu",
       "descendants": 2,
-      "id": 30129565,
+      "id": 30142896,
       "kids": [
-        30130272,
-        30129721
+        30144335
       ],
-      "score": 11,
-      "time": 1643484611,
-      "title": "Static-Let, or how I Learned to stop worrying and love Load-Time-Value",
+      "score": 15,
+      "time": 1643589180,
+      "title": "Decrypt an encrypted message to any plaintext",
       "type": "story",
-      "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md"
+      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts"
     },
     "og_item": {
       "title": "",
@@ -2938,18 +2928,17 @@
     "points": 147,
     "comment_count": 7,
     "hn_item": {
-      "by": "phoe-krk",
+      "by": "_wldu",
       "descendants": 2,
-      "id": 30129565,
+      "id": 30142896,
       "kids": [
-        30130272,
-        30129721
+        30144335
       ],
-      "score": 11,
-      "time": 1643484611,
-      "title": "Static-Let, or how I Learned to stop worrying and love Load-Time-Value",
+      "score": 15,
+      "time": 1643589180,
+      "title": "Decrypt an encrypted message to any plaintext",
       "type": "story",
-      "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md"
+      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts"
     },
     "og_item": {
       "title": "Controlling RGB LEDs With Only the Powerlines: Anatomy of a Christmas Light String",
@@ -2990,18 +2979,17 @@
     "points": 82,
     "comment_count": 13,
     "hn_item": {
-      "by": "phoe-krk",
+      "by": "_wldu",
       "descendants": 2,
-      "id": 30129565,
+      "id": 30142896,
       "kids": [
-        30130272,
-        30129721
+        30144335
       ],
-      "score": 11,
-      "time": 1643484611,
-      "title": "Static-Let, or how I Learned to stop worrying and love Load-Time-Value",
+      "score": 15,
+      "time": 1643589180,
+      "title": "Decrypt an encrypted message to any plaintext",
       "type": "story",
-      "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md"
+      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts"
     },
     "og_item": {
       "title": "COM+ revisited",
@@ -3042,18 +3030,17 @@
     "points": 102,
     "comment_count": 5,
     "hn_item": {
-      "by": "phoe-krk",
+      "by": "_wldu",
       "descendants": 2,
-      "id": 30129565,
+      "id": 30142896,
       "kids": [
-        30130272,
-        30129721
+        30144335
       ],
-      "score": 11,
-      "time": 1643484611,
-      "title": "Static-Let, or how I Learned to stop worrying and love Load-Time-Value",
+      "score": 15,
+      "time": 1643589180,
+      "title": "Decrypt an encrypted message to any plaintext",
       "type": "story",
-      "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md"
+      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts"
     },
     "og_item": {
       "title": "All News - Steel Bank Common Lisp",
@@ -3085,18 +3072,17 @@
     "points": 108,
     "comment_count": 13,
     "hn_item": {
-      "by": "phoe-krk",
+      "by": "_wldu",
       "descendants": 2,
-      "id": 30129565,
+      "id": 30142896,
       "kids": [
-        30130272,
-        30129721
+        30144335
       ],
-      "score": 11,
-      "time": 1643484611,
-      "title": "Static-Let, or how I Learned to stop worrying and love Load-Time-Value",
+      "score": 15,
+      "time": 1643589180,
+      "title": "Decrypt an encrypted message to any plaintext",
       "type": "story",
-      "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md"
+      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts"
     },
     "og_item": {
       "title": "Message in a bottle from Scottish girl found in Norway after 25 years",
@@ -3137,18 +3123,17 @@
     "points": 105,
     "comment_count": 7,
     "hn_item": {
-      "by": "phoe-krk",
+      "by": "_wldu",
       "descendants": 2,
-      "id": 30129565,
+      "id": 30142896,
       "kids": [
-        30130272,
-        30129721
+        30144335
       ],
-      "score": 11,
-      "time": 1643484611,
-      "title": "Static-Let, or how I Learned to stop worrying and love Load-Time-Value",
+      "score": 15,
+      "time": 1643589180,
+      "title": "Decrypt an encrypted message to any plaintext",
       "type": "story",
-      "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md"
+      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts"
     },
     "og_item": null
   },
@@ -3165,18 +3150,17 @@
     "points": 17,
     "comment_count": 5,
     "hn_item": {
-      "by": "phoe-krk",
+      "by": "_wldu",
       "descendants": 2,
-      "id": 30129565,
+      "id": 30142896,
       "kids": [
-        30130272,
-        30129721
+        30144335
       ],
-      "score": 11,
-      "time": 1643484611,
-      "title": "Static-Let, or how I Learned to stop worrying and love Load-Time-Value",
+      "score": 15,
+      "time": 1643589180,
+      "title": "Decrypt an encrypted message to any plaintext",
       "type": "story",
-      "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md"
+      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts"
     },
     "og_item": {
       "title": "I crowdfunded a novel using cryptocurrency ",
@@ -3205,6 +3189,48 @@
     }
   },
   {
+    "id": 30122435,
+    "title": "DDS: Build and library management tool for C, C++",
+    "url": "https://vector-of-bool.github.io/docs/dds/index.html",
+    "time": 1643416395,
+    "image": "",
+    "icon": "https://vector-of-bool.github.io/favicon.ico",
+    "publisher": "vector-of-bool.github.io",
+    "description": "",
+    "by": "oumua_don17",
+    "points": 28,
+    "comment_count": 2,
+    "hn_item": {
+      "by": "_wldu",
+      "descendants": 2,
+      "id": 30142896,
+      "kids": [
+        30144335
+      ],
+      "score": 15,
+      "time": 1643589180,
+      "title": "Decrypt an encrypted message to any plaintext",
+      "type": "story",
+      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts"
+    },
+    "og_item": {
+      "title": "DDS — dds 0.1.0-alpha.3 documentation",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30142896,
     "title": "Decrypt an encrypted message to any plaintext",
     "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts",
@@ -3217,18 +3243,17 @@
     "points": 15,
     "comment_count": 1,
     "hn_item": {
-      "by": "phoe-krk",
+      "by": "_wldu",
       "descendants": 2,
-      "id": 30129565,
+      "id": 30142896,
       "kids": [
-        30130272,
-        30129721
+        30144335
       ],
-      "score": 11,
-      "time": 1643484611,
-      "title": "Static-Let, or how I Learned to stop worrying and love Load-Time-Value",
+      "score": 15,
+      "time": 1643589180,
+      "title": "Decrypt an encrypted message to any plaintext",
       "type": "story",
-      "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md"
+      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts"
     },
     "og_item": {
       "title": "Padder",
@@ -3244,110 +3269,6 @@
       "video": [],
       "favicon": {
         "url": "/favicon-16x16.png"
-      }
-    }
-  },
-  {
-    "id": 30142351,
-    "title": "Completing a Creative Project",
-    "url": "https://www.sonyasupposedly.com/completing-a-creative-project/",
-    "time": 1643585100,
-    "image": "https://www.sonyasupposedly.com/content/images/2022/01/artdecoladies-1.jpg",
-    "icon": "https://www.sonyasupposedly.com/favicon.png",
-    "publisher": "Sonya Supposedly",
-    "description": "My undying thanks to members for funding the following realizations 💖 Btw, click here for the PDF version that I mailed in November, if you want it for some reason. How to complete a creative project: stick with it until you're done. Gee thanks, great advice, I know. But it's true!",
-    "by": "exolymph",
-    "points": 7,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "phoe-krk",
-      "descendants": 2,
-      "id": 30129565,
-      "kids": [
-        30130272,
-        30129721
-      ],
-      "score": 11,
-      "time": 1643484611,
-      "title": "Static-Let, or how I Learned to stop worrying and love Load-Time-Value",
-      "type": "story",
-      "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md"
-    },
-    "og_item": {
-      "title": "Completing a Creative Project",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://www.sonyasupposedly.com/content/images/2022/01/artdecoladies-1.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 2000,
-          "height": 1050,
-          "alt": ""
-        }
-      ],
-      "url": "https://www.sonyasupposedly.com/completing-a-creative-project/",
-      "audio": [],
-      "description": "My undying thanks to members for funding the following realizations 💖 Btw, click here for the PDF version that I mailed in November, if you want it for some reason. How to complete a creative project: stick with it until you're done. Gee thanks, great advice, I know. But it's true!",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Sonya Supposedly",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.png"
-      }
-    }
-  },
-  {
-    "id": 30129565,
-    "title": "Static-Let, or how I Learned to stop worrying and love Load-Time-Value",
-    "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md",
-    "time": 1643484611,
-    "image": "https://opengraph.githubassets.com/57af4ff8db4a9d92fb846ed1f2d3932bced540aab39ce673eac12976672d5014/phoe/articles",
-    "icon": "https://github.githubassets.com/favicons/favicon.svg",
-    "publisher": "GitHub",
-    "description": "An assorted gathering of the Lisp posts and articles I make. - articles/static-let.md at main · phoe/articles",
-    "by": "phoe-krk",
-    "points": 11,
-    "comment_count": 2,
-    "hn_item": {
-      "by": "phoe-krk",
-      "descendants": 2,
-      "id": 30129565,
-      "kids": [
-        30130272,
-        30129721
-      ],
-      "score": 11,
-      "time": 1643484611,
-      "title": "Static-Let, or how I Learned to stop worrying and love Load-Time-Value",
-      "type": "story",
-      "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md"
-    },
-    "og_item": {
-      "title": "articles/static-let.md at main · phoe/articles",
-      "type": "object",
-      "image": [
-        {
-          "url": "https://opengraph.githubassets.com/57af4ff8db4a9d92fb846ed1f2d3932bced540aab39ce673eac12976672d5014/phoe/articles",
-          "secure_url": "",
-          "type": "",
-          "width": 1200,
-          "height": 600,
-          "alt": ""
-        }
-      ],
-      "url": "https://github.com/phoe/articles",
-      "audio": [],
-      "description": "An assorted gathering of the Lisp posts and articles I make. - articles/static-let.md at main · phoe/articles",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "GitHub",
-      "video": [],
-      "favicon": {
-        "url": "https://github.githubassets.com/favicons/favicon.svg"
       }
     }
   }
