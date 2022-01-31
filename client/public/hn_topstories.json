@@ -9,7 +9,7 @@
     "publisher": "zillow.com",
     "description": "",
     "by": "otras",
-    "points": 174,
+    "points": 183,
     "comment_count": 24,
     "hn_item": {
       "by": "lsllc",
@@ -51,7 +51,7 @@
     "publisher": "royalsociety.org",
     "description": "The Online Information Environment report discusses how to limit the harm of scientific misinformation online",
     "by": "steelstraw",
-    "points": 556,
+    "points": 560,
     "comment_count": 40,
     "hn_item": {
       "by": "lsllc",
@@ -89,6 +89,57 @@
       "video": [],
       "favicon": {
         "url": "/images/Main/favIcon.ico"
+      }
+    }
+  },
+  {
+    "id": 30144108,
+    "title": "Reimagining Chess with AlphaZero",
+    "url": "https://cacm.acm.org/magazines/2022/2/258230-reimagining-chess-with-alphazero/fulltext",
+    "time": 1643599537,
+    "image": "https://cacm.acm.org/system/assets/0004/2100/012022_CACMpg1_Reimagining-Chess1.large.jpg?1642700035\u00261642700035",
+    "icon": "https://cacm.acm.org/favicon.ico",
+    "publisher": "cacm.acm.org",
+    "description": "AI is driving the next evolution of chess, giving players a glimpse into the game\u0026#39;s future.",
+    "by": "joak",
+    "points": 60,
+    "comment_count": 7,
+    "hn_item": {
+      "by": "lsllc",
+      "descendants": 4,
+      "id": 30142494,
+      "kids": [
+        30143090
+      ],
+      "score": 26,
+      "time": 1643586052,
+      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
+      "type": "story",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
+    },
+    "og_item": {
+      "title": "Reimagining Chess with AlphaZero",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://cacm.acm.org/system/assets/0004/2100/012022_CACMpg1_Reimagining-Chess1.large.jpg?1642700035\u00261642700035",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://cacm.acm.org/magazines/2022/2/258230-reimagining-chess-with-alphazero/fulltext",
+      "audio": [],
+      "description": "AI is driving the next evolution of chess, giving players a glimpse into the game\u0026#39;s future.\n",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
       }
     }
   },
@@ -135,57 +186,6 @@
     }
   },
   {
-    "id": 30144108,
-    "title": "Reimagining Chess with AlphaZero",
-    "url": "https://cacm.acm.org/magazines/2022/2/258230-reimagining-chess-with-alphazero/fulltext",
-    "time": 1643599537,
-    "image": "https://cacm.acm.org/system/assets/0004/2100/012022_CACMpg1_Reimagining-Chess1.large.jpg?1642700035\u00261642700035",
-    "icon": "https://cacm.acm.org/favicon.ico",
-    "publisher": "cacm.acm.org",
-    "description": "AI is driving the next evolution of chess, giving players a glimpse into the game\u0026#39;s future.",
-    "by": "joak",
-    "points": 57,
-    "comment_count": 7,
-    "hn_item": {
-      "by": "lsllc",
-      "descendants": 4,
-      "id": 30142494,
-      "kids": [
-        30143090
-      ],
-      "score": 26,
-      "time": 1643586052,
-      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
-      "type": "story",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
-    },
-    "og_item": {
-      "title": "Reimagining Chess with AlphaZero",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://cacm.acm.org/system/assets/0004/2100/012022_CACMpg1_Reimagining-Chess1.large.jpg?1642700035\u00261642700035",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://cacm.acm.org/magazines/2022/2/258230-reimagining-chess-with-alphazero/fulltext",
-      "audio": [],
-      "description": "AI is driving the next evolution of chess, giving players a glimpse into the game\u0026#39;s future.\n",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30124457,
     "title": "Chip shortages due to lack of investment in right fabs",
     "url": "https://www.theregister.com/2022/01/28/idc_chip_shortages/",
@@ -195,7 +195,7 @@
     "publisher": "theregister.com",
     "description": "",
     "by": "laktak",
-    "points": 32,
+    "points": 34,
     "comment_count": 2,
     "hn_item": {
       "by": "lsllc",
@@ -237,7 +237,7 @@
     "publisher": "Medium",
     "description": "My journey on finding and reporting databases with sensitive data about Fortune-500 companies, Hospitals, Crypto platforms, Startups during…",
     "by": "boyter",
-    "points": 53,
+    "points": 54,
     "comment_count": 10,
     "hn_item": {
       "by": "lsllc",
@@ -288,7 +288,7 @@
     "publisher": "fahrrad-tools.de",
     "description": "Which tire fits my bike? Tires are always flat and now buy a tire with puncture protection? Find the right tire now!",
     "by": "moasda",
-    "points": 552,
+    "points": 554,
     "comment_count": 37,
     "hn_item": {
       "by": "lsllc",
@@ -317,6 +317,57 @@
       "video": [],
       "favicon": {
         "url": "icon.png"
+      }
+    }
+  },
+  {
+    "id": 30144805,
+    "title": "Examples of common false beliefs in mathematics",
+    "url": "https://mathoverflow.net/questions/23478/examples-of-common-false-beliefs-in-mathematics",
+    "time": 1643606336,
+    "image": "https://cdn.sstatic.net/Sites/mathoverflow/Img/apple-touch-icon@2.png?v=f1c9606b77ff",
+    "icon": "https://cdn.sstatic.net/Sites/mathoverflow/Img/favicon.ico?v=8bbfe38cfc48",
+    "publisher": "MathOverflow",
+    "description": "The first thing to say is that this is not the same as the question about interesting mathematical mistakes. I am interested about the type of false beliefs that many intelligent people have while ...",
+    "by": "gballan",
+    "points": 10,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "lsllc",
+      "descendants": 4,
+      "id": 30142494,
+      "kids": [
+        30143090
+      ],
+      "score": 26,
+      "time": 1643586052,
+      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
+      "type": "story",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
+    },
+    "og_item": {
+      "title": "Examples of common false beliefs in mathematics",
+      "type": "website",
+      "image": [
+        {
+          "url": "https://cdn.sstatic.net/Sites/mathoverflow/Img/apple-touch-icon@2.png?v=f1c9606b77ff",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://mathoverflow.net/questions/23478/examples-of-common-false-beliefs-in-mathematics",
+      "audio": [],
+      "description": "The first thing to say is that this is not the same as the question about interesting mathematical mistakes. I am interested about the type of false beliefs that many intelligent people have while ...",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "MathOverflow",
+      "video": [],
+      "favicon": {
+        "url": "https://cdn.sstatic.net/Sites/mathoverflow/Img/favicon.ico?v=8bbfe38cfc48"
       }
     }
   },
@@ -372,57 +423,6 @@
     }
   },
   {
-    "id": 30144805,
-    "title": "Examples of common false beliefs in mathematics",
-    "url": "https://mathoverflow.net/questions/23478/examples-of-common-false-beliefs-in-mathematics",
-    "time": 1643606336,
-    "image": "https://cdn.sstatic.net/Sites/mathoverflow/Img/apple-touch-icon@2.png?v=f1c9606b77ff",
-    "icon": "https://cdn.sstatic.net/Sites/mathoverflow/Img/favicon.ico?v=8bbfe38cfc48",
-    "publisher": "MathOverflow",
-    "description": "The first thing to say is that this is not the same as the question about interesting mathematical mistakes. I am interested about the type of false beliefs that many intelligent people have while ...",
-    "by": "gballan",
-    "points": 8,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "lsllc",
-      "descendants": 4,
-      "id": 30142494,
-      "kids": [
-        30143090
-      ],
-      "score": 26,
-      "time": 1643586052,
-      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
-      "type": "story",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
-    },
-    "og_item": {
-      "title": "Examples of common false beliefs in mathematics",
-      "type": "website",
-      "image": [
-        {
-          "url": "https://cdn.sstatic.net/Sites/mathoverflow/Img/apple-touch-icon@2.png?v=f1c9606b77ff",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://mathoverflow.net/questions/23478/examples-of-common-false-beliefs-in-mathematics",
-      "audio": [],
-      "description": "The first thing to say is that this is not the same as the question about interesting mathematical mistakes. I am interested about the type of false beliefs that many intelligent people have while ...",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "MathOverflow",
-      "video": [],
-      "favicon": {
-        "url": "https://cdn.sstatic.net/Sites/mathoverflow/Img/favicon.ico?v=8bbfe38cfc48"
-      }
-    }
-  },
-  {
     "id": 30140835,
     "title": "Hardy, Ramanujan and Taxi No. 1729",
     "url": "https://johncarlosbaez.wordpress.com/2022/01/30/hardy-ramanujan-and-taxi-no-1729/",
@@ -432,7 +432,7 @@
     "publisher": "Azimuth",
     "description": "In his book Ramanujan: Twelve Lectures on Subjects Suggested by His Life and Work, G. H. Hardy tells this famous story: He could remember the idiosyncracies of numbers in an almost uncanny way. It …",
     "by": "johncarlosbaez",
-    "points": 70,
+    "points": 71,
     "comment_count": 6,
     "hn_item": {
       "by": "lsllc",
@@ -558,6 +558,48 @@
     }
   },
   {
+    "id": 30141278,
+    "title": "The Story of Maxis Software (1999)",
+    "url": "https://web.archive.org/web/19991012021220/http://gamespot.com/features/maxis/index.html",
+    "time": 1643577913,
+    "image": "",
+    "icon": "https://web.archive.org/favicon.ico",
+    "publisher": "web.archive.org",
+    "description": "",
+    "by": "ecliptik",
+    "points": 94,
+    "comment_count": 8,
+    "hn_item": {
+      "by": "lsllc",
+      "descendants": 4,
+      "id": 30142494,
+      "kids": [
+        30143090
+      ],
+      "score": 26,
+      "time": 1643586052,
+      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
+      "type": "story",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
+    },
+    "og_item": {
+      "title": "GameSpot's SIMply Divine: The Story of Maxis Software",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30131926,
     "title": "What is the inverse of a circle?",
     "url": "https://mattferraro.dev/posts/inverse-of-a-circle",
@@ -567,7 +609,7 @@
     "publisher": "mattferraro.dev",
     "description": "What does it mean to invert a shape?",
     "by": "mferraro89",
-    "points": 12,
+    "points": 14,
     "comment_count": 1,
     "hn_item": {
       "by": "lsllc",
@@ -598,48 +640,6 @@
       "url": "",
       "audio": [],
       "description": "What does it mean to invert a shape?",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30141278,
-    "title": "The Story of Maxis Software (1999)",
-    "url": "https://web.archive.org/web/19991012021220/http://gamespot.com/features/maxis/index.html",
-    "time": 1643577913,
-    "image": "",
-    "icon": "https://web.archive.org/favicon.ico",
-    "publisher": "web.archive.org",
-    "description": "",
-    "by": "ecliptik",
-    "points": 93,
-    "comment_count": 8,
-    "hn_item": {
-      "by": "lsllc",
-      "descendants": 4,
-      "id": 30142494,
-      "kids": [
-        30143090
-      ],
-      "score": 26,
-      "time": 1643586052,
-      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
-      "type": "story",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
-    },
-    "og_item": {
-      "title": "GameSpot's SIMply Divine: The Story of Maxis Software",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
@@ -744,6 +744,57 @@
     }
   },
   {
+    "id": 30138434,
+    "title": "Beancount: Double-entry accounting from text files",
+    "url": "https://github.com/beancount/beancount",
+    "time": 1643559445,
+    "image": "https://opengraph.githubassets.com/de48de91fe0c4269bd8e5142636d1ed435028c6b7470aedb7ae6aa4923a7a398/beancount/beancount",
+    "icon": "https://github.githubassets.com/favicons/favicon.svg",
+    "publisher": "GitHub",
+    "description": "Beancount: Double-Entry Accounting from Text Files. - GitHub - beancount/beancount: Beancount: Double-Entry Accounting from Text Files.",
+    "by": "techtalsky",
+    "points": 192,
+    "comment_count": 22,
+    "hn_item": {
+      "by": "lsllc",
+      "descendants": 4,
+      "id": 30142494,
+      "kids": [
+        30143090
+      ],
+      "score": 26,
+      "time": 1643586052,
+      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
+      "type": "story",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
+    },
+    "og_item": {
+      "title": "GitHub - beancount/beancount: Beancount: Double-Entry Accounting from Text Files.",
+      "type": "object",
+      "image": [
+        {
+          "url": "https://opengraph.githubassets.com/de48de91fe0c4269bd8e5142636d1ed435028c6b7470aedb7ae6aa4923a7a398/beancount/beancount",
+          "secure_url": "",
+          "type": "",
+          "width": 1200,
+          "height": 600,
+          "alt": ""
+        }
+      ],
+      "url": "https://github.com/beancount/beancount",
+      "audio": [],
+      "description": "Beancount: Double-Entry Accounting from Text Files. - GitHub - beancount/beancount: Beancount: Double-Entry Accounting from Text Files.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "GitHub",
+      "video": [],
+      "favicon": {
+        "url": "https://github.githubassets.com/favicons/favicon.svg"
+      }
+    }
+  },
+  {
     "id": 30141192,
     "title": "Don't forget Microsoft",
     "url": "https://luttig.substack.com/p/dont-forget-microsoft",
@@ -753,7 +804,7 @@
     "publisher": "luttig.substack.com",
     "description": "Understanding the behemoth in Redmond teaches us valuable lessons in cloud infrastructure, startup strategy, and the future of software.",
     "by": "SamvitJ",
-    "points": 241,
+    "points": 242,
     "comment_count": 49,
     "hn_item": {
       "by": "lsllc",
@@ -791,57 +842,6 @@
       "video": [],
       "favicon": {
         "url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/9c349228-1ca8-4dba-b953-12d78b35ee45/favicon-32x32.png"
-      }
-    }
-  },
-  {
-    "id": 30138434,
-    "title": "Beancount: Double-entry accounting from text files",
-    "url": "https://github.com/beancount/beancount",
-    "time": 1643559445,
-    "image": "https://opengraph.githubassets.com/c1231920d9907f4542e1adfd3a68ce9917115dfbbc8be5251cdcb3643e6eaf99/beancount/beancount",
-    "icon": "https://github.githubassets.com/favicons/favicon.svg",
-    "publisher": "GitHub",
-    "description": "Beancount: Double-Entry Accounting from Text Files. - GitHub - beancount/beancount: Beancount: Double-Entry Accounting from Text Files.",
-    "by": "techtalsky",
-    "points": 191,
-    "comment_count": 22,
-    "hn_item": {
-      "by": "lsllc",
-      "descendants": 4,
-      "id": 30142494,
-      "kids": [
-        30143090
-      ],
-      "score": 26,
-      "time": 1643586052,
-      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
-      "type": "story",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
-    },
-    "og_item": {
-      "title": "GitHub - beancount/beancount: Beancount: Double-Entry Accounting from Text Files.",
-      "type": "object",
-      "image": [
-        {
-          "url": "https://opengraph.githubassets.com/c1231920d9907f4542e1adfd3a68ce9917115dfbbc8be5251cdcb3643e6eaf99/beancount/beancount",
-          "secure_url": "",
-          "type": "",
-          "width": 1200,
-          "height": 600,
-          "alt": ""
-        }
-      ],
-      "url": "https://github.com/beancount/beancount",
-      "audio": [],
-      "description": "Beancount: Double-Entry Accounting from Text Files. - GitHub - beancount/beancount: Beancount: Double-Entry Accounting from Text Files.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "GitHub",
-      "video": [],
-      "favicon": {
-        "url": "https://github.githubassets.com/favicons/favicon.svg"
       }
     }
   },
@@ -888,6 +888,48 @@
     }
   },
   {
+    "id": 30140984,
+    "title": "A UX designer walks into a Tesla Bar",
+    "url": "https://jenson.org/tesla/",
+    "time": 1643576121,
+    "image": "",
+    "icon": "https://jenson.org/wp-content/uploads/2015/09/out-200x200.png",
+    "publisher": "jenson.org",
+    "description": "",
+    "by": "radley",
+    "points": 679,
+    "comment_count": 95,
+    "hn_item": {
+      "by": "lsllc",
+      "descendants": 4,
+      "id": 30142494,
+      "kids": [
+        30143090
+      ],
+      "score": 26,
+      "time": 1643586052,
+      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
+      "type": "story",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
+    },
+    "og_item": {
+      "title": "A UX designer walks into a Tesla Bar – Scott Jenson",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "https://jenson.org/wp-content/uploads/2015/09/out-200x200.png"
+      }
+    }
+  },
+  {
     "id": 30142105,
     "title": "Seattle Telecommunications History Museum",
     "url": "https://www.telcomhistory.org/connections-museum-seattle/",
@@ -926,99 +968,6 @@
       "video": [],
       "favicon": {
         "url": "/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30140984,
-    "title": "A UX designer walks into a Tesla Bar",
-    "url": "https://jenson.org/tesla/",
-    "time": 1643576121,
-    "image": "",
-    "icon": "https://jenson.org/wp-content/uploads/2015/09/out-200x200.png",
-    "publisher": "jenson.org",
-    "description": "",
-    "by": "radley",
-    "points": 674,
-    "comment_count": 95,
-    "hn_item": {
-      "by": "lsllc",
-      "descendants": 4,
-      "id": 30142494,
-      "kids": [
-        30143090
-      ],
-      "score": 26,
-      "time": 1643586052,
-      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
-      "type": "story",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
-    },
-    "og_item": {
-      "title": "A UX designer walks into a Tesla Bar – Scott Jenson",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "https://jenson.org/wp-content/uploads/2015/09/out-200x200.png"
-      }
-    }
-  },
-  {
-    "id": 30141439,
-    "title": "Operation Warp Speed: A new model for industrial policy",
-    "url": "https://americanaffairsjournal.org/2021/05/inside-operation-warp-speed-a-new-model-for-industrial-policy/",
-    "time": 1643579096,
-    "image": "https://americanaffairsjournal.org/wp-content/uploads/2021/05/Jenner-Vaccine.jpg",
-    "icon": "https://americanaffairsjournal.org/wp-content/themes/american-affairs-journal/assets/images/favicon-new.png",
-    "publisher": "American Affairs Journal",
-    "description": "Operation Warp Speed1 (OWS) was launched on May 15, 2020. A partnership between the Departments of Health and Human Services (HHS) and Defense (DoD), other agencies, and the private sector, its goal was to “accelerate the testing, supply, development, and distribution of safe and effective vacc…",
-    "by": "gok",
-    "points": 96,
-    "comment_count": 6,
-    "hn_item": {
-      "by": "lsllc",
-      "descendants": 4,
-      "id": 30142494,
-      "kids": [
-        30143090
-      ],
-      "score": 26,
-      "time": 1643586052,
-      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
-      "type": "story",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
-    },
-    "og_item": {
-      "title": "Inside Operation Warp Speed: A New Model for Industrial Policy - American Affairs Journal",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://americanaffairsjournal.org/wp-content/uploads/2021/05/Jenner-Vaccine.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 1200,
-          "height": 794,
-          "alt": ""
-        }
-      ],
-      "url": "https://americanaffairsjournal.org/2021/05/inside-operation-warp-speed-a-new-model-for-industrial-policy/",
-      "audio": [],
-      "description": "Operation Warp Speed1 (OWS) was launched on May 15, 2020. A partnership between the Departments of Health and Human Services (HHS) and Defense (DoD), other agencies, and the private sector, its goal was to “accelerate the testing, supply, development, and distribution of safe and effective vaccines, therapeutics, and diag­nostics to counter Covid-19.” As a result…",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "American Affairs Journal",
-      "video": [],
-      "favicon": {
-        "url": "https://americanaffairsjournal.org/wp-content/themes/american-affairs-journal/assets/images/favicon-new.png"
       }
     }
   },
@@ -1070,6 +1019,57 @@
       "video": [],
       "favicon": {
         "url": "https://vice-web-statics-cdn.vice.com/favicons/vice/favicon-16x16.png"
+      }
+    }
+  },
+  {
+    "id": 30141439,
+    "title": "Operation Warp Speed: A new model for industrial policy",
+    "url": "https://americanaffairsjournal.org/2021/05/inside-operation-warp-speed-a-new-model-for-industrial-policy/",
+    "time": 1643579096,
+    "image": "https://americanaffairsjournal.org/wp-content/uploads/2021/05/Jenner-Vaccine.jpg",
+    "icon": "https://americanaffairsjournal.org/wp-content/themes/american-affairs-journal/assets/images/favicon-new.png",
+    "publisher": "American Affairs Journal",
+    "description": "Operation Warp Speed1 (OWS) was launched on May 15, 2020. A partnership between the Departments of Health and Human Services (HHS) and Defense (DoD), other agencies, and the private sector, its goal was to “accelerate the testing, supply, development, and distribution of safe and effective vacc…",
+    "by": "gok",
+    "points": 96,
+    "comment_count": 6,
+    "hn_item": {
+      "by": "lsllc",
+      "descendants": 4,
+      "id": 30142494,
+      "kids": [
+        30143090
+      ],
+      "score": 26,
+      "time": 1643586052,
+      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
+      "type": "story",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
+    },
+    "og_item": {
+      "title": "Inside Operation Warp Speed: A New Model for Industrial Policy - American Affairs Journal",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://americanaffairsjournal.org/wp-content/uploads/2021/05/Jenner-Vaccine.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 1200,
+          "height": 794,
+          "alt": ""
+        }
+      ],
+      "url": "https://americanaffairsjournal.org/2021/05/inside-operation-warp-speed-a-new-model-for-industrial-policy/",
+      "audio": [],
+      "description": "Operation Warp Speed1 (OWS) was launched on May 15, 2020. A partnership between the Departments of Health and Human Services (HHS) and Defense (DoD), other agencies, and the private sector, its goal was to “accelerate the testing, supply, development, and distribution of safe and effective vaccines, therapeutics, and diag­nostics to counter Covid-19.” As a result…",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "American Affairs Journal",
+      "video": [],
+      "favicon": {
+        "url": "https://americanaffairsjournal.org/wp-content/themes/american-affairs-journal/assets/images/favicon-new.png"
       }
     }
   },
@@ -1176,57 +1176,6 @@
     }
   },
   {
-    "id": 30142558,
-    "title": "State of the Web: Static Site Generators",
-    "url": "https://byteofdev.com/posts/static-site-generators/",
-    "time": 1643586463,
-    "image": "https://ik.imagekit.io/serenity/ByteofDev/Blog_Heading_Images/State_of_the_Web_Static_Site_Generators",
-    "icon": "https://byteofdev.com/favicon.svg",
-    "publisher": "ByteofDev",
-    "description": "Static Site Generators have been changing quickly with new trends like Jamstack. Learn more about the background of static site generators, why people use them, and the current state of them, with information on modern SSGs like Eleventy, Next.js, SvelteKit, and Astro.",
-    "by": "AsyncBanana",
-    "points": 68,
-    "comment_count": 11,
-    "hn_item": {
-      "by": "lsllc",
-      "descendants": 4,
-      "id": 30142494,
-      "kids": [
-        30143090
-      ],
-      "score": 26,
-      "time": 1643586052,
-      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
-      "type": "story",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
-    },
-    "og_item": {
-      "title": "State of the Web: Static Site Generators",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://ik.imagekit.io/serenity/ByteofDev/Blog_Heading_Images/State_of_the_Web_Static_Site_Generators",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://byteofdev.com/posts/static-site-generators/",
-      "audio": [],
-      "description": "Static Site Generators have been changing quickly with new trends like Jamstack. Learn more about the background of static site generators, why people use them, and the current state of them, with information on modern SSGs like Eleventy, Next.js, SvelteKit, and Astro.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "ByteofDev",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.svg"
-      }
-    }
-  },
-  {
     "id": 30131387,
     "title": "Game performance optimization – A practical example from Industry Idle",
     "url": "https://ruoyusun.com/2022/01/28/game-pref.html",
@@ -1265,6 +1214,57 @@
       "video": [],
       "favicon": {
         "url": "/favicon-16x16.png"
+      }
+    }
+  },
+  {
+    "id": 30142558,
+    "title": "State of the Web: Static Site Generators",
+    "url": "https://byteofdev.com/posts/static-site-generators/",
+    "time": 1643586463,
+    "image": "https://ik.imagekit.io/serenity/ByteofDev/Blog_Heading_Images/State_of_the_Web_Static_Site_Generators",
+    "icon": "https://byteofdev.com/favicon.svg",
+    "publisher": "ByteofDev",
+    "description": "Static Site Generators have been changing quickly with new trends like Jamstack. Learn more about the background of static site generators, why people use them, and the current state of them, with information on modern SSGs like Eleventy, Next.js, SvelteKit, and Astro.",
+    "by": "AsyncBanana",
+    "points": 70,
+    "comment_count": 11,
+    "hn_item": {
+      "by": "lsllc",
+      "descendants": 4,
+      "id": 30142494,
+      "kids": [
+        30143090
+      ],
+      "score": 26,
+      "time": 1643586052,
+      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
+      "type": "story",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
+    },
+    "og_item": {
+      "title": "State of the Web: Static Site Generators",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://ik.imagekit.io/serenity/ByteofDev/Blog_Heading_Images/State_of_the_Web_Static_Site_Generators",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://byteofdev.com/posts/static-site-generators/",
+      "audio": [],
+      "description": "Static Site Generators have been changing quickly with new trends like Jamstack. Learn more about the background of static site generators, why people use them, and the current state of them, with information on modern SSGs like Eleventy, Next.js, SvelteKit, and Astro.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "ByteofDev",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.svg"
       }
     }
   },
@@ -1329,7 +1329,7 @@
     "publisher": "softpanorama.org",
     "description": "",
     "by": "ingve",
-    "points": 155,
+    "points": 156,
     "comment_count": 18,
     "hn_item": {
       "by": "lsllc",
@@ -1371,7 +1371,7 @@
     "publisher": "recur-env.eba-rm3fchmn.us-eas…",
     "description": "",
     "by": "ShamelessC",
-    "points": 53,
+    "points": 54,
     "comment_count": 12,
     "hn_item": {
       "by": "lsllc",
@@ -1464,7 +1464,7 @@
     "publisher": "TechCrunch",
     "description": "Today’s cars are dumb where they should be smart, and smart where they should be dumb. Enough already. Make a car that’s pretty much all dumb and watch it sell — because what automakers are giving people is so bad, they’ll pay more to have less of it. Cars now are like budget smar…",
     "by": "wrycoder",
-    "points": 36,
+    "points": 37,
     "comment_count": 6,
     "hn_item": {
       "by": "lsllc",
@@ -1635,57 +1635,6 @@
     }
   },
   {
-    "id": 30142247,
-    "title": "Basic Cryptography – The Vigenere Cipher",
-    "url": "https://eric.mann.blog/basic-cryptography-the-vigenere-cipher/",
-    "time": 1643584323,
-    "image": "https://i0.wp.com/eric.mann.blog/wp-content/uploads/2022/01/fig-29-01-2022_17-52-02.jpg?fit=1500%2C900\u0026ssl=1",
-    "icon": "https://i0.wp.com/eric.mann.blog/wp-content/uploads/2021/12/cropped-00100sPORTRAIT_00100_BURST20190126115324341_COVER-scaled-1.jpg?fit=192%2C192\u0026ssl=1",
-    "publisher": "Eric Mann's Blog",
-    "description": "The Vigenere cipher is more complicated that the Caesar cipher but based on the same idea. It uses a running key to keep your message secure.",
-    "by": "eamann",
-    "points": 28,
-    "comment_count": 6,
-    "hn_item": {
-      "by": "lsllc",
-      "descendants": 4,
-      "id": 30142494,
-      "kids": [
-        30143090
-      ],
-      "score": 26,
-      "time": 1643586052,
-      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
-      "type": "story",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
-    },
-    "og_item": {
-      "title": "Basic cryptography - the Vigenere cipher - Eric Mann's Blog",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://i0.wp.com/eric.mann.blog/wp-content/uploads/2022/01/fig-29-01-2022_17-52-02.jpg?fit=1500%2C900\u0026ssl=1",
-          "secure_url": "",
-          "type": "",
-          "width": 1500,
-          "height": 900,
-          "alt": ""
-        }
-      ],
-      "url": "https://eric.mann.blog/basic-cryptography-the-vigenere-cipher/",
-      "audio": [],
-      "description": "The Vigenere cipher is more complicated that the Caesar cipher but based on the same idea. It uses a running key to keep your message secure.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Eric Mann's Blog",
-      "video": [],
-      "favicon": {
-        "url": "https://i0.wp.com/eric.mann.blog/wp-content/uploads/2021/12/cropped-00100sPORTRAIT_00100_BURST20190126115324341_COVER-scaled-1.jpg?fit=192%2C192\u0026ssl=1"
-      }
-    }
-  },
-  {
     "id": 30135190,
     "title": "FunctionStomping – A new shellcode injection technique",
     "url": "https://github.com/Idov31/FunctionStomping",
@@ -1737,6 +1686,57 @@
     }
   },
   {
+    "id": 30142247,
+    "title": "Basic Cryptography – The Vigenere Cipher",
+    "url": "https://eric.mann.blog/basic-cryptography-the-vigenere-cipher/",
+    "time": 1643584323,
+    "image": "https://i0.wp.com/eric.mann.blog/wp-content/uploads/2022/01/fig-29-01-2022_17-52-02.jpg?fit=1500%2C900\u0026ssl=1",
+    "icon": "https://i0.wp.com/eric.mann.blog/wp-content/uploads/2021/12/cropped-00100sPORTRAIT_00100_BURST20190126115324341_COVER-scaled-1.jpg?fit=192%2C192\u0026ssl=1",
+    "publisher": "Eric Mann's Blog",
+    "description": "The Vigenere cipher is more complicated that the Caesar cipher but based on the same idea. It uses a running key to keep your message secure.",
+    "by": "eamann",
+    "points": 28,
+    "comment_count": 6,
+    "hn_item": {
+      "by": "lsllc",
+      "descendants": 4,
+      "id": 30142494,
+      "kids": [
+        30143090
+      ],
+      "score": 26,
+      "time": 1643586052,
+      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
+      "type": "story",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
+    },
+    "og_item": {
+      "title": "Basic cryptography - the Vigenere cipher - Eric Mann's Blog",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://i0.wp.com/eric.mann.blog/wp-content/uploads/2022/01/fig-29-01-2022_17-52-02.jpg?fit=1500%2C900\u0026ssl=1",
+          "secure_url": "",
+          "type": "",
+          "width": 1500,
+          "height": 900,
+          "alt": ""
+        }
+      ],
+      "url": "https://eric.mann.blog/basic-cryptography-the-vigenere-cipher/",
+      "audio": [],
+      "description": "The Vigenere cipher is more complicated that the Caesar cipher but based on the same idea. It uses a running key to keep your message secure.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Eric Mann's Blog",
+      "video": [],
+      "favicon": {
+        "url": "https://i0.wp.com/eric.mann.blog/wp-content/uploads/2021/12/cropped-00100sPORTRAIT_00100_BURST20190126115324341_COVER-scaled-1.jpg?fit=192%2C192\u0026ssl=1"
+      }
+    }
+  },
+  {
     "id": 30144083,
     "title": "Rents are up 40 percent in some cities, forcing millions to move",
     "url": "https://www.washingtonpost.com/business/2022/01/30/rent-inflation-housing/",
@@ -1746,7 +1746,7 @@
     "publisher": "Washington Post",
     "description": "Rising rents are also expected to be a driving force in inflation this year and have been an ongoing policy challenge for the Biden administration.",
     "by": "MilnerRoute",
-    "points": 73,
+    "points": 75,
     "comment_count": 12,
     "hn_item": {
       "by": "lsllc",
@@ -1788,17 +1788,17 @@
     }
   },
   {
-    "id": 30115520,
-    "title": "Pearls Before Breakfast (2007)",
-    "url": "https://www.washingtonpost.com/lifestyle/magazine/pearls-before-breakfast-can-one-of-the-nations-great-musicians-cut-through-the-fog-of-a-dc-rush-hour-lets-find-out/2014/09/23/8a6d46da-4331-11e4-b47c-f5889e061e5f_story.html",
-    "time": 1643382593,
-    "image": "https://www.washingtonpost.com/pbox.php?url=https://www.washingtonpost.com/pb/resources/img/twp-social-share.png\u0026w=1484\u0026op=resize\u0026opt=1\u0026filter=antialias\u0026t=20170517",
-    "icon": "https://www.washingtonpost.com/favicon.ico",
-    "publisher": "Washington Post",
-    "description": "Joshua Bell is one of the world’s greatest violinists. His instrument of choice is a multimillion-dollar Stradivarius. If he played it for spare change, incognito, outside a bustling Metro stop in Washington, would anyone notice?",
-    "by": "Tomte",
-    "points": 11,
-    "comment_count": 7,
+    "id": 30119285,
+    "title": "Devious SQL: Message Queuing Using Native PostgreSQL",
+    "url": "https://blog.crunchydata.com/blog/message-queuing-using-native-postgresql",
+    "time": 1643398437,
+    "image": "https://blog.crunchydata.com/hubfs/goose_march.png#keepProtocol",
+    "icon": "https://blog.crunchydata.com/hubfs/Flat%20Logo_Color%20Icon.png",
+    "publisher": "blog.crunchydata.com",
+    "description": "An interesting question came up on the #postgresql IRC channel about how to use native PostgreSQL features to handle some sort of queuing behavior. While the specific usage was related to handling serialization of specific events to some external broker, the specifics are less important than the …",
+    "by": "Scramblejams",
+    "points": 117,
+    "comment_count": 9,
     "hn_item": {
       "by": "lsllc",
       "descendants": 4,
@@ -1813,28 +1813,28 @@
       "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
     },
     "og_item": {
-      "title": "Pearls Before Breakfast: Can one of the nation’s great musicians cut through the fog of a D.C. rush hour? Let’s find out.",
+      "title": "Devious SQL: Message Queuing Using Native PostgreSQL",
       "type": "article",
       "image": [
         {
-          "url": "https://www.washingtonpost.com/pbox.php?url=https://www.washingtonpost.com/pb/resources/img/twp-social-share.png\u0026w=1484\u0026op=resize\u0026opt=1\u0026filter=antialias\u0026t=20170517",
+          "url": "https://blog.crunchydata.com/hubfs/goose_march.png#keepProtocol",
           "secure_url": "",
           "type": "",
-          "width": 0,
-          "height": 0,
+          "width": 523,
+          "height": 273,
           "alt": ""
         }
       ],
-      "url": "https://www.washingtonpost.com/lifestyle/magazine/pearls-before-breakfast-can-one-of-the-nations-great-musicians-cut-through-the-fog-of-a-dc-rush-hour-lets-find-out/2014/09/23/8a6d46da-4331-11e4-b47c-f5889e061e5f_story.html",
+      "url": "https://blog.crunchydata.com/blog/message-queuing-using-native-postgresql",
       "audio": [],
-      "description": "Joshua Bell is one of the world’s greatest violinists. His instrument of choice is a multimillion-dollar Stradivarius. If he played it for spare change, incognito, outside a bustling Metro stop in Washington, would anyone notice?",
+      "description": "An interesting question came up on the #postgresql IRC channel about how to use native PostgreSQL features to handle some sort of queuing behavior. While the specific usage was related to handling serialization of specific events to some external broker, the specifics are less important than the overall structure.\n\n",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "Washington Post",
+      "site_name": "",
       "video": [],
       "favicon": {
-        "url": "/favicon.ico"
+        "url": "https://blog.crunchydata.com/hubfs/Flat%20Logo_Color%20Icon.png"
       }
     }
   },
@@ -1890,17 +1890,17 @@
     }
   },
   {
-    "id": 30119285,
-    "title": "Devious SQL: Message Queuing Using Native PostgreSQL",
-    "url": "https://blog.crunchydata.com/blog/message-queuing-using-native-postgresql",
-    "time": 1643398437,
-    "image": "https://blog.crunchydata.com/hubfs/goose_march.png#keepProtocol",
-    "icon": "https://blog.crunchydata.com/hubfs/Flat%20Logo_Color%20Icon.png",
-    "publisher": "blog.crunchydata.com",
-    "description": "An interesting question came up on the #postgresql IRC channel about how to use native PostgreSQL features to handle some sort of queuing behavior. While the specific usage was related to handling serialization of specific events to some external broker, the specifics are less important than the …",
-    "by": "Scramblejams",
-    "points": 115,
-    "comment_count": 9,
+    "id": 30115520,
+    "title": "Pearls Before Breakfast (2007)",
+    "url": "https://www.washingtonpost.com/lifestyle/magazine/pearls-before-breakfast-can-one-of-the-nations-great-musicians-cut-through-the-fog-of-a-dc-rush-hour-lets-find-out/2014/09/23/8a6d46da-4331-11e4-b47c-f5889e061e5f_story.html",
+    "time": 1643382593,
+    "image": "https://www.washingtonpost.com/pbox.php?url=https://www.washingtonpost.com/pb/resources/img/twp-social-share.png\u0026w=1484\u0026op=resize\u0026opt=1\u0026filter=antialias\u0026t=20170517",
+    "icon": "https://www.washingtonpost.com/favicon.ico",
+    "publisher": "Washington Post",
+    "description": "Joshua Bell is one of the world’s greatest violinists. His instrument of choice is a multimillion-dollar Stradivarius. If he played it for spare change, incognito, outside a bustling Metro stop in Washington, would anyone notice?",
+    "by": "Tomte",
+    "points": 11,
+    "comment_count": 7,
     "hn_item": {
       "by": "lsllc",
       "descendants": 4,
@@ -1915,28 +1915,28 @@
       "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
     },
     "og_item": {
-      "title": "Devious SQL: Message Queuing Using Native PostgreSQL",
+      "title": "Pearls Before Breakfast: Can one of the nation’s great musicians cut through the fog of a D.C. rush hour? Let’s find out.",
       "type": "article",
       "image": [
         {
-          "url": "https://blog.crunchydata.com/hubfs/goose_march.png#keepProtocol",
+          "url": "https://www.washingtonpost.com/pbox.php?url=https://www.washingtonpost.com/pb/resources/img/twp-social-share.png\u0026w=1484\u0026op=resize\u0026opt=1\u0026filter=antialias\u0026t=20170517",
           "secure_url": "",
           "type": "",
-          "width": 523,
-          "height": 273,
+          "width": 0,
+          "height": 0,
           "alt": ""
         }
       ],
-      "url": "https://blog.crunchydata.com/blog/message-queuing-using-native-postgresql",
+      "url": "https://www.washingtonpost.com/lifestyle/magazine/pearls-before-breakfast-can-one-of-the-nations-great-musicians-cut-through-the-fog-of-a-dc-rush-hour-lets-find-out/2014/09/23/8a6d46da-4331-11e4-b47c-f5889e061e5f_story.html",
       "audio": [],
-      "description": "An interesting question came up on the #postgresql IRC channel about how to use native PostgreSQL features to handle some sort of queuing behavior. While the specific usage was related to handling serialization of specific events to some external broker, the specifics are less important than the overall structure.\n\n",
+      "description": "Joshua Bell is one of the world’s greatest violinists. His instrument of choice is a multimillion-dollar Stradivarius. If he played it for spare change, incognito, outside a bustling Metro stop in Washington, would anyone notice?",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "",
+      "site_name": "Washington Post",
       "video": [],
       "favicon": {
-        "url": "https://blog.crunchydata.com/hubfs/Flat%20Logo_Color%20Icon.png"
+        "url": "/favicon.ico"
       }
     }
   },
@@ -1992,6 +1992,99 @@
     }
   },
   {
+    "id": 30144892,
+    "title": "Kia’s new EV6 electric crossover goes straight to the head of the pack",
+    "url": "https://arstechnica.com/cars/2022/01/kias-new-ev6-electric-crossover-goes-straight-to-the-head-of-the-pack/",
+    "time": 1643607086,
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/01/Kia-EV6-1-760x380.jpg",
+    "icon": "https://cdn.arstechnica.net/wp-content/themes/ars/assets/img/material-ars-db41652381.png",
+    "publisher": "Ars Technica",
+    "description": "It's highly efficient, fun to drive, and loaded with equipment, too.",
+    "by": "feross",
+    "points": 6,
+    "comment_count": 1,
+    "hn_item": {
+      "by": "lsllc",
+      "descendants": 4,
+      "id": 30142494,
+      "kids": [
+        30143090
+      ],
+      "score": 26,
+      "time": 1643586052,
+      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
+      "type": "story",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
+    },
+    "og_item": {
+      "title": "Kia’s new EV6 electric crossover goes straight to the head of the pack",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/01/Kia-EV6-1-760x380.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://arstechnica.com/cars/2022/01/kias-new-ev6-electric-crossover-goes-straight-to-the-head-of-the-pack/",
+      "audio": [],
+      "description": "It's highly efficient, fun to drive, and loaded with equipment, too.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Ars Technica",
+      "video": [],
+      "favicon": {
+        "url": "https://cdn.arstechnica.net/wp-content/themes/ars/assets/img/material-ars-db41652381.png"
+      }
+    }
+  },
+  {
+    "id": 30120857,
+    "title": "Writing an efficient Vulkan renderer (2020)",
+    "url": "https://zeux.io/2020/02/27/writing-an-efficient-vulkan-renderer/",
+    "time": 1643406697,
+    "image": "",
+    "icon": "https://zeux.io/2020/02/27/writing-an-efficient-vulkan-renderer/data:;base64,iVBORw0KGgo=",
+    "publisher": "zeux.io",
+    "description": "",
+    "by": "nabla9",
+    "points": 76,
+    "comment_count": 5,
+    "hn_item": {
+      "by": "lsllc",
+      "descendants": 4,
+      "id": 30142494,
+      "kids": [
+        30143090
+      ],
+      "score": 26,
+      "time": 1643586052,
+      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
+      "type": "story",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
+    },
+    "og_item": {
+      "title": "\n    zeux.io - Writing an efficient Vulkan renderer\n  ",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "data:;base64,iVBORw0KGgo="
+      }
+    }
+  },
+  {
     "id": 30131847,
     "title": "Mix and Match Mental Models",
     "url": "https://lethain.com/mental-models-mix-match/",
@@ -2043,99 +2136,6 @@
     }
   },
   {
-    "id": 30120857,
-    "title": "Writing an efficient Vulkan renderer (2020)",
-    "url": "https://zeux.io/2020/02/27/writing-an-efficient-vulkan-renderer/",
-    "time": 1643406697,
-    "image": "",
-    "icon": "https://zeux.io/2020/02/27/writing-an-efficient-vulkan-renderer/data:;base64,iVBORw0KGgo=",
-    "publisher": "zeux.io",
-    "description": "",
-    "by": "nabla9",
-    "points": 76,
-    "comment_count": 5,
-    "hn_item": {
-      "by": "lsllc",
-      "descendants": 4,
-      "id": 30142494,
-      "kids": [
-        30143090
-      ],
-      "score": 26,
-      "time": 1643586052,
-      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
-      "type": "story",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
-    },
-    "og_item": {
-      "title": "\n    zeux.io - Writing an efficient Vulkan renderer\n  ",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "data:;base64,iVBORw0KGgo="
-      }
-    }
-  },
-  {
-    "id": 30144892,
-    "title": "Kia’s new EV6 electric crossover goes straight to the head of the pack",
-    "url": "https://arstechnica.com/cars/2022/01/kias-new-ev6-electric-crossover-goes-straight-to-the-head-of-the-pack/",
-    "time": 1643607086,
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/01/Kia-EV6-1-760x380.jpg",
-    "icon": "https://cdn.arstechnica.net/wp-content/themes/ars/assets/img/material-ars-db41652381.png",
-    "publisher": "Ars Technica",
-    "description": "It's highly efficient, fun to drive, and loaded with equipment, too.",
-    "by": "feross",
-    "points": 5,
-    "comment_count": 1,
-    "hn_item": {
-      "by": "lsllc",
-      "descendants": 4,
-      "id": 30142494,
-      "kids": [
-        30143090
-      ],
-      "score": 26,
-      "time": 1643586052,
-      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
-      "type": "story",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
-    },
-    "og_item": {
-      "title": "Kia’s new EV6 electric crossover goes straight to the head of the pack",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/01/Kia-EV6-1-760x380.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://arstechnica.com/cars/2022/01/kias-new-ev6-electric-crossover-goes-straight-to-the-head-of-the-pack/",
-      "audio": [],
-      "description": "It's highly efficient, fun to drive, and loaded with equipment, too.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Ars Technica",
-      "video": [],
-      "favicon": {
-        "url": "https://cdn.arstechnica.net/wp-content/themes/ars/assets/img/material-ars-db41652381.png"
-      }
-    }
-  },
-  {
     "id": 30142106,
     "title": "Yoga and meditation do not quiet the ego but instead boost self-enhancement (2018)",
     "url": "https://journals.sagepub.com/doi/abs/10.1177/0956797618764621",
@@ -2174,6 +2174,48 @@
       "video": [],
       "favicon": {
         "url": "/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30138277,
+    "title": "Set up a website with Nim (2019)",
+    "url": "https://ttj.dk/blog/2019/01/20/setup-a-website-with-nim",
+    "time": 1643558464,
+    "image": "",
+    "icon": "https://ttj.dk/images/favicon-ttj.png",
+    "publisher": "ttj.dk",
+    "description": "This small tutorial will help you create a website with Nim. We'll use libraries from the standard library and some externals from Nim-users. You will learn to create a small webserver with an admin user who has access to the secret area.",
+    "by": "melissalobos",
+    "points": 77,
+    "comment_count": 7,
+    "hn_item": {
+      "by": "lsllc",
+      "descendants": 4,
+      "id": 30142494,
+      "kids": [
+        30143090
+      ],
+      "score": 26,
+      "time": 1643586052,
+      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
+      "type": "story",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
+    },
+    "og_item": {
+      "title": " Nim tutorial for setting up a website. ",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "This small tutorial will help you create a website with Nim. We'll use libraries from the standard library and some externals from Nim-users. You will learn to create a small webserver with an admin user who has access to the secret area.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/images/favicon-ttj.png"
       }
     }
   },
@@ -2229,48 +2271,6 @@
     }
   },
   {
-    "id": 30138277,
-    "title": "Set up a website with Nim (2019)",
-    "url": "https://ttj.dk/blog/2019/01/20/setup-a-website-with-nim",
-    "time": 1643558464,
-    "image": "",
-    "icon": "https://ttj.dk/images/favicon-ttj.png",
-    "publisher": "ttj.dk",
-    "description": "This small tutorial will help you create a website with Nim. We'll use libraries from the standard library and some externals from Nim-users. You will learn to create a small webserver with an admin user who has access to the secret area.",
-    "by": "melissalobos",
-    "points": 77,
-    "comment_count": 7,
-    "hn_item": {
-      "by": "lsllc",
-      "descendants": 4,
-      "id": 30142494,
-      "kids": [
-        30143090
-      ],
-      "score": 26,
-      "time": 1643586052,
-      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
-      "type": "story",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
-    },
-    "og_item": {
-      "title": " Nim tutorial for setting up a website. ",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "This small tutorial will help you create a website with Nim. We'll use libraries from the standard library and some externals from Nim-users. You will learn to create a small webserver with an admin user who has access to the secret area.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/images/favicon-ttj.png"
-      }
-    }
-  },
-  {
     "id": 30111033,
     "title": "Toxic black mold is growing in my brain",
     "url": "https://www.buzzfeednews.com/article/tysonbottenus/black-mold-growing-toxic-brain-vacation",
@@ -2280,7 +2280,7 @@
     "publisher": "BuzzFeed News",
     "description": "I went on a vacation. I came home with a mysterious fungus in my brain that is so rare only about 120 cases have been confirmed worldwide since its discovery in 1911.",
     "by": "yellow_lead",
-    "points": 187,
+    "points": 188,
     "comment_count": 10,
     "hn_item": {
       "by": "lsllc",
@@ -2466,141 +2466,6 @@
     }
   },
   {
-    "id": 30129565,
-    "title": "Static-Let, or how I Learned to stop worrying and love Load-Time-Value",
-    "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md",
-    "time": 1643484611,
-    "image": "https://opengraph.githubassets.com/ea544d0bb229911171eaeb56aeac2f73687bc3e4eb5ff0b1c01769be3a010e5c/phoe/articles",
-    "icon": "https://github.githubassets.com/favicons/favicon.svg",
-    "publisher": "GitHub",
-    "description": "An assorted gathering of the Lisp posts and articles I make. - articles/static-let.md at main · phoe/articles",
-    "by": "phoe-krk",
-    "points": 9,
-    "comment_count": 2,
-    "hn_item": {
-      "by": "lsllc",
-      "descendants": 4,
-      "id": 30142494,
-      "kids": [
-        30143090
-      ],
-      "score": 26,
-      "time": 1643586052,
-      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
-      "type": "story",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
-    },
-    "og_item": {
-      "title": "articles/static-let.md at main · phoe/articles",
-      "type": "object",
-      "image": [
-        {
-          "url": "https://opengraph.githubassets.com/ea544d0bb229911171eaeb56aeac2f73687bc3e4eb5ff0b1c01769be3a010e5c/phoe/articles",
-          "secure_url": "",
-          "type": "",
-          "width": 1200,
-          "height": 600,
-          "alt": ""
-        }
-      ],
-      "url": "https://github.com/phoe/articles",
-      "audio": [],
-      "description": "An assorted gathering of the Lisp posts and articles I make. - articles/static-let.md at main · phoe/articles",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "GitHub",
-      "video": [],
-      "favicon": {
-        "url": "https://github.githubassets.com/favicons/favicon.svg"
-      }
-    }
-  },
-  {
-    "id": 30137681,
-    "title": "In defence of the boring web",
-    "url": "https://bastian.rieck.me/blog/posts/2022/boring/",
-    "time": 1643554351,
-    "image": "",
-    "icon": "https://bastian.rieck.me/favicon.ico",
-    "publisher": "bastian.rieck.me",
-    "description": "",
-    "by": "Topolomancer",
-    "points": 203,
-    "comment_count": 23,
-    "hn_item": {
-      "by": "lsllc",
-      "descendants": 4,
-      "id": 30142494,
-      "kids": [
-        30143090
-      ],
-      "score": 26,
-      "time": 1643586052,
-      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
-      "type": "story",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
-    },
-    "og_item": {
-      "title": "In Defence of the Boring Web",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30139734,
-    "title": "Show the case against",
-    "url": "https://www.shubhro.com/2022/01/03/show-the-case-against/",
-    "time": 1643567644,
-    "image": "",
-    "icon": "https://www.shubhro.com/favicon.ico",
-    "publisher": "shubhro.com",
-    "description": "",
-    "by": "shbhrsaha",
-    "points": 35,
-    "comment_count": 5,
-    "hn_item": {
-      "by": "lsllc",
-      "descendants": 4,
-      "id": 30142494,
-      "kids": [
-        30143090
-      ],
-      "score": 26,
-      "time": 1643586052,
-      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
-      "type": "story",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
-    },
-    "og_item": {
-      "title": "Show the case against - shubhro.com",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30132612,
     "title": "John Locke’s recipe for Pancakes (2021)",
     "url": "https://rarecooking.com/2021/12/14/john-lockes-recipe-for-pancakes/",
@@ -2610,7 +2475,7 @@
     "publisher": "Cooking in the Archives",
     "description": "A collection of philosopher John Locke’s papers at the Bodleian Library includes letters, accounts, poetry, notes on medicine and books, and recipes. When David Armitage posted this recipe fo…",
     "by": "pepys",
-    "points": 258,
+    "points": 259,
     "comment_count": 32,
     "hn_item": {
       "by": "lsllc",
@@ -2648,6 +2513,48 @@
       "video": [],
       "favicon": {
         "url": "https://s0.wp.com/i/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30137681,
+    "title": "In defence of the boring web",
+    "url": "https://bastian.rieck.me/blog/posts/2022/boring/",
+    "time": 1643554351,
+    "image": "",
+    "icon": "https://bastian.rieck.me/favicon.ico",
+    "publisher": "bastian.rieck.me",
+    "description": "",
+    "by": "Topolomancer",
+    "points": 203,
+    "comment_count": 24,
+    "hn_item": {
+      "by": "lsllc",
+      "descendants": 4,
+      "id": 30142494,
+      "kids": [
+        30143090
+      ],
+      "score": 26,
+      "time": 1643586052,
+      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
+      "type": "story",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
+    },
+    "og_item": {
+      "title": "In Defence of the Boring Web",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
       }
     }
   },
@@ -2708,6 +2615,99 @@
       ],
       "favicon": {
         "url": "https://www.youtube.com/s/desktop/ca9cd554/img/favicon_144x144.png"
+      }
+    }
+  },
+  {
+    "id": 30139734,
+    "title": "Show the case against",
+    "url": "https://www.shubhro.com/2022/01/03/show-the-case-against/",
+    "time": 1643567644,
+    "image": "",
+    "icon": "https://www.shubhro.com/favicon.ico",
+    "publisher": "shubhro.com",
+    "description": "",
+    "by": "shbhrsaha",
+    "points": 35,
+    "comment_count": 5,
+    "hn_item": {
+      "by": "lsllc",
+      "descendants": 4,
+      "id": 30142494,
+      "kids": [
+        30143090
+      ],
+      "score": 26,
+      "time": 1643586052,
+      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
+      "type": "story",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
+    },
+    "og_item": {
+      "title": "Show the case against - shubhro.com",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30129565,
+    "title": "Static-Let, or how I Learned to stop worrying and love Load-Time-Value",
+    "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md",
+    "time": 1643484611,
+    "image": "https://opengraph.githubassets.com/ea544d0bb229911171eaeb56aeac2f73687bc3e4eb5ff0b1c01769be3a010e5c/phoe/articles",
+    "icon": "https://github.githubassets.com/favicons/favicon.svg",
+    "publisher": "GitHub",
+    "description": "An assorted gathering of the Lisp posts and articles I make. - articles/static-let.md at main · phoe/articles",
+    "by": "phoe-krk",
+    "points": 9,
+    "comment_count": 2,
+    "hn_item": {
+      "by": "lsllc",
+      "descendants": 4,
+      "id": 30142494,
+      "kids": [
+        30143090
+      ],
+      "score": 26,
+      "time": 1643586052,
+      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
+      "type": "story",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
+    },
+    "og_item": {
+      "title": "articles/static-let.md at main · phoe/articles",
+      "type": "object",
+      "image": [
+        {
+          "url": "https://opengraph.githubassets.com/ea544d0bb229911171eaeb56aeac2f73687bc3e4eb5ff0b1c01769be3a010e5c/phoe/articles",
+          "secure_url": "",
+          "type": "",
+          "width": 1200,
+          "height": 600,
+          "alt": ""
+        }
+      ],
+      "url": "https://github.com/phoe/articles",
+      "audio": [],
+      "description": "An assorted gathering of the Lisp posts and articles I make. - articles/static-let.md at main · phoe/articles",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "GitHub",
+      "video": [],
+      "favicon": {
+        "url": "https://github.githubassets.com/favicons/favicon.svg"
       }
     }
   },
@@ -2805,6 +2805,48 @@
     }
   },
   {
+    "id": 30142896,
+    "title": "Decrypt an encrypted message to any plaintext",
+    "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts",
+    "time": 1643589180,
+    "image": "",
+    "icon": "https://www.go350.com/favicon-16x16.png",
+    "publisher": "go350.com",
+    "description": "a one-time pad implementation",
+    "by": "_wldu",
+    "points": 12,
+    "comment_count": 1,
+    "hn_item": {
+      "by": "lsllc",
+      "descendants": 4,
+      "id": 30142494,
+      "kids": [
+        30143090
+      ],
+      "score": 26,
+      "time": 1643586052,
+      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
+      "type": "story",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
+    },
+    "og_item": {
+      "title": "Padder",
+      "type": "article",
+      "image": [],
+      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/",
+      "audio": [],
+      "description": "a one-time pad implementation",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon-16x16.png"
+      }
+    }
+  },
+  {
     "id": 30144041,
     "title": "Autonomous Detection and Deterrence of Pigeons on Buildings by Drones",
     "url": "https://ieeexplore.ieee.org/document/9656717",
@@ -2852,48 +2894,6 @@
       "video": [],
       "favicon": {
         "url": "/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30142896,
-    "title": "Decrypt an encrypted message to any plaintext",
-    "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts",
-    "time": 1643589180,
-    "image": "",
-    "icon": "https://www.go350.com/favicon-16x16.png",
-    "publisher": "go350.com",
-    "description": "a one-time pad implementation",
-    "by": "_wldu",
-    "points": 12,
-    "comment_count": 1,
-    "hn_item": {
-      "by": "lsllc",
-      "descendants": 4,
-      "id": 30142494,
-      "kids": [
-        30143090
-      ],
-      "score": 26,
-      "time": 1643586052,
-      "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
-      "type": "story",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/"
-    },
-    "og_item": {
-      "title": "Padder",
-      "type": "article",
-      "image": [],
-      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/",
-      "audio": [],
-      "description": "a one-time pad implementation",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon-16x16.png"
       }
     }
   },
