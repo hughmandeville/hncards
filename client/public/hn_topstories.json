@@ -1,45 +1,5 @@
 [
   {
-    "id": 30149800,
-    "title": "Adblocking people and non-adblocking people experience a different web",
-    "url": "https://imlefthanded.com/2022/adblocking-people-and-non-adblocking-people-experience-a-totally-different-web/",
-    "time": 1643646392,
-    "image": "",
-    "icon": "https://imlefthanded.com/favicon.ico",
-    "publisher": "imlefthanded.com",
-    "description": "",
-    "by": "decrypt",
-    "points": 583,
-    "comment_count": 607,
-    "hn_item": {
-      "by": "bryanrasmussen",
-      "descendants": 0,
-      "id": 30153138,
-      "kids": null,
-      "score": 4,
-      "time": 1643657937,
-      "title": "Rise of grasslands is linked to atmospheric CO2 decline in the late Palaeogene",
-      "type": "story",
-      "url": "https://www.nature.com/articles/s41467-021-27897-y"
-    },
-    "og_item": {
-      "title": "Just a moment...",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30154781,
     "title": "The New York Times buys Wordle",
     "url": "https://www.nytimes.com/2022/01/31/business/media/new-york-times-wordle.html",
@@ -49,18 +9,20 @@
     "publisher": "The New York Times",
     "description": "The word game, released in October, has millions of daily users.",
     "by": "lucis",
-    "points": 126,
-    "comment_count": 91,
+    "points": 170,
+    "comment_count": 123,
     "hn_item": {
-      "by": "bryanrasmussen",
-      "descendants": 0,
-      "id": 30153138,
-      "kids": null,
-      "score": 4,
-      "time": 1643657937,
-      "title": "Rise of grasslands is linked to atmospheric CO2 decline in the late Palaeogene",
+      "by": "philip1209",
+      "descendants": 2,
+      "id": 30150021,
+      "kids": [
+        30151114
+      ],
+      "score": 8,
+      "time": 1643647463,
+      "title": "Slack Having a Partial Outage",
       "type": "story",
-      "url": "https://www.nature.com/articles/s41467-021-27897-y"
+      "url": "https://status.slack.com/2022-01/f7d4da863db0707c"
     },
     "og_item": {
       "title": "The New York Times Buys Wordle",
@@ -89,6 +51,90 @@
     }
   },
   {
+    "id": 30149800,
+    "title": "Adblocking people and non-adblocking people experience a different web",
+    "url": "https://imlefthanded.com/2022/adblocking-people-and-non-adblocking-people-experience-a-totally-different-web/",
+    "time": 1643646392,
+    "image": "",
+    "icon": "https://imlefthanded.com/favicon.ico",
+    "publisher": "imlefthanded.com",
+    "description": "",
+    "by": "decrypt",
+    "points": 592,
+    "comment_count": 616,
+    "hn_item": {
+      "by": "philip1209",
+      "descendants": 2,
+      "id": 30150021,
+      "kids": [
+        30151114
+      ],
+      "score": 8,
+      "time": 1643647463,
+      "title": "Slack Having a Partial Outage",
+      "type": "story",
+      "url": "https://status.slack.com/2022-01/f7d4da863db0707c"
+    },
+    "og_item": {
+      "title": "Just a moment...",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30154830,
+    "title": "The GNU Name System",
+    "url": "https://lsd.gnunet.org/lsd0001/",
+    "time": 1643665065,
+    "image": "",
+    "icon": "https://lsd.gnunet.org/favicon.ico",
+    "publisher": "lsd.gnunet.org",
+    "description": "This document contains the GNU Name System (GNS) technical\n      specification.\n      GNS is a decentralized and censorship-resistant name\n      system that provides a privacy-enhancing alternative to the Domain\n      Name System (DNS).\n       \n       \n      This document defines t…",
+    "by": "simonpure",
+    "points": 23,
+    "comment_count": 6,
+    "hn_item": {
+      "by": "philip1209",
+      "descendants": 2,
+      "id": 30150021,
+      "kids": [
+        30151114
+      ],
+      "score": 8,
+      "time": 1643647463,
+      "title": "Slack Having a Partial Outage",
+      "type": "story",
+      "url": "https://status.slack.com/2022-01/f7d4da863db0707c"
+    },
+    "og_item": {
+      "title": "The GNU Name System",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "\n       \n      This document contains the GNU Name System (GNS) technical\n      specification.\n      GNS is a decentralized and censorship-resistant name\n      system that provides a privacy-enhancing alternative to the Domain\n      Name System (DNS).\n       \n       \n      This document defines the normative wire format of resource records,\n      resolution processes, cryptographic routines and security\n      considerations for use by implementers.\n      It is published here to inform readers about the function\n      of GNS, guide future GNS implementations, and ensure\n      interoperability among implementations including with the\n      pre-existing GNUnet implementation.\n       \n       \n      This specification was developed outside the IETF and does not have\n      IETF consensus.  It is published here to guide implementation of GNS\n      and to ensure interoperability among implementations.\n       \n    ",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30150586,
     "title": "Moderna’s HIV vaccine has officially begun human trials",
     "url": "https://www.them.us/story/hiv-aids-vaccine-human-trials-moderna",
@@ -98,18 +144,20 @@
     "publisher": "them.",
     "description": "We could be getting even closer to stopping the spread of HIV/AIDS.",
     "by": "grawprog",
-    "points": 597,
-    "comment_count": 241,
+    "points": 602,
+    "comment_count": 247,
     "hn_item": {
-      "by": "bryanrasmussen",
-      "descendants": 0,
-      "id": 30153138,
-      "kids": null,
-      "score": 4,
-      "time": 1643657937,
-      "title": "Rise of grasslands is linked to atmospheric CO2 decline in the late Palaeogene",
+      "by": "philip1209",
+      "descendants": 2,
+      "id": 30150021,
+      "kids": [
+        30151114
+      ],
+      "score": 8,
+      "time": 1643647463,
+      "title": "Slack Having a Partial Outage",
       "type": "story",
-      "url": "https://www.nature.com/articles/s41467-021-27897-y"
+      "url": "https://status.slack.com/2022-01/f7d4da863db0707c"
     },
     "og_item": {
       "title": "Moderna’s HIV Vaccine Has Officially Begun Human Trials",
@@ -138,46 +186,6 @@
     }
   },
   {
-    "id": 30154830,
-    "title": "The GNU Name System",
-    "url": "https://lsd.gnunet.org/lsd0001/",
-    "time": 1643665065,
-    "image": "",
-    "icon": "https://lsd.gnunet.org/favicon.ico",
-    "publisher": "lsd.gnunet.org",
-    "description": "This document contains the GNU Name System (GNS) technical\n      specification.\n      GNS is a decentralized and censorship-resistant name\n      system that provides a privacy-enhancing alternative to the Domain\n      Name System (DNS).\n       \n       \n      This document defines t…",
-    "by": "simonpure",
-    "points": 16,
-    "comment_count": 2,
-    "hn_item": {
-      "by": "bryanrasmussen",
-      "descendants": 0,
-      "id": 30153138,
-      "kids": null,
-      "score": 4,
-      "time": 1643657937,
-      "title": "Rise of grasslands is linked to atmospheric CO2 decline in the late Palaeogene",
-      "type": "story",
-      "url": "https://www.nature.com/articles/s41467-021-27897-y"
-    },
-    "og_item": {
-      "title": "The GNU Name System",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "\n       \n      This document contains the GNU Name System (GNS) technical\n      specification.\n      GNS is a decentralized and censorship-resistant name\n      system that provides a privacy-enhancing alternative to the Domain\n      Name System (DNS).\n       \n       \n      This document defines the normative wire format of resource records,\n      resolution processes, cryptographic routines and security\n      considerations for use by implementers.\n      It is published here to inform readers about the function\n      of GNS, guide future GNS implementations, and ensure\n      interoperability among implementations including with the\n      pre-existing GNUnet implementation.\n       \n       \n      This specification was developed outside the IETF and does not have\n      IETF consensus.  It is published here to guide implementation of GNS\n      and to ensure interoperability among implementations.\n       \n    ",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30149370,
     "title": "Show HN: Magistrate – Plaintext legal contracts for developers",
     "url": "https://magistrate.khanna.law/",
@@ -187,18 +195,20 @@
     "publisher": "magistrate.khanna.law",
     "description": "",
     "by": "hkhanna",
-    "points": 188,
+    "points": 192,
     "comment_count": 69,
     "hn_item": {
-      "by": "bryanrasmussen",
-      "descendants": 0,
-      "id": 30153138,
-      "kids": null,
-      "score": 4,
-      "time": 1643657937,
-      "title": "Rise of grasslands is linked to atmospheric CO2 decline in the late Palaeogene",
+      "by": "philip1209",
+      "descendants": 2,
+      "id": 30150021,
+      "kids": [
+        30151114
+      ],
+      "score": 8,
+      "time": 1643647463,
+      "title": "Slack Having a Partial Outage",
       "type": "story",
-      "url": "https://www.nature.com/articles/s41467-021-27897-y"
+      "url": "https://status.slack.com/2022-01/f7d4da863db0707c"
     },
     "og_item": {
       "title": "Plain text legal contracts for developers - Magistrate",
@@ -227,18 +237,20 @@
     "publisher": "evertpot.com",
     "description": "",
     "by": "treve",
-    "points": 89,
+    "points": 93,
     "comment_count": 61,
     "hn_item": {
-      "by": "bryanrasmussen",
-      "descendants": 0,
-      "id": 30153138,
-      "kids": null,
-      "score": 4,
-      "time": 1643657937,
-      "title": "Rise of grasslands is linked to atmospheric CO2 decline in the late Palaeogene",
+      "by": "philip1209",
+      "descendants": 2,
+      "id": 30150021,
+      "kids": [
+        30151114
+      ],
+      "score": 8,
+      "time": 1643647463,
+      "title": "Slack Having a Partial Outage",
       "type": "story",
-      "url": "https://www.nature.com/articles/s41467-021-27897-y"
+      "url": "https://status.slack.com/2022-01/f7d4da863db0707c"
     },
     "og_item": {
       "title": "Request bodies in GET requests",
@@ -267,83 +279,36 @@
     }
   },
   {
-    "id": 30154265,
-    "title": "Smarking (YC W15) Is Hiring Head of Eng to digitize $655B parking industry",
-    "url": "https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567",
-    "time": 1643662823,
-    "image": "https://lever-client-logos.s3.amazonaws.com/dba6daed-b0b4-4edb-ae1e-e6866ce0411c-1466127457510.png",
-    "icon": "https://jobs.lever.co/favicon.ico",
-    "publisher": "jobs.lever.co",
-    "description": "Smarking is a leading provider of enterprise software and data technology solutions for the massively overlooked $655B global parking industry. This is an excellent position for a highly capable software engineer who's ready to take on bigger responsibilities, team wide leadership, and a leap of …",
-    "by": "sangwen",
-    "points": 1,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "bryanrasmussen",
-      "descendants": 0,
-      "id": 30153138,
-      "kids": null,
-      "score": 4,
-      "time": 1643657937,
-      "title": "Rise of grasslands is linked to atmospheric CO2 decline in the late Palaeogene",
-      "type": "story",
-      "url": "https://www.nature.com/articles/s41467-021-27897-y"
-    },
-    "og_item": {
-      "title": "Smarking - Head of Engineering",
-      "type": "",
-      "image": [
-        {
-          "url": "https://lever-client-logos.s3.amazonaws.com/dba6daed-b0b4-4edb-ae1e-e6866ce0411c-1466127457510.png",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 200,
-          "alt": ""
-        }
-      ],
-      "url": "https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567",
-      "audio": [],
-      "description": "Smarking is a leading provider of enterprise software and data technology solutions for the massively overlooked $655B global parking industry. This is an excellent position for a highly capable software engineer who's ready to take on bigger responsibilities, team wide leadership, and a leap of faith, to not only continue shipping codes and building amazing products and systems, but also lead and build a team of solid engineers to help scale cutting edge tech solutions from ground up for a massive and overlooked market . The Head of Engineering will report to the CEO directly, and join the management team to provide engineering leadership company wide.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30150018,
     "title": "Pyflow – Visual and modular block programming in Python",
     "url": "https://github.com/Bycelium/PyFlow",
     "time": 1643647446,
-    "image": "https://opengraph.githubassets.com/2b2bbce43e4d4b3d8401c101203b3b64476b30ab46452dc9962dc214b8ce64cb/Bycelium/PyFlow",
+    "image": "https://opengraph.githubassets.com/2f0dfcc3df0fb0a0b973a26bcb32d11f0f45ace001d50d0525754c74ace5007c/Bycelium/PyFlow",
     "icon": "https://github.githubassets.com/favicons/favicon.svg",
     "publisher": "GitHub",
     "description": "An open-source tool for visual and modular block programing in python - GitHub - Bycelium/PyFlow: An open-source tool for visual and modular block programing in python",
     "by": "amai",
     "points": 135,
-    "comment_count": 63,
+    "comment_count": 65,
     "hn_item": {
-      "by": "bryanrasmussen",
-      "descendants": 0,
-      "id": 30153138,
-      "kids": null,
-      "score": 4,
-      "time": 1643657937,
-      "title": "Rise of grasslands is linked to atmospheric CO2 decline in the late Palaeogene",
+      "by": "philip1209",
+      "descendants": 2,
+      "id": 30150021,
+      "kids": [
+        30151114
+      ],
+      "score": 8,
+      "time": 1643647463,
+      "title": "Slack Having a Partial Outage",
       "type": "story",
-      "url": "https://www.nature.com/articles/s41467-021-27897-y"
+      "url": "https://status.slack.com/2022-01/f7d4da863db0707c"
     },
     "og_item": {
       "title": "GitHub - Bycelium/PyFlow: An open-source tool for visual and modular block programing in python",
       "type": "object",
       "image": [
         {
-          "url": "https://opengraph.githubassets.com/2b2bbce43e4d4b3d8401c101203b3b64476b30ab46452dc9962dc214b8ce64cb/Bycelium/PyFlow",
+          "url": "https://opengraph.githubassets.com/2f0dfcc3df0fb0a0b973a26bcb32d11f0f45ace001d50d0525754c74ace5007c/Bycelium/PyFlow",
           "secure_url": "",
           "type": "",
           "width": 1200,
@@ -374,18 +339,20 @@
     "publisher": "Ask a Manager",
     "description": "A reader writes: This is a situation currently unfolding at my husband's office so I’m a very amused bystander and thought I’d get your opinion on this",
     "by": "amadeuspzs",
-    "points": 566,
-    "comment_count": 312,
+    "points": 577,
+    "comment_count": 317,
     "hn_item": {
-      "by": "bryanrasmussen",
-      "descendants": 0,
-      "id": 30153138,
-      "kids": null,
-      "score": 4,
-      "time": 1643657937,
-      "title": "Rise of grasslands is linked to atmospheric CO2 decline in the late Palaeogene",
+      "by": "philip1209",
+      "descendants": 2,
+      "id": 30150021,
+      "kids": [
+        30151114
+      ],
+      "score": 8,
+      "time": 1643647463,
+      "title": "Slack Having a Partial Outage",
       "type": "story",
-      "url": "https://www.nature.com/articles/s41467-021-27897-y"
+      "url": "https://status.slack.com/2022-01/f7d4da863db0707c"
     },
     "og_item": {
       "title": "the new hire who showed up is not the same person we interviewed",
@@ -414,6 +381,57 @@
     }
   },
   {
+    "id": 30154265,
+    "title": "Smarking (YC W15) Is Hiring Head of Eng to digitize $655B parking industry",
+    "url": "https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567",
+    "time": 1643662823,
+    "image": "https://lever-client-logos.s3.amazonaws.com/dba6daed-b0b4-4edb-ae1e-e6866ce0411c-1466127457510.png",
+    "icon": "https://jobs.lever.co/favicon.ico",
+    "publisher": "jobs.lever.co",
+    "description": "Smarking is a leading provider of enterprise software and data technology solutions for the massively overlooked $655B global parking industry. This is an excellent position for a highly capable software engineer who's ready to take on bigger responsibilities, team wide leadership, and a leap of …",
+    "by": "sangwen",
+    "points": 1,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "philip1209",
+      "descendants": 2,
+      "id": 30150021,
+      "kids": [
+        30151114
+      ],
+      "score": 8,
+      "time": 1643647463,
+      "title": "Slack Having a Partial Outage",
+      "type": "story",
+      "url": "https://status.slack.com/2022-01/f7d4da863db0707c"
+    },
+    "og_item": {
+      "title": "Smarking - Head of Engineering",
+      "type": "",
+      "image": [
+        {
+          "url": "https://lever-client-logos.s3.amazonaws.com/dba6daed-b0b4-4edb-ae1e-e6866ce0411c-1466127457510.png",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 200,
+          "alt": ""
+        }
+      ],
+      "url": "https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567",
+      "audio": [],
+      "description": "Smarking is a leading provider of enterprise software and data technology solutions for the massively overlooked $655B global parking industry. This is an excellent position for a highly capable software engineer who's ready to take on bigger responsibilities, team wide leadership, and a leap of faith, to not only continue shipping codes and building amazing products and systems, but also lead and build a team of solid engineers to help scale cutting edge tech solutions from ground up for a massive and overlooked market . The Head of Engineering will report to the CEO directly, and join the management team to provide engineering leadership company wide.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30150495,
     "title": "Yemen's bifurcated monetary system",
     "url": "http://jpkoning.blogspot.com/2022/01/yemens-bifurcated-monetary-system.html",
@@ -423,18 +441,20 @@
     "publisher": "jpkoning.blogspot.com",
     "description": "Over the last five years Yemen has stumbled into a unique monetary situation. I initially wrote about Yemen's odd currency status two years ...",
     "by": "rwmj",
-    "points": 75,
-    "comment_count": 39,
+    "points": 76,
+    "comment_count": 40,
     "hn_item": {
-      "by": "bryanrasmussen",
-      "descendants": 0,
-      "id": 30153138,
-      "kids": null,
-      "score": 4,
-      "time": 1643657937,
-      "title": "Rise of grasslands is linked to atmospheric CO2 decline in the late Palaeogene",
+      "by": "philip1209",
+      "descendants": 2,
+      "id": 30150021,
+      "kids": [
+        30151114
+      ],
+      "score": 8,
+      "time": 1643647463,
+      "title": "Slack Having a Partial Outage",
       "type": "story",
-      "url": "https://www.nature.com/articles/s41467-021-27897-y"
+      "url": "https://status.slack.com/2022-01/f7d4da863db0707c"
     },
     "og_item": {
       "title": "Yemen's bifurcated monetary system",
@@ -473,17 +493,19 @@
     "description": "Giant Pyrosomes are bioluminescent (light producing), giving rise to the common name, which comes from the Greek for fire (“pyro”) and body (“soma”). The light produced by Giant Pyrosomes is particularly bright and long lasting and is beautiful to witness. Because the individual tunicat…",
     "by": "integrale",
     "points": 106,
-    "comment_count": 27,
+    "comment_count": 28,
     "hn_item": {
-      "by": "bryanrasmussen",
-      "descendants": 0,
-      "id": 30153138,
-      "kids": null,
-      "score": 4,
-      "time": 1643657937,
-      "title": "Rise of grasslands is linked to atmospheric CO2 decline in the late Palaeogene",
+      "by": "philip1209",
+      "descendants": 2,
+      "id": 30150021,
+      "kids": [
+        30151114
+      ],
+      "score": 8,
+      "time": 1643647463,
+      "title": "Slack Having a Partial Outage",
       "type": "story",
-      "url": "https://www.nature.com/articles/s41467-021-27897-y"
+      "url": "https://status.slack.com/2022-01/f7d4da863db0707c"
     },
     "og_item": {
       "title": "Giant Pyrosome",
@@ -512,6 +534,48 @@
     }
   },
   {
+    "id": 30154141,
+    "title": "It's dire: Raspberry Pi availability tracker",
+    "url": "https://www.jeffgeerling.com/blog/2022/its-dire-raspberry-pi-availability-tracker-launched",
+    "time": 1643662250,
+    "image": "",
+    "icon": "https://www.jeffgeerling.com/themes/jeffgeerling/favicon.ico",
+    "publisher": "jeffgeerling.com",
+    "description": "",
+    "by": "geerlingguy",
+    "points": 48,
+    "comment_count": 17,
+    "hn_item": {
+      "by": "philip1209",
+      "descendants": 2,
+      "id": 30150021,
+      "kids": [
+        30151114
+      ],
+      "score": 8,
+      "time": 1643647463,
+      "title": "Slack Having a Partial Outage",
+      "type": "story",
+      "url": "https://status.slack.com/2022-01/f7d4da863db0707c"
+    },
+    "og_item": {
+      "title": "It's dire: Raspberry Pi availability tracker is launched | Jeff Geerling",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/themes/jeffgeerling/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30153547,
     "title": "Why Henry III's gold penny failed",
     "url": "http://jpkoning.blogspot.com/2022/01/why-henry-iiis-gold-penny-failed.html",
@@ -521,18 +585,20 @@
     "publisher": "jpkoning.blogspot.com",
     "description": "English gold penny minted by Henry III in 1257 A lucky metal detectorist just discovered  a Henry III gold penny , one of the first English ...",
     "by": "maxwell",
-    "points": 25,
-    "comment_count": 29,
+    "points": 28,
+    "comment_count": 33,
     "hn_item": {
-      "by": "bryanrasmussen",
-      "descendants": 0,
-      "id": 30153138,
-      "kids": null,
-      "score": 4,
-      "time": 1643657937,
-      "title": "Rise of grasslands is linked to atmospheric CO2 decline in the late Palaeogene",
+      "by": "philip1209",
+      "descendants": 2,
+      "id": 30150021,
+      "kids": [
+        30151114
+      ],
+      "score": 8,
+      "time": 1643647463,
+      "title": "Slack Having a Partial Outage",
       "type": "story",
-      "url": "https://www.nature.com/articles/s41467-021-27897-y"
+      "url": "https://status.slack.com/2022-01/f7d4da863db0707c"
     },
     "og_item": {
       "title": "Why Henry III's gold penny failed",
@@ -561,126 +627,6 @@
     }
   },
   {
-    "id": 30154141,
-    "title": "It's dire: Raspberry Pi availability tracker",
-    "url": "https://www.jeffgeerling.com/blog/2022/its-dire-raspberry-pi-availability-tracker-launched",
-    "time": 1643662250,
-    "image": "",
-    "icon": "https://www.jeffgeerling.com/themes/jeffgeerling/favicon.ico",
-    "publisher": "jeffgeerling.com",
-    "description": "",
-    "by": "geerlingguy",
-    "points": 44,
-    "comment_count": 14,
-    "hn_item": {
-      "by": "bryanrasmussen",
-      "descendants": 0,
-      "id": 30153138,
-      "kids": null,
-      "score": 4,
-      "time": 1643657937,
-      "title": "Rise of grasslands is linked to atmospheric CO2 decline in the late Palaeogene",
-      "type": "story",
-      "url": "https://www.nature.com/articles/s41467-021-27897-y"
-    },
-    "og_item": {
-      "title": "It's dire: Raspberry Pi availability tracker is launched | Jeff Geerling",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/themes/jeffgeerling/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30150749,
-    "title": "Does my site need HTTPS?",
-    "url": "https://doesmysiteneedhttps.com/",
-    "time": 1643649923,
-    "image": "",
-    "icon": "https://doesmysiteneedhttps.com/favicon.ico",
-    "publisher": "Caddy",
-    "description": "Find out if your site needs HTTPS.",
-    "by": "WallyFunk",
-    "points": 68,
-    "comment_count": 64,
-    "hn_item": {
-      "by": "bryanrasmussen",
-      "descendants": 0,
-      "id": 30153138,
-      "kids": null,
-      "score": 4,
-      "time": 1643657937,
-      "title": "Rise of grasslands is linked to atmospheric CO2 decline in the late Palaeogene",
-      "type": "story",
-      "url": "https://www.nature.com/articles/s41467-021-27897-y"
-    },
-    "og_item": {
-      "title": "Does my site need HTTPS?",
-      "type": "article",
-      "image": [],
-      "url": "/",
-      "audio": [],
-      "description": "Find out if your site needs HTTPS.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Caddy",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30152268,
-    "title": "The unreasonable effectiveness of one-on-ones",
-    "url": "https://www.benkuhn.net/11/",
-    "time": 1643654866,
-    "image": "",
-    "icon": "https://www.benkuhn.net/favicon.ico",
-    "publisher": "benkuhn.net",
-    "description": "When I started dating my partner, I quickly noticed that grad school was making her very sad.\nThis was shortly after I’d started leading an engineering team at Wave, and so the “obvious” hypothesis to me was that the management (okay, “management”) one gets in graduate school is totally…",
-    "by": "sebg",
-    "points": 78,
-    "comment_count": 85,
-    "hn_item": {
-      "by": "bryanrasmussen",
-      "descendants": 0,
-      "id": 30153138,
-      "kids": null,
-      "score": 4,
-      "time": 1643657937,
-      "title": "Rise of grasslands is linked to atmospheric CO2 decline in the late Palaeogene",
-      "type": "story",
-      "url": "https://www.nature.com/articles/s41467-021-27897-y"
-    },
-    "og_item": {
-      "title": "The unreasonable effectiveness of one-on-ones",
-      "type": "",
-      "image": [],
-      "url": "https://www.benkuhn.net/11/",
-      "audio": [],
-      "description": "When I started dating my partner, I quickly noticed that grad school was making her very sad.\nThis was shortly after I’d started leading an engineering team at Wave, and so the “obvious” hypothesis to me was that the management (okay, “management”) one gets in graduate school is totally ineffective.\nMost graduate students, including Eve, start school right after college, i.e., without much clue about how to effectively do self-directed work.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "benkuhn.net",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30153493,
     "title": "Observing HTTP/2 Traffic Is Hard, but eBPF Can Help",
     "url": "https://blog.px.dev/ebpf-http2-tracing/",
@@ -690,18 +636,20 @@
     "publisher": "Pixie Labs Blog",
     "description": "In today's world full of microservices, gaining observability into the messages sent between services is critical to understanding and troubleshooting issues…",
     "by": "nserrino",
-    "points": 27,
+    "points": 30,
     "comment_count": 0,
     "hn_item": {
-      "by": "bryanrasmussen",
-      "descendants": 0,
-      "id": 30153138,
-      "kids": null,
-      "score": 4,
-      "time": 1643657937,
-      "title": "Rise of grasslands is linked to atmospheric CO2 decline in the late Palaeogene",
+      "by": "philip1209",
+      "descendants": 2,
+      "id": 30150021,
+      "kids": [
+        30151114
+      ],
+      "score": 8,
+      "time": 1643647463,
+      "title": "Slack Having a Partial Outage",
       "type": "story",
-      "url": "https://www.nature.com/articles/s41467-021-27897-y"
+      "url": "https://status.slack.com/2022-01/f7d4da863db0707c"
     },
     "og_item": {
       "title": "Observing HTTP/2 Traffic is Hard, but eBPF Can Help",
@@ -730,6 +678,48 @@
     }
   },
   {
+    "id": 30152268,
+    "title": "The unreasonable effectiveness of one-on-ones",
+    "url": "https://www.benkuhn.net/11/",
+    "time": 1643654866,
+    "image": "",
+    "icon": "https://www.benkuhn.net/favicon.ico",
+    "publisher": "benkuhn.net",
+    "description": "When I started dating my partner, I quickly noticed that grad school was making her very sad.\nThis was shortly after I’d started leading an engineering team at Wave, and so the “obvious” hypothesis to me was that the management (okay, “management”) one gets in graduate school is totally…",
+    "by": "sebg",
+    "points": 79,
+    "comment_count": 87,
+    "hn_item": {
+      "by": "philip1209",
+      "descendants": 2,
+      "id": 30150021,
+      "kids": [
+        30151114
+      ],
+      "score": 8,
+      "time": 1643647463,
+      "title": "Slack Having a Partial Outage",
+      "type": "story",
+      "url": "https://status.slack.com/2022-01/f7d4da863db0707c"
+    },
+    "og_item": {
+      "title": "The unreasonable effectiveness of one-on-ones",
+      "type": "",
+      "image": [],
+      "url": "https://www.benkuhn.net/11/",
+      "audio": [],
+      "description": "When I started dating my partner, I quickly noticed that grad school was making her very sad.\nThis was shortly after I’d started leading an engineering team at Wave, and so the “obvious” hypothesis to me was that the management (okay, “management”) one gets in graduate school is totally ineffective.\nMost graduate students, including Eve, start school right after college, i.e., without much clue about how to effectively do self-directed work.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "benkuhn.net",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30148364,
     "title": "The rising human cost of sports betting",
     "url": "https://www.nytimes.com/2022/01/31/sports/football/super-bowl-sports-betting.html",
@@ -739,18 +729,20 @@
     "publisher": "The New York Times",
     "description": "The ends of the college and pro football seasons were already a perilous time for people recovering from a gambling addiction. Then came the onslaught of ads for legal sports betting.",
     "by": "jbegley",
-    "points": 107,
-    "comment_count": 167,
+    "points": 108,
+    "comment_count": 168,
     "hn_item": {
-      "by": "bryanrasmussen",
-      "descendants": 0,
-      "id": 30153138,
-      "kids": null,
-      "score": 4,
-      "time": 1643657937,
-      "title": "Rise of grasslands is linked to atmospheric CO2 decline in the late Palaeogene",
+      "by": "philip1209",
+      "descendants": 2,
+      "id": 30150021,
+      "kids": [
+        30151114
+      ],
+      "score": 8,
+      "time": 1643647463,
+      "title": "Slack Having a Partial Outage",
       "type": "story",
-      "url": "https://www.nature.com/articles/s41467-021-27897-y"
+      "url": "https://status.slack.com/2022-01/f7d4da863db0707c"
     },
     "og_item": {
       "title": "The Rising Human Cost of Sports Betting",
@@ -779,55 +771,6 @@
     }
   },
   {
-    "id": 30129652,
-    "title": "Couple discovers two 60-foot-long murals hidden behind walls of 115-yo building",
-    "url": "https://www.cnn.com/style/article/couple-discover-murals-during-renovation-trnd/index.html",
-    "time": 1643485215,
-    "image": "https://cdn.cnn.com/cnnnext/dam/assets/220126164541-03-couple-discovers-mural-renovation-trnd-super-tease.jpg",
-    "icon": "https://i2.cdn.turner.com/cnn/2017/images/09/14/logo-cnnstyle.png",
-    "publisher": "CNN",
-    "description": "What started out as a couple's renovation project to convert a historic building into a bar has turned into an effort to restore decades-old artwork in a small Washington town.",
-    "by": "wglb",
-    "points": 37,
-    "comment_count": 7,
-    "hn_item": {
-      "by": "bryanrasmussen",
-      "descendants": 0,
-      "id": 30153138,
-      "kids": null,
-      "score": 4,
-      "time": 1643657937,
-      "title": "Rise of grasslands is linked to atmospheric CO2 decline in the late Palaeogene",
-      "type": "story",
-      "url": "https://www.nature.com/articles/s41467-021-27897-y"
-    },
-    "og_item": {
-      "title": "A couple renovating a 115-year-old building discovered two 60-foot-long hidden murals",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220126164541-03-couple-discovers-mural-renovation-trnd-super-tease.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 1100,
-          "height": 619,
-          "alt": ""
-        }
-      ],
-      "url": "https://www.cnn.com/style/article/couple-discover-murals-during-renovation-trnd/index.html",
-      "audio": [],
-      "description": "What started out as a couple's renovation project to convert a historic building into a bar has turned into an effort to restore decades-old artwork in a small Washington town.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "CNN",
-      "video": [],
-      "favicon": {
-        "url": "https://i2.cdn.turner.com/cnn/2017/images/09/14/logo-cnnstyle.png"
-      }
-    }
-  },
-  {
     "id": 30151580,
     "title": "Sony to buy video game maker Bungie in $3.6B deal",
     "url": "https://www.cnbc.com/2022/01/31/sony-to-buy-video-game-maker-bungie-in-3point6-billion-deal.html",
@@ -837,18 +780,20 @@
     "publisher": "CNBC",
     "description": "Sony has agreed to acquire Bungie in a $3.6 billion deal, continuing January's torrid pace of video game consolidation",
     "by": "daveaiello",
-    "points": 203,
-    "comment_count": 177,
+    "points": 210,
+    "comment_count": 179,
     "hn_item": {
-      "by": "bryanrasmussen",
-      "descendants": 0,
-      "id": 30153138,
-      "kids": null,
-      "score": 4,
-      "time": 1643657937,
-      "title": "Rise of grasslands is linked to atmospheric CO2 decline in the late Palaeogene",
+      "by": "philip1209",
+      "descendants": 2,
+      "id": 30150021,
+      "kids": [
+        30151114
+      ],
+      "score": 8,
+      "time": 1643647463,
+      "title": "Slack Having a Partial Outage",
       "type": "story",
-      "url": "https://www.nature.com/articles/s41467-021-27897-y"
+      "url": "https://status.slack.com/2022-01/f7d4da863db0707c"
     },
     "og_item": {
       "title": "Sony to buy video game maker Bungie in $3.6 billion deal as industry consolidation heats up",
@@ -877,42 +822,53 @@
     }
   },
   {
-    "id": 30137127,
-    "title": "Reducing the Size of Large PDFs",
-    "url": "https://leancrew.com/all-this/2022/01/reducing-the-size-of-large-pdfs/",
-    "time": 1643550336,
-    "image": "",
-    "icon": "https://leancrew.com/all-this/2022/01/reducing-the-size-of-large-pdfs/../../../resources/snowman-200.png",
-    "publisher": "leancrew.com",
-    "description": "",
-    "by": "ingve",
-    "points": 45,
-    "comment_count": 14,
+    "id": 30129652,
+    "title": "Couple discovers two 60-foot-long murals hidden behind walls of 115-yo building",
+    "url": "https://www.cnn.com/style/article/couple-discover-murals-during-renovation-trnd/index.html",
+    "time": 1643485215,
+    "image": "https://cdn.cnn.com/cnnnext/dam/assets/220126164541-03-couple-discovers-mural-renovation-trnd-super-tease.jpg",
+    "icon": "https://i2.cdn.turner.com/cnn/2017/images/09/14/logo-cnnstyle.png",
+    "publisher": "CNN",
+    "description": "What started out as a couple's renovation project to convert a historic building into a bar has turned into an effort to restore decades-old artwork in a small Washington town.",
+    "by": "wglb",
+    "points": 38,
+    "comment_count": 8,
     "hn_item": {
-      "by": "bryanrasmussen",
-      "descendants": 0,
-      "id": 30153138,
-      "kids": null,
-      "score": 4,
-      "time": 1643657937,
-      "title": "Rise of grasslands is linked to atmospheric CO2 decline in the late Palaeogene",
+      "by": "philip1209",
+      "descendants": 2,
+      "id": 30150021,
+      "kids": [
+        30151114
+      ],
+      "score": 8,
+      "time": 1643647463,
+      "title": "Slack Having a Partial Outage",
       "type": "story",
-      "url": "https://www.nature.com/articles/s41467-021-27897-y"
+      "url": "https://status.slack.com/2022-01/f7d4da863db0707c"
     },
     "og_item": {
-      "title": "Reducing the size of large PDFs - All this",
-      "type": "",
-      "image": [],
-      "url": "",
+      "title": "A couple renovating a 115-year-old building discovered two 60-foot-long hidden murals",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220126164541-03-couple-discovers-mural-renovation-trnd-super-tease.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 1100,
+          "height": 619,
+          "alt": ""
+        }
+      ],
+      "url": "https://www.cnn.com/style/article/couple-discover-murals-during-renovation-trnd/index.html",
       "audio": [],
-      "description": "",
+      "description": "What started out as a couple's renovation project to convert a historic building into a bar has turned into an effort to restore decades-old artwork in a small Washington town.",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "",
+      "site_name": "CNN",
       "video": [],
       "favicon": {
-        "url": "../../../resources/snowman-200.png"
+        "url": "https://i2.cdn.turner.com/cnn/2017/images/09/14/logo-cnnstyle.png"
       }
     }
   },
@@ -926,18 +882,20 @@
     "publisher": "meadhbh.hamrick.rocks",
     "description": "An overview of the IETF's Virtual Worlds Agent Region Protocol and it's development.",
     "by": "dingosity",
-    "points": 30,
-    "comment_count": 32,
+    "points": 35,
+    "comment_count": 34,
     "hn_item": {
-      "by": "bryanrasmussen",
-      "descendants": 0,
-      "id": 30153138,
-      "kids": null,
-      "score": 4,
-      "time": 1643657937,
-      "title": "Rise of grasslands is linked to atmospheric CO2 decline in the late Palaeogene",
+      "by": "philip1209",
+      "descendants": 2,
+      "id": 30150021,
+      "kids": [
+        30151114
+      ],
+      "score": 8,
+      "time": 1643647463,
+      "title": "Slack Having a Partial Outage",
       "type": "story",
-      "url": "https://www.nature.com/articles/s41467-021-27897-y"
+      "url": "https://status.slack.com/2022-01/f7d4da863db0707c"
     },
     "og_item": {
       "title": "What is VWRAP?",
@@ -957,6 +915,90 @@
     }
   },
   {
+    "id": 30137127,
+    "title": "Reducing the Size of Large PDFs",
+    "url": "https://leancrew.com/all-this/2022/01/reducing-the-size-of-large-pdfs/",
+    "time": 1643550336,
+    "image": "",
+    "icon": "https://leancrew.com/all-this/2022/01/reducing-the-size-of-large-pdfs/../../../resources/snowman-200.png",
+    "publisher": "leancrew.com",
+    "description": "",
+    "by": "ingve",
+    "points": 46,
+    "comment_count": 14,
+    "hn_item": {
+      "by": "philip1209",
+      "descendants": 2,
+      "id": 30150021,
+      "kids": [
+        30151114
+      ],
+      "score": 8,
+      "time": 1643647463,
+      "title": "Slack Having a Partial Outage",
+      "type": "story",
+      "url": "https://status.slack.com/2022-01/f7d4da863db0707c"
+    },
+    "og_item": {
+      "title": "Reducing the size of large PDFs - All this",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "../../../resources/snowman-200.png"
+      }
+    }
+  },
+  {
+    "id": 30150749,
+    "title": "Does my site need HTTPS?",
+    "url": "https://doesmysiteneedhttps.com/",
+    "time": 1643649923,
+    "image": "",
+    "icon": "https://doesmysiteneedhttps.com/favicon.ico",
+    "publisher": "Caddy",
+    "description": "Find out if your site needs HTTPS.",
+    "by": "WallyFunk",
+    "points": 72,
+    "comment_count": 77,
+    "hn_item": {
+      "by": "philip1209",
+      "descendants": 2,
+      "id": 30150021,
+      "kids": [
+        30151114
+      ],
+      "score": 8,
+      "time": 1643647463,
+      "title": "Slack Having a Partial Outage",
+      "type": "story",
+      "url": "https://status.slack.com/2022-01/f7d4da863db0707c"
+    },
+    "og_item": {
+      "title": "Does my site need HTTPS?",
+      "type": "article",
+      "image": [],
+      "url": "/",
+      "audio": [],
+      "description": "Find out if your site needs HTTPS.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Caddy",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30150219,
     "title": "Show HN: Rich-CLI – A CLI toolbox for highlighting, Markdown, JSON and rich text",
     "url": "https://github.com/Textualize/rich-cli",
@@ -966,18 +1008,20 @@
     "publisher": "GitHub",
     "description": "Rich-cli is a command line toolbox for fancy output in the terminal - GitHub - Textualize/rich-cli: Rich-cli is a command line toolbox for fancy output in the terminal",
     "by": "willm",
-    "points": 72,
-    "comment_count": 24,
+    "points": 73,
+    "comment_count": 26,
     "hn_item": {
-      "by": "bryanrasmussen",
-      "descendants": 0,
-      "id": 30153138,
-      "kids": null,
-      "score": 4,
-      "time": 1643657937,
-      "title": "Rise of grasslands is linked to atmospheric CO2 decline in the late Palaeogene",
+      "by": "philip1209",
+      "descendants": 2,
+      "id": 30150021,
+      "kids": [
+        30151114
+      ],
+      "score": 8,
+      "time": 1643647463,
+      "title": "Slack Having a Partial Outage",
       "type": "story",
-      "url": "https://www.nature.com/articles/s41467-021-27897-y"
+      "url": "https://status.slack.com/2022-01/f7d4da863db0707c"
     },
     "og_item": {
       "title": "GitHub - Textualize/rich-cli: Rich-cli is a command line toolbox for fancy output in the terminal",
@@ -1015,18 +1059,20 @@
     "publisher": "Twitter",
     "description": "",
     "by": "ipsum2",
-    "points": 88,
-    "comment_count": 112,
+    "points": 89,
+    "comment_count": 115,
     "hn_item": {
-      "by": "bryanrasmussen",
-      "descendants": 0,
-      "id": 30153138,
-      "kids": null,
-      "score": 4,
-      "time": 1643657937,
-      "title": "Rise of grasslands is linked to atmospheric CO2 decline in the late Palaeogene",
+      "by": "philip1209",
+      "descendants": 2,
+      "id": 30150021,
+      "kids": [
+        30151114
+      ],
+      "score": 8,
+      "time": 1643647463,
+      "title": "Slack Having a Partial Outage",
       "type": "story",
-      "url": "https://www.nature.com/articles/s41467-021-27897-y"
+      "url": "https://status.slack.com/2022-01/f7d4da863db0707c"
     },
     "og_item": {
       "title": "",
@@ -1046,55 +1092,6 @@
     }
   },
   {
-    "id": 30129857,
-    "title": "Online archives where scientists post research spark information revolution",
-    "url": "https://www.washingtonpost.com/health/preprint-peer-review-studies/2022/01/28/3cdfb46e-4d53-11ec-b73b-a00d6e559a6e_story.html",
-    "time": 1643486748,
-    "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KN5F5OT7DII6ZDLRB2OKGUGUWE.jpg\u0026w=1440",
-    "icon": "https://www.washingtonpost.com/wp-stat/assets/favicons/touch-icon-iphone.png",
-    "publisher": "Washington Post",
-    "description": "Called preprint servers, these free sites allow the public to read such studies before their formal publication. They are shifting how people approach new research, experts say.",
-    "by": "bookofjoe",
-    "points": 7,
-    "comment_count": 1,
-    "hn_item": {
-      "by": "bryanrasmussen",
-      "descendants": 0,
-      "id": 30153138,
-      "kids": null,
-      "score": 4,
-      "time": 1643657937,
-      "title": "Rise of grasslands is linked to atmospheric CO2 decline in the late Palaeogene",
-      "type": "story",
-      "url": "https://www.nature.com/articles/s41467-021-27897-y"
-    },
-    "og_item": {
-      "title": "Online archives where scientists post their research spark information revolution",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KN5F5OT7DII6ZDLRB2OKGUGUWE.jpg\u0026w=1440",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://www.washingtonpost.com/health/preprint-peer-review-studies/2022/01/28/3cdfb46e-4d53-11ec-b73b-a00d6e559a6e_story.html",
-      "audio": [],
-      "description": "Called preprint servers, these free sites allow the public to read such studies before their formal publication. They are shifting how people approach new research, experts say.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Washington Post",
-      "video": [],
-      "favicon": {
-        "url": "https://www.washingtonpost.com/wp-stat/assets/favicons/touch-icon-iphone.png"
-      }
-    }
-  },
-  {
     "id": 30149864,
     "title": "How to approach and prioritize technical debt",
     "url": "https://leadership.garden/tips-on-prioritizing-tech-debt/",
@@ -1105,17 +1102,19 @@
     "description": "",
     "by": "ochronus",
     "points": 58,
-    "comment_count": 26,
+    "comment_count": 27,
     "hn_item": {
-      "by": "bryanrasmussen",
-      "descendants": 0,
-      "id": 30153138,
-      "kids": null,
-      "score": 4,
-      "time": 1643657937,
-      "title": "Rise of grasslands is linked to atmospheric CO2 decline in the late Palaeogene",
+      "by": "philip1209",
+      "descendants": 2,
+      "id": 30150021,
+      "kids": [
+        30151114
+      ],
+      "score": 8,
+      "time": 1643647463,
+      "title": "Slack Having a Partial Outage",
       "type": "story",
-      "url": "https://www.nature.com/articles/s41467-021-27897-y"
+      "url": "https://status.slack.com/2022-01/f7d4da863db0707c"
     },
     "og_item": {
       "title": "Please Wait... | Cloudflare",
@@ -1147,15 +1146,17 @@
     "points": 204,
     "comment_count": 162,
     "hn_item": {
-      "by": "bryanrasmussen",
-      "descendants": 0,
-      "id": 30153138,
-      "kids": null,
-      "score": 4,
-      "time": 1643657937,
-      "title": "Rise of grasslands is linked to atmospheric CO2 decline in the late Palaeogene",
+      "by": "philip1209",
+      "descendants": 2,
+      "id": 30150021,
+      "kids": [
+        30151114
+      ],
+      "score": 8,
+      "time": 1643647463,
+      "title": "Slack Having a Partial Outage",
       "type": "story",
-      "url": "https://www.nature.com/articles/s41467-021-27897-y"
+      "url": "https://status.slack.com/2022-01/f7d4da863db0707c"
     },
     "og_item": {
       "title": "GitHub - jscd/Boyfriend-Alert: A light based alert system",
@@ -1184,42 +1185,53 @@
     }
   },
   {
-    "id": 30152930,
-    "title": "Software Development Languages: Haskell",
-    "url": "https://www.fosskers.ca/en/blog/haskell-software-dev",
-    "time": 1643657291,
-    "image": "",
-    "icon": "https://www.fosskers.ca/assets/images/favicon-32x32.png",
-    "publisher": "fosskers.ca",
-    "description": "",
-    "by": "colingw",
-    "points": 20,
-    "comment_count": 4,
+    "id": 30129857,
+    "title": "Online archives where scientists post research spark information revolution",
+    "url": "https://www.washingtonpost.com/health/preprint-peer-review-studies/2022/01/28/3cdfb46e-4d53-11ec-b73b-a00d6e559a6e_story.html",
+    "time": 1643486748,
+    "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KN5F5OT7DII6ZDLRB2OKGUGUWE.jpg\u0026w=1440",
+    "icon": "https://www.washingtonpost.com/wp-stat/assets/favicons/touch-icon-iphone.png",
+    "publisher": "Washington Post",
+    "description": "Called preprint servers, these free sites allow the public to read such studies before their formal publication. They are shifting how people approach new research, experts say.",
+    "by": "bookofjoe",
+    "points": 7,
+    "comment_count": 1,
     "hn_item": {
-      "by": "bryanrasmussen",
-      "descendants": 0,
-      "id": 30153138,
-      "kids": null,
-      "score": 4,
-      "time": 1643657937,
-      "title": "Rise of grasslands is linked to atmospheric CO2 decline in the late Palaeogene",
+      "by": "philip1209",
+      "descendants": 2,
+      "id": 30150021,
+      "kids": [
+        30151114
+      ],
+      "score": 8,
+      "time": 1643647463,
+      "title": "Slack Having a Partial Outage",
       "type": "story",
-      "url": "https://www.nature.com/articles/s41467-021-27897-y"
+      "url": "https://status.slack.com/2022-01/f7d4da863db0707c"
     },
     "og_item": {
-      "title": "Colin Woodbury",
-      "type": "",
-      "image": [],
-      "url": "",
+      "title": "Online archives where scientists post their research spark information revolution",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KN5F5OT7DII6ZDLRB2OKGUGUWE.jpg\u0026w=1440",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://www.washingtonpost.com/health/preprint-peer-review-studies/2022/01/28/3cdfb46e-4d53-11ec-b73b-a00d6e559a6e_story.html",
       "audio": [],
-      "description": "",
+      "description": "Called preprint servers, these free sites allow the public to read such studies before their formal publication. They are shifting how people approach new research, experts say.",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "",
+      "site_name": "Washington Post",
       "video": [],
       "favicon": {
-        "url": "/assets/images/favicon-32x32.png"
+        "url": "https://www.washingtonpost.com/wp-stat/assets/favicons/touch-icon-iphone.png"
       }
     }
   },
@@ -1233,18 +1245,20 @@
     "publisher": "GitHub",
     "description": "A book about learning eLisp for customising Emacs the hard way - see the Gist https://gist.github.com/754568 - GitHub - hypernumbers/learn_elisp_the_hard_way: A book about learning eLisp for custom...",
     "by": "AndroidKitKat",
-    "points": 66,
+    "points": 67,
     "comment_count": 21,
     "hn_item": {
-      "by": "bryanrasmussen",
-      "descendants": 0,
-      "id": 30153138,
-      "kids": null,
-      "score": 4,
-      "time": 1643657937,
-      "title": "Rise of grasslands is linked to atmospheric CO2 decline in the late Palaeogene",
+      "by": "philip1209",
+      "descendants": 2,
+      "id": 30150021,
+      "kids": [
+        30151114
+      ],
+      "score": 8,
+      "time": 1643647463,
+      "title": "Slack Having a Partial Outage",
       "type": "story",
-      "url": "https://www.nature.com/articles/s41467-021-27897-y"
+      "url": "https://status.slack.com/2022-01/f7d4da863db0707c"
     },
     "og_item": {
       "title": "GitHub - hypernumbers/learn_elisp_the_hard_way: A book about learning eLisp for customising Emacs the hard way - see the Gist https://gist.github.com/754568",
@@ -1273,6 +1287,48 @@
     }
   },
   {
+    "id": 30152930,
+    "title": "Software Development Languages: Haskell",
+    "url": "https://www.fosskers.ca/en/blog/haskell-software-dev",
+    "time": 1643657291,
+    "image": "",
+    "icon": "https://www.fosskers.ca/assets/images/favicon-32x32.png",
+    "publisher": "fosskers.ca",
+    "description": "",
+    "by": "colingw",
+    "points": 21,
+    "comment_count": 4,
+    "hn_item": {
+      "by": "philip1209",
+      "descendants": 2,
+      "id": 30150021,
+      "kids": [
+        30151114
+      ],
+      "score": 8,
+      "time": 1643647463,
+      "title": "Slack Having a Partial Outage",
+      "type": "story",
+      "url": "https://status.slack.com/2022-01/f7d4da863db0707c"
+    },
+    "og_item": {
+      "title": "Colin Woodbury",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/assets/images/favicon-32x32.png"
+      }
+    }
+  },
+  {
     "id": 30151963,
     "title": "Gains I'm seeing from my second brain tool",
     "url": "https://joeldare.com/gains-im-seeing-from-my-second-brain-tool.html",
@@ -1282,18 +1338,20 @@
     "publisher": "Joel Dare",
     "description": "",
     "by": "codazoda",
-    "points": 113,
-    "comment_count": 87,
+    "points": 114,
+    "comment_count": 88,
     "hn_item": {
-      "by": "bryanrasmussen",
-      "descendants": 0,
-      "id": 30153138,
-      "kids": null,
-      "score": 4,
-      "time": 1643657937,
-      "title": "Rise of grasslands is linked to atmospheric CO2 decline in the late Palaeogene",
+      "by": "philip1209",
+      "descendants": 2,
+      "id": 30150021,
+      "kids": [
+        30151114
+      ],
+      "score": 8,
+      "time": 1643647463,
+      "title": "Slack Having a Partial Outage",
       "type": "story",
-      "url": "https://www.nature.com/articles/s41467-021-27897-y"
+      "url": "https://status.slack.com/2022-01/f7d4da863db0707c"
     },
     "og_item": {
       "title": "Gains I’m seeing from my second brain tool",
@@ -1325,15 +1383,17 @@
     "points": 20,
     "comment_count": 16,
     "hn_item": {
-      "by": "bryanrasmussen",
-      "descendants": 0,
-      "id": 30153138,
-      "kids": null,
-      "score": 4,
-      "time": 1643657937,
-      "title": "Rise of grasslands is linked to atmospheric CO2 decline in the late Palaeogene",
+      "by": "philip1209",
+      "descendants": 2,
+      "id": 30150021,
+      "kids": [
+        30151114
+      ],
+      "score": 8,
+      "time": 1643647463,
+      "title": "Slack Having a Partial Outage",
       "type": "story",
-      "url": "https://www.nature.com/articles/s41467-021-27897-y"
+      "url": "https://status.slack.com/2022-01/f7d4da863db0707c"
     },
     "og_item": {
       "title": "Wordle Español- Juego de adivinar una palabra por día",
@@ -1371,18 +1431,20 @@
     "publisher": "Daniel Roy Greenfeld",
     "description": "Make Your Makefiles Make Your Day!",
     "by": "JNRowe",
-    "points": 44,
+    "points": 47,
     "comment_count": 29,
     "hn_item": {
-      "by": "bryanrasmussen",
-      "descendants": 0,
-      "id": 30153138,
-      "kids": null,
-      "score": 4,
-      "time": 1643657937,
-      "title": "Rise of grasslands is linked to atmospheric CO2 decline in the late Palaeogene",
+      "by": "philip1209",
+      "descendants": 2,
+      "id": 30150021,
+      "kids": [
+        30151114
+      ],
+      "score": 8,
+      "time": 1643647463,
+      "title": "Slack Having a Partial Outage",
       "type": "story",
-      "url": "https://www.nature.com/articles/s41467-021-27897-y"
+      "url": "https://status.slack.com/2022-01/f7d4da863db0707c"
     },
     "og_item": {
       "title": "Autodocumenting Makefiles",
@@ -1411,46 +1473,6 @@
     }
   },
   {
-    "id": 30153624,
-    "title": "DockerHub Active Incident",
-    "url": "https://status.docker.com/pages/history/533c6539221ae15e3f000031",
-    "time": 1643660098,
-    "image": "",
-    "icon": "https://image.status.io/PYCmnvEWUfEF.ico",
-    "publisher": "status.docker.com",
-    "description": "Current system status. View active incidents or upcoming maintenances. Subscribe to receive status notifications.",
-    "by": "mkl95",
-    "points": 9,
-    "comment_count": 2,
-    "hn_item": {
-      "by": "bryanrasmussen",
-      "descendants": 0,
-      "id": 30153138,
-      "kids": null,
-      "score": 4,
-      "time": 1643657937,
-      "title": "Rise of grasslands is linked to atmospheric CO2 decline in the late Palaeogene",
-      "type": "story",
-      "url": "https://www.nature.com/articles/s41467-021-27897-y"
-    },
-    "og_item": {
-      "title": "Docker system status real-time view",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "Current system status. View active incidents or upcoming maintenances. Subscribe to receive status notifications.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "//image.status.io/PYCmnvEWUfEF.ico"
-      }
-    }
-  },
-  {
     "id": 30141788,
     "title": "Fuck That Gator (2017)",
     "url": "https://www.buzzfeed.com/golianopoulos/fuck-that-gator",
@@ -1460,18 +1482,20 @@
     "publisher": "BuzzFeed",
     "description": "Tommie Woodward yelled, \"Fuck that gator!\" just before he was killed by one in Texas, and his death instantly became a national joke. For his family, grieving means having to rescue the person from the punchline.",
     "by": "blending",
-    "points": 20,
-    "comment_count": 3,
+    "points": 21,
+    "comment_count": 4,
     "hn_item": {
-      "by": "bryanrasmussen",
-      "descendants": 0,
-      "id": 30153138,
-      "kids": null,
-      "score": 4,
-      "time": 1643657937,
-      "title": "Rise of grasslands is linked to atmospheric CO2 decline in the late Palaeogene",
+      "by": "philip1209",
+      "descendants": 2,
+      "id": 30150021,
+      "kids": [
+        30151114
+      ],
+      "score": 8,
+      "time": 1643647463,
+      "title": "Slack Having a Partial Outage",
       "type": "story",
-      "url": "https://www.nature.com/articles/s41467-021-27897-y"
+      "url": "https://status.slack.com/2022-01/f7d4da863db0707c"
     },
     "og_item": {
       "title": "Tommie Woodward's Internet-Famous Last Words",
@@ -1500,51 +1524,44 @@
     }
   },
   {
-    "id": 30154442,
-    "title": "Writing Better Release Notes",
-    "url": "https://simonwillison.net/2022/Jan/31/release-notes/",
-    "time": 1643663582,
-    "image": "https://avatars0.githubusercontent.com/u/9599?v=4\u0026s=200",
-    "icon": "https://simonwillison.net/favicon.ico",
-    "publisher": "simonwillison.net",
-    "description": "Release notes are an important part of the open source process. I’ve been thinking about these a lot recently, and I’ve assembled some thoughts on how to do a better …",
-    "by": "BerislavLopac",
-    "points": 4,
-    "comment_count": 0,
+    "id": 30153624,
+    "title": "DockerHub Active Incident",
+    "url": "https://status.docker.com/pages/history/533c6539221ae15e3f000031",
+    "time": 1643660098,
+    "image": "",
+    "icon": "https://image.status.io/PYCmnvEWUfEF.ico",
+    "publisher": "status.docker.com",
+    "description": "Current system status. View active incidents or upcoming maintenances. Subscribe to receive status notifications.",
+    "by": "mkl95",
+    "points": 9,
+    "comment_count": 2,
     "hn_item": {
-      "by": "bryanrasmussen",
-      "descendants": 0,
-      "id": 30153138,
-      "kids": null,
-      "score": 4,
-      "time": 1643657937,
-      "title": "Rise of grasslands is linked to atmospheric CO2 decline in the late Palaeogene",
+      "by": "philip1209",
+      "descendants": 2,
+      "id": 30150021,
+      "kids": [
+        30151114
+      ],
+      "score": 8,
+      "time": 1643647463,
+      "title": "Slack Having a Partial Outage",
       "type": "story",
-      "url": "https://www.nature.com/articles/s41467-021-27897-y"
+      "url": "https://status.slack.com/2022-01/f7d4da863db0707c"
     },
     "og_item": {
-      "title": "Writing better release notes",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://avatars0.githubusercontent.com/u/9599?v=4\u0026s=200",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "http://simonwillison.net/2022/Jan/31/release-notes/",
+      "title": "Docker system status real-time view",
+      "type": "",
+      "image": [],
+      "url": "",
       "audio": [],
-      "description": "Release notes are an important part of the open source process. I’ve been thinking about these a lot recently, and I’ve assembled some thoughts on how to do a better …",
+      "description": "Current system status. View active incidents or upcoming maintenances. Subscribe to receive status notifications.",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
       "site_name": "",
       "video": [],
       "favicon": {
-        "url": "/favicon.ico"
+        "url": "//image.status.io/PYCmnvEWUfEF.ico"
       }
     }
   },
@@ -1561,15 +1578,17 @@
     "points": 121,
     "comment_count": 58,
     "hn_item": {
-      "by": "bryanrasmussen",
-      "descendants": 0,
-      "id": 30153138,
-      "kids": null,
-      "score": 4,
-      "time": 1643657937,
-      "title": "Rise of grasslands is linked to atmospheric CO2 decline in the late Palaeogene",
+      "by": "philip1209",
+      "descendants": 2,
+      "id": 30150021,
+      "kids": [
+        30151114
+      ],
+      "score": 8,
+      "time": 1643647463,
+      "title": "Slack Having a Partial Outage",
       "type": "story",
-      "url": "https://www.nature.com/articles/s41467-021-27897-y"
+      "url": "https://status.slack.com/2022-01/f7d4da863db0707c"
     },
     "og_item": {
       "title": "Socrates on the Blessing of Being Refuted - Antigone",
@@ -1598,6 +1617,57 @@
     }
   },
   {
+    "id": 30154442,
+    "title": "Writing Better Release Notes",
+    "url": "https://simonwillison.net/2022/Jan/31/release-notes/",
+    "time": 1643663582,
+    "image": "https://avatars0.githubusercontent.com/u/9599?v=4\u0026s=200",
+    "icon": "https://simonwillison.net/favicon.ico",
+    "publisher": "simonwillison.net",
+    "description": "Release notes are an important part of the open source process. I’ve been thinking about these a lot recently, and I’ve assembled some thoughts on how to do a better …",
+    "by": "BerislavLopac",
+    "points": 4,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "philip1209",
+      "descendants": 2,
+      "id": 30150021,
+      "kids": [
+        30151114
+      ],
+      "score": 8,
+      "time": 1643647463,
+      "title": "Slack Having a Partial Outage",
+      "type": "story",
+      "url": "https://status.slack.com/2022-01/f7d4da863db0707c"
+    },
+    "og_item": {
+      "title": "Writing better release notes",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://avatars0.githubusercontent.com/u/9599?v=4\u0026s=200",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "http://simonwillison.net/2022/Jan/31/release-notes/",
+      "audio": [],
+      "description": "Release notes are an important part of the open source process. I’ve been thinking about these a lot recently, and I’ve assembled some thoughts on how to do a better …",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30149099,
     "title": "Google critiqued the practice of displaying ads above search results",
     "url": "https://twitter.com/krebs_adrian/status/1488173888068542466",
@@ -1610,15 +1680,17 @@
     "points": 288,
     "comment_count": 135,
     "hn_item": {
-      "by": "bryanrasmussen",
-      "descendants": 0,
-      "id": 30153138,
-      "kids": null,
-      "score": 4,
-      "time": 1643657937,
-      "title": "Rise of grasslands is linked to atmospheric CO2 decline in the late Palaeogene",
+      "by": "philip1209",
+      "descendants": 2,
+      "id": 30150021,
+      "kids": [
+        30151114
+      ],
+      "score": 8,
+      "time": 1643647463,
+      "title": "Slack Having a Partial Outage",
       "type": "story",
-      "url": "https://www.nature.com/articles/s41467-021-27897-y"
+      "url": "https://status.slack.com/2022-01/f7d4da863db0707c"
     },
     "og_item": {
       "title": "",
@@ -1650,15 +1722,17 @@
     "points": 147,
     "comment_count": 93,
     "hn_item": {
-      "by": "bryanrasmussen",
-      "descendants": 0,
-      "id": 30153138,
-      "kids": null,
-      "score": 4,
-      "time": 1643657937,
-      "title": "Rise of grasslands is linked to atmospheric CO2 decline in the late Palaeogene",
+      "by": "philip1209",
+      "descendants": 2,
+      "id": 30150021,
+      "kids": [
+        30151114
+      ],
+      "score": 8,
+      "time": 1643647463,
+      "title": "Slack Having a Partial Outage",
       "type": "story",
-      "url": "https://www.nature.com/articles/s41467-021-27897-y"
+      "url": "https://status.slack.com/2022-01/f7d4da863db0707c"
     },
     "og_item": {
       "title": "The Boring Technology Checklist - Begin",
@@ -1690,15 +1764,17 @@
     "points": 155,
     "comment_count": 26,
     "hn_item": {
-      "by": "bryanrasmussen",
-      "descendants": 0,
-      "id": 30153138,
-      "kids": null,
-      "score": 4,
-      "time": 1643657937,
-      "title": "Rise of grasslands is linked to atmospheric CO2 decline in the late Palaeogene",
+      "by": "philip1209",
+      "descendants": 2,
+      "id": 30150021,
+      "kids": [
+        30151114
+      ],
+      "score": 8,
+      "time": 1643647463,
+      "title": "Slack Having a Partial Outage",
       "type": "story",
-      "url": "https://www.nature.com/articles/s41467-021-27897-y"
+      "url": "https://status.slack.com/2022-01/f7d4da863db0707c"
     },
     "og_item": {
       "title": "The AWK State Machine Parser Pattern",
@@ -1727,18 +1803,20 @@
     "publisher": "UMass Chan Medical School",
     "description": "UMass Chan Medical School researchers are embarking on a clinical trial of an mRNA vaccine by Moderna against the Epstein-Barr virus (EBV), a common cause of infectious mononucleosis. Katherine Luzuriaga, MD, is principal investigator for the study at UMass Chan.",
     "by": "drewcon",
-    "points": 9,
-    "comment_count": 0,
+    "points": 11,
+    "comment_count": 1,
     "hn_item": {
-      "by": "bryanrasmussen",
-      "descendants": 0,
-      "id": 30153138,
-      "kids": null,
-      "score": 4,
-      "time": 1643657937,
-      "title": "Rise of grasslands is linked to atmospheric CO2 decline in the late Palaeogene",
+      "by": "philip1209",
+      "descendants": 2,
+      "id": 30150021,
+      "kids": [
+        30151114
+      ],
+      "score": 8,
+      "time": 1643647463,
+      "title": "Slack Having a Partial Outage",
       "type": "story",
-      "url": "https://www.nature.com/articles/s41467-021-27897-y"
+      "url": "https://status.slack.com/2022-01/f7d4da863db0707c"
     },
     "og_item": {
       "title": "Phase I clinical trial of Moderna mRNA vaccine for Epstein-Barr virus starting at UMass Chan",
@@ -1767,55 +1845,6 @@
     }
   },
   {
-    "id": 30154070,
-    "title": "Realtime Inequality",
-    "url": "https://realtimeinequality.org/",
-    "time": 1643662001,
-    "image": "https://realtimeinequality.org/rti-twitter.jpg",
-    "icon": "https://realtimeinequality.org/favicon.ico",
-    "publisher": "realtimeinequality.org",
-    "description": "Visualizing income and wealth inequality in the U.S. in real time.",
-    "by": "jbegley",
-    "points": 6,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "bryanrasmussen",
-      "descendants": 0,
-      "id": 30153138,
-      "kids": null,
-      "score": 4,
-      "time": 1643657937,
-      "title": "Rise of grasslands is linked to atmospheric CO2 decline in the late Palaeogene",
-      "type": "story",
-      "url": "https://www.nature.com/articles/s41467-021-27897-y"
-    },
-    "og_item": {
-      "title": "Realtime Inequality",
-      "type": "website",
-      "image": [
-        {
-          "url": "https://realtimeinequality.org/rti-twitter.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "",
-      "audio": [],
-      "description": "Visualizing income and wealth inequality in the U.S. in real time.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30144101,
     "title": "Please make a dumb car",
     "url": "https://techcrunch.com/2022/01/29/please-make-a-dumb-car/",
@@ -1825,18 +1854,20 @@
     "publisher": "TechCrunch",
     "description": "Today’s cars are dumb where they should be smart, and smart where they should be dumb. Enough already. Make a car that’s pretty much all dumb and watch it sell — because what automakers are giving people is so bad, they’ll pay more to have less of it. Cars now are like budget smar…",
     "by": "wrycoder",
-    "points": 449,
-    "comment_count": 529,
+    "points": 450,
+    "comment_count": 534,
     "hn_item": {
-      "by": "bryanrasmussen",
-      "descendants": 0,
-      "id": 30153138,
-      "kids": null,
-      "score": 4,
-      "time": 1643657937,
-      "title": "Rise of grasslands is linked to atmospheric CO2 decline in the late Palaeogene",
+      "by": "philip1209",
+      "descendants": 2,
+      "id": 30150021,
+      "kids": [
+        30151114
+      ],
+      "score": 8,
+      "time": 1643647463,
+      "title": "Slack Having a Partial Outage",
       "type": "story",
-      "url": "https://www.nature.com/articles/s41467-021-27897-y"
+      "url": "https://status.slack.com/2022-01/f7d4da863db0707c"
     },
     "og_item": {
       "title": "Please make a dumb car – TechCrunch",
@@ -1865,6 +1896,57 @@
     }
   },
   {
+    "id": 30154070,
+    "title": "Realtime Inequality",
+    "url": "https://realtimeinequality.org/",
+    "time": 1643662001,
+    "image": "https://realtimeinequality.org/rti-twitter.jpg",
+    "icon": "https://realtimeinequality.org/favicon.ico",
+    "publisher": "realtimeinequality.org",
+    "description": "Visualizing income and wealth inequality in the U.S. in real time.",
+    "by": "jbegley",
+    "points": 6,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "philip1209",
+      "descendants": 2,
+      "id": 30150021,
+      "kids": [
+        30151114
+      ],
+      "score": 8,
+      "time": 1643647463,
+      "title": "Slack Having a Partial Outage",
+      "type": "story",
+      "url": "https://status.slack.com/2022-01/f7d4da863db0707c"
+    },
+    "og_item": {
+      "title": "Realtime Inequality",
+      "type": "website",
+      "image": [
+        {
+          "url": "https://realtimeinequality.org/rti-twitter.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "",
+      "audio": [],
+      "description": "Visualizing income and wealth inequality in the U.S. in real time.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30146843,
     "title": "1k-cycle lithium-sulfur battery could increase electric vehicle ranges",
     "url": "https://news.umich.edu/1000-cycle-lithium-sulfur-battery-could-quintuple-electric-vehicle-ranges/",
@@ -1875,17 +1957,19 @@
     "description": "A new biologically inspired battery membrane has enabled a battery with five times the capacity of the industry-standard lithium ion design to run for the thousand-plus cycles needed to power an electric car.\n\nA network of aramid nanofibers, recycled from Kevlar, can enable lithium-sulfur batterie",
     "by": "maeln",
     "points": 74,
-    "comment_count": 152,
+    "comment_count": 153,
     "hn_item": {
-      "by": "bryanrasmussen",
-      "descendants": 0,
-      "id": 30153138,
-      "kids": null,
-      "score": 4,
-      "time": 1643657937,
-      "title": "Rise of grasslands is linked to atmospheric CO2 decline in the late Palaeogene",
+      "by": "philip1209",
+      "descendants": 2,
+      "id": 30150021,
+      "kids": [
+        30151114
+      ],
+      "score": 8,
+      "time": 1643647463,
+      "title": "Slack Having a Partial Outage",
       "type": "story",
-      "url": "https://www.nature.com/articles/s41467-021-27897-y"
+      "url": "https://status.slack.com/2022-01/f7d4da863db0707c"
     },
     "og_item": {
       "title": "1,000-cycle lithium-sulfur battery could quintuple electric vehicle ranges",
@@ -1926,15 +2010,17 @@
     "points": 71,
     "comment_count": 38,
     "hn_item": {
-      "by": "bryanrasmussen",
-      "descendants": 0,
-      "id": 30153138,
-      "kids": null,
-      "score": 4,
-      "time": 1643657937,
-      "title": "Rise of grasslands is linked to atmospheric CO2 decline in the late Palaeogene",
+      "by": "philip1209",
+      "descendants": 2,
+      "id": 30150021,
+      "kids": [
+        30151114
+      ],
+      "score": 8,
+      "time": 1643647463,
+      "title": "Slack Having a Partial Outage",
       "type": "story",
-      "url": "https://www.nature.com/articles/s41467-021-27897-y"
+      "url": "https://status.slack.com/2022-01/f7d4da863db0707c"
     },
     "og_item": {
       "title": "Sony is buying Bungie, the developer of Destiny and original creator of Halo",
@@ -1963,55 +2049,6 @@
     }
   },
   {
-    "id": 30153326,
-    "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
-    "url": "https://ar5iv.org/",
-    "time": 1643658897,
-    "image": "https://ar5iv.org/assets/ar5iv_card.png",
-    "icon": "https://ar5iv.org/favicon.ico",
-    "publisher": "ar5iv",
-    "description": "ar5iv offers a modern web view for arXiv's preprints. An open community resource, on a quest to a full collection of high-quality documents.",
-    "by": "rg111",
-    "points": 7,
-    "comment_count": 1,
-    "hn_item": {
-      "by": "bryanrasmussen",
-      "descendants": 0,
-      "id": 30153138,
-      "kids": null,
-      "score": 4,
-      "time": 1643657937,
-      "title": "Rise of grasslands is linked to atmospheric CO2 decline in the late Palaeogene",
-      "type": "story",
-      "url": "https://www.nature.com/articles/s41467-021-27897-y"
-    },
-    "og_item": {
-      "title": "ar5iv – Articles from arXiv.org as responsive HTML5 web documents",
-      "type": "",
-      "image": [
-        {
-          "url": "https://ar5iv.org/assets/ar5iv_card.png",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://ar5iv.org",
-      "audio": [],
-      "description": "ar5iv offers a modern web view for arXiv's preprints. An open community resource, on a quest to a full collection of high-quality documents.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "ar5iv",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30147213,
     "title": "Textual for Windows (Python package for TUIs)",
     "url": "https://www.willmcgugan.com/blog/tech/post/textual-for-windows/",
@@ -2021,18 +2058,20 @@
     "publisher": "Will McGugan Tech",
     "description": "Textual adds Windows support I've just released v0.1.15 of Textual, with Windows support. The Windows support is somewhat experimental, but so far seems solid. You will get best results on the new Windows Terminal. On the classic command prompt you might find a reduced color palette. This works o…",
     "by": "RojerGS",
-    "points": 67,
+    "points": 68,
     "comment_count": 10,
     "hn_item": {
-      "by": "bryanrasmussen",
-      "descendants": 0,
-      "id": 30153138,
-      "kids": null,
-      "score": 4,
-      "time": 1643657937,
-      "title": "Rise of grasslands is linked to atmospheric CO2 decline in the late Palaeogene",
+      "by": "philip1209",
+      "descendants": 2,
+      "id": 30150021,
+      "kids": [
+        30151114
+      ],
+      "score": 8,
+      "time": 1643647463,
+      "title": "Slack Having a Partial Outage",
       "type": "story",
-      "url": "https://www.nature.com/articles/s41467-021-27897-y"
+      "url": "https://status.slack.com/2022-01/f7d4da863db0707c"
     },
     "og_item": {
       "title": "Textual for Windows",
@@ -2070,18 +2109,20 @@
     "publisher": "pcjs.org",
     "description": "Home of the original IBM PC emulator for browsers. PCjs offers a variety of online machine emulators written in JavaScript. Run DOS, Windows, OS/2 and other vintage PC applications in a web browser on your desktop computer, iPhone, or iPad. An assortment of microcomputers, minicomputers, terminal…",
     "by": "DiabloD3",
-    "points": 69,
+    "points": 70,
     "comment_count": 27,
     "hn_item": {
-      "by": "bryanrasmussen",
-      "descendants": 0,
-      "id": 30153138,
-      "kids": null,
-      "score": 4,
-      "time": 1643657937,
-      "title": "Rise of grasslands is linked to atmospheric CO2 decline in the late Palaeogene",
+      "by": "philip1209",
+      "descendants": 2,
+      "id": 30150021,
+      "kids": [
+        30151114
+      ],
+      "score": 8,
+      "time": 1643647463,
+      "title": "Slack Having a Partial Outage",
       "type": "story",
-      "url": "https://www.nature.com/articles/s41467-021-27897-y"
+      "url": "https://status.slack.com/2022-01/f7d4da863db0707c"
     },
     "og_item": {
       "title": "DEC VT100 Terminal",
@@ -2110,6 +2151,57 @@
     }
   },
   {
+    "id": 30153326,
+    "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
+    "url": "https://ar5iv.org/",
+    "time": 1643658897,
+    "image": "https://ar5iv.org/assets/ar5iv_card.png",
+    "icon": "https://ar5iv.org/favicon.ico",
+    "publisher": "ar5iv",
+    "description": "ar5iv offers a modern web view for arXiv's preprints. An open community resource, on a quest to a full collection of high-quality documents.",
+    "by": "rg111",
+    "points": 7,
+    "comment_count": 1,
+    "hn_item": {
+      "by": "philip1209",
+      "descendants": 2,
+      "id": 30150021,
+      "kids": [
+        30151114
+      ],
+      "score": 8,
+      "time": 1643647463,
+      "title": "Slack Having a Partial Outage",
+      "type": "story",
+      "url": "https://status.slack.com/2022-01/f7d4da863db0707c"
+    },
+    "og_item": {
+      "title": "ar5iv – Articles from arXiv.org as responsive HTML5 web documents",
+      "type": "",
+      "image": [
+        {
+          "url": "https://ar5iv.org/assets/ar5iv_card.png",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://ar5iv.org",
+      "audio": [],
+      "description": "ar5iv offers a modern web view for arXiv's preprints. An open community resource, on a quest to a full collection of high-quality documents.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "ar5iv",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30152833,
     "title": "AOSC OS/Retro: A Linux Distro for 486 and PPC Macs",
     "url": "https://lunduke.substack.com/p/aosc-osretro-a-linux-distro-for-486",
@@ -2122,15 +2214,17 @@
     "points": 11,
     "comment_count": 1,
     "hn_item": {
-      "by": "bryanrasmussen",
-      "descendants": 0,
-      "id": 30153138,
-      "kids": null,
-      "score": 4,
-      "time": 1643657937,
-      "title": "Rise of grasslands is linked to atmospheric CO2 decline in the late Palaeogene",
+      "by": "philip1209",
+      "descendants": 2,
+      "id": 30150021,
+      "kids": [
+        30151114
+      ],
+      "score": 8,
+      "time": 1643647463,
+      "title": "Slack Having a Partial Outage",
       "type": "story",
-      "url": "https://www.nature.com/articles/s41467-021-27897-y"
+      "url": "https://status.slack.com/2022-01/f7d4da863db0707c"
     },
     "og_item": {
       "title": "AOSC OS/Retro: A Linux Distro for 486 \u0026 PPC Macs",
@@ -2159,55 +2253,6 @@
     }
   },
   {
-    "id": 30152168,
-    "title": "Sony Buys Bungie",
-    "url": "https://blog.playstation.com/2022/01/31/bungie-is-joining-playstation/",
-    "time": 1643654556,
-    "image": "https://blog.playstation.com/tachyon/2022/01/8f2d141dbfa9c1dd61befc2de0a92266b3e9a9d0.jpg",
-    "icon": "https://blog.playstation.com/tachyon/2019/03/cropped-pslogo.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD\u0026X-Amz-Security-Token=IQoJb3JpZ2luX2VjEPz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJGMEQCIHC1CoOj0mCIlNB2Pia68yMHbwdt7hE2teC4OT4FtWRuAiBf09H5h6iCWUv70FNpXpAZM8hA7b0z9%2BGgSE4Vxg6B9Sr9Awg1EAAaDDU3NzQxODgxODQxMyIMLpK04sXfBNxUE0rLKtoDgLiFKYjjjWeGSyz8hLaPHnuEiW%2BP0qrD6FS2ooUEVwxq5YmPUgMaCabD61lCIn0GqzgDi2WnghyPU%2B3tnz8uS19qldI32z28Zw%2Fo%2BND2t5Pr%2FCnZd6MtlFG%2BENzsbOofBvRaaCqoeT4dkfShnLdtbqo9h7gt1Rx3U4tgqkNOIX7V3v8ZTn60neBh6HylP9UhiD78xj%2Fd%2FWCBm%2Fm898r6QyNa3rr6w1gjrITsnYT%2Fw6TFjlAjaytY3m4%2FoH5eqD2Du6xlUZBE5aGw4xqcYVzpgh8VLRDIjHlLuknNz2%2BvaUTmB9jEjgzCbIVJCmbtsg5FmIedcYXOcgH%2BT%2Bx55aE8LX5WwdcdWxRAyv1GJ0aANm1tUD7%2FaW43xjhRaDMgAQguzh76jq2IquuEh5sWnGyF8258UM82Ot7HocjwzM0HR1LghgwpWMZLNB0i8gECkq6NPl5X7DlFNfcFyolRUUHC9RJ9ZPAhfPjD3LDR4P5oS1xZN9ac7t8GaPTaBQARywRncUZXj0XaJYC%2B29yC%2BC3gevwjo0JHASoOIxWSXVOX7xbWSgbyjlTv%2B8WbZhJ1GEHvOxvh8TQY%2B%2BotbhIy%2FeGEmeuMfEOMKK4RRX4pGqBQm6LIqNkxsBq2NND9MPPw4I8GOqYBothgm5nO0LQX3LsrGLzuEEk3PbB04PKdICmpNfzZ%2Bi9b9zPJkWYoUTTYEtCW0zr8ltK%2BnWG6wjW5e%2FadAVeAC5dl7Utt%2FXtwjtY3%2BZPzay5sk7qaEnzGIUokptt4gR1NGptOoHSTp9b0L%2BWc66iHv%2F21x4x77nu2ivaeygL1KbRFZ0Znu5%2Bd2kasCE2r1x3HoxL%2FRyaTOAmSBXKr9n6T2z2E9e0oew%3D%3D\u0026X-Amz-Algorithm=AWS4-HMAC-SHA256\u0026X-Amz-Credential=ASIAYM4GX6NWWKACVY4H%2F20220131%2Fus-east-1%2Fs3%2Faws4_request\u0026X-Amz-Date=20220131T221356Z\u0026X-Amz-SignedHeaders=host\u0026X-Amz-Expires=900\u0026X-Amz-Signature=efdb8541d27258783f5777d3c72a1fd7d922ee4bc7c5ca4efaa500c52a350647\u0026fit=192%2C192",
-    "publisher": "PlayStation.Blog",
-    "description": "Legendary developer to join PlayStation as independent, multi-platform studio and publisher.",
-    "by": "zdw",
-    "points": 10,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "bryanrasmussen",
-      "descendants": 0,
-      "id": 30153138,
-      "kids": null,
-      "score": 4,
-      "time": 1643657937,
-      "title": "Rise of grasslands is linked to atmospheric CO2 decline in the late Palaeogene",
-      "type": "story",
-      "url": "https://www.nature.com/articles/s41467-021-27897-y"
-    },
-    "og_item": {
-      "title": "Bungie is Joining PlayStation",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://blog.playstation.com/tachyon/2022/01/8f2d141dbfa9c1dd61befc2de0a92266b3e9a9d0.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://blog.playstation.com/2022/01/31/bungie-is-joining-playstation/",
-      "audio": [],
-      "description": "Legendary developer to join PlayStation as independent, multi-platform studio and publisher.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "PlayStation.Blog",
-      "video": [],
-      "favicon": {
-        "url": "https://blog.playstation.com/tachyon/2019/03/cropped-pslogo.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD\u0026X-Amz-Security-Token=IQoJb3JpZ2luX2VjEPz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJGMEQCIHC1CoOj0mCIlNB2Pia68yMHbwdt7hE2teC4OT4FtWRuAiBf09H5h6iCWUv70FNpXpAZM8hA7b0z9%2BGgSE4Vxg6B9Sr9Awg1EAAaDDU3NzQxODgxODQxMyIMLpK04sXfBNxUE0rLKtoDgLiFKYjjjWeGSyz8hLaPHnuEiW%2BP0qrD6FS2ooUEVwxq5YmPUgMaCabD61lCIn0GqzgDi2WnghyPU%2B3tnz8uS19qldI32z28Zw%2Fo%2BND2t5Pr%2FCnZd6MtlFG%2BENzsbOofBvRaaCqoeT4dkfShnLdtbqo9h7gt1Rx3U4tgqkNOIX7V3v8ZTn60neBh6HylP9UhiD78xj%2Fd%2FWCBm%2Fm898r6QyNa3rr6w1gjrITsnYT%2Fw6TFjlAjaytY3m4%2FoH5eqD2Du6xlUZBE5aGw4xqcYVzpgh8VLRDIjHlLuknNz2%2BvaUTmB9jEjgzCbIVJCmbtsg5FmIedcYXOcgH%2BT%2Bx55aE8LX5WwdcdWxRAyv1GJ0aANm1tUD7%2FaW43xjhRaDMgAQguzh76jq2IquuEh5sWnGyF8258UM82Ot7HocjwzM0HR1LghgwpWMZLNB0i8gECkq6NPl5X7DlFNfcFyolRUUHC9RJ9ZPAhfPjD3LDR4P5oS1xZN9ac7t8GaPTaBQARywRncUZXj0XaJYC%2B29yC%2BC3gevwjo0JHASoOIxWSXVOX7xbWSgbyjlTv%2B8WbZhJ1GEHvOxvh8TQY%2B%2BotbhIy%2FeGEmeuMfEOMKK4RRX4pGqBQm6LIqNkxsBq2NND9MPPw4I8GOqYBothgm5nO0LQX3LsrGLzuEEk3PbB04PKdICmpNfzZ%2Bi9b9zPJkWYoUTTYEtCW0zr8ltK%2BnWG6wjW5e%2FadAVeAC5dl7Utt%2FXtwjtY3%2BZPzay5sk7qaEnzGIUokptt4gR1NGptOoHSTp9b0L%2BWc66iHv%2F21x4x77nu2ivaeygL1KbRFZ0Znu5%2Bd2kasCE2r1x3HoxL%2FRyaTOAmSBXKr9n6T2z2E9e0oew%3D%3D\u0026X-Amz-Algorithm=AWS4-HMAC-SHA256\u0026X-Amz-Credential=ASIAYM4GX6NWWKACVY4H%2F20220131%2Fus-east-1%2Fs3%2Faws4_request\u0026X-Amz-Date=20220131T221356Z\u0026X-Amz-SignedHeaders=host\u0026X-Amz-Expires=900\u0026X-Amz-Signature=efdb8541d27258783f5777d3c72a1fd7d922ee4bc7c5ca4efaa500c52a350647\u0026fit=192%2C192"
-      }
-    }
-  },
-  {
     "id": 30147755,
     "title": "Polar bears move into abandoned Arctic weather station",
     "url": "https://www.theguardian.com/world/2022/jan/31/polar-bears-move-into-abandoned-arctic-weather-station-photo-essay",
@@ -2217,18 +2262,20 @@
     "publisher": "the Guardian",
     "description": "Photographer Dmitry Kokh discovered polar bears living in an abandoned weather station in Kolyuchin in the Chukotka Autonomous Okrug of Russia",
     "by": "sofixa",
-    "points": 188,
+    "points": 189,
     "comment_count": 46,
     "hn_item": {
-      "by": "bryanrasmussen",
-      "descendants": 0,
-      "id": 30153138,
-      "kids": null,
-      "score": 4,
-      "time": 1643657937,
-      "title": "Rise of grasslands is linked to atmospheric CO2 decline in the late Palaeogene",
+      "by": "philip1209",
+      "descendants": 2,
+      "id": 30150021,
+      "kids": [
+        30151114
+      ],
+      "score": 8,
+      "time": 1643647463,
+      "title": "Slack Having a Partial Outage",
       "type": "story",
-      "url": "https://www.nature.com/articles/s41467-021-27897-y"
+      "url": "https://status.slack.com/2022-01/f7d4da863db0707c"
     },
     "og_item": {
       "title": "Polar bears move into abandoned Arctic weather station – photo essay",
@@ -2257,6 +2304,57 @@
     }
   },
   {
+    "id": 30152168,
+    "title": "Sony Buys Bungie",
+    "url": "https://blog.playstation.com/2022/01/31/bungie-is-joining-playstation/",
+    "time": 1643654556,
+    "image": "https://blog.playstation.com/tachyon/2022/01/8f2d141dbfa9c1dd61befc2de0a92266b3e9a9d0.jpg",
+    "icon": "https://blog.playstation.com/tachyon/2019/03/cropped-pslogo.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD\u0026X-Amz-Security-Token=IQoJb3JpZ2luX2VjEP7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIDVYdyiOW3QiSKL%2BFBrSKEiqTWESX8C4sc5e%2FaNsrPuDAiEAlhthjeuj6BymrtQskknHlWcRLn%2BG32sD8DCOjZ9F%2FwEq%2FQMINxAAGgw1Nzc0MTg4MTg0MTMiDK3B%2BTqVVFG2w7OIDiraA11R1onSY1viIa6NUDg9IJF93QvO15h9zLN%2F7wJnY77rGuvZeVaXzNo967Nlo6H5DU%2FPJIDtcKquO7iQUD%2BF1LZIqeCHHratJN%2FYE5g5oKCzekoMYlj6hqzpNSQAsYA4ZJdrIBVHMMrMgJrAPTEOkBsE5dZNChKqiBFiP2GsiojqjYZR102BcYu2KTAc79CNwoAyAQmPQqPks6v5gOFxqBxi1FNd%2FaC7SHKl%2Bbu9gMP51G9Q%2FRit1%2BuNipwm3fk9lb8YvqlTPbBgWTLZfklXcxlKiE28RLpphmsXJlcYTsver%2F0CDY3lJpWCFyJF4m4aB%2BuqIIN2logra4OlPiZHrIXjS%2FHn1ZpjM9fuBagVhKRqvZhvU54oiKlHgmhFE1IpAsAdyhcjpUskJp0NmCmieUu9sW5cNeKBf46ZxfsKYJn8wMv%2BA%2B2IdWv4c8ZzVMrbQcEs1NgSgaKNgFX3gp%2BUcL1p5RTNJum27jRVl8RBrra1eXAXDTB1Huca8HXNV3cQ4l7E91onVqIcoqp1a66vnGXmgaWKtmaksBy0wBfAeq7sOg40bS6Kiu9eIt8l0gSUhErZr3geb4xOcAhwjUKsOf7OsveIyOqh7s5A96Oxk772aDXRRI4FvNyoszDCpuGPBjqlAURRAOvZSJKLb5VQKETEi8Yrp2aNucCmBuSBCbNzIGoRrFcenWLqrWTbsAXe7OmARRRinoe%2F0MVmhYxbG9cv6yeqI8jRnNcowekJzKJv59Abl9C8uaH7fS4MRt%2B4FUqCcFjCENHN1UdyocYe3s2qYfzrLCL9HZnbB9kUJmQUAbmnRwWce6ILsY28ktdm4YLVSzE%2FXPedwWnvhirh23Vtz2kS47HV4w%3D%3D\u0026X-Amz-Algorithm=AWS4-HMAC-SHA256\u0026X-Amz-Credential=ASIAYM4GX6NWUERKZ2F2%2F20220131%2Fus-east-1%2Fs3%2Faws4_request\u0026X-Amz-Date=20220131T222357Z\u0026X-Amz-SignedHeaders=host\u0026X-Amz-Expires=900\u0026X-Amz-Signature=dd5000f65d92a3c82c61e3fb67beaa2229e6e2034cccc44ece2eef212352d913\u0026fit=192%2C192",
+    "publisher": "PlayStation.Blog",
+    "description": "Legendary developer to join PlayStation as independent, multi-platform studio and publisher.",
+    "by": "zdw",
+    "points": 10,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "philip1209",
+      "descendants": 2,
+      "id": 30150021,
+      "kids": [
+        30151114
+      ],
+      "score": 8,
+      "time": 1643647463,
+      "title": "Slack Having a Partial Outage",
+      "type": "story",
+      "url": "https://status.slack.com/2022-01/f7d4da863db0707c"
+    },
+    "og_item": {
+      "title": "Bungie is Joining PlayStation",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://blog.playstation.com/tachyon/2022/01/8f2d141dbfa9c1dd61befc2de0a92266b3e9a9d0.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://blog.playstation.com/2022/01/31/bungie-is-joining-playstation/",
+      "audio": [],
+      "description": "Legendary developer to join PlayStation as independent, multi-platform studio and publisher.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "PlayStation.Blog",
+      "video": [],
+      "favicon": {
+        "url": "https://blog.playstation.com/tachyon/2019/03/cropped-pslogo.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD\u0026X-Amz-Security-Token=IQoJb3JpZ2luX2VjEP7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIDVYdyiOW3QiSKL%2BFBrSKEiqTWESX8C4sc5e%2FaNsrPuDAiEAlhthjeuj6BymrtQskknHlWcRLn%2BG32sD8DCOjZ9F%2FwEq%2FQMINxAAGgw1Nzc0MTg4MTg0MTMiDK3B%2BTqVVFG2w7OIDiraA11R1onSY1viIa6NUDg9IJF93QvO15h9zLN%2F7wJnY77rGuvZeVaXzNo967Nlo6H5DU%2FPJIDtcKquO7iQUD%2BF1LZIqeCHHratJN%2FYE5g5oKCzekoMYlj6hqzpNSQAsYA4ZJdrIBVHMMrMgJrAPTEOkBsE5dZNChKqiBFiP2GsiojqjYZR102BcYu2KTAc79CNwoAyAQmPQqPks6v5gOFxqBxi1FNd%2FaC7SHKl%2Bbu9gMP51G9Q%2FRit1%2BuNipwm3fk9lb8YvqlTPbBgWTLZfklXcxlKiE28RLpphmsXJlcYTsver%2F0CDY3lJpWCFyJF4m4aB%2BuqIIN2logra4OlPiZHrIXjS%2FHn1ZpjM9fuBagVhKRqvZhvU54oiKlHgmhFE1IpAsAdyhcjpUskJp0NmCmieUu9sW5cNeKBf46ZxfsKYJn8wMv%2BA%2B2IdWv4c8ZzVMrbQcEs1NgSgaKNgFX3gp%2BUcL1p5RTNJum27jRVl8RBrra1eXAXDTB1Huca8HXNV3cQ4l7E91onVqIcoqp1a66vnGXmgaWKtmaksBy0wBfAeq7sOg40bS6Kiu9eIt8l0gSUhErZr3geb4xOcAhwjUKsOf7OsveIyOqh7s5A96Oxk772aDXRRI4FvNyoszDCpuGPBjqlAURRAOvZSJKLb5VQKETEi8Yrp2aNucCmBuSBCbNzIGoRrFcenWLqrWTbsAXe7OmARRRinoe%2F0MVmhYxbG9cv6yeqI8jRnNcowekJzKJv59Abl9C8uaH7fS4MRt%2B4FUqCcFjCENHN1UdyocYe3s2qYfzrLCL9HZnbB9kUJmQUAbmnRwWce6ILsY28ktdm4YLVSzE%2FXPedwWnvhirh23Vtz2kS47HV4w%3D%3D\u0026X-Amz-Algorithm=AWS4-HMAC-SHA256\u0026X-Amz-Credential=ASIAYM4GX6NWUERKZ2F2%2F20220131%2Fus-east-1%2Fs3%2Faws4_request\u0026X-Amz-Date=20220131T222357Z\u0026X-Amz-SignedHeaders=host\u0026X-Amz-Expires=900\u0026X-Amz-Signature=dd5000f65d92a3c82c61e3fb67beaa2229e6e2034cccc44ece2eef212352d913\u0026fit=192%2C192"
+      }
+    }
+  },
+  {
     "id": 30150990,
     "title": "How to recommend books, or, stop recommending SICP",
     "url": "https://notes.eatonphil.com/recommending-a-book.html",
@@ -2269,15 +2367,17 @@
     "points": 12,
     "comment_count": 9,
     "hn_item": {
-      "by": "bryanrasmussen",
-      "descendants": 0,
-      "id": 30153138,
-      "kids": null,
-      "score": 4,
-      "time": 1643657937,
-      "title": "Rise of grasslands is linked to atmospheric CO2 decline in the late Palaeogene",
+      "by": "philip1209",
+      "descendants": 2,
+      "id": 30150021,
+      "kids": [
+        30151114
+      ],
+      "score": 8,
+      "time": 1643647463,
+      "title": "Slack Having a Partial Outage",
       "type": "story",
-      "url": "https://www.nature.com/articles/s41467-021-27897-y"
+      "url": "https://status.slack.com/2022-01/f7d4da863db0707c"
     },
     "og_item": {
       "title": "How to recommend books, or, stop recommending SICP | notes.eatonphil.com",
@@ -2297,6 +2397,90 @@
     }
   },
   {
+    "id": 30154195,
+    "title": "Website fined by German court for leaking visitor's IP address via Google Fonts",
+    "url": "https://www.theregister.com/2022/01/31/website_fine_google_fonts_gdpr/",
+    "time": 1643662561,
+    "image": "",
+    "icon": "https://www.theregister.com/favicon.ico",
+    "publisher": "theregister.com",
+    "description": "",
+    "by": "logronoide",
+    "points": 15,
+    "comment_count": 2,
+    "hn_item": {
+      "by": "philip1209",
+      "descendants": 2,
+      "id": 30150021,
+      "kids": [
+        30151114
+      ],
+      "score": 8,
+      "time": 1643647463,
+      "title": "Slack Having a Partial Outage",
+      "type": "story",
+      "url": "https://status.slack.com/2022-01/f7d4da863db0707c"
+    },
+    "og_item": {
+      "title": "",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30150895,
+    "title": "Argo CD – Declarative GitOps CD for Kubernetes",
+    "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/helm/",
+    "time": 1643650406,
+    "image": "",
+    "icon": "https://argo-cd.readthedocs.io/en/stable/user-guide/helm/../../assets/favicon.png",
+    "publisher": "argo-cd.readthedocs.io",
+    "description": "",
+    "by": "JordanTen",
+    "points": 15,
+    "comment_count": 5,
+    "hn_item": {
+      "by": "philip1209",
+      "descendants": 2,
+      "id": 30150021,
+      "kids": [
+        30151114
+      ],
+      "score": 8,
+      "time": 1643647463,
+      "title": "Slack Having a Partial Outage",
+      "type": "story",
+      "url": "https://status.slack.com/2022-01/f7d4da863db0707c"
+    },
+    "og_item": {
+      "title": "Helm - Argo CD - Declarative GitOps CD for Kubernetes",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "../../assets/favicon.png"
+      }
+    }
+  },
+  {
     "id": 30148272,
     "title": "Citrix to be acquired for $16.5B, will be merged with Tibco",
     "url": "https://techcrunch.com/2022/01/31/citrix-to-be-acquired-by-vista-and-evergreen-elliott-in-a-16-5b-all-cash-deal-will-be-merged-with-tibco-to-create-saas-powerhouse/",
@@ -2309,15 +2493,17 @@
     "points": 86,
     "comment_count": 67,
     "hn_item": {
-      "by": "bryanrasmussen",
-      "descendants": 0,
-      "id": 30153138,
-      "kids": null,
-      "score": 4,
-      "time": 1643657937,
-      "title": "Rise of grasslands is linked to atmospheric CO2 decline in the late Palaeogene",
+      "by": "philip1209",
+      "descendants": 2,
+      "id": 30150021,
+      "kids": [
+        30151114
+      ],
+      "score": 8,
+      "time": 1643647463,
+      "title": "Slack Having a Partial Outage",
       "type": "story",
-      "url": "https://www.nature.com/articles/s41467-021-27897-y"
+      "url": "https://status.slack.com/2022-01/f7d4da863db0707c"
     },
     "og_item": {
       "title": "Citrix to be acquired by Vista and Evergreen/Elliott in a $16.5B all-cash deal, will be merged with Tibco to create SaaS powerhouse – TechCrunch",
@@ -2358,15 +2544,17 @@
     "points": 34,
     "comment_count": 4,
     "hn_item": {
-      "by": "bryanrasmussen",
-      "descendants": 0,
-      "id": 30153138,
-      "kids": null,
-      "score": 4,
-      "time": 1643657937,
-      "title": "Rise of grasslands is linked to atmospheric CO2 decline in the late Palaeogene",
+      "by": "philip1209",
+      "descendants": 2,
+      "id": 30150021,
+      "kids": [
+        30151114
+      ],
+      "score": 8,
+      "time": 1643647463,
+      "title": "Slack Having a Partial Outage",
       "type": "story",
-      "url": "https://www.nature.com/articles/s41467-021-27897-y"
+      "url": "https://status.slack.com/2022-01/f7d4da863db0707c"
     },
     "og_item": {
       "title": "How the Hall Effect Still Reverberates",
@@ -2407,18 +2595,62 @@
     "points": 9,
     "comment_count": 0,
     "hn_item": {
-      "by": "bryanrasmussen",
-      "descendants": 0,
-      "id": 30153138,
-      "kids": null,
-      "score": 4,
-      "time": 1643657937,
-      "title": "Rise of grasslands is linked to atmospheric CO2 decline in the late Palaeogene",
+      "by": "philip1209",
+      "descendants": 2,
+      "id": 30150021,
+      "kids": [
+        30151114
+      ],
+      "score": 8,
+      "time": 1643647463,
+      "title": "Slack Having a Partial Outage",
       "type": "story",
-      "url": "https://www.nature.com/articles/s41467-021-27897-y"
+      "url": "https://status.slack.com/2022-01/f7d4da863db0707c"
     },
     "og_item": {
       "title": "GCC Rust Monthly Report #13 January 2021 – Philip Herrons Personal Blog",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30146042,
+    "title": "Finnish diplomats’ phones infected with NSO Group Pegasus spyware",
+    "url": "https://www.bleepingcomputer.com/news/security/finnish-diplomats-phones-infected-with-nso-group-pegasus-spyware/",
+    "time": 1643620174,
+    "image": "",
+    "icon": "https://www.bleepingcomputer.com/favicon.ico",
+    "publisher": "bleepingcomputer.com",
+    "description": "",
+    "by": "beermonster",
+    "points": 204,
+    "comment_count": 100,
+    "hn_item": {
+      "by": "philip1209",
+      "descendants": 2,
+      "id": 30150021,
+      "kids": [
+        30151114
+      ],
+      "score": 8,
+      "time": 1643647463,
+      "title": "Slack Having a Partial Outage",
+      "type": "story",
+      "url": "https://status.slack.com/2022-01/f7d4da863db0707c"
+    },
+    "og_item": {
+      "title": "Just a moment...",
       "type": "",
       "image": [],
       "url": "",
@@ -2447,15 +2679,17 @@
     "points": 144,
     "comment_count": 136,
     "hn_item": {
-      "by": "bryanrasmussen",
-      "descendants": 0,
-      "id": 30153138,
-      "kids": null,
-      "score": 4,
-      "time": 1643657937,
-      "title": "Rise of grasslands is linked to atmospheric CO2 decline in the late Palaeogene",
+      "by": "philip1209",
+      "descendants": 2,
+      "id": 30150021,
+      "kids": [
+        30151114
+      ],
+      "score": 8,
+      "time": 1643647463,
+      "title": "Slack Having a Partial Outage",
       "type": "story",
-      "url": "https://www.nature.com/articles/s41467-021-27897-y"
+      "url": "https://status.slack.com/2022-01/f7d4da863db0707c"
     },
     "og_item": {
       "title": "The BBC Quietly Censors Its Own Archives | National Review",
@@ -2484,162 +2718,53 @@
     }
   },
   {
-    "id": 30146042,
-    "title": "Finnish diplomats’ phones infected with NSO Group Pegasus spyware",
-    "url": "https://www.bleepingcomputer.com/news/security/finnish-diplomats-phones-infected-with-nso-group-pegasus-spyware/",
-    "time": 1643620174,
-    "image": "",
-    "icon": "https://www.bleepingcomputer.com/favicon.ico",
-    "publisher": "bleepingcomputer.com",
-    "description": "",
-    "by": "beermonster",
-    "points": 204,
-    "comment_count": 100,
+    "id": 30130447,
+    "title": "Show HN: Typing.ai – Secure typing biometrics authentication API",
+    "url": "https://typing.ai",
+    "time": 1643490379,
+    "image": "https://app.typing.ai/storage/assets/images/typing-ai.png",
+    "icon": "https://typing.ai/images/favicon.png",
+    "publisher": "typing.ai",
+    "description": "Typing AI Biometrics is a secure typing biometrics authentication API that identifies the users by the way they type using Artificial Intelligence and Machine Learning. Identity as a Service provider. Multi Factor Authentication MFA solutions.",
+    "by": "raresp",
+    "points": 7,
+    "comment_count": 7,
     "hn_item": {
-      "by": "bryanrasmussen",
-      "descendants": 0,
-      "id": 30153138,
-      "kids": null,
-      "score": 4,
-      "time": 1643657937,
-      "title": "Rise of grasslands is linked to atmospheric CO2 decline in the late Palaeogene",
+      "by": "philip1209",
+      "descendants": 2,
+      "id": 30150021,
+      "kids": [
+        30151114
+      ],
+      "score": 8,
+      "time": 1643647463,
+      "title": "Slack Having a Partial Outage",
       "type": "story",
-      "url": "https://www.nature.com/articles/s41467-021-27897-y"
+      "url": "https://status.slack.com/2022-01/f7d4da863db0707c"
     },
     "og_item": {
-      "title": "Just a moment...",
-      "type": "",
-      "image": [],
-      "url": "",
+      "title": "Typing AI Biometrics Authentication API, Keystroke Dynamics, MFA",
+      "type": "website",
+      "image": [
+        {
+          "url": "https://app.typing.ai/storage/assets/images/typing-ai.png",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://typing.ai",
       "audio": [],
-      "description": "",
+      "description": "Typing AI Biometrics is a secure typing biometrics authentication API that identifies the users by the way they type using Artificial Intelligence and Machine Learning. Identity as a Service provider. Multi Factor Authentication MFA solutions.",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
       "site_name": "",
       "video": [],
       "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30150895,
-    "title": "Argo CD – Declarative GitOps CD for Kubernetes",
-    "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/helm/",
-    "time": 1643650406,
-    "image": "",
-    "icon": "https://argo-cd.readthedocs.io/en/stable/user-guide/helm/../../assets/favicon.png",
-    "publisher": "argo-cd.readthedocs.io",
-    "description": "",
-    "by": "JordanTen",
-    "points": 14,
-    "comment_count": 5,
-    "hn_item": {
-      "by": "bryanrasmussen",
-      "descendants": 0,
-      "id": 30153138,
-      "kids": null,
-      "score": 4,
-      "time": 1643657937,
-      "title": "Rise of grasslands is linked to atmospheric CO2 decline in the late Palaeogene",
-      "type": "story",
-      "url": "https://www.nature.com/articles/s41467-021-27897-y"
-    },
-    "og_item": {
-      "title": "Helm - Argo CD - Declarative GitOps CD for Kubernetes",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "../../assets/favicon.png"
-      }
-    }
-  },
-  {
-    "id": 30154195,
-    "title": "Website fined by German court for leaking visitor's IP address via Google Fonts",
-    "url": "https://www.theregister.com/2022/01/31/website_fine_google_fonts_gdpr/",
-    "time": 1643662561,
-    "image": "",
-    "icon": "https://www.theregister.com/favicon.ico",
-    "publisher": "theregister.com",
-    "description": "",
-    "by": "logronoide",
-    "points": 13,
-    "comment_count": 2,
-    "hn_item": {
-      "by": "bryanrasmussen",
-      "descendants": 0,
-      "id": 30153138,
-      "kids": null,
-      "score": 4,
-      "time": 1643657937,
-      "title": "Rise of grasslands is linked to atmospheric CO2 decline in the late Palaeogene",
-      "type": "story",
-      "url": "https://www.nature.com/articles/s41467-021-27897-y"
-    },
-    "og_item": {
-      "title": "",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30153589,
-    "title": "YouTube limits live streams viewers for accounts with \"limited creator history\"",
-    "url": "https://twitter.com/infolibnews/status/1488013567207120896",
-    "time": 1643659930,
-    "image": "",
-    "icon": "https://abs.twimg.com/favicons/twitter.2.ico",
-    "publisher": "Twitter",
-    "description": "",
-    "by": "Otter-man",
-    "points": 24,
-    "comment_count": 4,
-    "hn_item": {
-      "by": "bryanrasmussen",
-      "descendants": 0,
-      "id": 30153138,
-      "kids": null,
-      "score": 4,
-      "time": 1643657937,
-      "title": "Rise of grasslands is linked to atmospheric CO2 decline in the late Palaeogene",
-      "type": "story",
-      "url": "https://www.nature.com/articles/s41467-021-27897-y"
-    },
-    "og_item": {
-      "title": "",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Twitter",
-      "video": [],
-      "favicon": {
-        "url": "//abs.twimg.com/favicons/twitter.2.ico"
+        "url": "https://typing.ai/images/favicon.png"
       }
     }
   },
@@ -2656,80 +2781,44 @@
     "points": 95,
     "comment_count": 27,
     "hn_item": {
-      "by": "bryanrasmussen",
-      "descendants": 0,
-      "id": 30153138,
-      "kids": null,
-      "score": 4,
-      "time": 1643657937,
-      "title": "Rise of grasslands is linked to atmospheric CO2 decline in the late Palaeogene",
+      "by": "philip1209",
+      "descendants": 2,
+      "id": 30150021,
+      "kids": [
+        30151114
+      ],
+      "score": 8,
+      "time": 1643647463,
+      "title": "Slack Having a Partial Outage",
       "type": "story",
-      "url": "https://www.nature.com/articles/s41467-021-27897-y"
+      "url": "https://status.slack.com/2022-01/f7d4da863db0707c"
     },
     "og_item": null
   },
   {
-    "id": 30153653,
-    "title": "Go 1.18 Beta 2",
-    "url": "https://go.dev/blog/go1.18beta2",
-    "time": 1643660229,
-    "image": "",
-    "icon": "https://go.dev/favicon.ico",
-    "publisher": "go.dev",
-    "description": "Go is an open source programming language that makes it easy to build simple, reliable, and efficient software.",
-    "by": "0xedb",
-    "points": 11,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "bryanrasmussen",
-      "descendants": 0,
-      "id": 30153138,
-      "kids": null,
-      "score": 4,
-      "time": 1643657937,
-      "title": "Rise of grasslands is linked to atmospheric CO2 decline in the late Palaeogene",
-      "type": "story",
-      "url": "https://www.nature.com/articles/s41467-021-27897-y"
-    },
-    "og_item": {
-      "title": "Announcing Go 1.18 Beta 2 - The Go Programming Language",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "Go is an open source programming language that makes it easy to build simple, reliable, and efficient software.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30154875,
-    "title": "An Update on Wordle",
-    "url": "https://twitter.com/powerlanguish/status/1488263944309731329",
-    "time": 1643665295,
+    "id": 30153589,
+    "title": "YouTube limits live streams viewers for accounts with \"limited creator history\"",
+    "url": "https://twitter.com/infolibnews/status/1488013567207120896",
+    "time": 1643659930,
     "image": "",
     "icon": "https://abs.twimg.com/favicons/twitter.2.ico",
     "publisher": "Twitter",
     "description": "",
-    "by": "jbegley",
-    "points": 5,
-    "comment_count": 2,
+    "by": "Otter-man",
+    "points": 25,
+    "comment_count": 4,
     "hn_item": {
-      "by": "bryanrasmussen",
-      "descendants": 0,
-      "id": 30153138,
-      "kids": null,
-      "score": 4,
-      "time": 1643657937,
-      "title": "Rise of grasslands is linked to atmospheric CO2 decline in the late Palaeogene",
+      "by": "philip1209",
+      "descendants": 2,
+      "id": 30150021,
+      "kids": [
+        30151114
+      ],
+      "score": 8,
+      "time": 1643647463,
+      "title": "Slack Having a Partial Outage",
       "type": "story",
-      "url": "https://www.nature.com/articles/s41467-021-27897-y"
+      "url": "https://status.slack.com/2022-01/f7d4da863db0707c"
     },
     "og_item": {
       "title": "",
@@ -2761,15 +2850,17 @@
     "points": 9,
     "comment_count": 2,
     "hn_item": {
-      "by": "bryanrasmussen",
-      "descendants": 0,
-      "id": 30153138,
-      "kids": null,
-      "score": 4,
-      "time": 1643657937,
-      "title": "Rise of grasslands is linked to atmospheric CO2 decline in the late Palaeogene",
+      "by": "philip1209",
+      "descendants": 2,
+      "id": 30150021,
+      "kids": [
+        30151114
+      ],
+      "score": 8,
+      "time": 1643647463,
+      "title": "Slack Having a Partial Outage",
       "type": "story",
-      "url": "https://www.nature.com/articles/s41467-021-27897-y"
+      "url": "https://status.slack.com/2022-01/f7d4da863db0707c"
     },
     "og_item": {
       "title": "GitHub - Uzay-G/espial: Espial is an engine for automated organization and discovery of personal knowledge",
@@ -2810,15 +2901,17 @@
     "points": 9,
     "comment_count": 2,
     "hn_item": {
-      "by": "bryanrasmussen",
-      "descendants": 0,
-      "id": 30153138,
-      "kids": null,
-      "score": 4,
-      "time": 1643657937,
-      "title": "Rise of grasslands is linked to atmospheric CO2 decline in the late Palaeogene",
+      "by": "philip1209",
+      "descendants": 2,
+      "id": 30150021,
+      "kids": [
+        30151114
+      ],
+      "score": 8,
+      "time": 1643647463,
+      "title": "Slack Having a Partial Outage",
       "type": "story",
-      "url": "https://www.nature.com/articles/s41467-021-27897-y"
+      "url": "https://status.slack.com/2022-01/f7d4da863db0707c"
     },
     "og_item": {
       "title": "BUNGIE JOINS SONY INTERACTIVE ENTERTAINMENT \u003e News | Bungie.net",
@@ -2847,51 +2940,44 @@
     }
   },
   {
-    "id": 30152714,
-    "title": "HVM: A Parallel Functional Runtime",
-    "url": "https://github.com/Kindelia/HVM",
-    "time": 1643656542,
-    "image": "https://opengraph.githubassets.com/868a202a2720e1f497c671ba05f38ce988ff2d68d2d2470bd4187bcbdeaaa08e/Kindelia/HVM",
-    "icon": "https://github.githubassets.com/favicons/favicon.svg",
-    "publisher": "GitHub",
-    "description": "LambdaVM in Rust. Contribute to Kindelia/HVM development by creating an account on GitHub.",
-    "by": "LightMachine",
-    "points": 8,
-    "comment_count": 3,
+    "id": 30153653,
+    "title": "Go 1.18 Beta 2",
+    "url": "https://go.dev/blog/go1.18beta2",
+    "time": 1643660229,
+    "image": "",
+    "icon": "https://go.dev/favicon.ico",
+    "publisher": "go.dev",
+    "description": "Go is an open source programming language that makes it easy to build simple, reliable, and efficient software.",
+    "by": "0xedb",
+    "points": 11,
+    "comment_count": 0,
     "hn_item": {
-      "by": "bryanrasmussen",
-      "descendants": 0,
-      "id": 30153138,
-      "kids": null,
-      "score": 4,
-      "time": 1643657937,
-      "title": "Rise of grasslands is linked to atmospheric CO2 decline in the late Palaeogene",
+      "by": "philip1209",
+      "descendants": 2,
+      "id": 30150021,
+      "kids": [
+        30151114
+      ],
+      "score": 8,
+      "time": 1643647463,
+      "title": "Slack Having a Partial Outage",
       "type": "story",
-      "url": "https://www.nature.com/articles/s41467-021-27897-y"
+      "url": "https://status.slack.com/2022-01/f7d4da863db0707c"
     },
     "og_item": {
-      "title": "GitHub - Kindelia/HVM: LambdaVM in Rust",
-      "type": "object",
-      "image": [
-        {
-          "url": "https://opengraph.githubassets.com/868a202a2720e1f497c671ba05f38ce988ff2d68d2d2470bd4187bcbdeaaa08e/Kindelia/HVM",
-          "secure_url": "",
-          "type": "",
-          "width": 1200,
-          "height": 600,
-          "alt": ""
-        }
-      ],
-      "url": "https://github.com/Kindelia/HVM",
+      "title": "Announcing Go 1.18 Beta 2 - The Go Programming Language",
+      "type": "",
+      "image": [],
+      "url": "",
       "audio": [],
-      "description": "LambdaVM in Rust. Contribute to Kindelia/HVM development by creating an account on GitHub.",
+      "description": "Go is an open source programming language that makes it easy to build simple, reliable, and efficient software.",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "GitHub",
+      "site_name": "",
       "video": [],
       "favicon": {
-        "url": "https://github.githubassets.com/favicons/favicon.svg"
+        "url": "/favicon.ico"
       }
     }
   },
@@ -2905,18 +2991,20 @@
     "publisher": "GitHub",
     "description": "Added\n\nAdded jailer option --parent-cgroup \u003crelative_path\u003e to allow the placement\nof microvm cgroups in custom cgroup nested hierarchies. The default value is\n\u003cexec-file\u003e which is backwards compati...",
     "by": "ciprian_craciun",
-    "points": 83,
+    "points": 84,
     "comment_count": 16,
     "hn_item": {
-      "by": "bryanrasmussen",
-      "descendants": 0,
-      "id": 30153138,
-      "kids": null,
-      "score": 4,
-      "time": 1643657937,
-      "title": "Rise of grasslands is linked to atmospheric CO2 decline in the late Palaeogene",
+      "by": "philip1209",
+      "descendants": 2,
+      "id": 30150021,
+      "kids": [
+        30151114
+      ],
+      "score": 8,
+      "time": 1643647463,
+      "title": "Slack Having a Partial Outage",
       "type": "story",
-      "url": "https://www.nature.com/articles/s41467-021-27897-y"
+      "url": "https://status.slack.com/2022-01/f7d4da863db0707c"
     },
     "og_item": {
       "title": "Release Firecracker v1.0.0 · firecracker-microvm/firecracker",
@@ -2945,51 +3033,95 @@
     }
   },
   {
-    "id": 30130447,
-    "title": "Show HN: Typing.ai – Secure typing biometrics authentication API",
-    "url": "https://typing.ai",
-    "time": 1643490379,
-    "image": "https://app.typing.ai/storage/assets/images/typing-ai.png",
-    "icon": "https://typing.ai/images/favicon.png",
-    "publisher": "typing.ai",
-    "description": "Typing AI Biometrics is a secure typing biometrics authentication API that identifies the users by the way they type using Artificial Intelligence and Machine Learning. Identity as a Service provider. Multi Factor Authentication MFA solutions.",
-    "by": "raresp",
-    "points": 6,
-    "comment_count": 7,
+    "id": 30152714,
+    "title": "HVM: A Parallel Functional Runtime",
+    "url": "https://github.com/Kindelia/HVM",
+    "time": 1643656542,
+    "image": "https://opengraph.githubassets.com/fe5c223eb2dc642ebdc7f21a99a07447596db85ed5c36bb64b55db1f8185c78b/Kindelia/HVM",
+    "icon": "https://github.githubassets.com/favicons/favicon.svg",
+    "publisher": "GitHub",
+    "description": "LambdaVM in Rust. Contribute to Kindelia/HVM development by creating an account on GitHub.",
+    "by": "LightMachine",
+    "points": 9,
+    "comment_count": 3,
     "hn_item": {
-      "by": "bryanrasmussen",
-      "descendants": 0,
-      "id": 30153138,
-      "kids": null,
-      "score": 4,
-      "time": 1643657937,
-      "title": "Rise of grasslands is linked to atmospheric CO2 decline in the late Palaeogene",
+      "by": "philip1209",
+      "descendants": 2,
+      "id": 30150021,
+      "kids": [
+        30151114
+      ],
+      "score": 8,
+      "time": 1643647463,
+      "title": "Slack Having a Partial Outage",
       "type": "story",
-      "url": "https://www.nature.com/articles/s41467-021-27897-y"
+      "url": "https://status.slack.com/2022-01/f7d4da863db0707c"
     },
     "og_item": {
-      "title": "Typing AI Biometrics Authentication API, Keystroke Dynamics, MFA",
-      "type": "website",
+      "title": "GitHub - Kindelia/HVM: LambdaVM in Rust",
+      "type": "object",
       "image": [
         {
-          "url": "https://app.typing.ai/storage/assets/images/typing-ai.png",
+          "url": "https://opengraph.githubassets.com/fe5c223eb2dc642ebdc7f21a99a07447596db85ed5c36bb64b55db1f8185c78b/Kindelia/HVM",
           "secure_url": "",
           "type": "",
-          "width": 0,
-          "height": 0,
+          "width": 1200,
+          "height": 600,
           "alt": ""
         }
       ],
-      "url": "https://typing.ai",
+      "url": "https://github.com/Kindelia/HVM",
       "audio": [],
-      "description": "Typing AI Biometrics is a secure typing biometrics authentication API that identifies the users by the way they type using Artificial Intelligence and Machine Learning. Identity as a Service provider. Multi Factor Authentication MFA solutions.",
+      "description": "LambdaVM in Rust. Contribute to Kindelia/HVM development by creating an account on GitHub.",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "",
+      "site_name": "GitHub",
       "video": [],
       "favicon": {
-        "url": "https://typing.ai/images/favicon.png"
+        "url": "https://github.githubassets.com/favicons/favicon.svg"
+      }
+    }
+  },
+  {
+    "id": 30154875,
+    "title": "An Update on Wordle",
+    "url": "https://twitter.com/powerlanguish/status/1488263944309731329",
+    "time": 1643665295,
+    "image": "",
+    "icon": "https://abs.twimg.com/favicons/twitter.2.ico",
+    "publisher": "Twitter",
+    "description": "",
+    "by": "jbegley",
+    "points": 5,
+    "comment_count": 2,
+    "hn_item": {
+      "by": "philip1209",
+      "descendants": 2,
+      "id": 30150021,
+      "kids": [
+        30151114
+      ],
+      "score": 8,
+      "time": 1643647463,
+      "title": "Slack Having a Partial Outage",
+      "type": "story",
+      "url": "https://status.slack.com/2022-01/f7d4da863db0707c"
+    },
+    "og_item": {
+      "title": "",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Twitter",
+      "video": [],
+      "favicon": {
+        "url": "//abs.twimg.com/favicons/twitter.2.ico"
       }
     }
   },
@@ -3006,15 +3138,17 @@
     "points": 25,
     "comment_count": 11,
     "hn_item": {
-      "by": "bryanrasmussen",
-      "descendants": 0,
-      "id": 30153138,
-      "kids": null,
-      "score": 4,
-      "time": 1643657937,
-      "title": "Rise of grasslands is linked to atmospheric CO2 decline in the late Palaeogene",
+      "by": "philip1209",
+      "descendants": 2,
+      "id": 30150021,
+      "kids": [
+        30151114
+      ],
+      "score": 8,
+      "time": 1643647463,
+      "title": "Slack Having a Partial Outage",
       "type": "story",
-      "url": "https://www.nature.com/articles/s41467-021-27897-y"
+      "url": "https://status.slack.com/2022-01/f7d4da863db0707c"
     },
     "og_item": {
       "title": "Ask HN: AT\u0026T Charing for FaceTime? | Hacker News",
@@ -3046,15 +3180,17 @@
     "points": 8,
     "comment_count": 3,
     "hn_item": {
-      "by": "bryanrasmussen",
-      "descendants": 0,
-      "id": 30153138,
-      "kids": null,
-      "score": 4,
-      "time": 1643657937,
-      "title": "Rise of grasslands is linked to atmospheric CO2 decline in the late Palaeogene",
+      "by": "philip1209",
+      "descendants": 2,
+      "id": 30150021,
+      "kids": [
+        30151114
+      ],
+      "score": 8,
+      "time": 1643647463,
+      "title": "Slack Having a Partial Outage",
       "type": "story",
-      "url": "https://www.nature.com/articles/s41467-021-27897-y"
+      "url": "https://status.slack.com/2022-01/f7d4da863db0707c"
     },
     "og_item": {
       "title": "Table of Contents - Practical Python Projects",
@@ -3074,83 +3210,36 @@
     }
   },
   {
-    "id": 30154640,
-    "title": "Tiny Cargo Ships Are How Sailors Learn to Steer the Big Ones",
-    "url": "https://www.thedrive.com/news/44091/these-tiny-cargo-ships-are-how-sailors-learn-to-steer-the-big-ones",
-    "time": 1643664346,
-    "image": "https://www.thedrive.com/content/2022/01/Ship-Hero.jpg?quality=85",
-    "icon": "https://www.thedrive.com/images/fav/favicon-128.png",
-    "publisher": "The Drive",
-    "description": "Is it too much to ask for these to be available in amusement parks?",
-    "by": "adolph",
-    "points": 5,
-    "comment_count": 1,
+    "id": 30144805,
+    "title": "Examples of common false beliefs in mathematics",
+    "url": "https://mathoverflow.net/questions/23478/examples-of-common-false-beliefs-in-mathematics",
+    "time": 1643606336,
+    "image": "https://cdn.sstatic.net/Sites/mathoverflow/Img/apple-touch-icon@2.png?v=f1c9606b77ff",
+    "icon": "https://cdn.sstatic.net/Sites/mathoverflow/Img/favicon.ico?v=8bbfe38cfc48",
+    "publisher": "MathOverflow",
+    "description": "The first thing to say is that this is not the same as the question about interesting mathematical mistakes. I am interested about the type of false beliefs that many intelligent people have while ...",
+    "by": "gballan",
+    "points": 233,
+    "comment_count": 156,
     "hn_item": {
-      "by": "bryanrasmussen",
-      "descendants": 0,
-      "id": 30153138,
-      "kids": null,
-      "score": 4,
-      "time": 1643657937,
-      "title": "Rise of grasslands is linked to atmospheric CO2 decline in the late Palaeogene",
-      "type": "story",
-      "url": "https://www.nature.com/articles/s41467-021-27897-y"
-    },
-    "og_item": {
-      "title": "These Tiny Cargo Ships Are How Sailors Learn to Steer the Big Ones",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://www.thedrive.com/content/2022/01/Ship-Hero.jpg?quality=85",
-          "secure_url": "",
-          "type": "",
-          "width": 1920,
-          "height": 1080,
-          "alt": ""
-        }
+      "by": "philip1209",
+      "descendants": 2,
+      "id": 30150021,
+      "kids": [
+        30151114
       ],
-      "url": "https://www.thedrive.com/news/44091/these-tiny-cargo-ships-are-how-sailors-learn-to-steer-the-big-ones",
-      "audio": [],
-      "description": "Is it too much to ask for these to be available in amusement parks?",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "The Drive",
-      "video": [],
-      "favicon": {
-        "url": "/images/fav/favicon-128.png"
-      }
-    }
-  },
-  {
-    "id": 30153138,
-    "title": "Rise of grasslands is linked to atmospheric CO2 decline in the late Palaeogene",
-    "url": "https://www.nature.com/articles/s41467-021-27897-y",
-    "time": 1643657937,
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-021-27897-y/MediaObjects/41467_2021_27897_Fig1_HTML.png",
-    "icon": "https://www.nature.com/static/images/favicons/nature/favicon.ico",
-    "publisher": "Nature",
-    "description": "A better understanding of how grasslands have responded to past environmental changes will help predict the outcomes of future changes. This study explores past climatic fluctuations and shifts in the diversification rate of grasses and daisies, finding strong evidence for a simultaneous increase…",
-    "by": "bryanrasmussen",
-    "points": 4,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "bryanrasmussen",
-      "descendants": 0,
-      "id": 30153138,
-      "kids": null,
-      "score": 4,
-      "time": 1643657937,
-      "title": "Rise of grasslands is linked to atmospheric CO2 decline in the late Palaeogene",
+      "score": 8,
+      "time": 1643647463,
+      "title": "Slack Having a Partial Outage",
       "type": "story",
-      "url": "https://www.nature.com/articles/s41467-021-27897-y"
+      "url": "https://status.slack.com/2022-01/f7d4da863db0707c"
     },
     "og_item": {
-      "title": "The rise of grasslands is linked to atmospheric CO2 decline in the late Palaeogene - Nature Communications",
-      "type": "article",
+      "title": "Examples of common false beliefs in mathematics",
+      "type": "website",
       "image": [
         {
-          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-021-27897-y/MediaObjects/41467_2021_27897_Fig1_HTML.png",
+          "url": "https://cdn.sstatic.net/Sites/mathoverflow/Img/apple-touch-icon@2.png?v=f1c9606b77ff",
           "secure_url": "",
           "type": "",
           "width": 0,
@@ -3158,16 +3247,67 @@
           "alt": ""
         }
       ],
-      "url": "https://www.nature.com/articles/s41467-021-27897-y",
+      "url": "https://mathoverflow.net/questions/23478/examples-of-common-false-beliefs-in-mathematics",
       "audio": [],
-      "description": "A better understanding of how grasslands have responded to past environmental changes will help predict the outcomes of future changes. This study explores past climatic fluctuations and shifts in the diversification rate of grasses and daisies, finding strong evidence for a simultaneous increase in their diversification rates following a reduction of atmospheric CO2 in the Cenozoic.",
+      "description": "The first thing to say is that this is not the same as the question about interesting mathematical mistakes. I am interested about the type of false beliefs that many intelligent people have while ...",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "Nature",
+      "site_name": "MathOverflow",
       "video": [],
       "favicon": {
-        "url": "/static/images/favicons/nature/favicon.ico"
+        "url": "https://cdn.sstatic.net/Sites/mathoverflow/Img/favicon.ico?v=8bbfe38cfc48"
+      }
+    }
+  },
+  {
+    "id": 30150021,
+    "title": "Slack Having a Partial Outage",
+    "url": "https://status.slack.com/2022-01/f7d4da863db0707c",
+    "time": 1643647463,
+    "image": "https://status.slack.com/img/v2_rebrand/slack_hash_256.png",
+    "icon": "https://status.slack.com/favicon.ico",
+    "publisher": "Slack",
+    "description": "Resources for real-time and historical information about the Slack service.",
+    "by": "philip1209",
+    "points": 8,
+    "comment_count": 2,
+    "hn_item": {
+      "by": "philip1209",
+      "descendants": 2,
+      "id": 30150021,
+      "kids": [
+        30151114
+      ],
+      "score": 8,
+      "time": 1643647463,
+      "title": "Slack Having a Partial Outage",
+      "type": "story",
+      "url": "https://status.slack.com/2022-01/f7d4da863db0707c"
+    },
+    "og_item": {
+      "title": "Slack System Status",
+      "type": "website",
+      "image": [
+        {
+          "url": "https://status.slack.com/img/v2_rebrand/slack_hash_256.png",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "",
+      "audio": [],
+      "description": "Resources for real-time and historical information about the Slack service.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Slack",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
       }
     }
   }
