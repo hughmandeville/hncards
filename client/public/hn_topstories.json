@@ -9,20 +9,22 @@
     "publisher": "imlefthanded.com",
     "description": "",
     "by": "decrypt",
-    "points": 448,
-    "comment_count": 472,
+    "points": 463,
+    "comment_count": 481,
     "hn_item": {
-      "by": "el_duderino",
-      "descendants": 0,
-      "id": 30151681,
+      "by": "Victerius",
+      "descendants": 6,
+      "id": 30150243,
       "kids": [
-        30151737
+        30151379,
+        30151302,
+        30151376
       ],
-      "score": 6,
-      "time": 1643652850,
-      "title": "Unsecured AWS server exposed 3TB in airport employee records",
+      "score": 20,
+      "time": 1643648262,
+      "title": "Anarchists Are Building DIY Heaters to Keep Unhoused People Warm",
       "type": "story",
-      "url": "https://www.zdnet.com/article/unsecured-aws-server-exposed-airport-employee-records-3tb-in-data/"
+      "url": "https://www.vice.com/en/article/n7nd5x/anarchists-are-building-diy-heaters-to-keep-unhoused-people-warm"
     },
     "og_item": {
       "title": "Just a moment...",
@@ -42,48 +44,6 @@
     }
   },
   {
-    "id": 30151963,
-    "title": "Gains I'm Seeing from My Second Brain Tool",
-    "url": "https://joeldare.com/gains-im-seeing-from-my-second-brain-tool.html",
-    "time": 1643653831,
-    "image": "",
-    "icon": "https://joeldare.com/favicon.ico",
-    "publisher": "Joel Dare",
-    "description": "",
-    "by": "codazoda",
-    "points": 87,
-    "comment_count": 63,
-    "hn_item": {
-      "by": "el_duderino",
-      "descendants": 0,
-      "id": 30151681,
-      "kids": [
-        30151737
-      ],
-      "score": 6,
-      "time": 1643652850,
-      "title": "Unsecured AWS server exposed 3TB in airport employee records",
-      "type": "story",
-      "url": "https://www.zdnet.com/article/unsecured-aws-server-exposed-airport-employee-records-3tb-in-data/"
-    },
-    "og_item": {
-      "title": "Gains I’m seeing from my second brain tool",
-      "type": "",
-      "image": [],
-      "url": "https://joeldare.com/gains-im-seeing-from-my-second-brain-tool.html",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Joel Dare",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30150586,
     "title": "Moderna’s HIV vaccine has officially begun human trials",
     "url": "https://www.them.us/story/hiv-aids-vaccine-human-trials-moderna",
@@ -93,20 +53,22 @@
     "publisher": "them.",
     "description": "We could be getting even closer to stopping the spread of HIV/AIDS.",
     "by": "grawprog",
-    "points": 408,
-    "comment_count": 156,
+    "points": 422,
+    "comment_count": 165,
     "hn_item": {
-      "by": "el_duderino",
-      "descendants": 0,
-      "id": 30151681,
+      "by": "Victerius",
+      "descendants": 6,
+      "id": 30150243,
       "kids": [
-        30151737
+        30151379,
+        30151302,
+        30151376
       ],
-      "score": 6,
-      "time": 1643652850,
-      "title": "Unsecured AWS server exposed 3TB in airport employee records",
+      "score": 20,
+      "time": 1643648262,
+      "title": "Anarchists Are Building DIY Heaters to Keep Unhoused People Warm",
       "type": "story",
-      "url": "https://www.zdnet.com/article/unsecured-aws-server-exposed-airport-employee-records-3tb-in-data/"
+      "url": "https://www.vice.com/en/article/n7nd5x/anarchists-are-building-diy-heaters-to-keep-unhoused-people-warm"
     },
     "og_item": {
       "title": "Moderna’s HIV Vaccine Has Officially Begun Human Trials",
@@ -135,48 +97,6 @@
     }
   },
   {
-    "id": 30149370,
-    "title": "Show HN: Magistrate – Plaintext legal contracts for developers",
-    "url": "https://magistrate.khanna.law/",
-    "time": 1643644505,
-    "image": "",
-    "icon": "https://magistrate.khanna.law/static/favicon-32x32.png",
-    "publisher": "magistrate.khanna.law",
-    "description": "",
-    "by": "hkhanna",
-    "points": 159,
-    "comment_count": 53,
-    "hn_item": {
-      "by": "el_duderino",
-      "descendants": 0,
-      "id": 30151681,
-      "kids": [
-        30151737
-      ],
-      "score": 6,
-      "time": 1643652850,
-      "title": "Unsecured AWS server exposed 3TB in airport employee records",
-      "type": "story",
-      "url": "https://www.zdnet.com/article/unsecured-aws-server-exposed-airport-employee-records-3tb-in-data/"
-    },
-    "og_item": {
-      "title": "Plain text legal contracts for developers - Magistrate",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/static/favicon-32x32.png"
-      }
-    }
-  },
-  {
     "id": 30152268,
     "title": "The unreasonable effectiveness of one-on-ones",
     "url": "https://www.benkuhn.net/11/",
@@ -186,20 +106,22 @@
     "publisher": "benkuhn.net",
     "description": "When I started dating my partner, I quickly noticed that grad school was making her very sad.\nThis was shortly after I’d started leading an engineering team at Wave, and so the “obvious” hypothesis to me was that the management (okay, “management”) one gets in graduate school is totally…",
     "by": "sebg",
-    "points": 17,
-    "comment_count": 8,
+    "points": 24,
+    "comment_count": 15,
     "hn_item": {
-      "by": "el_duderino",
-      "descendants": 0,
-      "id": 30151681,
+      "by": "Victerius",
+      "descendants": 6,
+      "id": 30150243,
       "kids": [
-        30151737
+        30151379,
+        30151302,
+        30151376
       ],
-      "score": 6,
-      "time": 1643652850,
-      "title": "Unsecured AWS server exposed 3TB in airport employee records",
+      "score": 20,
+      "time": 1643648262,
+      "title": "Anarchists Are Building DIY Heaters to Keep Unhoused People Warm",
       "type": "story",
-      "url": "https://www.zdnet.com/article/unsecured-aws-server-exposed-airport-employee-records-3tb-in-data/"
+      "url": "https://www.vice.com/en/article/n7nd5x/anarchists-are-building-diy-heaters-to-keep-unhoused-people-warm"
     },
     "og_item": {
       "title": "The unreasonable effectiveness of one-on-ones",
@@ -219,36 +141,82 @@
     }
   },
   {
+    "id": 30149370,
+    "title": "Show HN: Magistrate – Plaintext legal contracts for developers",
+    "url": "https://magistrate.khanna.law/",
+    "time": 1643644505,
+    "image": "",
+    "icon": "https://magistrate.khanna.law/static/favicon-32x32.png",
+    "publisher": "magistrate.khanna.law",
+    "description": "",
+    "by": "hkhanna",
+    "points": 162,
+    "comment_count": 54,
+    "hn_item": {
+      "by": "Victerius",
+      "descendants": 6,
+      "id": 30150243,
+      "kids": [
+        30151379,
+        30151302,
+        30151376
+      ],
+      "score": 20,
+      "time": 1643648262,
+      "title": "Anarchists Are Building DIY Heaters to Keep Unhoused People Warm",
+      "type": "story",
+      "url": "https://www.vice.com/en/article/n7nd5x/anarchists-are-building-diy-heaters-to-keep-unhoused-people-warm"
+    },
+    "og_item": {
+      "title": "Plain text legal contracts for developers - Magistrate",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/static/favicon-32x32.png"
+      }
+    }
+  },
+  {
     "id": 30150018,
     "title": "Pyflow – Visual and modular block programming in Python",
     "url": "https://github.com/Bycelium/PyFlow",
     "time": 1643647446,
-    "image": "https://opengraph.githubassets.com/021f1847dff9e20eae61930ca9f674548f78f0bbd452e667bebec7f726c4463c/Bycelium/PyFlow",
+    "image": "https://opengraph.githubassets.com/e1a604e035f1b418920b3f265b815c3e0dfe0582c59e5bc96d935afdaf715797/Bycelium/PyFlow",
     "icon": "https://github.githubassets.com/favicons/favicon.svg",
     "publisher": "GitHub",
     "description": "An open-source tool for visual and modular block programing in python - GitHub - Bycelium/PyFlow: An open-source tool for visual and modular block programing in python",
     "by": "amai",
-    "points": 96,
-    "comment_count": 50,
+    "points": 101,
+    "comment_count": 53,
     "hn_item": {
-      "by": "el_duderino",
-      "descendants": 0,
-      "id": 30151681,
+      "by": "Victerius",
+      "descendants": 6,
+      "id": 30150243,
       "kids": [
-        30151737
+        30151379,
+        30151302,
+        30151376
       ],
-      "score": 6,
-      "time": 1643652850,
-      "title": "Unsecured AWS server exposed 3TB in airport employee records",
+      "score": 20,
+      "time": 1643648262,
+      "title": "Anarchists Are Building DIY Heaters to Keep Unhoused People Warm",
       "type": "story",
-      "url": "https://www.zdnet.com/article/unsecured-aws-server-exposed-airport-employee-records-3tb-in-data/"
+      "url": "https://www.vice.com/en/article/n7nd5x/anarchists-are-building-diy-heaters-to-keep-unhoused-people-warm"
     },
     "og_item": {
       "title": "GitHub - Bycelium/PyFlow: An open-source tool for visual and modular block programing in python",
       "type": "object",
       "image": [
         {
-          "url": "https://opengraph.githubassets.com/021f1847dff9e20eae61930ca9f674548f78f0bbd452e667bebec7f726c4463c/Bycelium/PyFlow",
+          "url": "https://opengraph.githubassets.com/e1a604e035f1b418920b3f265b815c3e0dfe0582c59e5bc96d935afdaf715797/Bycelium/PyFlow",
           "secure_url": "",
           "type": "",
           "width": 1200,
@@ -279,20 +247,22 @@
     "publisher": "evertpot.com",
     "description": "",
     "by": "treve",
-    "points": 47,
-    "comment_count": 23,
+    "points": 51,
+    "comment_count": 29,
     "hn_item": {
-      "by": "el_duderino",
-      "descendants": 0,
-      "id": 30151681,
+      "by": "Victerius",
+      "descendants": 6,
+      "id": 30150243,
       "kids": [
-        30151737
+        30151379,
+        30151302,
+        30151376
       ],
-      "score": 6,
-      "time": 1643652850,
-      "title": "Unsecured AWS server exposed 3TB in airport employee records",
+      "score": 20,
+      "time": 1643648262,
+      "title": "Anarchists Are Building DIY Heaters to Keep Unhoused People Warm",
       "type": "story",
-      "url": "https://www.zdnet.com/article/unsecured-aws-server-exposed-airport-employee-records-3tb-in-data/"
+      "url": "https://www.vice.com/en/article/n7nd5x/anarchists-are-building-diy-heaters-to-keep-unhoused-people-warm"
     },
     "og_item": {
       "title": "Request bodies in GET requests",
@@ -330,20 +300,22 @@
     "publisher": "Ask a Manager",
     "description": "A reader writes: This is a situation currently unfolding at my husband's office so I’m a very amused bystander and thought I’d get your opinion on this",
     "by": "amadeuspzs",
-    "points": 396,
-    "comment_count": 216,
+    "points": 413,
+    "comment_count": 227,
     "hn_item": {
-      "by": "el_duderino",
-      "descendants": 0,
-      "id": 30151681,
+      "by": "Victerius",
+      "descendants": 6,
+      "id": 30150243,
       "kids": [
-        30151737
+        30151379,
+        30151302,
+        30151376
       ],
-      "score": 6,
-      "time": 1643652850,
-      "title": "Unsecured AWS server exposed 3TB in airport employee records",
+      "score": 20,
+      "time": 1643648262,
+      "title": "Anarchists Are Building DIY Heaters to Keep Unhoused People Warm",
       "type": "story",
-      "url": "https://www.zdnet.com/article/unsecured-aws-server-exposed-airport-employee-records-3tb-in-data/"
+      "url": "https://www.vice.com/en/article/n7nd5x/anarchists-are-building-diy-heaters-to-keep-unhoused-people-warm"
     },
     "og_item": {
       "title": "the new hire who showed up is not the same person we interviewed",
@@ -381,20 +353,22 @@
     "publisher": "Oceana",
     "description": "Giant Pyrosomes are bioluminescent (light producing), giving rise to the common name, which comes from the Greek for fire (“pyro”) and body (“soma”). The light produced by Giant Pyrosomes is particularly bright and long lasting and is beautiful to witness. Because the individual tunicat…",
     "by": "integrale",
-    "points": 83,
+    "points": 87,
     "comment_count": 19,
     "hn_item": {
-      "by": "el_duderino",
-      "descendants": 0,
-      "id": 30151681,
+      "by": "Victerius",
+      "descendants": 6,
+      "id": 30150243,
       "kids": [
-        30151737
+        30151379,
+        30151302,
+        30151376
       ],
-      "score": 6,
-      "time": 1643652850,
-      "title": "Unsecured AWS server exposed 3TB in airport employee records",
+      "score": 20,
+      "time": 1643648262,
+      "title": "Anarchists Are Building DIY Heaters to Keep Unhoused People Warm",
       "type": "story",
-      "url": "https://www.zdnet.com/article/unsecured-aws-server-exposed-airport-employee-records-3tb-in-data/"
+      "url": "https://www.vice.com/en/article/n7nd5x/anarchists-are-building-diy-heaters-to-keep-unhoused-people-warm"
     },
     "og_item": {
       "title": "Giant Pyrosome",
@@ -432,20 +406,22 @@
     "publisher": "Twitter",
     "description": "",
     "by": "ipsum2",
-    "points": 39,
-    "comment_count": 34,
+    "points": 45,
+    "comment_count": 41,
     "hn_item": {
-      "by": "el_duderino",
-      "descendants": 0,
-      "id": 30151681,
+      "by": "Victerius",
+      "descendants": 6,
+      "id": 30150243,
       "kids": [
-        30151737
+        30151379,
+        30151302,
+        30151376
       ],
-      "score": 6,
-      "time": 1643652850,
-      "title": "Unsecured AWS server exposed 3TB in airport employee records",
+      "score": 20,
+      "time": 1643648262,
+      "title": "Anarchists Are Building DIY Heaters to Keep Unhoused People Warm",
       "type": "story",
-      "url": "https://www.zdnet.com/article/unsecured-aws-server-exposed-airport-employee-records-3tb-in-data/"
+      "url": "https://www.vice.com/en/article/n7nd5x/anarchists-are-building-diy-heaters-to-keep-unhoused-people-warm"
     },
     "og_item": {
       "title": "",
@@ -466,7 +442,7 @@
   },
   {
     "id": 30150495,
-    "title": "Yemen's Bifurcated Monetary System",
+    "title": "Yemen's bifurcated monetary system",
     "url": "http://jpkoning.blogspot.com/2022/01/yemens-bifurcated-monetary-system.html",
     "time": 1643649091,
     "image": "https://blogger.googleusercontent.com/img/a/AVvXsEik0CBmVpDrUhhIxH011-Fg_gzRQvIxXKxawcNToIYUvltxopGg7sVbzIiZdMjBvz3W5lFNfHa9zfInMtpmn1W73uCCQw4mOXEpVmw6OOkBflt7N2aPtKOr0z0f4KIw29OppnUpLnjYTM-nUcQ7Ap0HXrFXGJfy5u2R6LiNL7CLNx2U0cYp7t0S_qZr=w1200-h630-p-k-no-nu",
@@ -474,20 +450,22 @@
     "publisher": "jpkoning.blogspot.com",
     "description": "Over the last five years Yemen has stumbled into a unique monetary situation. I initially wrote about Yemen's odd currency status two years ...",
     "by": "rwmj",
-    "points": 48,
-    "comment_count": 8,
+    "points": 52,
+    "comment_count": 9,
     "hn_item": {
-      "by": "el_duderino",
-      "descendants": 0,
-      "id": 30151681,
+      "by": "Victerius",
+      "descendants": 6,
+      "id": 30150243,
       "kids": [
-        30151737
+        30151379,
+        30151302,
+        30151376
       ],
-      "score": 6,
-      "time": 1643652850,
-      "title": "Unsecured AWS server exposed 3TB in airport employee records",
+      "score": 20,
+      "time": 1643648262,
+      "title": "Anarchists Are Building DIY Heaters to Keep Unhoused People Warm",
       "type": "story",
-      "url": "https://www.zdnet.com/article/unsecured-aws-server-exposed-airport-employee-records-3tb-in-data/"
+      "url": "https://www.vice.com/en/article/n7nd5x/anarchists-are-building-diy-heaters-to-keep-unhoused-people-warm"
     },
     "og_item": {
       "title": "Yemen's bifurcated monetary system",
@@ -516,6 +494,59 @@
     }
   },
   {
+    "id": 30129652,
+    "title": "Couple discovers two 60-foot-long murals hidden behind walls of 115-yo building",
+    "url": "https://www.cnn.com/style/article/couple-discover-murals-during-renovation-trnd/index.html",
+    "time": 1643485215,
+    "image": "https://cdn.cnn.com/cnnnext/dam/assets/220126164541-03-couple-discovers-mural-renovation-trnd-super-tease.jpg",
+    "icon": "https://i2.cdn.turner.com/cnn/2017/images/09/14/logo-cnnstyle.png",
+    "publisher": "CNN",
+    "description": "What started out as a couple's renovation project to convert a historic building into a bar has turned into an effort to restore decades-old artwork in a small Washington town.",
+    "by": "wglb",
+    "points": 19,
+    "comment_count": 1,
+    "hn_item": {
+      "by": "Victerius",
+      "descendants": 6,
+      "id": 30150243,
+      "kids": [
+        30151379,
+        30151302,
+        30151376
+      ],
+      "score": 20,
+      "time": 1643648262,
+      "title": "Anarchists Are Building DIY Heaters to Keep Unhoused People Warm",
+      "type": "story",
+      "url": "https://www.vice.com/en/article/n7nd5x/anarchists-are-building-diy-heaters-to-keep-unhoused-people-warm"
+    },
+    "og_item": {
+      "title": "A couple renovating a 115-year-old building discovered two 60-foot-long hidden murals",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220126164541-03-couple-discovers-mural-renovation-trnd-super-tease.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 1100,
+          "height": 619,
+          "alt": ""
+        }
+      ],
+      "url": "https://www.cnn.com/style/article/couple-discover-murals-during-renovation-trnd/index.html",
+      "audio": [],
+      "description": "What started out as a couple's renovation project to convert a historic building into a bar has turned into an effort to restore decades-old artwork in a small Washington town.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "CNN",
+      "video": [],
+      "favicon": {
+        "url": "https://i2.cdn.turner.com/cnn/2017/images/09/14/logo-cnnstyle.png"
+      }
+    }
+  },
+  {
     "id": 30152113,
     "title": "What is VWRAP? (Linden's ten year old open Virtual World protocol)",
     "url": "https://meadhbh.hamrick.rocks/v2/technical/vwrap/index.html",
@@ -525,20 +556,22 @@
     "publisher": "meadhbh.hamrick.rocks",
     "description": "An overview of the IETF's Virtual Worlds Agent Region Protocol and it's development.",
     "by": "dingosity",
-    "points": 21,
-    "comment_count": 15,
+    "points": 22,
+    "comment_count": 17,
     "hn_item": {
-      "by": "el_duderino",
-      "descendants": 0,
-      "id": 30151681,
+      "by": "Victerius",
+      "descendants": 6,
+      "id": 30150243,
       "kids": [
-        30151737
+        30151379,
+        30151302,
+        30151376
       ],
-      "score": 6,
-      "time": 1643652850,
-      "title": "Unsecured AWS server exposed 3TB in airport employee records",
+      "score": 20,
+      "time": 1643648262,
+      "title": "Anarchists Are Building DIY Heaters to Keep Unhoused People Warm",
       "type": "story",
-      "url": "https://www.zdnet.com/article/unsecured-aws-server-exposed-airport-employee-records-3tb-in-data/"
+      "url": "https://www.vice.com/en/article/n7nd5x/anarchists-are-building-diy-heaters-to-keep-unhoused-people-warm"
     },
     "og_item": {
       "title": "What is VWRAP?",
@@ -570,17 +603,19 @@
     "points": 1,
     "comment_count": 0,
     "hn_item": {
-      "by": "el_duderino",
-      "descendants": 0,
-      "id": 30151681,
+      "by": "Victerius",
+      "descendants": 6,
+      "id": 30150243,
       "kids": [
-        30151737
+        30151379,
+        30151302,
+        30151376
       ],
-      "score": 6,
-      "time": 1643652850,
-      "title": "Unsecured AWS server exposed 3TB in airport employee records",
+      "score": 20,
+      "time": 1643648262,
+      "title": "Anarchists Are Building DIY Heaters to Keep Unhoused People Warm",
       "type": "story",
-      "url": "https://www.zdnet.com/article/unsecured-aws-server-exposed-airport-employee-records-3tb-in-data/"
+      "url": "https://www.vice.com/en/article/n7nd5x/anarchists-are-building-diy-heaters-to-keep-unhoused-people-warm"
     },
     "og_item": {
       "title": "Rust Backend Engineer at Svix | Y Combinator",
@@ -618,20 +653,22 @@
     "publisher": "CNBC",
     "description": "Sony has agreed to acquire Bungie in a $3.6 billion deal, continuing January's torrid pace of video game consolidation",
     "by": "daveaiello",
-    "points": 138,
-    "comment_count": 111,
+    "points": 148,
+    "comment_count": 122,
     "hn_item": {
-      "by": "el_duderino",
-      "descendants": 0,
-      "id": 30151681,
+      "by": "Victerius",
+      "descendants": 6,
+      "id": 30150243,
       "kids": [
-        30151737
+        30151379,
+        30151302,
+        30151376
       ],
-      "score": 6,
-      "time": 1643652850,
-      "title": "Unsecured AWS server exposed 3TB in airport employee records",
+      "score": 20,
+      "time": 1643648262,
+      "title": "Anarchists Are Building DIY Heaters to Keep Unhoused People Warm",
       "type": "story",
-      "url": "https://www.zdnet.com/article/unsecured-aws-server-exposed-airport-employee-records-3tb-in-data/"
+      "url": "https://www.vice.com/en/article/n7nd5x/anarchists-are-building-diy-heaters-to-keep-unhoused-people-warm"
     },
     "og_item": {
       "title": "Sony to buy video game maker Bungie in $3.6 billion deal as video game consolidation heats up",
@@ -660,95 +697,55 @@
     }
   },
   {
-    "id": 30129652,
-    "title": "Couple discovers two 60-foot-long murals hidden behind walls of 115-yo building",
-    "url": "https://www.cnn.com/style/article/couple-discover-murals-during-renovation-trnd/index.html",
-    "time": 1643485215,
-    "image": "https://cdn.cnn.com/cnnnext/dam/assets/220126164541-03-couple-discovers-mural-renovation-trnd-super-tease.jpg",
-    "icon": "https://i2.cdn.turner.com/cnn/2017/images/09/14/logo-cnnstyle.png",
-    "publisher": "CNN",
-    "description": "What started out as a couple's renovation project to convert a historic building into a bar has turned into an effort to restore decades-old artwork in a small Washington town.",
-    "by": "wglb",
-    "points": 17,
-    "comment_count": 1,
+    "id": 30153547,
+    "title": "Why Henry III's gold penny failed",
+    "url": "http://jpkoning.blogspot.com/2022/01/why-henry-iiis-gold-penny-failed.html",
+    "time": 1643659773,
+    "image": "https://blogger.googleusercontent.com/img/a/AVvXsEhgiX4eCD8HL6YI5fX1LE-Ut0WGOsPmduzzXLGaPxjXZ9fGWSycXMHGW3FJFr1sGevfacXchZnRWUBc57GTvyHvmA8A3Pw4EiUw7Ej2HE77kndP63MnidTrGs_9jmp_ITSiDlZ4EQYyl8hYQPmz0SNAq_x2WU20RIgIhfTa08GZ1jFvaQvwQMGS4DTL=w1200-h630-p-k-no-nu",
+    "icon": "",
+    "publisher": "jpkoning.blogspot.com",
+    "description": "English gold penny minted by Henry III in 1257 A lucky metal detectorist just discovered  a Henry III gold penny , one of the first English ...",
+    "by": "maxwell",
+    "points": 5,
+    "comment_count": 0,
     "hn_item": {
-      "by": "el_duderino",
-      "descendants": 0,
-      "id": 30151681,
+      "by": "Victerius",
+      "descendants": 6,
+      "id": 30150243,
       "kids": [
-        30151737
+        30151379,
+        30151302,
+        30151376
       ],
-      "score": 6,
-      "time": 1643652850,
-      "title": "Unsecured AWS server exposed 3TB in airport employee records",
+      "score": 20,
+      "time": 1643648262,
+      "title": "Anarchists Are Building DIY Heaters to Keep Unhoused People Warm",
       "type": "story",
-      "url": "https://www.zdnet.com/article/unsecured-aws-server-exposed-airport-employee-records-3tb-in-data/"
+      "url": "https://www.vice.com/en/article/n7nd5x/anarchists-are-building-diy-heaters-to-keep-unhoused-people-warm"
     },
     "og_item": {
-      "title": "A couple renovating a 115-year-old building discovered two 60-foot-long hidden murals",
-      "type": "article",
+      "title": "Why Henry III's gold penny failed",
+      "type": "",
       "image": [
         {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220126164541-03-couple-discovers-mural-renovation-trnd-super-tease.jpg",
+          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEhgiX4eCD8HL6YI5fX1LE-Ut0WGOsPmduzzXLGaPxjXZ9fGWSycXMHGW3FJFr1sGevfacXchZnRWUBc57GTvyHvmA8A3Pw4EiUw7Ej2HE77kndP63MnidTrGs_9jmp_ITSiDlZ4EQYyl8hYQPmz0SNAq_x2WU20RIgIhfTa08GZ1jFvaQvwQMGS4DTL=w1200-h630-p-k-no-nu",
           "secure_url": "",
           "type": "",
-          "width": 1100,
-          "height": 619,
+          "width": 0,
+          "height": 0,
           "alt": ""
         }
       ],
-      "url": "https://www.cnn.com/style/article/couple-discover-murals-during-renovation-trnd/index.html",
+      "url": "http://jpkoning.blogspot.com/2022/01/why-henry-iiis-gold-penny-failed.html",
       "audio": [],
-      "description": "What started out as a couple's renovation project to convert a historic building into a bar has turned into an effort to restore decades-old artwork in a small Washington town.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "CNN",
-      "video": [],
-      "favicon": {
-        "url": "https://i2.cdn.turner.com/cnn/2017/images/09/14/logo-cnnstyle.png"
-      }
-    }
-  },
-  {
-    "id": 30149864,
-    "title": "How to approach and prioritize technical debt",
-    "url": "https://leadership.garden/tips-on-prioritizing-tech-debt/",
-    "time": 1643646689,
-    "image": "",
-    "icon": "https://leadership.garden/favicon.ico",
-    "publisher": "leadership.garden",
-    "description": "",
-    "by": "ochronus",
-    "points": 50,
-    "comment_count": 23,
-    "hn_item": {
-      "by": "el_duderino",
-      "descendants": 0,
-      "id": 30151681,
-      "kids": [
-        30151737
-      ],
-      "score": 6,
-      "time": 1643652850,
-      "title": "Unsecured AWS server exposed 3TB in airport employee records",
-      "type": "story",
-      "url": "https://www.zdnet.com/article/unsecured-aws-server-exposed-airport-employee-records-3tb-in-data/"
-    },
-    "og_item": {
-      "title": "Please Wait... | Cloudflare",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
+      "description": "English gold penny minted by Henry III in 1257 A lucky metal detectorist just discovered  a Henry III gold penny , one of the first English ...",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
       "site_name": "",
       "video": [],
       "favicon": {
-        "url": "/favicon.ico"
+        "url": "http://jpkoning.blogspot.com/favicon.ico"
       }
     }
   },
@@ -762,20 +759,22 @@
     "publisher": "TechCrunch",
     "description": "Today’s cars are dumb where they should be smart, and smart where they should be dumb. Enough already. Make a car that’s pretty much all dumb and watch it sell — because what automakers are giving people is so bad, they’ll pay more to have less of it. Cars now are like budget smar…",
     "by": "wrycoder",
-    "points": 359,
-    "comment_count": 421,
+    "points": 371,
+    "comment_count": 427,
     "hn_item": {
-      "by": "el_duderino",
-      "descendants": 0,
-      "id": 30151681,
+      "by": "Victerius",
+      "descendants": 6,
+      "id": 30150243,
       "kids": [
-        30151737
+        30151379,
+        30151302,
+        30151376
       ],
-      "score": 6,
-      "time": 1643652850,
-      "title": "Unsecured AWS server exposed 3TB in airport employee records",
+      "score": 20,
+      "time": 1643648262,
+      "title": "Anarchists Are Building DIY Heaters to Keep Unhoused People Warm",
       "type": "story",
-      "url": "https://www.zdnet.com/article/unsecured-aws-server-exposed-airport-employee-records-3tb-in-data/"
+      "url": "https://www.vice.com/en/article/n7nd5x/anarchists-are-building-diy-heaters-to-keep-unhoused-people-warm"
     },
     "og_item": {
       "title": "Please make a dumb car – TechCrunch",
@@ -804,6 +803,94 @@
     }
   },
   {
+    "id": 30151963,
+    "title": "Gains I'm seeing from my second brain tool",
+    "url": "https://joeldare.com/gains-im-seeing-from-my-second-brain-tool.html",
+    "time": 1643653831,
+    "image": "",
+    "icon": "https://joeldare.com/favicon.ico",
+    "publisher": "Joel Dare",
+    "description": "",
+    "by": "codazoda",
+    "points": 91,
+    "comment_count": 71,
+    "hn_item": {
+      "by": "Victerius",
+      "descendants": 6,
+      "id": 30150243,
+      "kids": [
+        30151379,
+        30151302,
+        30151376
+      ],
+      "score": 20,
+      "time": 1643648262,
+      "title": "Anarchists Are Building DIY Heaters to Keep Unhoused People Warm",
+      "type": "story",
+      "url": "https://www.vice.com/en/article/n7nd5x/anarchists-are-building-diy-heaters-to-keep-unhoused-people-warm"
+    },
+    "og_item": {
+      "title": "Gains I’m seeing from my second brain tool",
+      "type": "",
+      "image": [],
+      "url": "https://joeldare.com/gains-im-seeing-from-my-second-brain-tool.html",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Joel Dare",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30149864,
+    "title": "How to approach and prioritize technical debt",
+    "url": "https://leadership.garden/tips-on-prioritizing-tech-debt/",
+    "time": 1643646689,
+    "image": "",
+    "icon": "https://leadership.garden/favicon.ico",
+    "publisher": "leadership.garden",
+    "description": "",
+    "by": "ochronus",
+    "points": 50,
+    "comment_count": 24,
+    "hn_item": {
+      "by": "Victerius",
+      "descendants": 6,
+      "id": 30150243,
+      "kids": [
+        30151379,
+        30151302,
+        30151376
+      ],
+      "score": 20,
+      "time": 1643648262,
+      "title": "Anarchists Are Building DIY Heaters to Keep Unhoused People Warm",
+      "type": "story",
+      "url": "https://www.vice.com/en/article/n7nd5x/anarchists-are-building-diy-heaters-to-keep-unhoused-people-warm"
+    },
+    "og_item": {
+      "title": "Please Wait... | Cloudflare",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30150219,
     "title": "Show HN: Rich-CLI – A CLI toolbox for highlighting, Markdown, JSON and rich text",
     "url": "https://github.com/Textualize/rich-cli",
@@ -813,20 +900,22 @@
     "publisher": "GitHub",
     "description": "Rich-cli is a command line toolbox for fancy output in the terminal - GitHub - Textualize/rich-cli: Rich-cli is a command line toolbox for fancy output in the terminal",
     "by": "willm",
-    "points": 50,
+    "points": 53,
     "comment_count": 12,
     "hn_item": {
-      "by": "el_duderino",
-      "descendants": 0,
-      "id": 30151681,
+      "by": "Victerius",
+      "descendants": 6,
+      "id": 30150243,
       "kids": [
-        30151737
+        30151379,
+        30151302,
+        30151376
       ],
-      "score": 6,
-      "time": 1643652850,
-      "title": "Unsecured AWS server exposed 3TB in airport employee records",
+      "score": 20,
+      "time": 1643648262,
+      "title": "Anarchists Are Building DIY Heaters to Keep Unhoused People Warm",
       "type": "story",
-      "url": "https://www.zdnet.com/article/unsecured-aws-server-exposed-airport-employee-records-3tb-in-data/"
+      "url": "https://www.vice.com/en/article/n7nd5x/anarchists-are-building-diy-heaters-to-keep-unhoused-people-warm"
     },
     "og_item": {
       "title": "GitHub - Textualize/rich-cli: Rich-cli is a command line toolbox for fancy output in the terminal",
@@ -867,17 +956,19 @@
     "points": 19,
     "comment_count": 1,
     "hn_item": {
-      "by": "el_duderino",
-      "descendants": 0,
-      "id": 30151681,
+      "by": "Victerius",
+      "descendants": 6,
+      "id": 30150243,
       "kids": [
-        30151737
+        30151379,
+        30151302,
+        30151376
       ],
-      "score": 6,
-      "time": 1643652850,
-      "title": "Unsecured AWS server exposed 3TB in airport employee records",
+      "score": 20,
+      "time": 1643648262,
+      "title": "Anarchists Are Building DIY Heaters to Keep Unhoused People Warm",
       "type": "story",
-      "url": "https://www.zdnet.com/article/unsecured-aws-server-exposed-airport-employee-records-3tb-in-data/"
+      "url": "https://www.vice.com/en/article/n7nd5x/anarchists-are-building-diy-heaters-to-keep-unhoused-people-warm"
     },
     "og_item": {
       "title": "Tommie Woodward's Internet-Famous Last Words",
@@ -915,20 +1006,22 @@
     "publisher": "GitHub",
     "description": "A book about learning eLisp for customising Emacs the hard way - see the Gist https://gist.github.com/754568 - GitHub - hypernumbers/learn_elisp_the_hard_way: A book about learning eLisp for custom...",
     "by": "AndroidKitKat",
-    "points": 58,
+    "points": 59,
     "comment_count": 20,
     "hn_item": {
-      "by": "el_duderino",
-      "descendants": 0,
-      "id": 30151681,
+      "by": "Victerius",
+      "descendants": 6,
+      "id": 30150243,
       "kids": [
-        30151737
+        30151379,
+        30151302,
+        30151376
       ],
-      "score": 6,
-      "time": 1643652850,
-      "title": "Unsecured AWS server exposed 3TB in airport employee records",
+      "score": 20,
+      "time": 1643648262,
+      "title": "Anarchists Are Building DIY Heaters to Keep Unhoused People Warm",
       "type": "story",
-      "url": "https://www.zdnet.com/article/unsecured-aws-server-exposed-airport-employee-records-3tb-in-data/"
+      "url": "https://www.vice.com/en/article/n7nd5x/anarchists-are-building-diy-heaters-to-keep-unhoused-people-warm"
     },
     "og_item": {
       "title": "GitHub - hypernumbers/learn_elisp_the_hard_way: A book about learning eLisp for customising Emacs the hard way - see the Gist https://gist.github.com/754568",
@@ -969,17 +1062,19 @@
     "points": 36,
     "comment_count": 22,
     "hn_item": {
-      "by": "el_duderino",
-      "descendants": 0,
-      "id": 30151681,
+      "by": "Victerius",
+      "descendants": 6,
+      "id": 30150243,
       "kids": [
-        30151737
+        30151379,
+        30151302,
+        30151376
       ],
-      "score": 6,
-      "time": 1643652850,
-      "title": "Unsecured AWS server exposed 3TB in airport employee records",
+      "score": 20,
+      "time": 1643648262,
+      "title": "Anarchists Are Building DIY Heaters to Keep Unhoused People Warm",
       "type": "story",
-      "url": "https://www.zdnet.com/article/unsecured-aws-server-exposed-airport-employee-records-3tb-in-data/"
+      "url": "https://www.vice.com/en/article/n7nd5x/anarchists-are-building-diy-heaters-to-keep-unhoused-people-warm"
     },
     "og_item": {
       "title": "Autodocumenting Makefiles",
@@ -1017,20 +1112,22 @@
     "publisher": "Twitter",
     "description": "",
     "by": "hubraumhugo",
-    "points": 269,
-    "comment_count": 130,
+    "points": 271,
+    "comment_count": 131,
     "hn_item": {
-      "by": "el_duderino",
-      "descendants": 0,
-      "id": 30151681,
+      "by": "Victerius",
+      "descendants": 6,
+      "id": 30150243,
       "kids": [
-        30151737
+        30151379,
+        30151302,
+        30151376
       ],
-      "score": 6,
-      "time": 1643652850,
-      "title": "Unsecured AWS server exposed 3TB in airport employee records",
+      "score": 20,
+      "time": 1643648262,
+      "title": "Anarchists Are Building DIY Heaters to Keep Unhoused People Warm",
       "type": "story",
-      "url": "https://www.zdnet.com/article/unsecured-aws-server-exposed-airport-employee-records-3tb-in-data/"
+      "url": "https://www.vice.com/en/article/n7nd5x/anarchists-are-building-diy-heaters-to-keep-unhoused-people-warm"
     },
     "og_item": {
       "title": "",
@@ -1050,6 +1147,50 @@
     }
   },
   {
+    "id": 30150749,
+    "title": "Does my site need HTTPS?",
+    "url": "https://doesmysiteneedhttps.com/",
+    "time": 1643649923,
+    "image": "",
+    "icon": "https://doesmysiteneedhttps.com/favicon.ico",
+    "publisher": "Caddy",
+    "description": "Find out if your site needs HTTPS.",
+    "by": "WallyFunk",
+    "points": 20,
+    "comment_count": 4,
+    "hn_item": {
+      "by": "Victerius",
+      "descendants": 6,
+      "id": 30150243,
+      "kids": [
+        30151379,
+        30151302,
+        30151376
+      ],
+      "score": 20,
+      "time": 1643648262,
+      "title": "Anarchists Are Building DIY Heaters to Keep Unhoused People Warm",
+      "type": "story",
+      "url": "https://www.vice.com/en/article/n7nd5x/anarchists-are-building-diy-heaters-to-keep-unhoused-people-warm"
+    },
+    "og_item": {
+      "title": "Does my site need HTTPS?",
+      "type": "article",
+      "image": [],
+      "url": "/",
+      "audio": [],
+      "description": "Find out if your site needs HTTPS.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Caddy",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30136479,
     "title": "Socrates on the blessing of being refuted",
     "url": "https://antigonejournal.com/2022/01/socrates-being-refuted/",
@@ -1059,20 +1200,22 @@
     "publisher": "Antigone",
     "description": "ANDREW BEER The genuine pleasure of yielding to better arguments.",
     "by": "AverilS",
-    "points": 112,
-    "comment_count": 46,
+    "points": 113,
+    "comment_count": 47,
     "hn_item": {
-      "by": "el_duderino",
-      "descendants": 0,
-      "id": 30151681,
+      "by": "Victerius",
+      "descendants": 6,
+      "id": 30150243,
       "kids": [
-        30151737
+        30151379,
+        30151302,
+        30151376
       ],
-      "score": 6,
-      "time": 1643652850,
-      "title": "Unsecured AWS server exposed 3TB in airport employee records",
+      "score": 20,
+      "time": 1643648262,
+      "title": "Anarchists Are Building DIY Heaters to Keep Unhoused People Warm",
       "type": "story",
-      "url": "https://www.zdnet.com/article/unsecured-aws-server-exposed-airport-employee-records-3tb-in-data/"
+      "url": "https://www.vice.com/en/article/n7nd5x/anarchists-are-building-diy-heaters-to-keep-unhoused-people-warm"
     },
     "og_item": {
       "title": "Socrates on the Blessing of Being Refuted - Antigone",
@@ -1110,20 +1253,22 @@
     "publisher": "blog.begin.com",
     "description": "Technologists love new technology—that new shiny thing. But, often, the promise of a new solution introduces new unforeseen problems creating unplanned challen…",
     "by": "macdonst",
-    "points": 129,
-    "comment_count": 78,
+    "points": 131,
+    "comment_count": 82,
     "hn_item": {
-      "by": "el_duderino",
-      "descendants": 0,
-      "id": 30151681,
+      "by": "Victerius",
+      "descendants": 6,
+      "id": 30150243,
       "kids": [
-        30151737
+        30151379,
+        30151302,
+        30151376
       ],
-      "score": 6,
-      "time": 1643652850,
-      "title": "Unsecured AWS server exposed 3TB in airport employee records",
+      "score": 20,
+      "time": 1643648262,
+      "title": "Anarchists Are Building DIY Heaters to Keep Unhoused People Warm",
       "type": "story",
-      "url": "https://www.zdnet.com/article/unsecured-aws-server-exposed-airport-employee-records-3tb-in-data/"
+      "url": "https://www.vice.com/en/article/n7nd5x/anarchists-are-building-diy-heaters-to-keep-unhoused-people-warm"
     },
     "og_item": {
       "title": "The Boring Technology Checklist - Begin",
@@ -1143,48 +1288,6 @@
     }
   },
   {
-    "id": 30150749,
-    "title": "Does my site need HTTPS?",
-    "url": "https://doesmysiteneedhttps.com/",
-    "time": 1643649923,
-    "image": "",
-    "icon": "https://doesmysiteneedhttps.com/favicon.ico",
-    "publisher": "Caddy",
-    "description": "Find out if your site needs HTTPS.",
-    "by": "WallyFunk",
-    "points": 15,
-    "comment_count": 2,
-    "hn_item": {
-      "by": "el_duderino",
-      "descendants": 0,
-      "id": 30151681,
-      "kids": [
-        30151737
-      ],
-      "score": 6,
-      "time": 1643652850,
-      "title": "Unsecured AWS server exposed 3TB in airport employee records",
-      "type": "story",
-      "url": "https://www.zdnet.com/article/unsecured-aws-server-exposed-airport-employee-records-3tb-in-data/"
-    },
-    "og_item": {
-      "title": "Does my site need HTTPS?",
-      "type": "article",
-      "image": [],
-      "url": "/",
-      "audio": [],
-      "description": "Find out if your site needs HTTPS.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Caddy",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30151779,
     "title": "Sony is buying Bungie, the developer of Destiny and original creator of Halo",
     "url": "https://www.theverge.com/22910846/sony-bungie-acquisition-playstation-destiny-halo",
@@ -1194,20 +1297,22 @@
     "publisher": "The Verge",
     "description": "Another huge acquisition in the gaming industry",
     "by": "KoftaBob",
-    "points": 52,
-    "comment_count": 27,
+    "points": 56,
+    "comment_count": 29,
     "hn_item": {
-      "by": "el_duderino",
-      "descendants": 0,
-      "id": 30151681,
+      "by": "Victerius",
+      "descendants": 6,
+      "id": 30150243,
       "kids": [
-        30151737
+        30151379,
+        30151302,
+        30151376
       ],
-      "score": 6,
-      "time": 1643652850,
-      "title": "Unsecured AWS server exposed 3TB in airport employee records",
+      "score": 20,
+      "time": 1643648262,
+      "title": "Anarchists Are Building DIY Heaters to Keep Unhoused People Warm",
       "type": "story",
-      "url": "https://www.zdnet.com/article/unsecured-aws-server-exposed-airport-employee-records-3tb-in-data/"
+      "url": "https://www.vice.com/en/article/n7nd5x/anarchists-are-building-diy-heaters-to-keep-unhoused-people-warm"
     },
     "og_item": {
       "title": "Sony is buying Bungie, the developer of Destiny and original creator of Halo",
@@ -1236,6 +1341,59 @@
     }
   },
   {
+    "id": 30153493,
+    "title": "Observing HTTP/2 Traffic Is Hard, but eBPF Can Help",
+    "url": "https://blog.px.dev/ebpf-http2-tracing/",
+    "time": 1643659505,
+    "image": "https://blog.px.dev/static/9f386b4cd2266ba27362ccffb3589b71/0584d/hero-image.png",
+    "icon": "https://blog.px.dev/ebpf-http2-tracing/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAATRSURBVHgB7Zs9TNtaFMdPzIceCR9+EgEWVL+tA1LTrcDw0k7dXte35b2pnaADSwUCylJVSCUdWUq2jjDRTnUX1I0wMOOKBQioDlIilQjS/0mdKGnixI4/cHL7k8y14mvsc+4553743BB5jCzLSl9fXxynsVAodAelwj8bZTUaDt0oD3Ckr66u0rqua+QhIfKA0dHROIR9guMfqhfULlqxWFRxpM7Pz1VyGdcUgJaW+/v75/Ci8xBcJm9gZawUCoXPblmGYwX4JHgNeJaOZ23ARVJOFdFDDohGo3M9PT3beJnHOP4gnzCeFcezn4TDYT2fzx9Qm7RlAUZge4cXiVMw0GAND9uxBtsWYLT6ewh/l4KDjHdKDA4Ofs/lcl/s3GhLARD+DQRf8dPcbcDv9DgSiRCU8NnqTZYVMDY2xib/lIJPHHFBQVzYsVLZUgyA8PsoYtRB8Nghk8k8bFVPalWBW546THiGAzRc9l2rek1dAMIvo5inDgVKiMEdZLjDR7M6pgrgaI9/8Io6HMjwAL1D1qx3aBgDjH5+3+7IbmFhgWZmZshLFhcX6fDwkGyiY5xwv9E4obdRbQxtP9HPGZstpqenPVfA1NRUOwqQeeCGsi4o1gVBmH6CnM/gAgcHxfHx8bp4VqMANn1UXKYuBV3jMk/eqn+rUQDMZI66sPWr4JlrjRVUFMCtjyJB3c9ctRVUFMDLVn7N52+ZGiuo9AJu+P7e3h45ZXZ2lnyAXX2FT0oK4DU8csH319fXySmnp6fkAzLLzGuMJRdA6ydIMHjRlsuyAv4mwTBWrEkyor9C4qFMTEwoEpaSOm6q6xbX19dxoRUAYtLNzc09EhRJkpReBAOFXGJycpLW1tZoZGSk7lo2m6WlpSU6Pj6moIC5wZ1eN0d/yWSy6UCGhWclBAiZu0GFfGJ4eJgChtJyUbTb+a0AEhxWgEbiokn8rZ3ERe+FAjT+gEABYXd317S3uLy8dGXNoQzk/srjgK8UIBKJBPkFGj/NMSBNgoLG3+fJkEqCAgUcSCcnJxqJ2RNoLHtpHABfsJRM0GWo/KesgG0SDCwDpLgsKYBXRwUbDxyVs04rQ2EEhCSJw2r5pKIAfD/fEMQKdKwEVbLIKgrQgSBWkDR6vhI1s0EBrOAIrb9V/UONAtgKoIBV6lJYturWZ+rWAxAd2QpUagOerDi57jFHmUwm9euPDXOEMDz+Dx8NbCdJ8YJns5nc5uYm3QZo0G+Q6VGja6aZovh6Og9/eUNdABryOb46bzS6ZponmM/nv4TD4T85z446m9WzszPTfMemmaJQwodIJPIXdWCqrMEWhH/erIKlZOloNLofpFUjK8DvPyHoPWpVz9KqMP7RfRQp6hy2rAjPWN4vkMvltuEObDFxCi5o+GISwj+zeoOtHSNQgjowMJDF6YOg7Rrhrg691gv4vK2BXFubpjizAvNpzidW6PbhVlfRz///6yjPCo72DXJesZFep9AtYLT6S7M+3gqO9g2im0wPDQ3twBpYkXf9cgsWHM96XSgU/r24uFDJAa5tnWW34JwbDy2iaOwYfcuzVp64kQt4tnkappnAKaffKdQeRaPk/cI7fAR687QZbBkw1ZiRjHUPgijGJEupqsbCakYLc8lfqw5wn+r19vkfAsLfkv+50fkAAAAASUVORK5CYII=",
+    "publisher": "Pixie Labs Blog",
+    "description": "In today's world full of microservices, gaining observability into the messages sent between services is critical to understanding and troubleshooting issues…",
+    "by": "nserrino",
+    "points": 5,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "Victerius",
+      "descendants": 6,
+      "id": 30150243,
+      "kids": [
+        30151379,
+        30151302,
+        30151376
+      ],
+      "score": 20,
+      "time": 1643648262,
+      "title": "Anarchists Are Building DIY Heaters to Keep Unhoused People Warm",
+      "type": "story",
+      "url": "https://www.vice.com/en/article/n7nd5x/anarchists-are-building-diy-heaters-to-keep-unhoused-people-warm"
+    },
+    "og_item": {
+      "title": "Observing HTTP/2 Traffic is Hard, but eBPF Can Help",
+      "type": "website",
+      "image": [
+        {
+          "url": "/static/9f386b4cd2266ba27362ccffb3589b71/0584d/hero-image.png",
+          "secure_url": "",
+          "type": "",
+          "width": 1200,
+          "height": 500,
+          "alt": ""
+        }
+      ],
+      "url": "",
+      "audio": [],
+      "description": "In today's world full of microservices, gaining observability into the messages sent between services is critical to understanding and troubleshooting issues…",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Pixie Labs Blog",
+      "video": [],
+      "favicon": {
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAATRSURBVHgB7Zs9TNtaFMdPzIceCR9+EgEWVL+tA1LTrcDw0k7dXte35b2pnaADSwUCylJVSCUdWUq2jjDRTnUX1I0wMOOKBQioDlIilQjS/0mdKGnixI4/cHL7k8y14mvsc+4553743BB5jCzLSl9fXxynsVAodAelwj8bZTUaDt0oD3Ckr66u0rqua+QhIfKA0dHROIR9guMfqhfULlqxWFRxpM7Pz1VyGdcUgJaW+/v75/Ci8xBcJm9gZawUCoXPblmGYwX4JHgNeJaOZ23ARVJOFdFDDohGo3M9PT3beJnHOP4gnzCeFcezn4TDYT2fzx9Qm7RlAUZge4cXiVMw0GAND9uxBtsWYLT6ewh/l4KDjHdKDA4Ofs/lcl/s3GhLARD+DQRf8dPcbcDv9DgSiRCU8NnqTZYVMDY2xib/lIJPHHFBQVzYsVLZUgyA8PsoYtRB8Nghk8k8bFVPalWBW546THiGAzRc9l2rek1dAMIvo5inDgVKiMEdZLjDR7M6pgrgaI9/8Io6HMjwAL1D1qx3aBgDjH5+3+7IbmFhgWZmZshLFhcX6fDwkGyiY5xwv9E4obdRbQxtP9HPGZstpqenPVfA1NRUOwqQeeCGsi4o1gVBmH6CnM/gAgcHxfHx8bp4VqMANn1UXKYuBV3jMk/eqn+rUQDMZI66sPWr4JlrjRVUFMCtjyJB3c9ctRVUFMDLVn7N52+ZGiuo9AJu+P7e3h45ZXZ2lnyAXX2FT0oK4DU8csH319fXySmnp6fkAzLLzGuMJRdA6ydIMHjRlsuyAv4mwTBWrEkyor9C4qFMTEwoEpaSOm6q6xbX19dxoRUAYtLNzc09EhRJkpReBAOFXGJycpLW1tZoZGSk7lo2m6WlpSU6Pj6moIC5wZ1eN0d/yWSy6UCGhWclBAiZu0GFfGJ4eJgChtJyUbTb+a0AEhxWgEbiokn8rZ3ERe+FAjT+gEABYXd317S3uLy8dGXNoQzk/srjgK8UIBKJBPkFGj/NMSBNgoLG3+fJkEqCAgUcSCcnJxqJ2RNoLHtpHABfsJRM0GWo/KesgG0SDCwDpLgsKYBXRwUbDxyVs04rQ2EEhCSJw2r5pKIAfD/fEMQKdKwEVbLIKgrQgSBWkDR6vhI1s0EBrOAIrb9V/UONAtgKoIBV6lJYturWZ+rWAxAd2QpUagOerDi57jFHmUwm9euPDXOEMDz+Dx8NbCdJ8YJns5nc5uYm3QZo0G+Q6VGja6aZovh6Og9/eUNdABryOb46bzS6ZponmM/nv4TD4T85z446m9WzszPTfMemmaJQwodIJPIXdWCqrMEWhH/erIKlZOloNLofpFUjK8DvPyHoPWpVz9KqMP7RfRQp6hy2rAjPWN4vkMvltuEObDFxCi5o+GISwj+zeoOtHSNQgjowMJDF6YOg7Rrhrg691gv4vK2BXFubpjizAvNpzidW6PbhVlfRz///6yjPCo72DXJesZFep9AtYLT6S7M+3gqO9g2im0wPDQ3twBpYkXf9cgsWHM96XSgU/r24uFDJAa5tnWW34JwbDy2iaOwYfcuzVp64kQt4tnkappnAKaffKdQeRaPk/cI7fAR687QZbBkw1ZiRjHUPgijGJEupqsbCakYLc8lfqw5wn+r19vkfAsLfkv+50fkAAAAASUVORK5CYII="
+      }
+    }
+  },
+  {
     "id": 30146052,
     "title": "The Awk state machine parser pattern (2018)",
     "url": "https://two-wrongs.com/awk-state-machine-parser-pattern.html",
@@ -1245,20 +1403,22 @@
     "publisher": "two-wrongs.com",
     "description": "",
     "by": "Tomte",
-    "points": 150,
+    "points": 151,
     "comment_count": 26,
     "hn_item": {
-      "by": "el_duderino",
-      "descendants": 0,
-      "id": 30151681,
+      "by": "Victerius",
+      "descendants": 6,
+      "id": 30150243,
       "kids": [
-        30151737
+        30151379,
+        30151302,
+        30151376
       ],
-      "score": 6,
-      "time": 1643652850,
-      "title": "Unsecured AWS server exposed 3TB in airport employee records",
+      "score": 20,
+      "time": 1643648262,
+      "title": "Anarchists Are Building DIY Heaters to Keep Unhoused People Warm",
       "type": "story",
-      "url": "https://www.zdnet.com/article/unsecured-aws-server-exposed-airport-employee-records-3tb-in-data/"
+      "url": "https://www.vice.com/en/article/n7nd5x/anarchists-are-building-diy-heaters-to-keep-unhoused-people-warm"
     },
     "og_item": {
       "title": "The AWK State Machine Parser Pattern",
@@ -1278,57 +1438,6 @@
     }
   },
   {
-    "id": 30147507,
-    "title": "VT100 Machine Emulator in JavaScript",
-    "url": "https://www.pcjs.org/machines/dec/vt100/",
-    "time": 1643634629,
-    "image": "https://www.pcjs.org/assets/img/logo-home.png",
-    "icon": "https://www.pcjs.org/assets/icons/favicon.ico",
-    "publisher": "pcjs.org",
-    "description": "Home of the original IBM PC emulator for browsers. PCjs offers a variety of online machine emulators written in JavaScript. Run DOS, Windows, OS/2 and other vintage PC applications in a web browser on your desktop computer, iPhone, or iPad. An assortment of microcomputers, minicomputers, terminal…",
-    "by": "DiabloD3",
-    "points": 68,
-    "comment_count": 25,
-    "hn_item": {
-      "by": "el_duderino",
-      "descendants": 0,
-      "id": 30151681,
-      "kids": [
-        30151737
-      ],
-      "score": 6,
-      "time": 1643652850,
-      "title": "Unsecured AWS server exposed 3TB in airport employee records",
-      "type": "story",
-      "url": "https://www.zdnet.com/article/unsecured-aws-server-exposed-airport-employee-records-3tb-in-data/"
-    },
-    "og_item": {
-      "title": "DEC VT100 Terminal",
-      "type": "",
-      "image": [
-        {
-          "url": "https://www.pcjs.org/assets/img/logo-home.png",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "",
-      "audio": [],
-      "description": "Home of the original IBM PC emulator for browsers. PCjs offers a variety of online machine emulators written in JavaScript. Run DOS, Windows, OS/2 and other vintage PC applications in a web browser on your desktop computer, iPhone, or iPad. An assortment of microcomputers, minicomputers, terminals, programmable calculators, and arcade machines are available, along with an archive of historical software and documentation.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/assets/icons/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30144805,
     "title": "Examples of common false beliefs in mathematics",
     "url": "https://mathoverflow.net/questions/23478/examples-of-common-false-beliefs-in-mathematics",
@@ -1338,20 +1447,22 @@
     "publisher": "MathOverflow",
     "description": "The first thing to say is that this is not the same as the question about interesting mathematical mistakes. I am interested about the type of false beliefs that many intelligent people have while ...",
     "by": "gballan",
-    "points": 228,
-    "comment_count": 144,
+    "points": 230,
+    "comment_count": 149,
     "hn_item": {
-      "by": "el_duderino",
-      "descendants": 0,
-      "id": 30151681,
+      "by": "Victerius",
+      "descendants": 6,
+      "id": 30150243,
       "kids": [
-        30151737
+        30151379,
+        30151302,
+        30151376
       ],
-      "score": 6,
-      "time": 1643652850,
-      "title": "Unsecured AWS server exposed 3TB in airport employee records",
+      "score": 20,
+      "time": 1643648262,
+      "title": "Anarchists Are Building DIY Heaters to Keep Unhoused People Warm",
       "type": "story",
-      "url": "https://www.zdnet.com/article/unsecured-aws-server-exposed-airport-employee-records-3tb-in-data/"
+      "url": "https://www.vice.com/en/article/n7nd5x/anarchists-are-building-diy-heaters-to-keep-unhoused-people-warm"
     },
     "og_item": {
       "title": "Examples of common false beliefs in mathematics",
@@ -1380,6 +1491,50 @@
     }
   },
   {
+    "id": 30153287,
+    "title": "GCC Rust Monthly Report #13: January 2021",
+    "url": "https://thephilbert.io/2022/01/31/gcc-rust-monthly-report-13-january-2021/",
+    "time": 1643658663,
+    "image": "",
+    "icon": "https://thephilbert.io/favicon.ico",
+    "publisher": "thephilbert.io",
+    "description": "",
+    "by": "ingve",
+    "points": 5,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "Victerius",
+      "descendants": 6,
+      "id": 30150243,
+      "kids": [
+        30151379,
+        30151302,
+        30151376
+      ],
+      "score": 20,
+      "time": 1643648262,
+      "title": "Anarchists Are Building DIY Heaters to Keep Unhoused People Warm",
+      "type": "story",
+      "url": "https://www.vice.com/en/article/n7nd5x/anarchists-are-building-diy-heaters-to-keep-unhoused-people-warm"
+    },
+    "og_item": {
+      "title": "GCC Rust Monthly Report #13 January 2021 – Philip Herrons Personal Blog",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30146843,
     "title": "1k-cycle lithium-sulfur battery could increase electric vehicle ranges",
     "url": "https://news.umich.edu/1000-cycle-lithium-sulfur-battery-could-quintuple-electric-vehicle-ranges/",
@@ -1390,19 +1545,21 @@
     "description": "A new biologically inspired battery membrane has enabled a battery with five times the capacity of the industry-standard lithium ion design to run for the thousand-plus cycles needed to power an electric car.\n\nA network of aramid nanofibers, recycled from Kevlar, can enable lithium-sulfur batterie",
     "by": "maeln",
     "points": 71,
-    "comment_count": 134,
+    "comment_count": 135,
     "hn_item": {
-      "by": "el_duderino",
-      "descendants": 0,
-      "id": 30151681,
+      "by": "Victerius",
+      "descendants": 6,
+      "id": 30150243,
       "kids": [
-        30151737
+        30151379,
+        30151302,
+        30151376
       ],
-      "score": 6,
-      "time": 1643652850,
-      "title": "Unsecured AWS server exposed 3TB in airport employee records",
+      "score": 20,
+      "time": 1643648262,
+      "title": "Anarchists Are Building DIY Heaters to Keep Unhoused People Warm",
       "type": "story",
-      "url": "https://www.zdnet.com/article/unsecured-aws-server-exposed-airport-employee-records-3tb-in-data/"
+      "url": "https://www.vice.com/en/article/n7nd5x/anarchists-are-building-diy-heaters-to-keep-unhoused-people-warm"
     },
     "og_item": {
       "title": "1,000-cycle lithium-sulfur battery could quintuple electric vehicle ranges",
@@ -1431,6 +1588,59 @@
     }
   },
   {
+    "id": 30147507,
+    "title": "VT100 Machine Emulator in JavaScript",
+    "url": "https://www.pcjs.org/machines/dec/vt100/",
+    "time": 1643634629,
+    "image": "https://www.pcjs.org/assets/img/logo-home.png",
+    "icon": "https://www.pcjs.org/assets/icons/favicon.ico",
+    "publisher": "pcjs.org",
+    "description": "Home of the original IBM PC emulator for browsers. PCjs offers a variety of online machine emulators written in JavaScript. Run DOS, Windows, OS/2 and other vintage PC applications in a web browser on your desktop computer, iPhone, or iPad. An assortment of microcomputers, minicomputers, terminal…",
+    "by": "DiabloD3",
+    "points": 69,
+    "comment_count": 25,
+    "hn_item": {
+      "by": "Victerius",
+      "descendants": 6,
+      "id": 30150243,
+      "kids": [
+        30151379,
+        30151302,
+        30151376
+      ],
+      "score": 20,
+      "time": 1643648262,
+      "title": "Anarchists Are Building DIY Heaters to Keep Unhoused People Warm",
+      "type": "story",
+      "url": "https://www.vice.com/en/article/n7nd5x/anarchists-are-building-diy-heaters-to-keep-unhoused-people-warm"
+    },
+    "og_item": {
+      "title": "DEC VT100 Terminal",
+      "type": "",
+      "image": [
+        {
+          "url": "https://www.pcjs.org/assets/img/logo-home.png",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "",
+      "audio": [],
+      "description": "Home of the original IBM PC emulator for browsers. PCjs offers a variety of online machine emulators written in JavaScript. Run DOS, Windows, OS/2 and other vintage PC applications in a web browser on your desktop computer, iPhone, or iPad. An assortment of microcomputers, minicomputers, terminals, programmable calculators, and arcade machines are available, along with an archive of historical software and documentation.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/assets/icons/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30147213,
     "title": "Textual for Windows (Python package for TUIs)",
     "url": "https://www.willmcgugan.com/blog/tech/post/textual-for-windows/",
@@ -1440,20 +1650,22 @@
     "publisher": "Will McGugan Tech",
     "description": "Textual adds Windows support I've just released v0.1.15 of Textual, with Windows support. The Windows support is somewhat experimental, but so far seems solid. You will get best results on the new Windows Terminal. On the classic command prompt you might find a reduced color palette. This works o…",
     "by": "RojerGS",
-    "points": 65,
+    "points": 66,
     "comment_count": 10,
     "hn_item": {
-      "by": "el_duderino",
-      "descendants": 0,
-      "id": 30151681,
+      "by": "Victerius",
+      "descendants": 6,
+      "id": 30150243,
       "kids": [
-        30151737
+        30151379,
+        30151302,
+        30151376
       ],
-      "score": 6,
-      "time": 1643652850,
-      "title": "Unsecured AWS server exposed 3TB in airport employee records",
+      "score": 20,
+      "time": 1643648262,
+      "title": "Anarchists Are Building DIY Heaters to Keep Unhoused People Warm",
       "type": "story",
-      "url": "https://www.zdnet.com/article/unsecured-aws-server-exposed-airport-employee-records-3tb-in-data/"
+      "url": "https://www.vice.com/en/article/n7nd5x/anarchists-are-building-diy-heaters-to-keep-unhoused-people-warm"
     },
     "og_item": {
       "title": "Textual for Windows",
@@ -1492,19 +1704,21 @@
     "description": "The ends of the college and pro football seasons were already a perilous time for people recovering from a gambling addiction. Then came the onslaught of ads for legal sports betting.",
     "by": "jbegley",
     "points": 102,
-    "comment_count": 146,
+    "comment_count": 147,
     "hn_item": {
-      "by": "el_duderino",
-      "descendants": 0,
-      "id": 30151681,
+      "by": "Victerius",
+      "descendants": 6,
+      "id": 30150243,
       "kids": [
-        30151737
+        30151379,
+        30151302,
+        30151376
       ],
-      "score": 6,
-      "time": 1643652850,
-      "title": "Unsecured AWS server exposed 3TB in airport employee records",
+      "score": 20,
+      "time": 1643648262,
+      "title": "Anarchists Are Building DIY Heaters to Keep Unhoused People Warm",
       "type": "story",
-      "url": "https://www.zdnet.com/article/unsecured-aws-server-exposed-airport-employee-records-3tb-in-data/"
+      "url": "https://www.vice.com/en/article/n7nd5x/anarchists-are-building-diy-heaters-to-keep-unhoused-people-warm"
     },
     "og_item": {
       "title": "The Rising Human Cost of Sports Betting",
@@ -1542,20 +1756,22 @@
     "publisher": "the Guardian",
     "description": "Photographer Dmitry Kokh discovered polar bears living in an abandoned weather station in Kolyuchin in the Chukotka Autonomous Okrug of Russia",
     "by": "sofixa",
-    "points": 177,
+    "points": 178,
     "comment_count": 46,
     "hn_item": {
-      "by": "el_duderino",
-      "descendants": 0,
-      "id": 30151681,
+      "by": "Victerius",
+      "descendants": 6,
+      "id": 30150243,
       "kids": [
-        30151737
+        30151379,
+        30151302,
+        30151376
       ],
-      "score": 6,
-      "time": 1643652850,
-      "title": "Unsecured AWS server exposed 3TB in airport employee records",
+      "score": 20,
+      "time": 1643648262,
+      "title": "Anarchists Are Building DIY Heaters to Keep Unhoused People Warm",
       "type": "story",
-      "url": "https://www.zdnet.com/article/unsecured-aws-server-exposed-airport-employee-records-3tb-in-data/"
+      "url": "https://www.vice.com/en/article/n7nd5x/anarchists-are-building-diy-heaters-to-keep-unhoused-people-warm"
     },
     "og_item": {
       "title": "Polar bears move into abandoned Arctic weather station – photo essay",
@@ -1584,48 +1800,6 @@
     }
   },
   {
-    "id": 30152930,
-    "title": "Software Development Languages: Haskell",
-    "url": "https://www.fosskers.ca/en/blog/haskell-software-dev",
-    "time": 1643657291,
-    "image": "",
-    "icon": "https://www.fosskers.ca/assets/images/favicon-32x32.png",
-    "publisher": "fosskers.ca",
-    "description": "",
-    "by": "colingw",
-    "points": 3,
-    "comment_count": 1,
-    "hn_item": {
-      "by": "el_duderino",
-      "descendants": 0,
-      "id": 30151681,
-      "kids": [
-        30151737
-      ],
-      "score": 6,
-      "time": 1643652850,
-      "title": "Unsecured AWS server exposed 3TB in airport employee records",
-      "type": "story",
-      "url": "https://www.zdnet.com/article/unsecured-aws-server-exposed-airport-employee-records-3tb-in-data/"
-    },
-    "og_item": {
-      "title": "Colin Woodbury",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/assets/images/favicon-32x32.png"
-      }
-    }
-  },
-  {
     "id": 30148272,
     "title": "Citrix to be acquired for $16.5B, will be merged with Tibco",
     "url": "https://techcrunch.com/2022/01/31/citrix-to-be-acquired-by-vista-and-evergreen-elliott-in-a-16-5b-all-cash-deal-will-be-merged-with-tibco-to-create-saas-powerhouse/",
@@ -1636,19 +1810,21 @@
     "description": "More consolidation is afoot in the world of IT to meet a new demand from enterprises for “one-stop shops” covering a wide range of needs in our hybrid world of work. Citrix, the long-in-the-tooth virtualization giant that had been making a slow transition into cloud computing, is being …",
     "by": "blopeur",
     "points": 82,
-    "comment_count": 62,
+    "comment_count": 63,
     "hn_item": {
-      "by": "el_duderino",
-      "descendants": 0,
-      "id": 30151681,
+      "by": "Victerius",
+      "descendants": 6,
+      "id": 30150243,
       "kids": [
-        30151737
+        30151379,
+        30151302,
+        30151376
       ],
-      "score": 6,
-      "time": 1643652850,
-      "title": "Unsecured AWS server exposed 3TB in airport employee records",
+      "score": 20,
+      "time": 1643648262,
+      "title": "Anarchists Are Building DIY Heaters to Keep Unhoused People Warm",
       "type": "story",
-      "url": "https://www.zdnet.com/article/unsecured-aws-server-exposed-airport-employee-records-3tb-in-data/"
+      "url": "https://www.vice.com/en/article/n7nd5x/anarchists-are-building-diy-heaters-to-keep-unhoused-people-warm"
     },
     "og_item": {
       "title": "Citrix to be acquired by Vista and Evergreen/Elliott in a $16.5B all-cash deal, will be merged with Tibco to create SaaS powerhouse – TechCrunch",
@@ -1677,6 +1853,94 @@
     }
   },
   {
+    "id": 30150895,
+    "title": "Argo CD – Declarative GitOps CD for Kubernetes",
+    "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/helm/",
+    "time": 1643650406,
+    "image": "",
+    "icon": "https://argo-cd.readthedocs.io/en/stable/user-guide/helm/../../assets/favicon.png",
+    "publisher": "argo-cd.readthedocs.io",
+    "description": "",
+    "by": "JordanTen",
+    "points": 9,
+    "comment_count": 2,
+    "hn_item": {
+      "by": "Victerius",
+      "descendants": 6,
+      "id": 30150243,
+      "kids": [
+        30151379,
+        30151302,
+        30151376
+      ],
+      "score": 20,
+      "time": 1643648262,
+      "title": "Anarchists Are Building DIY Heaters to Keep Unhoused People Warm",
+      "type": "story",
+      "url": "https://www.vice.com/en/article/n7nd5x/anarchists-are-building-diy-heaters-to-keep-unhoused-people-warm"
+    },
+    "og_item": {
+      "title": "Helm - Argo CD - Declarative GitOps CD for Kubernetes",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "../../assets/favicon.png"
+      }
+    }
+  },
+  {
+    "id": 30152930,
+    "title": "Software Development Languages: Haskell",
+    "url": "https://www.fosskers.ca/en/blog/haskell-software-dev",
+    "time": 1643657291,
+    "image": "",
+    "icon": "https://www.fosskers.ca/assets/images/favicon-32x32.png",
+    "publisher": "fosskers.ca",
+    "description": "",
+    "by": "colingw",
+    "points": 3,
+    "comment_count": 1,
+    "hn_item": {
+      "by": "Victerius",
+      "descendants": 6,
+      "id": 30150243,
+      "kids": [
+        30151379,
+        30151302,
+        30151376
+      ],
+      "score": 20,
+      "time": 1643648262,
+      "title": "Anarchists Are Building DIY Heaters to Keep Unhoused People Warm",
+      "type": "story",
+      "url": "https://www.vice.com/en/article/n7nd5x/anarchists-are-building-diy-heaters-to-keep-unhoused-people-warm"
+    },
+    "og_item": {
+      "title": "Colin Woodbury",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/assets/images/favicon-32x32.png"
+      }
+    }
+  },
+  {
     "id": 30130447,
     "title": "Show HN: Typing.ai – Secure typing biometrics authentication API",
     "url": "https://typing.ai",
@@ -1689,17 +1953,19 @@
     "points": 6,
     "comment_count": 5,
     "hn_item": {
-      "by": "el_duderino",
-      "descendants": 0,
-      "id": 30151681,
+      "by": "Victerius",
+      "descendants": 6,
+      "id": 30150243,
       "kids": [
-        30151737
+        30151379,
+        30151302,
+        30151376
       ],
-      "score": 6,
-      "time": 1643652850,
-      "title": "Unsecured AWS server exposed 3TB in airport employee records",
+      "score": 20,
+      "time": 1643648262,
+      "title": "Anarchists Are Building DIY Heaters to Keep Unhoused People Warm",
       "type": "story",
-      "url": "https://www.zdnet.com/article/unsecured-aws-server-exposed-airport-employee-records-3tb-in-data/"
+      "url": "https://www.vice.com/en/article/n7nd5x/anarchists-are-building-diy-heaters-to-keep-unhoused-people-warm"
     },
     "og_item": {
       "title": "Typing AI Biometrics Authentication API, Keystroke Dynamics, MFA",
@@ -1728,57 +1994,6 @@
     }
   },
   {
-    "id": 30152833,
-    "title": "AOSC OS/Retro: A Linux Distro for 486 and PPC Macs",
-    "url": "https://lunduke.substack.com/p/aosc-osretro-a-linux-distro-for-486",
-    "time": 1643656955,
-    "image": "https://cdn.substack.com/image/fetch/w_1200,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2dc13a08-0486-4b54-a1ba-8cd51b5bc742_2048x1536.jpeg",
-    "icon": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/a3acf02d-cfe4-43eb-9567-1006db4b5e78/favicon-48x48.png",
-    "publisher": "lunduke.substack.com",
-    "description": "... as well as ARM powered HP Jornadas and other \"retro\" hardware.",
-    "by": "muterad_murilax",
-    "points": 4,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "el_duderino",
-      "descendants": 0,
-      "id": 30151681,
-      "kids": [
-        30151737
-      ],
-      "score": 6,
-      "time": 1643652850,
-      "title": "Unsecured AWS server exposed 3TB in airport employee records",
-      "type": "story",
-      "url": "https://www.zdnet.com/article/unsecured-aws-server-exposed-airport-employee-records-3tb-in-data/"
-    },
-    "og_item": {
-      "title": "AOSC OS/Retro: A Linux Distro for 486 \u0026 PPC Macs",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://cdn.substack.com/image/fetch/w_1200,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2dc13a08-0486-4b54-a1ba-8cd51b5bc742_2048x1536.jpeg",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://lunduke.substack.com/p/aosc-osretro-a-linux-distro-for-486",
-      "audio": [],
-      "description": "... as well as ARM powered HP Jornadas and other \"retro\" hardware.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/a3acf02d-cfe4-43eb-9567-1006db4b5e78/favicon-48x48.png"
-      }
-    }
-  },
-  {
     "id": 30119800,
     "title": "How the Hall Effect still reverberates",
     "url": "https://spectrum.ieee.org/hall-effect-sensor",
@@ -1791,17 +2006,19 @@
     "points": 31,
     "comment_count": 2,
     "hn_item": {
-      "by": "el_duderino",
-      "descendants": 0,
-      "id": 30151681,
+      "by": "Victerius",
+      "descendants": 6,
+      "id": 30150243,
       "kids": [
-        30151737
+        30151379,
+        30151302,
+        30151376
       ],
-      "score": 6,
-      "time": 1643652850,
-      "title": "Unsecured AWS server exposed 3TB in airport employee records",
+      "score": 20,
+      "time": 1643648262,
+      "title": "Anarchists Are Building DIY Heaters to Keep Unhoused People Warm",
       "type": "story",
-      "url": "https://www.zdnet.com/article/unsecured-aws-server-exposed-airport-employee-records-3tb-in-data/"
+      "url": "https://www.vice.com/en/article/n7nd5x/anarchists-are-building-diy-heaters-to-keep-unhoused-people-warm"
     },
     "og_item": {
       "title": "How the Hall Effect Still Reverberates",
@@ -1830,6 +2047,59 @@
     }
   },
   {
+    "id": 30152833,
+    "title": "AOSC OS/Retro: A Linux Distro for 486 and PPC Macs",
+    "url": "https://lunduke.substack.com/p/aosc-osretro-a-linux-distro-for-486",
+    "time": 1643656955,
+    "image": "https://cdn.substack.com/image/fetch/w_1200,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2dc13a08-0486-4b54-a1ba-8cd51b5bc742_2048x1536.jpeg",
+    "icon": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/a3acf02d-cfe4-43eb-9567-1006db4b5e78/favicon-48x48.png",
+    "publisher": "lunduke.substack.com",
+    "description": "... as well as ARM powered HP Jornadas and other \"retro\" hardware.",
+    "by": "muterad_murilax",
+    "points": 5,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "Victerius",
+      "descendants": 6,
+      "id": 30150243,
+      "kids": [
+        30151379,
+        30151302,
+        30151376
+      ],
+      "score": 20,
+      "time": 1643648262,
+      "title": "Anarchists Are Building DIY Heaters to Keep Unhoused People Warm",
+      "type": "story",
+      "url": "https://www.vice.com/en/article/n7nd5x/anarchists-are-building-diy-heaters-to-keep-unhoused-people-warm"
+    },
+    "og_item": {
+      "title": "AOSC OS/Retro: A Linux Distro for 486 \u0026 PPC Macs",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://cdn.substack.com/image/fetch/w_1200,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2dc13a08-0486-4b54-a1ba-8cd51b5bc742_2048x1536.jpeg",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://lunduke.substack.com/p/aosc-osretro-a-linux-distro-for-486",
+      "audio": [],
+      "description": "... as well as ARM powered HP Jornadas and other \"retro\" hardware.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/a3acf02d-cfe4-43eb-9567-1006db4b5e78/favicon-48x48.png"
+      }
+    }
+  },
+  {
     "id": 30148147,
     "title": "BBC censors its own archives",
     "url": "https://www.nationalreview.com/2022/01/the-bbc-quietly-censors-its-own-archives/",
@@ -1840,19 +2110,21 @@
     "description": "Out of public view, the state-owned broadcaster has been altering old episodes of its shows to make them ‘suitable’ for modern listeners.",
     "by": "temp8964",
     "points": 138,
-    "comment_count": 129,
+    "comment_count": 131,
     "hn_item": {
-      "by": "el_duderino",
-      "descendants": 0,
-      "id": 30151681,
+      "by": "Victerius",
+      "descendants": 6,
+      "id": 30150243,
       "kids": [
-        30151737
+        30151379,
+        30151302,
+        30151376
       ],
-      "score": 6,
-      "time": 1643652850,
-      "title": "Unsecured AWS server exposed 3TB in airport employee records",
+      "score": 20,
+      "time": 1643648262,
+      "title": "Anarchists Are Building DIY Heaters to Keep Unhoused People Warm",
       "type": "story",
-      "url": "https://www.zdnet.com/article/unsecured-aws-server-exposed-airport-employee-records-3tb-in-data/"
+      "url": "https://www.vice.com/en/article/n7nd5x/anarchists-are-building-diy-heaters-to-keep-unhoused-people-warm"
     },
     "og_item": {
       "title": "The BBC Quietly Censors Its Own Archives | National Review",
@@ -1881,48 +2153,6 @@
     }
   },
   {
-    "id": 30150895,
-    "title": "Argo CD – Declarative GitOps CD for Kubernetes",
-    "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/helm/",
-    "time": 1643650406,
-    "image": "",
-    "icon": "https://argo-cd.readthedocs.io/en/stable/user-guide/helm/../../assets/favicon.png",
-    "publisher": "argo-cd.readthedocs.io",
-    "description": "",
-    "by": "JordanTen",
-    "points": 8,
-    "comment_count": 2,
-    "hn_item": {
-      "by": "el_duderino",
-      "descendants": 0,
-      "id": 30151681,
-      "kids": [
-        30151737
-      ],
-      "score": 6,
-      "time": 1643652850,
-      "title": "Unsecured AWS server exposed 3TB in airport employee records",
-      "type": "story",
-      "url": "https://www.zdnet.com/article/unsecured-aws-server-exposed-airport-employee-records-3tb-in-data/"
-    },
-    "og_item": {
-      "title": "Helm - Argo CD - Declarative GitOps CD for Kubernetes",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "../../assets/favicon.png"
-      }
-    }
-  },
-  {
     "id": 30146019,
     "title": "Boyfriend-alert – A light based alert system",
     "url": "https://github.com/jscd/Boyfriend-Alert",
@@ -1935,17 +2165,19 @@
     "points": 200,
     "comment_count": 160,
     "hn_item": {
-      "by": "el_duderino",
-      "descendants": 0,
-      "id": 30151681,
+      "by": "Victerius",
+      "descendants": 6,
+      "id": 30150243,
       "kids": [
-        30151737
+        30151379,
+        30151302,
+        30151376
       ],
-      "score": 6,
-      "time": 1643652850,
-      "title": "Unsecured AWS server exposed 3TB in airport employee records",
+      "score": 20,
+      "time": 1643648262,
+      "title": "Anarchists Are Building DIY Heaters to Keep Unhoused People Warm",
       "type": "story",
-      "url": "https://www.zdnet.com/article/unsecured-aws-server-exposed-airport-employee-records-3tb-in-data/"
+      "url": "https://www.vice.com/en/article/n7nd5x/anarchists-are-building-diy-heaters-to-keep-unhoused-people-warm"
     },
     "og_item": {
       "title": "GitHub - jscd/Boyfriend-Alert: A light based alert system",
@@ -1984,19 +2216,21 @@
     "description": "",
     "by": "beermonster",
     "points": 201,
-    "comment_count": 99,
+    "comment_count": 100,
     "hn_item": {
-      "by": "el_duderino",
-      "descendants": 0,
-      "id": 30151681,
+      "by": "Victerius",
+      "descendants": 6,
+      "id": 30150243,
       "kids": [
-        30151737
+        30151379,
+        30151302,
+        30151376
       ],
-      "score": 6,
-      "time": 1643652850,
-      "title": "Unsecured AWS server exposed 3TB in airport employee records",
+      "score": 20,
+      "time": 1643648262,
+      "title": "Anarchists Are Building DIY Heaters to Keep Unhoused People Warm",
       "type": "story",
-      "url": "https://www.zdnet.com/article/unsecured-aws-server-exposed-airport-employee-records-3tb-in-data/"
+      "url": "https://www.vice.com/en/article/n7nd5x/anarchists-are-building-diy-heaters-to-keep-unhoused-people-warm"
     },
     "og_item": {
       "title": "Just a moment...",
@@ -2016,6 +2250,35 @@
     }
   },
   {
+    "id": 30145237,
+    "title": "Generate static sites from Markdown files with Caddy (2018)",
+    "url": "https://blog.thomaspuppe.de/static-sites-from-markdown-with-caddy-server",
+    "time": 1643611196,
+    "image": "",
+    "icon": "",
+    "publisher": "blog.thomaspuppe.de",
+    "description": "",
+    "by": "indigodaddy",
+    "points": 94,
+    "comment_count": 27,
+    "hn_item": {
+      "by": "Victerius",
+      "descendants": 6,
+      "id": 30150243,
+      "kids": [
+        30151379,
+        30151302,
+        30151376
+      ],
+      "score": 20,
+      "time": 1643648262,
+      "title": "Anarchists Are Building DIY Heaters to Keep Unhoused People Warm",
+      "type": "story",
+      "url": "https://www.vice.com/en/article/n7nd5x/anarchists-are-building-diy-heaters-to-keep-unhoused-people-warm"
+    },
+    "og_item": null
+  },
+  {
     "id": 30149838,
     "title": "Ask HN: Where do you hang out virtually online?",
     "url": "https://news.ycombinator.com/item?id=30149838",
@@ -2025,20 +2288,22 @@
     "publisher": "Hacker News",
     "description": "",
     "by": "codemonkeysh",
-    "points": 95,
-    "comment_count": 131,
+    "points": 97,
+    "comment_count": 132,
     "hn_item": {
-      "by": "el_duderino",
-      "descendants": 0,
-      "id": 30151681,
+      "by": "Victerius",
+      "descendants": 6,
+      "id": 30150243,
       "kids": [
-        30151737
+        30151379,
+        30151302,
+        30151376
       ],
-      "score": 6,
-      "time": 1643652850,
-      "title": "Unsecured AWS server exposed 3TB in airport employee records",
+      "score": 20,
+      "time": 1643648262,
+      "title": "Anarchists Are Building DIY Heaters to Keep Unhoused People Warm",
       "type": "story",
-      "url": "https://www.zdnet.com/article/unsecured-aws-server-exposed-airport-employee-records-3tb-in-data/"
+      "url": "https://www.vice.com/en/article/n7nd5x/anarchists-are-building-diy-heaters-to-keep-unhoused-people-warm"
     },
     "og_item": {
       "title": "Ask HN: Where do you hang out virtually online? | Hacker News",
@@ -2070,17 +2335,19 @@
     "points": 6,
     "comment_count": 2,
     "hn_item": {
-      "by": "el_duderino",
-      "descendants": 0,
-      "id": 30151681,
+      "by": "Victerius",
+      "descendants": 6,
+      "id": 30150243,
       "kids": [
-        30151737
+        30151379,
+        30151302,
+        30151376
       ],
-      "score": 6,
-      "time": 1643652850,
-      "title": "Unsecured AWS server exposed 3TB in airport employee records",
+      "score": 20,
+      "time": 1643648262,
+      "title": "Anarchists Are Building DIY Heaters to Keep Unhoused People Warm",
       "type": "story",
-      "url": "https://www.zdnet.com/article/unsecured-aws-server-exposed-airport-employee-records-3tb-in-data/"
+      "url": "https://www.vice.com/en/article/n7nd5x/anarchists-are-building-diy-heaters-to-keep-unhoused-people-warm"
     },
     "og_item": {
       "title": "GitHub - Uzay-G/espial",
@@ -2109,75 +2376,6 @@
     }
   },
   {
-    "id": 30145237,
-    "title": "Generate static sites from Markdown files with Caddy (2018)",
-    "url": "https://blog.thomaspuppe.de/static-sites-from-markdown-with-caddy-server",
-    "time": 1643611196,
-    "image": "",
-    "icon": "",
-    "publisher": "blog.thomaspuppe.de",
-    "description": "",
-    "by": "indigodaddy",
-    "points": 94,
-    "comment_count": 27,
-    "hn_item": {
-      "by": "el_duderino",
-      "descendants": 0,
-      "id": 30151681,
-      "kids": [
-        30151737
-      ],
-      "score": 6,
-      "time": 1643652850,
-      "title": "Unsecured AWS server exposed 3TB in airport employee records",
-      "type": "story",
-      "url": "https://www.zdnet.com/article/unsecured-aws-server-exposed-airport-employee-records-3tb-in-data/"
-    },
-    "og_item": null
-  },
-  {
-    "id": 30150776,
-    "title": "Ask HN: AT\u0026T Charing for FaceTime?",
-    "url": "https://news.ycombinator.com/item?id=30150776",
-    "time": 1643650048,
-    "image": "",
-    "icon": "https://news.ycombinator.com/favicon.ico",
-    "publisher": "Hacker News",
-    "description": "",
-    "by": "ada1981",
-    "points": 20,
-    "comment_count": 9,
-    "hn_item": {
-      "by": "el_duderino",
-      "descendants": 0,
-      "id": 30151681,
-      "kids": [
-        30151737
-      ],
-      "score": 6,
-      "time": 1643652850,
-      "title": "Unsecured AWS server exposed 3TB in airport employee records",
-      "type": "story",
-      "url": "https://www.zdnet.com/article/unsecured-aws-server-exposed-airport-employee-records-3tb-in-data/"
-    },
-    "og_item": {
-      "title": "Ask HN: AT\u0026T Charing for FaceTime? | Hacker News",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30147652,
     "title": "Firecracker v1.0 Released",
     "url": "https://github.com/firecracker-microvm/firecracker/releases/tag/v1.0.0",
@@ -2187,20 +2385,22 @@
     "publisher": "GitHub",
     "description": "Added\n\nAdded jailer option --parent-cgroup \u003crelative_path\u003e to allow the placement\nof microvm cgroups in custom cgroup nested hierarchies. The default value is\n\u003cexec-file\u003e which is backwards compati...",
     "by": "ciprian_craciun",
-    "points": 73,
+    "points": 76,
     "comment_count": 15,
     "hn_item": {
-      "by": "el_duderino",
-      "descendants": 0,
-      "id": 30151681,
+      "by": "Victerius",
+      "descendants": 6,
+      "id": 30150243,
       "kids": [
-        30151737
+        30151379,
+        30151302,
+        30151376
       ],
-      "score": 6,
-      "time": 1643652850,
-      "title": "Unsecured AWS server exposed 3TB in airport employee records",
+      "score": 20,
+      "time": 1643648262,
+      "title": "Anarchists Are Building DIY Heaters to Keep Unhoused People Warm",
       "type": "story",
-      "url": "https://www.zdnet.com/article/unsecured-aws-server-exposed-airport-employee-records-3tb-in-data/"
+      "url": "https://www.vice.com/en/article/n7nd5x/anarchists-are-building-diy-heaters-to-keep-unhoused-people-warm"
     },
     "og_item": {
       "title": "Release Firecracker v1.0.0 · firecracker-microvm/firecracker",
@@ -2229,6 +2429,94 @@
     }
   },
   {
+    "id": 30153653,
+    "title": "Go 1.18 Beta 2",
+    "url": "https://go.dev/blog/go1.18beta2",
+    "time": 1643660229,
+    "image": "",
+    "icon": "https://go.dev/favicon.ico",
+    "publisher": "go.dev",
+    "description": "Go is an open source programming language that makes it easy to build simple, reliable, and efficient software.",
+    "by": "0xedb",
+    "points": 3,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "Victerius",
+      "descendants": 6,
+      "id": 30150243,
+      "kids": [
+        30151379,
+        30151302,
+        30151376
+      ],
+      "score": 20,
+      "time": 1643648262,
+      "title": "Anarchists Are Building DIY Heaters to Keep Unhoused People Warm",
+      "type": "story",
+      "url": "https://www.vice.com/en/article/n7nd5x/anarchists-are-building-diy-heaters-to-keep-unhoused-people-warm"
+    },
+    "og_item": {
+      "title": "Announcing Go 1.18 Beta 2 - The Go Programming Language",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "Go is an open source programming language that makes it easy to build simple, reliable, and efficient software.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30150776,
+    "title": "Ask HN: AT\u0026T Charing for FaceTime?",
+    "url": "https://news.ycombinator.com/item?id=30150776",
+    "time": 1643650048,
+    "image": "",
+    "icon": "https://news.ycombinator.com/favicon.ico",
+    "publisher": "Hacker News",
+    "description": "",
+    "by": "ada1981",
+    "points": 20,
+    "comment_count": 9,
+    "hn_item": {
+      "by": "Victerius",
+      "descendants": 6,
+      "id": 30150243,
+      "kids": [
+        30151379,
+        30151302,
+        30151376
+      ],
+      "score": 20,
+      "time": 1643648262,
+      "title": "Anarchists Are Building DIY Heaters to Keep Unhoused People Warm",
+      "type": "story",
+      "url": "https://www.vice.com/en/article/n7nd5x/anarchists-are-building-diy-heaters-to-keep-unhoused-people-warm"
+    },
+    "og_item": {
+      "title": "Ask HN: AT\u0026T Charing for FaceTime? | Hacker News",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30150995,
     "title": "Show HN: Practical Python Projects book now free to read online",
     "url": "https://practicalpython.yasoob.me/toc.html",
@@ -2241,17 +2529,19 @@
     "points": 5,
     "comment_count": 3,
     "hn_item": {
-      "by": "el_duderino",
-      "descendants": 0,
-      "id": 30151681,
+      "by": "Victerius",
+      "descendants": 6,
+      "id": 30150243,
       "kids": [
-        30151737
+        30151379,
+        30151302,
+        30151376
       ],
-      "score": 6,
-      "time": 1643652850,
-      "title": "Unsecured AWS server exposed 3TB in airport employee records",
+      "score": 20,
+      "time": 1643648262,
+      "title": "Anarchists Are Building DIY Heaters to Keep Unhoused People Warm",
       "type": "story",
-      "url": "https://www.zdnet.com/article/unsecured-aws-server-exposed-airport-employee-records-3tb-in-data/"
+      "url": "https://www.vice.com/en/article/n7nd5x/anarchists-are-building-diy-heaters-to-keep-unhoused-people-warm"
     },
     "og_item": {
       "title": "Table of Contents - Practical Python Projects",
@@ -2283,17 +2573,19 @@
     "points": 6,
     "comment_count": 4,
     "hn_item": {
-      "by": "el_duderino",
-      "descendants": 0,
-      "id": 30151681,
+      "by": "Victerius",
+      "descendants": 6,
+      "id": 30150243,
       "kids": [
-        30151737
+        30151379,
+        30151302,
+        30151376
       ],
-      "score": 6,
-      "time": 1643652850,
-      "title": "Unsecured AWS server exposed 3TB in airport employee records",
+      "score": 20,
+      "time": 1643648262,
+      "title": "Anarchists Are Building DIY Heaters to Keep Unhoused People Warm",
       "type": "story",
-      "url": "https://www.zdnet.com/article/unsecured-aws-server-exposed-airport-employee-records-3tb-in-data/"
+      "url": "https://www.vice.com/en/article/n7nd5x/anarchists-are-building-diy-heaters-to-keep-unhoused-people-warm"
     },
     "og_item": {
       "title": "How to recommend books, or, stop recommending SICP | notes.eatonphil.com",
@@ -2322,20 +2614,22 @@
     "publisher": "blog.rust-lang.org",
     "description": "Empowering everyone to build reliable and efficient software.",
     "by": "phab",
-    "points": 19,
+    "points": 21,
     "comment_count": 4,
     "hn_item": {
-      "by": "el_duderino",
-      "descendants": 0,
-      "id": 30151681,
+      "by": "Victerius",
+      "descendants": 6,
+      "id": 30150243,
       "kids": [
-        30151737
+        30151379,
+        30151302,
+        30151376
       ],
-      "score": 6,
-      "time": 1643652850,
-      "title": "Unsecured AWS server exposed 3TB in airport employee records",
+      "score": 20,
+      "time": 1643648262,
+      "title": "Anarchists Are Building DIY Heaters to Keep Unhoused People Warm",
       "type": "story",
-      "url": "https://www.zdnet.com/article/unsecured-aws-server-exposed-airport-employee-records-3tb-in-data/"
+      "url": "https://www.vice.com/en/article/n7nd5x/anarchists-are-building-diy-heaters-to-keep-unhoused-people-warm"
     },
     "og_item": {
       "title": "Changes in the Core Team | Rust Blog",
@@ -2364,6 +2658,50 @@
     }
   },
   {
+    "id": 30148354,
+    "title": "The Financialization of Housing in Europe",
+    "url": "https://unassumingeconomist.com/2022/01/the-financialization-of-housing-in-europe/",
+    "time": 1643640106,
+    "image": "",
+    "icon": "https://unassumingeconomist.com/favicon.ico",
+    "publisher": "unassumingeconomist.com",
+    "description": "",
+    "by": "rustoo",
+    "points": 14,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "Victerius",
+      "descendants": 6,
+      "id": 30150243,
+      "kids": [
+        30151379,
+        30151302,
+        30151376
+      ],
+      "score": 20,
+      "time": 1643648262,
+      "title": "Anarchists Are Building DIY Heaters to Keep Unhoused People Warm",
+      "type": "story",
+      "url": "https://www.vice.com/en/article/n7nd5x/anarchists-are-building-diy-heaters-to-keep-unhoused-people-warm"
+    },
+    "og_item": {
+      "title": "\n\t\tThe Unassuming Economist | The Financialization of Housing in Europe\t",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30150021,
     "title": "Slack Having a Partial Outage",
     "url": "https://status.slack.com/2022-01/f7d4da863db0707c",
@@ -2376,17 +2714,19 @@
     "points": 6,
     "comment_count": 2,
     "hn_item": {
-      "by": "el_duderino",
-      "descendants": 0,
-      "id": 30151681,
+      "by": "Victerius",
+      "descendants": 6,
+      "id": 30150243,
       "kids": [
-        30151737
+        30151379,
+        30151302,
+        30151376
       ],
-      "score": 6,
-      "time": 1643652850,
-      "title": "Unsecured AWS server exposed 3TB in airport employee records",
+      "score": 20,
+      "time": 1643648262,
+      "title": "Anarchists Are Building DIY Heaters to Keep Unhoused People Warm",
       "type": "story",
-      "url": "https://www.zdnet.com/article/unsecured-aws-server-exposed-airport-employee-records-3tb-in-data/"
+      "url": "https://www.vice.com/en/article/n7nd5x/anarchists-are-building-diy-heaters-to-keep-unhoused-people-warm"
     },
     "og_item": {
       "title": "Slack System Status",
@@ -2415,90 +2755,6 @@
     }
   },
   {
-    "id": 30148354,
-    "title": "The Financialization of Housing in Europe",
-    "url": "https://unassumingeconomist.com/2022/01/the-financialization-of-housing-in-europe/",
-    "time": 1643640106,
-    "image": "",
-    "icon": "https://unassumingeconomist.com/favicon.ico",
-    "publisher": "unassumingeconomist.com",
-    "description": "",
-    "by": "rustoo",
-    "points": 14,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "el_duderino",
-      "descendants": 0,
-      "id": 30151681,
-      "kids": [
-        30151737
-      ],
-      "score": 6,
-      "time": 1643652850,
-      "title": "Unsecured AWS server exposed 3TB in airport employee records",
-      "type": "story",
-      "url": "https://www.zdnet.com/article/unsecured-aws-server-exposed-airport-employee-records-3tb-in-data/"
-    },
-    "og_item": {
-      "title": "\n\t\tThe Unassuming Economist | The Financialization of Housing in Europe\t",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30152847,
-    "title": "Ask HN: How can I help my devs solve “combinatorial test case scope creep”?",
-    "url": "https://news.ycombinator.com/item?id=30152847",
-    "time": 1643656986,
-    "image": "",
-    "icon": "https://news.ycombinator.com/favicon.ico",
-    "publisher": "Hacker News",
-    "description": "",
-    "by": "quacked",
-    "points": 5,
-    "comment_count": 5,
-    "hn_item": {
-      "by": "el_duderino",
-      "descendants": 0,
-      "id": 30151681,
-      "kids": [
-        30151737
-      ],
-      "score": 6,
-      "time": 1643652850,
-      "title": "Unsecured AWS server exposed 3TB in airport employee records",
-      "type": "story",
-      "url": "https://www.zdnet.com/article/unsecured-aws-server-exposed-airport-employee-records-3tb-in-data/"
-    },
-    "og_item": {
-      "title": "Ask HN: How can I help my devs solve “combinatorial test case scope creep”? | Hacker News",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30151765,
     "title": "Sony is buying Bungie for $3.6B",
     "url": "https://www.pcgamer.com/uk/sony-is-buying-bungie-for-dollar36b/",
@@ -2508,20 +2764,22 @@
     "publisher": "pcgamer",
     "description": "The Destiny 2 developer will soon become a PlayStation studio.",
     "by": "gmemstr",
-    "points": 16,
+    "points": 17,
     "comment_count": 0,
     "hn_item": {
-      "by": "el_duderino",
-      "descendants": 0,
-      "id": 30151681,
+      "by": "Victerius",
+      "descendants": 6,
+      "id": 30150243,
       "kids": [
-        30151737
+        30151379,
+        30151302,
+        30151376
       ],
-      "score": 6,
-      "time": 1643652850,
-      "title": "Unsecured AWS server exposed 3TB in airport employee records",
+      "score": 20,
+      "time": 1643648262,
+      "title": "Anarchists Are Building DIY Heaters to Keep Unhoused People Warm",
       "type": "story",
-      "url": "https://www.zdnet.com/article/unsecured-aws-server-exposed-airport-employee-records-3tb-in-data/"
+      "url": "https://www.vice.com/en/article/n7nd5x/anarchists-are-building-diy-heaters-to-keep-unhoused-people-warm"
     },
     "og_item": {
       "title": "Sony strikes back, acquires Bungie for $3.6B",
@@ -2550,32 +2808,34 @@
     }
   },
   {
-    "id": 30150877,
-    "title": "Ask HN: Why do adblockers still work?",
-    "url": "https://news.ycombinator.com/item?id=30150877",
-    "time": 1643650348,
+    "id": 30152847,
+    "title": "Ask HN: How can I help my devs solve “combinatorial test case scope creep”?",
+    "url": "https://news.ycombinator.com/item?id=30152847",
+    "time": 1643656986,
     "image": "",
     "icon": "https://news.ycombinator.com/favicon.ico",
     "publisher": "Hacker News",
     "description": "",
-    "by": "johnsanders",
-    "points": 14,
-    "comment_count": 10,
+    "by": "quacked",
+    "points": 5,
+    "comment_count": 5,
     "hn_item": {
-      "by": "el_duderino",
-      "descendants": 0,
-      "id": 30151681,
+      "by": "Victerius",
+      "descendants": 6,
+      "id": 30150243,
       "kids": [
-        30151737
+        30151379,
+        30151302,
+        30151376
       ],
-      "score": 6,
-      "time": 1643652850,
-      "title": "Unsecured AWS server exposed 3TB in airport employee records",
+      "score": 20,
+      "time": 1643648262,
+      "title": "Anarchists Are Building DIY Heaters to Keep Unhoused People Warm",
       "type": "story",
-      "url": "https://www.zdnet.com/article/unsecured-aws-server-exposed-airport-employee-records-3tb-in-data/"
+      "url": "https://www.vice.com/en/article/n7nd5x/anarchists-are-building-diy-heaters-to-keep-unhoused-people-warm"
     },
     "og_item": {
-      "title": "Ask HN: Why do adblockers still work? | Hacker News",
+      "title": "Ask HN: How can I help my devs solve “combinatorial test case scope creep”? | Hacker News",
       "type": "",
       "image": [],
       "url": "",
@@ -2592,6 +2852,59 @@
     }
   },
   {
+    "id": 30151568,
+    "title": "Bungie Joins Sony Interactive Entertainment",
+    "url": "https://www.bungie.net/en/Explore/Detail/News/50988",
+    "time": 1643652498,
+    "image": "https://www.bungie.net:46000/pubassets/pkgs/156/156161/bng_ls_graphic_1920x470_TWAB1_1.jpg",
+    "icon": "https://www.bungie.net/favicon.ico?v=1",
+    "publisher": "Bungie.net",
+    "description": "Bungie.net is the Internet home for Bungie, the developer of Destiny, Halo, Myth, Oni, and Marathon, and the only place with official Bungie info straight from the developers.",
+    "by": "minimaxir",
+    "points": 5,
+    "comment_count": 2,
+    "hn_item": {
+      "by": "Victerius",
+      "descendants": 6,
+      "id": 30150243,
+      "kids": [
+        30151379,
+        30151302,
+        30151376
+      ],
+      "score": 20,
+      "time": 1643648262,
+      "title": "Anarchists Are Building DIY Heaters to Keep Unhoused People Warm",
+      "type": "story",
+      "url": "https://www.vice.com/en/article/n7nd5x/anarchists-are-building-diy-heaters-to-keep-unhoused-people-warm"
+    },
+    "og_item": {
+      "title": "BUNGIE JOINS SONY INTERACTIVE ENTERTAINMENT \u003e News | Bungie.net",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://www.bungie.net:46000/pubassets/pkgs/156/156161/bng_ls_graphic_1920x470_TWAB1_1.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "",
+      "audio": [],
+      "description": "Bungie.net is the Internet home for Bungie, the developer of Destiny, Halo, Myth, Oni, and Marathon, and the only place with official Bungie info straight from the developers.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Bungie.net",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico?v=1"
+      }
+    }
+  },
+  {
     "id": 30144652,
     "title": "Zero-copy network transmission with io_uring (2021)",
     "url": "https://lwn.net/Articles/879724/",
@@ -2602,19 +2915,21 @@
     "description": "",
     "by": "pabs3",
     "points": 233,
-    "comment_count": 45,
+    "comment_count": 47,
     "hn_item": {
-      "by": "el_duderino",
-      "descendants": 0,
-      "id": 30151681,
+      "by": "Victerius",
+      "descendants": 6,
+      "id": 30150243,
       "kids": [
-        30151737
+        30151379,
+        30151302,
+        30151376
       ],
-      "score": 6,
-      "time": 1643652850,
-      "title": "Unsecured AWS server exposed 3TB in airport employee records",
+      "score": 20,
+      "time": 1643648262,
+      "title": "Anarchists Are Building DIY Heaters to Keep Unhoused People Warm",
       "type": "story",
-      "url": "https://www.zdnet.com/article/unsecured-aws-server-exposed-airport-employee-records-3tb-in-data/"
+      "url": "https://www.vice.com/en/article/n7nd5x/anarchists-are-building-diy-heaters-to-keep-unhoused-people-warm"
     },
     "og_item": {
       "title": "Zero-copy network transmission with io_uring [LWN.net]",
@@ -2634,6 +2949,50 @@
     }
   },
   {
+    "id": 30150877,
+    "title": "Ask HN: Why do adblockers still work?",
+    "url": "https://news.ycombinator.com/item?id=30150877",
+    "time": 1643650348,
+    "image": "",
+    "icon": "https://news.ycombinator.com/favicon.ico",
+    "publisher": "Hacker News",
+    "description": "",
+    "by": "johnsanders",
+    "points": 14,
+    "comment_count": 10,
+    "hn_item": {
+      "by": "Victerius",
+      "descendants": 6,
+      "id": 30150243,
+      "kids": [
+        30151379,
+        30151302,
+        30151376
+      ],
+      "score": 20,
+      "time": 1643648262,
+      "title": "Anarchists Are Building DIY Heaters to Keep Unhoused People Warm",
+      "type": "story",
+      "url": "https://www.vice.com/en/article/n7nd5x/anarchists-are-building-diy-heaters-to-keep-unhoused-people-warm"
+    },
+    "og_item": {
+      "title": "Ask HN: Why do adblockers still work? | Hacker News",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30147379,
     "title": "My dishwasher won’t start until I let it update its firmware over the WiFi",
     "url": "https://twitter.com/isislovecruft/status/1487947074901463040",
@@ -2643,20 +3002,22 @@
     "publisher": "Twitter",
     "description": "",
     "by": "_Microft",
-    "points": 503,
+    "points": 504,
     "comment_count": 516,
     "hn_item": {
-      "by": "el_duderino",
-      "descendants": 0,
-      "id": 30151681,
+      "by": "Victerius",
+      "descendants": 6,
+      "id": 30150243,
       "kids": [
-        30151737
+        30151379,
+        30151302,
+        30151376
       ],
-      "score": 6,
-      "time": 1643652850,
-      "title": "Unsecured AWS server exposed 3TB in airport employee records",
+      "score": 20,
+      "time": 1643648262,
+      "title": "Anarchists Are Building DIY Heaters to Keep Unhoused People Warm",
       "type": "story",
-      "url": "https://www.zdnet.com/article/unsecured-aws-server-exposed-airport-employee-records-3tb-in-data/"
+      "url": "https://www.vice.com/en/article/n7nd5x/anarchists-are-building-diy-heaters-to-keep-unhoused-people-warm"
     },
     "og_item": {
       "title": "",
@@ -2688,17 +3049,19 @@
     "points": 82,
     "comment_count": 23,
     "hn_item": {
-      "by": "el_duderino",
-      "descendants": 0,
-      "id": 30151681,
+      "by": "Victerius",
+      "descendants": 6,
+      "id": 30150243,
       "kids": [
-        30151737
+        30151379,
+        30151302,
+        30151376
       ],
-      "score": 6,
-      "time": 1643652850,
-      "title": "Unsecured AWS server exposed 3TB in airport employee records",
+      "score": 20,
+      "time": 1643648262,
+      "title": "Anarchists Are Building DIY Heaters to Keep Unhoused People Warm",
       "type": "story",
-      "url": "https://www.zdnet.com/article/unsecured-aws-server-exposed-airport-employee-records-3tb-in-data/"
+      "url": "https://www.vice.com/en/article/n7nd5x/anarchists-are-building-diy-heaters-to-keep-unhoused-people-warm"
     },
     "og_item": {
       "title": "Review: MNT Reform laptop has fully open hardware and software—for better or worse",
@@ -2739,17 +3102,19 @@
     "points": 201,
     "comment_count": 156,
     "hn_item": {
-      "by": "el_duderino",
-      "descendants": 0,
-      "id": 30151681,
+      "by": "Victerius",
+      "descendants": 6,
+      "id": 30150243,
       "kids": [
-        30151737
+        30151379,
+        30151302,
+        30151376
       ],
-      "score": 6,
-      "time": 1643652850,
-      "title": "Unsecured AWS server exposed 3TB in airport employee records",
+      "score": 20,
+      "time": 1643648262,
+      "title": "Anarchists Are Building DIY Heaters to Keep Unhoused People Warm",
       "type": "story",
-      "url": "https://www.zdnet.com/article/unsecured-aws-server-exposed-airport-employee-records-3tb-in-data/"
+      "url": "https://www.vice.com/en/article/n7nd5x/anarchists-are-building-diy-heaters-to-keep-unhoused-people-warm"
     },
     "og_item": {
       "title": "",
@@ -2781,17 +3146,19 @@
     "points": 208,
     "comment_count": 43,
     "hn_item": {
-      "by": "el_duderino",
-      "descendants": 0,
-      "id": 30151681,
+      "by": "Victerius",
+      "descendants": 6,
+      "id": 30150243,
       "kids": [
-        30151737
+        30151379,
+        30151302,
+        30151376
       ],
-      "score": 6,
-      "time": 1643652850,
-      "title": "Unsecured AWS server exposed 3TB in airport employee records",
+      "score": 20,
+      "time": 1643648262,
+      "title": "Anarchists Are Building DIY Heaters to Keep Unhoused People Warm",
       "type": "story",
-      "url": "https://www.zdnet.com/article/unsecured-aws-server-exposed-airport-employee-records-3tb-in-data/"
+      "url": "https://www.vice.com/en/article/n7nd5x/anarchists-are-building-diy-heaters-to-keep-unhoused-people-warm"
     },
     "og_item": {
       "title": "What is the Inverse of a Circle?",
@@ -2832,17 +3199,19 @@
     "points": 264,
     "comment_count": 70,
     "hn_item": {
-      "by": "el_duderino",
-      "descendants": 0,
-      "id": 30151681,
+      "by": "Victerius",
+      "descendants": 6,
+      "id": 30150243,
       "kids": [
-        30151737
+        30151379,
+        30151302,
+        30151376
       ],
-      "score": 6,
-      "time": 1643652850,
-      "title": "Unsecured AWS server exposed 3TB in airport employee records",
+      "score": 20,
+      "time": 1643648262,
+      "title": "Anarchists Are Building DIY Heaters to Keep Unhoused People Warm",
       "type": "story",
-      "url": "https://www.zdnet.com/article/unsecured-aws-server-exposed-airport-employee-records-3tb-in-data/"
+      "url": "https://www.vice.com/en/article/n7nd5x/anarchists-are-building-diy-heaters-to-keep-unhoused-people-warm"
     },
     "og_item": {
       "title": "How I Discovered Thousands of Open Databases on AWS",
@@ -2883,17 +3252,19 @@
     "points": 609,
     "comment_count": 178,
     "hn_item": {
-      "by": "el_duderino",
-      "descendants": 0,
-      "id": 30151681,
+      "by": "Victerius",
+      "descendants": 6,
+      "id": 30150243,
       "kids": [
-        30151737
+        30151379,
+        30151302,
+        30151376
       ],
-      "score": 6,
-      "time": 1643652850,
-      "title": "Unsecured AWS server exposed 3TB in airport employee records",
+      "score": 20,
+      "time": 1643648262,
+      "title": "Anarchists Are Building DIY Heaters to Keep Unhoused People Warm",
       "type": "story",
-      "url": "https://www.zdnet.com/article/unsecured-aws-server-exposed-airport-employee-records-3tb-in-data/"
+      "url": "https://www.vice.com/en/article/n7nd5x/anarchists-are-building-diy-heaters-to-keep-unhoused-people-warm"
     },
     "og_item": {
       "title": "Bike Tire | Fahrrad-Tools.de",
@@ -2913,6 +3284,59 @@
     }
   },
   {
+    "id": 30151681,
+    "title": "Unsecured AWS server exposed 3TB in airport employee records",
+    "url": "https://www.zdnet.com/article/unsecured-aws-server-exposed-airport-employee-records-3tb-in-data/",
+    "time": 1643652850,
+    "image": "https://www.zdnet.com/a/img/resize/1893bc0782df89e994f509e747a6f877b3d90212/2021/12/14/d488084b-7b98-48d6-8d4f-2b52db0678b6/shutterstock-1461611696.jpg?width=770\u0026height=578\u0026fit=crop\u0026auto=webp",
+    "icon": "https://www.zdnet.com/a/fly/bundles/zdnetcss/images/logos/logo-192x192.png",
+    "publisher": "ZDNet",
+    "description": "The exposure impacted airport staff across Colombia and Peru.",
+    "by": "el_duderino",
+    "points": 10,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "Victerius",
+      "descendants": 6,
+      "id": 30150243,
+      "kids": [
+        30151379,
+        30151302,
+        30151376
+      ],
+      "score": 20,
+      "time": 1643648262,
+      "title": "Anarchists Are Building DIY Heaters to Keep Unhoused People Warm",
+      "type": "story",
+      "url": "https://www.vice.com/en/article/n7nd5x/anarchists-are-building-diy-heaters-to-keep-unhoused-people-warm"
+    },
+    "og_item": {
+      "title": "Unsecured AWS server exposed 3TB in airport employee records | ZDNet",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/1893bc0782df89e994f509e747a6f877b3d90212/2021/12/14/d488084b-7b98-48d6-8d4f-2b52db0678b6/shutterstock-1461611696.jpg?width=770\u0026height=578\u0026fit=crop\u0026auto=webp",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://www.zdnet.com/article/unsecured-aws-server-exposed-airport-employee-records-3tb-in-data/",
+      "audio": [],
+      "description": "The exposure impacted airport staff across Colombia and Peru.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "ZDNet",
+      "video": [],
+      "favicon": {
+        "url": "https://www.zdnet.com/a/fly/bundles/zdnetcss/images/logos/logo-192x192.png"
+      }
+    }
+  },
+  {
     "id": 30119285,
     "title": "Devious SQL: Message Queuing Using Native PostgreSQL",
     "url": "https://blog.crunchydata.com/blog/message-queuing-using-native-postgresql",
@@ -2925,17 +3349,19 @@
     "points": 134,
     "comment_count": 36,
     "hn_item": {
-      "by": "el_duderino",
-      "descendants": 0,
-      "id": 30151681,
+      "by": "Victerius",
+      "descendants": 6,
+      "id": 30150243,
       "kids": [
-        30151737
+        30151379,
+        30151302,
+        30151376
       ],
-      "score": 6,
-      "time": 1643652850,
-      "title": "Unsecured AWS server exposed 3TB in airport employee records",
+      "score": 20,
+      "time": 1643648262,
+      "title": "Anarchists Are Building DIY Heaters to Keep Unhoused People Warm",
       "type": "story",
-      "url": "https://www.zdnet.com/article/unsecured-aws-server-exposed-airport-employee-records-3tb-in-data/"
+      "url": "https://www.vice.com/en/article/n7nd5x/anarchists-are-building-diy-heaters-to-keep-unhoused-people-warm"
     },
     "og_item": {
       "title": "Devious SQL: Message Queuing Using Native PostgreSQL",
@@ -2976,17 +3402,19 @@
     "points": 20,
     "comment_count": 6,
     "hn_item": {
-      "by": "el_duderino",
-      "descendants": 0,
-      "id": 30151681,
+      "by": "Victerius",
+      "descendants": 6,
+      "id": 30150243,
       "kids": [
-        30151737
+        30151379,
+        30151302,
+        30151376
       ],
-      "score": 6,
-      "time": 1643652850,
-      "title": "Unsecured AWS server exposed 3TB in airport employee records",
+      "score": 20,
+      "time": 1643648262,
+      "title": "Anarchists Are Building DIY Heaters to Keep Unhoused People Warm",
       "type": "story",
-      "url": "https://www.zdnet.com/article/unsecured-aws-server-exposed-airport-employee-records-3tb-in-data/"
+      "url": "https://www.vice.com/en/article/n7nd5x/anarchists-are-building-diy-heaters-to-keep-unhoused-people-warm"
     },
     "og_item": {
       "title": "Anarchists are Building DIY Heaters to Keep Unhoused People Warm ",
@@ -3011,293 +3439,6 @@
       "video": [],
       "favicon": {
         "url": "https://vice-web-statics-cdn.vice.com/favicons/vice/favicon-16x16.png"
-      }
-    }
-  },
-  {
-    "id": 30149797,
-    "title": "Internet outage affected nearly 30k people after Oakland fiber cable was shot",
-    "url": "https://www.datacenterdynamics.com/en/news/tens-of-thousands-left-without-internet-as-multiple-bullets-hit-oakland-xfinity-fiber-cable/",
-    "time": 1643646379,
-    "image": "",
-    "icon": "https://www.datacenterdynamics.com/favicon.ico",
-    "publisher": "datacenterdynamics.com",
-    "description": "",
-    "by": "Element_",
-    "points": 75,
-    "comment_count": 111,
-    "hn_item": {
-      "by": "el_duderino",
-      "descendants": 0,
-      "id": 30151681,
-      "kids": [
-        30151737
-      ],
-      "score": 6,
-      "time": 1643652850,
-      "title": "Unsecured AWS server exposed 3TB in airport employee records",
-      "type": "story",
-      "url": "https://www.zdnet.com/article/unsecured-aws-server-exposed-airport-employee-records-3tb-in-data/"
-    },
-    "og_item": {
-      "title": "Please Wait... | Cloudflare",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30148095,
-    "title": "Cypress vs. Selenium vs. Playwright vs. Puppeteer speed comparison",
-    "url": "https://blog.checklyhq.com/cypress-vs-selenium-vs-playwright-vs-puppeteer-speed-comparison/",
-    "time": 1643638614,
-    "image": "https://og-image.checklyhq.com/image.png?titleText=Cypress vs Selenium vs Playwright vs Puppeteer speed comparison\u0026subtitleText=How does Cypress compare to Puppeteer, Playwright, WebDriverIO and Selenium, speed-wise? We ran our own benchmark to find out.\u0026template=blog\u0026image=https://blog.checklyhq.com/content/images/2021/01/banner-image.png\u0026width=300\u0026fontSize=55px",
-    "icon": "https://blog.checklyhq.com/favicon.png",
-    "publisher": "The Checkly Blog",
-    "description": "How does Cypress compare to Puppeteer, Playwright, WebDriverIO and Selenium, speed-wise? We ran our own benchmark to find out.",
-    "by": "qa-guy",
-    "points": 7,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "el_duderino",
-      "descendants": 0,
-      "id": 30151681,
-      "kids": [
-        30151737
-      ],
-      "score": 6,
-      "time": 1643652850,
-      "title": "Unsecured AWS server exposed 3TB in airport employee records",
-      "type": "story",
-      "url": "https://www.zdnet.com/article/unsecured-aws-server-exposed-airport-employee-records-3tb-in-data/"
-    },
-    "og_item": {
-      "title": "Cypress vs Selenium vs Playwright vs Puppeteer speed comparison",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://og-image.checklyhq.com/image.png?titleText=Cypress vs Selenium vs Playwright vs Puppeteer speed comparison\u0026subtitleText=How does Cypress compare to Puppeteer, Playwright, WebDriverIO and Selenium, speed-wise? We ran our own benchmark to find out.\u0026template=blog\u0026image=https://blog.checklyhq.com/content/images/2021/01/banner-image.png\u0026width=300\u0026fontSize=55px",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        },
-        {
-          "url": "https://blog.checklyhq.com/content/images/2021/01/banner-image.png",
-          "secure_url": "",
-          "type": "",
-          "width": 1000,
-          "height": 497,
-          "alt": ""
-        }
-      ],
-      "url": "https://blog.checklyhq.com/cypress-vs-selenium-vs-playwright-vs-puppeteer-speed-comparison/",
-      "audio": [],
-      "description": "How does Cypress compare to Puppeteer, Playwright, WebDriverIO and Selenium, speed-wise? We ran our own benchmark to find out.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "The Checkly Blog",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.png"
-      }
-    }
-  },
-  {
-    "id": 30144108,
-    "title": "Reimagining Chess with AlphaZero",
-    "url": "https://cacm.acm.org/magazines/2022/2/258230-reimagining-chess-with-alphazero/fulltext",
-    "time": 1643599537,
-    "image": "https://cacm.acm.org/system/assets/0004/2100/012022_CACMpg1_Reimagining-Chess1.large.jpg?1642700035\u00261642700035",
-    "icon": "https://cacm.acm.org/favicon.ico",
-    "publisher": "cacm.acm.org",
-    "description": "AI is driving the next evolution of chess, giving players a glimpse into the game\u0026#39;s future.",
-    "by": "joak",
-    "points": 146,
-    "comment_count": 104,
-    "hn_item": {
-      "by": "el_duderino",
-      "descendants": 0,
-      "id": 30151681,
-      "kids": [
-        30151737
-      ],
-      "score": 6,
-      "time": 1643652850,
-      "title": "Unsecured AWS server exposed 3TB in airport employee records",
-      "type": "story",
-      "url": "https://www.zdnet.com/article/unsecured-aws-server-exposed-airport-employee-records-3tb-in-data/"
-    },
-    "og_item": {
-      "title": "Reimagining Chess with AlphaZero",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://cacm.acm.org/system/assets/0004/2100/012022_CACMpg1_Reimagining-Chess1.large.jpg?1642700035\u00261642700035",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://cacm.acm.org/magazines/2022/2/258230-reimagining-chess-with-alphazero/fulltext",
-      "audio": [],
-      "description": "AI is driving the next evolution of chess, giving players a glimpse into the game\u0026#39;s future.\n",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30146891,
-    "title": "Arduino Gameboy Printer Emulator",
-    "url": "https://mofosyne.github.io/arduino-gameboy-printer-emulator/",
-    "time": 1643628483,
-    "image": "",
-    "icon": "https://mofosyne.github.io/favicon.ico",
-    "publisher": "arduino-gameboy-printer-emulator",
-    "description": "Code to emulate a gameboy printer via the gameboy link cable",
-    "by": "giuliomagnifico",
-    "points": 10,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "el_duderino",
-      "descendants": 0,
-      "id": 30151681,
-      "kids": [
-        30151737
-      ],
-      "score": 6,
-      "time": 1643652850,
-      "title": "Unsecured AWS server exposed 3TB in airport employee records",
-      "type": "story",
-      "url": "https://www.zdnet.com/article/unsecured-aws-server-exposed-airport-employee-records-3tb-in-data/"
-    },
-    "og_item": {
-      "title": "Arduino Gameboy Printer Emulator (V3)",
-      "type": "",
-      "image": [],
-      "url": "https://mofosyne.github.io/arduino-gameboy-printer-emulator/",
-      "audio": [],
-      "description": "Code to emulate a gameboy printer via the gameboy link cable",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "arduino-gameboy-printer-emulator",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30151141,
-    "title": "Ask HN: What are idling first-time home buyers doing?",
-    "url": "https://news.ycombinator.com/item?id=30151141",
-    "time": 1643651149,
-    "image": "",
-    "icon": "https://news.ycombinator.com/favicon.ico",
-    "publisher": "Hacker News",
-    "description": "",
-    "by": "windows2020",
-    "points": 10,
-    "comment_count": 8,
-    "hn_item": {
-      "by": "el_duderino",
-      "descendants": 0,
-      "id": 30151681,
-      "kids": [
-        30151737
-      ],
-      "score": 6,
-      "time": 1643652850,
-      "title": "Unsecured AWS server exposed 3TB in airport employee records",
-      "type": "story",
-      "url": "https://www.zdnet.com/article/unsecured-aws-server-exposed-airport-employee-records-3tb-in-data/"
-    },
-    "og_item": {
-      "title": "Ask HN: What are idling first-time home buyers doing? | Hacker News",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30151681,
-    "title": "Unsecured AWS server exposed 3TB in airport employee records",
-    "url": "https://www.zdnet.com/article/unsecured-aws-server-exposed-airport-employee-records-3tb-in-data/",
-    "time": 1643652850,
-    "image": "https://www.zdnet.com/a/img/resize/1893bc0782df89e994f509e747a6f877b3d90212/2021/12/14/d488084b-7b98-48d6-8d4f-2b52db0678b6/shutterstock-1461611696.jpg?width=770\u0026height=578\u0026fit=crop\u0026auto=webp",
-    "icon": "https://www.zdnet.com/a/fly/bundles/zdnetcss/images/logos/logo-192x192.png",
-    "publisher": "ZDNet",
-    "description": "The exposure impacted airport staff across Colombia and Peru.",
-    "by": "el_duderino",
-    "points": 6,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "el_duderino",
-      "descendants": 0,
-      "id": 30151681,
-      "kids": [
-        30151737
-      ],
-      "score": 6,
-      "time": 1643652850,
-      "title": "Unsecured AWS server exposed 3TB in airport employee records",
-      "type": "story",
-      "url": "https://www.zdnet.com/article/unsecured-aws-server-exposed-airport-employee-records-3tb-in-data/"
-    },
-    "og_item": {
-      "title": "Unsecured AWS server exposed 3TB in airport employee records | ZDNet",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/1893bc0782df89e994f509e747a6f877b3d90212/2021/12/14/d488084b-7b98-48d6-8d4f-2b52db0678b6/shutterstock-1461611696.jpg?width=770\u0026height=578\u0026fit=crop\u0026auto=webp",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://www.zdnet.com/article/unsecured-aws-server-exposed-airport-employee-records-3tb-in-data/",
-      "audio": [],
-      "description": "The exposure impacted airport staff across Colombia and Peru.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "ZDNet",
-      "video": [],
-      "favicon": {
-        "url": "https://www.zdnet.com/a/fly/bundles/zdnetcss/images/logos/logo-192x192.png"
       }
     }
   }
