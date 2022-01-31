@@ -1,68 +1,5 @@
 [
   {
-    "id": 30146019,
-    "title": "Boyfriend Alert",
-    "url": "https://github.com/jscd/Boyfriend-Alert",
-    "time": 1643619852,
-    "image": "https://opengraph.githubassets.com/ab456ff1d844d8f2a5d49a3203fd3a57a78f788d3c55c0c2f586b0c88c498c7c/jscd/Boyfriend-Alert",
-    "icon": "https://github.githubassets.com/favicons/favicon.svg",
-    "publisher": "GitHub",
-    "description": "A light based alert system. Contribute to jscd/Boyfriend-Alert development by creating an account on GitHub.",
-    "by": "rgun",
-    "points": 131,
-    "comment_count": 25,
-    "hn_item": {
-      "by": "lowleveldesign",
-      "descendants": 62,
-      "id": 30128048,
-      "kids": [
-        30141402,
-        30141034,
-        30141162,
-        30140452,
-        30141094,
-        30143338,
-        30144500,
-        30144278,
-        30144460,
-        30144489,
-        30145419,
-        30140903,
-        30140096
-      ],
-      "score": 82,
-      "time": 1643476281,
-      "title": "COM+ Revisited",
-      "type": "story",
-      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
-    },
-    "og_item": {
-      "title": "GitHub - jscd/Boyfriend-Alert: A light based alert system",
-      "type": "object",
-      "image": [
-        {
-          "url": "https://opengraph.githubassets.com/ab456ff1d844d8f2a5d49a3203fd3a57a78f788d3c55c0c2f586b0c88c498c7c/jscd/Boyfriend-Alert",
-          "secure_url": "",
-          "type": "",
-          "width": 1200,
-          "height": 600,
-          "alt": ""
-        }
-      ],
-      "url": "https://github.com/jscd/Boyfriend-Alert",
-      "audio": [],
-      "description": "A light based alert system. Contribute to jscd/Boyfriend-Alert development by creating an account on GitHub.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "GitHub",
-      "video": [],
-      "favicon": {
-        "url": "https://github.githubassets.com/favicons/favicon.svg"
-      }
-    }
-  },
-  {
     "id": 30146052,
     "title": "The Awk State Machine Parser Pattern (2018)",
     "url": "https://two-wrongs.com/awk-state-machine-parser-pattern.html",
@@ -72,32 +9,20 @@
     "publisher": "two-wrongs.com",
     "description": "",
     "by": "Tomte",
-    "points": 88,
+    "points": 89,
     "comment_count": 5,
     "hn_item": {
-      "by": "lowleveldesign",
-      "descendants": 62,
-      "id": 30128048,
+      "by": "prismatic",
+      "descendants": 0,
+      "id": 30110679,
       "kids": [
-        30141402,
-        30141034,
-        30141162,
-        30140452,
-        30141094,
-        30143338,
-        30144500,
-        30144278,
-        30144460,
-        30144489,
-        30145419,
-        30140903,
-        30140096
+        30143708
       ],
-      "score": 82,
-      "time": 1643476281,
-      "title": "COM+ Revisited",
+      "score": 15,
+      "time": 1643343649,
+      "title": "Bringing Ancient Pottery to Life",
       "type": "story",
-      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
+      "url": "https://news.harvard.edu/gazette/story/2021/09/harvard-ceramics-program-recreates-art-museums-pieces/"
     },
     "og_item": {
       "title": "The AWK State Machine Parser Pattern",
@@ -126,32 +51,20 @@
     "publisher": "lwn.net",
     "description": "",
     "by": "pabs3",
-    "points": 162,
+    "points": 165,
     "comment_count": 5,
     "hn_item": {
-      "by": "lowleveldesign",
-      "descendants": 62,
-      "id": 30128048,
+      "by": "prismatic",
+      "descendants": 0,
+      "id": 30110679,
       "kids": [
-        30141402,
-        30141034,
-        30141162,
-        30140452,
-        30141094,
-        30143338,
-        30144500,
-        30144278,
-        30144460,
-        30144489,
-        30145419,
-        30140903,
-        30140096
+        30143708
       ],
-      "score": 82,
-      "time": 1643476281,
-      "title": "COM+ Revisited",
+      "score": 15,
+      "time": 1643343649,
+      "title": "Bringing Ancient Pottery to Life",
       "type": "story",
-      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
+      "url": "https://news.harvard.edu/gazette/story/2021/09/harvard-ceramics-program-recreates-art-museums-pieces/"
     },
     "og_item": {
       "title": "Zero-copy network transmission with io_uring [LWN.net]",
@@ -180,32 +93,20 @@
     "publisher": "MathOverflow",
     "description": "The first thing to say is that this is not the same as the question about interesting mathematical mistakes. I am interested about the type of false beliefs that many intelligent people have while ...",
     "by": "gballan",
-    "points": 146,
+    "points": 149,
     "comment_count": 10,
     "hn_item": {
-      "by": "lowleveldesign",
-      "descendants": 62,
-      "id": 30128048,
+      "by": "prismatic",
+      "descendants": 0,
+      "id": 30110679,
       "kids": [
-        30141402,
-        30141034,
-        30141162,
-        30140452,
-        30141094,
-        30143338,
-        30144500,
-        30144278,
-        30144460,
-        30144489,
-        30145419,
-        30140903,
-        30140096
+        30143708
       ],
-      "score": 82,
-      "time": 1643476281,
-      "title": "COM+ Revisited",
+      "score": 15,
+      "time": 1643343649,
+      "title": "Bringing Ancient Pottery to Life",
       "type": "story",
-      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
+      "url": "https://news.harvard.edu/gazette/story/2021/09/harvard-ceramics-program-recreates-art-museums-pieces/"
     },
     "og_item": {
       "title": "Examples of common false beliefs in mathematics",
@@ -243,32 +144,20 @@
     "publisher": "theregister.com",
     "description": "",
     "by": "laktak",
-    "points": 144,
-    "comment_count": 10,
+    "points": 149,
+    "comment_count": 11,
     "hn_item": {
-      "by": "lowleveldesign",
-      "descendants": 62,
-      "id": 30128048,
+      "by": "prismatic",
+      "descendants": 0,
+      "id": 30110679,
       "kids": [
-        30141402,
-        30141034,
-        30141162,
-        30140452,
-        30141094,
-        30143338,
-        30144500,
-        30144278,
-        30144460,
-        30144489,
-        30145419,
-        30140903,
-        30140096
+        30143708
       ],
-      "score": 82,
-      "time": 1643476281,
-      "title": "COM+ Revisited",
+      "score": 15,
+      "time": 1643343649,
+      "title": "Bringing Ancient Pottery to Life",
       "type": "story",
-      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
+      "url": "https://news.harvard.edu/gazette/story/2021/09/harvard-ceramics-program-recreates-art-museums-pieces/"
     },
     "og_item": {
       "title": "",
@@ -288,65 +177,44 @@
     }
   },
   {
-    "id": 30147507,
-    "title": "VT100 Machine Emulator in JavaScript",
-    "url": "https://www.pcjs.org/machines/dec/vt100/",
-    "time": 1643634629,
-    "image": "https://www.pcjs.org/assets/img/logo-home.png",
-    "icon": "https://www.pcjs.org/assets/icons/favicon.ico",
-    "publisher": "pcjs.org",
-    "description": "Home of the original IBM PC emulator for browsers. PCjs offers a variety of online machine emulators written in JavaScript. Run DOS, Windows, OS/2 and other vintage PC applications in a web browser on your desktop computer, iPhone, or iPad. An assortment of microcomputers, minicomputers, terminal…",
-    "by": "DiabloD3",
-    "points": 6,
-    "comment_count": 1,
+    "id": 30147379,
+    "title": "My dishwasher won’t start until I let it update its firmware over the WiFi",
+    "url": "https://twitter.com/isislovecruft/status/1487947074901463040",
+    "time": 1643633680,
+    "image": "",
+    "icon": "https://abs.twimg.com/favicons/twitter.2.ico",
+    "publisher": "Twitter",
+    "description": "",
+    "by": "_Microft",
+    "points": 36,
+    "comment_count": 7,
     "hn_item": {
-      "by": "lowleveldesign",
-      "descendants": 62,
-      "id": 30128048,
+      "by": "prismatic",
+      "descendants": 0,
+      "id": 30110679,
       "kids": [
-        30141402,
-        30141034,
-        30141162,
-        30140452,
-        30141094,
-        30143338,
-        30144500,
-        30144278,
-        30144460,
-        30144489,
-        30145419,
-        30140903,
-        30140096
+        30143708
       ],
-      "score": 82,
-      "time": 1643476281,
-      "title": "COM+ Revisited",
+      "score": 15,
+      "time": 1643343649,
+      "title": "Bringing Ancient Pottery to Life",
       "type": "story",
-      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
+      "url": "https://news.harvard.edu/gazette/story/2021/09/harvard-ceramics-program-recreates-art-museums-pieces/"
     },
     "og_item": {
-      "title": "DEC VT100 Terminal",
+      "title": "",
       "type": "",
-      "image": [
-        {
-          "url": "https://www.pcjs.org/assets/img/logo-home.png",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
+      "image": [],
       "url": "",
       "audio": [],
-      "description": "Home of the original IBM PC emulator for browsers. PCjs offers a variety of online machine emulators written in JavaScript. Run DOS, Windows, OS/2 and other vintage PC applications in a web browser on your desktop computer, iPhone, or iPad. An assortment of microcomputers, minicomputers, terminals, programmable calculators, and arcade machines are available, along with an archive of historical software and documentation.",
+      "description": "",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "",
+      "site_name": "Twitter",
       "video": [],
       "favicon": {
-        "url": "/assets/icons/favicon.ico"
+        "url": "//abs.twimg.com/favicons/twitter.2.ico"
       }
     }
   },
@@ -360,32 +228,20 @@
     "publisher": "smallcultfollowing.com",
     "description": "",
     "by": "ingve",
-    "points": 62,
+    "points": 65,
     "comment_count": 4,
     "hn_item": {
-      "by": "lowleveldesign",
-      "descendants": 62,
-      "id": 30128048,
+      "by": "prismatic",
+      "descendants": 0,
+      "id": 30110679,
       "kids": [
-        30141402,
-        30141034,
-        30141162,
-        30140452,
-        30141094,
-        30143338,
-        30144500,
-        30144278,
-        30144460,
-        30144489,
-        30145419,
-        30140903,
-        30140096
+        30143708
       ],
-      "score": 82,
-      "time": 1643476281,
-      "title": "COM+ Revisited",
+      "score": 15,
+      "time": 1643343649,
+      "title": "Bringing Ancient Pottery to Life",
       "type": "story",
-      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
+      "url": "https://news.harvard.edu/gazette/story/2021/09/harvard-ceramics-program-recreates-art-museums-pieces/"
     },
     "og_item": {
       "title": "Baby Steps",
@@ -405,65 +261,53 @@
     }
   },
   {
-    "id": 30124927,
-    "title": "Hiring for Conscientiousness (2019)",
-    "url": "https://www.holloway.com/s/trh-hiring-for-conscientiousness",
-    "time": 1643447066,
-    "image": "https://assets.holloway.com/editorial/images/holloway_will_skill_complete.png",
-    "icon": "https://www.holloway.com/static/favicons/icon-default-32x32-62ab2f6444.png",
-    "publisher": "Holloway",
-    "description": "Why startups should hire conscientious people—and how to find them",
-    "by": "rognjen",
-    "points": 11,
-    "comment_count": 1,
+    "id": 30146019,
+    "title": "Boyfriend-alert – A light based alert system",
+    "url": "https://github.com/jscd/Boyfriend-Alert",
+    "time": 1643619852,
+    "image": "https://opengraph.githubassets.com/218526b14d85a2406f18311df537edd7e83237c835731788f6e481e1e55adfb0/jscd/Boyfriend-Alert",
+    "icon": "https://github.githubassets.com/favicons/favicon.svg",
+    "publisher": "GitHub",
+    "description": "A light based alert system. Contribute to jscd/Boyfriend-Alert development by creating an account on GitHub.",
+    "by": "rgun",
+    "points": 134,
+    "comment_count": 28,
     "hn_item": {
-      "by": "lowleveldesign",
-      "descendants": 62,
-      "id": 30128048,
+      "by": "prismatic",
+      "descendants": 0,
+      "id": 30110679,
       "kids": [
-        30141402,
-        30141034,
-        30141162,
-        30140452,
-        30141094,
-        30143338,
-        30144500,
-        30144278,
-        30144460,
-        30144489,
-        30145419,
-        30140903,
-        30140096
+        30143708
       ],
-      "score": 82,
-      "time": 1643476281,
-      "title": "COM+ Revisited",
+      "score": 15,
+      "time": 1643343649,
+      "title": "Bringing Ancient Pottery to Life",
       "type": "story",
-      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
+      "url": "https://news.harvard.edu/gazette/story/2021/09/harvard-ceramics-program-recreates-art-museums-pieces/"
     },
     "og_item": {
-      "title": "Hiring for Conscientiousness — Holloway",
-      "type": "article",
+      "title": "GitHub - jscd/Boyfriend-Alert: A light based alert system",
+      "type": "object",
       "image": [
         {
-          "url": "https://assets.holloway.com/editorial/images/holloway_will_skill_complete.png",
+          "url": "https://opengraph.githubassets.com/218526b14d85a2406f18311df537edd7e83237c835731788f6e481e1e55adfb0/jscd/Boyfriend-Alert",
           "secure_url": "",
           "type": "",
-          "width": 0,
-          "height": 0,
+          "width": 1200,
+          "height": 600,
           "alt": ""
         }
       ],
-      "url": "https://www.holloway.com/s/trh-hiring-for-conscientiousness",
+      "url": "https://github.com/jscd/Boyfriend-Alert",
       "audio": [],
-      "description": "Why startups should hire conscientious people—and how to find them",
+      "description": "A light based alert system. Contribute to jscd/Boyfriend-Alert development by creating an account on GitHub.",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "Holloway",
+      "site_name": "GitHub",
       "video": [],
       "favicon": {
-        "url": "https://www.holloway.com/static/favicons/icon-default-32x32-62ab2f6444.png"
+        "url": "https://github.githubassets.com/favicons/favicon.svg"
       }
     }
   },
@@ -477,32 +321,20 @@
     "publisher": "Medium",
     "description": "My journey on finding and reporting databases with sensitive data about Fortune-500 companies, Hospitals, Crypto platforms, Startups during…",
     "by": "boyter",
-    "points": 201,
+    "points": 202,
     "comment_count": 14,
     "hn_item": {
-      "by": "lowleveldesign",
-      "descendants": 62,
-      "id": 30128048,
+      "by": "prismatic",
+      "descendants": 0,
+      "id": 30110679,
       "kids": [
-        30141402,
-        30141034,
-        30141162,
-        30140452,
-        30141094,
-        30143338,
-        30144500,
-        30144278,
-        30144460,
-        30144489,
-        30145419,
-        30140903,
-        30140096
+        30143708
       ],
-      "score": 82,
-      "time": 1643476281,
-      "title": "COM+ Revisited",
+      "score": 15,
+      "time": 1643343649,
+      "title": "Bringing Ancient Pottery to Life",
       "type": "story",
-      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
+      "url": "https://news.harvard.edu/gazette/story/2021/09/harvard-ceramics-program-recreates-art-museums-pieces/"
     },
     "og_item": {
       "title": "How I Discovered Thousands of Open Databases on AWS",
@@ -531,6 +363,57 @@
     }
   },
   {
+    "id": 30124927,
+    "title": "Hiring for conscientiousness (2019)",
+    "url": "https://www.holloway.com/s/trh-hiring-for-conscientiousness",
+    "time": 1643447066,
+    "image": "https://assets.holloway.com/editorial/images/holloway_will_skill_complete.png",
+    "icon": "https://www.holloway.com/static/favicons/icon-default-32x32-62ab2f6444.png",
+    "publisher": "Holloway",
+    "description": "Why startups should hire conscientious people—and how to find them",
+    "by": "rognjen",
+    "points": 12,
+    "comment_count": 5,
+    "hn_item": {
+      "by": "prismatic",
+      "descendants": 0,
+      "id": 30110679,
+      "kids": [
+        30143708
+      ],
+      "score": 15,
+      "time": 1643343649,
+      "title": "Bringing Ancient Pottery to Life",
+      "type": "story",
+      "url": "https://news.harvard.edu/gazette/story/2021/09/harvard-ceramics-program-recreates-art-museums-pieces/"
+    },
+    "og_item": {
+      "title": "Hiring for Conscientiousness — Holloway",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://assets.holloway.com/editorial/images/holloway_will_skill_complete.png",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://www.holloway.com/s/trh-hiring-for-conscientiousness",
+      "audio": [],
+      "description": "Why startups should hire conscientious people—and how to find them",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Holloway",
+      "video": [],
+      "favicon": {
+        "url": "https://www.holloway.com/static/favicons/icon-default-32x32-62ab2f6444.png"
+      }
+    }
+  },
+  {
     "id": 30147052,
     "title": "Convictional (YC W19) is hiring engineers to build the future of B2B trade Remote",
     "url": "https://jobs.ashbyhq.com/convictional/91fa08f9-0850-4429-9000-19c1f5fe9ef3",
@@ -543,29 +426,17 @@
     "points": 1,
     "comment_count": 0,
     "hn_item": {
-      "by": "lowleveldesign",
-      "descendants": 62,
-      "id": 30128048,
+      "by": "prismatic",
+      "descendants": 0,
+      "id": 30110679,
       "kids": [
-        30141402,
-        30141034,
-        30141162,
-        30140452,
-        30141094,
-        30143338,
-        30144500,
-        30144278,
-        30144460,
-        30144489,
-        30145419,
-        30140903,
-        30140096
+        30143708
       ],
-      "score": 82,
-      "time": 1643476281,
-      "title": "COM+ Revisited",
+      "score": 15,
+      "time": 1643343649,
+      "title": "Bringing Ancient Pottery to Life",
       "type": "story",
-      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
+      "url": "https://news.harvard.edu/gazette/story/2021/09/harvard-ceramics-program-recreates-art-museums-pieces/"
     },
     "og_item": {
       "title": "Software Engineer",
@@ -594,6 +465,57 @@
     }
   },
   {
+    "id": 30147507,
+    "title": "VT100 Machine Emulator in JavaScript",
+    "url": "https://www.pcjs.org/machines/dec/vt100/",
+    "time": 1643634629,
+    "image": "https://www.pcjs.org/assets/img/logo-home.png",
+    "icon": "https://www.pcjs.org/assets/icons/favicon.ico",
+    "publisher": "pcjs.org",
+    "description": "Home of the original IBM PC emulator for browsers. PCjs offers a variety of online machine emulators written in JavaScript. Run DOS, Windows, OS/2 and other vintage PC applications in a web browser on your desktop computer, iPhone, or iPad. An assortment of microcomputers, minicomputers, terminal…",
+    "by": "DiabloD3",
+    "points": 6,
+    "comment_count": 1,
+    "hn_item": {
+      "by": "prismatic",
+      "descendants": 0,
+      "id": 30110679,
+      "kids": [
+        30143708
+      ],
+      "score": 15,
+      "time": 1643343649,
+      "title": "Bringing Ancient Pottery to Life",
+      "type": "story",
+      "url": "https://news.harvard.edu/gazette/story/2021/09/harvard-ceramics-program-recreates-art-museums-pieces/"
+    },
+    "og_item": {
+      "title": "DEC VT100 Terminal",
+      "type": "",
+      "image": [
+        {
+          "url": "https://www.pcjs.org/assets/img/logo-home.png",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "",
+      "audio": [],
+      "description": "Home of the original IBM PC emulator for browsers. PCjs offers a variety of online machine emulators written in JavaScript. Run DOS, Windows, OS/2 and other vintage PC applications in a web browser on your desktop computer, iPhone, or iPad. An assortment of microcomputers, minicomputers, terminals, programmable calculators, and arcade machines are available, along with an archive of historical software and documentation.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/assets/icons/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30131926,
     "title": "What is the inverse of a circle?",
     "url": "https://mattferraro.dev/posts/inverse-of-a-circle",
@@ -603,32 +525,20 @@
     "publisher": "mattferraro.dev",
     "description": "What does it mean to invert a shape?",
     "by": "mferraro89",
-    "points": 133,
+    "points": 139,
     "comment_count": 13,
     "hn_item": {
-      "by": "lowleveldesign",
-      "descendants": 62,
-      "id": 30128048,
+      "by": "prismatic",
+      "descendants": 0,
+      "id": 30110679,
       "kids": [
-        30141402,
-        30141034,
-        30141162,
-        30140452,
-        30141094,
-        30143338,
-        30144500,
-        30144278,
-        30144460,
-        30144489,
-        30145419,
-        30140903,
-        30140096
+        30143708
       ],
-      "score": 82,
-      "time": 1643476281,
-      "title": "COM+ Revisited",
+      "score": 15,
+      "time": 1643343649,
+      "title": "Bringing Ancient Pottery to Life",
       "type": "story",
-      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
+      "url": "https://news.harvard.edu/gazette/story/2021/09/harvard-ceramics-program-recreates-art-museums-pieces/"
     },
     "og_item": {
       "title": "What is the Inverse of a Circle?",
@@ -666,88 +576,22 @@
     "publisher": "blog.thomaspuppe.de",
     "description": "",
     "by": "indigodaddy",
-    "points": 67,
+    "points": 68,
     "comment_count": 10,
     "hn_item": {
-      "by": "lowleveldesign",
-      "descendants": 62,
-      "id": 30128048,
+      "by": "prismatic",
+      "descendants": 0,
+      "id": 30110679,
       "kids": [
-        30141402,
-        30141034,
-        30141162,
-        30140452,
-        30141094,
-        30143338,
-        30144500,
-        30144278,
-        30144460,
-        30144489,
-        30145419,
-        30140903,
-        30140096
+        30143708
       ],
-      "score": 82,
-      "time": 1643476281,
-      "title": "COM+ Revisited",
+      "score": 15,
+      "time": 1643343649,
+      "title": "Bringing Ancient Pottery to Life",
       "type": "story",
-      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
+      "url": "https://news.harvard.edu/gazette/story/2021/09/harvard-ceramics-program-recreates-art-museums-pieces/"
     },
     "og_item": null
-  },
-  {
-    "id": 30147379,
-    "title": "My dishwasher won’t start until I let it update its firmware over the WiFi",
-    "url": "https://twitter.com/isislovecruft/status/1487947074901463040",
-    "time": 1643633680,
-    "image": "",
-    "icon": "https://abs.twimg.com/favicons/twitter.2.ico",
-    "publisher": "Twitter",
-    "description": "",
-    "by": "_Microft",
-    "points": 23,
-    "comment_count": 2,
-    "hn_item": {
-      "by": "lowleveldesign",
-      "descendants": 62,
-      "id": 30128048,
-      "kids": [
-        30141402,
-        30141034,
-        30141162,
-        30140452,
-        30141094,
-        30143338,
-        30144500,
-        30144278,
-        30144460,
-        30144489,
-        30145419,
-        30140903,
-        30140096
-      ],
-      "score": 82,
-      "time": 1643476281,
-      "title": "COM+ Revisited",
-      "type": "story",
-      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
-    },
-    "og_item": {
-      "title": "",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Twitter",
-      "video": [],
-      "favicon": {
-        "url": "//abs.twimg.com/favicons/twitter.2.ico"
-      }
-    }
   },
   {
     "id": 30144108,
@@ -759,32 +603,20 @@
     "publisher": "cacm.acm.org",
     "description": "AI is driving the next evolution of chess, giving players a glimpse into the game\u0026#39;s future.",
     "by": "joak",
-    "points": 124,
+    "points": 126,
     "comment_count": 17,
     "hn_item": {
-      "by": "lowleveldesign",
-      "descendants": 62,
-      "id": 30128048,
+      "by": "prismatic",
+      "descendants": 0,
+      "id": 30110679,
       "kids": [
-        30141402,
-        30141034,
-        30141162,
-        30140452,
-        30141094,
-        30143338,
-        30144500,
-        30144278,
-        30144460,
-        30144489,
-        30145419,
-        30140903,
-        30140096
+        30143708
       ],
-      "score": 82,
-      "time": 1643476281,
-      "title": "COM+ Revisited",
+      "score": 15,
+      "time": 1643343649,
+      "title": "Bringing Ancient Pottery to Life",
       "type": "story",
-      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
+      "url": "https://news.harvard.edu/gazette/story/2021/09/harvard-ceramics-program-recreates-art-museums-pieces/"
     },
     "og_item": {
       "title": "Reimagining Chess with AlphaZero",
@@ -822,32 +654,20 @@
     "publisher": "bleepingcomputer.com",
     "description": "",
     "by": "beermonster",
-    "points": 113,
+    "points": 114,
     "comment_count": 7,
     "hn_item": {
-      "by": "lowleveldesign",
-      "descendants": 62,
-      "id": 30128048,
+      "by": "prismatic",
+      "descendants": 0,
+      "id": 30110679,
       "kids": [
-        30141402,
-        30141034,
-        30141162,
-        30140452,
-        30141094,
-        30143338,
-        30144500,
-        30144278,
-        30144460,
-        30144489,
-        30145419,
-        30140903,
-        30140096
+        30143708
       ],
-      "score": 82,
-      "time": 1643476281,
-      "title": "COM+ Revisited",
+      "score": 15,
+      "time": 1643343649,
+      "title": "Bringing Ancient Pottery to Life",
       "type": "story",
-      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
+      "url": "https://news.harvard.edu/gazette/story/2021/09/harvard-ceramics-program-recreates-art-museums-pieces/"
     },
     "og_item": {
       "title": "Just a moment...",
@@ -867,69 +687,6 @@
     }
   },
   {
-    "id": 30146843,
-    "title": "1k-cycle lithium-sulfur battery could quintuple electric vehicle ranges",
-    "url": "https://news.umich.edu/1000-cycle-lithium-sulfur-battery-could-quintuple-electric-vehicle-ranges/",
-    "time": 1643628054,
-    "image": "https://news.umich.edu/wp-content/uploads/mc-image-cache/2022/01/1000-cycle-lithium-sulfur-battery-could-quintuple-electric-vehicle-ranges-LiS-Battery-Diagram.jpg",
-    "icon": "https://news.umich.edu/favicon.ico",
-    "publisher": "University of Michigan News",
-    "description": "A new biologically inspired battery membrane has enabled a battery with five times the capacity of the industry-standard lithium ion design to run for the thousand-plus cycles needed to power an electric car.\n\nA network of aramid nanofibers, recycled from Kevlar, can enable lithium-sulfur batterie",
-    "by": "maeln",
-    "points": 44,
-    "comment_count": 10,
-    "hn_item": {
-      "by": "lowleveldesign",
-      "descendants": 62,
-      "id": 30128048,
-      "kids": [
-        30141402,
-        30141034,
-        30141162,
-        30140452,
-        30141094,
-        30143338,
-        30144500,
-        30144278,
-        30144460,
-        30144489,
-        30145419,
-        30140903,
-        30140096
-      ],
-      "score": 82,
-      "time": 1643476281,
-      "title": "COM+ Revisited",
-      "type": "story",
-      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
-    },
-    "og_item": {
-      "title": "1,000-cycle lithium-sulfur battery could quintuple electric vehicle ranges",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://news.umich.edu/wp-content/uploads/mc-image-cache/2022/01/1000-cycle-lithium-sulfur-battery-could-quintuple-electric-vehicle-ranges-LiS-Battery-Diagram.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://news.umich.edu/1000-cycle-lithium-sulfur-battery-could-quintuple-electric-vehicle-ranges/",
-      "audio": [],
-      "description": "A new biologically inspired battery membrane has enabled a battery with five times the capacity of the industry-standard lithium ion design to run for the thousand-plus cycles needed to power an electric car.\n\nA network of aramid nanofibers, recycled from Kevlar, can enable lithium-sulfur batterie",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "University of Michigan News",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30141460,
     "title": "Royal Society cautions against censorship of scientific misinformation online",
     "url": "https://royalsociety.org/news/2022/01/scientific-misinformation-report/",
@@ -939,32 +696,20 @@
     "publisher": "royalsociety.org",
     "description": "The Online Information Environment report discusses how to limit the harm of scientific misinformation online",
     "by": "steelstraw",
-    "points": 898,
+    "points": 901,
     "comment_count": 59,
     "hn_item": {
-      "by": "lowleveldesign",
-      "descendants": 62,
-      "id": 30128048,
+      "by": "prismatic",
+      "descendants": 0,
+      "id": 30110679,
       "kids": [
-        30141402,
-        30141034,
-        30141162,
-        30140452,
-        30141094,
-        30143338,
-        30144500,
-        30144278,
-        30144460,
-        30144489,
-        30145419,
-        30140903,
-        30140096
+        30143708
       ],
-      "score": 82,
-      "time": 1643476281,
-      "title": "COM+ Revisited",
+      "score": 15,
+      "time": 1643343649,
+      "title": "Bringing Ancient Pottery to Life",
       "type": "story",
-      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
+      "url": "https://news.harvard.edu/gazette/story/2021/09/harvard-ceramics-program-recreates-art-museums-pieces/"
     },
     "og_item": {
       "title": "Royal Society cautions against censorship of scientific misinformation online | Royal Society",
@@ -1002,32 +747,20 @@
     "publisher": "zillow.com",
     "description": "",
     "by": "otras",
-    "points": 308,
+    "points": 310,
     "comment_count": 37,
     "hn_item": {
-      "by": "lowleveldesign",
-      "descendants": 62,
-      "id": 30128048,
+      "by": "prismatic",
+      "descendants": 0,
+      "id": 30110679,
       "kids": [
-        30141402,
-        30141034,
-        30141162,
-        30140452,
-        30141094,
-        30143338,
-        30144500,
-        30144278,
-        30144460,
-        30144489,
-        30145419,
-        30140903,
-        30140096
+        30143708
       ],
-      "score": 82,
-      "time": 1643476281,
-      "title": "COM+ Revisited",
+      "score": 15,
+      "time": 1643343649,
+      "title": "Bringing Ancient Pottery to Life",
       "type": "story",
-      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
+      "url": "https://news.harvard.edu/gazette/story/2021/09/harvard-ceramics-program-recreates-art-museums-pieces/"
     },
     "og_item": {
       "title": "",
@@ -1056,32 +789,20 @@
     "publisher": "EL PAÍS English Edition",
     "description": "Doctors in Belgium explain how they saved a bomb attack victim who had been struggling with one of the most virulent bacterial pathogens in the world",
     "by": "belter",
-    "points": 92,
+    "points": 94,
     "comment_count": 9,
     "hn_item": {
-      "by": "lowleveldesign",
-      "descendants": 62,
-      "id": 30128048,
+      "by": "prismatic",
+      "descendants": 0,
+      "id": 30110679,
       "kids": [
-        30141402,
-        30141034,
-        30141162,
-        30140452,
-        30141094,
-        30143338,
-        30144500,
-        30144278,
-        30144460,
-        30144489,
-        30145419,
-        30140903,
-        30140096
+        30143708
       ],
-      "score": 82,
-      "time": 1643476281,
-      "title": "COM+ Revisited",
+      "score": 15,
+      "time": 1643343649,
+      "title": "Bringing Ancient Pottery to Life",
       "type": "story",
-      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
+      "url": "https://news.harvard.edu/gazette/story/2021/09/harvard-ceramics-program-recreates-art-museums-pieces/"
     },
     "og_item": {
       "title": "How a virus helped a woman survive a dangerous antibiotic-resistant infection",
@@ -1122,29 +843,17 @@
     "points": 118,
     "comment_count": 10,
     "hn_item": {
-      "by": "lowleveldesign",
-      "descendants": 62,
-      "id": 30128048,
+      "by": "prismatic",
+      "descendants": 0,
+      "id": 30110679,
       "kids": [
-        30141402,
-        30141034,
-        30141162,
-        30140452,
-        30141094,
-        30143338,
-        30144500,
-        30144278,
-        30144460,
-        30144489,
-        30145419,
-        30140903,
-        30140096
+        30143708
       ],
-      "score": 82,
-      "time": 1643476281,
-      "title": "COM+ Revisited",
+      "score": 15,
+      "time": 1643343649,
+      "title": "Bringing Ancient Pottery to Life",
       "type": "story",
-      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
+      "url": "https://news.harvard.edu/gazette/story/2021/09/harvard-ceramics-program-recreates-art-museums-pieces/"
     },
     "og_item": {
       "title": "Hardy, Ramanujan and Taxi No. 1729",
@@ -1173,177 +882,6 @@
     }
   },
   {
-    "id": 30143587,
-    "title": "Ylang: Universal Language for eBPF, Stap+, GDB, and More (2021)",
-    "url": "https://blog.openresty.com/en/ylang-intro-part4/",
-    "time": 1643594248,
-    "image": "",
-    "icon": "https://blog.openresty.com/favicon-16x16.png",
-    "publisher": "blog.openresty.com",
-    "description": "Transparent Container Tracing Efficient Stack Unwinding Analyzing Dead Processes (Core Dumps) Very Low Tracing Overhead Standard Ylang Libraries \u0026amp; Tools Network Filtering \u0026amp; Control The Ylang Compiler\u0026rsquo;s Implementation Operating System Support Contributions to Open-Source Communities",
-    "by": "walterbell",
-    "points": 62,
-    "comment_count": 7,
-    "hn_item": {
-      "by": "lowleveldesign",
-      "descendants": 62,
-      "id": 30128048,
-      "kids": [
-        30141402,
-        30141034,
-        30141162,
-        30140452,
-        30141094,
-        30143338,
-        30144500,
-        30144278,
-        30144460,
-        30144489,
-        30145419,
-        30140903,
-        30140096
-      ],
-      "score": 82,
-      "time": 1643476281,
-      "title": "COM+ Revisited",
-      "type": "story",
-      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
-    },
-    "og_item": {
-      "title": "Ylang: Universal Language for eBPF, Stap+, GDB, and More (Part 4) - OpenResty Official Blog",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": " Transparent Container Tracing Efficient Stack Unwinding Analyzing Dead Processes (Core Dumps) Very Low Tracing Overhead Standard Ylang Libraries \u0026amp; Tools Network Filtering \u0026amp; Control The Ylang Compiler\u0026rsquo;s Implementation Operating System Support Contributions to Open-Source Communities  ",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon-16x16.png"
-      }
-    }
-  },
-  {
-    "id": 30141278,
-    "title": "The Story of Maxis Software (1999)",
-    "url": "https://web.archive.org/web/19991012021220/http://gamespot.com/features/maxis/index.html",
-    "time": 1643577913,
-    "image": "",
-    "icon": "https://web.archive.org/favicon.ico",
-    "publisher": "web.archive.org",
-    "description": "",
-    "by": "ecliptik",
-    "points": 127,
-    "comment_count": 11,
-    "hn_item": {
-      "by": "lowleveldesign",
-      "descendants": 62,
-      "id": 30128048,
-      "kids": [
-        30141402,
-        30141034,
-        30141162,
-        30140452,
-        30141094,
-        30143338,
-        30144500,
-        30144278,
-        30144460,
-        30144489,
-        30145419,
-        30140903,
-        30140096
-      ],
-      "score": 82,
-      "time": 1643476281,
-      "title": "COM+ Revisited",
-      "type": "story",
-      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
-    },
-    "og_item": {
-      "title": "GameSpot's SIMply Divine: The Story of Maxis Software",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30141192,
-    "title": "Don't forget Microsoft",
-    "url": "https://luttig.substack.com/p/dont-forget-microsoft",
-    "time": 1643577413,
-    "image": "https://cdn.substack.com/image/fetch/w_1200,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8ddf68e0-c549-49b6-8751-226f54fd4e30_1280x720.jpeg",
-    "icon": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/9c349228-1ca8-4dba-b953-12d78b35ee45/favicon-32x32.png",
-    "publisher": "luttig.substack.com",
-    "description": "Understanding the behemoth in Redmond teaches us valuable lessons in cloud infrastructure, startup strategy, and the future of software.",
-    "by": "SamvitJ",
-    "points": 371,
-    "comment_count": 62,
-    "hn_item": {
-      "by": "lowleveldesign",
-      "descendants": 62,
-      "id": 30128048,
-      "kids": [
-        30141402,
-        30141034,
-        30141162,
-        30140452,
-        30141094,
-        30143338,
-        30144500,
-        30144278,
-        30144460,
-        30144489,
-        30145419,
-        30140903,
-        30140096
-      ],
-      "score": 82,
-      "time": 1643476281,
-      "title": "COM+ Revisited",
-      "type": "story",
-      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
-    },
-    "og_item": {
-      "title": "Don’t forget Microsoft",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://cdn.substack.com/image/fetch/w_1200,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8ddf68e0-c549-49b6-8751-226f54fd4e30_1280x720.jpeg",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://luttig.substack.com/p/dont-forget-microsoft",
-      "audio": [],
-      "description": "Understanding the behemoth in Redmond teaches us valuable lessons in cloud infrastructure, startup strategy, and the future of software.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/9c349228-1ca8-4dba-b953-12d78b35ee45/favicon-32x32.png"
-      }
-    }
-  },
-  {
     "id": 30147547,
     "title": "MNT Reform laptop has fully open hardware and software–for better or worse",
     "url": "https://arstechnica.com/gadgets/2022/01/review-mnt-reform-laptop-has-fully-open-hardware-and-software-for-better-or-worse/",
@@ -1353,32 +891,20 @@
     "publisher": "Ars Technica",
     "description": "Slow ARM CPU almost single-handedly derails an intriguing laptop experiment.",
     "by": "leephillips",
-    "points": 6,
+    "points": 8,
     "comment_count": 0,
     "hn_item": {
-      "by": "lowleveldesign",
-      "descendants": 62,
-      "id": 30128048,
+      "by": "prismatic",
+      "descendants": 0,
+      "id": 30110679,
       "kids": [
-        30141402,
-        30141034,
-        30141162,
-        30140452,
-        30141094,
-        30143338,
-        30144500,
-        30144278,
-        30144460,
-        30144489,
-        30145419,
-        30140903,
-        30140096
+        30143708
       ],
-      "score": 82,
-      "time": 1643476281,
-      "title": "COM+ Revisited",
+      "score": 15,
+      "time": 1643343649,
+      "title": "Bringing Ancient Pottery to Life",
       "type": "story",
-      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
+      "url": "https://news.harvard.edu/gazette/story/2021/09/harvard-ceramics-program-recreates-art-museums-pieces/"
     },
     "og_item": {
       "title": "Review: MNT Reform laptop has fully open hardware and software—for better or worse",
@@ -1407,6 +933,243 @@
     }
   },
   {
+    "id": 30143587,
+    "title": "Ylang: Universal Language for eBPF, Stap+, GDB, and More (2021)",
+    "url": "https://blog.openresty.com/en/ylang-intro-part4/",
+    "time": 1643594248,
+    "image": "",
+    "icon": "https://blog.openresty.com/favicon-16x16.png",
+    "publisher": "blog.openresty.com",
+    "description": "Transparent Container Tracing Efficient Stack Unwinding Analyzing Dead Processes (Core Dumps) Very Low Tracing Overhead Standard Ylang Libraries \u0026amp; Tools Network Filtering \u0026amp; Control The Ylang Compiler\u0026rsquo;s Implementation Operating System Support Contributions to Open-Source Communities",
+    "by": "walterbell",
+    "points": 62,
+    "comment_count": 7,
+    "hn_item": {
+      "by": "prismatic",
+      "descendants": 0,
+      "id": 30110679,
+      "kids": [
+        30143708
+      ],
+      "score": 15,
+      "time": 1643343649,
+      "title": "Bringing Ancient Pottery to Life",
+      "type": "story",
+      "url": "https://news.harvard.edu/gazette/story/2021/09/harvard-ceramics-program-recreates-art-museums-pieces/"
+    },
+    "og_item": {
+      "title": "Ylang: Universal Language for eBPF, Stap+, GDB, and More (Part 4) - OpenResty Official Blog",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": " Transparent Container Tracing Efficient Stack Unwinding Analyzing Dead Processes (Core Dumps) Very Low Tracing Overhead Standard Ylang Libraries \u0026amp; Tools Network Filtering \u0026amp; Control The Ylang Compiler\u0026rsquo;s Implementation Operating System Support Contributions to Open-Source Communities  ",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon-16x16.png"
+      }
+    }
+  },
+  {
+    "id": 30146843,
+    "title": "1k-cycle lithium-sulfur battery could quintuple electric vehicle ranges",
+    "url": "https://news.umich.edu/1000-cycle-lithium-sulfur-battery-could-quintuple-electric-vehicle-ranges/",
+    "time": 1643628054,
+    "image": "https://news.umich.edu/wp-content/uploads/mc-image-cache/2022/01/1000-cycle-lithium-sulfur-battery-could-quintuple-electric-vehicle-ranges-LiS-Battery-Diagram.jpg",
+    "icon": "https://news.umich.edu/favicon.ico",
+    "publisher": "University of Michigan News",
+    "description": "A new biologically inspired battery membrane has enabled a battery with five times the capacity of the industry-standard lithium ion design to run for the thousand-plus cycles needed to power an electric car.\n\nA network of aramid nanofibers, recycled from Kevlar, can enable lithium-sulfur batterie",
+    "by": "maeln",
+    "points": 45,
+    "comment_count": 11,
+    "hn_item": {
+      "by": "prismatic",
+      "descendants": 0,
+      "id": 30110679,
+      "kids": [
+        30143708
+      ],
+      "score": 15,
+      "time": 1643343649,
+      "title": "Bringing Ancient Pottery to Life",
+      "type": "story",
+      "url": "https://news.harvard.edu/gazette/story/2021/09/harvard-ceramics-program-recreates-art-museums-pieces/"
+    },
+    "og_item": {
+      "title": "1,000-cycle lithium-sulfur battery could quintuple electric vehicle ranges",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://news.umich.edu/wp-content/uploads/mc-image-cache/2022/01/1000-cycle-lithium-sulfur-battery-could-quintuple-electric-vehicle-ranges-LiS-Battery-Diagram.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://news.umich.edu/1000-cycle-lithium-sulfur-battery-could-quintuple-electric-vehicle-ranges/",
+      "audio": [],
+      "description": "A new biologically inspired battery membrane has enabled a battery with five times the capacity of the industry-standard lithium ion design to run for the thousand-plus cycles needed to power an electric car.\n\nA network of aramid nanofibers, recycled from Kevlar, can enable lithium-sulfur batterie",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "University of Michigan News",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30141192,
+    "title": "Don't forget Microsoft",
+    "url": "https://luttig.substack.com/p/dont-forget-microsoft",
+    "time": 1643577413,
+    "image": "https://cdn.substack.com/image/fetch/w_1200,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8ddf68e0-c549-49b6-8751-226f54fd4e30_1280x720.jpeg",
+    "icon": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/9c349228-1ca8-4dba-b953-12d78b35ee45/favicon-32x32.png",
+    "publisher": "luttig.substack.com",
+    "description": "Understanding the behemoth in Redmond teaches us valuable lessons in cloud infrastructure, startup strategy, and the future of software.",
+    "by": "SamvitJ",
+    "points": 373,
+    "comment_count": 62,
+    "hn_item": {
+      "by": "prismatic",
+      "descendants": 0,
+      "id": 30110679,
+      "kids": [
+        30143708
+      ],
+      "score": 15,
+      "time": 1643343649,
+      "title": "Bringing Ancient Pottery to Life",
+      "type": "story",
+      "url": "https://news.harvard.edu/gazette/story/2021/09/harvard-ceramics-program-recreates-art-museums-pieces/"
+    },
+    "og_item": {
+      "title": "Don’t forget Microsoft",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://cdn.substack.com/image/fetch/w_1200,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8ddf68e0-c549-49b6-8751-226f54fd4e30_1280x720.jpeg",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://luttig.substack.com/p/dont-forget-microsoft",
+      "audio": [],
+      "description": "Understanding the behemoth in Redmond teaches us valuable lessons in cloud infrastructure, startup strategy, and the future of software.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/9c349228-1ca8-4dba-b953-12d78b35ee45/favicon-32x32.png"
+      }
+    }
+  },
+  {
+    "id": 30141278,
+    "title": "The Story of Maxis Software (1999)",
+    "url": "https://web.archive.org/web/19991012021220/http://gamespot.com/features/maxis/index.html",
+    "time": 1643577913,
+    "image": "",
+    "icon": "https://web.archive.org/favicon.ico",
+    "publisher": "web.archive.org",
+    "description": "",
+    "by": "ecliptik",
+    "points": 127,
+    "comment_count": 11,
+    "hn_item": {
+      "by": "prismatic",
+      "descendants": 0,
+      "id": 30110679,
+      "kids": [
+        30143708
+      ],
+      "score": 15,
+      "time": 1643343649,
+      "title": "Bringing Ancient Pottery to Life",
+      "type": "story",
+      "url": "https://news.harvard.edu/gazette/story/2021/09/harvard-ceramics-program-recreates-art-museums-pieces/"
+    },
+    "og_item": {
+      "title": "GameSpot's SIMply Divine: The Story of Maxis Software",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30143946,
+    "title": "Mesmerizing Labor",
+    "url": "https://daily.jstor.org/mesmerizing-labor/",
+    "time": 1643597651,
+    "image": "https://daily.jstor.org/wp-content/uploads/2022/01/mesmerizing_labor_1050x700.jpg",
+    "icon": "https://daily.jstor.org/wp-content/uploads/2017/12/cropped-new_daily_favicon-300x300.png",
+    "publisher": "JSTOR Daily",
+    "description": "The man who introduced mesmerism to the US was a slave-owner from Guadeloupe, where planters were experimenting with “magnetizing” their enslaved people.",
+    "by": "onychomys",
+    "points": 41,
+    "comment_count": 5,
+    "hn_item": {
+      "by": "prismatic",
+      "descendants": 0,
+      "id": 30110679,
+      "kids": [
+        30143708
+      ],
+      "score": 15,
+      "time": 1643343649,
+      "title": "Bringing Ancient Pottery to Life",
+      "type": "story",
+      "url": "https://news.harvard.edu/gazette/story/2021/09/harvard-ceramics-program-recreates-art-museums-pieces/"
+    },
+    "og_item": {
+      "title": "Mesmerizing Labor - JSTOR Daily",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://daily.jstor.org/wp-content/uploads/2022/01/mesmerizing_labor_1050x700.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 1050,
+          "height": 700,
+          "alt": ""
+        }
+      ],
+      "url": "https://daily.jstor.org/mesmerizing-labor/",
+      "audio": [],
+      "description": "The man who introduced mesmerism to the US was a slave-owner from Guadeloupe, where planters were experimenting with “magnetizing” their enslaved people.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "JSTOR Daily",
+      "video": [],
+      "favicon": {
+        "url": "https://daily.jstor.org/wp-content/uploads/2017/12/cropped-new_daily_favicon-300x300.png"
+      }
+    }
+  },
+  {
     "id": 30119800,
     "title": "How the Hall Effect Still Reverberates",
     "url": "https://spectrum.ieee.org/hall-effect-sensor",
@@ -1419,29 +1182,17 @@
     "points": 16,
     "comment_count": 0,
     "hn_item": {
-      "by": "lowleveldesign",
-      "descendants": 62,
-      "id": 30128048,
+      "by": "prismatic",
+      "descendants": 0,
+      "id": 30110679,
       "kids": [
-        30141402,
-        30141034,
-        30141162,
-        30140452,
-        30141094,
-        30143338,
-        30144500,
-        30144278,
-        30144460,
-        30144489,
-        30145419,
-        30140903,
-        30140096
+        30143708
       ],
-      "score": 82,
-      "time": 1643476281,
-      "title": "COM+ Revisited",
+      "score": 15,
+      "time": 1643343649,
+      "title": "Bringing Ancient Pottery to Life",
       "type": "story",
-      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
+      "url": "https://news.harvard.edu/gazette/story/2021/09/harvard-ceramics-program-recreates-art-museums-pieces/"
     },
     "og_item": {
       "title": "How the Hall Effect Still Reverberates",
@@ -1482,29 +1233,17 @@
     "points": 88,
     "comment_count": 10,
     "hn_item": {
-      "by": "lowleveldesign",
-      "descendants": 62,
-      "id": 30128048,
+      "by": "prismatic",
+      "descendants": 0,
+      "id": 30110679,
       "kids": [
-        30141402,
-        30141034,
-        30141162,
-        30140452,
-        30141094,
-        30143338,
-        30144500,
-        30144278,
-        30144460,
-        30144489,
-        30145419,
-        30140903,
-        30140096
+        30143708
       ],
-      "score": 82,
-      "time": 1643476281,
-      "title": "COM+ Revisited",
+      "score": 15,
+      "time": 1643343649,
+      "title": "Bringing Ancient Pottery to Life",
       "type": "story",
-      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
+      "url": "https://news.harvard.edu/gazette/story/2021/09/harvard-ceramics-program-recreates-art-museums-pieces/"
     },
     "og_item": {
       "title": "Game Performance Optimization - A Practical Example From Industry Idle",
@@ -1524,69 +1263,6 @@
     }
   },
   {
-    "id": 30143946,
-    "title": "Mesmerizing Labor",
-    "url": "https://daily.jstor.org/mesmerizing-labor/",
-    "time": 1643597651,
-    "image": "https://daily.jstor.org/wp-content/uploads/2022/01/mesmerizing_labor_1050x700.jpg",
-    "icon": "https://daily.jstor.org/wp-content/uploads/2017/12/cropped-new_daily_favicon-300x300.png",
-    "publisher": "JSTOR Daily",
-    "description": "The man who introduced mesmerism to the US was a slave-owner from Guadeloupe, where planters were experimenting with “magnetizing” their enslaved people.",
-    "by": "onychomys",
-    "points": 40,
-    "comment_count": 5,
-    "hn_item": {
-      "by": "lowleveldesign",
-      "descendants": 62,
-      "id": 30128048,
-      "kids": [
-        30141402,
-        30141034,
-        30141162,
-        30140452,
-        30141094,
-        30143338,
-        30144500,
-        30144278,
-        30144460,
-        30144489,
-        30145419,
-        30140903,
-        30140096
-      ],
-      "score": 82,
-      "time": 1643476281,
-      "title": "COM+ Revisited",
-      "type": "story",
-      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
-    },
-    "og_item": {
-      "title": "Mesmerizing Labor - JSTOR Daily",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://daily.jstor.org/wp-content/uploads/2022/01/mesmerizing_labor_1050x700.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 1050,
-          "height": 700,
-          "alt": ""
-        }
-      ],
-      "url": "https://daily.jstor.org/mesmerizing-labor/",
-      "audio": [],
-      "description": "The man who introduced mesmerism to the US was a slave-owner from Guadeloupe, where planters were experimenting with “magnetizing” their enslaved people.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "JSTOR Daily",
-      "video": [],
-      "favicon": {
-        "url": "https://daily.jstor.org/wp-content/uploads/2017/12/cropped-new_daily_favicon-300x300.png"
-      }
-    }
-  },
-  {
     "id": 30141439,
     "title": "Operation Warp Speed: A new model for industrial policy",
     "url": "https://americanaffairsjournal.org/2021/05/inside-operation-warp-speed-a-new-model-for-industrial-policy/",
@@ -1599,29 +1275,17 @@
     "points": 132,
     "comment_count": 10,
     "hn_item": {
-      "by": "lowleveldesign",
-      "descendants": 62,
-      "id": 30128048,
+      "by": "prismatic",
+      "descendants": 0,
+      "id": 30110679,
       "kids": [
-        30141402,
-        30141034,
-        30141162,
-        30140452,
-        30141094,
-        30143338,
-        30144500,
-        30144278,
-        30144460,
-        30144489,
-        30145419,
-        30140903,
-        30140096
+        30143708
       ],
-      "score": 82,
-      "time": 1643476281,
-      "title": "COM+ Revisited",
+      "score": 15,
+      "time": 1643343649,
+      "title": "Bringing Ancient Pottery to Life",
       "type": "story",
-      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
+      "url": "https://news.harvard.edu/gazette/story/2021/09/harvard-ceramics-program-recreates-art-museums-pieces/"
     },
     "og_item": {
       "title": "Inside Operation Warp Speed: A New Model for Industrial Policy - American Affairs Journal",
@@ -1662,29 +1326,17 @@
     "points": 594,
     "comment_count": 39,
     "hn_item": {
-      "by": "lowleveldesign",
-      "descendants": 62,
-      "id": 30128048,
+      "by": "prismatic",
+      "descendants": 0,
+      "id": 30110679,
       "kids": [
-        30141402,
-        30141034,
-        30141162,
-        30140452,
-        30141094,
-        30143338,
-        30144500,
-        30144278,
-        30144460,
-        30144489,
-        30145419,
-        30140903,
-        30140096
+        30143708
       ],
-      "score": 82,
-      "time": 1643476281,
-      "title": "COM+ Revisited",
+      "score": 15,
+      "time": 1643343649,
+      "title": "Bringing Ancient Pottery to Life",
       "type": "story",
-      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
+      "url": "https://news.harvard.edu/gazette/story/2021/09/harvard-ceramics-program-recreates-art-museums-pieces/"
     },
     "og_item": {
       "title": "Bike Tire | Fahrrad-Tools.de",
@@ -1704,6 +1356,48 @@
     }
   },
   {
+    "id": 30140984,
+    "title": "A UX designer walks into a Tesla Bar",
+    "url": "https://jenson.org/tesla/",
+    "time": 1643576121,
+    "image": "",
+    "icon": "https://jenson.org/wp-content/uploads/2015/09/out-200x200.png",
+    "publisher": "jenson.org",
+    "description": "",
+    "by": "radley",
+    "points": 841,
+    "comment_count": 107,
+    "hn_item": {
+      "by": "prismatic",
+      "descendants": 0,
+      "id": 30110679,
+      "kids": [
+        30143708
+      ],
+      "score": 15,
+      "time": 1643343649,
+      "title": "Bringing Ancient Pottery to Life",
+      "type": "story",
+      "url": "https://news.harvard.edu/gazette/story/2021/09/harvard-ceramics-program-recreates-art-museums-pieces/"
+    },
+    "og_item": {
+      "title": "A UX designer walks into a Tesla Bar – Scott Jenson",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "https://jenson.org/wp-content/uploads/2015/09/out-200x200.png"
+      }
+    }
+  },
+  {
     "id": 30117500,
     "title": "Plain Geology (1921)",
     "url": "https://pubs.usgs.gov/gip/plain.html",
@@ -1716,29 +1410,17 @@
     "points": 6,
     "comment_count": 1,
     "hn_item": {
-      "by": "lowleveldesign",
-      "descendants": 62,
-      "id": 30128048,
+      "by": "prismatic",
+      "descendants": 0,
+      "id": 30110679,
       "kids": [
-        30141402,
-        30141034,
-        30141162,
-        30140452,
-        30141094,
-        30143338,
-        30144500,
-        30144278,
-        30144460,
-        30144489,
-        30145419,
-        30140903,
-        30140096
+        30143708
       ],
-      "score": 82,
-      "time": 1643476281,
-      "title": "COM+ Revisited",
+      "score": 15,
+      "time": 1643343649,
+      "title": "Bringing Ancient Pottery to Life",
       "type": "story",
-      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
+      "url": "https://news.harvard.edu/gazette/story/2021/09/harvard-ceramics-program-recreates-art-museums-pieces/"
     },
     "og_item": {
       "title": "Plain Geology",
@@ -1770,29 +1452,17 @@
     "points": 53,
     "comment_count": 3,
     "hn_item": {
-      "by": "lowleveldesign",
-      "descendants": 62,
-      "id": 30128048,
+      "by": "prismatic",
+      "descendants": 0,
+      "id": 30110679,
       "kids": [
-        30141402,
-        30141034,
-        30141162,
-        30140452,
-        30141094,
-        30143338,
-        30144500,
-        30144278,
-        30144460,
-        30144489,
-        30145419,
-        30140903,
-        30140096
+        30143708
       ],
-      "score": 82,
-      "time": 1643476281,
-      "title": "COM+ Revisited",
+      "score": 15,
+      "time": 1643343649,
+      "title": "Bringing Ancient Pottery to Life",
       "type": "story",
-      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
+      "url": "https://news.harvard.edu/gazette/story/2021/09/harvard-ceramics-program-recreates-art-museums-pieces/"
     },
     "og_item": {
       "title": "Lizard Scale Patterns Described with Antiferromagnetic Model",
@@ -1821,60 +1491,6 @@
     }
   },
   {
-    "id": 30140984,
-    "title": "A UX designer walks into a Tesla Bar",
-    "url": "https://jenson.org/tesla/",
-    "time": 1643576121,
-    "image": "",
-    "icon": "https://jenson.org/wp-content/uploads/2015/09/out-200x200.png",
-    "publisher": "jenson.org",
-    "description": "",
-    "by": "radley",
-    "points": 840,
-    "comment_count": 107,
-    "hn_item": {
-      "by": "lowleveldesign",
-      "descendants": 62,
-      "id": 30128048,
-      "kids": [
-        30141402,
-        30141034,
-        30141162,
-        30140452,
-        30141094,
-        30143338,
-        30144500,
-        30144278,
-        30144460,
-        30144489,
-        30145419,
-        30140903,
-        30140096
-      ],
-      "score": 82,
-      "time": 1643476281,
-      "title": "COM+ Revisited",
-      "type": "story",
-      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
-    },
-    "og_item": {
-      "title": "A UX designer walks into a Tesla Bar – Scott Jenson",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "https://jenson.org/wp-content/uploads/2015/09/out-200x200.png"
-      }
-    }
-  },
-  {
     "id": 30140464,
     "title": "The Great Unconformity: Research points to glaciers being the culprit",
     "url": "https://www.vice.com/en/article/wxdzzb/a-billion-years-of-time-are-mysteriously-missing-scientists-think-they-know-why",
@@ -1887,29 +1503,17 @@
     "points": 82,
     "comment_count": 4,
     "hn_item": {
-      "by": "lowleveldesign",
-      "descendants": 62,
-      "id": 30128048,
+      "by": "prismatic",
+      "descendants": 0,
+      "id": 30110679,
       "kids": [
-        30141402,
-        30141034,
-        30141162,
-        30140452,
-        30141094,
-        30143338,
-        30144500,
-        30144278,
-        30144460,
-        30144489,
-        30145419,
-        30140903,
-        30140096
+        30143708
       ],
-      "score": 82,
-      "time": 1643476281,
-      "title": "COM+ Revisited",
+      "score": 15,
+      "time": 1643343649,
+      "title": "Bringing Ancient Pottery to Life",
       "type": "story",
-      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
+      "url": "https://news.harvard.edu/gazette/story/2021/09/harvard-ceramics-program-recreates-art-museums-pieces/"
     },
     "og_item": {
       "title": "A Billion Years of Time Are Mysteriously Missing. Scientists Think They Know Why.",
@@ -1950,29 +1554,17 @@
     "points": 128,
     "comment_count": 11,
     "hn_item": {
-      "by": "lowleveldesign",
-      "descendants": 62,
-      "id": 30128048,
+      "by": "prismatic",
+      "descendants": 0,
+      "id": 30110679,
       "kids": [
-        30141402,
-        30141034,
-        30141162,
-        30140452,
-        30141094,
-        30143338,
-        30144500,
-        30144278,
-        30144460,
-        30144489,
-        30145419,
-        30140903,
-        30140096
+        30143708
       ],
-      "score": 82,
-      "time": 1643476281,
-      "title": "COM+ Revisited",
+      "score": 15,
+      "time": 1643343649,
+      "title": "Bringing Ancient Pottery to Life",
       "type": "story",
-      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
+      "url": "https://news.harvard.edu/gazette/story/2021/09/harvard-ceramics-program-recreates-art-museums-pieces/"
     },
     "og_item": {
       "title": "Devious SQL: Message Queuing Using Native PostgreSQL",
@@ -2013,29 +1605,17 @@
     "points": 62,
     "comment_count": 10,
     "hn_item": {
-      "by": "lowleveldesign",
-      "descendants": 62,
-      "id": 30128048,
+      "by": "prismatic",
+      "descendants": 0,
+      "id": 30110679,
       "kids": [
-        30141402,
-        30141034,
-        30141162,
-        30140452,
-        30141094,
-        30143338,
-        30144500,
-        30144278,
-        30144460,
-        30144489,
-        30145419,
-        30140903,
-        30140096
+        30143708
       ],
-      "score": 82,
-      "time": 1643476281,
-      "title": "COM+ Revisited",
+      "score": 15,
+      "time": 1643343649,
+      "title": "Bringing Ancient Pottery to Life",
       "type": "story",
-      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
+      "url": "https://news.harvard.edu/gazette/story/2021/09/harvard-ceramics-program-recreates-art-museums-pieces/"
     },
     "og_item": {
       "title": "403 Forbidden",
@@ -2067,29 +1647,17 @@
     "points": 134,
     "comment_count": 25,
     "hn_item": {
-      "by": "lowleveldesign",
-      "descendants": 62,
-      "id": 30128048,
+      "by": "prismatic",
+      "descendants": 0,
+      "id": 30110679,
       "kids": [
-        30141402,
-        30141034,
-        30141162,
-        30140452,
-        30141094,
-        30143338,
-        30144500,
-        30144278,
-        30144460,
-        30144489,
-        30145419,
-        30140903,
-        30140096
+        30143708
       ],
-      "score": 82,
-      "time": 1643476281,
-      "title": "COM+ Revisited",
+      "score": 15,
+      "time": 1643343649,
+      "title": "Bringing Ancient Pottery to Life",
       "type": "story",
-      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
+      "url": "https://news.harvard.edu/gazette/story/2021/09/harvard-ceramics-program-recreates-art-museums-pieces/"
     },
     "og_item": {
       "title": "State of the Web: Static Site Generators",
@@ -2130,29 +1698,17 @@
     "points": 54,
     "comment_count": 1,
     "hn_item": {
-      "by": "lowleveldesign",
-      "descendants": 62,
-      "id": 30128048,
+      "by": "prismatic",
+      "descendants": 0,
+      "id": 30110679,
       "kids": [
-        30141402,
-        30141034,
-        30141162,
-        30140452,
-        30141094,
-        30143338,
-        30144500,
-        30144278,
-        30144460,
-        30144489,
-        30145419,
-        30140903,
-        30140096
+        30143708
       ],
-      "score": 82,
-      "time": 1643476281,
-      "title": "COM+ Revisited",
+      "score": 15,
+      "time": 1643343649,
+      "title": "Bringing Ancient Pottery to Life",
       "type": "story",
-      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
+      "url": "https://news.harvard.edu/gazette/story/2021/09/harvard-ceramics-program-recreates-art-museums-pieces/"
     },
     "og_item": {
       "title": "A couple years ago, I created this list: immersive: walking taking a shower sleeping teaching falling in love cinema life or death experience I was curious about these amazing parts of life that feel so meaningful — like portals, where time and space take on a totally different, enchanted feeling. I remember writing this list… – blog.laurel.world",
@@ -2181,32 +1737,20 @@
     "publisher": "recur-env.eba-rm3fchmn.us-eas…",
     "description": "",
     "by": "ShamelessC",
-    "points": 65,
+    "points": 66,
     "comment_count": 13,
     "hn_item": {
-      "by": "lowleveldesign",
-      "descendants": 62,
-      "id": 30128048,
+      "by": "prismatic",
+      "descendants": 0,
+      "id": 30110679,
       "kids": [
-        30141402,
-        30141034,
-        30141162,
-        30140452,
-        30141094,
-        30143338,
-        30144500,
-        30144278,
-        30144460,
-        30144489,
-        30145419,
-        30140903,
-        30140096
+        30143708
       ],
-      "score": 82,
-      "time": 1643476281,
-      "title": "COM+ Revisited",
+      "score": 15,
+      "time": 1643343649,
+      "title": "Bringing Ancient Pottery to Life",
       "type": "story",
-      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
+      "url": "https://news.harvard.edu/gazette/story/2021/09/harvard-ceramics-program-recreates-art-museums-pieces/"
     },
     "og_item": {
       "title": "Streamlit",
@@ -2238,29 +1782,17 @@
     "points": 3,
     "comment_count": 0,
     "hn_item": {
-      "by": "lowleveldesign",
-      "descendants": 62,
-      "id": 30128048,
+      "by": "prismatic",
+      "descendants": 0,
+      "id": 30110679,
       "kids": [
-        30141402,
-        30141034,
-        30141162,
-        30140452,
-        30141094,
-        30143338,
-        30144500,
-        30144278,
-        30144460,
-        30144489,
-        30145419,
-        30140903,
-        30140096
+        30143708
       ],
-      "score": 82,
-      "time": 1643476281,
-      "title": "COM+ Revisited",
+      "score": 15,
+      "time": 1643343649,
+      "title": "Bringing Ancient Pottery to Life",
       "type": "story",
-      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
+      "url": "https://news.harvard.edu/gazette/story/2021/09/harvard-ceramics-program-recreates-art-museums-pieces/"
     },
     "og_item": {
       "title": "Assembling Accountability, from the Ground Up",
@@ -2289,60 +1821,6 @@
     }
   },
   {
-    "id": 30146918,
-    "title": "Qubit appeals to the honour of thieves who lifted $80M of its digi-dollars",
-    "url": "https://www.theregister.com/2022/01/31/qubit_bug_bounty/",
-    "time": 1643628811,
-    "image": "",
-    "icon": "https://www.theregister.com/favicon.ico",
-    "publisher": "theregister.com",
-    "description": "",
-    "by": "pseudolus",
-    "points": 9,
-    "comment_count": 1,
-    "hn_item": {
-      "by": "lowleveldesign",
-      "descendants": 62,
-      "id": 30128048,
-      "kids": [
-        30141402,
-        30141034,
-        30141162,
-        30140452,
-        30141094,
-        30143338,
-        30144500,
-        30144278,
-        30144460,
-        30144489,
-        30145419,
-        30140903,
-        30140096
-      ],
-      "score": 82,
-      "time": 1643476281,
-      "title": "COM+ Revisited",
-      "type": "story",
-      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
-    },
-    "og_item": {
-      "title": "",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30111033,
     "title": "Toxic black mold is growing in my brain",
     "url": "https://www.buzzfeednews.com/article/tysonbottenus/black-mold-growing-toxic-brain-vacation",
@@ -2355,29 +1833,17 @@
     "points": 215,
     "comment_count": 10,
     "hn_item": {
-      "by": "lowleveldesign",
-      "descendants": 62,
-      "id": 30128048,
+      "by": "prismatic",
+      "descendants": 0,
+      "id": 30110679,
       "kids": [
-        30141402,
-        30141034,
-        30141162,
-        30140452,
-        30141094,
-        30143338,
-        30144500,
-        30144278,
-        30144460,
-        30144489,
-        30145419,
-        30140903,
-        30140096
+        30143708
       ],
-      "score": 82,
-      "time": 1643476281,
-      "title": "COM+ Revisited",
+      "score": 15,
+      "time": 1643343649,
+      "title": "Bringing Ancient Pottery to Life",
       "type": "story",
-      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
+      "url": "https://news.harvard.edu/gazette/story/2021/09/harvard-ceramics-program-recreates-art-museums-pieces/"
     },
     "og_item": {
       "title": "Toxic Black Mold Is Growing On My Brain",
@@ -2406,58 +1872,37 @@
     }
   },
   {
-    "id": 30144673,
-    "title": "Will Tokens Replace Equity?",
-    "url": "https://every.to/napkin-math/will-tokens-replace-equity",
-    "time": 1643605204,
-    "image": "https://d24ovhgu8s7341.cloudfront.net/uploads/post/cover/2019/Screen_Shot_2022-01-27_at_1.43.25_PM.png",
-    "icon": "https://every.to/favicon.ico",
-    "publisher": "every.to",
-    "description": "The Weird Future Ahead",
-    "by": "enigmatic02",
-    "points": 11,
-    "comment_count": 3,
+    "id": 30146918,
+    "title": "Qubit appeals to the honour of thieves who lifted $80M of its digi-dollars",
+    "url": "https://www.theregister.com/2022/01/31/qubit_bug_bounty/",
+    "time": 1643628811,
+    "image": "",
+    "icon": "https://www.theregister.com/favicon.ico",
+    "publisher": "theregister.com",
+    "description": "",
+    "by": "pseudolus",
+    "points": 9,
+    "comment_count": 1,
     "hn_item": {
-      "by": "lowleveldesign",
-      "descendants": 62,
-      "id": 30128048,
+      "by": "prismatic",
+      "descendants": 0,
+      "id": 30110679,
       "kids": [
-        30141402,
-        30141034,
-        30141162,
-        30140452,
-        30141094,
-        30143338,
-        30144500,
-        30144278,
-        30144460,
-        30144489,
-        30145419,
-        30140903,
-        30140096
+        30143708
       ],
-      "score": 82,
-      "time": 1643476281,
-      "title": "COM+ Revisited",
+      "score": 15,
+      "time": 1643343649,
+      "title": "Bringing Ancient Pottery to Life",
       "type": "story",
-      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
+      "url": "https://news.harvard.edu/gazette/story/2021/09/harvard-ceramics-program-recreates-art-museums-pieces/"
     },
     "og_item": {
-      "title": "Will Tokens Replace Equity?",
+      "title": "",
       "type": "",
-      "image": [
-        {
-          "url": "https://d24ovhgu8s7341.cloudfront.net/uploads/post/cover/2019/Screen_Shot_2022-01-27_at_1.43.25_PM.png",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://every.to/napkin-math/will-tokens-replace-equity",
+      "image": [],
+      "url": "",
       "audio": [],
-      "description": "The Weird Future Ahead ",
+      "description": "",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
@@ -2481,29 +1926,17 @@
     "points": 267,
     "comment_count": 33,
     "hn_item": {
-      "by": "lowleveldesign",
-      "descendants": 62,
-      "id": 30128048,
+      "by": "prismatic",
+      "descendants": 0,
+      "id": 30110679,
       "kids": [
-        30141402,
-        30141034,
-        30141162,
-        30140452,
-        30141094,
-        30143338,
-        30144500,
-        30144278,
-        30144460,
-        30144489,
-        30145419,
-        30140903,
-        30140096
+        30143708
       ],
-      "score": 82,
-      "time": 1643476281,
-      "title": "COM+ Revisited",
+      "score": 15,
+      "time": 1643343649,
+      "title": "Bringing Ancient Pottery to Life",
       "type": "story",
-      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
+      "url": "https://news.harvard.edu/gazette/story/2021/09/harvard-ceramics-program-recreates-art-museums-pieces/"
     },
     "og_item": {
       "title": "John Locke’s recipe for Pancakes",
@@ -2532,6 +1965,57 @@
     }
   },
   {
+    "id": 30144673,
+    "title": "Will Tokens Replace Equity?",
+    "url": "https://every.to/napkin-math/will-tokens-replace-equity",
+    "time": 1643605204,
+    "image": "https://d24ovhgu8s7341.cloudfront.net/uploads/post/cover/2019/Screen_Shot_2022-01-27_at_1.43.25_PM.png",
+    "icon": "https://every.to/favicon.ico",
+    "publisher": "every.to",
+    "description": "The Weird Future Ahead",
+    "by": "enigmatic02",
+    "points": 11,
+    "comment_count": 3,
+    "hn_item": {
+      "by": "prismatic",
+      "descendants": 0,
+      "id": 30110679,
+      "kids": [
+        30143708
+      ],
+      "score": 15,
+      "time": 1643343649,
+      "title": "Bringing Ancient Pottery to Life",
+      "type": "story",
+      "url": "https://news.harvard.edu/gazette/story/2021/09/harvard-ceramics-program-recreates-art-museums-pieces/"
+    },
+    "og_item": {
+      "title": "Will Tokens Replace Equity?",
+      "type": "",
+      "image": [
+        {
+          "url": "https://d24ovhgu8s7341.cloudfront.net/uploads/post/cover/2019/Screen_Shot_2022-01-27_at_1.43.25_PM.png",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://every.to/napkin-math/will-tokens-replace-equity",
+      "audio": [],
+      "description": "The Weird Future Ahead ",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30138533,
     "title": "Hypercard Simulator",
     "url": "https://hypercardsimulator.com/",
@@ -2544,29 +2028,17 @@
     "points": 219,
     "comment_count": 14,
     "hn_item": {
-      "by": "lowleveldesign",
-      "descendants": 62,
-      "id": 30128048,
+      "by": "prismatic",
+      "descendants": 0,
+      "id": 30110679,
       "kids": [
-        30141402,
-        30141034,
-        30141162,
-        30140452,
-        30141094,
-        30143338,
-        30144500,
-        30144278,
-        30144460,
-        30144489,
-        30145419,
-        30140903,
-        30140096
+        30143708
       ],
-      "score": 82,
-      "time": 1643476281,
-      "title": "COM+ Revisited",
+      "score": 15,
+      "time": 1643343649,
+      "title": "Bringing Ancient Pottery to Life",
       "type": "story",
-      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
+      "url": "https://news.harvard.edu/gazette/story/2021/09/harvard-ceramics-program-recreates-art-museums-pieces/"
     },
     "og_item": {
       "title": "HyperCardSimulator",
@@ -2586,69 +2058,6 @@
     }
   },
   {
-    "id": 30147159,
-    "title": "How Facebook Is Morphing into Meta",
-    "url": "https://www.nytimes.com/2022/01/31/technology/facebook-meta-change.html",
-    "time": 1643631642,
-    "image": "https://static01.nyt.com/images/2022/01/29/business/29facebook-pivot/29facebook-pivot-facebookJumbo.jpg",
-    "icon": "https://www.nytimes.com/vi-assets/static-assets/favicon-d2483f10ef688e6f89e23806b9700298.ico",
-    "publisher": "The New York Times",
-    "description": "Shifting a 68,000-person social networking company toward the theoretical metaverse has caused internal disruption and uncertainty.",
-    "by": "mupuff1234",
-    "points": 6,
-    "comment_count": 4,
-    "hn_item": {
-      "by": "lowleveldesign",
-      "descendants": 62,
-      "id": 30128048,
-      "kids": [
-        30141402,
-        30141034,
-        30141162,
-        30140452,
-        30141094,
-        30143338,
-        30144500,
-        30144278,
-        30144460,
-        30144489,
-        30145419,
-        30140903,
-        30140096
-      ],
-      "score": 82,
-      "time": 1643476281,
-      "title": "COM+ Revisited",
-      "type": "story",
-      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
-    },
-    "og_item": {
-      "title": "How Facebook Is Morphing Into Meta",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://static01.nyt.com/images/2022/01/29/business/29facebook-pivot/29facebook-pivot-facebookJumbo.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://www.nytimes.com/2022/01/31/technology/facebook-meta-change.html",
-      "audio": [],
-      "description": "Shifting a 68,000-person social networking company toward the theoretical metaverse has caused internal disruption and uncertainty.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/vi-assets/static-assets/favicon-d2483f10ef688e6f89e23806b9700298.ico"
-      }
-    }
-  },
-  {
     "id": 30142247,
     "title": "Basic Cryptography – The Vigenere Cipher",
     "url": "https://eric.mann.blog/basic-cryptography-the-vigenere-cipher/",
@@ -2661,29 +2070,17 @@
     "points": 36,
     "comment_count": 7,
     "hn_item": {
-      "by": "lowleveldesign",
-      "descendants": 62,
-      "id": 30128048,
+      "by": "prismatic",
+      "descendants": 0,
+      "id": 30110679,
       "kids": [
-        30141402,
-        30141034,
-        30141162,
-        30140452,
-        30141094,
-        30143338,
-        30144500,
-        30144278,
-        30144460,
-        30144489,
-        30145419,
-        30140903,
-        30140096
+        30143708
       ],
-      "score": 82,
-      "time": 1643476281,
-      "title": "COM+ Revisited",
+      "score": 15,
+      "time": 1643343649,
+      "title": "Bringing Ancient Pottery to Life",
       "type": "story",
-      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
+      "url": "https://news.harvard.edu/gazette/story/2021/09/harvard-ceramics-program-recreates-art-museums-pieces/"
     },
     "og_item": {
       "title": "Basic cryptography - the Vigenere cipher - Eric Mann's Blog",
@@ -2712,69 +2109,6 @@
     }
   },
   {
-    "id": 30135190,
-    "title": "FunctionStomping – A new shellcode injection technique",
-    "url": "https://github.com/Idov31/FunctionStomping",
-    "time": 1643533222,
-    "image": "https://opengraph.githubassets.com/4bfb8561770d900d27b7d93c85cb875bc830910e7cf19757952471d1f3aee40a/Idov31/FunctionStomping",
-    "icon": "https://github.githubassets.com/favicons/favicon.svg",
-    "publisher": "GitHub",
-    "description": "A new shellcode injection technique. Given as C++ header or standalone Rust program. - GitHub - Idov31/FunctionStomping: A new shellcode injection technique. Given as C++ header or standalone Rust ...",
-    "by": "maydemir",
-    "points": 35,
-    "comment_count": 3,
-    "hn_item": {
-      "by": "lowleveldesign",
-      "descendants": 62,
-      "id": 30128048,
-      "kids": [
-        30141402,
-        30141034,
-        30141162,
-        30140452,
-        30141094,
-        30143338,
-        30144500,
-        30144278,
-        30144460,
-        30144489,
-        30145419,
-        30140903,
-        30140096
-      ],
-      "score": 82,
-      "time": 1643476281,
-      "title": "COM+ Revisited",
-      "type": "story",
-      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
-    },
-    "og_item": {
-      "title": "GitHub - Idov31/FunctionStomping: A new shellcode injection technique. Given as C++ header or standalone Rust program.",
-      "type": "object",
-      "image": [
-        {
-          "url": "https://opengraph.githubassets.com/4bfb8561770d900d27b7d93c85cb875bc830910e7cf19757952471d1f3aee40a/Idov31/FunctionStomping",
-          "secure_url": "",
-          "type": "",
-          "width": 1200,
-          "height": 600,
-          "alt": ""
-        }
-      ],
-      "url": "https://github.com/Idov31/FunctionStomping",
-      "audio": [],
-      "description": "A new shellcode injection technique. Given as C++ header or standalone Rust program. - GitHub - Idov31/FunctionStomping: A new shellcode injection technique. Given as C++ header or standalone Rust ...",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "GitHub",
-      "video": [],
-      "favicon": {
-        "url": "https://github.githubassets.com/favicons/favicon.svg"
-      }
-    }
-  },
-  {
     "id": 30116262,
     "title": "A Padlock I’d Use [video]",
     "url": "https://www.youtube.com/watch?v=HrV86GqlY8o",
@@ -2787,29 +2121,17 @@
     "points": 147,
     "comment_count": 7,
     "hn_item": {
-      "by": "lowleveldesign",
-      "descendants": 62,
-      "id": 30128048,
+      "by": "prismatic",
+      "descendants": 0,
+      "id": 30110679,
       "kids": [
-        30141402,
-        30141034,
-        30141162,
-        30140452,
-        30141094,
-        30143338,
-        30144500,
-        30144278,
-        30144460,
-        30144489,
-        30145419,
-        30140903,
-        30140096
+        30143708
       ],
-      "score": 82,
-      "time": 1643476281,
-      "title": "COM+ Revisited",
+      "score": 15,
+      "time": 1643343649,
+      "title": "Bringing Ancient Pottery to Life",
       "type": "story",
-      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
+      "url": "https://news.harvard.edu/gazette/story/2021/09/harvard-ceramics-program-recreates-art-museums-pieces/"
     },
     "og_item": {
       "title": "[1398] A Padlock I’d Use: Abus Granit 37RK/80 (Pick \u0026 Gut)",
@@ -2847,6 +2169,57 @@
     }
   },
   {
+    "id": 30135190,
+    "title": "FunctionStomping – A new shellcode injection technique",
+    "url": "https://github.com/Idov31/FunctionStomping",
+    "time": 1643533222,
+    "image": "https://opengraph.githubassets.com/4bfb8561770d900d27b7d93c85cb875bc830910e7cf19757952471d1f3aee40a/Idov31/FunctionStomping",
+    "icon": "https://github.githubassets.com/favicons/favicon.svg",
+    "publisher": "GitHub",
+    "description": "A new shellcode injection technique. Given as C++ header or standalone Rust program. - GitHub - Idov31/FunctionStomping: A new shellcode injection technique. Given as C++ header or standalone Rust ...",
+    "by": "maydemir",
+    "points": 35,
+    "comment_count": 3,
+    "hn_item": {
+      "by": "prismatic",
+      "descendants": 0,
+      "id": 30110679,
+      "kids": [
+        30143708
+      ],
+      "score": 15,
+      "time": 1643343649,
+      "title": "Bringing Ancient Pottery to Life",
+      "type": "story",
+      "url": "https://news.harvard.edu/gazette/story/2021/09/harvard-ceramics-program-recreates-art-museums-pieces/"
+    },
+    "og_item": {
+      "title": "GitHub - Idov31/FunctionStomping: A new shellcode injection technique. Given as C++ header or standalone Rust program.",
+      "type": "object",
+      "image": [
+        {
+          "url": "https://opengraph.githubassets.com/4bfb8561770d900d27b7d93c85cb875bc830910e7cf19757952471d1f3aee40a/Idov31/FunctionStomping",
+          "secure_url": "",
+          "type": "",
+          "width": 1200,
+          "height": 600,
+          "alt": ""
+        }
+      ],
+      "url": "https://github.com/Idov31/FunctionStomping",
+      "audio": [],
+      "description": "A new shellcode injection technique. Given as C++ header or standalone Rust program. - GitHub - Idov31/FunctionStomping: A new shellcode injection technique. Given as C++ header or standalone Rust ...",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "GitHub",
+      "video": [],
+      "favicon": {
+        "url": "https://github.githubassets.com/favicons/favicon.svg"
+      }
+    }
+  },
+  {
     "id": 30122128,
     "title": "Sega quits arcade business after 50 years",
     "url": "https://www.eurogamer.net/articles/2022-01-28-sega-quits-japanese-arcade-business-after-50-years",
@@ -2856,32 +2229,20 @@
     "publisher": "Eurogamer.net",
     "description": "",
     "by": "atombender",
-    "points": 238,
+    "points": 239,
     "comment_count": 26,
     "hn_item": {
-      "by": "lowleveldesign",
-      "descendants": 62,
-      "id": 30128048,
+      "by": "prismatic",
+      "descendants": 0,
+      "id": 30110679,
       "kids": [
-        30141402,
-        30141034,
-        30141162,
-        30140452,
-        30141094,
-        30143338,
-        30144500,
-        30144278,
-        30144460,
-        30144489,
-        30145419,
-        30140903,
-        30140096
+        30143708
       ],
-      "score": 82,
-      "time": 1643476281,
-      "title": "COM+ Revisited",
+      "score": 15,
+      "time": 1643343649,
+      "title": "Bringing Ancient Pottery to Life",
       "type": "story",
-      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
+      "url": "https://news.harvard.edu/gazette/story/2021/09/harvard-ceramics-program-recreates-art-museums-pieces/"
     },
     "og_item": {
       "title": "Sega quits Japanese arcade business after 50 years",
@@ -2910,56 +2271,53 @@
     }
   },
   {
-    "id": 30134367,
-    "title": "The case of the mysterious --help directory (2020)",
-    "url": "https://leahneukirchen.org/blog/archive/2020/05/the-case-of-the-mysterious-help-directory.html",
-    "time": 1643520785,
-    "image": "",
-    "icon": "https://leahneukirchen.org/favicon.ico",
-    "publisher": "leahneukirchen.org",
-    "description": "",
-    "by": "panic",
-    "points": 158,
-    "comment_count": 13,
+    "id": 30147159,
+    "title": "How Facebook Is Morphing into Meta",
+    "url": "https://www.nytimes.com/2022/01/31/technology/facebook-meta-change.html",
+    "time": 1643631642,
+    "image": "https://static01.nyt.com/images/2022/01/29/business/29facebook-pivot/29facebook-pivot-facebookJumbo.jpg",
+    "icon": "https://www.nytimes.com/vi-assets/static-assets/favicon-d2483f10ef688e6f89e23806b9700298.ico",
+    "publisher": "The New York Times",
+    "description": "Shifting a 68,000-person social networking company toward the theoretical metaverse has caused internal disruption and uncertainty.",
+    "by": "mupuff1234",
+    "points": 6,
+    "comment_count": 4,
     "hn_item": {
-      "by": "lowleveldesign",
-      "descendants": 62,
-      "id": 30128048,
+      "by": "prismatic",
+      "descendants": 0,
+      "id": 30110679,
       "kids": [
-        30141402,
-        30141034,
-        30141162,
-        30140452,
-        30141094,
-        30143338,
-        30144500,
-        30144278,
-        30144460,
-        30144489,
-        30145419,
-        30140903,
-        30140096
+        30143708
       ],
-      "score": 82,
-      "time": 1643476281,
-      "title": "COM+ Revisited",
+      "score": 15,
+      "time": 1643343649,
+      "title": "Bringing Ancient Pottery to Life",
       "type": "story",
-      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
+      "url": "https://news.harvard.edu/gazette/story/2021/09/harvard-ceramics-program-recreates-art-museums-pieces/"
     },
     "og_item": {
-      "title": "leah blogs: The case of the mysterious --help directory",
-      "type": "",
-      "image": [],
-      "url": "",
+      "title": "How Facebook Is Morphing Into Meta",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://static01.nyt.com/images/2022/01/29/business/29facebook-pivot/29facebook-pivot-facebookJumbo.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://www.nytimes.com/2022/01/31/technology/facebook-meta-change.html",
       "audio": [],
-      "description": "",
+      "description": "Shifting a 68,000-person social networking company toward the theoretical metaverse has caused internal disruption and uncertainty.",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
       "site_name": "",
       "video": [],
       "favicon": {
-        "url": "/favicon.ico"
+        "url": "/vi-assets/static-assets/favicon-d2483f10ef688e6f89e23806b9700298.ico"
       }
     }
   },
@@ -2976,29 +2334,17 @@
     "points": 207,
     "comment_count": 22,
     "hn_item": {
-      "by": "lowleveldesign",
-      "descendants": 62,
-      "id": 30128048,
+      "by": "prismatic",
+      "descendants": 0,
+      "id": 30110679,
       "kids": [
-        30141402,
-        30141034,
-        30141162,
-        30140452,
-        30141094,
-        30143338,
-        30144500,
-        30144278,
-        30144460,
-        30144489,
-        30145419,
-        30140903,
-        30140096
+        30143708
       ],
-      "score": 82,
-      "time": 1643476281,
-      "title": "COM+ Revisited",
+      "score": 15,
+      "time": 1643343649,
+      "title": "Bringing Ancient Pottery to Life",
       "type": "story",
-      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
+      "url": "https://news.harvard.edu/gazette/story/2021/09/harvard-ceramics-program-recreates-art-museums-pieces/"
     },
     "og_item": {
       "title": "GitHub - beancount/beancount: Beancount: Double-Entry Accounting from Text Files.",
@@ -3027,6 +2373,48 @@
     }
   },
   {
+    "id": 30134367,
+    "title": "The case of the mysterious --help directory (2020)",
+    "url": "https://leahneukirchen.org/blog/archive/2020/05/the-case-of-the-mysterious-help-directory.html",
+    "time": 1643520785,
+    "image": "",
+    "icon": "https://leahneukirchen.org/favicon.ico",
+    "publisher": "leahneukirchen.org",
+    "description": "",
+    "by": "panic",
+    "points": 158,
+    "comment_count": 13,
+    "hn_item": {
+      "by": "prismatic",
+      "descendants": 0,
+      "id": 30110679,
+      "kids": [
+        30143708
+      ],
+      "score": 15,
+      "time": 1643343649,
+      "title": "Bringing Ancient Pottery to Life",
+      "type": "story",
+      "url": "https://news.harvard.edu/gazette/story/2021/09/harvard-ceramics-program-recreates-art-museums-pieces/"
+    },
+    "og_item": {
+      "title": "leah blogs: The case of the mysterious --help directory",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30143170,
     "title": "How long has _ existed?",
     "url": "https://howoldisit.glitch.me",
@@ -3039,29 +2427,17 @@
     "points": 18,
     "comment_count": 4,
     "hn_item": {
-      "by": "lowleveldesign",
-      "descendants": 62,
-      "id": 30128048,
+      "by": "prismatic",
+      "descendants": 0,
+      "id": 30110679,
       "kids": [
-        30141402,
-        30141034,
-        30141162,
-        30140452,
-        30141094,
-        30143338,
-        30144500,
-        30144278,
-        30144460,
-        30144489,
-        30145419,
-        30140903,
-        30140096
+        30143708
       ],
-      "score": 82,
-      "time": 1643476281,
-      "title": "COM+ Revisited",
+      "score": 15,
+      "time": 1643343649,
+      "title": "Bringing Ancient Pottery to Life",
       "type": "story",
-      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
+      "url": "https://news.harvard.edu/gazette/story/2021/09/harvard-ceramics-program-recreates-art-museums-pieces/"
     },
     "og_item": {
       "title": "You want HOW MANY years experience?!",
@@ -3093,29 +2469,17 @@
     "points": 32,
     "comment_count": 11,
     "hn_item": {
-      "by": "lowleveldesign",
-      "descendants": 62,
-      "id": 30128048,
+      "by": "prismatic",
+      "descendants": 0,
+      "id": 30110679,
       "kids": [
-        30141402,
-        30141034,
-        30141162,
-        30140452,
-        30141094,
-        30143338,
-        30144500,
-        30144278,
-        30144460,
-        30144489,
-        30145419,
-        30140903,
-        30140096
+        30143708
       ],
-      "score": 82,
-      "time": 1643476281,
-      "title": "COM+ Revisited",
+      "score": 15,
+      "time": 1643343649,
+      "title": "Bringing Ancient Pottery to Life",
       "type": "story",
-      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
+      "url": "https://news.harvard.edu/gazette/story/2021/09/harvard-ceramics-program-recreates-art-museums-pieces/"
     },
     "og_item": {
       "title": "Just a moment...",
@@ -3147,29 +2511,17 @@
     "points": 215,
     "comment_count": 26,
     "hn_item": {
-      "by": "lowleveldesign",
-      "descendants": 62,
-      "id": 30128048,
+      "by": "prismatic",
+      "descendants": 0,
+      "id": 30110679,
       "kids": [
-        30141402,
-        30141034,
-        30141162,
-        30140452,
-        30141094,
-        30143338,
-        30144500,
-        30144278,
-        30144460,
-        30144489,
-        30145419,
-        30140903,
-        30140096
+        30143708
       ],
-      "score": 82,
-      "time": 1643476281,
-      "title": "COM+ Revisited",
+      "score": 15,
+      "time": 1643343649,
+      "title": "Bringing Ancient Pottery to Life",
       "type": "story",
-      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
+      "url": "https://news.harvard.edu/gazette/story/2021/09/harvard-ceramics-program-recreates-art-museums-pieces/"
     },
     "og_item": {
       "title": "In Defence of the Boring Web",
@@ -3189,69 +2541,6 @@
     }
   },
   {
-    "id": 30142918,
-    "title": "Unconscious R\u0026D (2021)",
-    "url": "https://subconscious.substack.com/p/unconscious-r-and-d",
-    "time": 1643589336,
-    "image": "https://cdn.substack.com/image/fetch/w_1200,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F80b4a51a-7687-453c-b94b-a0c33b1399c7_1668x1668.jpeg",
-    "icon": "https://cdn.substack.com/icons/substack/favicon-32x32.png",
-    "publisher": "subconscious.substack.com",
-    "description": "What if your notes could self-organize—from scratch notes, to draft, to finished creative work—through a stream-of-consciousness process—like dreaming? Years ago, I was part of a user study that aimed to understand how creators create. We interviewed authors, artists, students, influencers,…",
-    "by": "fagnerbrack",
-    "points": 25,
-    "comment_count": 3,
-    "hn_item": {
-      "by": "lowleveldesign",
-      "descendants": 62,
-      "id": 30128048,
-      "kids": [
-        30141402,
-        30141034,
-        30141162,
-        30140452,
-        30141094,
-        30143338,
-        30144500,
-        30144278,
-        30144460,
-        30144489,
-        30145419,
-        30140903,
-        30140096
-      ],
-      "score": 82,
-      "time": 1643476281,
-      "title": "COM+ Revisited",
-      "type": "story",
-      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
-    },
-    "og_item": {
-      "title": "Unconscious R\u0026D",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://cdn.substack.com/image/fetch/w_1200,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F80b4a51a-7687-453c-b94b-a0c33b1399c7_1668x1668.jpeg",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://subconscious.substack.com/p/unconscious-r-and-d",
-      "audio": [],
-      "description": "What if your notes could self-organize—from scratch notes, to draft, to finished creative work—through a stream-of-consciousness process—like dreaming? Years ago, I was part of a user study that aimed to understand how creators create. We interviewed authors, artists, students, influencers, and discovered a recurrent meta-pattern in the creative processes that emerged across disciplines and tools...",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "https://cdn.substack.com/icons/substack/favicon-32x32.png"
-      }
-    }
-  },
-  {
     "id": 30131847,
     "title": "Mix and Match Mental Models",
     "url": "https://lethain.com/mental-models-mix-match/",
@@ -3261,32 +2550,20 @@
     "publisher": "lethain.com",
     "description": "A few days ago, I got to have a delightful chat with Katie Wilde, digging into a question that we’ve both found difficult to answer: what distinguishes managers perceived to have good judgment from those perceived to have bad judgment? In exploring that question, the topic of mental models came…",
     "by": "wavelander",
-    "points": 38,
+    "points": 39,
     "comment_count": 0,
     "hn_item": {
-      "by": "lowleveldesign",
-      "descendants": 62,
-      "id": 30128048,
+      "by": "prismatic",
+      "descendants": 0,
+      "id": 30110679,
       "kids": [
-        30141402,
-        30141034,
-        30141162,
-        30140452,
-        30141094,
-        30143338,
-        30144500,
-        30144278,
-        30144460,
-        30144489,
-        30145419,
-        30140903,
-        30140096
+        30143708
       ],
-      "score": 82,
-      "time": 1643476281,
-      "title": "COM+ Revisited",
+      "score": 15,
+      "time": 1643343649,
+      "title": "Bringing Ancient Pottery to Life",
       "type": "story",
-      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
+      "url": "https://news.harvard.edu/gazette/story/2021/09/harvard-ceramics-program-recreates-art-museums-pieces/"
     },
     "og_item": {
       "title": "Mix and match mental models.",
@@ -3315,6 +2592,57 @@
     }
   },
   {
+    "id": 30142918,
+    "title": "Unconscious R\u0026D (2021)",
+    "url": "https://subconscious.substack.com/p/unconscious-r-and-d",
+    "time": 1643589336,
+    "image": "https://cdn.substack.com/image/fetch/w_1200,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F80b4a51a-7687-453c-b94b-a0c33b1399c7_1668x1668.jpeg",
+    "icon": "https://cdn.substack.com/icons/substack/favicon-32x32.png",
+    "publisher": "subconscious.substack.com",
+    "description": "What if your notes could self-organize—from scratch notes, to draft, to finished creative work—through a stream-of-consciousness process—like dreaming? Years ago, I was part of a user study that aimed to understand how creators create. We interviewed authors, artists, students, influencers,…",
+    "by": "fagnerbrack",
+    "points": 25,
+    "comment_count": 3,
+    "hn_item": {
+      "by": "prismatic",
+      "descendants": 0,
+      "id": 30110679,
+      "kids": [
+        30143708
+      ],
+      "score": 15,
+      "time": 1643343649,
+      "title": "Bringing Ancient Pottery to Life",
+      "type": "story",
+      "url": "https://news.harvard.edu/gazette/story/2021/09/harvard-ceramics-program-recreates-art-museums-pieces/"
+    },
+    "og_item": {
+      "title": "Unconscious R\u0026D",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://cdn.substack.com/image/fetch/w_1200,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F80b4a51a-7687-453c-b94b-a0c33b1399c7_1668x1668.jpeg",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://subconscious.substack.com/p/unconscious-r-and-d",
+      "audio": [],
+      "description": "What if your notes could self-organize—from scratch notes, to draft, to finished creative work—through a stream-of-consciousness process—like dreaming? Years ago, I was part of a user study that aimed to understand how creators create. We interviewed authors, artists, students, influencers, and discovered a recurrent meta-pattern in the creative processes that emerged across disciplines and tools...",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "https://cdn.substack.com/icons/substack/favicon-32x32.png"
+      }
+    }
+  },
+  {
     "id": 30143377,
     "title": "A Simple Transformer Implementation(PyTorch) Without Difficult Syntax",
     "url": "https://github.com/IpsumDominum/Pytorch-Simple-Transformer",
@@ -3327,29 +2655,17 @@
     "points": 17,
     "comment_count": 1,
     "hn_item": {
-      "by": "lowleveldesign",
-      "descendants": 62,
-      "id": 30128048,
+      "by": "prismatic",
+      "descendants": 0,
+      "id": 30110679,
       "kids": [
-        30141402,
-        30141034,
-        30141162,
-        30140452,
-        30141094,
-        30143338,
-        30144500,
-        30144278,
-        30144460,
-        30144489,
-        30145419,
-        30140903,
-        30140096
+        30143708
       ],
-      "score": 82,
-      "time": 1643476281,
-      "title": "COM+ Revisited",
+      "score": 15,
+      "time": 1643343649,
+      "title": "Bringing Ancient Pottery to Life",
       "type": "story",
-      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
+      "url": "https://news.harvard.edu/gazette/story/2021/09/harvard-ceramics-program-recreates-art-museums-pieces/"
     },
     "og_item": {
       "title": "GitHub - IpsumDominum/Pytorch-Simple-Transformer: A simple transformer implementation without difficult syntax and extra bells and whistles.",
@@ -3390,29 +2706,17 @@
     "points": 39,
     "comment_count": 6,
     "hn_item": {
-      "by": "lowleveldesign",
-      "descendants": 62,
-      "id": 30128048,
+      "by": "prismatic",
+      "descendants": 0,
+      "id": 30110679,
       "kids": [
-        30141402,
-        30141034,
-        30141162,
-        30140452,
-        30141094,
-        30143338,
-        30144500,
-        30144278,
-        30144460,
-        30144489,
-        30145419,
-        30140903,
-        30140096
+        30143708
       ],
-      "score": 82,
-      "time": 1643476281,
-      "title": "COM+ Revisited",
+      "score": 15,
+      "time": 1643343649,
+      "title": "Bringing Ancient Pottery to Life",
       "type": "story",
-      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
+      "url": "https://news.harvard.edu/gazette/story/2021/09/harvard-ceramics-program-recreates-art-museums-pieces/"
     },
     "og_item": {
       "title": "Show the case against - shubhro.com",
@@ -3432,60 +2736,6 @@
     }
   },
   {
-    "id": 30146516,
-    "title": "Ask HN: GitHub and Bitbucket end support for password auth for CLI - Now what?",
-    "url": "https://news.ycombinator.com/item?id=30146516",
-    "time": 1643624617,
-    "image": "",
-    "icon": "https://news.ycombinator.com/favicon.ico",
-    "publisher": "Hacker News",
-    "description": "",
-    "by": "weezee",
-    "points": 5,
-    "comment_count": 4,
-    "hn_item": {
-      "by": "lowleveldesign",
-      "descendants": 62,
-      "id": 30128048,
-      "kids": [
-        30141402,
-        30141034,
-        30141162,
-        30140452,
-        30141094,
-        30143338,
-        30144500,
-        30144278,
-        30144460,
-        30144489,
-        30145419,
-        30140903,
-        30140096
-      ],
-      "score": 82,
-      "time": 1643476281,
-      "title": "COM+ Revisited",
-      "type": "story",
-      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
-    },
-    "og_item": {
-      "title": "Ask HN: GitHub and Bitbucket end support for password auth for CLI - Now what? | Hacker News",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30137864,
     "title": "Midnight Commander Tips and Tricks",
     "url": "http://www.softpanorama.org/OFM/MC/mc_tips.shtml",
@@ -3498,29 +2748,17 @@
     "points": 163,
     "comment_count": 19,
     "hn_item": {
-      "by": "lowleveldesign",
-      "descendants": 62,
-      "id": 30128048,
+      "by": "prismatic",
+      "descendants": 0,
+      "id": 30110679,
       "kids": [
-        30141402,
-        30141034,
-        30141162,
-        30140452,
-        30141094,
-        30143338,
-        30144500,
-        30144278,
-        30144460,
-        30144489,
-        30145419,
-        30140903,
-        30140096
+        30143708
       ],
-      "score": 82,
-      "time": 1643476281,
-      "title": "COM+ Revisited",
+      "score": 15,
+      "time": 1643343649,
+      "title": "Bringing Ancient Pottery to Life",
       "type": "story",
-      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
+      "url": "https://news.harvard.edu/gazette/story/2021/09/harvard-ceramics-program-recreates-art-museums-pieces/"
     },
     "og_item": {
       "title": "Midnight Commander Tips and Tricks",
@@ -3552,29 +2790,17 @@
     "points": 43,
     "comment_count": 5,
     "hn_item": {
-      "by": "lowleveldesign",
-      "descendants": 62,
-      "id": 30128048,
+      "by": "prismatic",
+      "descendants": 0,
+      "id": 30110679,
       "kids": [
-        30141402,
-        30141034,
-        30141162,
-        30140452,
-        30141094,
-        30143338,
-        30144500,
-        30144278,
-        30144460,
-        30144489,
-        30145419,
-        30140903,
-        30140096
+        30143708
       ],
-      "score": 82,
-      "time": 1643476281,
-      "title": "COM+ Revisited",
+      "score": 15,
+      "time": 1643343649,
+      "title": "Bringing Ancient Pottery to Life",
       "type": "story",
-      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
+      "url": "https://news.harvard.edu/gazette/story/2021/09/harvard-ceramics-program-recreates-art-museums-pieces/"
     },
     "og_item": {
       "title": "Very Remote Lisp Debugging Story - Susam's Maze",
@@ -3606,29 +2832,17 @@
     "points": 696,
     "comment_count": 70,
     "hn_item": {
-      "by": "lowleveldesign",
-      "descendants": 62,
-      "id": 30128048,
+      "by": "prismatic",
+      "descendants": 0,
+      "id": 30110679,
       "kids": [
-        30141402,
-        30141034,
-        30141162,
-        30140452,
-        30141094,
-        30143338,
-        30144500,
-        30144278,
-        30144460,
-        30144489,
-        30145419,
-        30140903,
-        30140096
+        30143708
       ],
-      "score": 82,
-      "time": 1643476281,
-      "title": "COM+ Revisited",
+      "score": 15,
+      "time": 1643343649,
+      "title": "Bringing Ancient Pottery to Life",
       "type": "story",
-      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
+      "url": "https://news.harvard.edu/gazette/story/2021/09/harvard-ceramics-program-recreates-art-museums-pieces/"
     },
     "og_item": {
       "title": "",
@@ -3648,6 +2862,33 @@
     }
   },
   {
+    "id": 30125931,
+    "title": "Fluid Simulation – Siggraph 2007 Course Notes [pdf]",
+    "url": "https://www.cs.ubc.ca/~rbridson/fluidsimulation/fluids_notes.pdf",
+    "time": 1643461256,
+    "image": "",
+    "icon": "",
+    "publisher": "cs.ubc.ca",
+    "description": "",
+    "by": "creata",
+    "points": 41,
+    "comment_count": 6,
+    "hn_item": {
+      "by": "prismatic",
+      "descendants": 0,
+      "id": 30110679,
+      "kids": [
+        30143708
+      ],
+      "score": 15,
+      "time": 1643343649,
+      "title": "Bringing Ancient Pottery to Life",
+      "type": "story",
+      "url": "https://news.harvard.edu/gazette/story/2021/09/harvard-ceramics-program-recreates-art-museums-pieces/"
+    },
+    "og_item": null
+  },
+  {
     "id": 30125730,
     "title": "How Amiga 500 RAM Probably Works",
     "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs",
@@ -3660,29 +2901,17 @@
     "points": 59,
     "comment_count": 6,
     "hn_item": {
-      "by": "lowleveldesign",
-      "descendants": 62,
-      "id": 30128048,
+      "by": "prismatic",
+      "descendants": 0,
+      "id": 30110679,
       "kids": [
-        30141402,
-        30141034,
-        30141162,
-        30140452,
-        30141094,
-        30143338,
-        30144500,
-        30144278,
-        30144460,
-        30144489,
-        30145419,
-        30140903,
-        30140096
+        30143708
       ],
-      "score": 82,
-      "time": 1643476281,
-      "title": "COM+ Revisited",
+      "score": 15,
+      "time": 1643343649,
+      "title": "Bringing Ancient Pottery to Life",
       "type": "story",
-      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
+      "url": "https://news.harvard.edu/gazette/story/2021/09/harvard-ceramics-program-recreates-art-museums-pieces/"
     },
     "og_item": {
       "title": "How Amiga 500 RAM Probably Works | How Things Probably Work",
@@ -3732,29 +2961,17 @@
     "points": 106,
     "comment_count": 14,
     "hn_item": {
-      "by": "lowleveldesign",
-      "descendants": 62,
-      "id": 30128048,
+      "by": "prismatic",
+      "descendants": 0,
+      "id": 30110679,
       "kids": [
-        30141402,
-        30141034,
-        30141162,
-        30140452,
-        30141094,
-        30143338,
-        30144500,
-        30144278,
-        30144460,
-        30144489,
-        30145419,
-        30140903,
-        30140096
+        30143708
       ],
-      "score": 82,
-      "time": 1643476281,
-      "title": "COM+ Revisited",
+      "score": 15,
+      "time": 1643343649,
+      "title": "Bringing Ancient Pottery to Life",
       "type": "story",
-      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
+      "url": "https://news.harvard.edu/gazette/story/2021/09/harvard-ceramics-program-recreates-art-museums-pieces/"
     },
     "og_item": {
       "title": "When the Algorithm Is Your Boss",
@@ -3783,104 +3000,44 @@
     }
   },
   {
-    "id": 30125931,
-    "title": "Fluid Simulation – Siggraph 2007 Course Notes [pdf]",
-    "url": "https://www.cs.ubc.ca/~rbridson/fluidsimulation/fluids_notes.pdf",
-    "time": 1643461256,
+    "id": 30146516,
+    "title": "Ask HN: GitHub and Bitbucket end support for password auth for CLI - Now what?",
+    "url": "https://news.ycombinator.com/item?id=30146516",
+    "time": 1643624617,
     "image": "",
-    "icon": "",
-    "publisher": "cs.ubc.ca",
+    "icon": "https://news.ycombinator.com/favicon.ico",
+    "publisher": "Hacker News",
     "description": "",
-    "by": "creata",
-    "points": 40,
-    "comment_count": 6,
+    "by": "weezee",
+    "points": 5,
+    "comment_count": 4,
     "hn_item": {
-      "by": "lowleveldesign",
-      "descendants": 62,
-      "id": 30128048,
+      "by": "prismatic",
+      "descendants": 0,
+      "id": 30110679,
       "kids": [
-        30141402,
-        30141034,
-        30141162,
-        30140452,
-        30141094,
-        30143338,
-        30144500,
-        30144278,
-        30144460,
-        30144489,
-        30145419,
-        30140903,
-        30140096
+        30143708
       ],
-      "score": 82,
-      "time": 1643476281,
-      "title": "COM+ Revisited",
+      "score": 15,
+      "time": 1643343649,
+      "title": "Bringing Ancient Pottery to Life",
       "type": "story",
-      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
-    },
-    "og_item": null
-  },
-  {
-    "id": 30136350,
-    "title": "The Game of War: Chess with Networks (2008)",
-    "url": "https://www.cabinetmagazine.org/issues/29/galloway.php",
-    "time": 1643544263,
-    "image": "https://cabinetmagazine.org/issues/29/cabinet_029_galloway_alexander_r_facebook.jpg",
-    "icon": "https://www.cabinetmagazine.org/favicon-128.png",
-    "publisher": "cabinetmagazine.org",
-    "description": "Chess with networks",
-    "by": "bshepard",
-    "points": 26,
-    "comment_count": 2,
-    "hn_item": {
-      "by": "lowleveldesign",
-      "descendants": 62,
-      "id": 30128048,
-      "kids": [
-        30141402,
-        30141034,
-        30141162,
-        30140452,
-        30141094,
-        30143338,
-        30144500,
-        30144278,
-        30144460,
-        30144489,
-        30145419,
-        30140903,
-        30140096
-      ],
-      "score": 82,
-      "time": 1643476281,
-      "title": "COM+ Revisited",
-      "type": "story",
-      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
+      "url": "https://news.harvard.edu/gazette/story/2021/09/harvard-ceramics-program-recreates-art-museums-pieces/"
     },
     "og_item": {
-      "title": "The Game of War: An Overview | Alexander R. Galloway",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://cabinetmagazine.org/issues/29/cabinet_029_galloway_alexander_r_facebook.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 52,
-          "height": 80,
-          "alt": ""
-        }
-      ],
-      "url": "https://cabinetmagazine.org/issues/29/galloway.php",
+      "title": "Ask HN: GitHub and Bitbucket end support for password auth for CLI - Now what? | Hacker News",
+      "type": "",
+      "image": [],
+      "url": "",
       "audio": [],
-      "description": "Chess with networks",
+      "description": "",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
       "site_name": "",
       "video": [],
       "favicon": {
-        "url": "/favicon-128.png"
+        "url": "favicon.ico"
       }
     }
   },
@@ -3897,29 +3054,17 @@
     "points": 148,
     "comment_count": 7,
     "hn_item": {
-      "by": "lowleveldesign",
-      "descendants": 62,
-      "id": 30128048,
+      "by": "prismatic",
+      "descendants": 0,
+      "id": 30110679,
       "kids": [
-        30141402,
-        30141034,
-        30141162,
-        30140452,
-        30141094,
-        30143338,
-        30144500,
-        30144278,
-        30144460,
-        30144489,
-        30145419,
-        30140903,
-        30140096
+        30143708
       ],
-      "score": 82,
-      "time": 1643476281,
-      "title": "COM+ Revisited",
+      "score": 15,
+      "time": 1643343649,
+      "title": "Bringing Ancient Pottery to Life",
       "type": "story",
-      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
+      "url": "https://news.harvard.edu/gazette/story/2021/09/harvard-ceramics-program-recreates-art-museums-pieces/"
     },
     "og_item": {
       "title": "Controlling RGB LEDs With Only the Powerlines: Anatomy of a Christmas Light String",
@@ -3948,6 +3093,57 @@
     }
   },
   {
+    "id": 30136350,
+    "title": "The Game of War: Chess with Networks (2008)",
+    "url": "https://www.cabinetmagazine.org/issues/29/galloway.php",
+    "time": 1643544263,
+    "image": "https://cabinetmagazine.org/issues/29/cabinet_029_galloway_alexander_r_facebook.jpg",
+    "icon": "https://www.cabinetmagazine.org/favicon-128.png",
+    "publisher": "cabinetmagazine.org",
+    "description": "Chess with networks",
+    "by": "bshepard",
+    "points": 26,
+    "comment_count": 2,
+    "hn_item": {
+      "by": "prismatic",
+      "descendants": 0,
+      "id": 30110679,
+      "kids": [
+        30143708
+      ],
+      "score": 15,
+      "time": 1643343649,
+      "title": "Bringing Ancient Pottery to Life",
+      "type": "story",
+      "url": "https://news.harvard.edu/gazette/story/2021/09/harvard-ceramics-program-recreates-art-museums-pieces/"
+    },
+    "og_item": {
+      "title": "The Game of War: An Overview | Alexander R. Galloway",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://cabinetmagazine.org/issues/29/cabinet_029_galloway_alexander_r_facebook.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 52,
+          "height": 80,
+          "alt": ""
+        }
+      ],
+      "url": "https://cabinetmagazine.org/issues/29/galloway.php",
+      "audio": [],
+      "description": "Chess with networks",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon-128.png"
+      }
+    }
+  },
+  {
     "id": 30115520,
     "title": "Pearls Before Breakfast (2007)",
     "url": "https://www.washingtonpost.com/lifestyle/magazine/pearls-before-breakfast-can-one-of-the-nations-great-musicians-cut-through-the-fog-of-a-dc-rush-hour-lets-find-out/2014/09/23/8a6d46da-4331-11e4-b47c-f5889e061e5f_story.html",
@@ -3960,29 +3156,17 @@
     "points": 13,
     "comment_count": 8,
     "hn_item": {
-      "by": "lowleveldesign",
-      "descendants": 62,
-      "id": 30128048,
+      "by": "prismatic",
+      "descendants": 0,
+      "id": 30110679,
       "kids": [
-        30141402,
-        30141034,
-        30141162,
-        30140452,
-        30141094,
-        30143338,
-        30144500,
-        30144278,
-        30144460,
-        30144489,
-        30145419,
-        30140903,
-        30140096
+        30143708
       ],
-      "score": 82,
-      "time": 1643476281,
-      "title": "COM+ Revisited",
+      "score": 15,
+      "time": 1643343649,
+      "title": "Bringing Ancient Pottery to Life",
       "type": "story",
-      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
+      "url": "https://news.harvard.edu/gazette/story/2021/09/harvard-ceramics-program-recreates-art-museums-pieces/"
     },
     "og_item": {
       "title": "Pearls Before Breakfast: Can one of the nation’s great musicians cut through the fog of a D.C. rush hour? Let’s find out.",
@@ -4011,6 +3195,57 @@
     }
   },
   {
+    "id": 30129565,
+    "title": "Static-Let, or how I Learned to stop worrying and love Load-Time-Value",
+    "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md",
+    "time": 1643484611,
+    "image": "https://opengraph.githubassets.com/57af4ff8db4a9d92fb846ed1f2d3932bced540aab39ce673eac12976672d5014/phoe/articles",
+    "icon": "https://github.githubassets.com/favicons/favicon.svg",
+    "publisher": "GitHub",
+    "description": "An assorted gathering of the Lisp posts and articles I make. - articles/static-let.md at main · phoe/articles",
+    "by": "phoe-krk",
+    "points": 13,
+    "comment_count": 2,
+    "hn_item": {
+      "by": "prismatic",
+      "descendants": 0,
+      "id": 30110679,
+      "kids": [
+        30143708
+      ],
+      "score": 15,
+      "time": 1643343649,
+      "title": "Bringing Ancient Pottery to Life",
+      "type": "story",
+      "url": "https://news.harvard.edu/gazette/story/2021/09/harvard-ceramics-program-recreates-art-museums-pieces/"
+    },
+    "og_item": {
+      "title": "articles/static-let.md at main · phoe/articles",
+      "type": "object",
+      "image": [
+        {
+          "url": "https://opengraph.githubassets.com/57af4ff8db4a9d92fb846ed1f2d3932bced540aab39ce673eac12976672d5014/phoe/articles",
+          "secure_url": "",
+          "type": "",
+          "width": 1200,
+          "height": 600,
+          "alt": ""
+        }
+      ],
+      "url": "https://github.com/phoe/articles",
+      "audio": [],
+      "description": "An assorted gathering of the Lisp posts and articles I make. - articles/static-let.md at main · phoe/articles",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "GitHub",
+      "video": [],
+      "favicon": {
+        "url": "https://github.githubassets.com/favicons/favicon.svg"
+      }
+    }
+  },
+  {
     "id": 30110679,
     "title": "Bringing Ancient Pottery to Life",
     "url": "https://news.harvard.edu/gazette/story/2021/09/harvard-ceramics-program-recreates-art-museums-pieces/",
@@ -4023,29 +3258,17 @@
     "points": 15,
     "comment_count": 1,
     "hn_item": {
-      "by": "lowleveldesign",
-      "descendants": 62,
-      "id": 30128048,
+      "by": "prismatic",
+      "descendants": 0,
+      "id": 30110679,
       "kids": [
-        30141402,
-        30141034,
-        30141162,
-        30140452,
-        30141094,
-        30143338,
-        30144500,
-        30144278,
-        30144460,
-        30144489,
-        30145419,
-        30140903,
-        30140096
+        30143708
       ],
-      "score": 82,
-      "time": 1643476281,
-      "title": "COM+ Revisited",
+      "score": 15,
+      "time": 1643343649,
+      "title": "Bringing Ancient Pottery to Life",
       "type": "story",
-      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
+      "url": "https://news.harvard.edu/gazette/story/2021/09/harvard-ceramics-program-recreates-art-museums-pieces/"
     },
     "og_item": {
       "title": "Harvard ceramics program recreates Art Museums’ pieces",
@@ -4070,69 +3293,6 @@
       "video": [],
       "favicon": {
         "url": "https://news.harvard.edu/wp-content/themes/gazette-3-0/favicons/favicon-192x192.png"
-      }
-    }
-  },
-  {
-    "id": 30128048,
-    "title": "COM+ Revisited",
-    "url": "https://lowleveldesign.org/2022/01/17/com-revisited/",
-    "time": 1643476281,
-    "image": "https://lowleveldesign.files.wordpress.com/2022/01/probe-mem-layout.png?w=1200",
-    "icon": "https://lowleveldesign.files.wordpress.com/2019/01/cropped-site_logo-1.png?w=192",
-    "publisher": "lowleveldesign.org",
-    "description": "More than ten years ago (how time flies!), when I published the basic sample of a COM+ server and client, I thought that I wouldn’t be touching this subject again. But here we are, in 2022, a…",
-    "by": "lowleveldesign",
-    "points": 82,
-    "comment_count": 13,
-    "hn_item": {
-      "by": "lowleveldesign",
-      "descendants": 62,
-      "id": 30128048,
-      "kids": [
-        30141402,
-        30141034,
-        30141162,
-        30140452,
-        30141094,
-        30143338,
-        30144500,
-        30144278,
-        30144460,
-        30144489,
-        30145419,
-        30140903,
-        30140096
-      ],
-      "score": 82,
-      "time": 1643476281,
-      "title": "COM+ Revisited",
-      "type": "story",
-      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
-    },
-    "og_item": {
-      "title": "COM+ revisited",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://lowleveldesign.files.wordpress.com/2022/01/probe-mem-layout.png?w=1200",
-          "secure_url": "",
-          "type": "",
-          "width": 1200,
-          "height": 800,
-          "alt": ""
-        }
-      ],
-      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/",
-      "audio": [],
-      "description": "More than ten years ago (how time flies!), when I published the basic sample of a COM+ server and client, I thought that I wouldn’t be touching this subject again. But here we are, in 2022, a…",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "lowleveldesign.org",
-      "video": [],
-      "favicon": {
-        "url": "https://lowleveldesign.files.wordpress.com/2019/01/cropped-site_logo-1.png?w=192"
       }
     }
   }
