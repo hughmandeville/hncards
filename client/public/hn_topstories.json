@@ -9,14 +9,14 @@
     "publisher": "zillow.com",
     "description": "",
     "by": "otras",
-    "points": 118,
-    "comment_count": 20,
+    "points": 131,
+    "comment_count": 21,
     "hn_item": {
       "by": "fangpenlin",
       "descendants": 0,
       "id": 30141215,
       "kids": null,
-      "score": 16,
+      "score": 17,
       "time": 1643577545,
       "title": "Show HN: BeanHub – A GitHub for Beancount",
       "type": "story",
@@ -49,14 +49,14 @@
     "publisher": "royalsociety.org",
     "description": "The Online Information Environment report discusses how to limit the harm of scientific misinformation online",
     "by": "steelstraw",
-    "points": 519,
+    "points": 521,
     "comment_count": 40,
     "hn_item": {
       "by": "fangpenlin",
       "descendants": 0,
       "id": 30141215,
       "kids": null,
-      "score": 16,
+      "score": 17,
       "time": 1643577545,
       "title": "Show HN: BeanHub – A GitHub for Beancount",
       "type": "story",
@@ -98,14 +98,14 @@
     "publisher": "cacm.acm.org",
     "description": "AI is driving the next evolution of chess, giving players a glimpse into the game\u0026#39;s future.",
     "by": "joak",
-    "points": 41,
-    "comment_count": 6,
+    "points": 45,
+    "comment_count": 7,
     "hn_item": {
       "by": "fangpenlin",
       "descendants": 0,
       "id": 30141215,
       "kids": null,
-      "score": 16,
+      "score": 17,
       "time": 1643577545,
       "title": "Show HN: BeanHub – A GitHub for Beancount",
       "type": "story",
@@ -147,14 +147,14 @@
     "publisher": "Medium",
     "description": "My journey on finding and reporting databases with sensitive data about Fortune-500 companies, Hospitals, Crypto platforms, Startups during…",
     "by": "boyter",
-    "points": 36,
+    "points": 38,
     "comment_count": 6,
     "hn_item": {
       "by": "fangpenlin",
       "descendants": 0,
       "id": 30141215,
       "kids": null,
-      "score": 16,
+      "score": 17,
       "time": 1643577545,
       "title": "Show HN: BeanHub – A GitHub for Beancount",
       "type": "story",
@@ -196,14 +196,14 @@
     "publisher": "fahrrad-tools.de",
     "description": "Which tire fits my bike? Tires are always flat and now buy a tire with puncture protection? Find the right tire now!",
     "by": "moasda",
-    "points": 547,
+    "points": 548,
     "comment_count": 36,
     "hn_item": {
       "by": "fangpenlin",
       "descendants": 0,
       "id": 30141215,
       "kids": null,
-      "score": 16,
+      "score": 17,
       "time": 1643577545,
       "title": "Show HN: BeanHub – A GitHub for Beancount",
       "type": "story",
@@ -236,14 +236,14 @@
     "publisher": "theregister.com",
     "description": "",
     "by": "laktak",
-    "points": 14,
-    "comment_count": 1,
+    "points": 17,
+    "comment_count": 2,
     "hn_item": {
       "by": "fangpenlin",
       "descendants": 0,
       "id": 30141215,
       "kids": null,
-      "score": 16,
+      "score": 17,
       "time": 1643577545,
       "title": "Show HN: BeanHub – A GitHub for Beancount",
       "type": "story",
@@ -283,7 +283,7 @@
       "descendants": 0,
       "id": 30141215,
       "kids": null,
-      "score": 16,
+      "score": 17,
       "time": 1643577545,
       "title": "Show HN: BeanHub – A GitHub for Beancount",
       "type": "story",
@@ -325,14 +325,14 @@
     "publisher": "lwn.net",
     "description": "",
     "by": "pabs3",
-    "points": 5,
-    "comment_count": 0,
+    "points": 8,
+    "comment_count": 1,
     "hn_item": {
       "by": "fangpenlin",
       "descendants": 0,
       "id": 30141215,
       "kids": null,
-      "score": 16,
+      "score": 17,
       "time": 1643577545,
       "title": "Show HN: BeanHub – A GitHub for Beancount",
       "type": "story",
@@ -372,7 +372,7 @@
       "descendants": 0,
       "id": 30141215,
       "kids": null,
-      "score": 16,
+      "score": 17,
       "time": 1643577545,
       "title": "Show HN: BeanHub – A GitHub for Beancount",
       "type": "story",
@@ -405,175 +405,6 @@
     }
   },
   {
-    "id": 30143375,
-    "title": "Lizard scale patterns described with antiferromagnetic model",
-    "url": "https://physics.aps.org/articles/v15/s12",
-    "time": 1643592578,
-    "image": "https://physics.aps.org/assets/604d524b-147e-4667-ad05-3d568e7114b0/e12_1_thumb.png",
-    "icon": "https://cdn.journals.aps.org/development/physics/images/icons/favicon.ico",
-    "publisher": "Physics",
-    "description": "The pattern of green and black scales on an ocellated lizard can be described with the two-parameter Ising model for antiferromagnetic systems.",
-    "by": "shusaku",
-    "points": 28,
-    "comment_count": 3,
-    "hn_item": {
-      "by": "fangpenlin",
-      "descendants": 0,
-      "id": 30141215,
-      "kids": null,
-      "score": 16,
-      "time": 1643577545,
-      "title": "Show HN: BeanHub – A GitHub for Beancount",
-      "type": "story",
-      "url": "https://beanhub.io/"
-    },
-    "og_item": {
-      "title": "Lizard Scale Patterns Described with Antiferromagnetic Model",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://physics.aps.org/assets/604d524b-147e-4667-ad05-3d568e7114b0/e12_1_thumb.png",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://physics.aps.org/articles/v15/s12",
-      "audio": [],
-      "description": "The pattern of green and black scales on an ocellated lizard can be described with the two-parameter Ising model for antiferromagnetic systems.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Physics",
-      "video": [],
-      "favicon": {
-        "url": "//cdn.journals.aps.org/development/physics/images/icons/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30143587,
-    "title": "Ylang: Universal Language for eBPF, Stap+, GDB, and More (2021)",
-    "url": "https://blog.openresty.com/en/ylang-intro-part4/",
-    "time": 1643594248,
-    "image": "",
-    "icon": "https://blog.openresty.com/favicon-16x16.png",
-    "publisher": "blog.openresty.com",
-    "description": "Transparent Container Tracing Efficient Stack Unwinding Analyzing Dead Processes (Core Dumps) Very Low Tracing Overhead Standard Ylang Libraries \u0026amp; Tools Network Filtering \u0026amp; Control The Ylang Compiler\u0026rsquo;s Implementation Operating System Support Contributions to Open-Source Communities",
-    "by": "walterbell",
-    "points": 25,
-    "comment_count": 2,
-    "hn_item": {
-      "by": "fangpenlin",
-      "descendants": 0,
-      "id": 30141215,
-      "kids": null,
-      "score": 16,
-      "time": 1643577545,
-      "title": "Show HN: BeanHub – A GitHub for Beancount",
-      "type": "story",
-      "url": "https://beanhub.io/"
-    },
-    "og_item": {
-      "title": "Ylang: Universal Language for eBPF, Stap+, GDB, and More (Part 4) - OpenResty Official Blog",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": " Transparent Container Tracing Efficient Stack Unwinding Analyzing Dead Processes (Core Dumps) Very Low Tracing Overhead Standard Ylang Libraries \u0026amp; Tools Network Filtering \u0026amp; Control The Ylang Compiler\u0026rsquo;s Implementation Operating System Support Contributions to Open-Source Communities  ",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon-16x16.png"
-      }
-    }
-  },
-  {
-    "id": 30138533,
-    "title": "Hypercard Simulator",
-    "url": "https://hypercardsimulator.com/",
-    "time": 1643560248,
-    "image": "",
-    "icon": "https://hypercardsimulator.com/favicon.ico",
-    "publisher": "hypercardsimulator.com",
-    "description": "",
-    "by": "alexmingoia",
-    "points": 205,
-    "comment_count": 14,
-    "hn_item": {
-      "by": "fangpenlin",
-      "descendants": 0,
-      "id": 30141215,
-      "kids": null,
-      "score": 16,
-      "time": 1643577545,
-      "title": "Show HN: BeanHub – A GitHub for Beancount",
-      "type": "story",
-      "url": "https://beanhub.io/"
-    },
-    "og_item": {
-      "title": "HyperCardSimulator",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30141278,
-    "title": "The Story of Maxis Software (1999)",
-    "url": "https://web.archive.org/web/19991012021220/http://gamespot.com/features/maxis/index.html",
-    "time": 1643577913,
-    "image": "",
-    "icon": "https://web.archive.org/favicon.ico",
-    "publisher": "web.archive.org",
-    "description": "",
-    "by": "ecliptik",
-    "points": 88,
-    "comment_count": 8,
-    "hn_item": {
-      "by": "fangpenlin",
-      "descendants": 0,
-      "id": 30141215,
-      "kids": null,
-      "score": 16,
-      "time": 1643577545,
-      "title": "Show HN: BeanHub – A GitHub for Beancount",
-      "type": "story",
-      "url": "https://beanhub.io/"
-    },
-    "og_item": {
-      "title": "GameSpot's SIMply Divine: The Story of Maxis Software",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30144083,
     "title": "Rents are up 40 percent in some cities, forcing millions to move",
     "url": "https://www.washingtonpost.com/business/2022/01/30/rent-inflation-housing/",
@@ -583,14 +414,14 @@
     "publisher": "Washington Post",
     "description": "Rising rents are also expected to be a driving force in inflation this year and have been an ongoing policy challenge for the Biden administration.",
     "by": "MilnerRoute",
-    "points": 51,
-    "comment_count": 8,
+    "points": 60,
+    "comment_count": 11,
     "hn_item": {
       "by": "fangpenlin",
       "descendants": 0,
       "id": 30141215,
       "kids": null,
-      "score": 16,
+      "score": 17,
       "time": 1643577545,
       "title": "Show HN: BeanHub – A GitHub for Beancount",
       "type": "story",
@@ -623,6 +454,175 @@
     }
   },
   {
+    "id": 30143587,
+    "title": "Ylang: Universal Language for eBPF, Stap+, GDB, and More (2021)",
+    "url": "https://blog.openresty.com/en/ylang-intro-part4/",
+    "time": 1643594248,
+    "image": "",
+    "icon": "https://blog.openresty.com/favicon-16x16.png",
+    "publisher": "blog.openresty.com",
+    "description": "Transparent Container Tracing Efficient Stack Unwinding Analyzing Dead Processes (Core Dumps) Very Low Tracing Overhead Standard Ylang Libraries \u0026amp; Tools Network Filtering \u0026amp; Control The Ylang Compiler\u0026rsquo;s Implementation Operating System Support Contributions to Open-Source Communities",
+    "by": "walterbell",
+    "points": 26,
+    "comment_count": 2,
+    "hn_item": {
+      "by": "fangpenlin",
+      "descendants": 0,
+      "id": 30141215,
+      "kids": null,
+      "score": 17,
+      "time": 1643577545,
+      "title": "Show HN: BeanHub – A GitHub for Beancount",
+      "type": "story",
+      "url": "https://beanhub.io/"
+    },
+    "og_item": {
+      "title": "Ylang: Universal Language for eBPF, Stap+, GDB, and More (Part 4) - OpenResty Official Blog",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": " Transparent Container Tracing Efficient Stack Unwinding Analyzing Dead Processes (Core Dumps) Very Low Tracing Overhead Standard Ylang Libraries \u0026amp; Tools Network Filtering \u0026amp; Control The Ylang Compiler\u0026rsquo;s Implementation Operating System Support Contributions to Open-Source Communities  ",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon-16x16.png"
+      }
+    }
+  },
+  {
+    "id": 30138533,
+    "title": "Hypercard Simulator",
+    "url": "https://hypercardsimulator.com/",
+    "time": 1643560248,
+    "image": "",
+    "icon": "https://hypercardsimulator.com/favicon.ico",
+    "publisher": "hypercardsimulator.com",
+    "description": "",
+    "by": "alexmingoia",
+    "points": 207,
+    "comment_count": 14,
+    "hn_item": {
+      "by": "fangpenlin",
+      "descendants": 0,
+      "id": 30141215,
+      "kids": null,
+      "score": 17,
+      "time": 1643577545,
+      "title": "Show HN: BeanHub – A GitHub for Beancount",
+      "type": "story",
+      "url": "https://beanhub.io/"
+    },
+    "og_item": {
+      "title": "HyperCardSimulator",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30143375,
+    "title": "Lizard scale patterns described with antiferromagnetic model",
+    "url": "https://physics.aps.org/articles/v15/s12",
+    "time": 1643592578,
+    "image": "https://physics.aps.org/assets/604d524b-147e-4667-ad05-3d568e7114b0/e12_1_thumb.png",
+    "icon": "https://cdn.journals.aps.org/development/physics/images/icons/favicon.ico",
+    "publisher": "Physics",
+    "description": "The pattern of green and black scales on an ocellated lizard can be described with the two-parameter Ising model for antiferromagnetic systems.",
+    "by": "shusaku",
+    "points": 28,
+    "comment_count": 3,
+    "hn_item": {
+      "by": "fangpenlin",
+      "descendants": 0,
+      "id": 30141215,
+      "kids": null,
+      "score": 17,
+      "time": 1643577545,
+      "title": "Show HN: BeanHub – A GitHub for Beancount",
+      "type": "story",
+      "url": "https://beanhub.io/"
+    },
+    "og_item": {
+      "title": "Lizard Scale Patterns Described with Antiferromagnetic Model",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://physics.aps.org/assets/604d524b-147e-4667-ad05-3d568e7114b0/e12_1_thumb.png",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://physics.aps.org/articles/v15/s12",
+      "audio": [],
+      "description": "The pattern of green and black scales on an ocellated lizard can be described with the two-parameter Ising model for antiferromagnetic systems.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Physics",
+      "video": [],
+      "favicon": {
+        "url": "//cdn.journals.aps.org/development/physics/images/icons/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30141278,
+    "title": "The Story of Maxis Software (1999)",
+    "url": "https://web.archive.org/web/19991012021220/http://gamespot.com/features/maxis/index.html",
+    "time": 1643577913,
+    "image": "",
+    "icon": "https://web.archive.org/favicon.ico",
+    "publisher": "web.archive.org",
+    "description": "",
+    "by": "ecliptik",
+    "points": 88,
+    "comment_count": 8,
+    "hn_item": {
+      "by": "fangpenlin",
+      "descendants": 0,
+      "id": 30141215,
+      "kids": null,
+      "score": 17,
+      "time": 1643577545,
+      "title": "Show HN: BeanHub – A GitHub for Beancount",
+      "type": "story",
+      "url": "https://beanhub.io/"
+    },
+    "og_item": {
+      "title": "GameSpot's SIMply Divine: The Story of Maxis Software",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30134367,
     "title": "The case of the mysterious --help directory (2020)",
     "url": "https://leahneukirchen.org/blog/archive/2020/05/the-case-of-the-mysterious-help-directory.html",
@@ -632,14 +632,14 @@
     "publisher": "leahneukirchen.org",
     "description": "",
     "by": "panic",
-    "points": 134,
+    "points": 136,
     "comment_count": 10,
     "hn_item": {
       "by": "fangpenlin",
       "descendants": 0,
       "id": 30141215,
       "kids": null,
-      "score": 16,
+      "score": 17,
       "time": 1643577545,
       "title": "Show HN: BeanHub – A GitHub for Beancount",
       "type": "story",
@@ -663,55 +663,6 @@
     }
   },
   {
-    "id": 30142558,
-    "title": "State of the Web: Static Site Generators",
-    "url": "https://byteofdev.com/posts/static-site-generators/",
-    "time": 1643586463,
-    "image": "https://ik.imagekit.io/serenity/ByteofDev/Blog_Heading_Images/State_of_the_Web_Static_Site_Generators",
-    "icon": "https://byteofdev.com/favicon.svg",
-    "publisher": "ByteofDev",
-    "description": "Static Site Generators have been changing quickly with new trends like Jamstack. Learn more about the background of static site generators, why people use them, and the current state of them, with information on modern SSGs like Eleventy, Next.js, SvelteKit, and Astro.",
-    "by": "AsyncBanana",
-    "points": 62,
-    "comment_count": 10,
-    "hn_item": {
-      "by": "fangpenlin",
-      "descendants": 0,
-      "id": 30141215,
-      "kids": null,
-      "score": 16,
-      "time": 1643577545,
-      "title": "Show HN: BeanHub – A GitHub for Beancount",
-      "type": "story",
-      "url": "https://beanhub.io/"
-    },
-    "og_item": {
-      "title": "State of the Web: Static Site Generators",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://ik.imagekit.io/serenity/ByteofDev/Blog_Heading_Images/State_of_the_Web_Static_Site_Generators",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://byteofdev.com/posts/static-site-generators/",
-      "audio": [],
-      "description": "Static Site Generators have been changing quickly with new trends like Jamstack. Learn more about the background of static site generators, why people use them, and the current state of them, with information on modern SSGs like Eleventy, Next.js, SvelteKit, and Astro.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "ByteofDev",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.svg"
-      }
-    }
-  },
-  {
     "id": 30141192,
     "title": "Don't forget Microsoft",
     "url": "https://luttig.substack.com/p/dont-forget-microsoft",
@@ -721,14 +672,14 @@
     "publisher": "luttig.substack.com",
     "description": "Understanding the behemoth in Redmond teaches us valuable lessons in cloud infrastructure, startup strategy, and the future of software.",
     "by": "SamvitJ",
-    "points": 224,
+    "points": 227,
     "comment_count": 48,
     "hn_item": {
       "by": "fangpenlin",
       "descendants": 0,
       "id": 30141215,
       "kids": null,
-      "score": 16,
+      "score": 17,
       "time": 1643577545,
       "title": "Show HN: BeanHub – A GitHub for Beancount",
       "type": "story",
@@ -761,11 +712,60 @@
     }
   },
   {
+    "id": 30142558,
+    "title": "State of the Web: Static Site Generators",
+    "url": "https://byteofdev.com/posts/static-site-generators/",
+    "time": 1643586463,
+    "image": "https://ik.imagekit.io/serenity/ByteofDev/Blog_Heading_Images/State_of_the_Web_Static_Site_Generators",
+    "icon": "https://byteofdev.com/favicon.svg",
+    "publisher": "ByteofDev",
+    "description": "Static Site Generators have been changing quickly with new trends like Jamstack. Learn more about the background of static site generators, why people use them, and the current state of them, with information on modern SSGs like Eleventy, Next.js, SvelteKit, and Astro.",
+    "by": "AsyncBanana",
+    "points": 64,
+    "comment_count": 11,
+    "hn_item": {
+      "by": "fangpenlin",
+      "descendants": 0,
+      "id": 30141215,
+      "kids": null,
+      "score": 17,
+      "time": 1643577545,
+      "title": "Show HN: BeanHub – A GitHub for Beancount",
+      "type": "story",
+      "url": "https://beanhub.io/"
+    },
+    "og_item": {
+      "title": "State of the Web: Static Site Generators",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://ik.imagekit.io/serenity/ByteofDev/Blog_Heading_Images/State_of_the_Web_Static_Site_Generators",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://byteofdev.com/posts/static-site-generators/",
+      "audio": [],
+      "description": "Static Site Generators have been changing quickly with new trends like Jamstack. Learn more about the background of static site generators, why people use them, and the current state of them, with information on modern SSGs like Eleventy, Next.js, SvelteKit, and Astro.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "ByteofDev",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.svg"
+      }
+    }
+  },
+  {
     "id": 30138434,
     "title": "Beancount: Double-entry accounting from text files",
     "url": "https://github.com/beancount/beancount",
     "time": 1643559445,
-    "image": "https://opengraph.githubassets.com/3e4d893f49c83e6f65d46be1f29450d09bdf292cc8f7f4905b981d0060c619be/beancount/beancount",
+    "image": "https://opengraph.githubassets.com/fdbbdb604dd93bcd79d7679d06893a281bfd2c46f28ca1c9dc5447af0277f050/beancount/beancount",
     "icon": "https://github.githubassets.com/favicons/favicon.svg",
     "publisher": "GitHub",
     "description": "Beancount: Double-Entry Accounting from Text Files. - GitHub - beancount/beancount: Beancount: Double-Entry Accounting from Text Files.",
@@ -777,7 +777,7 @@
       "descendants": 0,
       "id": 30141215,
       "kids": null,
-      "score": 16,
+      "score": 17,
       "time": 1643577545,
       "title": "Show HN: BeanHub – A GitHub for Beancount",
       "type": "story",
@@ -788,7 +788,7 @@
       "type": "object",
       "image": [
         {
-          "url": "https://opengraph.githubassets.com/3e4d893f49c83e6f65d46be1f29450d09bdf292cc8f7f4905b981d0060c619be/beancount/beancount",
+          "url": "https://opengraph.githubassets.com/fdbbdb604dd93bcd79d7679d06893a281bfd2c46f28ca1c9dc5447af0277f050/beancount/beancount",
           "secure_url": "",
           "type": "",
           "width": 1200,
@@ -810,46 +810,6 @@
     }
   },
   {
-    "id": 30128193,
-    "title": "On Immersion",
-    "url": "https://blog.laurel.world/on-immersion/",
-    "time": 1643477006,
-    "image": "",
-    "icon": "https://blog.laurel.world/favicon.ico",
-    "publisher": "blog.laurel.world",
-    "description": "",
-    "by": "artmare",
-    "points": 25,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "fangpenlin",
-      "descendants": 0,
-      "id": 30141215,
-      "kids": null,
-      "score": 16,
-      "time": 1643577545,
-      "title": "Show HN: BeanHub – A GitHub for Beancount",
-      "type": "story",
-      "url": "https://beanhub.io/"
-    },
-    "og_item": {
-      "title": "A couple years ago, I created this list: immersive: walking taking a shower sleeping teaching falling in love cinema life or death experience I was curious about these amazing parts of life that feel so meaningful — like portals, where time and space take on a totally different, enchanted feeling. I remember writing this list… – blog.laurel.world",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30140984,
     "title": "A UX designer walks into a Tesla Bar",
     "url": "https://jenson.org/tesla/",
@@ -859,14 +819,14 @@
     "publisher": "jenson.org",
     "description": "",
     "by": "radley",
-    "points": 648,
+    "points": 654,
     "comment_count": 92,
     "hn_item": {
       "by": "fangpenlin",
       "descendants": 0,
       "id": 30141215,
       "kids": null,
-      "score": 16,
+      "score": 17,
       "time": 1643577545,
       "title": "Show HN: BeanHub – A GitHub for Beancount",
       "type": "story",
@@ -890,6 +850,86 @@
     }
   },
   {
+    "id": 30128193,
+    "title": "On Immersion",
+    "url": "https://blog.laurel.world/on-immersion/",
+    "time": 1643477006,
+    "image": "",
+    "icon": "https://blog.laurel.world/favicon.ico",
+    "publisher": "blog.laurel.world",
+    "description": "",
+    "by": "artmare",
+    "points": 25,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "fangpenlin",
+      "descendants": 0,
+      "id": 30141215,
+      "kids": null,
+      "score": 17,
+      "time": 1643577545,
+      "title": "Show HN: BeanHub – A GitHub for Beancount",
+      "type": "story",
+      "url": "https://beanhub.io/"
+    },
+    "og_item": {
+      "title": "A couple years ago, I created this list: immersive: walking taking a shower sleeping teaching falling in love cinema life or death experience I was curious about these amazing parts of life that feel so meaningful — like portals, where time and space take on a totally different, enchanted feeling. I remember writing this list… – blog.laurel.world",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30142105,
+    "title": "Seattle Telecommunications History Museum",
+    "url": "https://www.telcomhistory.org/connections-museum-seattle/",
+    "time": 1643583232,
+    "image": "",
+    "icon": "https://www.telcomhistory.org/favicon.ico",
+    "publisher": "telcomhistory.org",
+    "description": "",
+    "by": "basementcat",
+    "points": 46,
+    "comment_count": 7,
+    "hn_item": {
+      "by": "fangpenlin",
+      "descendants": 0,
+      "id": 30141215,
+      "kids": null,
+      "score": 17,
+      "time": 1643577545,
+      "title": "Show HN: BeanHub – A GitHub for Beancount",
+      "type": "story",
+      "url": "https://beanhub.io/"
+    },
+    "og_item": {
+      "title": "403 Forbidden",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30137681,
     "title": "In defence of the boring web",
     "url": "https://bastian.rieck.me/blog/posts/2022/boring/",
@@ -906,7 +946,7 @@
       "descendants": 0,
       "id": 30141215,
       "kids": null,
-      "score": 16,
+      "score": 17,
       "time": 1643577545,
       "title": "Show HN: BeanHub – A GitHub for Beancount",
       "type": "story",
@@ -930,55 +970,6 @@
     }
   },
   {
-    "id": 30140464,
-    "title": "The Great Unconformity: Research points to glaciers being the culprit",
-    "url": "https://www.vice.com/en/article/wxdzzb/a-billion-years-of-time-are-mysteriously-missing-scientists-think-they-know-why",
-    "time": 1643572375,
-    "image": "https://video-images.vice.com/articles/61f2a92be1de8b0094f51e5e/lede/1643293461145-screen-shot-2022-01-27-at-92341-am.png?image-resize-opts=Y3JvcD0xeHc6MC44NDUxeGg7MHh3LDAuMTE0OXhoJnJlc2l6ZT0xMjAwOiomcmVzaXplPTEyMDA6Kg",
-    "icon": "https://vice-web-statics-cdn.vice.com/favicons/vice/favicon-16x16.png",
-    "publisher": "Vice",
-    "description": "The Great Unconformity has baffled geologists for a century. New research points to glaciers being the culprit.",
-    "by": "cbkeller",
-    "points": 72,
-    "comment_count": 4,
-    "hn_item": {
-      "by": "fangpenlin",
-      "descendants": 0,
-      "id": 30141215,
-      "kids": null,
-      "score": 16,
-      "time": 1643577545,
-      "title": "Show HN: BeanHub – A GitHub for Beancount",
-      "type": "story",
-      "url": "https://beanhub.io/"
-    },
-    "og_item": {
-      "title": "A Billion Years of Time Are Mysteriously Missing. Scientists Think They Know Why.",
-      "type": "website",
-      "image": [
-        {
-          "url": "https://video-images.vice.com/articles/61f2a92be1de8b0094f51e5e/lede/1643293461145-screen-shot-2022-01-27-at-92341-am.png?image-resize-opts=Y3JvcD0xeHc6MC44NDUxeGg7MHh3LDAuMTE0OXhoJnJlc2l6ZT0xMjAwOiomcmVzaXplPTEyMDA6Kg",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://www.vice.com/en/article/wxdzzb/a-billion-years-of-time-are-mysteriously-missing-scientists-think-they-know-why",
-      "audio": [],
-      "description": "The Great Unconformity has baffled geologists for a century. New research points to glaciers being the culprit.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "https://vice-web-statics-cdn.vice.com/favicons/vice/favicon-16x16.png"
-      }
-    }
-  },
-  {
     "id": 30141022,
     "title": "BuildZoom (better way to build custom homes) Is hiring a Principal Engineer",
     "url": "https://jobs.lever.co/buildzoom",
@@ -995,7 +986,7 @@
       "descendants": 0,
       "id": 30141215,
       "kids": null,
-      "score": 16,
+      "score": 17,
       "time": 1643577545,
       "title": "Show HN: BeanHub – A GitHub for Beancount",
       "type": "story",
@@ -1028,6 +1019,55 @@
     }
   },
   {
+    "id": 30140464,
+    "title": "The Great Unconformity: Research points to glaciers being the culprit",
+    "url": "https://www.vice.com/en/article/wxdzzb/a-billion-years-of-time-are-mysteriously-missing-scientists-think-they-know-why",
+    "time": 1643572375,
+    "image": "https://video-images.vice.com/articles/61f2a92be1de8b0094f51e5e/lede/1643293461145-screen-shot-2022-01-27-at-92341-am.png?image-resize-opts=Y3JvcD0xeHc6MC44NDUxeGg7MHh3LDAuMTE0OXhoJnJlc2l6ZT0xMjAwOiomcmVzaXplPTEyMDA6Kg",
+    "icon": "https://vice-web-statics-cdn.vice.com/favicons/vice/favicon-16x16.png",
+    "publisher": "Vice",
+    "description": "The Great Unconformity has baffled geologists for a century. New research points to glaciers being the culprit.",
+    "by": "cbkeller",
+    "points": 72,
+    "comment_count": 4,
+    "hn_item": {
+      "by": "fangpenlin",
+      "descendants": 0,
+      "id": 30141215,
+      "kids": null,
+      "score": 17,
+      "time": 1643577545,
+      "title": "Show HN: BeanHub – A GitHub for Beancount",
+      "type": "story",
+      "url": "https://beanhub.io/"
+    },
+    "og_item": {
+      "title": "A Billion Years of Time Are Mysteriously Missing. Scientists Think They Know Why.",
+      "type": "website",
+      "image": [
+        {
+          "url": "https://video-images.vice.com/articles/61f2a92be1de8b0094f51e5e/lede/1643293461145-screen-shot-2022-01-27-at-92341-am.png?image-resize-opts=Y3JvcD0xeHc6MC44NDUxeGg7MHh3LDAuMTE0OXhoJnJlc2l6ZT0xMjAwOiomcmVzaXplPTEyMDA6Kg",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://www.vice.com/en/article/wxdzzb/a-billion-years-of-time-are-mysteriously-missing-scientists-think-they-know-why",
+      "audio": [],
+      "description": "The Great Unconformity has baffled geologists for a century. New research points to glaciers being the culprit.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "https://vice-web-statics-cdn.vice.com/favicons/vice/favicon-16x16.png"
+      }
+    }
+  },
+  {
     "id": 30141439,
     "title": "Operation Warp Speed: A new model for industrial policy",
     "url": "https://americanaffairsjournal.org/2021/05/inside-operation-warp-speed-a-new-model-for-industrial-policy/",
@@ -1044,7 +1084,7 @@
       "descendants": 0,
       "id": 30141215,
       "kids": null,
-      "score": 16,
+      "score": 17,
       "time": 1643577545,
       "title": "Show HN: BeanHub – A GitHub for Beancount",
       "type": "story",
@@ -1077,30 +1117,30 @@
     }
   },
   {
-    "id": 30142105,
-    "title": "Seattle Telecommunications History Museum",
-    "url": "https://www.telcomhistory.org/connections-museum-seattle/",
-    "time": 1643583232,
+    "id": 30131387,
+    "title": "Game performance optimization – A practical example from Industry Idle",
+    "url": "https://ruoyusun.com/2022/01/28/game-pref.html",
+    "time": 1643496513,
     "image": "",
-    "icon": "https://www.telcomhistory.org/favicon.ico",
-    "publisher": "telcomhistory.org",
+    "icon": "https://ruoyusun.com/favicon-16x16.png",
+    "publisher": "ruoyusun.com",
     "description": "",
-    "by": "basementcat",
+    "by": "insraq",
     "points": 43,
-    "comment_count": 7,
+    "comment_count": 4,
     "hn_item": {
       "by": "fangpenlin",
       "descendants": 0,
       "id": 30141215,
       "kids": null,
-      "score": 16,
+      "score": 17,
       "time": 1643577545,
       "title": "Show HN: BeanHub – A GitHub for Beancount",
       "type": "story",
       "url": "https://beanhub.io/"
     },
     "og_item": {
-      "title": "403 Forbidden",
+      "title": "Game Performance Optimization - A Practical Example From Industry Idle",
       "type": "",
       "image": [],
       "url": "",
@@ -1112,7 +1152,7 @@
       "site_name": "",
       "video": [],
       "favicon": {
-        "url": "/favicon.ico"
+        "url": "/favicon-16x16.png"
       }
     }
   },
@@ -1133,7 +1173,7 @@
       "descendants": 0,
       "id": 30141215,
       "kids": null,
-      "score": 16,
+      "score": 17,
       "time": 1643577545,
       "title": "Show HN: BeanHub – A GitHub for Beancount",
       "type": "story",
@@ -1166,46 +1206,6 @@
     }
   },
   {
-    "id": 30131387,
-    "title": "Game performance optimization – A practical example from Industry Idle",
-    "url": "https://ruoyusun.com/2022/01/28/game-pref.html",
-    "time": 1643496513,
-    "image": "",
-    "icon": "https://ruoyusun.com/favicon-16x16.png",
-    "publisher": "ruoyusun.com",
-    "description": "",
-    "by": "insraq",
-    "points": 42,
-    "comment_count": 4,
-    "hn_item": {
-      "by": "fangpenlin",
-      "descendants": 0,
-      "id": 30141215,
-      "kids": null,
-      "score": 16,
-      "time": 1643577545,
-      "title": "Show HN: BeanHub – A GitHub for Beancount",
-      "type": "story",
-      "url": "https://beanhub.io/"
-    },
-    "og_item": {
-      "title": "Game Performance Optimization - A Practical Example From Industry Idle",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon-16x16.png"
-      }
-    }
-  },
-  {
     "id": 30140270,
     "title": "When the algorithm is your boss",
     "url": "https://tribunemag.co.uk/2022/01/amazon-algorithm-human-resource-management-tech-worker-surveillance",
@@ -1215,14 +1215,14 @@
     "publisher": "tribunemag.co.uk",
     "description": "At workplaces like Amazon, algorithms have become the worst kind of boss – one who watches you constantly, makes impossible demands and then sacks you without explanation.",
     "by": "jrepinc",
-    "points": 81,
+    "points": 82,
     "comment_count": 12,
     "hn_item": {
       "by": "fangpenlin",
       "descendants": 0,
       "id": 30141215,
       "kids": null,
-      "score": 16,
+      "score": 17,
       "time": 1643577545,
       "title": "Show HN: BeanHub – A GitHub for Beancount",
       "type": "story",
@@ -1271,7 +1271,7 @@
       "descendants": 0,
       "id": 30141215,
       "kids": null,
-      "score": 16,
+      "score": 17,
       "time": 1643577545,
       "title": "Show HN: BeanHub – A GitHub for Beancount",
       "type": "story",
@@ -1304,14 +1304,14 @@
     "publisher": "softpanorama.org",
     "description": "",
     "by": "ingve",
-    "points": 148,
+    "points": 149,
     "comment_count": 18,
     "hn_item": {
       "by": "fangpenlin",
       "descendants": 0,
       "id": 30141215,
       "kids": null,
-      "score": 16,
+      "score": 17,
       "time": 1643577545,
       "title": "Show HN: BeanHub – A GitHub for Beancount",
       "type": "story",
@@ -1344,14 +1344,14 @@
     "publisher": "lowleveldesign.org",
     "description": "More than ten years ago (how time flies!), when I published the basic sample of a COM+ server and client, I thought that I wouldn’t be touching this subject again. But here we are, in 2022, a…",
     "by": "lowleveldesign",
-    "points": 74,
+    "points": 75,
     "comment_count": 12,
     "hn_item": {
       "by": "fangpenlin",
       "descendants": 0,
       "id": 30141215,
       "kids": null,
-      "score": 16,
+      "score": 17,
       "time": 1643577545,
       "title": "Show HN: BeanHub – A GitHub for Beancount",
       "type": "story",
@@ -1393,20 +1393,69 @@
     "publisher": "win.tue.nl",
     "description": "",
     "by": "camnora",
-    "points": 99,
+    "points": 100,
     "comment_count": 7,
     "hn_item": {
       "by": "fangpenlin",
       "descendants": 0,
       "id": 30141215,
       "kids": null,
-      "score": 16,
+      "score": 17,
       "time": 1643577545,
       "title": "Show HN: BeanHub – A GitHub for Beancount",
       "type": "story",
       "url": "https://beanhub.io/"
     },
     "og_item": null
+  },
+  {
+    "id": 30144101,
+    "title": "Please Make a Dumb Car",
+    "url": "https://techcrunch.com/2022/01/29/please-make-a-dumb-car/",
+    "time": 1643599448,
+    "image": "https://techcrunch.com/wp-content/uploads/2022/01/dumb-car2.jpg?w=711",
+    "icon": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=192",
+    "publisher": "TechCrunch",
+    "description": "Today’s cars are dumb where they should be smart, and smart where they should be dumb. Enough already. Make a car that’s pretty much all dumb and watch it sell — because what automakers are giving people is so bad, they’ll pay more to have less of it. Cars now are like budget smar…",
+    "by": "wrycoder",
+    "points": 26,
+    "comment_count": 4,
+    "hn_item": {
+      "by": "fangpenlin",
+      "descendants": 0,
+      "id": 30141215,
+      "kids": null,
+      "score": 17,
+      "time": 1643577545,
+      "title": "Show HN: BeanHub – A GitHub for Beancount",
+      "type": "story",
+      "url": "https://beanhub.io/"
+    },
+    "og_item": {
+      "title": "Please make a dumb car – TechCrunch",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/01/dumb-car2.jpg?w=711",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://social.techcrunch.com/2022/01/29/please-make-a-dumb-car/",
+      "audio": [],
+      "description": "Today’s cars are dumb where they should be smart, and smart where they should be dumb. Enough already. Make a car that’s pretty much all dumb and watch it sell — because what automakers are giving people is so bad, they’ll pay more to have less of it. Cars now are like budget smar…",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "TechCrunch",
+      "video": [],
+      "favicon": {
+        "url": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=192"
+      }
+    }
   },
   {
     "id": 30137720,
@@ -1425,7 +1474,7 @@
       "descendants": 0,
       "id": 30141215,
       "kids": null,
-      "score": 16,
+      "score": 17,
       "time": 1643577545,
       "title": "Show HN: BeanHub – A GitHub for Beancount",
       "type": "story",
@@ -1474,7 +1523,7 @@
       "descendants": 0,
       "id": 30141215,
       "kids": null,
-      "score": 16,
+      "score": 17,
       "time": 1643577545,
       "title": "Show HN: BeanHub – A GitHub for Beancount",
       "type": "story",
@@ -1507,55 +1556,6 @@
     }
   },
   {
-    "id": 30115520,
-    "title": "Pearls Before Breakfast (2007)",
-    "url": "https://www.washingtonpost.com/lifestyle/magazine/pearls-before-breakfast-can-one-of-the-nations-great-musicians-cut-through-the-fog-of-a-dc-rush-hour-lets-find-out/2014/09/23/8a6d46da-4331-11e4-b47c-f5889e061e5f_story.html",
-    "time": 1643382593,
-    "image": "https://www.washingtonpost.com/pbox.php?url=https://www.washingtonpost.com/pb/resources/img/twp-social-share.png\u0026w=1484\u0026op=resize\u0026opt=1\u0026filter=antialias\u0026t=20170517",
-    "icon": "https://www.washingtonpost.com/favicon.ico",
-    "publisher": "Washington Post",
-    "description": "Joshua Bell is one of the world’s greatest violinists. His instrument of choice is a multimillion-dollar Stradivarius. If he played it for spare change, incognito, outside a bustling Metro stop in Washington, would anyone notice?",
-    "by": "Tomte",
-    "points": 11,
-    "comment_count": 6,
-    "hn_item": {
-      "by": "fangpenlin",
-      "descendants": 0,
-      "id": 30141215,
-      "kids": null,
-      "score": 16,
-      "time": 1643577545,
-      "title": "Show HN: BeanHub – A GitHub for Beancount",
-      "type": "story",
-      "url": "https://beanhub.io/"
-    },
-    "og_item": {
-      "title": "Pearls Before Breakfast: Can one of the nation’s great musicians cut through the fog of a D.C. rush hour? Let’s find out.",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://www.washingtonpost.com/pbox.php?url=https://www.washingtonpost.com/pb/resources/img/twp-social-share.png\u0026w=1484\u0026op=resize\u0026opt=1\u0026filter=antialias\u0026t=20170517",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://www.washingtonpost.com/lifestyle/magazine/pearls-before-breakfast-can-one-of-the-nations-great-musicians-cut-through-the-fog-of-a-dc-rush-hour-lets-find-out/2014/09/23/8a6d46da-4331-11e4-b47c-f5889e061e5f_story.html",
-      "audio": [],
-      "description": "Joshua Bell is one of the world’s greatest violinists. His instrument of choice is a multimillion-dollar Stradivarius. If he played it for spare change, incognito, outside a bustling Metro stop in Washington, would anyone notice?",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Washington Post",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30142918,
     "title": "Unconscious R\u0026D (2021)",
     "url": "https://subconscious.substack.com/p/unconscious-r-and-d",
@@ -1565,14 +1565,14 @@
     "publisher": "subconscious.substack.com",
     "description": "What if your notes could self-organize—from scratch notes, to draft, to finished creative work—through a stream-of-consciousness process—like dreaming? Years ago, I was part of a user study that aimed to understand how creators create. We interviewed authors, artists, students, influencers,…",
     "by": "fagnerbrack",
-    "points": 18,
+    "points": 19,
     "comment_count": 3,
     "hn_item": {
       "by": "fangpenlin",
       "descendants": 0,
       "id": 30141215,
       "kids": null,
-      "score": 16,
+      "score": 17,
       "time": 1643577545,
       "title": "Show HN: BeanHub – A GitHub for Beancount",
       "type": "story",
@@ -1605,104 +1605,6 @@
     }
   },
   {
-    "id": 30144101,
-    "title": "Please Make a Dumb Car",
-    "url": "https://techcrunch.com/2022/01/29/please-make-a-dumb-car/",
-    "time": 1643599448,
-    "image": "https://techcrunch.com/wp-content/uploads/2022/01/dumb-car2.jpg?w=711",
-    "icon": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=192",
-    "publisher": "TechCrunch",
-    "description": "Today’s cars are dumb where they should be smart, and smart where they should be dumb. Enough already. Make a car that’s pretty much all dumb and watch it sell — because what automakers are giving people is so bad, they’ll pay more to have less of it. Cars now are like budget smar…",
-    "by": "wrycoder",
-    "points": 24,
-    "comment_count": 4,
-    "hn_item": {
-      "by": "fangpenlin",
-      "descendants": 0,
-      "id": 30141215,
-      "kids": null,
-      "score": 16,
-      "time": 1643577545,
-      "title": "Show HN: BeanHub – A GitHub for Beancount",
-      "type": "story",
-      "url": "https://beanhub.io/"
-    },
-    "og_item": {
-      "title": "Please make a dumb car – TechCrunch",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/01/dumb-car2.jpg?w=711",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://social.techcrunch.com/2022/01/29/please-make-a-dumb-car/",
-      "audio": [],
-      "description": "Today’s cars are dumb where they should be smart, and smart where they should be dumb. Enough already. Make a car that’s pretty much all dumb and watch it sell — because what automakers are giving people is so bad, they’ll pay more to have less of it. Cars now are like budget smar…",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "TechCrunch",
-      "video": [],
-      "favicon": {
-        "url": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=192"
-      }
-    }
-  },
-  {
-    "id": 30135190,
-    "title": "FunctionStomping – A new shellcode injection technique",
-    "url": "https://github.com/Idov31/FunctionStomping",
-    "time": 1643533222,
-    "image": "https://opengraph.githubassets.com/3e5ae622099eb47e710f07856f4be2a647ec35c3a4b33fa21790d61fb0b8b380/Idov31/FunctionStomping",
-    "icon": "https://github.githubassets.com/favicons/favicon.svg",
-    "publisher": "GitHub",
-    "description": "A new shellcode injection technique. Given as C++ header or standalone Rust program. - GitHub - Idov31/FunctionStomping: A new shellcode injection technique. Given as C++ header or standalone Rust ...",
-    "by": "maydemir",
-    "points": 33,
-    "comment_count": 2,
-    "hn_item": {
-      "by": "fangpenlin",
-      "descendants": 0,
-      "id": 30141215,
-      "kids": null,
-      "score": 16,
-      "time": 1643577545,
-      "title": "Show HN: BeanHub – A GitHub for Beancount",
-      "type": "story",
-      "url": "https://beanhub.io/"
-    },
-    "og_item": {
-      "title": "GitHub - Idov31/FunctionStomping: A new shellcode injection technique. Given as C++ header or standalone Rust program.",
-      "type": "object",
-      "image": [
-        {
-          "url": "https://opengraph.githubassets.com/3e5ae622099eb47e710f07856f4be2a647ec35c3a4b33fa21790d61fb0b8b380/Idov31/FunctionStomping",
-          "secure_url": "",
-          "type": "",
-          "width": 1200,
-          "height": 600,
-          "alt": ""
-        }
-      ],
-      "url": "https://github.com/Idov31/FunctionStomping",
-      "audio": [],
-      "description": "A new shellcode injection technique. Given as C++ header or standalone Rust program. - GitHub - Idov31/FunctionStomping: A new shellcode injection technique. Given as C++ header or standalone Rust ...",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "GitHub",
-      "video": [],
-      "favicon": {
-        "url": "https://github.githubassets.com/favicons/favicon.svg"
-      }
-    }
-  },
-  {
     "id": 30125933,
     "title": "Dataset and Model for “I built a system to take photos of planes over my house”",
     "url": "https://universe.roboflow.com/skybot-cam/overhead-plane-detector",
@@ -1719,7 +1621,7 @@
       "descendants": 0,
       "id": 30141215,
       "kids": null,
-      "score": 16,
+      "score": 17,
       "time": 1643577545,
       "title": "Show HN: BeanHub – A GitHub for Beancount",
       "type": "story",
@@ -1752,6 +1654,104 @@
     }
   },
   {
+    "id": 30115520,
+    "title": "Pearls Before Breakfast (2007)",
+    "url": "https://www.washingtonpost.com/lifestyle/magazine/pearls-before-breakfast-can-one-of-the-nations-great-musicians-cut-through-the-fog-of-a-dc-rush-hour-lets-find-out/2014/09/23/8a6d46da-4331-11e4-b47c-f5889e061e5f_story.html",
+    "time": 1643382593,
+    "image": "https://www.washingtonpost.com/pbox.php?url=https://www.washingtonpost.com/pb/resources/img/twp-social-share.png\u0026w=1484\u0026op=resize\u0026opt=1\u0026filter=antialias\u0026t=20170517",
+    "icon": "https://www.washingtonpost.com/favicon.ico",
+    "publisher": "Washington Post",
+    "description": "Joshua Bell is one of the world’s greatest violinists. His instrument of choice is a multimillion-dollar Stradivarius. If he played it for spare change, incognito, outside a bustling Metro stop in Washington, would anyone notice?",
+    "by": "Tomte",
+    "points": 11,
+    "comment_count": 6,
+    "hn_item": {
+      "by": "fangpenlin",
+      "descendants": 0,
+      "id": 30141215,
+      "kids": null,
+      "score": 17,
+      "time": 1643577545,
+      "title": "Show HN: BeanHub – A GitHub for Beancount",
+      "type": "story",
+      "url": "https://beanhub.io/"
+    },
+    "og_item": {
+      "title": "Pearls Before Breakfast: Can one of the nation’s great musicians cut through the fog of a D.C. rush hour? Let’s find out.",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://www.washingtonpost.com/pbox.php?url=https://www.washingtonpost.com/pb/resources/img/twp-social-share.png\u0026w=1484\u0026op=resize\u0026opt=1\u0026filter=antialias\u0026t=20170517",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://www.washingtonpost.com/lifestyle/magazine/pearls-before-breakfast-can-one-of-the-nations-great-musicians-cut-through-the-fog-of-a-dc-rush-hour-lets-find-out/2014/09/23/8a6d46da-4331-11e4-b47c-f5889e061e5f_story.html",
+      "audio": [],
+      "description": "Joshua Bell is one of the world’s greatest violinists. His instrument of choice is a multimillion-dollar Stradivarius. If he played it for spare change, incognito, outside a bustling Metro stop in Washington, would anyone notice?",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Washington Post",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30135190,
+    "title": "FunctionStomping – A new shellcode injection technique",
+    "url": "https://github.com/Idov31/FunctionStomping",
+    "time": 1643533222,
+    "image": "https://opengraph.githubassets.com/3e5ae622099eb47e710f07856f4be2a647ec35c3a4b33fa21790d61fb0b8b380/Idov31/FunctionStomping",
+    "icon": "https://github.githubassets.com/favicons/favicon.svg",
+    "publisher": "GitHub",
+    "description": "A new shellcode injection technique. Given as C++ header or standalone Rust program. - GitHub - Idov31/FunctionStomping: A new shellcode injection technique. Given as C++ header or standalone Rust ...",
+    "by": "maydemir",
+    "points": 33,
+    "comment_count": 3,
+    "hn_item": {
+      "by": "fangpenlin",
+      "descendants": 0,
+      "id": 30141215,
+      "kids": null,
+      "score": 17,
+      "time": 1643577545,
+      "title": "Show HN: BeanHub – A GitHub for Beancount",
+      "type": "story",
+      "url": "https://beanhub.io/"
+    },
+    "og_item": {
+      "title": "GitHub - Idov31/FunctionStomping: A new shellcode injection technique. Given as C++ header or standalone Rust program.",
+      "type": "object",
+      "image": [
+        {
+          "url": "https://opengraph.githubassets.com/3e5ae622099eb47e710f07856f4be2a647ec35c3a4b33fa21790d61fb0b8b380/Idov31/FunctionStomping",
+          "secure_url": "",
+          "type": "",
+          "width": 1200,
+          "height": 600,
+          "alt": ""
+        }
+      ],
+      "url": "https://github.com/Idov31/FunctionStomping",
+      "audio": [],
+      "description": "A new shellcode injection technique. Given as C++ header or standalone Rust program. - GitHub - Idov31/FunctionStomping: A new shellcode injection technique. Given as C++ header or standalone Rust ...",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "GitHub",
+      "video": [],
+      "favicon": {
+        "url": "https://github.githubassets.com/favicons/favicon.svg"
+      }
+    }
+  },
+  {
     "id": 30120901,
     "title": "Using tree data structures to implement terminal split panes",
     "url": "https://blog.warp.dev/using-tree-data-structures-to-implement-terminal-split-panes-more-fun-than-it-sounds/",
@@ -1768,7 +1768,7 @@
       "descendants": 0,
       "id": 30141215,
       "kids": null,
-      "score": 16,
+      "score": 17,
       "time": 1643577545,
       "title": "Show HN: BeanHub – A GitHub for Beancount",
       "type": "story",
@@ -1817,7 +1817,7 @@
       "descendants": 0,
       "id": 30141215,
       "kids": null,
-      "score": 16,
+      "score": 17,
       "time": 1643577545,
       "title": "Show HN: BeanHub – A GitHub for Beancount",
       "type": "story",
@@ -1850,6 +1850,55 @@
     }
   },
   {
+    "id": 30119285,
+    "title": "Devious SQL: Message Queuing Using Native PostgreSQL",
+    "url": "https://blog.crunchydata.com/blog/message-queuing-using-native-postgresql",
+    "time": 1643398437,
+    "image": "https://blog.crunchydata.com/hubfs/goose_march.png#keepProtocol",
+    "icon": "https://blog.crunchydata.com/hubfs/Flat%20Logo_Color%20Icon.png",
+    "publisher": "blog.crunchydata.com",
+    "description": "An interesting question came up on the #postgresql IRC channel about how to use native PostgreSQL features to handle some sort of queuing behavior. While the specific usage was related to handling serialization of specific events to some external broker, the specifics are less important than the …",
+    "by": "Scramblejams",
+    "points": 114,
+    "comment_count": 9,
+    "hn_item": {
+      "by": "fangpenlin",
+      "descendants": 0,
+      "id": 30141215,
+      "kids": null,
+      "score": 17,
+      "time": 1643577545,
+      "title": "Show HN: BeanHub – A GitHub for Beancount",
+      "type": "story",
+      "url": "https://beanhub.io/"
+    },
+    "og_item": {
+      "title": "Devious SQL: Message Queuing Using Native PostgreSQL",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://blog.crunchydata.com/hubfs/goose_march.png#keepProtocol",
+          "secure_url": "",
+          "type": "",
+          "width": 523,
+          "height": 273,
+          "alt": ""
+        }
+      ],
+      "url": "https://blog.crunchydata.com/blog/message-queuing-using-native-postgresql",
+      "audio": [],
+      "description": "An interesting question came up on the #postgresql IRC channel about how to use native PostgreSQL features to handle some sort of queuing behavior. While the specific usage was related to handling serialization of specific events to some external broker, the specifics are less important than the overall structure.\n\n",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "https://blog.crunchydata.com/hubfs/Flat%20Logo_Color%20Icon.png"
+      }
+    }
+  },
+  {
     "id": 30143377,
     "title": "A Simple Transformer Implementation(PyTorch) Without Difficult Syntax",
     "url": "https://github.com/IpsumDominum/Pytorch-Simple-Transformer",
@@ -1866,7 +1915,7 @@
       "descendants": 0,
       "id": 30141215,
       "kids": null,
-      "score": 16,
+      "score": 17,
       "time": 1643577545,
       "title": "Show HN: BeanHub – A GitHub for Beancount",
       "type": "story",
@@ -1915,7 +1964,7 @@
       "descendants": 0,
       "id": 30141215,
       "kids": null,
-      "score": 16,
+      "score": 17,
       "time": 1643577545,
       "title": "Show HN: BeanHub – A GitHub for Beancount",
       "type": "story",
@@ -1948,55 +1997,6 @@
     }
   },
   {
-    "id": 30119285,
-    "title": "Devious SQL: Message Queuing Using Native PostgreSQL",
-    "url": "https://blog.crunchydata.com/blog/message-queuing-using-native-postgresql",
-    "time": 1643398437,
-    "image": "https://blog.crunchydata.com/hubfs/goose_march.png#keepProtocol",
-    "icon": "https://blog.crunchydata.com/hubfs/Flat%20Logo_Color%20Icon.png",
-    "publisher": "blog.crunchydata.com",
-    "description": "An interesting question came up on the #postgresql IRC channel about how to use native PostgreSQL features to handle some sort of queuing behavior. While the specific usage was related to handling serialization of specific events to some external broker, the specifics are less important than the …",
-    "by": "Scramblejams",
-    "points": 113,
-    "comment_count": 9,
-    "hn_item": {
-      "by": "fangpenlin",
-      "descendants": 0,
-      "id": 30141215,
-      "kids": null,
-      "score": 16,
-      "time": 1643577545,
-      "title": "Show HN: BeanHub – A GitHub for Beancount",
-      "type": "story",
-      "url": "https://beanhub.io/"
-    },
-    "og_item": {
-      "title": "Devious SQL: Message Queuing Using Native PostgreSQL",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://blog.crunchydata.com/hubfs/goose_march.png#keepProtocol",
-          "secure_url": "",
-          "type": "",
-          "width": 523,
-          "height": 273,
-          "alt": ""
-        }
-      ],
-      "url": "https://blog.crunchydata.com/blog/message-queuing-using-native-postgresql",
-      "audio": [],
-      "description": "An interesting question came up on the #postgresql IRC channel about how to use native PostgreSQL features to handle some sort of queuing behavior. While the specific usage was related to handling serialization of specific events to some external broker, the specifics are less important than the overall structure.\n\n",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "https://blog.crunchydata.com/hubfs/Flat%20Logo_Color%20Icon.png"
-      }
-    }
-  },
-  {
     "id": 30131847,
     "title": "Mix and Match Mental Models",
     "url": "https://lethain.com/mental-models-mix-match/",
@@ -2013,7 +2013,7 @@
       "descendants": 0,
       "id": 30141215,
       "kids": null,
-      "score": 16,
+      "score": 17,
       "time": 1643577545,
       "title": "Show HN: BeanHub – A GitHub for Beancount",
       "type": "story",
@@ -2046,6 +2046,46 @@
     }
   },
   {
+    "id": 30120857,
+    "title": "Writing an efficient Vulkan renderer (2020)",
+    "url": "https://zeux.io/2020/02/27/writing-an-efficient-vulkan-renderer/",
+    "time": 1643406697,
+    "image": "",
+    "icon": "https://zeux.io/2020/02/27/writing-an-efficient-vulkan-renderer/data:;base64,iVBORw0KGgo=",
+    "publisher": "zeux.io",
+    "description": "",
+    "by": "nabla9",
+    "points": 75,
+    "comment_count": 5,
+    "hn_item": {
+      "by": "fangpenlin",
+      "descendants": 0,
+      "id": 30141215,
+      "kids": null,
+      "score": 17,
+      "time": 1643577545,
+      "title": "Show HN: BeanHub – A GitHub for Beancount",
+      "type": "story",
+      "url": "https://beanhub.io/"
+    },
+    "og_item": {
+      "title": "\n    zeux.io - Writing an efficient Vulkan renderer\n  ",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "data:;base64,iVBORw0KGgo="
+      }
+    }
+  },
+  {
     "id": 30129565,
     "title": "Static-Let, or how I Learned to stop worrying and love Load-Time-Value",
     "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md",
@@ -2062,7 +2102,7 @@
       "descendants": 0,
       "id": 30141215,
       "kids": null,
-      "score": 16,
+      "score": 17,
       "time": 1643577545,
       "title": "Show HN: BeanHub – A GitHub for Beancount",
       "type": "story",
@@ -2095,135 +2135,6 @@
     }
   },
   {
-    "id": 30120857,
-    "title": "Writing an efficient Vulkan renderer (2020)",
-    "url": "https://zeux.io/2020/02/27/writing-an-efficient-vulkan-renderer/",
-    "time": 1643406697,
-    "image": "",
-    "icon": "https://zeux.io/2020/02/27/writing-an-efficient-vulkan-renderer/data:;base64,iVBORw0KGgo=",
-    "publisher": "zeux.io",
-    "description": "",
-    "by": "nabla9",
-    "points": 75,
-    "comment_count": 5,
-    "hn_item": {
-      "by": "fangpenlin",
-      "descendants": 0,
-      "id": 30141215,
-      "kids": null,
-      "score": 16,
-      "time": 1643577545,
-      "title": "Show HN: BeanHub – A GitHub for Beancount",
-      "type": "story",
-      "url": "https://beanhub.io/"
-    },
-    "og_item": {
-      "title": "\n    zeux.io - Writing an efficient Vulkan renderer\n  ",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "data:;base64,iVBORw0KGgo="
-      }
-    }
-  },
-  {
-    "id": 30138277,
-    "title": "Set up a website with Nim (2019)",
-    "url": "https://ttj.dk/blog/2019/01/20/setup-a-website-with-nim",
-    "time": 1643558464,
-    "image": "",
-    "icon": "https://ttj.dk/images/favicon-ttj.png",
-    "publisher": "ttj.dk",
-    "description": "This small tutorial will help you create a website with Nim. We'll use libraries from the standard library and some externals from Nim-users. You will learn to create a small webserver with an admin user who has access to the secret area.",
-    "by": "melissalobos",
-    "points": 77,
-    "comment_count": 7,
-    "hn_item": {
-      "by": "fangpenlin",
-      "descendants": 0,
-      "id": 30141215,
-      "kids": null,
-      "score": 16,
-      "time": 1643577545,
-      "title": "Show HN: BeanHub – A GitHub for Beancount",
-      "type": "story",
-      "url": "https://beanhub.io/"
-    },
-    "og_item": {
-      "title": " Nim tutorial for setting up a website. ",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "This small tutorial will help you create a website with Nim. We'll use libraries from the standard library and some externals from Nim-users. You will learn to create a small webserver with an admin user who has access to the secret area.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/images/favicon-ttj.png"
-      }
-    }
-  },
-  {
-    "id": 30144041,
-    "title": "Autonomous Detection and Deterrence of Pigeons on Buildings by Drones",
-    "url": "https://ieeexplore.ieee.org/document/9656717",
-    "time": 1643598627,
-    "image": "https://ieeexplore.ieee.org/ielx7/6287639/9668973/9656717/graphical_abstract/access-gacovergraphic-3137031.jpg",
-    "icon": "https://ieeexplore.ieee.org/favicon.ico",
-    "publisher": "ieeexplore.ieee.org",
-    "description": "Pigeons may transmit diseases to humans and cause damages to buildings, monuments, and other infrastructure. Therefore, several control strategies have been developed, but they have been found to be either ineffective or harmful to animals and often depend on human operation. This study proposes …",
-    "by": "openknot",
-    "points": 3,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "fangpenlin",
-      "descendants": 0,
-      "id": 30141215,
-      "kids": null,
-      "score": 16,
-      "time": 1643577545,
-      "title": "Show HN: BeanHub – A GitHub for Beancount",
-      "type": "story",
-      "url": "https://beanhub.io/"
-    },
-    "og_item": {
-      "title": "Autonomous Detection and Deterrence of Pigeons on Buildings by Drones",
-      "type": "",
-      "image": [
-        {
-          "url": "https://ieeexplore.ieee.org/ielx7/6287639/9668973/9656717/graphical_abstract/access-gacovergraphic-3137031.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "",
-      "audio": [],
-      "description": "Pigeons may transmit diseases to humans and cause damages to buildings, monuments, and other infrastructure. Therefore, several control strategies have been developed, but they have been found to be either ineffective or harmful to animals and often depend on human operation. This study proposes a system capable of autonomously detecting and deterring pigeons on building roofs using a drone. The presence and position of pigeons were detected in real time by a neural network using images taken by a video camera located on the roof. Moreover, a drone was utilized to deter the animals. Field experiments were conducted in a real-world urban setting to assess the proposed system by comparing the number of animals and their stay durations for over five days against the 21-day-trial experiment without the drone. During the five days of experiments, the drone was automatically deployed 55 times and was significantly effective in reducing the number of birds and their stay durations without causing any harm to them. In conclusion, this study has proven the effectiveness of this system in deterring birds, and this approach can be seen as a fully autonomous alternative to the already existing methods.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30142106,
     "title": "Yoga and meditation do not quiet the ego but instead boost self-enhancement (2018)",
     "url": "https://journals.sagepub.com/doi/abs/10.1177/0956797618764621",
@@ -2233,14 +2144,14 @@
     "publisher": "journals.sagepub.com",
     "description": "",
     "by": "FrojoS",
-    "points": 18,
-    "comment_count": 6,
+    "points": 19,
+    "comment_count": 7,
     "hn_item": {
       "by": "fangpenlin",
       "descendants": 0,
       "id": 30141215,
       "kids": null,
-      "score": 16,
+      "score": 17,
       "time": 1643577545,
       "title": "Show HN: BeanHub – A GitHub for Beancount",
       "type": "story",
@@ -2264,6 +2175,46 @@
     }
   },
   {
+    "id": 30138277,
+    "title": "Set up a website with Nim (2019)",
+    "url": "https://ttj.dk/blog/2019/01/20/setup-a-website-with-nim",
+    "time": 1643558464,
+    "image": "",
+    "icon": "https://ttj.dk/images/favicon-ttj.png",
+    "publisher": "ttj.dk",
+    "description": "This small tutorial will help you create a website with Nim. We'll use libraries from the standard library and some externals from Nim-users. You will learn to create a small webserver with an admin user who has access to the secret area.",
+    "by": "melissalobos",
+    "points": 77,
+    "comment_count": 7,
+    "hn_item": {
+      "by": "fangpenlin",
+      "descendants": 0,
+      "id": 30141215,
+      "kids": null,
+      "score": 17,
+      "time": 1643577545,
+      "title": "Show HN: BeanHub – A GitHub for Beancount",
+      "type": "story",
+      "url": "https://beanhub.io/"
+    },
+    "og_item": {
+      "title": " Nim tutorial for setting up a website. ",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "This small tutorial will help you create a website with Nim. We'll use libraries from the standard library and some externals from Nim-users. You will learn to create a small webserver with an admin user who has access to the secret area.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/images/favicon-ttj.png"
+      }
+    }
+  },
+  {
     "id": 30111033,
     "title": "Toxic black mold is growing in my brain",
     "url": "https://www.buzzfeednews.com/article/tysonbottenus/black-mold-growing-toxic-brain-vacation",
@@ -2273,14 +2224,14 @@
     "publisher": "BuzzFeed News",
     "description": "I went on a vacation. I came home with a mysterious fungus in my brain that is so rare only about 120 cases have been confirmed worldwide since its discovery in 1911.",
     "by": "yellow_lead",
-    "points": 183,
+    "points": 184,
     "comment_count": 10,
     "hn_item": {
       "by": "fangpenlin",
       "descendants": 0,
       "id": 30141215,
       "kids": null,
-      "score": 16,
+      "score": 17,
       "time": 1643577545,
       "title": "Show HN: BeanHub – A GitHub for Beancount",
       "type": "story",
@@ -2313,42 +2264,51 @@
     }
   },
   {
-    "id": 30144516,
-    "title": "“Memory leaks are memory safe in Rust”",
-    "url": "https://doc.rust-lang.org/book/ch15-06-reference-cycles.html",
-    "time": 1643603628,
-    "image": "",
-    "icon": "https://doc.rust-lang.org/book/favicon.png",
-    "publisher": "doc.rust-lang.org",
-    "description": "",
-    "by": "DoctorOW",
-    "points": 5,
-    "comment_count": 1,
+    "id": 30144041,
+    "title": "Autonomous Detection and Deterrence of Pigeons on Buildings by Drones",
+    "url": "https://ieeexplore.ieee.org/document/9656717",
+    "time": 1643598627,
+    "image": "https://ieeexplore.ieee.org/ielx7/6287639/9668973/9656717/graphical_abstract/access-gacovergraphic-3137031.jpg",
+    "icon": "https://ieeexplore.ieee.org/favicon.ico",
+    "publisher": "ieeexplore.ieee.org",
+    "description": "Pigeons may transmit diseases to humans and cause damages to buildings, monuments, and other infrastructure. Therefore, several control strategies have been developed, but they have been found to be either ineffective or harmful to animals and often depend on human operation. This study proposes …",
+    "by": "openknot",
+    "points": 3,
+    "comment_count": 0,
     "hn_item": {
       "by": "fangpenlin",
       "descendants": 0,
       "id": 30141215,
       "kids": null,
-      "score": 16,
+      "score": 17,
       "time": 1643577545,
       "title": "Show HN: BeanHub – A GitHub for Beancount",
       "type": "story",
       "url": "https://beanhub.io/"
     },
     "og_item": {
-      "title": "Reference Cycles Can Leak Memory - The Rust Programming Language",
+      "title": "Autonomous Detection and Deterrence of Pigeons on Buildings by Drones",
       "type": "",
-      "image": [],
+      "image": [
+        {
+          "url": "https://ieeexplore.ieee.org/ielx7/6287639/9668973/9656717/graphical_abstract/access-gacovergraphic-3137031.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
       "url": "",
       "audio": [],
-      "description": "",
+      "description": "Pigeons may transmit diseases to humans and cause damages to buildings, monuments, and other infrastructure. Therefore, several control strategies have been developed, but they have been found to be either ineffective or harmful to animals and often depend on human operation. This study proposes a system capable of autonomously detecting and deterring pigeons on building roofs using a drone. The presence and position of pigeons were detected in real time by a neural network using images taken by a video camera located on the roof. Moreover, a drone was utilized to deter the animals. Field experiments were conducted in a real-world urban setting to assess the proposed system by comparing the number of animals and their stay durations for over five days against the 21-day-trial experiment without the drone. During the five days of experiments, the drone was automatically deployed 55 times and was significantly effective in reducing the number of birds and their stay durations without causing any harm to them. In conclusion, this study has proven the effectiveness of this system in deterring birds, and this approach can be seen as a fully autonomous alternative to the already existing methods.",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
       "site_name": "",
       "video": [],
       "favicon": {
-        "url": "favicon.png"
+        "url": "/favicon.ico"
       }
     }
   },
@@ -2369,7 +2329,7 @@
       "descendants": 0,
       "id": 30141215,
       "kids": null,
-      "score": 16,
+      "score": 17,
       "time": 1643577545,
       "title": "Show HN: BeanHub – A GitHub for Beancount",
       "type": "story",
@@ -2409,7 +2369,7 @@
       "descendants": 0,
       "id": 30141215,
       "kids": null,
-      "score": 16,
+      "score": 17,
       "time": 1643577545,
       "title": "Show HN: BeanHub – A GitHub for Beancount",
       "type": "story",
@@ -2449,7 +2409,7 @@
       "descendants": 0,
       "id": 30141215,
       "kids": null,
-      "score": 16,
+      "score": 17,
       "time": 1643577545,
       "title": "Show HN: BeanHub – A GitHub for Beancount",
       "type": "story",
@@ -2498,7 +2458,7 @@
       "descendants": 0,
       "id": 30141215,
       "kids": null,
-      "score": 16,
+      "score": 17,
       "time": 1643577545,
       "title": "Show HN: BeanHub – A GitHub for Beancount",
       "type": "story",
@@ -2538,7 +2498,7 @@
       "descendants": 0,
       "id": 30141215,
       "kids": null,
-      "score": 16,
+      "score": 17,
       "time": 1643577545,
       "title": "Show HN: BeanHub – A GitHub for Beancount",
       "type": "story",
@@ -2596,7 +2556,7 @@
       "descendants": 0,
       "id": 30141215,
       "kids": null,
-      "score": 16,
+      "score": 17,
       "time": 1643577545,
       "title": "Show HN: BeanHub – A GitHub for Beancount",
       "type": "story",
@@ -2629,6 +2589,46 @@
     }
   },
   {
+    "id": 30144516,
+    "title": "“Memory leaks are memory safe in Rust”",
+    "url": "https://doc.rust-lang.org/book/ch15-06-reference-cycles.html",
+    "time": 1643603628,
+    "image": "",
+    "icon": "https://doc.rust-lang.org/book/favicon.png",
+    "publisher": "doc.rust-lang.org",
+    "description": "",
+    "by": "DoctorOW",
+    "points": 5,
+    "comment_count": 1,
+    "hn_item": {
+      "by": "fangpenlin",
+      "descendants": 0,
+      "id": 30141215,
+      "kids": null,
+      "score": 17,
+      "time": 1643577545,
+      "title": "Show HN: BeanHub – A GitHub for Beancount",
+      "type": "story",
+      "url": "https://beanhub.io/"
+    },
+    "og_item": {
+      "title": "Reference Cycles Can Leak Memory - The Rust Programming Language",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "favicon.png"
+      }
+    }
+  },
+  {
     "id": 30111373,
     "title": "What is FORGE?",
     "url": "https://www.energy.gov/eere/geothermal/what-forge",
@@ -2645,7 +2645,7 @@
       "descendants": 0,
       "id": 30141215,
       "kids": null,
-      "score": 16,
+      "score": 17,
       "time": 1643577545,
       "title": "Show HN: BeanHub – A GitHub for Beancount",
       "type": "story",
@@ -2685,7 +2685,7 @@
       "descendants": 0,
       "id": 30141215,
       "kids": null,
-      "score": 16,
+      "score": 17,
       "time": 1643577545,
       "title": "Show HN: BeanHub – A GitHub for Beancount",
       "type": "story",
@@ -2718,51 +2718,42 @@
     }
   },
   {
-    "id": 30142351,
-    "title": "Completing a Creative Project",
-    "url": "https://www.sonyasupposedly.com/completing-a-creative-project/",
-    "time": 1643585100,
-    "image": "https://www.sonyasupposedly.com/content/images/2022/01/artdecoladies-1.jpg",
-    "icon": "https://www.sonyasupposedly.com/favicon.png",
-    "publisher": "Sonya Supposedly",
-    "description": "My undying thanks to members for funding the following realizations 💖 Btw, click here for the PDF version that I mailed in November, if you want it for some reason. How to complete a creative project: stick with it until you're done. Gee thanks, great advice, I know. But it's true!",
-    "by": "exolymph",
-    "points": 4,
-    "comment_count": 0,
+    "id": 30139643,
+    "title": "Very Remote Lisp Debugging Story",
+    "url": "https://susam.net/maze/very-remote-debugging.html",
+    "time": 1643567057,
+    "image": "",
+    "icon": "https://susam.net/maze/favicon.png",
+    "publisher": "susam.net",
+    "description": "",
+    "by": "susam",
+    "points": 38,
+    "comment_count": 4,
     "hn_item": {
       "by": "fangpenlin",
       "descendants": 0,
       "id": 30141215,
       "kids": null,
-      "score": 16,
+      "score": 17,
       "time": 1643577545,
       "title": "Show HN: BeanHub – A GitHub for Beancount",
       "type": "story",
       "url": "https://beanhub.io/"
     },
     "og_item": {
-      "title": "Completing a Creative Project",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://www.sonyasupposedly.com/content/images/2022/01/artdecoladies-1.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 2000,
-          "height": 1050,
-          "alt": ""
-        }
-      ],
-      "url": "https://www.sonyasupposedly.com/completing-a-creative-project/",
+      "title": "Very Remote Lisp Debugging Story - Susam's Maze",
+      "type": "",
+      "image": [],
+      "url": "",
       "audio": [],
-      "description": "My undying thanks to members for funding the following realizations 💖 Btw, click here for the PDF version that I mailed in November, if you want it for some reason. How to complete a creative project: stick with it until you're done. Gee thanks, great advice, I know. But it's true!",
+      "description": "",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "Sonya Supposedly",
+      "site_name": "",
       "video": [],
       "favicon": {
-        "url": "/favicon.png"
+        "url": "favicon.png"
       }
     }
   },
@@ -2783,7 +2774,7 @@
       "descendants": 0,
       "id": 30141215,
       "kids": null,
-      "score": 16,
+      "score": 17,
       "time": 1643577545,
       "title": "Show HN: BeanHub – A GitHub for Beancount",
       "type": "story",
@@ -2816,91 +2807,51 @@
     }
   },
   {
-    "id": 30139643,
-    "title": "Very Remote Lisp Debugging Story",
-    "url": "https://susam.net/maze/very-remote-debugging.html",
-    "time": 1643567057,
-    "image": "",
-    "icon": "https://susam.net/maze/favicon.png",
-    "publisher": "susam.net",
-    "description": "",
-    "by": "susam",
-    "points": 38,
-    "comment_count": 4,
+    "id": 30142351,
+    "title": "Completing a Creative Project",
+    "url": "https://www.sonyasupposedly.com/completing-a-creative-project/",
+    "time": 1643585100,
+    "image": "https://www.sonyasupposedly.com/content/images/2022/01/artdecoladies-1.jpg",
+    "icon": "https://www.sonyasupposedly.com/favicon.png",
+    "publisher": "Sonya Supposedly",
+    "description": "My undying thanks to members for funding the following realizations 💖 Btw, click here for the PDF version that I mailed in November, if you want it for some reason. How to complete a creative project: stick with it until you're done. Gee thanks, great advice, I know. But it's true!",
+    "by": "exolymph",
+    "points": 4,
+    "comment_count": 0,
     "hn_item": {
       "by": "fangpenlin",
       "descendants": 0,
       "id": 30141215,
       "kids": null,
-      "score": 16,
+      "score": 17,
       "time": 1643577545,
       "title": "Show HN: BeanHub – A GitHub for Beancount",
       "type": "story",
       "url": "https://beanhub.io/"
     },
     "og_item": {
-      "title": "Very Remote Lisp Debugging Story - Susam's Maze",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "favicon.png"
-      }
-    }
-  },
-  {
-    "id": 30142494,
-    "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
-    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/",
-    "time": 1643586052,
-    "image": "https://www.reuters.com/resizer/nJB_ZidKD76ip6VAQlGhKHf1JI8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PYPUULVDLFI5ZBML3UV35CE4TA.jpg",
-    "icon": "https://www.reuters.com/pf/resources/icons/favicon.ico?d=69",
-    "publisher": "Reuters",
-    "description": "The highly transmissible Omicron variant of the SARS-CoV-2 virus - the most common form of which is known as BA.1 - now accounts for nearly all of the coronavirus infections globally, although dramatic surges in COVID cases have already peaked in some countries.",
-    "by": "lsllc",
-    "points": 26,
-    "comment_count": 1,
-    "hn_item": {
-      "by": "fangpenlin",
-      "descendants": 0,
-      "id": 30141215,
-      "kids": null,
-      "score": 16,
-      "time": 1643577545,
-      "title": "Show HN: BeanHub – A GitHub for Beancount",
-      "type": "story",
-      "url": "https://beanhub.io/"
-    },
-    "og_item": {
-      "title": "Explainer: Scientists on alert over rising cases caused by Omicron cousin BA.2",
+      "title": "Completing a Creative Project",
       "type": "article",
       "image": [
         {
-          "url": "https://www.reuters.com/resizer/nJB_ZidKD76ip6VAQlGhKHf1JI8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PYPUULVDLFI5ZBML3UV35CE4TA.jpg",
+          "url": "https://www.sonyasupposedly.com/content/images/2022/01/artdecoladies-1.jpg",
           "secure_url": "",
           "type": "",
-          "width": 0,
-          "height": 0,
+          "width": 2000,
+          "height": 1050,
           "alt": ""
         }
       ],
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/",
+      "url": "https://www.sonyasupposedly.com/completing-a-creative-project/",
       "audio": [],
-      "description": "The highly transmissible Omicron variant of the SARS-CoV-2 virus - the most common form of which is known as BA.1 - now accounts for nearly all of the coronavirus infections globally, although dramatic surges in COVID cases have already peaked in some countries.",
+      "description": "My undying thanks to members for funding the following realizations 💖 Btw, click here for the PDF version that I mailed in November, if you want it for some reason. How to complete a creative project: stick with it until you're done. Gee thanks, great advice, I know. But it's true!",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "Reuters",
+      "site_name": "Sonya Supposedly",
       "video": [],
       "favicon": {
-        "url": "/pf/resources/icons/favicon.ico?d=69"
+        "url": "/favicon.png"
       }
     }
   },
@@ -2921,7 +2872,7 @@
       "descendants": 0,
       "id": 30141215,
       "kids": null,
-      "score": 16,
+      "score": 17,
       "time": 1643577545,
       "title": "Show HN: BeanHub – A GitHub for Beancount",
       "type": "story",
@@ -2961,7 +2912,7 @@
       "descendants": 0,
       "id": 30141215,
       "kids": null,
-      "score": 16,
+      "score": 17,
       "time": 1643577545,
       "title": "Show HN: BeanHub – A GitHub for Beancount",
       "type": "story",
@@ -2994,6 +2945,55 @@
     }
   },
   {
+    "id": 30142494,
+    "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
+    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/",
+    "time": 1643586052,
+    "image": "https://www.reuters.com/resizer/nJB_ZidKD76ip6VAQlGhKHf1JI8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PYPUULVDLFI5ZBML3UV35CE4TA.jpg",
+    "icon": "https://www.reuters.com/pf/resources/icons/favicon.ico?d=69",
+    "publisher": "Reuters",
+    "description": "The highly transmissible Omicron variant of the SARS-CoV-2 virus - the most common form of which is known as BA.1 - now accounts for nearly all of the coronavirus infections globally, although dramatic surges in COVID cases have already peaked in some countries.",
+    "by": "lsllc",
+    "points": 26,
+    "comment_count": 1,
+    "hn_item": {
+      "by": "fangpenlin",
+      "descendants": 0,
+      "id": 30141215,
+      "kids": null,
+      "score": 17,
+      "time": 1643577545,
+      "title": "Show HN: BeanHub – A GitHub for Beancount",
+      "type": "story",
+      "url": "https://beanhub.io/"
+    },
+    "og_item": {
+      "title": "Explainer: Scientists on alert over rising cases caused by Omicron cousin BA.2",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://www.reuters.com/resizer/nJB_ZidKD76ip6VAQlGhKHf1JI8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PYPUULVDLFI5ZBML3UV35CE4TA.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/",
+      "audio": [],
+      "description": "The highly transmissible Omicron variant of the SARS-CoV-2 virus - the most common form of which is known as BA.1 - now accounts for nearly all of the coronavirus infections globally, although dramatic surges in COVID cases have already peaked in some countries.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Reuters",
+      "video": [],
+      "favicon": {
+        "url": "/pf/resources/icons/favicon.ico?d=69"
+      }
+    }
+  },
+  {
     "id": 30125931,
     "title": "Fluid Simulation – Siggraph 2007 Course Notes [pdf]",
     "url": "https://www.cs.ubc.ca/~rbridson/fluidsimulation/fluids_notes.pdf",
@@ -3010,7 +3010,7 @@
       "descendants": 0,
       "id": 30141215,
       "kids": null,
-      "score": 16,
+      "score": 17,
       "time": 1643577545,
       "title": "Show HN: BeanHub – A GitHub for Beancount",
       "type": "story",
@@ -3028,14 +3028,14 @@
     "publisher": "sbcl.org",
     "description": "",
     "by": "susam",
-    "points": 98,
+    "points": 99,
     "comment_count": 5,
     "hn_item": {
       "by": "fangpenlin",
       "descendants": 0,
       "id": 30141215,
       "kids": null,
-      "score": 16,
+      "score": 17,
       "time": 1643577545,
       "title": "Show HN: BeanHub – A GitHub for Beancount",
       "type": "story",
@@ -3075,7 +3075,7 @@
       "descendants": 0,
       "id": 30141215,
       "kids": null,
-      "score": 16,
+      "score": 17,
       "time": 1643577545,
       "title": "Show HN: BeanHub – A GitHub for Beancount",
       "type": "story",
@@ -3108,14 +3108,14 @@
     "publisher": "beanhub.io",
     "description": "",
     "by": "fangpenlin",
-    "points": 16,
+    "points": 17,
     "comment_count": 0,
     "hn_item": {
       "by": "fangpenlin",
       "descendants": 0,
       "id": 30141215,
       "kids": null,
-      "score": 16,
+      "score": 17,
       "time": 1643577545,
       "title": "Show HN: BeanHub – A GitHub for Beancount",
       "type": "story",
