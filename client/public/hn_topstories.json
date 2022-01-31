@@ -1,5 +1,48 @@
 [
   {
+    "id": 30147379,
+    "title": "My dishwasher won’t start until I let it update its firmware over the WiFi",
+    "url": "https://twitter.com/isislovecruft/status/1487947074901463040",
+    "time": 1643633680,
+    "image": "",
+    "icon": "https://abs.twimg.com/favicons/twitter.2.ico",
+    "publisher": "Twitter",
+    "description": "",
+    "by": "_Microft",
+    "points": 149,
+    "comment_count": 30,
+    "hn_item": {
+      "by": "phoe-krk",
+      "descendants": 2,
+      "id": 30129565,
+      "kids": [
+        30130272,
+        30129721
+      ],
+      "score": 14,
+      "time": 1643484611,
+      "title": "Static-Let, or how I Learned to stop worrying and love Load-Time-Value",
+      "type": "story",
+      "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md"
+    },
+    "og_item": {
+      "title": "",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Twitter",
+      "video": [],
+      "favicon": {
+        "url": "//abs.twimg.com/favicons/twitter.2.ico"
+      }
+    }
+  },
+  {
     "id": 30146052,
     "title": "The Awk State Machine Parser Pattern (2018)",
     "url": "https://two-wrongs.com/awk-state-machine-parser-pattern.html",
@@ -9,7 +52,7 @@
     "publisher": "two-wrongs.com",
     "description": "",
     "by": "Tomte",
-    "points": 98,
+    "points": 105,
     "comment_count": 6,
     "hn_item": {
       "by": "phoe-krk",
@@ -52,8 +95,8 @@
     "publisher": "pcjs.org",
     "description": "Home of the original IBM PC emulator for browsers. PCjs offers a variety of online machine emulators written in JavaScript. Run DOS, Windows, OS/2 and other vintage PC applications in a web browser on your desktop computer, iPhone, or iPad. An assortment of microcomputers, minicomputers, terminal…",
     "by": "DiabloD3",
-    "points": 14,
-    "comment_count": 1,
+    "points": 17,
+    "comment_count": 3,
     "hn_item": {
       "by": "phoe-krk",
       "descendants": 2,
@@ -91,49 +134,6 @@
       "video": [],
       "favicon": {
         "url": "/assets/icons/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30147379,
-    "title": "My dishwasher won’t start until I let it update its firmware over the WiFi",
-    "url": "https://twitter.com/isislovecruft/status/1487947074901463040",
-    "time": 1643633680,
-    "image": "",
-    "icon": "https://abs.twimg.com/favicons/twitter.2.ico",
-    "publisher": "Twitter",
-    "description": "",
-    "by": "_Microft",
-    "points": 106,
-    "comment_count": 24,
-    "hn_item": {
-      "by": "phoe-krk",
-      "descendants": 2,
-      "id": 30129565,
-      "kids": [
-        30130272,
-        30129721
-      ],
-      "score": 14,
-      "time": 1643484611,
-      "title": "Static-Let, or how I Learned to stop worrying and love Load-Time-Value",
-      "type": "story",
-      "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md"
-    },
-    "og_item": {
-      "title": "",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Twitter",
-      "video": [],
-      "favicon": {
-        "url": "//abs.twimg.com/favicons/twitter.2.ico"
       }
     }
   },
@@ -190,7 +190,7 @@
     "publisher": "MathOverflow",
     "description": "The first thing to say is that this is not the same as the question about interesting mathematical mistakes. I am interested about the type of false beliefs that many intelligent people have while ...",
     "by": "gballan",
-    "points": 160,
+    "points": 161,
     "comment_count": 10,
     "hn_item": {
       "by": "phoe-krk",
@@ -233,6 +233,110 @@
     }
   },
   {
+    "id": 30116316,
+    "title": "Mixbox: Practical Pigment Mixing for Digital Painting",
+    "url": "https://github.com/scrtwpns/pigment-mixing",
+    "time": 1643385624,
+    "image": "https://opengraph.githubassets.com/d05d62c0afd0a73b043ab6ddbae30b0ba634615376646c9dda89c9275868eed0/scrtwpns/pigment-mixing",
+    "icon": "https://github.githubassets.com/favicons/favicon.svg",
+    "publisher": "GitHub",
+    "description": "Practical Pigment Mixing for Digital Painting. Contribute to scrtwpns/pigment-mixing development by creating an account on GitHub.",
+    "by": "maydemir",
+    "points": 9,
+    "comment_count": 4,
+    "hn_item": {
+      "by": "phoe-krk",
+      "descendants": 2,
+      "id": 30129565,
+      "kids": [
+        30130272,
+        30129721
+      ],
+      "score": 14,
+      "time": 1643484611,
+      "title": "Static-Let, or how I Learned to stop worrying and love Load-Time-Value",
+      "type": "story",
+      "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md"
+    },
+    "og_item": {
+      "title": "GitHub - scrtwpns/pigment-mixing: Practical Pigment Mixing for Digital Painting",
+      "type": "object",
+      "image": [
+        {
+          "url": "https://opengraph.githubassets.com/d05d62c0afd0a73b043ab6ddbae30b0ba634615376646c9dda89c9275868eed0/scrtwpns/pigment-mixing",
+          "secure_url": "",
+          "type": "",
+          "width": 1200,
+          "height": 600,
+          "alt": ""
+        }
+      ],
+      "url": "https://github.com/scrtwpns/pigment-mixing",
+      "audio": [],
+      "description": "Practical Pigment Mixing for Digital Painting. Contribute to scrtwpns/pigment-mixing development by creating an account on GitHub.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "GitHub",
+      "video": [],
+      "favicon": {
+        "url": "https://github.githubassets.com/favicons/favicon.svg"
+      }
+    }
+  },
+  {
+    "id": 30124927,
+    "title": "Hiring for conscientiousness (2019)",
+    "url": "https://www.holloway.com/s/trh-hiring-for-conscientiousness",
+    "time": 1643447066,
+    "image": "https://assets.holloway.com/editorial/images/holloway_will_skill_complete.png",
+    "icon": "https://www.holloway.com/static/favicons/icon-default-32x32-62ab2f6444.png",
+    "publisher": "Holloway",
+    "description": "Why startups should hire conscientious people—and how to find them",
+    "by": "rognjen",
+    "points": 21,
+    "comment_count": 10,
+    "hn_item": {
+      "by": "phoe-krk",
+      "descendants": 2,
+      "id": 30129565,
+      "kids": [
+        30130272,
+        30129721
+      ],
+      "score": 14,
+      "time": 1643484611,
+      "title": "Static-Let, or how I Learned to stop worrying and love Load-Time-Value",
+      "type": "story",
+      "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md"
+    },
+    "og_item": {
+      "title": "Hiring for Conscientiousness — Holloway",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://assets.holloway.com/editorial/images/holloway_will_skill_complete.png",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://www.holloway.com/s/trh-hiring-for-conscientiousness",
+      "audio": [],
+      "description": "Why startups should hire conscientious people—and how to find them",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Holloway",
+      "video": [],
+      "favicon": {
+        "url": "https://www.holloway.com/static/favicons/icon-default-32x32-62ab2f6444.png"
+      }
+    }
+  },
+  {
     "id": 30124457,
     "title": "Chip shortages due to lack of investment in right fabs",
     "url": "https://www.theregister.com/2022/01/28/idc_chip_shortages/",
@@ -242,7 +346,7 @@
     "publisher": "theregister.com",
     "description": "",
     "by": "laktak",
-    "points": 155,
+    "points": 158,
     "comment_count": 11,
     "hn_item": {
       "by": "phoe-krk",
@@ -285,7 +389,7 @@
     "publisher": "smallcultfollowing.com",
     "description": "",
     "by": "ingve",
-    "points": 74,
+    "points": 75,
     "comment_count": 4,
     "hn_item": {
       "by": "phoe-krk",
@@ -319,58 +423,6 @@
     }
   },
   {
-    "id": 30124927,
-    "title": "Hiring for conscientiousness (2019)",
-    "url": "https://www.holloway.com/s/trh-hiring-for-conscientiousness",
-    "time": 1643447066,
-    "image": "https://assets.holloway.com/editorial/images/holloway_will_skill_complete.png",
-    "icon": "https://www.holloway.com/static/favicons/icon-default-32x32-62ab2f6444.png",
-    "publisher": "Holloway",
-    "description": "Why startups should hire conscientious people—and how to find them",
-    "by": "rognjen",
-    "points": 19,
-    "comment_count": 7,
-    "hn_item": {
-      "by": "phoe-krk",
-      "descendants": 2,
-      "id": 30129565,
-      "kids": [
-        30130272,
-        30129721
-      ],
-      "score": 14,
-      "time": 1643484611,
-      "title": "Static-Let, or how I Learned to stop worrying and love Load-Time-Value",
-      "type": "story",
-      "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md"
-    },
-    "og_item": {
-      "title": "Hiring for Conscientiousness — Holloway",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://assets.holloway.com/editorial/images/holloway_will_skill_complete.png",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://www.holloway.com/s/trh-hiring-for-conscientiousness",
-      "audio": [],
-      "description": "Why startups should hire conscientious people—and how to find them",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Holloway",
-      "video": [],
-      "favicon": {
-        "url": "https://www.holloway.com/static/favicons/icon-default-32x32-62ab2f6444.png"
-      }
-    }
-  },
-  {
     "id": 30144021,
     "title": "How I Discovered Thousands of Open Databases on AWS",
     "url": "https://infosecwriteups.com/how-i-discovered-thousands-of-open-databases-on-aws-764729aa7f32?gi=ba781482d685",
@@ -380,7 +432,7 @@
     "publisher": "Medium",
     "description": "My journey on finding and reporting databases with sensitive data about Fortune-500 companies, Hospitals, Crypto platforms, Startups during…",
     "by": "boyter",
-    "points": 213,
+    "points": 215,
     "comment_count": 14,
     "hn_item": {
       "by": "phoe-krk",
@@ -419,58 +471,6 @@
       "video": [],
       "favicon": {
         "url": "https://miro.medium.com/fit/c/256/256/1*vkqyAEGdZQZNbQp1AswznQ.png"
-      }
-    }
-  },
-  {
-    "id": 30146019,
-    "title": "Boyfriend-alert – A light based alert system",
-    "url": "https://github.com/jscd/Boyfriend-Alert",
-    "time": 1643619852,
-    "image": "https://opengraph.githubassets.com/261a79273ec3b25bc4cd4312f84db65f32baa95f41d49937e6b0918034ebae2e/jscd/Boyfriend-Alert",
-    "icon": "https://github.githubassets.com/favicons/favicon.svg",
-    "publisher": "GitHub",
-    "description": "A light based alert system. Contribute to jscd/Boyfriend-Alert development by creating an account on GitHub.",
-    "by": "rgun",
-    "points": 147,
-    "comment_count": 32,
-    "hn_item": {
-      "by": "phoe-krk",
-      "descendants": 2,
-      "id": 30129565,
-      "kids": [
-        30130272,
-        30129721
-      ],
-      "score": 14,
-      "time": 1643484611,
-      "title": "Static-Let, or how I Learned to stop worrying and love Load-Time-Value",
-      "type": "story",
-      "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md"
-    },
-    "og_item": {
-      "title": "GitHub - jscd/Boyfriend-Alert: A light based alert system",
-      "type": "object",
-      "image": [
-        {
-          "url": "https://opengraph.githubassets.com/261a79273ec3b25bc4cd4312f84db65f32baa95f41d49937e6b0918034ebae2e/jscd/Boyfriend-Alert",
-          "secure_url": "",
-          "type": "",
-          "width": 1200,
-          "height": 600,
-          "alt": ""
-        }
-      ],
-      "url": "https://github.com/jscd/Boyfriend-Alert",
-      "audio": [],
-      "description": "A light based alert system. Contribute to jscd/Boyfriend-Alert development by creating an account on GitHub.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "GitHub",
-      "video": [],
-      "favicon": {
-        "url": "https://github.githubassets.com/favicons/favicon.svg"
       }
     }
   },
@@ -527,6 +527,58 @@
     }
   },
   {
+    "id": 30147213,
+    "title": "Textual adds support for Windows (Python package for TUIs)",
+    "url": "https://www.willmcgugan.com/blog/tech/post/textual-for-windows/",
+    "time": 1643632067,
+    "image": "https://media.moyaproject.com/willmcgugan/uploads/thumbnails/techblog/9f8c0466-8285-11ec-97a9-f23c91845b44.png/9f8c0466-8285-11ec-97a9-f23c91845b44png.og.preview.2.jpeg",
+    "icon": "https://www.willmcgugan.com/favicon.ico",
+    "publisher": "Will McGugan Tech",
+    "description": "Textual adds Windows support I've just released v0.1.15 of Textual, with Windows support. The Windows support is somewhat experimental, but so far seems solid. You will get best results on the new Windows Terminal. On the classic command prompt you might find a reduced color palette. This works o…",
+    "by": "RojerGS",
+    "points": 10,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "phoe-krk",
+      "descendants": 2,
+      "id": 30129565,
+      "kids": [
+        30130272,
+        30129721
+      ],
+      "score": 14,
+      "time": 1643484611,
+      "title": "Static-Let, or how I Learned to stop worrying and love Load-Time-Value",
+      "type": "story",
+      "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md"
+    },
+    "og_item": {
+      "title": "Textual for Windows",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://media.moyaproject.com/willmcgugan/uploads/thumbnails/techblog/9f8c0466-8285-11ec-97a9-f23c91845b44.png/9f8c0466-8285-11ec-97a9-f23c91845b44png.og.preview.2.jpeg",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://www.willmcgugan.com/blog/tech/post/textual-for-windows/",
+      "audio": [],
+      "description": "Textual adds Windows support I've just released v0.1.15 of Textual, with Windows support. The Windows support is somewhat experimental, but so far seems solid. You will get best results on the new Windows Terminal. On the classic command prompt you might find a reduced color palette. This works on […]",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Will McGugan Tech",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30131926,
     "title": "What is the inverse of a circle?",
     "url": "https://mattferraro.dev/posts/inverse-of-a-circle",
@@ -536,7 +588,7 @@
     "publisher": "mattferraro.dev",
     "description": "What does it mean to invert a shape?",
     "by": "mferraro89",
-    "points": 150,
+    "points": 152,
     "comment_count": 14,
     "hn_item": {
       "by": "phoe-krk",
@@ -579,17 +631,17 @@
     }
   },
   {
-    "id": 30116316,
-    "title": "Mixbox: Practical Pigment Mixing for Digital Painting",
-    "url": "https://github.com/scrtwpns/pigment-mixing",
-    "time": 1643385624,
-    "image": "https://opengraph.githubassets.com/e8be1e9cac3b1591737ce0c0363f15cf224c9c5a4f9c8e728a33d5ebcb68cd25/scrtwpns/pigment-mixing",
+    "id": 30146019,
+    "title": "Boyfriend-alert – A light based alert system",
+    "url": "https://github.com/jscd/Boyfriend-Alert",
+    "time": 1643619852,
+    "image": "https://opengraph.githubassets.com/d41f18db7162b671bf523ec1472e30db57b5e8e90cc77d4b6d3a3870c2ccd19e/jscd/Boyfriend-Alert",
     "icon": "https://github.githubassets.com/favicons/favicon.svg",
     "publisher": "GitHub",
-    "description": "Practical Pigment Mixing for Digital Painting. Contribute to scrtwpns/pigment-mixing development by creating an account on GitHub.",
-    "by": "maydemir",
-    "points": 6,
-    "comment_count": 2,
+    "description": "A light based alert system. Contribute to jscd/Boyfriend-Alert development by creating an account on GitHub.",
+    "by": "rgun",
+    "points": 149,
+    "comment_count": 32,
     "hn_item": {
       "by": "phoe-krk",
       "descendants": 2,
@@ -605,11 +657,11 @@
       "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md"
     },
     "og_item": {
-      "title": "GitHub - scrtwpns/pigment-mixing: Practical Pigment Mixing for Digital Painting",
+      "title": "GitHub - jscd/Boyfriend-Alert: A light based alert system",
       "type": "object",
       "image": [
         {
-          "url": "https://opengraph.githubassets.com/e8be1e9cac3b1591737ce0c0363f15cf224c9c5a4f9c8e728a33d5ebcb68cd25/scrtwpns/pigment-mixing",
+          "url": "https://opengraph.githubassets.com/d41f18db7162b671bf523ec1472e30db57b5e8e90cc77d4b6d3a3870c2ccd19e/jscd/Boyfriend-Alert",
           "secure_url": "",
           "type": "",
           "width": 1200,
@@ -617,9 +669,9 @@
           "alt": ""
         }
       ],
-      "url": "https://github.com/scrtwpns/pigment-mixing",
+      "url": "https://github.com/jscd/Boyfriend-Alert",
       "audio": [],
-      "description": "Practical Pigment Mixing for Digital Painting. Contribute to scrtwpns/pigment-mixing development by creating an account on GitHub.",
+      "description": "A light based alert system. Contribute to jscd/Boyfriend-Alert development by creating an account on GitHub.",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
@@ -627,6 +679,58 @@
       "video": [],
       "favicon": {
         "url": "https://github.githubassets.com/favicons/favicon.svg"
+      }
+    }
+  },
+  {
+    "id": 30147755,
+    "title": "Polar bears move into abandoned Arctic weather station",
+    "url": "https://www.theguardian.com/world/2022/jan/31/polar-bears-move-into-abandoned-arctic-weather-station-photo-essay",
+    "time": 1643636620,
+    "image": "https://i.guim.co.uk/img/media/b9c97924f2784beddc80fab14f75453d83824613/0_231_3500_2101/master/3500.jpg?width=1200\u0026height=630\u0026quality=85\u0026auto=format\u0026fit=crop\u0026overlay-align=bottom%2Cleft\u0026overlay-width=100p\u0026overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc\u0026enable=upscale\u0026s=5d8713011a3bb525f19bf8544cb15bcc",
+    "icon": "https://static.guim.co.uk/images/favicon-32x32.ico",
+    "publisher": "the Guardian",
+    "description": "Photographer Dmitry Kokh discovered polar bears living in an abandoned weather station in Kolyuchin in the Chukotka Autonomous Okrug of Russia",
+    "by": "sofixa",
+    "points": 20,
+    "comment_count": 1,
+    "hn_item": {
+      "by": "phoe-krk",
+      "descendants": 2,
+      "id": 30129565,
+      "kids": [
+        30130272,
+        30129721
+      ],
+      "score": 14,
+      "time": 1643484611,
+      "title": "Static-Let, or how I Learned to stop worrying and love Load-Time-Value",
+      "type": "story",
+      "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md"
+    },
+    "og_item": {
+      "title": "Polar bears move into abandoned Arctic weather station – photo essay",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://i.guim.co.uk/img/media/b9c97924f2784beddc80fab14f75453d83824613/0_231_3500_2101/master/3500.jpg?width=1200\u0026height=630\u0026quality=85\u0026auto=format\u0026fit=crop\u0026overlay-align=bottom%2Cleft\u0026overlay-width=100p\u0026overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc\u0026enable=upscale\u0026s=5d8713011a3bb525f19bf8544cb15bcc",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://www.theguardian.com/world/2022/jan/31/polar-bears-move-into-abandoned-arctic-weather-station-photo-essay",
+      "audio": [],
+      "description": "Photographer Dmitry Kokh discovered polar bears living in an abandoned weather station in Kolyuchin in the Chukotka Autonomous Okrug of Russia",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "the Guardian",
+      "video": [],
+      "favicon": {
+        "url": "https://static.guim.co.uk/images/favicon-32x32.ico"
       }
     }
   },
@@ -640,7 +744,7 @@
     "publisher": "blog.thomaspuppe.de",
     "description": "",
     "by": "indigodaddy",
-    "points": 74,
+    "points": 75,
     "comment_count": 10,
     "hn_item": {
       "by": "phoe-krk",
@@ -657,6 +761,58 @@
       "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md"
     },
     "og_item": null
+  },
+  {
+    "id": 30147547,
+    "title": "MNT Reform laptop has fully open hardware and software–for better or worse",
+    "url": "https://arstechnica.com/gadgets/2022/01/review-mnt-reform-laptop-has-fully-open-hardware-and-software-for-better-or-worse/",
+    "time": 1643634993,
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/01/IMG_0077-760x380.jpeg",
+    "icon": "https://cdn.arstechnica.net/wp-content/themes/ars/assets/img/material-ars-db41652381.png",
+    "publisher": "Ars Technica",
+    "description": "Slow ARM CPU almost single-handedly derails an intriguing laptop experiment.",
+    "by": "leephillips",
+    "points": 31,
+    "comment_count": 3,
+    "hn_item": {
+      "by": "phoe-krk",
+      "descendants": 2,
+      "id": 30129565,
+      "kids": [
+        30130272,
+        30129721
+      ],
+      "score": 14,
+      "time": 1643484611,
+      "title": "Static-Let, or how I Learned to stop worrying and love Load-Time-Value",
+      "type": "story",
+      "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md"
+    },
+    "og_item": {
+      "title": "Review: MNT Reform laptop has fully open hardware and software—for better or worse",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/01/IMG_0077-760x380.jpeg",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://arstechnica.com/gadgets/2022/01/review-mnt-reform-laptop-has-fully-open-hardware-and-software-for-better-or-worse/",
+      "audio": [],
+      "description": "Slow ARM CPU almost single-handedly derails an intriguing laptop experiment.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Ars Technica",
+      "video": [],
+      "favicon": {
+        "url": "https://cdn.arstechnica.net/wp-content/themes/ars/assets/img/material-ars-db41652381.png"
+      }
+    }
   },
   {
     "id": 30144108,
@@ -711,110 +867,6 @@
     }
   },
   {
-    "id": 30147547,
-    "title": "MNT Reform laptop has fully open hardware and software–for better or worse",
-    "url": "https://arstechnica.com/gadgets/2022/01/review-mnt-reform-laptop-has-fully-open-hardware-and-software-for-better-or-worse/",
-    "time": 1643634993,
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/01/IMG_0077-760x380.jpeg",
-    "icon": "https://cdn.arstechnica.net/wp-content/themes/ars/assets/img/material-ars-db41652381.png",
-    "publisher": "Ars Technica",
-    "description": "Slow ARM CPU almost single-handedly derails an intriguing laptop experiment.",
-    "by": "leephillips",
-    "points": 25,
-    "comment_count": 1,
-    "hn_item": {
-      "by": "phoe-krk",
-      "descendants": 2,
-      "id": 30129565,
-      "kids": [
-        30130272,
-        30129721
-      ],
-      "score": 14,
-      "time": 1643484611,
-      "title": "Static-Let, or how I Learned to stop worrying and love Load-Time-Value",
-      "type": "story",
-      "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md"
-    },
-    "og_item": {
-      "title": "Review: MNT Reform laptop has fully open hardware and software—for better or worse",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/01/IMG_0077-760x380.jpeg",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://arstechnica.com/gadgets/2022/01/review-mnt-reform-laptop-has-fully-open-hardware-and-software-for-better-or-worse/",
-      "audio": [],
-      "description": "Slow ARM CPU almost single-handedly derails an intriguing laptop experiment.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Ars Technica",
-      "video": [],
-      "favicon": {
-        "url": "https://cdn.arstechnica.net/wp-content/themes/ars/assets/img/material-ars-db41652381.png"
-      }
-    }
-  },
-  {
-    "id": 30147213,
-    "title": "Textual adds support for Windows (Python package for TUIs)",
-    "url": "https://www.willmcgugan.com/blog/tech/post/textual-for-windows/",
-    "time": 1643632067,
-    "image": "https://media.moyaproject.com/willmcgugan/uploads/thumbnails/techblog/9f8c0466-8285-11ec-97a9-f23c91845b44.png/9f8c0466-8285-11ec-97a9-f23c91845b44png.og.preview.2.jpeg",
-    "icon": "https://www.willmcgugan.com/favicon.ico",
-    "publisher": "Will McGugan Tech",
-    "description": "Textual adds Windows support I've just released v0.1.15 of Textual, with Windows support. The Windows support is somewhat experimental, but so far seems solid. You will get best results on the new Windows Terminal. On the classic command prompt you might find a reduced color palette. This works o…",
-    "by": "RojerGS",
-    "points": 7,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "phoe-krk",
-      "descendants": 2,
-      "id": 30129565,
-      "kids": [
-        30130272,
-        30129721
-      ],
-      "score": 14,
-      "time": 1643484611,
-      "title": "Static-Let, or how I Learned to stop worrying and love Load-Time-Value",
-      "type": "story",
-      "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md"
-    },
-    "og_item": {
-      "title": "Textual for Windows",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://media.moyaproject.com/willmcgugan/uploads/thumbnails/techblog/9f8c0466-8285-11ec-97a9-f23c91845b44.png/9f8c0466-8285-11ec-97a9-f23c91845b44png.og.preview.2.jpeg",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://www.willmcgugan.com/blog/tech/post/textual-for-windows/",
-      "audio": [],
-      "description": "Textual adds Windows support I've just released v0.1.15 of Textual, with Windows support. The Windows support is somewhat experimental, but so far seems solid. You will get best results on the new Windows Terminal. On the classic command prompt you might find a reduced color palette. This works on […]",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Will McGugan Tech",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30146042,
     "title": "Finnish diplomats’ phones infected with NSO Group Pegasus spyware",
     "url": "https://www.bleepingcomputer.com/news/security/finnish-diplomats-phones-infected-with-nso-group-pegasus-spyware/",
@@ -824,8 +876,8 @@
     "publisher": "bleepingcomputer.com",
     "description": "",
     "by": "beermonster",
-    "points": 123,
-    "comment_count": 7,
+    "points": 130,
+    "comment_count": 8,
     "hn_item": {
       "by": "phoe-krk",
       "descendants": 2,
@@ -858,6 +910,110 @@
     }
   },
   {
+    "id": 30147878,
+    "title": "Driverless cars won’t be good for the environment if they lead to more auto use",
+    "url": "https://theconversation.com/driverless-cars-wont-be-good-for-the-environment-if-they-lead-to-more-auto-use-173819",
+    "time": 1643637350,
+    "image": "https://images.theconversation.com/files/442036/original/file-20220121-15-vbuwo5.jpg?ixlib=rb-1.1.0\u0026rect=49%2C523%2C5464%2C2732\u0026q=45\u0026auto=format\u0026w=1356\u0026h=668\u0026fit=crop",
+    "icon": "https://cdn.theconversation.com/static/tc/@theconversation/ui/dist/esm/logos/favicon-ae7bd7a3096e6cda828b4576fa9b32c6.ico",
+    "publisher": "The Conversation",
+    "description": "Studies show that when people can ride in a car without having to operate it, they increase their car use. That could increase traffic and pollution, unless government puts a price on car travel.",
+    "by": "CapitalistCartr",
+    "points": 13,
+    "comment_count": 4,
+    "hn_item": {
+      "by": "phoe-krk",
+      "descendants": 2,
+      "id": 30129565,
+      "kids": [
+        30130272,
+        30129721
+      ],
+      "score": 14,
+      "time": 1643484611,
+      "title": "Static-Let, or how I Learned to stop worrying and love Load-Time-Value",
+      "type": "story",
+      "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md"
+    },
+    "og_item": {
+      "title": "Driverless cars won't be good for the environment if they lead to more auto use",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://images.theconversation.com/files/442036/original/file-20220121-15-vbuwo5.jpg?ixlib=rb-1.1.0\u0026rect=49%2C523%2C5464%2C2732\u0026q=45\u0026auto=format\u0026w=1356\u0026h=668\u0026fit=crop",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "http://theconversation.com/driverless-cars-wont-be-good-for-the-environment-if-they-lead-to-more-auto-use-173819",
+      "audio": [],
+      "description": "Studies show that when people can ride in a car without having to operate it, they increase their car use. That could increase traffic and pollution, unless government puts a price on car travel.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "The Conversation",
+      "video": [],
+      "favicon": {
+        "url": "https://cdn.theconversation.com/static/tc/@theconversation/ui/dist/esm/logos/favicon-ae7bd7a3096e6cda828b4576fa9b32c6.ico"
+      }
+    }
+  },
+  {
+    "id": 30148147,
+    "title": "The BBC Quietly Censors Its Own Archives",
+    "url": "https://www.nationalreview.com/2022/01/the-bbc-quietly-censors-its-own-archives/",
+    "time": 1643638884,
+    "image": "https://www.nationalreview.com/wp-content/uploads/2022/01/bbc.jpg?fit=2057%2C1200",
+    "icon": "https://www.nationalreview.com/wp-content/themes/national-review/static/images/favicons/favicon-96x96.png",
+    "publisher": "National Review",
+    "description": "Out of public view, the state-owned broadcaster has been altering old episodes of its shows to make them ‘suitable’ for modern listeners.",
+    "by": "temp8964",
+    "points": 12,
+    "comment_count": 1,
+    "hn_item": {
+      "by": "phoe-krk",
+      "descendants": 2,
+      "id": 30129565,
+      "kids": [
+        30130272,
+        30129721
+      ],
+      "score": 14,
+      "time": 1643484611,
+      "title": "Static-Let, or how I Learned to stop worrying and love Load-Time-Value",
+      "type": "story",
+      "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md"
+    },
+    "og_item": {
+      "title": "The BBC Quietly Censors Its Own Archives | National Review",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://www.nationalreview.com/wp-content/uploads/2022/01/bbc.jpg?fit=2057%2C1200",
+          "secure_url": "",
+          "type": "",
+          "width": 2057,
+          "height": 1200,
+          "alt": ""
+        }
+      ],
+      "url": "https://www.nationalreview.com/2022/01/the-bbc-quietly-censors-its-own-archives/",
+      "audio": [],
+      "description": "Out of public view, the state-owned broadcaster has been altering old episodes of its shows to make them ‘suitable’ for modern listeners.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "National Review",
+      "video": [],
+      "favicon": {
+        "url": "https://www.nationalreview.com/wp-content/themes/national-review/static/images/favicons/favicon-96x96.png"
+      }
+    }
+  },
+  {
     "id": 30141460,
     "title": "Royal Society cautions against censorship of scientific misinformation online",
     "url": "https://royalsociety.org/news/2022/01/scientific-misinformation-report/",
@@ -867,7 +1023,7 @@
     "publisher": "royalsociety.org",
     "description": "The Online Information Environment report discusses how to limit the harm of scientific misinformation online",
     "by": "steelstraw",
-    "points": 912,
+    "points": 915,
     "comment_count": 59,
     "hn_item": {
       "by": "phoe-krk",
@@ -910,17 +1066,17 @@
     }
   },
   {
-    "id": 30147755,
-    "title": "Polar bears move into abandoned Arctic weather station",
-    "url": "https://www.theguardian.com/world/2022/jan/31/polar-bears-move-into-abandoned-arctic-weather-station-photo-essay",
-    "time": 1643636620,
-    "image": "https://i.guim.co.uk/img/media/b9c97924f2784beddc80fab14f75453d83824613/0_231_3500_2101/master/3500.jpg?width=1200\u0026height=630\u0026quality=85\u0026auto=format\u0026fit=crop\u0026overlay-align=bottom%2Cleft\u0026overlay-width=100p\u0026overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc\u0026enable=upscale\u0026s=5d8713011a3bb525f19bf8544cb15bcc",
-    "icon": "https://static.guim.co.uk/images/favicon-32x32.ico",
-    "publisher": "the Guardian",
-    "description": "Photographer Dmitry Kokh discovered polar bears living in an abandoned weather station in Kolyuchin in the Chukotka Autonomous Okrug of Russia",
-    "by": "sofixa",
-    "points": 12,
-    "comment_count": 1,
+    "id": 30144229,
+    "title": "Decommissioned Atlas F missile silo complex for sale",
+    "url": "https://www.zillow.com/homedetails/2432-Fair-Rd-Abilene-KS-67410/113177058_zpid/",
+    "time": 1643600701,
+    "image": "",
+    "icon": "https://www.zillow.com/favicon.ico",
+    "publisher": "zillow.com",
+    "description": "",
+    "by": "otras",
+    "points": 317,
+    "comment_count": 38,
     "hn_item": {
       "by": "phoe-krk",
       "descendants": 2,
@@ -936,28 +1092,19 @@
       "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md"
     },
     "og_item": {
-      "title": "Polar bears move into abandoned Arctic weather station – photo essay",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://i.guim.co.uk/img/media/b9c97924f2784beddc80fab14f75453d83824613/0_231_3500_2101/master/3500.jpg?width=1200\u0026height=630\u0026quality=85\u0026auto=format\u0026fit=crop\u0026overlay-align=bottom%2Cleft\u0026overlay-width=100p\u0026overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc\u0026enable=upscale\u0026s=5d8713011a3bb525f19bf8544cb15bcc",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://www.theguardian.com/world/2022/jan/31/polar-bears-move-into-abandoned-arctic-weather-station-photo-essay",
+      "title": "",
+      "type": "",
+      "image": [],
+      "url": "",
       "audio": [],
-      "description": "Photographer Dmitry Kokh discovered polar bears living in an abandoned weather station in Kolyuchin in the Chukotka Autonomous Okrug of Russia",
+      "description": "",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "the Guardian",
+      "site_name": "",
       "video": [],
       "favicon": {
-        "url": "https://static.guim.co.uk/images/favicon-32x32.ico"
+        "url": "/favicon.ico"
       }
     }
   },
@@ -971,7 +1118,7 @@
     "publisher": "EL PAÍS English Edition",
     "description": "Doctors in Belgium explain how they saved a bomb attack victim who had been struggling with one of the most virulent bacterial pathogens in the world",
     "by": "belter",
-    "points": 104,
+    "points": 105,
     "comment_count": 11,
     "hn_item": {
       "by": "phoe-krk",
@@ -1014,49 +1161,6 @@
     }
   },
   {
-    "id": 30144229,
-    "title": "Decommissioned Atlas F missile silo complex for sale",
-    "url": "https://www.zillow.com/homedetails/2432-Fair-Rd-Abilene-KS-67410/113177058_zpid/",
-    "time": 1643600701,
-    "image": "",
-    "icon": "https://www.zillow.com/favicon.ico",
-    "publisher": "zillow.com",
-    "description": "",
-    "by": "otras",
-    "points": 314,
-    "comment_count": 37,
-    "hn_item": {
-      "by": "phoe-krk",
-      "descendants": 2,
-      "id": 30129565,
-      "kids": [
-        30130272,
-        30129721
-      ],
-      "score": 14,
-      "time": 1643484611,
-      "title": "Static-Let, or how I Learned to stop worrying and love Load-Time-Value",
-      "type": "story",
-      "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md"
-    },
-    "og_item": {
-      "title": "",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30142558,
     "title": "State of the Web: Static Site Generators",
     "url": "https://byteofdev.com/posts/static-site-generators/",
@@ -1066,8 +1170,8 @@
     "publisher": "ByteofDev",
     "description": "Static Site Generators have been changing quickly with new trends like Jamstack. Learn more about the background of static site generators, why people use them, and the current state of them, with information on modern SSGs like Eleventy, Next.js, SvelteKit, and Astro.",
     "by": "AsyncBanana",
-    "points": 134,
-    "comment_count": 25,
+    "points": 137,
+    "comment_count": 26,
     "hn_item": {
       "by": "phoe-krk",
       "descendants": 2,
@@ -1109,16 +1213,16 @@
     }
   },
   {
-    "id": 30147878,
-    "title": "Driverless cars won’t be good for the environment if they lead to more auto use",
-    "url": "https://theconversation.com/driverless-cars-wont-be-good-for-the-environment-if-they-lead-to-more-auto-use-173819",
-    "time": 1643637350,
-    "image": "https://images.theconversation.com/files/442036/original/file-20220121-15-vbuwo5.jpg?ixlib=rb-1.1.0\u0026rect=49%2C523%2C5464%2C2732\u0026q=45\u0026auto=format\u0026w=1356\u0026h=668\u0026fit=crop",
-    "icon": "https://cdn.theconversation.com/static/tc/@theconversation/ui/dist/esm/logos/favicon-ae7bd7a3096e6cda828b4576fa9b32c6.ico",
-    "publisher": "The Conversation",
-    "description": "Studies show that when people can ride in a car without having to operate it, they increase their car use. That could increase traffic and pollution, unless government puts a price on car travel.",
-    "by": "CapitalistCartr",
-    "points": 8,
+    "id": 30117500,
+    "title": "Plain Geology (1921)",
+    "url": "https://pubs.usgs.gov/gip/plain.html",
+    "time": 1643390110,
+    "image": "",
+    "icon": "https://pubs.usgs.gov/favicon.ico",
+    "publisher": "pubs.usgs.gov",
+    "description": "",
+    "by": "wrycoder",
+    "points": 10,
     "comment_count": 1,
     "hn_item": {
       "by": "phoe-krk",
@@ -1135,28 +1239,19 @@
       "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md"
     },
     "og_item": {
-      "title": "Driverless cars won't be good for the environment if they lead to more auto use",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://images.theconversation.com/files/442036/original/file-20220121-15-vbuwo5.jpg?ixlib=rb-1.1.0\u0026rect=49%2C523%2C5464%2C2732\u0026q=45\u0026auto=format\u0026w=1356\u0026h=668\u0026fit=crop",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "http://theconversation.com/driverless-cars-wont-be-good-for-the-environment-if-they-lead-to-more-auto-use-173819",
+      "title": "Plain Geology",
+      "type": "",
+      "image": [],
+      "url": "",
       "audio": [],
-      "description": "Studies show that when people can ride in a car without having to operate it, they increase their car use. That could increase traffic and pollution, unless government puts a price on car travel.",
+      "description": "",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "The Conversation",
+      "site_name": "",
       "video": [],
       "favicon": {
-        "url": "https://cdn.theconversation.com/static/tc/@theconversation/ui/dist/esm/logos/favicon-ae7bd7a3096e6cda828b4576fa9b32c6.ico"
+        "url": "/favicon.ico"
       }
     }
   },
@@ -1256,92 +1351,6 @@
     }
   },
   {
-    "id": 30117500,
-    "title": "Plain Geology (1921)",
-    "url": "https://pubs.usgs.gov/gip/plain.html",
-    "time": 1643390110,
-    "image": "",
-    "icon": "https://pubs.usgs.gov/favicon.ico",
-    "publisher": "pubs.usgs.gov",
-    "description": "",
-    "by": "wrycoder",
-    "points": 9,
-    "comment_count": 1,
-    "hn_item": {
-      "by": "phoe-krk",
-      "descendants": 2,
-      "id": 30129565,
-      "kids": [
-        30130272,
-        30129721
-      ],
-      "score": 14,
-      "time": 1643484611,
-      "title": "Static-Let, or how I Learned to stop worrying and love Load-Time-Value",
-      "type": "story",
-      "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md"
-    },
-    "og_item": {
-      "title": "Plain Geology",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30141278,
-    "title": "The Story of Maxis Software (1999)",
-    "url": "https://web.archive.org/web/19991012021220/http://gamespot.com/features/maxis/index.html",
-    "time": 1643577913,
-    "image": "",
-    "icon": "https://web.archive.org/favicon.ico",
-    "publisher": "web.archive.org",
-    "description": "",
-    "by": "ecliptik",
-    "points": 132,
-    "comment_count": 11,
-    "hn_item": {
-      "by": "phoe-krk",
-      "descendants": 2,
-      "id": 30129565,
-      "kids": [
-        30130272,
-        30129721
-      ],
-      "score": 14,
-      "time": 1643484611,
-      "title": "Static-Let, or how I Learned to stop worrying and love Load-Time-Value",
-      "type": "story",
-      "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md"
-    },
-    "og_item": {
-      "title": "GameSpot's SIMply Divine: The Story of Maxis Software",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30141439,
     "title": "Operation Warp Speed: A new model for industrial policy",
     "url": "https://americanaffairsjournal.org/2021/05/inside-operation-warp-speed-a-new-model-for-industrial-policy/",
@@ -1351,7 +1360,7 @@
     "publisher": "American Affairs Journal",
     "description": "Operation Warp Speed1 (OWS) was launched on May 15, 2020. A partnership between the Departments of Health and Human Services (HHS) and Defense (DoD), other agencies, and the private sector, its goal was to “accelerate the testing, supply, development, and distribution of safe and effective vacc…",
     "by": "gok",
-    "points": 136,
+    "points": 139,
     "comment_count": 10,
     "hn_item": {
       "by": "phoe-krk",
@@ -1394,6 +1403,49 @@
     }
   },
   {
+    "id": 30141278,
+    "title": "The Story of Maxis Software (1999)",
+    "url": "https://web.archive.org/web/19991012021220/http://gamespot.com/features/maxis/index.html",
+    "time": 1643577913,
+    "image": "",
+    "icon": "https://web.archive.org/favicon.ico",
+    "publisher": "web.archive.org",
+    "description": "",
+    "by": "ecliptik",
+    "points": 134,
+    "comment_count": 11,
+    "hn_item": {
+      "by": "phoe-krk",
+      "descendants": 2,
+      "id": 30129565,
+      "kids": [
+        30130272,
+        30129721
+      ],
+      "score": 14,
+      "time": 1643484611,
+      "title": "Static-Let, or how I Learned to stop worrying and love Load-Time-Value",
+      "type": "story",
+      "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md"
+    },
+    "og_item": {
+      "title": "GameSpot's SIMply Divine: The Story of Maxis Software",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30141192,
     "title": "Don't forget Microsoft",
     "url": "https://luttig.substack.com/p/dont-forget-microsoft",
@@ -1403,7 +1455,7 @@
     "publisher": "luttig.substack.com",
     "description": "Understanding the behemoth in Redmond teaches us valuable lessons in cloud infrastructure, startup strategy, and the future of software.",
     "by": "SamvitJ",
-    "points": 378,
+    "points": 382,
     "comment_count": 62,
     "hn_item": {
       "by": "phoe-krk",
@@ -1494,6 +1546,49 @@
       "video": [],
       "favicon": {
         "url": "https://daily.jstor.org/wp-content/uploads/2017/12/cropped-new_daily_favicon-300x300.png"
+      }
+    }
+  },
+  {
+    "id": 30131387,
+    "title": "Game performance optimization – A practical example from Industry Idle",
+    "url": "https://ruoyusun.com/2022/01/28/game-pref.html",
+    "time": 1643496513,
+    "image": "",
+    "icon": "https://ruoyusun.com/favicon-16x16.png",
+    "publisher": "ruoyusun.com",
+    "description": "",
+    "by": "insraq",
+    "points": 90,
+    "comment_count": 10,
+    "hn_item": {
+      "by": "phoe-krk",
+      "descendants": 2,
+      "id": 30129565,
+      "kids": [
+        30130272,
+        30129721
+      ],
+      "score": 14,
+      "time": 1643484611,
+      "title": "Static-Let, or how I Learned to stop worrying and love Load-Time-Value",
+      "type": "story",
+      "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md"
+    },
+    "og_item": {
+      "title": "Game Performance Optimization - A Practical Example From Industry Idle",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon-16x16.png"
       }
     }
   },
@@ -1593,49 +1688,6 @@
     }
   },
   {
-    "id": 30131387,
-    "title": "Game performance optimization – A practical example from Industry Idle",
-    "url": "https://ruoyusun.com/2022/01/28/game-pref.html",
-    "time": 1643496513,
-    "image": "",
-    "icon": "https://ruoyusun.com/favicon-16x16.png",
-    "publisher": "ruoyusun.com",
-    "description": "",
-    "by": "insraq",
-    "points": 89,
-    "comment_count": 10,
-    "hn_item": {
-      "by": "phoe-krk",
-      "descendants": 2,
-      "id": 30129565,
-      "kids": [
-        30130272,
-        30129721
-      ],
-      "score": 14,
-      "time": 1643484611,
-      "title": "Static-Let, or how I Learned to stop worrying and love Load-Time-Value",
-      "type": "story",
-      "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md"
-    },
-    "og_item": {
-      "title": "Game Performance Optimization - A Practical Example From Industry Idle",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon-16x16.png"
-      }
-    }
-  },
-  {
     "id": 30143375,
     "title": "Lizard scale patterns described with antiferromagnetic model",
     "url": "https://physics.aps.org/articles/v15/s12",
@@ -1684,110 +1736,6 @@
       "video": [],
       "favicon": {
         "url": "//cdn.journals.aps.org/development/physics/images/icons/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30148147,
-    "title": "The BBC Quietly Censors Its Own Archives",
-    "url": "https://www.nationalreview.com/2022/01/the-bbc-quietly-censors-its-own-archives/",
-    "time": 1643638884,
-    "image": "https://www.nationalreview.com/wp-content/uploads/2022/01/bbc.jpg?fit=2057%2C1200",
-    "icon": "https://www.nationalreview.com/wp-content/themes/national-review/static/images/favicons/favicon-96x96.png",
-    "publisher": "National Review",
-    "description": "Out of public view, the state-owned broadcaster has been altering old episodes of its shows to make them ‘suitable’ for modern listeners.",
-    "by": "temp8964",
-    "points": 3,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "phoe-krk",
-      "descendants": 2,
-      "id": 30129565,
-      "kids": [
-        30130272,
-        30129721
-      ],
-      "score": 14,
-      "time": 1643484611,
-      "title": "Static-Let, or how I Learned to stop worrying and love Load-Time-Value",
-      "type": "story",
-      "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md"
-    },
-    "og_item": {
-      "title": "The BBC Quietly Censors Its Own Archives | National Review",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://www.nationalreview.com/wp-content/uploads/2022/01/bbc.jpg?fit=2057%2C1200",
-          "secure_url": "",
-          "type": "",
-          "width": 2057,
-          "height": 1200,
-          "alt": ""
-        }
-      ],
-      "url": "https://www.nationalreview.com/2022/01/the-bbc-quietly-censors-its-own-archives/",
-      "audio": [],
-      "description": "Out of public view, the state-owned broadcaster has been altering old episodes of its shows to make them ‘suitable’ for modern listeners.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "National Review",
-      "video": [],
-      "favicon": {
-        "url": "https://www.nationalreview.com/wp-content/themes/national-review/static/images/favicons/favicon-96x96.png"
-      }
-    }
-  },
-  {
-    "id": 30140464,
-    "title": "The Great Unconformity: Research points to glaciers being the culprit",
-    "url": "https://www.vice.com/en/article/wxdzzb/a-billion-years-of-time-are-mysteriously-missing-scientists-think-they-know-why",
-    "time": 1643572375,
-    "image": "https://video-images.vice.com/articles/61f2a92be1de8b0094f51e5e/lede/1643293461145-screen-shot-2022-01-27-at-92341-am.png?image-resize-opts=Y3JvcD0xeHc6MC44NDUxeGg7MHh3LDAuMTE0OXhoJnJlc2l6ZT0xMjAwOiomcmVzaXplPTEyMDA6Kg",
-    "icon": "https://vice-web-statics-cdn.vice.com/favicons/vice/favicon-16x16.png",
-    "publisher": "Vice",
-    "description": "The Great Unconformity has baffled geologists for a century. New research points to glaciers being the culprit.",
-    "by": "cbkeller",
-    "points": 83,
-    "comment_count": 4,
-    "hn_item": {
-      "by": "phoe-krk",
-      "descendants": 2,
-      "id": 30129565,
-      "kids": [
-        30130272,
-        30129721
-      ],
-      "score": 14,
-      "time": 1643484611,
-      "title": "Static-Let, or how I Learned to stop worrying and love Load-Time-Value",
-      "type": "story",
-      "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md"
-    },
-    "og_item": {
-      "title": "A Billion Years of Time Are Mysteriously Missing. Scientists Think They Know Why.",
-      "type": "website",
-      "image": [
-        {
-          "url": "https://video-images.vice.com/articles/61f2a92be1de8b0094f51e5e/lede/1643293461145-screen-shot-2022-01-27-at-92341-am.png?image-resize-opts=Y3JvcD0xeHc6MC44NDUxeGg7MHh3LDAuMTE0OXhoJnJlc2l6ZT0xMjAwOiomcmVzaXplPTEyMDA6Kg",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://www.vice.com/en/article/wxdzzb/a-billion-years-of-time-are-mysteriously-missing-scientists-think-they-know-why",
-      "audio": [],
-      "description": "The Great Unconformity has baffled geologists for a century. New research points to glaciers being the culprit.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "https://vice-web-statics-cdn.vice.com/favicons/vice/favicon-16x16.png"
       }
     }
   },
@@ -2077,58 +2025,6 @@
     }
   },
   {
-    "id": 30123592,
-    "title": "Assembling Accountability, from the Ground Up (2021)",
-    "url": "https://points.datasociety.net/assembling-accountability-from-the-ground-up-4655c492d0d0?gi=833242955cfa",
-    "time": 1643428009,
-    "image": "https://miro.medium.com/max/1200/1*D4V3-R-xBs3Qrf4F8JBeyA.png",
-    "icon": "https://miro.medium.com/fit/c/256/256/1*g7zU0sabzknTXlMs4m3Iqg.jpeg",
-    "publisher": "Medium",
-    "description": "Algorithmic impact assessments should leverage diverse expertise \u0026 complex histories",
-    "by": "mooreds",
-    "points": 3,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "phoe-krk",
-      "descendants": 2,
-      "id": 30129565,
-      "kids": [
-        30130272,
-        30129721
-      ],
-      "score": 14,
-      "time": 1643484611,
-      "title": "Static-Let, or how I Learned to stop worrying and love Load-Time-Value",
-      "type": "story",
-      "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md"
-    },
-    "og_item": {
-      "title": "Assembling Accountability, from the Ground Up",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://miro.medium.com/max/1200/1*D4V3-R-xBs3Qrf4F8JBeyA.png",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://points.datasociety.net/assembling-accountability-from-the-ground-up-4655c492d0d0",
-      "audio": [],
-      "description": "Algorithmic impact assessments should leverage diverse expertise \u0026 complex histories",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Medium",
-      "video": [],
-      "favicon": {
-        "url": "https://miro.medium.com/fit/c/256/256/1*g7zU0sabzknTXlMs4m3Iqg.jpeg"
-      }
-    }
-  },
-  {
     "id": 30132612,
     "title": "John Locke’s recipe for Pancakes (2021)",
     "url": "https://rarecooking.com/2021/12/14/john-lockes-recipe-for-pancakes/",
@@ -2177,6 +2073,58 @@
       "video": [],
       "favicon": {
         "url": "https://s0.wp.com/i/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30123592,
+    "title": "Assembling Accountability, from the Ground Up (2021)",
+    "url": "https://points.datasociety.net/assembling-accountability-from-the-ground-up-4655c492d0d0?gi=833242955cfa",
+    "time": 1643428009,
+    "image": "https://miro.medium.com/max/1200/1*D4V3-R-xBs3Qrf4F8JBeyA.png",
+    "icon": "https://miro.medium.com/fit/c/256/256/1*g7zU0sabzknTXlMs4m3Iqg.jpeg",
+    "publisher": "Medium",
+    "description": "Algorithmic impact assessments should leverage diverse expertise \u0026 complex histories",
+    "by": "mooreds",
+    "points": 3,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "phoe-krk",
+      "descendants": 2,
+      "id": 30129565,
+      "kids": [
+        30130272,
+        30129721
+      ],
+      "score": 14,
+      "time": 1643484611,
+      "title": "Static-Let, or how I Learned to stop worrying and love Load-Time-Value",
+      "type": "story",
+      "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md"
+    },
+    "og_item": {
+      "title": "Assembling Accountability, from the Ground Up",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://miro.medium.com/max/1200/1*D4V3-R-xBs3Qrf4F8JBeyA.png",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://points.datasociety.net/assembling-accountability-from-the-ground-up-4655c492d0d0",
+      "audio": [],
+      "description": "Algorithmic impact assessments should leverage diverse expertise \u0026 complex histories",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Medium",
+      "video": [],
+      "favicon": {
+        "url": "https://miro.medium.com/fit/c/256/256/1*g7zU0sabzknTXlMs4m3Iqg.jpeg"
       }
     }
   },
@@ -2276,49 +2224,6 @@
     }
   },
   {
-    "id": 30146918,
-    "title": "Qubit appeals to the honour of thieves who lifted $80M of its digi-dollars",
-    "url": "https://www.theregister.com/2022/01/31/qubit_bug_bounty/",
-    "time": 1643628811,
-    "image": "",
-    "icon": "https://www.theregister.com/favicon.ico",
-    "publisher": "theregister.com",
-    "description": "",
-    "by": "pseudolus",
-    "points": 9,
-    "comment_count": 1,
-    "hn_item": {
-      "by": "phoe-krk",
-      "descendants": 2,
-      "id": 30129565,
-      "kids": [
-        30130272,
-        30129721
-      ],
-      "score": 14,
-      "time": 1643484611,
-      "title": "Static-Let, or how I Learned to stop worrying and love Load-Time-Value",
-      "type": "story",
-      "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md"
-    },
-    "og_item": {
-      "title": "",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30116262,
     "title": "A Padlock I’d Use [video]",
     "url": "https://www.youtube.com/watch?v=HrV86GqlY8o",
@@ -2328,7 +2233,7 @@
     "publisher": "YouTube",
     "description": "https://www.CovertInstruments.com",
     "by": "CraigJPerry",
-    "points": 148,
+    "points": 149,
     "comment_count": 7,
     "hn_item": {
       "by": "phoe-krk",
@@ -2428,6 +2333,49 @@
       "video": [],
       "favicon": {
         "url": "https://www.eurogamer.net/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30146918,
+    "title": "Qubit appeals to the honour of thieves who lifted $80M of its digi-dollars",
+    "url": "https://www.theregister.com/2022/01/31/qubit_bug_bounty/",
+    "time": 1643628811,
+    "image": "",
+    "icon": "https://www.theregister.com/favicon.ico",
+    "publisher": "theregister.com",
+    "description": "",
+    "by": "pseudolus",
+    "points": 9,
+    "comment_count": 1,
+    "hn_item": {
+      "by": "phoe-krk",
+      "descendants": 2,
+      "id": 30129565,
+      "kids": [
+        30130272,
+        30129721
+      ],
+      "score": 14,
+      "time": 1643484611,
+      "title": "Static-Let, or how I Learned to stop worrying and love Load-Time-Value",
+      "type": "story",
+      "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md"
+    },
+    "og_item": {
+      "title": "",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
       }
     }
   },
@@ -2640,7 +2588,7 @@
     "publisher": "bastian.rieck.me",
     "description": "",
     "by": "Topolomancer",
-    "points": 219,
+    "points": 220,
     "comment_count": 26,
     "hn_item": {
       "by": "phoe-krk",
@@ -2873,7 +2821,7 @@
     "publisher": "subconscious.substack.com",
     "description": "What if your notes could self-organize—from scratch notes, to draft, to finished creative work—through a stream-of-consciousness process—like dreaming? Years ago, I was part of a user study that aimed to understand how creators create. We interviewed authors, artists, students, influencers,…",
     "by": "fagnerbrack",
-    "points": 25,
+    "points": 26,
     "comment_count": 3,
     "hn_item": {
       "by": "phoe-krk",
@@ -2912,6 +2860,135 @@
       "video": [],
       "favicon": {
         "url": "https://cdn.substack.com/icons/substack/favicon-32x32.png"
+      }
+    }
+  },
+  {
+    "id": 30140984,
+    "title": "A UX designer walks into a Tesla Bar",
+    "url": "https://jenson.org/tesla/",
+    "time": 1643576121,
+    "image": "",
+    "icon": "https://jenson.org/wp-content/uploads/2015/09/out-200x200.png",
+    "publisher": "jenson.org",
+    "description": "",
+    "by": "radley",
+    "points": 842,
+    "comment_count": 107,
+    "hn_item": {
+      "by": "phoe-krk",
+      "descendants": 2,
+      "id": 30129565,
+      "kids": [
+        30130272,
+        30129721
+      ],
+      "score": 14,
+      "time": 1643484611,
+      "title": "Static-Let, or how I Learned to stop worrying and love Load-Time-Value",
+      "type": "story",
+      "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md"
+    },
+    "og_item": {
+      "title": "A UX designer walks into a Tesla Bar – Scott Jenson",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "https://jenson.org/wp-content/uploads/2015/09/out-200x200.png"
+      }
+    }
+  },
+  {
+    "id": 30139643,
+    "title": "Very Remote Lisp Debugging Story",
+    "url": "https://susam.net/maze/very-remote-debugging.html",
+    "time": 1643567057,
+    "image": "",
+    "icon": "https://susam.net/maze/favicon.png",
+    "publisher": "susam.net",
+    "description": "",
+    "by": "susam",
+    "points": 44,
+    "comment_count": 5,
+    "hn_item": {
+      "by": "phoe-krk",
+      "descendants": 2,
+      "id": 30129565,
+      "kids": [
+        30130272,
+        30129721
+      ],
+      "score": 14,
+      "time": 1643484611,
+      "title": "Static-Let, or how I Learned to stop worrying and love Load-Time-Value",
+      "type": "story",
+      "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md"
+    },
+    "og_item": {
+      "title": "Very Remote Lisp Debugging Story - Susam's Maze",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "favicon.png"
+      }
+    }
+  },
+  {
+    "id": 30128061,
+    "title": "Nuanced communication usually doesn't work at scale",
+    "url": "https://twitter.com/danluu/status/1487228574608211969",
+    "time": 1643476385,
+    "image": "",
+    "icon": "https://abs.twimg.com/favicons/twitter.2.ico",
+    "publisher": "Twitter",
+    "description": "",
+    "by": "tagolli",
+    "points": 696,
+    "comment_count": 70,
+    "hn_item": {
+      "by": "phoe-krk",
+      "descendants": 2,
+      "id": 30129565,
+      "kids": [
+        30130272,
+        30129721
+      ],
+      "score": 14,
+      "time": 1643484611,
+      "title": "Static-Let, or how I Learned to stop worrying and love Load-Time-Value",
+      "type": "story",
+      "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md"
+    },
+    "og_item": {
+      "title": "",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Twitter",
+      "video": [],
+      "favicon": {
+        "url": "//abs.twimg.com/favicons/twitter.2.ico"
       }
     }
   },
@@ -2968,17 +3045,17 @@
     }
   },
   {
-    "id": 30140984,
-    "title": "A UX designer walks into a Tesla Bar",
-    "url": "https://jenson.org/tesla/",
-    "time": 1643576121,
-    "image": "",
-    "icon": "https://jenson.org/wp-content/uploads/2015/09/out-200x200.png",
-    "publisher": "jenson.org",
-    "description": "",
-    "by": "radley",
-    "points": 842,
-    "comment_count": 107,
+    "id": 30140464,
+    "title": "The Great Unconformity: Research points to glaciers being the culprit",
+    "url": "https://www.vice.com/en/article/wxdzzb/a-billion-years-of-time-are-mysteriously-missing-scientists-think-they-know-why",
+    "time": 1643572375,
+    "image": "https://video-images.vice.com/articles/61f2a92be1de8b0094f51e5e/lede/1643293461145-screen-shot-2022-01-27-at-92341-am.png?image-resize-opts=Y3JvcD0xeHc6MC44NDUxeGg7MHh3LDAuMTE0OXhoJnJlc2l6ZT0xMjAwOiomcmVzaXplPTEyMDA6Kg",
+    "icon": "https://vice-web-statics-cdn.vice.com/favicons/vice/favicon-16x16.png",
+    "publisher": "Vice",
+    "description": "The Great Unconformity has baffled geologists for a century. New research points to glaciers being the culprit.",
+    "by": "cbkeller",
+    "points": 83,
+    "comment_count": 4,
     "hn_item": {
       "by": "phoe-krk",
       "descendants": 2,
@@ -2994,62 +3071,28 @@
       "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md"
     },
     "og_item": {
-      "title": "A UX designer walks into a Tesla Bar – Scott Jenson",
-      "type": "",
-      "image": [],
-      "url": "",
+      "title": "A Billion Years of Time Are Mysteriously Missing. Scientists Think They Know Why.",
+      "type": "website",
+      "image": [
+        {
+          "url": "https://video-images.vice.com/articles/61f2a92be1de8b0094f51e5e/lede/1643293461145-screen-shot-2022-01-27-at-92341-am.png?image-resize-opts=Y3JvcD0xeHc6MC44NDUxeGg7MHh3LDAuMTE0OXhoJnJlc2l6ZT0xMjAwOiomcmVzaXplPTEyMDA6Kg",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://www.vice.com/en/article/wxdzzb/a-billion-years-of-time-are-mysteriously-missing-scientists-think-they-know-why",
       "audio": [],
-      "description": "",
+      "description": "The Great Unconformity has baffled geologists for a century. New research points to glaciers being the culprit.",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
       "site_name": "",
       "video": [],
       "favicon": {
-        "url": "https://jenson.org/wp-content/uploads/2015/09/out-200x200.png"
-      }
-    }
-  },
-  {
-    "id": 30128061,
-    "title": "Nuanced communication usually doesn't work at scale",
-    "url": "https://twitter.com/danluu/status/1487228574608211969",
-    "time": 1643476385,
-    "image": "",
-    "icon": "https://abs.twimg.com/favicons/twitter.2.ico",
-    "publisher": "Twitter",
-    "description": "",
-    "by": "tagolli",
-    "points": 696,
-    "comment_count": 70,
-    "hn_item": {
-      "by": "phoe-krk",
-      "descendants": 2,
-      "id": 30129565,
-      "kids": [
-        30130272,
-        30129721
-      ],
-      "score": 14,
-      "time": 1643484611,
-      "title": "Static-Let, or how I Learned to stop worrying and love Load-Time-Value",
-      "type": "story",
-      "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md"
-    },
-    "og_item": {
-      "title": "",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Twitter",
-      "video": [],
-      "favicon": {
-        "url": "//abs.twimg.com/favicons/twitter.2.ico"
+        "url": "https://vice-web-statics-cdn.vice.com/favicons/vice/favicon-16x16.png"
       }
     }
   },
@@ -3136,49 +3179,6 @@
       "video": [],
       "favicon": {
         "url": "/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30139643,
-    "title": "Very Remote Lisp Debugging Story",
-    "url": "https://susam.net/maze/very-remote-debugging.html",
-    "time": 1643567057,
-    "image": "",
-    "icon": "https://susam.net/maze/favicon.png",
-    "publisher": "susam.net",
-    "description": "",
-    "by": "susam",
-    "points": 43,
-    "comment_count": 5,
-    "hn_item": {
-      "by": "phoe-krk",
-      "descendants": 2,
-      "id": 30129565,
-      "kids": [
-        30130272,
-        30129721
-      ],
-      "score": 14,
-      "time": 1643484611,
-      "title": "Static-Let, or how I Learned to stop worrying and love Load-Time-Value",
-      "type": "story",
-      "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md"
-    },
-    "og_item": {
-      "title": "Very Remote Lisp Debugging Story - Susam's Maze",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "favicon.png"
       }
     }
   },
