@@ -1,8 +1,8 @@
 # Hacker News Alternative UI
 
-This project contains an unofficial [alternative web UI](https://hughmandeville.github.io/hnui/) for [Hacker News](https://news.ycombinator.com/).
+This project contains an unofficial [alternative web UI](https://hncards.com) for [Hacker News](https://news.ycombinator.com/).
 
-<https://hughmandeville.github.io/hnui/>
+<https://hncards.com/>
 
 [![Hacker News](hnui-ss.png)](https://hughmandeville.github.io/hnui)
 
@@ -14,7 +14,7 @@ The Go script gets the top stories from the [Hacker News API](https://github.com
 
 ## GitHub Pages
 
-Run `make gh-deploy` to deploy the React app to [GitHub Pages](https://hughmandeville.github.io/hnui/).
+Run `make gh-deploy` to deploy the React app to [GitHub Pages](https://pages.github.com).
 
 ```sh
 make gh-deploy

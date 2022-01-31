@@ -8,10 +8,9 @@ const TopStoriesPage = () => {
   const [error, setError] = useState();
   const [items, setItems] = useState();
 
-  let hnURL =
-    'https://raw.githubusercontent.com/hughmandeville/hnui/main/client/public/hn_topstories.json';
+  let hnURL = 'https://hncards.com/hn_topstories.json';
   if (window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1') {
-    hnURL = '/hnui/hn_topstories.json';
+    hnURL = '/hn_topstories.json';
   }
 
   const fetchData = () => {
@@ -40,7 +39,7 @@ const TopStoriesPage = () => {
       <div>
         {error ? (
           <div className="error">
-            <img src="/hnui/meh.png" alt="meh" />
+            <img src="/meh.png" alt="meh" />
             <p>
               There was a problem getting the <a href={hnURL}>top stories data</a>.
             </p>
