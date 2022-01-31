@@ -9,11 +9,11 @@
     "publisher": "royalsociety.org",
     "description": "The Online Information Environment report discusses how to limit the harm of scientific misinformation online",
     "by": "steelstraw",
-    "points": 436,
-    "comment_count": 39,
+    "points": 447,
+    "comment_count": 40,
     "hn_item": {
       "by": "doener",
-      "descendants": 24,
+      "descendants": 25,
       "id": 30125730,
       "kids": [
         30137540,
@@ -56,53 +56,6 @@
     }
   },
   {
-    "id": 30137984,
-    "title": "Show HN: Web page that parses and explains the label on a bike tire",
-    "url": "https://fahrrad-tools.de/tire.html",
-    "time": 1643556717,
-    "image": "",
-    "icon": "https://fahrrad-tools.de/tire.html/icon.png",
-    "publisher": "fahrrad-tools.de",
-    "description": "Which tire fits my bike? Tires are always flat and now buy a tire with puncture protection? Find the right tire now!",
-    "by": "moasda",
-    "points": 524,
-    "comment_count": 36,
-    "hn_item": {
-      "by": "doener",
-      "descendants": 24,
-      "id": 30125730,
-      "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
-      ],
-      "score": 50,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
-      "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
-    },
-    "og_item": {
-      "title": "Bike Tire | Fahrrad-Tools.de",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "Which tire fits my bike? Tires are always flat and now buy a tire with puncture protection? Find the right tire now!",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "icon.png"
-      }
-    }
-  },
-  {
     "id": 30143946,
     "title": "Mesmerizing Labor",
     "url": "https://daily.jstor.org/mesmerizing-labor/",
@@ -112,11 +65,11 @@
     "publisher": "JSTOR Daily",
     "description": "The man who introduced mesmerism to the US was a slave-owner from Guadeloupe, where planters were experimenting with “magnetizing” their enslaved people.",
     "by": "onychomys",
-    "points": 12,
-    "comment_count": 0,
+    "points": 16,
+    "comment_count": 1,
     "hn_item": {
       "by": "doener",
-      "descendants": 24,
+      "descendants": 25,
       "id": 30125730,
       "kids": [
         30137540,
@@ -159,6 +112,53 @@
     }
   },
   {
+    "id": 30137984,
+    "title": "Show HN: Web page that parses and explains the label on a bike tire",
+    "url": "https://fahrrad-tools.de/tire.html",
+    "time": 1643556717,
+    "image": "",
+    "icon": "https://fahrrad-tools.de/tire.html/icon.png",
+    "publisher": "fahrrad-tools.de",
+    "description": "Which tire fits my bike? Tires are always flat and now buy a tire with puncture protection? Find the right tire now!",
+    "by": "moasda",
+    "points": 526,
+    "comment_count": 36,
+    "hn_item": {
+      "by": "doener",
+      "descendants": 25,
+      "id": 30125730,
+      "kids": [
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
+      ],
+      "score": 50,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
+      "type": "story",
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+    },
+    "og_item": {
+      "title": "Bike Tire | Fahrrad-Tools.de",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "Which tire fits my bike? Tires are always flat and now buy a tire with puncture protection? Find the right tire now!",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "icon.png"
+      }
+    }
+  },
+  {
     "id": 30140835,
     "title": "Hardy, Ramanujan and Taxi No. 1729",
     "url": "https://johncarlosbaez.wordpress.com/2022/01/30/hardy-ramanujan-and-taxi-no-1729/",
@@ -168,11 +168,11 @@
     "publisher": "Azimuth",
     "description": "In his book Ramanujan: Twelve Lectures on Subjects Suggested by His Life and Work, G. H. Hardy tells this famous story: He could remember the idiosyncracies of numbers in an almost uncanny way. It …",
     "by": "johncarlosbaez",
-    "points": 50,
+    "points": 53,
     "comment_count": 6,
     "hn_item": {
       "by": "doener",
-      "descendants": 24,
+      "descendants": 25,
       "id": 30125730,
       "kids": [
         30137540,
@@ -215,6 +215,62 @@
     }
   },
   {
+    "id": 30144108,
+    "title": "Reimagining Chess with AlphaZero",
+    "url": "https://cacm.acm.org/magazines/2022/2/258230-reimagining-chess-with-alphazero/fulltext",
+    "time": 1643599537,
+    "image": "https://cacm.acm.org/system/assets/0004/2100/012022_CACMpg1_Reimagining-Chess1.large.jpg?1642700035\u00261642700035",
+    "icon": "https://cacm.acm.org/favicon.ico",
+    "publisher": "cacm.acm.org",
+    "description": "AI is driving the next evolution of chess, giving players a glimpse into the game\u0026#39;s future.",
+    "by": "joak",
+    "points": 7,
+    "comment_count": 2,
+    "hn_item": {
+      "by": "doener",
+      "descendants": 25,
+      "id": 30125730,
+      "kids": [
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
+      ],
+      "score": 50,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
+      "type": "story",
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+    },
+    "og_item": {
+      "title": "Reimagining Chess with AlphaZero",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://cacm.acm.org/system/assets/0004/2100/012022_CACMpg1_Reimagining-Chess1.large.jpg?1642700035\u00261642700035",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://cacm.acm.org/magazines/2022/2/258230-reimagining-chess-with-alphazero/fulltext",
+      "audio": [],
+      "description": "AI is driving the next evolution of chess, giving players a glimpse into the game\u0026#39;s future.\n",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30142558,
     "title": "State of the Web: Static Site Generators",
     "url": "https://byteofdev.com/posts/static-site-generators/",
@@ -224,11 +280,11 @@
     "publisher": "ByteofDev",
     "description": "Static Site Generators have been changing quickly with new trends like Jamstack. Learn more about the background of static site generators, why people use them, and the current state of them, with information on modern SSGs like Eleventy, Next.js, SvelteKit, and Astro.",
     "by": "AsyncBanana",
-    "points": 33,
+    "points": 37,
     "comment_count": 7,
     "hn_item": {
       "by": "doener",
-      "descendants": 24,
+      "descendants": 25,
       "id": 30125730,
       "kids": [
         30137540,
@@ -280,11 +336,11 @@
     "publisher": "hypercardsimulator.com",
     "description": "",
     "by": "alexmingoia",
-    "points": 197,
+    "points": 199,
     "comment_count": 13,
     "hn_item": {
       "by": "doener",
-      "descendants": 24,
+      "descendants": 25,
       "id": 30125730,
       "kids": [
         30137540,
@@ -318,62 +374,6 @@
     }
   },
   {
-    "id": 30141439,
-    "title": "Operation Warp Speed: A new model for industrial policy",
-    "url": "https://americanaffairsjournal.org/2021/05/inside-operation-warp-speed-a-new-model-for-industrial-policy/",
-    "time": 1643579096,
-    "image": "https://americanaffairsjournal.org/wp-content/uploads/2021/05/Jenner-Vaccine.jpg",
-    "icon": "https://americanaffairsjournal.org/wp-content/themes/american-affairs-journal/assets/images/favicon-new.png",
-    "publisher": "American Affairs Journal",
-    "description": "Operation Warp Speed1 (OWS) was launched on May 15, 2020. A partnership between the Departments of Health and Human Services (HHS) and Defense (DoD), other agencies, and the private sector, its goal was to “accelerate the testing, supply, development, and distribution of safe and effective vacc…",
-    "by": "gok",
-    "points": 80,
-    "comment_count": 5,
-    "hn_item": {
-      "by": "doener",
-      "descendants": 24,
-      "id": 30125730,
-      "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
-      ],
-      "score": 50,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
-      "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
-    },
-    "og_item": {
-      "title": "Inside Operation Warp Speed: A New Model for Industrial Policy - American Affairs Journal",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://americanaffairsjournal.org/wp-content/uploads/2021/05/Jenner-Vaccine.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 1200,
-          "height": 794,
-          "alt": ""
-        }
-      ],
-      "url": "https://americanaffairsjournal.org/2021/05/inside-operation-warp-speed-a-new-model-for-industrial-policy/",
-      "audio": [],
-      "description": "Operation Warp Speed1 (OWS) was launched on May 15, 2020. A partnership between the Departments of Health and Human Services (HHS) and Defense (DoD), other agencies, and the private sector, its goal was to “accelerate the testing, supply, development, and distribution of safe and effective vaccines, therapeutics, and diag­nostics to counter Covid-19.” As a result…",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "American Affairs Journal",
-      "video": [],
-      "favicon": {
-        "url": "https://americanaffairsjournal.org/wp-content/themes/american-affairs-journal/assets/images/favicon-new.png"
-      }
-    }
-  },
-  {
     "id": 30141278,
     "title": "The Story of Maxis Software (1999)",
     "url": "https://web.archive.org/web/19991012021220/http://gamespot.com/features/maxis/index.html",
@@ -383,11 +383,11 @@
     "publisher": "web.archive.org",
     "description": "",
     "by": "ecliptik",
-    "points": 74,
+    "points": 77,
     "comment_count": 7,
     "hn_item": {
       "by": "doener",
-      "descendants": 24,
+      "descendants": 25,
       "id": 30125730,
       "kids": [
         30137540,
@@ -421,20 +421,20 @@
     }
   },
   {
-    "id": 30144108,
-    "title": "Reimagining Chess with AlphaZero",
-    "url": "https://cacm.acm.org/magazines/2022/2/258230-reimagining-chess-with-alphazero/fulltext",
-    "time": 1643599537,
-    "image": "https://cacm.acm.org/system/assets/0004/2100/012022_CACMpg1_Reimagining-Chess1.large.jpg?1642700035\u00261642700035",
-    "icon": "https://cacm.acm.org/favicon.ico",
-    "publisher": "cacm.acm.org",
-    "description": "AI is driving the next evolution of chess, giving players a glimpse into the game\u0026#39;s future.",
-    "by": "joak",
-    "points": 4,
-    "comment_count": 1,
+    "id": 30143587,
+    "title": "Ylang: Universal Language for eBPF, Stap+, GDB, and More (2021)",
+    "url": "https://blog.openresty.com/en/ylang-intro-part4/",
+    "time": 1643594248,
+    "image": "",
+    "icon": "https://blog.openresty.com/favicon-16x16.png",
+    "publisher": "blog.openresty.com",
+    "description": "Transparent Container Tracing Efficient Stack Unwinding Analyzing Dead Processes (Core Dumps) Very Low Tracing Overhead Standard Ylang Libraries \u0026amp; Tools Network Filtering \u0026amp; Control The Ylang Compiler\u0026rsquo;s Implementation Operating System Support Contributions to Open-Source Communities",
+    "by": "walterbell",
+    "points": 16,
+    "comment_count": 2,
     "hn_item": {
       "by": "doener",
-      "descendants": 24,
+      "descendants": 25,
       "id": 30125730,
       "kids": [
         30137540,
@@ -451,28 +451,19 @@
       "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
     },
     "og_item": {
-      "title": "Reimagining Chess with AlphaZero",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://cacm.acm.org/system/assets/0004/2100/012022_CACMpg1_Reimagining-Chess1.large.jpg?1642700035\u00261642700035",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://cacm.acm.org/magazines/2022/2/258230-reimagining-chess-with-alphazero/fulltext",
+      "title": "Ylang: Universal Language for eBPF, Stap+, GDB, and More (Part 4) - OpenResty Official Blog",
+      "type": "",
+      "image": [],
+      "url": "",
       "audio": [],
-      "description": "AI is driving the next evolution of chess, giving players a glimpse into the game\u0026#39;s future.\n",
+      "description": " Transparent Container Tracing Efficient Stack Unwinding Analyzing Dead Processes (Core Dumps) Very Low Tracing Overhead Standard Ylang Libraries \u0026amp; Tools Network Filtering \u0026amp; Control The Ylang Compiler\u0026rsquo;s Implementation Operating System Support Contributions to Open-Source Communities  ",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
       "site_name": "",
       "video": [],
       "favicon": {
-        "url": "/favicon.ico"
+        "url": "/favicon-16x16.png"
       }
     }
   },
@@ -486,11 +477,11 @@
     "publisher": "Physics",
     "description": "The pattern of green and black scales on an ocellated lizard can be described with the two-parameter Ising model for antiferromagnetic systems.",
     "by": "shusaku",
-    "points": 15,
+    "points": 17,
     "comment_count": 3,
     "hn_item": {
       "by": "doener",
-      "descendants": 24,
+      "descendants": 25,
       "id": 30125730,
       "kids": [
         30137540,
@@ -542,11 +533,11 @@
     "publisher": "leahneukirchen.org",
     "description": "",
     "by": "panic",
-    "points": 121,
+    "points": 123,
     "comment_count": 10,
     "hn_item": {
       "by": "doener",
-      "descendants": 24,
+      "descendants": 25,
       "id": 30125730,
       "kids": [
         30137540,
@@ -580,20 +571,20 @@
     }
   },
   {
-    "id": 30143587,
-    "title": "Ylang: Universal Language for eBPF, Stap+, GDB, and More (2021)",
-    "url": "https://blog.openresty.com/en/ylang-intro-part4/",
-    "time": 1643594248,
-    "image": "",
-    "icon": "https://blog.openresty.com/favicon-16x16.png",
-    "publisher": "blog.openresty.com",
-    "description": "Transparent Container Tracing Efficient Stack Unwinding Analyzing Dead Processes (Core Dumps) Very Low Tracing Overhead Standard Ylang Libraries \u0026amp; Tools Network Filtering \u0026amp; Control The Ylang Compiler\u0026rsquo;s Implementation Operating System Support Contributions to Open-Source Communities",
-    "by": "walterbell",
-    "points": 14,
-    "comment_count": 2,
+    "id": 30141439,
+    "title": "Operation Warp Speed: A new model for industrial policy",
+    "url": "https://americanaffairsjournal.org/2021/05/inside-operation-warp-speed-a-new-model-for-industrial-policy/",
+    "time": 1643579096,
+    "image": "https://americanaffairsjournal.org/wp-content/uploads/2021/05/Jenner-Vaccine.jpg",
+    "icon": "https://americanaffairsjournal.org/wp-content/themes/american-affairs-journal/assets/images/favicon-new.png",
+    "publisher": "American Affairs Journal",
+    "description": "Operation Warp Speed1 (OWS) was launched on May 15, 2020. A partnership between the Departments of Health and Human Services (HHS) and Defense (DoD), other agencies, and the private sector, its goal was to “accelerate the testing, supply, development, and distribution of safe and effective vacc…",
+    "by": "gok",
+    "points": 83,
+    "comment_count": 5,
     "hn_item": {
       "by": "doener",
-      "descendants": 24,
+      "descendants": 25,
       "id": 30125730,
       "kids": [
         30137540,
@@ -610,113 +601,28 @@
       "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
     },
     "og_item": {
-      "title": "Ylang: Universal Language for eBPF, Stap+, GDB, and More (Part 4) - OpenResty Official Blog",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": " Transparent Container Tracing Efficient Stack Unwinding Analyzing Dead Processes (Core Dumps) Very Low Tracing Overhead Standard Ylang Libraries \u0026amp; Tools Network Filtering \u0026amp; Control The Ylang Compiler\u0026rsquo;s Implementation Operating System Support Contributions to Open-Source Communities  ",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon-16x16.png"
-      }
-    }
-  },
-  {
-    "id": 30141605,
-    "title": "Evolution Gym: A Large-Scale Benchmark for Evolving Soft Robots",
-    "url": "https://evolutiongym.github.io/",
-    "time": 1643580102,
-    "image": "",
-    "icon": "https://evolutiongym.github.io/favicon.ico",
-    "publisher": "EvoGym",
-    "description": "Evolution Gym is a toolkit for developing and comparing algorithms for co-optimizing design and control.",
-    "by": "homarp",
-    "points": 7,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "doener",
-      "descendants": 24,
-      "id": 30125730,
-      "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
+      "title": "Inside Operation Warp Speed: A New Model for Industrial Policy - American Affairs Journal",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://americanaffairsjournal.org/wp-content/uploads/2021/05/Jenner-Vaccine.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 1200,
+          "height": 794,
+          "alt": ""
+        }
       ],
-      "score": 50,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
-      "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
-    },
-    "og_item": {
-      "title": "Home",
-      "type": "",
-      "image": [],
-      "url": "https://evolutiongym.github.io/",
+      "url": "https://americanaffairsjournal.org/2021/05/inside-operation-warp-speed-a-new-model-for-industrial-policy/",
       "audio": [],
-      "description": "Evolution Gym is a toolkit for developing and comparing algorithms for co-optimizing design and control.",
+      "description": "Operation Warp Speed1 (OWS) was launched on May 15, 2020. A partnership between the Departments of Health and Human Services (HHS) and Defense (DoD), other agencies, and the private sector, its goal was to “accelerate the testing, supply, development, and distribution of safe and effective vaccines, therapeutics, and diag­nostics to counter Covid-19.” As a result…",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "EvoGym",
+      "site_name": "American Affairs Journal",
       "video": [],
       "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30140984,
-    "title": "A UX designer walks into a Tesla Bar",
-    "url": "https://jenson.org/tesla/",
-    "time": 1643576121,
-    "image": "",
-    "icon": "https://jenson.org/wp-content/uploads/2015/09/out-200x200.png",
-    "publisher": "jenson.org",
-    "description": "",
-    "by": "radley",
-    "points": 597,
-    "comment_count": 90,
-    "hn_item": {
-      "by": "doener",
-      "descendants": 24,
-      "id": 30125730,
-      "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
-      ],
-      "score": 50,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
-      "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
-    },
-    "og_item": {
-      "title": "A UX designer walks into a Tesla Bar – Scott Jenson",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "https://jenson.org/wp-content/uploads/2015/09/out-200x200.png"
+        "url": "https://americanaffairsjournal.org/wp-content/themes/american-affairs-journal/assets/images/favicon-new.png"
       }
     }
   },
@@ -730,11 +636,11 @@
     "publisher": "luttig.substack.com",
     "description": "Understanding the behemoth in Redmond teaches us valuable lessons in cloud infrastructure, startup strategy, and the future of software.",
     "by": "SamvitJ",
-    "points": 186,
+    "points": 193,
     "comment_count": 41,
     "hn_item": {
       "by": "doener",
-      "descendants": 24,
+      "descendants": 25,
       "id": 30125730,
       "kids": [
         30137540,
@@ -777,6 +683,109 @@
     }
   },
   {
+    "id": 30140984,
+    "title": "A UX designer walks into a Tesla Bar",
+    "url": "https://jenson.org/tesla/",
+    "time": 1643576121,
+    "image": "",
+    "icon": "https://jenson.org/wp-content/uploads/2015/09/out-200x200.png",
+    "publisher": "jenson.org",
+    "description": "",
+    "by": "radley",
+    "points": 601,
+    "comment_count": 91,
+    "hn_item": {
+      "by": "doener",
+      "descendants": 25,
+      "id": 30125730,
+      "kids": [
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
+      ],
+      "score": 50,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
+      "type": "story",
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+    },
+    "og_item": {
+      "title": "A UX designer walks into a Tesla Bar – Scott Jenson",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "https://jenson.org/wp-content/uploads/2015/09/out-200x200.png"
+      }
+    }
+  },
+  {
+    "id": 30138434,
+    "title": "Beancount: Double-entry accounting from text files",
+    "url": "https://github.com/beancount/beancount",
+    "time": 1643559445,
+    "image": "https://opengraph.githubassets.com/ea50d6c7dea6896ea8af42815f996f43905b6f2769262a2fbf08f6ad7b8307ca/beancount/beancount",
+    "icon": "https://github.githubassets.com/favicons/favicon.svg",
+    "publisher": "GitHub",
+    "description": "Beancount: Double-Entry Accounting from Text Files. - GitHub - beancount/beancount: Beancount: Double-Entry Accounting from Text Files.",
+    "by": "techtalsky",
+    "points": 180,
+    "comment_count": 21,
+    "hn_item": {
+      "by": "doener",
+      "descendants": 25,
+      "id": 30125730,
+      "kids": [
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
+      ],
+      "score": 50,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
+      "type": "story",
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+    },
+    "og_item": {
+      "title": "GitHub - beancount/beancount: Beancount: Double-Entry Accounting from Text Files.",
+      "type": "object",
+      "image": [
+        {
+          "url": "https://opengraph.githubassets.com/ea50d6c7dea6896ea8af42815f996f43905b6f2769262a2fbf08f6ad7b8307ca/beancount/beancount",
+          "secure_url": "",
+          "type": "",
+          "width": 1200,
+          "height": 600,
+          "alt": ""
+        }
+      ],
+      "url": "https://github.com/beancount/beancount",
+      "audio": [],
+      "description": "Beancount: Double-Entry Accounting from Text Files. - GitHub - beancount/beancount: Beancount: Double-Entry Accounting from Text Files.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "GitHub",
+      "video": [],
+      "favicon": {
+        "url": "https://github.githubassets.com/favicons/favicon.svg"
+      }
+    }
+  },
+  {
     "id": 30140464,
     "title": "The Great Unconformity: Research points to glaciers being the culprit",
     "url": "https://www.vice.com/en/article/wxdzzb/a-billion-years-of-time-are-mysteriously-missing-scientists-think-they-know-why",
@@ -786,11 +795,11 @@
     "publisher": "Vice",
     "description": "The Great Unconformity has baffled geologists for a century. New research points to glaciers being the culprit.",
     "by": "cbkeller",
-    "points": 67,
+    "points": 68,
     "comment_count": 4,
     "hn_item": {
       "by": "doener",
-      "descendants": 24,
+      "descendants": 25,
       "id": 30125730,
       "kids": [
         30137540,
@@ -833,62 +842,6 @@
     }
   },
   {
-    "id": 30138434,
-    "title": "Beancount: Double-entry accounting from text files",
-    "url": "https://github.com/beancount/beancount",
-    "time": 1643559445,
-    "image": "https://opengraph.githubassets.com/83cc7f05a570bfa9db7cc54ca427954be59d4869a2eb40b7c5f794c22e694817/beancount/beancount",
-    "icon": "https://github.githubassets.com/favicons/favicon.svg",
-    "publisher": "GitHub",
-    "description": "Beancount: Double-Entry Accounting from Text Files. - GitHub - beancount/beancount: Beancount: Double-Entry Accounting from Text Files.",
-    "by": "techtalsky",
-    "points": 175,
-    "comment_count": 21,
-    "hn_item": {
-      "by": "doener",
-      "descendants": 24,
-      "id": 30125730,
-      "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
-      ],
-      "score": 50,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
-      "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
-    },
-    "og_item": {
-      "title": "GitHub - beancount/beancount: Beancount: Double-Entry Accounting from Text Files.",
-      "type": "object",
-      "image": [
-        {
-          "url": "https://opengraph.githubassets.com/83cc7f05a570bfa9db7cc54ca427954be59d4869a2eb40b7c5f794c22e694817/beancount/beancount",
-          "secure_url": "",
-          "type": "",
-          "width": 1200,
-          "height": 600,
-          "alt": ""
-        }
-      ],
-      "url": "https://github.com/beancount/beancount",
-      "audio": [],
-      "description": "Beancount: Double-Entry Accounting from Text Files. - GitHub - beancount/beancount: Beancount: Double-Entry Accounting from Text Files.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "GitHub",
-      "video": [],
-      "favicon": {
-        "url": "https://github.githubassets.com/favicons/favicon.svg"
-      }
-    }
-  },
-  {
     "id": 30122128,
     "title": "Sega quits arcade business after 50 years",
     "url": "https://www.eurogamer.net/articles/2022-01-28-sega-quits-japanese-arcade-business-after-50-years",
@@ -898,11 +851,11 @@
     "publisher": "Eurogamer.net",
     "description": "",
     "by": "atombender",
-    "points": 217,
+    "points": 218,
     "comment_count": 24,
     "hn_item": {
       "by": "doener",
-      "descendants": 24,
+      "descendants": 25,
       "id": 30125730,
       "kids": [
         30137540,
@@ -945,6 +898,109 @@
     }
   },
   {
+    "id": 30137681,
+    "title": "In defence of the boring web",
+    "url": "https://bastian.rieck.me/blog/posts/2022/boring/",
+    "time": 1643554351,
+    "image": "",
+    "icon": "https://bastian.rieck.me/favicon.ico",
+    "publisher": "bastian.rieck.me",
+    "description": "",
+    "by": "Topolomancer",
+    "points": 184,
+    "comment_count": 22,
+    "hn_item": {
+      "by": "doener",
+      "descendants": 25,
+      "id": 30125730,
+      "kids": [
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
+      ],
+      "score": 50,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
+      "type": "story",
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+    },
+    "og_item": {
+      "title": "In Defence of the Boring Web",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30119925,
+    "title": "Message in a bottle from Scottish girl found in Norway after 25 years",
+    "url": "https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-60121185",
+    "time": 1643401844,
+    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/16512/production/_123001419_joanna2.jpg",
+    "icon": "https://www.bbc.co.uk/favicon.ico",
+    "publisher": "BBC News",
+    "description": "The bottle Joanna Buchan dropped in the sea at Peterhead when she was eight has washed up in Norway.",
+    "by": "LinuxBender",
+    "points": 84,
+    "comment_count": 9,
+    "hn_item": {
+      "by": "doener",
+      "descendants": 25,
+      "id": 30125730,
+      "kids": [
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
+      ],
+      "score": 50,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
+      "type": "story",
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+    },
+    "og_item": {
+      "title": "Message in a bottle from Scottish girl found in Norway after 25 years",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/16512/production/_123001419_joanna2.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://www.bbc.com/news/uk-scotland-north-east-orkney-shetland-60121185",
+      "audio": [],
+      "description": "The bottle Joanna Buchan dropped in the sea at Peterhead when she was eight has washed up in Norway.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "BBC News",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30141022,
     "title": "BuildZoom (better way to build custom homes) Is hiring a Principal Engineer",
     "url": "https://jobs.lever.co/buildzoom",
@@ -958,7 +1014,7 @@
     "comment_count": 0,
     "hn_item": {
       "by": "doener",
-      "descendants": 24,
+      "descendants": 25,
       "id": 30125730,
       "kids": [
         30137540,
@@ -1011,10 +1067,10 @@
     "description": "",
     "by": "basementcat",
     "points": 34,
-    "comment_count": 4,
+    "comment_count": 6,
     "hn_item": {
       "by": "doener",
-      "descendants": 24,
+      "descendants": 25,
       "id": 30125730,
       "kids": [
         30137540,
@@ -1048,76 +1104,20 @@
     }
   },
   {
-    "id": 30119925,
-    "title": "Message in a bottle from Scottish girl found in Norway after 25 years",
-    "url": "https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-60121185",
-    "time": 1643401844,
-    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/16512/production/_123001419_joanna2.jpg",
-    "icon": "https://www.bbc.co.uk/favicon.ico",
-    "publisher": "BBC News",
-    "description": "The bottle Joanna Buchan dropped in the sea at Peterhead when she was eight has washed up in Norway.",
-    "by": "LinuxBender",
-    "points": 84,
-    "comment_count": 9,
-    "hn_item": {
-      "by": "doener",
-      "descendants": 24,
-      "id": 30125730,
-      "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
-      ],
-      "score": 50,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
-      "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
-    },
-    "og_item": {
-      "title": "Message in a bottle from Scottish girl found in Norway after 25 years",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/16512/production/_123001419_joanna2.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://www.bbc.com/news/uk-scotland-north-east-orkney-shetland-60121185",
-      "audio": [],
-      "description": "The bottle Joanna Buchan dropped in the sea at Peterhead when she was eight has washed up in Norway.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "BBC News",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30137681,
-    "title": "In defence of the boring web",
-    "url": "https://bastian.rieck.me/blog/posts/2022/boring/",
-    "time": 1643554351,
+    "id": 30128193,
+    "title": "On Immersion",
+    "url": "https://blog.laurel.world/on-immersion/",
+    "time": 1643477006,
     "image": "",
-    "icon": "https://bastian.rieck.me/favicon.ico",
-    "publisher": "bastian.rieck.me",
+    "icon": "https://blog.laurel.world/favicon.ico",
+    "publisher": "blog.laurel.world",
     "description": "",
-    "by": "Topolomancer",
-    "points": 183,
-    "comment_count": 22,
+    "by": "artmare",
+    "points": 16,
+    "comment_count": 0,
     "hn_item": {
       "by": "doener",
-      "descendants": 24,
+      "descendants": 25,
       "id": 30125730,
       "kids": [
         30137540,
@@ -1134,7 +1134,7 @@
       "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
     },
     "og_item": {
-      "title": "In Defence of the Boring Web",
+      "title": "A couple years ago, I created this list: immersive: walking taking a shower sleeping teaching falling in love cinema life or death experience I was curious about these amazing parts of life that feel so meaningful — like portals, where time and space take on a totally different, enchanted feeling. I remember writing this list… – blog.laurel.world",
       "type": "",
       "image": [],
       "url": "",
@@ -1164,7 +1164,7 @@
     "comment_count": 12,
     "hn_item": {
       "by": "doener",
-      "descendants": 24,
+      "descendants": 25,
       "id": 30125730,
       "kids": [
         30137540,
@@ -1207,20 +1207,20 @@
     }
   },
   {
-    "id": 30128193,
-    "title": "On Immersion",
-    "url": "https://blog.laurel.world/on-immersion/",
-    "time": 1643477006,
-    "image": "",
-    "icon": "https://blog.laurel.world/favicon.ico",
-    "publisher": "blog.laurel.world",
-    "description": "",
-    "by": "artmare",
-    "points": 14,
-    "comment_count": 0,
+    "id": 30115520,
+    "title": "Pearls Before Breakfast (2007)",
+    "url": "https://www.washingtonpost.com/lifestyle/magazine/pearls-before-breakfast-can-one-of-the-nations-great-musicians-cut-through-the-fog-of-a-dc-rush-hour-lets-find-out/2014/09/23/8a6d46da-4331-11e4-b47c-f5889e061e5f_story.html",
+    "time": 1643382593,
+    "image": "https://www.washingtonpost.com/pbox.php?url=https://www.washingtonpost.com/pb/resources/img/twp-social-share.png\u0026w=1484\u0026op=resize\u0026opt=1\u0026filter=antialias\u0026t=20170517",
+    "icon": "https://www.washingtonpost.com/favicon.ico",
+    "publisher": "Washington Post",
+    "description": "Joshua Bell is one of the world’s greatest violinists. His instrument of choice is a multimillion-dollar Stradivarius. If he played it for spare change, incognito, outside a bustling Metro stop in Washington, would anyone notice?",
+    "by": "Tomte",
+    "points": 10,
+    "comment_count": 4,
     "hn_item": {
       "by": "doener",
-      "descendants": 24,
+      "descendants": 25,
       "id": 30125730,
       "kids": [
         30137540,
@@ -1237,19 +1237,84 @@
       "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
     },
     "og_item": {
-      "title": "A couple years ago, I created this list: immersive: walking taking a shower sleeping teaching falling in love cinema life or death experience I was curious about these amazing parts of life that feel so meaningful — like portals, where time and space take on a totally different, enchanted feeling. I remember writing this list… – blog.laurel.world",
-      "type": "",
-      "image": [],
-      "url": "",
+      "title": "Pearls Before Breakfast: Can one of the nation’s great musicians cut through the fog of a D.C. rush hour? Let’s find out.",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://www.washingtonpost.com/pbox.php?url=https://www.washingtonpost.com/pb/resources/img/twp-social-share.png\u0026w=1484\u0026op=resize\u0026opt=1\u0026filter=antialias\u0026t=20170517",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://www.washingtonpost.com/lifestyle/magazine/pearls-before-breakfast-can-one-of-the-nations-great-musicians-cut-through-the-fog-of-a-dc-rush-hour-lets-find-out/2014/09/23/8a6d46da-4331-11e4-b47c-f5889e061e5f_story.html",
       "audio": [],
-      "description": "",
+      "description": "Joshua Bell is one of the world’s greatest violinists. His instrument of choice is a multimillion-dollar Stradivarius. If he played it for spare change, incognito, outside a bustling Metro stop in Washington, would anyone notice?",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "",
+      "site_name": "Washington Post",
       "video": [],
       "favicon": {
         "url": "/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30129565,
+    "title": "Static-Let, or how I Learned to stop worrying and love Load-Time-Value",
+    "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md",
+    "time": 1643484611,
+    "image": "https://opengraph.githubassets.com/ea544d0bb229911171eaeb56aeac2f73687bc3e4eb5ff0b1c01769be3a010e5c/phoe/articles",
+    "icon": "https://github.githubassets.com/favicons/favicon.svg",
+    "publisher": "GitHub",
+    "description": "An assorted gathering of the Lisp posts and articles I make. - articles/static-let.md at main · phoe/articles",
+    "by": "phoe-krk",
+    "points": 7,
+    "comment_count": 2,
+    "hn_item": {
+      "by": "doener",
+      "descendants": 25,
+      "id": 30125730,
+      "kids": [
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
+      ],
+      "score": 50,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
+      "type": "story",
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+    },
+    "og_item": {
+      "title": "articles/static-let.md at main · phoe/articles",
+      "type": "object",
+      "image": [
+        {
+          "url": "https://opengraph.githubassets.com/ea544d0bb229911171eaeb56aeac2f73687bc3e4eb5ff0b1c01769be3a010e5c/phoe/articles",
+          "secure_url": "",
+          "type": "",
+          "width": 1200,
+          "height": 600,
+          "alt": ""
+        }
+      ],
+      "url": "https://github.com/phoe/articles",
+      "audio": [],
+      "description": "An assorted gathering of the Lisp posts and articles I make. - articles/static-let.md at main · phoe/articles",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "GitHub",
+      "video": [],
+      "favicon": {
+        "url": "https://github.githubassets.com/favicons/favicon.svg"
       }
     }
   },
@@ -1267,7 +1332,7 @@
     "comment_count": 4,
     "hn_item": {
       "by": "doener",
-      "descendants": 24,
+      "descendants": 25,
       "id": 30125730,
       "kids": [
         30137540,
@@ -1310,11 +1375,11 @@
     "publisher": "subconscious.substack.com",
     "description": "What if your notes could self-organize—from scratch notes, to draft, to finished creative work—through a stream-of-consciousness process—like dreaming? Years ago, I was part of a user study that aimed to understand how creators create. We interviewed authors, artists, students, influencers,…",
     "by": "fagnerbrack",
-    "points": 16,
-    "comment_count": 1,
+    "points": 17,
+    "comment_count": 2,
     "hn_item": {
       "by": "doener",
-      "descendants": 24,
+      "descendants": 25,
       "id": 30125730,
       "kids": [
         30137540,
@@ -1370,7 +1435,7 @@
     "comment_count": 11,
     "hn_item": {
       "by": "doener",
-      "descendants": 24,
+      "descendants": 25,
       "id": 30125730,
       "kids": [
         30137540,
@@ -1404,6 +1469,53 @@
     }
   },
   {
+    "id": 30137864,
+    "title": "Midnight Commander Tips and Tricks",
+    "url": "http://www.softpanorama.org/OFM/MC/mc_tips.shtml",
+    "time": 1643555741,
+    "image": "",
+    "icon": "",
+    "publisher": "softpanorama.org",
+    "description": "",
+    "by": "ingve",
+    "points": 143,
+    "comment_count": 18,
+    "hn_item": {
+      "by": "doener",
+      "descendants": 25,
+      "id": 30125730,
+      "kids": [
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
+      ],
+      "score": 50,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
+      "type": "story",
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+    },
+    "og_item": {
+      "title": "Midnight Commander Tips and Tricks",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30142247,
     "title": "Basic Cryptography – The Vigenere Cipher",
     "url": "https://eric.mann.blog/basic-cryptography-the-vigenere-cipher/",
@@ -1417,7 +1529,7 @@
     "comment_count": 6,
     "hn_item": {
       "by": "doener",
-      "descendants": 24,
+      "descendants": 25,
       "id": 30125730,
       "kids": [
         30137540,
@@ -1460,53 +1572,6 @@
     }
   },
   {
-    "id": 30137864,
-    "title": "Midnight Commander Tips and Tricks",
-    "url": "http://www.softpanorama.org/OFM/MC/mc_tips.shtml",
-    "time": 1643555741,
-    "image": "",
-    "icon": "",
-    "publisher": "softpanorama.org",
-    "description": "",
-    "by": "ingve",
-    "points": 143,
-    "comment_count": 18,
-    "hn_item": {
-      "by": "doener",
-      "descendants": 24,
-      "id": 30125730,
-      "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
-      ],
-      "score": 50,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
-      "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
-    },
-    "og_item": {
-      "title": "Midnight Commander Tips and Tricks",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30128048,
     "title": "COM+ Revisited",
     "url": "https://lowleveldesign.org/2022/01/17/com-revisited/",
@@ -1520,7 +1585,7 @@
     "comment_count": 8,
     "hn_item": {
       "by": "doener",
-      "descendants": 24,
+      "descendants": 25,
       "id": 30125730,
       "kids": [
         30137540,
@@ -1563,62 +1628,6 @@
     }
   },
   {
-    "id": 30115520,
-    "title": "Pearls Before Breakfast (2007)",
-    "url": "https://www.washingtonpost.com/lifestyle/magazine/pearls-before-breakfast-can-one-of-the-nations-great-musicians-cut-through-the-fog-of-a-dc-rush-hour-lets-find-out/2014/09/23/8a6d46da-4331-11e4-b47c-f5889e061e5f_story.html",
-    "time": 1643382593,
-    "image": "https://www.washingtonpost.com/pbox.php?url=https://www.washingtonpost.com/pb/resources/img/twp-social-share.png\u0026w=1484\u0026op=resize\u0026opt=1\u0026filter=antialias\u0026t=20170517",
-    "icon": "https://www.washingtonpost.com/favicon.ico",
-    "publisher": "Washington Post",
-    "description": "Joshua Bell is one of the world’s greatest violinists. His instrument of choice is a multimillion-dollar Stradivarius. If he played it for spare change, incognito, outside a bustling Metro stop in Washington, would anyone notice?",
-    "by": "Tomte",
-    "points": 8,
-    "comment_count": 1,
-    "hn_item": {
-      "by": "doener",
-      "descendants": 24,
-      "id": 30125730,
-      "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
-      ],
-      "score": 50,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
-      "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
-    },
-    "og_item": {
-      "title": "Pearls Before Breakfast: Can one of the nation’s great musicians cut through the fog of a D.C. rush hour? Let’s find out.",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://www.washingtonpost.com/pbox.php?url=https://www.washingtonpost.com/pb/resources/img/twp-social-share.png\u0026w=1484\u0026op=resize\u0026opt=1\u0026filter=antialias\u0026t=20170517",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://www.washingtonpost.com/lifestyle/magazine/pearls-before-breakfast-can-one-of-the-nations-great-musicians-cut-through-the-fog-of-a-dc-rush-hour-lets-find-out/2014/09/23/8a6d46da-4331-11e4-b47c-f5889e061e5f_story.html",
-      "audio": [],
-      "description": "Joshua Bell is one of the world’s greatest violinists. His instrument of choice is a multimillion-dollar Stradivarius. If he played it for spare change, incognito, outside a bustling Metro stop in Washington, would anyone notice?",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Washington Post",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30138468,
     "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
     "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf",
@@ -1628,11 +1637,11 @@
     "publisher": "win.tue.nl",
     "description": "",
     "by": "camnora",
-    "points": 96,
+    "points": 98,
     "comment_count": 7,
     "hn_item": {
       "by": "doener",
-      "descendants": 24,
+      "descendants": 25,
       "id": 30125730,
       "kids": [
         30137540,
@@ -1660,11 +1669,11 @@
     "publisher": "Rest of World",
     "description": "As a hedge against American talent poachers, some exasperated founders are recruiting developers who can’t speak English.",
     "by": "braco_alva",
-    "points": 178,
+    "points": 181,
     "comment_count": 39,
     "hn_item": {
       "by": "doener",
-      "descendants": 24,
+      "descendants": 25,
       "id": 30125730,
       "kids": [
         30137540,
@@ -1720,7 +1729,7 @@
     "comment_count": 2,
     "hn_item": {
       "by": "doener",
-      "descendants": 24,
+      "descendants": 25,
       "id": 30125730,
       "kids": [
         30137540,
@@ -1763,62 +1772,6 @@
     }
   },
   {
-    "id": 30142351,
-    "title": "Completing a Creative Project",
-    "url": "https://www.sonyasupposedly.com/completing-a-creative-project/",
-    "time": 1643585100,
-    "image": "https://www.sonyasupposedly.com/content/images/2022/01/artdecoladies-1.jpg",
-    "icon": "https://www.sonyasupposedly.com/favicon.png",
-    "publisher": "Sonya Supposedly",
-    "description": "My undying thanks to members for funding the following realizations 💖 Btw, click here for the PDF version that I mailed in November, if you want it for some reason. How to complete a creative project: stick with it until you're done. Gee thanks, great advice, I know. But it's true!",
-    "by": "exolymph",
-    "points": 3,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "doener",
-      "descendants": 24,
-      "id": 30125730,
-      "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
-      ],
-      "score": 50,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
-      "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
-    },
-    "og_item": {
-      "title": "Completing a Creative Project",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://www.sonyasupposedly.com/content/images/2022/01/artdecoladies-1.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 2000,
-          "height": 1050,
-          "alt": ""
-        }
-      ],
-      "url": "https://www.sonyasupposedly.com/completing-a-creative-project/",
-      "audio": [],
-      "description": "My undying thanks to members for funding the following realizations 💖 Btw, click here for the PDF version that I mailed in November, if you want it for some reason. How to complete a creative project: stick with it until you're done. Gee thanks, great advice, I know. But it's true!",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Sonya Supposedly",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.png"
-      }
-    }
-  },
-  {
     "id": 30125933,
     "title": "Dataset and Model for “I built a system to take photos of planes over my house”",
     "url": "https://universe.roboflow.com/skybot-cam/overhead-plane-detector",
@@ -1832,7 +1785,7 @@
     "comment_count": 7,
     "hn_item": {
       "by": "doener",
-      "descendants": 24,
+      "descendants": 25,
       "id": 30125730,
       "kids": [
         30137540,
@@ -1875,6 +1828,62 @@
     }
   },
   {
+    "id": 30142351,
+    "title": "Completing a Creative Project",
+    "url": "https://www.sonyasupposedly.com/completing-a-creative-project/",
+    "time": 1643585100,
+    "image": "https://www.sonyasupposedly.com/content/images/2022/01/artdecoladies-1.jpg",
+    "icon": "https://www.sonyasupposedly.com/favicon.png",
+    "publisher": "Sonya Supposedly",
+    "description": "My undying thanks to members for funding the following realizations 💖 Btw, click here for the PDF version that I mailed in November, if you want it for some reason. How to complete a creative project: stick with it until you're done. Gee thanks, great advice, I know. But it's true!",
+    "by": "exolymph",
+    "points": 4,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "doener",
+      "descendants": 25,
+      "id": 30125730,
+      "kids": [
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
+      ],
+      "score": 50,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
+      "type": "story",
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+    },
+    "og_item": {
+      "title": "Completing a Creative Project",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://www.sonyasupposedly.com/content/images/2022/01/artdecoladies-1.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 2000,
+          "height": 1050,
+          "alt": ""
+        }
+      ],
+      "url": "https://www.sonyasupposedly.com/completing-a-creative-project/",
+      "audio": [],
+      "description": "My undying thanks to members for funding the following realizations 💖 Btw, click here for the PDF version that I mailed in November, if you want it for some reason. How to complete a creative project: stick with it until you're done. Gee thanks, great advice, I know. But it's true!",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Sonya Supposedly",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.png"
+      }
+    }
+  },
+  {
     "id": 30110679,
     "title": "Bringing Ancient Pottery to Life",
     "url": "https://news.harvard.edu/gazette/story/2021/09/harvard-ceramics-program-recreates-art-museums-pieces/",
@@ -1888,7 +1897,7 @@
     "comment_count": 1,
     "hn_item": {
       "by": "doener",
-      "descendants": 24,
+      "descendants": 25,
       "id": 30125730,
       "kids": [
         30137540,
@@ -1944,7 +1953,7 @@
     "comment_count": 7,
     "hn_item": {
       "by": "doener",
-      "descendants": 24,
+      "descendants": 25,
       "id": 30125730,
       "kids": [
         30137540,
@@ -2000,7 +2009,7 @@
     "comment_count": 16,
     "hn_item": {
       "by": "doener",
-      "descendants": 24,
+      "descendants": 25,
       "id": 30125730,
       "kids": [
         30137540,
@@ -2056,7 +2065,7 @@
     "comment_count": 17,
     "hn_item": {
       "by": "doener",
-      "descendants": 24,
+      "descendants": 25,
       "id": 30125730,
       "kids": [
         30137540,
@@ -2108,11 +2117,11 @@
     "publisher": "journals.sagepub.com",
     "description": "",
     "by": "FrojoS",
-    "points": 14,
+    "points": 15,
     "comment_count": 6,
     "hn_item": {
       "by": "doener",
-      "descendants": 24,
+      "descendants": 25,
       "id": 30125730,
       "kids": [
         30137540,
@@ -2159,7 +2168,7 @@
     "comment_count": 5,
     "hn_item": {
       "by": "doener",
-      "descendants": 24,
+      "descendants": 25,
       "id": 30125730,
       "kids": [
         30137540,
@@ -2193,62 +2202,6 @@
     }
   },
   {
-    "id": 30131847,
-    "title": "Mix and Match Mental Models",
-    "url": "https://lethain.com/mental-models-mix-match/",
-    "time": 1643499930,
-    "image": "https://lethain.com/static/author.png",
-    "icon": "https://lethain.com/favicon.ico",
-    "publisher": "lethain.com",
-    "description": "A few days ago, I got to have a delightful chat with Katie Wilde, digging into a question that we’ve both found difficult to answer: what distinguishes managers perceived to have good judgment from those perceived to have bad judgment? In exploring that question, the topic of mental models came…",
-    "by": "wavelander",
-    "points": 28,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "doener",
-      "descendants": 24,
-      "id": 30125730,
-      "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
-      ],
-      "score": 50,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
-      "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
-    },
-    "og_item": {
-      "title": "Mix and match mental models.",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://lethain.com/static/author.png",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://lethain.com/mental-models-mix-match/",
-      "audio": [],
-      "description": "A few days ago, I got to have a delightful chat with Katie Wilde, digging into a question that we’ve both found difficult to answer: what distinguishes managers perceived to have good judgment from those perceived to have bad judgment? In exploring that question, the topic of mental models came up frequently.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30119285,
     "title": "Devious SQL: Message Queuing Using Native PostgreSQL",
     "url": "https://blog.crunchydata.com/blog/message-queuing-using-native-postgresql",
@@ -2262,7 +2215,7 @@
     "comment_count": 9,
     "hn_item": {
       "by": "doener",
-      "descendants": 24,
+      "descendants": 25,
       "id": 30125730,
       "kids": [
         30137540,
@@ -2305,6 +2258,62 @@
     }
   },
   {
+    "id": 30131847,
+    "title": "Mix and Match Mental Models",
+    "url": "https://lethain.com/mental-models-mix-match/",
+    "time": 1643499930,
+    "image": "https://lethain.com/static/author.png",
+    "icon": "https://lethain.com/favicon.ico",
+    "publisher": "lethain.com",
+    "description": "A few days ago, I got to have a delightful chat with Katie Wilde, digging into a question that we’ve both found difficult to answer: what distinguishes managers perceived to have good judgment from those perceived to have bad judgment? In exploring that question, the topic of mental models came…",
+    "by": "wavelander",
+    "points": 28,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "doener",
+      "descendants": 25,
+      "id": 30125730,
+      "kids": [
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
+      ],
+      "score": 50,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
+      "type": "story",
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+    },
+    "og_item": {
+      "title": "Mix and match mental models.",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://lethain.com/static/author.png",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://lethain.com/mental-models-mix-match/",
+      "audio": [],
+      "description": "A few days ago, I got to have a delightful chat with Katie Wilde, digging into a question that we’ve both found difficult to answer: what distinguishes managers perceived to have good judgment from those perceived to have bad judgment? In exploring that question, the topic of mental models came up frequently.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30138277,
     "title": "Set up a website with Nim (2019)",
     "url": "https://ttj.dk/blog/2019/01/20/setup-a-website-with-nim",
@@ -2318,7 +2327,7 @@
     "comment_count": 6,
     "hn_item": {
       "by": "doener",
-      "descendants": 24,
+      "descendants": 25,
       "id": 30125730,
       "kids": [
         30137540,
@@ -2356,7 +2365,7 @@
     "title": "GoSTL: Algorithm and datastructure library for Go similar to C++ STL",
     "url": "https://github.com/liyue201/gostl",
     "time": 1643549145,
-    "image": "https://opengraph.githubassets.com/f25f5c9f3d118ec96de97b55a41298da1d7e25aa96c9a3c8534169d7bebd3ff4/liyue201/gostl",
+    "image": "https://opengraph.githubassets.com/0ce21fe141dc3b0b46288288698e43c7ab91a9985a7c7781f5b6f81d0239ee82/liyue201/gostl",
     "icon": "https://github.githubassets.com/favicons/favicon.svg",
     "publisher": "GitHub",
     "description": "Data structure and algorithm library for go, designed to provide functions similar to C++ STL - GitHub - liyue201/gostl: Data structure and algorithm library for go, designed to provide functions s...",
@@ -2365,7 +2374,7 @@
     "comment_count": 9,
     "hn_item": {
       "by": "doener",
-      "descendants": 24,
+      "descendants": 25,
       "id": 30125730,
       "kids": [
         30137540,
@@ -2386,7 +2395,7 @@
       "type": "object",
       "image": [
         {
-          "url": "https://opengraph.githubassets.com/f25f5c9f3d118ec96de97b55a41298da1d7e25aa96c9a3c8534169d7bebd3ff4/liyue201/gostl",
+          "url": "https://opengraph.githubassets.com/0ce21fe141dc3b0b46288288698e43c7ab91a9985a7c7781f5b6f81d0239ee82/liyue201/gostl",
           "secure_url": "",
           "type": "",
           "width": 1200,
@@ -2421,7 +2430,7 @@
     "comment_count": 5,
     "hn_item": {
       "by": "doener",
-      "descendants": 24,
+      "descendants": 25,
       "id": 30125730,
       "kids": [
         30137540,
@@ -2468,7 +2477,7 @@
     "comment_count": 12,
     "hn_item": {
       "by": "doener",
-      "descendants": 24,
+      "descendants": 25,
       "id": 30125730,
       "kids": [
         30137540,
@@ -2511,11 +2520,11 @@
     "publisher": "BuzzFeed News",
     "description": "I went on a vacation. I came home with a mysterious fungus in my brain that is so rare only about 120 cases have been confirmed worldwide since its discovery in 1911.",
     "by": "yellow_lead",
-    "points": 172,
+    "points": 173,
     "comment_count": 10,
     "hn_item": {
       "by": "doener",
-      "descendants": 24,
+      "descendants": 25,
       "id": 30125730,
       "kids": [
         30137540,
@@ -2571,7 +2580,7 @@
     "comment_count": 2,
     "hn_item": {
       "by": "doener",
-      "descendants": 24,
+      "descendants": 25,
       "id": 30125730,
       "kids": [
         30137540,
@@ -2614,6 +2623,62 @@
     }
   },
   {
+    "id": 30143933,
+    "title": "Everything we see is a mash-up of the brain’s last 15s of visual information",
+    "url": "https://theconversation.com/everything-we-see-is-a-mash-up-of-the-brains-last-15-seconds-of-visual-information-175577",
+    "time": 1643597517,
+    "image": "https://images.theconversation.com/files/442574/original/file-20220125-15-123wgyh.jpg?ixlib=rb-1.1.0\u0026rect=0%2C808%2C2590%2C1295\u0026q=45\u0026auto=format\u0026w=1356\u0026h=668\u0026fit=crop",
+    "icon": "https://cdn.theconversation.com/static/tc/@theconversation/ui/dist/esm/logos/favicon-ae7bd7a3096e6cda828b4576fa9b32c6.ico",
+    "publisher": "The Conversation",
+    "description": "The brain is basically a time machine that ensures what we see is stable and continuous",
+    "by": "solarmist",
+    "points": 7,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "doener",
+      "descendants": 25,
+      "id": 30125730,
+      "kids": [
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
+      ],
+      "score": 50,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
+      "type": "story",
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+    },
+    "og_item": {
+      "title": "Everything we see is a mash-up of the brain's last 15 seconds of visual information",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://images.theconversation.com/files/442574/original/file-20220125-15-123wgyh.jpg?ixlib=rb-1.1.0\u0026rect=0%2C808%2C2590%2C1295\u0026q=45\u0026auto=format\u0026w=1356\u0026h=668\u0026fit=crop",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "http://theconversation.com/everything-we-see-is-a-mash-up-of-the-brains-last-15-seconds-of-visual-information-175577",
+      "audio": [],
+      "description": "The brain is basically a time machine that ensures what we see is stable and continuous",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "The Conversation",
+      "video": [],
+      "favicon": {
+        "url": "https://cdn.theconversation.com/static/tc/@theconversation/ui/dist/esm/logos/favicon-ae7bd7a3096e6cda828b4576fa9b32c6.ico"
+      }
+    }
+  },
+  {
     "id": 30139643,
     "title": "Very Remote Lisp Debugging Story",
     "url": "https://susam.net/maze/very-remote-debugging.html",
@@ -2623,11 +2688,11 @@
     "publisher": "susam.net",
     "description": "",
     "by": "susam",
-    "points": 36,
+    "points": 37,
     "comment_count": 3,
     "hn_item": {
       "by": "doener",
-      "descendants": 24,
+      "descendants": 25,
       "id": 30125730,
       "kids": [
         30137540,
@@ -2661,53 +2726,6 @@
     }
   },
   {
-    "id": 30142896,
-    "title": "Decrypt an encrypted message to any plaintext",
-    "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts",
-    "time": 1643589180,
-    "image": "",
-    "icon": "https://www.go350.com/favicon-16x16.png",
-    "publisher": "go350.com",
-    "description": "a one-time pad implementation",
-    "by": "_wldu",
-    "points": 10,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "doener",
-      "descendants": 24,
-      "id": 30125730,
-      "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
-      ],
-      "score": 50,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
-      "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
-    },
-    "og_item": {
-      "title": "Padder",
-      "type": "article",
-      "image": [],
-      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/",
-      "audio": [],
-      "description": "a one-time pad implementation",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon-16x16.png"
-      }
-    }
-  },
-  {
     "id": 30116262,
     "title": "A Padlock I’d Use [video]",
     "url": "https://www.youtube.com/watch?v=HrV86GqlY8o",
@@ -2721,7 +2739,7 @@
     "comment_count": 7,
     "hn_item": {
       "by": "doener",
-      "descendants": 24,
+      "descendants": 25,
       "id": 30125730,
       "kids": [
         30137540,
@@ -2773,62 +2791,6 @@
     }
   },
   {
-    "id": 30142494,
-    "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
-    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/",
-    "time": 1643586052,
-    "image": "https://www.reuters.com/resizer/nJB_ZidKD76ip6VAQlGhKHf1JI8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PYPUULVDLFI5ZBML3UV35CE4TA.jpg",
-    "icon": "https://www.reuters.com/pf/resources/icons/favicon.ico?d=69",
-    "publisher": "Reuters",
-    "description": "The highly transmissible Omicron variant of the SARS-CoV-2 virus - the most common form of which is known as BA.1 - now accounts for nearly all of the coronavirus infections globally, although dramatic surges in COVID cases have already peaked in some countries.",
-    "by": "lsllc",
-    "points": 23,
-    "comment_count": 1,
-    "hn_item": {
-      "by": "doener",
-      "descendants": 24,
-      "id": 30125730,
-      "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
-      ],
-      "score": 50,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
-      "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
-    },
-    "og_item": {
-      "title": "Explainer: Scientists on alert over rising cases caused by Omicron cousin BA.2",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://www.reuters.com/resizer/nJB_ZidKD76ip6VAQlGhKHf1JI8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PYPUULVDLFI5ZBML3UV35CE4TA.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/",
-      "audio": [],
-      "description": "The highly transmissible Omicron variant of the SARS-CoV-2 virus - the most common form of which is known as BA.1 - now accounts for nearly all of the coronavirus infections globally, although dramatic surges in COVID cases have already peaked in some countries.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Reuters",
-      "video": [],
-      "favicon": {
-        "url": "/pf/resources/icons/favicon.ico?d=69"
-      }
-    }
-  },
-  {
     "id": 30111373,
     "title": "What is FORGE?",
     "url": "https://www.energy.gov/eere/geothermal/what-forge",
@@ -2842,7 +2804,7 @@
     "comment_count": 5,
     "hn_item": {
       "by": "doener",
-      "descendants": 24,
+      "descendants": 25,
       "id": 30125730,
       "kids": [
         30137540,
@@ -2876,6 +2838,53 @@
     }
   },
   {
+    "id": 30142896,
+    "title": "Decrypt an encrypted message to any plaintext",
+    "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts",
+    "time": 1643589180,
+    "image": "",
+    "icon": "https://www.go350.com/favicon-16x16.png",
+    "publisher": "go350.com",
+    "description": "a one-time pad implementation",
+    "by": "_wldu",
+    "points": 10,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "doener",
+      "descendants": 25,
+      "id": 30125730,
+      "kids": [
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
+      ],
+      "score": 50,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
+      "type": "story",
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+    },
+    "og_item": {
+      "title": "Padder",
+      "type": "article",
+      "image": [],
+      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/",
+      "audio": [],
+      "description": "a one-time pad implementation",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon-16x16.png"
+      }
+    }
+  },
+  {
     "id": 30132612,
     "title": "John Locke’s recipe for Pancakes (2021)",
     "url": "https://rarecooking.com/2021/12/14/john-lockes-recipe-for-pancakes/",
@@ -2889,7 +2898,7 @@
     "comment_count": 32,
     "hn_item": {
       "by": "doener",
-      "descendants": 24,
+      "descendants": 25,
       "id": 30125730,
       "kids": [
         30137540,
@@ -2932,20 +2941,20 @@
     }
   },
   {
-    "id": 30143933,
-    "title": "Everything we see is a mash-up of the brain’s last 15s of visual information",
-    "url": "https://theconversation.com/everything-we-see-is-a-mash-up-of-the-brains-last-15-seconds-of-visual-information-175577",
-    "time": 1643597517,
-    "image": "https://images.theconversation.com/files/442574/original/file-20220125-15-123wgyh.jpg?ixlib=rb-1.1.0\u0026rect=0%2C808%2C2590%2C1295\u0026q=45\u0026auto=format\u0026w=1356\u0026h=668\u0026fit=crop",
-    "icon": "https://cdn.theconversation.com/static/tc/@theconversation/ui/dist/esm/logos/favicon-ae7bd7a3096e6cda828b4576fa9b32c6.ico",
-    "publisher": "The Conversation",
-    "description": "The brain is basically a time machine that ensures what we see is stable and continuous",
-    "by": "solarmist",
-    "points": 5,
-    "comment_count": 0,
+    "id": 30142494,
+    "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
+    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/",
+    "time": 1643586052,
+    "image": "https://www.reuters.com/resizer/nJB_ZidKD76ip6VAQlGhKHf1JI8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PYPUULVDLFI5ZBML3UV35CE4TA.jpg",
+    "icon": "https://www.reuters.com/pf/resources/icons/favicon.ico?d=69",
+    "publisher": "Reuters",
+    "description": "The highly transmissible Omicron variant of the SARS-CoV-2 virus - the most common form of which is known as BA.1 - now accounts for nearly all of the coronavirus infections globally, although dramatic surges in COVID cases have already peaked in some countries.",
+    "by": "lsllc",
+    "points": 23,
+    "comment_count": 1,
     "hn_item": {
       "by": "doener",
-      "descendants": 24,
+      "descendants": 25,
       "id": 30125730,
       "kids": [
         30137540,
@@ -2962,11 +2971,11 @@
       "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
     },
     "og_item": {
-      "title": "Everything we see is a mash-up of the brain's last 15 seconds of visual information",
+      "title": "Explainer: Scientists on alert over rising cases caused by Omicron cousin BA.2",
       "type": "article",
       "image": [
         {
-          "url": "https://images.theconversation.com/files/442574/original/file-20220125-15-123wgyh.jpg?ixlib=rb-1.1.0\u0026rect=0%2C808%2C2590%2C1295\u0026q=45\u0026auto=format\u0026w=1356\u0026h=668\u0026fit=crop",
+          "url": "https://www.reuters.com/resizer/nJB_ZidKD76ip6VAQlGhKHf1JI8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PYPUULVDLFI5ZBML3UV35CE4TA.jpg",
           "secure_url": "",
           "type": "",
           "width": 0,
@@ -2974,16 +2983,151 @@
           "alt": ""
         }
       ],
-      "url": "http://theconversation.com/everything-we-see-is-a-mash-up-of-the-brains-last-15-seconds-of-visual-information-175577",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/",
       "audio": [],
-      "description": "The brain is basically a time machine that ensures what we see is stable and continuous",
+      "description": "The highly transmissible Omicron variant of the SARS-CoV-2 virus - the most common form of which is known as BA.1 - now accounts for nearly all of the coronavirus infections globally, although dramatic surges in COVID cases have already peaked in some countries.",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "The Conversation",
+      "site_name": "Reuters",
       "video": [],
       "favicon": {
-        "url": "https://cdn.theconversation.com/static/tc/@theconversation/ui/dist/esm/logos/favicon-ae7bd7a3096e6cda828b4576fa9b32c6.ico"
+        "url": "/pf/resources/icons/favicon.ico?d=69"
+      }
+    }
+  },
+  {
+    "id": 30144083,
+    "title": "Rents are up 40 percent in some cities, forcing millions to move",
+    "url": "https://www.washingtonpost.com/business/2022/01/30/rent-inflation-housing/",
+    "time": 1643599234,
+    "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QJQ7K2D774I6ZDGIW2LFMS5HSY.jpg\u0026w=1440",
+    "icon": "https://www.washingtonpost.com/wp-stat/assets/favicons/touch-icon-iphone.png",
+    "publisher": "Washington Post",
+    "description": "Rising rents are also expected to be a driving force in inflation this year and have been an ongoing policy challenge for the Biden administration.",
+    "by": "MilnerRoute",
+    "points": 6,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "doener",
+      "descendants": 25,
+      "id": 30125730,
+      "kids": [
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
+      ],
+      "score": 50,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
+      "type": "story",
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+    },
+    "og_item": {
+      "title": "Rents are up 40 percent in some cities, forcing millions to find another place to live",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QJQ7K2D774I6ZDGIW2LFMS5HSY.jpg\u0026w=1440",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://www.washingtonpost.com/business/2022/01/30/rent-inflation-housing/",
+      "audio": [],
+      "description": "Rising rents are also expected to be a driving force in inflation this year and have been an ongoing policy challenge for the Biden administration.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Washington Post",
+      "video": [],
+      "favicon": {
+        "url": "https://www.washingtonpost.com/wp-stat/assets/favicons/touch-icon-iphone.png"
+      }
+    }
+  },
+  {
+    "id": 30125931,
+    "title": "Fluid Simulation – Siggraph 2007 Course Notes [pdf]",
+    "url": "https://www.cs.ubc.ca/~rbridson/fluidsimulation/fluids_notes.pdf",
+    "time": 1643461256,
+    "image": "",
+    "icon": "",
+    "publisher": "cs.ubc.ca",
+    "description": "",
+    "by": "creata",
+    "points": 34,
+    "comment_count": 4,
+    "hn_item": {
+      "by": "doener",
+      "descendants": 25,
+      "id": 30125730,
+      "kids": [
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
+      ],
+      "score": 50,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
+      "type": "story",
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+    },
+    "og_item": null
+  },
+  {
+    "id": 30141215,
+    "title": "Show HN: BeanHub – A GitHub for Beancount",
+    "url": "https://beanhub.io/",
+    "time": 1643577545,
+    "image": "",
+    "icon": "https://beanhub.io/favicon.ico",
+    "publisher": "beanhub.io",
+    "description": "",
+    "by": "fangpenlin",
+    "points": 16,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "doener",
+      "descendants": 25,
+      "id": 30125730,
+      "kids": [
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
+      ],
+      "score": 50,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
+      "type": "story",
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+    },
+    "og_item": {
+      "title": "\n    BeanHub\n    ",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
       }
     }
   },
@@ -3001,7 +3145,7 @@
     "comment_count": 2,
     "hn_item": {
       "by": "doener",
-      "descendants": 24,
+      "descendants": 25,
       "id": 30125730,
       "kids": [
         30137540,
@@ -3044,6 +3188,53 @@
     }
   },
   {
+    "id": 30122435,
+    "title": "DDS: Build and library management tool for C, C++",
+    "url": "https://vector-of-bool.github.io/docs/dds/index.html",
+    "time": 1643416395,
+    "image": "",
+    "icon": "https://vector-of-bool.github.io/favicon.ico",
+    "publisher": "vector-of-bool.github.io",
+    "description": "",
+    "by": "oumua_don17",
+    "points": 23,
+    "comment_count": 2,
+    "hn_item": {
+      "by": "doener",
+      "descendants": 25,
+      "id": 30125730,
+      "kids": [
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
+      ],
+      "score": 50,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
+      "type": "story",
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+    },
+    "og_item": {
+      "title": "DDS — dds 0.1.0-alpha.3 documentation",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30142410,
     "title": "The Wikimedia Foundation's acceptance of cryptocurrency donations",
     "url": "https://blog.mollywhite.net/wikimedia-foundation-cryptocurrency-donations/",
@@ -3057,7 +3248,7 @@
     "comment_count": 1,
     "hn_item": {
       "by": "doener",
-      "descendants": 24,
+      "descendants": 25,
       "id": 30125730,
       "kids": [
         30137540,
@@ -3100,132 +3291,6 @@
     }
   },
   {
-    "id": 30141215,
-    "title": "Show HN: BeanHub – A GitHub for Beancount",
-    "url": "https://beanhub.io/",
-    "time": 1643577545,
-    "image": "",
-    "icon": "https://beanhub.io/favicon.ico",
-    "publisher": "beanhub.io",
-    "description": "",
-    "by": "fangpenlin",
-    "points": 16,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "doener",
-      "descendants": 24,
-      "id": 30125730,
-      "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
-      ],
-      "score": 50,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
-      "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
-    },
-    "og_item": {
-      "title": "\n    BeanHub\n    ",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30125931,
-    "title": "Fluid Simulation – Siggraph 2007 Course Notes [pdf]",
-    "url": "https://www.cs.ubc.ca/~rbridson/fluidsimulation/fluids_notes.pdf",
-    "time": 1643461256,
-    "image": "",
-    "icon": "",
-    "publisher": "cs.ubc.ca",
-    "description": "",
-    "by": "creata",
-    "points": 34,
-    "comment_count": 4,
-    "hn_item": {
-      "by": "doener",
-      "descendants": 24,
-      "id": 30125730,
-      "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
-      ],
-      "score": 50,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
-      "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
-    },
-    "og_item": null
-  },
-  {
-    "id": 30122435,
-    "title": "DDS: Build and library management tool for C, C++",
-    "url": "https://vector-of-bool.github.io/docs/dds/index.html",
-    "time": 1643416395,
-    "image": "",
-    "icon": "https://vector-of-bool.github.io/favicon.ico",
-    "publisher": "vector-of-bool.github.io",
-    "description": "",
-    "by": "oumua_don17",
-    "points": 23,
-    "comment_count": 2,
-    "hn_item": {
-      "by": "doener",
-      "descendants": 24,
-      "id": 30125730,
-      "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
-      ],
-      "score": 50,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
-      "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
-    },
-    "og_item": {
-      "title": "DDS — dds 0.1.0-alpha.3 documentation",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30139142,
     "title": "SBCL: New in Version 2.2.1",
     "url": "http://www.sbcl.org/all-news.html?2.2.1#2.2.1",
@@ -3239,7 +3304,7 @@
     "comment_count": 5,
     "hn_item": {
       "by": "doener",
-      "descendants": 24,
+      "descendants": 25,
       "id": 30125730,
       "kids": [
         30137540,
@@ -3286,7 +3351,7 @@
     "comment_count": 0,
     "hn_item": {
       "by": "doener",
-      "descendants": 24,
+      "descendants": 25,
       "id": 30125730,
       "kids": [
         30137540,
@@ -3342,7 +3407,7 @@
     "comment_count": 2,
     "hn_item": {
       "by": "doener",
-      "descendants": 24,
+      "descendants": 25,
       "id": 30125730,
       "kids": [
         30137540,
@@ -3398,7 +3463,7 @@
     "comment_count": 10,
     "hn_item": {
       "by": "doener",
-      "descendants": 24,
+      "descendants": 25,
       "id": 30125730,
       "kids": [
         30137540,
@@ -3450,11 +3515,11 @@
     "publisher": "jeremymikkola.com",
     "description": "",
     "by": "piinbinary",
-    "points": 127,
+    "points": 128,
     "comment_count": 12,
     "hn_item": {
       "by": "doener",
-      "descendants": 24,
+      "descendants": 25,
       "id": 30125730,
       "kids": [
         30137540,
@@ -3501,7 +3566,7 @@
     "comment_count": 2,
     "hn_item": {
       "by": "doener",
-      "descendants": 24,
+      "descendants": 25,
       "id": 30125730,
       "kids": [
         30137540,
@@ -3535,62 +3600,6 @@
     }
   },
   {
-    "id": 30144083,
-    "title": "Rents are up 40 percent in some cities, forcing millions to move",
-    "url": "https://www.washingtonpost.com/business/2022/01/30/rent-inflation-housing/",
-    "time": 1643599234,
-    "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QJQ7K2D774I6ZDGIW2LFMS5HSY.jpg\u0026w=1440",
-    "icon": "https://www.washingtonpost.com/wp-stat/assets/favicons/touch-icon-iphone.png",
-    "publisher": "Washington Post",
-    "description": "Rising rents are also expected to be a driving force in inflation this year and have been an ongoing policy challenge for the Biden administration.",
-    "by": "MilnerRoute",
-    "points": 5,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "doener",
-      "descendants": 24,
-      "id": 30125730,
-      "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
-      ],
-      "score": 50,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
-      "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
-    },
-    "og_item": {
-      "title": "Rents are up 40 percent in some cities, forcing millions to find another place to live",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QJQ7K2D774I6ZDGIW2LFMS5HSY.jpg\u0026w=1440",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://www.washingtonpost.com/business/2022/01/30/rent-inflation-housing/",
-      "audio": [],
-      "description": "Rising rents are also expected to be a driving force in inflation this year and have been an ongoing policy challenge for the Biden administration.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Washington Post",
-      "video": [],
-      "favicon": {
-        "url": "https://www.washingtonpost.com/wp-stat/assets/favicons/touch-icon-iphone.png"
-      }
-    }
-  },
-  {
     "id": 30125730,
     "title": "How Amiga 500 RAM Probably Works",
     "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs",
@@ -3604,7 +3613,7 @@
     "comment_count": 6,
     "hn_item": {
       "by": "doener",
-      "descendants": 24,
+      "descendants": 25,
       "id": 30125730,
       "kids": [
         30137540,
