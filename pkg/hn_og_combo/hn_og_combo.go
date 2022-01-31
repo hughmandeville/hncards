@@ -68,7 +68,7 @@ func GetTopStories(numStories int, verbose bool) (items []Item, err error) {
 	}
 
 	// Get Open Graph data.
-	for _, hi := range hnItems {
+	for i, hi := range hnItems {
 		item := Item{
 			ID:           hi.ID,
 			URL:          hi.URL,
@@ -77,7 +77,7 @@ func GetTopStories(numStories int, verbose bool) (items []Item, err error) {
 			By:           hi.By,
 			Points:       hi.Score,
 			CommentCount: hi.Descendants,
-			HNItem:       &hi,
+			HNItem:       &hnItems[i],
 		}
 		time.Sleep(100 * time.Millisecond)
 
