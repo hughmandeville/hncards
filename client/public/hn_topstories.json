@@ -1,53 +1,5 @@
 [
   {
-    "id": 30144652,
-    "title": "Zero-copy network transmission with io_uring",
-    "url": "https://lwn.net/Articles/879724/",
-    "time": 1643605041,
-    "image": "",
-    "icon": "https://static.lwn.net/images/favicon.png",
-    "publisher": "lwn.net",
-    "description": "",
-    "by": "pabs3",
-    "points": 68,
-    "comment_count": 3,
-    "hn_item": {
-      "by": "camnora",
-      "descendants": 23,
-      "id": 30138468,
-      "kids": [
-        30140217,
-        30139229,
-        30138770,
-        30139945,
-        30139640,
-        30139547,
-        30140997
-      ],
-      "score": 102,
-      "time": 1643559712,
-      "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
-      "type": "story",
-      "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
-    },
-    "og_item": {
-      "title": "Zero-copy network transmission with io_uring [LWN.net]",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "https://static.lwn.net/images/favicon.png"
-      }
-    }
-  },
-  {
     "id": 30141460,
     "title": "Royal Society cautions against censorship of scientific misinformation online",
     "url": "https://royalsociety.org/news/2022/01/scientific-misinformation-report/",
@@ -57,26 +9,23 @@
     "publisher": "royalsociety.org",
     "description": "The Online Information Environment report discusses how to limit the harm of scientific misinformation online",
     "by": "steelstraw",
-    "points": 636,
-    "comment_count": 42,
+    "points": 656,
+    "comment_count": 43,
     "hn_item": {
-      "by": "camnora",
-      "descendants": 23,
-      "id": 30138468,
+      "by": "rmason",
+      "descendants": 4,
+      "id": 30141784,
       "kids": [
-        30140217,
-        30139229,
-        30138770,
-        30139945,
-        30139640,
-        30139547,
-        30140997
+        30143952,
+        30145080,
+        30144425,
+        30144133
       ],
-      "score": 102,
-      "time": 1643559712,
-      "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
+      "score": 15,
+      "time": 1643581215,
+      "title": "I crowdfunded a novel using cryptocurrency",
       "type": "story",
-      "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
+      "url": "https://ellegriffin.substack.com/p/crypto-funded-nft-novel"
     },
     "og_item": {
       "title": "Royal Society cautions against censorship of scientific misinformation online | Royal Society",
@@ -105,6 +54,51 @@
     }
   },
   {
+    "id": 30144652,
+    "title": "Zero-copy network transmission with io_uring",
+    "url": "https://lwn.net/Articles/879724/",
+    "time": 1643605041,
+    "image": "",
+    "icon": "https://static.lwn.net/images/favicon.png",
+    "publisher": "lwn.net",
+    "description": "",
+    "by": "pabs3",
+    "points": 70,
+    "comment_count": 4,
+    "hn_item": {
+      "by": "rmason",
+      "descendants": 4,
+      "id": 30141784,
+      "kids": [
+        30143952,
+        30145080,
+        30144425,
+        30144133
+      ],
+      "score": 15,
+      "time": 1643581215,
+      "title": "I crowdfunded a novel using cryptocurrency",
+      "type": "story",
+      "url": "https://ellegriffin.substack.com/p/crypto-funded-nft-novel"
+    },
+    "og_item": {
+      "title": "Zero-copy network transmission with io_uring [LWN.net]",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "https://static.lwn.net/images/favicon.png"
+      }
+    }
+  },
+  {
     "id": 30144805,
     "title": "Examples of common false beliefs in mathematics",
     "url": "https://mathoverflow.net/questions/23478/examples-of-common-false-beliefs-in-mathematics",
@@ -114,26 +108,23 @@
     "publisher": "MathOverflow",
     "description": "The first thing to say is that this is not the same as the question about interesting mathematical mistakes. I am interested about the type of false beliefs that many intelligent people have while ...",
     "by": "gballan",
-    "points": 41,
-    "comment_count": 2,
+    "points": 47,
+    "comment_count": 4,
     "hn_item": {
-      "by": "camnora",
-      "descendants": 23,
-      "id": 30138468,
+      "by": "rmason",
+      "descendants": 4,
+      "id": 30141784,
       "kids": [
-        30140217,
-        30139229,
-        30138770,
-        30139945,
-        30139640,
-        30139547,
-        30140997
+        30143952,
+        30145080,
+        30144425,
+        30144133
       ],
-      "score": 102,
-      "time": 1643559712,
-      "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
+      "score": 15,
+      "time": 1643581215,
+      "title": "I crowdfunded a novel using cryptocurrency",
       "type": "story",
-      "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
+      "url": "https://ellegriffin.substack.com/p/crypto-funded-nft-novel"
     },
     "og_item": {
       "title": "Examples of common false beliefs in mathematics",
@@ -171,26 +162,23 @@
     "publisher": "theregister.com",
     "description": "",
     "by": "laktak",
-    "points": 54,
+    "points": 60,
     "comment_count": 6,
     "hn_item": {
-      "by": "camnora",
-      "descendants": 23,
-      "id": 30138468,
+      "by": "rmason",
+      "descendants": 4,
+      "id": 30141784,
       "kids": [
-        30140217,
-        30139229,
-        30138770,
-        30139945,
-        30139640,
-        30139547,
-        30140997
+        30143952,
+        30145080,
+        30144425,
+        30144133
       ],
-      "score": 102,
-      "time": 1643559712,
-      "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
+      "score": 15,
+      "time": 1643581215,
+      "title": "I crowdfunded a novel using cryptocurrency",
       "type": "story",
-      "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
+      "url": "https://ellegriffin.substack.com/p/crypto-funded-nft-novel"
     },
     "og_item": {
       "title": "",
@@ -219,26 +207,23 @@
     "publisher": "cacm.acm.org",
     "description": "AI is driving the next evolution of chess, giving players a glimpse into the game\u0026#39;s future.",
     "by": "joak",
-    "points": 74,
-    "comment_count": 8,
+    "points": 76,
+    "comment_count": 9,
     "hn_item": {
-      "by": "camnora",
-      "descendants": 23,
-      "id": 30138468,
+      "by": "rmason",
+      "descendants": 4,
+      "id": 30141784,
       "kids": [
-        30140217,
-        30139229,
-        30138770,
-        30139945,
-        30139640,
-        30139547,
-        30140997
+        30143952,
+        30145080,
+        30144425,
+        30144133
       ],
-      "score": 102,
-      "time": 1643559712,
-      "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
+      "score": 15,
+      "time": 1643581215,
+      "title": "I crowdfunded a novel using cryptocurrency",
       "type": "story",
-      "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
+      "url": "https://ellegriffin.substack.com/p/crypto-funded-nft-novel"
     },
     "og_item": {
       "title": "Reimagining Chess with AlphaZero",
@@ -276,26 +261,23 @@
     "publisher": "Medium",
     "description": "My journey on finding and reporting databases with sensitive data about Fortune-500 companies, Hospitals, Crypto platforms, Startups during…",
     "by": "boyter",
-    "points": 88,
+    "points": 95,
     "comment_count": 12,
     "hn_item": {
-      "by": "camnora",
-      "descendants": 23,
-      "id": 30138468,
+      "by": "rmason",
+      "descendants": 4,
+      "id": 30141784,
       "kids": [
-        30140217,
-        30139229,
-        30138770,
-        30139945,
-        30139640,
-        30139547,
-        30140997
+        30143952,
+        30145080,
+        30144425,
+        30144133
       ],
-      "score": 102,
-      "time": 1643559712,
-      "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
+      "score": 15,
+      "time": 1643581215,
+      "title": "I crowdfunded a novel using cryptocurrency",
       "type": "story",
-      "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
+      "url": "https://ellegriffin.substack.com/p/crypto-funded-nft-novel"
     },
     "og_item": {
       "title": "How I Discovered Thousands of Open Databases on AWS",
@@ -333,26 +315,23 @@
     "publisher": "zillow.com",
     "description": "",
     "by": "otras",
-    "points": 240,
-    "comment_count": 30,
+    "points": 244,
+    "comment_count": 31,
     "hn_item": {
-      "by": "camnora",
-      "descendants": 23,
-      "id": 30138468,
+      "by": "rmason",
+      "descendants": 4,
+      "id": 30141784,
       "kids": [
-        30140217,
-        30139229,
-        30138770,
-        30139945,
-        30139640,
-        30139547,
-        30140997
+        30143952,
+        30145080,
+        30144425,
+        30144133
       ],
-      "score": 102,
-      "time": 1643559712,
-      "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
+      "score": 15,
+      "time": 1643581215,
+      "title": "I crowdfunded a novel using cryptocurrency",
       "type": "story",
-      "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
+      "url": "https://ellegriffin.substack.com/p/crypto-funded-nft-novel"
     },
     "og_item": {
       "title": "",
@@ -381,26 +360,23 @@
     "publisher": "mattferraro.dev",
     "description": "What does it mean to invert a shape?",
     "by": "mferraro89",
-    "points": 45,
+    "points": 47,
     "comment_count": 7,
     "hn_item": {
-      "by": "camnora",
-      "descendants": 23,
-      "id": 30138468,
+      "by": "rmason",
+      "descendants": 4,
+      "id": 30141784,
       "kids": [
-        30140217,
-        30139229,
-        30138770,
-        30139945,
-        30139640,
-        30139547,
-        30140997
+        30143952,
+        30145080,
+        30144425,
+        30144133
       ],
-      "score": 102,
-      "time": 1643559712,
-      "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
+      "score": 15,
+      "time": 1643581215,
+      "title": "I crowdfunded a novel using cryptocurrency",
       "type": "story",
-      "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
+      "url": "https://ellegriffin.substack.com/p/crypto-funded-nft-novel"
     },
     "og_item": {
       "title": "What is the Inverse of a Circle?",
@@ -429,52 +405,34 @@
     }
   },
   {
-    "id": 30145482,
-    "title": "Why I won’t use Let’s Encrypt",
-    "url": "http://www.stargrave.org/WhyNotLE.html",
-    "time": 1643614420,
+    "id": 30145237,
+    "title": "Generate Static Sites from Markdown Files with Caddy",
+    "url": "https://blog.thomaspuppe.de/static-sites-from-markdown-with-caddy-server",
+    "time": 1643611196,
     "image": "",
     "icon": "",
-    "publisher": "stargrave.org",
-    "description": "Why I won’t use Let’s Encrypt (Sergey Matveev’s homepage)",
-    "by": "dll",
+    "publisher": "blog.thomaspuppe.de",
+    "description": "",
+    "by": "indigodaddy",
     "points": 6,
-    "comment_count": 1,
+    "comment_count": 0,
     "hn_item": {
-      "by": "camnora",
-      "descendants": 23,
-      "id": 30138468,
+      "by": "rmason",
+      "descendants": 4,
+      "id": 30141784,
       "kids": [
-        30140217,
-        30139229,
-        30138770,
-        30139945,
-        30139640,
-        30139547,
-        30140997
+        30143952,
+        30145080,
+        30144425,
+        30144133
       ],
-      "score": 102,
-      "time": 1643559712,
-      "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
+      "score": 15,
+      "time": 1643581215,
+      "title": "I crowdfunded a novel using cryptocurrency",
       "type": "story",
-      "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
+      "url": "https://ellegriffin.substack.com/p/crypto-funded-nft-novel"
     },
-    "og_item": {
-      "title": "Why I won’t use Let’s Encrypt (Sergey Matveev’s homepage)",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "Why I won’t use Let’s Encrypt (Sergey Matveev’s homepage)",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
+    "og_item": null
   },
   {
     "id": 30140835,
@@ -486,26 +444,23 @@
     "publisher": "Azimuth",
     "description": "In his book Ramanujan: Twelve Lectures on Subjects Suggested by His Life and Work, G. H. Hardy tells this famous story: He could remember the idiosyncracies of numbers in an almost uncanny way. It …",
     "by": "johncarlosbaez",
-    "points": 80,
+    "points": 83,
     "comment_count": 7,
     "hn_item": {
-      "by": "camnora",
-      "descendants": 23,
-      "id": 30138468,
+      "by": "rmason",
+      "descendants": 4,
+      "id": 30141784,
       "kids": [
-        30140217,
-        30139229,
-        30138770,
-        30139945,
-        30139640,
-        30139547,
-        30140997
+        30143952,
+        30145080,
+        30144425,
+        30144133
       ],
-      "score": 102,
-      "time": 1643559712,
-      "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
+      "score": 15,
+      "time": 1643581215,
+      "title": "I crowdfunded a novel using cryptocurrency",
       "type": "story",
-      "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
+      "url": "https://ellegriffin.substack.com/p/crypto-funded-nft-novel"
     },
     "og_item": {
       "title": "Hardy, Ramanujan and Taxi No. 1729",
@@ -543,26 +498,23 @@
     "publisher": "JSTOR Daily",
     "description": "The man who introduced mesmerism to the US was a slave-owner from Guadeloupe, where planters were experimenting with “magnetizing” their enslaved people.",
     "by": "onychomys",
-    "points": 29,
+    "points": 30,
     "comment_count": 3,
     "hn_item": {
-      "by": "camnora",
-      "descendants": 23,
-      "id": 30138468,
+      "by": "rmason",
+      "descendants": 4,
+      "id": 30141784,
       "kids": [
-        30140217,
-        30139229,
-        30138770,
-        30139945,
-        30139640,
-        30139547,
-        30140997
+        30143952,
+        30145080,
+        30144425,
+        30144133
       ],
-      "score": 102,
-      "time": 1643559712,
-      "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
+      "score": 15,
+      "time": 1643581215,
+      "title": "I crowdfunded a novel using cryptocurrency",
       "type": "story",
-      "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
+      "url": "https://ellegriffin.substack.com/p/crypto-funded-nft-novel"
     },
     "og_item": {
       "title": "Mesmerizing Labor - JSTOR Daily",
@@ -591,102 +543,6 @@
     }
   },
   {
-    "id": 30141278,
-    "title": "The Story of Maxis Software (1999)",
-    "url": "https://web.archive.org/web/19991012021220/http://gamespot.com/features/maxis/index.html",
-    "time": 1643577913,
-    "image": "",
-    "icon": "https://web.archive.org/favicon.ico",
-    "publisher": "web.archive.org",
-    "description": "",
-    "by": "ecliptik",
-    "points": 102,
-    "comment_count": 9,
-    "hn_item": {
-      "by": "camnora",
-      "descendants": 23,
-      "id": 30138468,
-      "kids": [
-        30140217,
-        30139229,
-        30138770,
-        30139945,
-        30139640,
-        30139547,
-        30140997
-      ],
-      "score": 102,
-      "time": 1643559712,
-      "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
-      "type": "story",
-      "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
-    },
-    "og_item": {
-      "title": "GameSpot's SIMply Divine: The Story of Maxis Software",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30134367,
-    "title": "The case of the mysterious --help directory (2020)",
-    "url": "https://leahneukirchen.org/blog/archive/2020/05/the-case-of-the-mysterious-help-directory.html",
-    "time": 1643520785,
-    "image": "",
-    "icon": "https://leahneukirchen.org/favicon.ico",
-    "publisher": "leahneukirchen.org",
-    "description": "",
-    "by": "panic",
-    "points": 141,
-    "comment_count": 11,
-    "hn_item": {
-      "by": "camnora",
-      "descendants": 23,
-      "id": 30138468,
-      "kids": [
-        30140217,
-        30139229,
-        30138770,
-        30139945,
-        30139640,
-        30139547,
-        30140997
-      ],
-      "score": 102,
-      "time": 1643559712,
-      "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
-      "type": "story",
-      "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
-    },
-    "og_item": {
-      "title": "leah blogs: The case of the mysterious --help directory",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30143587,
     "title": "Ylang: Universal Language for eBPF, Stap+, GDB, and More (2021)",
     "url": "https://blog.openresty.com/en/ylang-intro-part4/",
@@ -696,26 +552,23 @@
     "publisher": "blog.openresty.com",
     "description": "Transparent Container Tracing Efficient Stack Unwinding Analyzing Dead Processes (Core Dumps) Very Low Tracing Overhead Standard Ylang Libraries \u0026amp; Tools Network Filtering \u0026amp; Control The Ylang Compiler\u0026rsquo;s Implementation Operating System Support Contributions to Open-Source Communities",
     "by": "walterbell",
-    "points": 34,
+    "points": 37,
     "comment_count": 4,
     "hn_item": {
-      "by": "camnora",
-      "descendants": 23,
-      "id": 30138468,
+      "by": "rmason",
+      "descendants": 4,
+      "id": 30141784,
       "kids": [
-        30140217,
-        30139229,
-        30138770,
-        30139945,
-        30139640,
-        30139547,
-        30140997
+        30143952,
+        30145080,
+        30144425,
+        30144133
       ],
-      "score": 102,
-      "time": 1643559712,
-      "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
+      "score": 15,
+      "time": 1643581215,
+      "title": "I crowdfunded a novel using cryptocurrency",
       "type": "story",
-      "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
+      "url": "https://ellegriffin.substack.com/p/crypto-funded-nft-novel"
     },
     "og_item": {
       "title": "Ylang: Universal Language for eBPF, Stap+, GDB, and More (Part 4) - OpenResty Official Blog",
@@ -744,26 +597,23 @@
     "publisher": "ByteofDev",
     "description": "Static Site Generators have been changing quickly with new trends like Jamstack. Learn more about the background of static site generators, why people use them, and the current state of them, with information on modern SSGs like Eleventy, Next.js, SvelteKit, and Astro.",
     "by": "AsyncBanana",
-    "points": 88,
+    "points": 93,
     "comment_count": 14,
     "hn_item": {
-      "by": "camnora",
-      "descendants": 23,
-      "id": 30138468,
+      "by": "rmason",
+      "descendants": 4,
+      "id": 30141784,
       "kids": [
-        30140217,
-        30139229,
-        30138770,
-        30139945,
-        30139640,
-        30139547,
-        30140997
+        30143952,
+        30145080,
+        30144425,
+        30144133
       ],
-      "score": 102,
-      "time": 1643559712,
-      "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
+      "score": 15,
+      "time": 1643581215,
+      "title": "I crowdfunded a novel using cryptocurrency",
       "type": "story",
-      "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
+      "url": "https://ellegriffin.substack.com/p/crypto-funded-nft-novel"
     },
     "og_item": {
       "title": "State of the Web: Static Site Generators",
@@ -792,6 +642,96 @@
     }
   },
   {
+    "id": 30141278,
+    "title": "The Story of Maxis Software (1999)",
+    "url": "https://web.archive.org/web/19991012021220/http://gamespot.com/features/maxis/index.html",
+    "time": 1643577913,
+    "image": "",
+    "icon": "https://web.archive.org/favicon.ico",
+    "publisher": "web.archive.org",
+    "description": "",
+    "by": "ecliptik",
+    "points": 102,
+    "comment_count": 9,
+    "hn_item": {
+      "by": "rmason",
+      "descendants": 4,
+      "id": 30141784,
+      "kids": [
+        30143952,
+        30145080,
+        30144425,
+        30144133
+      ],
+      "score": 15,
+      "time": 1643581215,
+      "title": "I crowdfunded a novel using cryptocurrency",
+      "type": "story",
+      "url": "https://ellegriffin.substack.com/p/crypto-funded-nft-novel"
+    },
+    "og_item": {
+      "title": "GameSpot's SIMply Divine: The Story of Maxis Software",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30134367,
+    "title": "The case of the mysterious --help directory (2020)",
+    "url": "https://leahneukirchen.org/blog/archive/2020/05/the-case-of-the-mysterious-help-directory.html",
+    "time": 1643520785,
+    "image": "",
+    "icon": "https://leahneukirchen.org/favicon.ico",
+    "publisher": "leahneukirchen.org",
+    "description": "",
+    "by": "panic",
+    "points": 142,
+    "comment_count": 11,
+    "hn_item": {
+      "by": "rmason",
+      "descendants": 4,
+      "id": 30141784,
+      "kids": [
+        30143952,
+        30145080,
+        30144425,
+        30144133
+      ],
+      "score": 15,
+      "time": 1643581215,
+      "title": "I crowdfunded a novel using cryptocurrency",
+      "type": "story",
+      "url": "https://ellegriffin.substack.com/p/crypto-funded-nft-novel"
+    },
+    "og_item": {
+      "title": "leah blogs: The case of the mysterious --help directory",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30143375,
     "title": "Lizard scale patterns described with antiferromagnetic model",
     "url": "https://physics.aps.org/articles/v15/s12",
@@ -801,26 +741,23 @@
     "publisher": "Physics",
     "description": "The pattern of green and black scales on an ocellated lizard can be described with the two-parameter Ising model for antiferromagnetic systems.",
     "by": "shusaku",
-    "points": 38,
+    "points": 39,
     "comment_count": 3,
     "hn_item": {
-      "by": "camnora",
-      "descendants": 23,
-      "id": 30138468,
+      "by": "rmason",
+      "descendants": 4,
+      "id": 30141784,
       "kids": [
-        30140217,
-        30139229,
-        30138770,
-        30139945,
-        30139640,
-        30139547,
-        30140997
+        30143952,
+        30145080,
+        30144425,
+        30144133
       ],
-      "score": 102,
-      "time": 1643559712,
-      "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
+      "score": 15,
+      "time": 1643581215,
+      "title": "I crowdfunded a novel using cryptocurrency",
       "type": "story",
-      "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
+      "url": "https://ellegriffin.substack.com/p/crypto-funded-nft-novel"
     },
     "og_item": {
       "title": "Lizard Scale Patterns Described with Antiferromagnetic Model",
@@ -858,26 +795,23 @@
     "publisher": "luttig.substack.com",
     "description": "Understanding the behemoth in Redmond teaches us valuable lessons in cloud infrastructure, startup strategy, and the future of software.",
     "by": "SamvitJ",
-    "points": 272,
-    "comment_count": 49,
+    "points": 281,
+    "comment_count": 50,
     "hn_item": {
-      "by": "camnora",
-      "descendants": 23,
-      "id": 30138468,
+      "by": "rmason",
+      "descendants": 4,
+      "id": 30141784,
       "kids": [
-        30140217,
-        30139229,
-        30138770,
-        30139945,
-        30139640,
-        30139547,
-        30140997
+        30143952,
+        30145080,
+        30144425,
+        30144133
       ],
-      "score": 102,
-      "time": 1643559712,
-      "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
+      "score": 15,
+      "time": 1643581215,
+      "title": "I crowdfunded a novel using cryptocurrency",
       "type": "story",
-      "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
+      "url": "https://ellegriffin.substack.com/p/crypto-funded-nft-novel"
     },
     "og_item": {
       "title": "Don’t forget Microsoft",
@@ -906,6 +840,60 @@
     }
   },
   {
+    "id": 30114617,
+    "title": "A virus helped a woman survive a dangerous antibiotic-resistant infection",
+    "url": "https://english.elpais.com/usa/2022-01-27/how-a-virus-helped-a-woman-survive-a-dangerous-antibiotic-resistant-infection.html",
+    "time": 1643378345,
+    "image": "https://images.english.elpais.com/resizer/czXOhbDHxjEWcWupelF9MiVe4Bc=/1200x0/filters:focal(2692x535:2702x545)/cloudfront-eu-central-1.images.arcpublishing.com/prisa/OH6CKGUWGRHVNFWB4JYFEU2XFQ.jpg",
+    "icon": "https://static.elpais.com/dist/resources/images/favicon.ico",
+    "publisher": "EL PAÍS English Edition",
+    "description": "Doctors in Belgium explain how they saved a bomb attack victim who had been struggling with one of the most virulent bacterial pathogens in the world",
+    "by": "belter",
+    "points": 10,
+    "comment_count": 1,
+    "hn_item": {
+      "by": "rmason",
+      "descendants": 4,
+      "id": 30141784,
+      "kids": [
+        30143952,
+        30145080,
+        30144425,
+        30144133
+      ],
+      "score": 15,
+      "time": 1643581215,
+      "title": "I crowdfunded a novel using cryptocurrency",
+      "type": "story",
+      "url": "https://ellegriffin.substack.com/p/crypto-funded-nft-novel"
+    },
+    "og_item": {
+      "title": "How a virus helped a woman survive a dangerous antibiotic-resistant infection",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://images.english.elpais.com/resizer/czXOhbDHxjEWcWupelF9MiVe4Bc=/1200x0/filters:focal(2692x535:2702x545)/cloudfront-eu-central-1.images.arcpublishing.com/prisa/OH6CKGUWGRHVNFWB4JYFEU2XFQ.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 1200,
+          "height": 847,
+          "alt": ""
+        }
+      ],
+      "url": "https://english.elpais.com/usa/2022-01-27/how-a-virus-helped-a-woman-survive-a-dangerous-antibiotic-resistant-infection.html",
+      "audio": [],
+      "description": "Doctors in Belgium explain how they saved a bomb attack victim who had been struggling with one of the most virulent bacterial pathogens in the world",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "EL PAÍS English Edition",
+      "video": [],
+      "favicon": {
+        "url": "https://static.elpais.com/dist/resources/images/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30141439,
     "title": "Operation Warp Speed: A new model for industrial policy",
     "url": "https://americanaffairsjournal.org/2021/05/inside-operation-warp-speed-a-new-model-for-industrial-policy/",
@@ -915,26 +903,23 @@
     "publisher": "American Affairs Journal",
     "description": "Operation Warp Speed1 (OWS) was launched on May 15, 2020. A partnership between the Departments of Health and Human Services (HHS) and Defense (DoD), other agencies, and the private sector, its goal was to “accelerate the testing, supply, development, and distribution of safe and effective vacc…",
     "by": "gok",
-    "points": 104,
-    "comment_count": 8,
+    "points": 108,
+    "comment_count": 9,
     "hn_item": {
-      "by": "camnora",
-      "descendants": 23,
-      "id": 30138468,
+      "by": "rmason",
+      "descendants": 4,
+      "id": 30141784,
       "kids": [
-        30140217,
-        30139229,
-        30138770,
-        30139945,
-        30139640,
-        30139547,
-        30140997
+        30143952,
+        30145080,
+        30144425,
+        30144133
       ],
-      "score": 102,
-      "time": 1643559712,
-      "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
+      "score": 15,
+      "time": 1643581215,
+      "title": "I crowdfunded a novel using cryptocurrency",
       "type": "story",
-      "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
+      "url": "https://ellegriffin.substack.com/p/crypto-funded-nft-novel"
     },
     "og_item": {
       "title": "Inside Operation Warp Speed: A New Model for Industrial Policy - American Affairs Journal",
@@ -963,87 +948,6 @@
     }
   },
   {
-    "id": 30128193,
-    "title": "On Immersion",
-    "url": "https://blog.laurel.world/on-immersion/",
-    "time": 1643477006,
-    "image": "",
-    "icon": "https://blog.laurel.world/favicon.ico",
-    "publisher": "blog.laurel.world",
-    "description": "",
-    "by": "artmare",
-    "points": 38,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "camnora",
-      "descendants": 23,
-      "id": 30138468,
-      "kids": [
-        30140217,
-        30139229,
-        30138770,
-        30139945,
-        30139640,
-        30139547,
-        30140997
-      ],
-      "score": 102,
-      "time": 1643559712,
-      "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
-      "type": "story",
-      "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
-    },
-    "og_item": {
-      "title": "A couple years ago, I created this list: immersive: walking taking a shower sleeping teaching falling in love cinema life or death experience I was curious about these amazing parts of life that feel so meaningful — like portals, where time and space take on a totally different, enchanted feeling. I remember writing this list… – blog.laurel.world",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30145237,
-    "title": "Generate Static Sites from Markdown Files with Caddy",
-    "url": "https://blog.thomaspuppe.de/static-sites-from-markdown-with-caddy-server",
-    "time": 1643611196,
-    "image": "",
-    "icon": "",
-    "publisher": "blog.thomaspuppe.de",
-    "description": "",
-    "by": "indigodaddy",
-    "points": 4,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "camnora",
-      "descendants": 23,
-      "id": 30138468,
-      "kids": [
-        30140217,
-        30139229,
-        30138770,
-        30139945,
-        30139640,
-        30139547,
-        30140997
-      ],
-      "score": 102,
-      "time": 1643559712,
-      "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
-      "type": "story",
-      "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
-    },
-    "og_item": null
-  },
-  {
     "id": 30137984,
     "title": "Show HN: Web page that parses and explains the label on a bike tire",
     "url": "https://fahrrad-tools.de/tire.html",
@@ -1053,26 +957,23 @@
     "publisher": "fahrrad-tools.de",
     "description": "Which tire fits my bike? Tires are always flat and now buy a tire with puncture protection? Find the right tire now!",
     "by": "moasda",
-    "points": 563,
+    "points": 564,
     "comment_count": 37,
     "hn_item": {
-      "by": "camnora",
-      "descendants": 23,
-      "id": 30138468,
+      "by": "rmason",
+      "descendants": 4,
+      "id": 30141784,
       "kids": [
-        30140217,
-        30139229,
-        30138770,
-        30139945,
-        30139640,
-        30139547,
-        30140997
+        30143952,
+        30145080,
+        30144425,
+        30144133
       ],
-      "score": 102,
-      "time": 1643559712,
-      "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
+      "score": 15,
+      "time": 1643581215,
+      "title": "I crowdfunded a novel using cryptocurrency",
       "type": "story",
-      "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
+      "url": "https://ellegriffin.substack.com/p/crypto-funded-nft-novel"
     },
     "og_item": {
       "title": "Bike Tire | Fahrrad-Tools.de",
@@ -1092,6 +993,51 @@
     }
   },
   {
+    "id": 30128193,
+    "title": "On Immersion",
+    "url": "https://blog.laurel.world/on-immersion/",
+    "time": 1643477006,
+    "image": "",
+    "icon": "https://blog.laurel.world/favicon.ico",
+    "publisher": "blog.laurel.world",
+    "description": "",
+    "by": "artmare",
+    "points": 38,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "rmason",
+      "descendants": 4,
+      "id": 30141784,
+      "kids": [
+        30143952,
+        30145080,
+        30144425,
+        30144133
+      ],
+      "score": 15,
+      "time": 1643581215,
+      "title": "I crowdfunded a novel using cryptocurrency",
+      "type": "story",
+      "url": "https://ellegriffin.substack.com/p/crypto-funded-nft-novel"
+    },
+    "og_item": {
+      "title": "A couple years ago, I created this list: immersive: walking taking a shower sleeping teaching falling in love cinema life or death experience I was curious about these amazing parts of life that feel so meaningful — like portals, where time and space take on a totally different, enchanted feeling. I remember writing this list… – blog.laurel.world",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30140984,
     "title": "A UX designer walks into a Tesla Bar",
     "url": "https://jenson.org/tesla/",
@@ -1101,26 +1047,23 @@
     "publisher": "jenson.org",
     "description": "",
     "by": "radley",
-    "points": 718,
+    "points": 719,
     "comment_count": 95,
     "hn_item": {
-      "by": "camnora",
-      "descendants": 23,
-      "id": 30138468,
+      "by": "rmason",
+      "descendants": 4,
+      "id": 30141784,
       "kids": [
-        30140217,
-        30139229,
-        30138770,
-        30139945,
-        30139640,
-        30139547,
-        30140997
+        30143952,
+        30145080,
+        30144425,
+        30144133
       ],
-      "score": 102,
-      "time": 1643559712,
-      "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
+      "score": 15,
+      "time": 1643581215,
+      "title": "I crowdfunded a novel using cryptocurrency",
       "type": "story",
-      "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
+      "url": "https://ellegriffin.substack.com/p/crypto-funded-nft-novel"
     },
     "og_item": {
       "title": "A UX designer walks into a Tesla Bar – Scott Jenson",
@@ -1149,26 +1092,23 @@
     "publisher": "ruoyusun.com",
     "description": "",
     "by": "insraq",
-    "points": 54,
+    "points": 55,
     "comment_count": 4,
     "hn_item": {
-      "by": "camnora",
-      "descendants": 23,
-      "id": 30138468,
+      "by": "rmason",
+      "descendants": 4,
+      "id": 30141784,
       "kids": [
-        30140217,
-        30139229,
-        30138770,
-        30139945,
-        30139640,
-        30139547,
-        30140997
+        30143952,
+        30145080,
+        30144425,
+        30144133
       ],
-      "score": 102,
-      "time": 1643559712,
-      "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
+      "score": 15,
+      "time": 1643581215,
+      "title": "I crowdfunded a novel using cryptocurrency",
       "type": "story",
-      "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
+      "url": "https://ellegriffin.substack.com/p/crypto-funded-nft-novel"
     },
     "og_item": {
       "title": "Game Performance Optimization - A Practical Example From Industry Idle",
@@ -1200,23 +1140,20 @@
     "points": 75,
     "comment_count": 4,
     "hn_item": {
-      "by": "camnora",
-      "descendants": 23,
-      "id": 30138468,
+      "by": "rmason",
+      "descendants": 4,
+      "id": 30141784,
       "kids": [
-        30140217,
-        30139229,
-        30138770,
-        30139945,
-        30139640,
-        30139547,
-        30140997
+        30143952,
+        30145080,
+        30144425,
+        30144133
       ],
-      "score": 102,
-      "time": 1643559712,
-      "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
+      "score": 15,
+      "time": 1643581215,
+      "title": "I crowdfunded a novel using cryptocurrency",
       "type": "story",
-      "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
+      "url": "https://ellegriffin.substack.com/p/crypto-funded-nft-novel"
     },
     "og_item": {
       "title": "A Billion Years of Time Are Mysteriously Missing. Scientists Think They Know Why.",
@@ -1254,26 +1191,23 @@
     "publisher": "telcomhistory.org",
     "description": "",
     "by": "basementcat",
-    "points": 52,
-    "comment_count": 8,
+    "points": 53,
+    "comment_count": 9,
     "hn_item": {
-      "by": "camnora",
-      "descendants": 23,
-      "id": 30138468,
+      "by": "rmason",
+      "descendants": 4,
+      "id": 30141784,
       "kids": [
-        30140217,
-        30139229,
-        30138770,
-        30139945,
-        30139640,
-        30139547,
-        30140997
+        30143952,
+        30145080,
+        30144425,
+        30144133
       ],
-      "score": 102,
-      "time": 1643559712,
-      "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
+      "score": 15,
+      "time": 1643581215,
+      "title": "I crowdfunded a novel using cryptocurrency",
       "type": "story",
-      "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
+      "url": "https://ellegriffin.substack.com/p/crypto-funded-nft-novel"
     },
     "og_item": {
       "title": "403 Forbidden",
@@ -1282,63 +1216,6 @@
       "url": "",
       "audio": [],
       "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30141022,
-    "title": "BuildZoom (better way to build custom homes) Is hiring a Principal Engineer",
-    "url": "https://jobs.lever.co/buildzoom",
-    "time": 1643576404,
-    "image": "https://lever-client-logos.s3.amazonaws.com/a3b2b6dd-16cf-45aa-a206-a4216631569d-1492712480375.png",
-    "icon": "https://jobs.lever.co/favicon.ico",
-    "publisher": "jobs.lever.co",
-    "description": "Job openings at BuildZoom",
-    "by": "the_economist",
-    "points": 1,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "camnora",
-      "descendants": 23,
-      "id": 30138468,
-      "kids": [
-        30140217,
-        30139229,
-        30138770,
-        30139945,
-        30139640,
-        30139547,
-        30140997
-      ],
-      "score": 102,
-      "time": 1643559712,
-      "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
-      "type": "story",
-      "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
-    },
-    "og_item": {
-      "title": "BuildZoom jobs",
-      "type": "",
-      "image": [
-        {
-          "url": "https://lever-client-logos.s3.amazonaws.com/a3b2b6dd-16cf-45aa-a206-a4216631569d-1492712480375.png",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 200,
-          "alt": ""
-        }
-      ],
-      "url": "https://jobs.lever.co/buildzoom",
-      "audio": [],
-      "description": "Job openings at BuildZoom",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
@@ -1362,23 +1239,20 @@
     "points": 102,
     "comment_count": 11,
     "hn_item": {
-      "by": "camnora",
-      "descendants": 23,
-      "id": 30138468,
+      "by": "rmason",
+      "descendants": 4,
+      "id": 30141784,
       "kids": [
-        30140217,
-        30139229,
-        30138770,
-        30139945,
-        30139640,
-        30139547,
-        30140997
+        30143952,
+        30145080,
+        30144425,
+        30144133
       ],
-      "score": 102,
-      "time": 1643559712,
-      "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
+      "score": 15,
+      "time": 1643581215,
+      "title": "I crowdfunded a novel using cryptocurrency",
       "type": "story",
-      "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
+      "url": "https://ellegriffin.substack.com/p/crypto-funded-nft-novel"
     },
     "og_item": {
       "title": "Message in a bottle from Scottish girl found in Norway after 25 years",
@@ -1407,6 +1281,60 @@
     }
   },
   {
+    "id": 30141022,
+    "title": "BuildZoom (better way to build custom homes) Is hiring a Principal Engineer",
+    "url": "https://jobs.lever.co/buildzoom",
+    "time": 1643576404,
+    "image": "https://lever-client-logos.s3.amazonaws.com/a3b2b6dd-16cf-45aa-a206-a4216631569d-1492712480375.png",
+    "icon": "https://jobs.lever.co/favicon.ico",
+    "publisher": "jobs.lever.co",
+    "description": "Job openings at BuildZoom",
+    "by": "the_economist",
+    "points": 1,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "rmason",
+      "descendants": 4,
+      "id": 30141784,
+      "kids": [
+        30143952,
+        30145080,
+        30144425,
+        30144133
+      ],
+      "score": 15,
+      "time": 1643581215,
+      "title": "I crowdfunded a novel using cryptocurrency",
+      "type": "story",
+      "url": "https://ellegriffin.substack.com/p/crypto-funded-nft-novel"
+    },
+    "og_item": {
+      "title": "BuildZoom jobs",
+      "type": "",
+      "image": [
+        {
+          "url": "https://lever-client-logos.s3.amazonaws.com/a3b2b6dd-16cf-45aa-a206-a4216631569d-1492712480375.png",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 200,
+          "alt": ""
+        }
+      ],
+      "url": "https://jobs.lever.co/buildzoom",
+      "audio": [],
+      "description": "Job openings at BuildZoom",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30140270,
     "title": "When the algorithm is your boss",
     "url": "https://tribunemag.co.uk/2022/01/amazon-algorithm-human-resource-management-tech-worker-surveillance",
@@ -1416,26 +1344,23 @@
     "publisher": "tribunemag.co.uk",
     "description": "At workplaces like Amazon, algorithms have become the worst kind of boss – one who watches you constantly, makes impossible demands and then sacks you without explanation.",
     "by": "jrepinc",
-    "points": 89,
+    "points": 90,
     "comment_count": 13,
     "hn_item": {
-      "by": "camnora",
-      "descendants": 23,
-      "id": 30138468,
+      "by": "rmason",
+      "descendants": 4,
+      "id": 30141784,
       "kids": [
-        30140217,
-        30139229,
-        30138770,
-        30139945,
-        30139640,
-        30139547,
-        30140997
+        30143952,
+        30145080,
+        30144425,
+        30144133
       ],
-      "score": 102,
-      "time": 1643559712,
-      "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
+      "score": 15,
+      "time": 1643581215,
+      "title": "I crowdfunded a novel using cryptocurrency",
       "type": "story",
-      "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
+      "url": "https://ellegriffin.substack.com/p/crypto-funded-nft-novel"
     },
     "og_item": {
       "title": "When the Algorithm Is Your Boss",
@@ -1464,111 +1389,6 @@
     }
   },
   {
-    "id": 30128048,
-    "title": "COM+ Revisited",
-    "url": "https://lowleveldesign.org/2022/01/17/com-revisited/",
-    "time": 1643476281,
-    "image": "https://lowleveldesign.files.wordpress.com/2022/01/probe-mem-layout.png?w=1200",
-    "icon": "https://lowleveldesign.files.wordpress.com/2019/01/cropped-site_logo-1.png?w=192",
-    "publisher": "lowleveldesign.org",
-    "description": "More than ten years ago (how time flies!), when I published the basic sample of a COM+ server and client, I thought that I wouldn’t be touching this subject again. But here we are, in 2022, a…",
-    "by": "lowleveldesign",
-    "points": 77,
-    "comment_count": 13,
-    "hn_item": {
-      "by": "camnora",
-      "descendants": 23,
-      "id": 30138468,
-      "kids": [
-        30140217,
-        30139229,
-        30138770,
-        30139945,
-        30139640,
-        30139547,
-        30140997
-      ],
-      "score": 102,
-      "time": 1643559712,
-      "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
-      "type": "story",
-      "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
-    },
-    "og_item": {
-      "title": "COM+ revisited",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://lowleveldesign.files.wordpress.com/2022/01/probe-mem-layout.png?w=1200",
-          "secure_url": "",
-          "type": "",
-          "width": 1200,
-          "height": 800,
-          "alt": ""
-        }
-      ],
-      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/",
-      "audio": [],
-      "description": "More than ten years ago (how time flies!), when I published the basic sample of a COM+ server and client, I thought that I wouldn’t be touching this subject again. But here we are, in 2022, a…",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "lowleveldesign.org",
-      "video": [],
-      "favicon": {
-        "url": "https://lowleveldesign.files.wordpress.com/2019/01/cropped-site_logo-1.png?w=192"
-      }
-    }
-  },
-  {
-    "id": 30141171,
-    "title": "Deep symbolic regression for recurrent sequences",
-    "url": "http://recur-env.eba-rm3fchmn.us-east-2.elasticbeanstalk.com/",
-    "time": 1643577344,
-    "image": "",
-    "icon": "",
-    "publisher": "recur-env.eba-rm3fchmn.us-eas…",
-    "description": "",
-    "by": "ShamelessC",
-    "points": 55,
-    "comment_count": 13,
-    "hn_item": {
-      "by": "camnora",
-      "descendants": 23,
-      "id": 30138468,
-      "kids": [
-        30140217,
-        30139229,
-        30138770,
-        30139945,
-        30139640,
-        30139547,
-        30140997
-      ],
-      "score": 102,
-      "time": 1643559712,
-      "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
-      "type": "story",
-      "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
-    },
-    "og_item": {
-      "title": "Streamlit",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "./favicon.png"
-      }
-    }
-  },
-  {
     "id": 30144101,
     "title": "Please Make a Dumb Car",
     "url": "https://techcrunch.com/2022/01/29/please-make-a-dumb-car/",
@@ -1578,26 +1398,23 @@
     "publisher": "TechCrunch",
     "description": "Today’s cars are dumb where they should be smart, and smart where they should be dumb. Enough already. Make a car that’s pretty much all dumb and watch it sell — because what automakers are giving people is so bad, they’ll pay more to have less of it. Cars now are like budget smar…",
     "by": "wrycoder",
-    "points": 59,
-    "comment_count": 13,
+    "points": 67,
+    "comment_count": 14,
     "hn_item": {
-      "by": "camnora",
-      "descendants": 23,
-      "id": 30138468,
+      "by": "rmason",
+      "descendants": 4,
+      "id": 30141784,
       "kids": [
-        30140217,
-        30139229,
-        30138770,
-        30139945,
-        30139640,
-        30139547,
-        30140997
+        30143952,
+        30145080,
+        30144425,
+        30144133
       ],
-      "score": 102,
-      "time": 1643559712,
-      "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
+      "score": 15,
+      "time": 1643581215,
+      "title": "I crowdfunded a novel using cryptocurrency",
       "type": "story",
-      "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
+      "url": "https://ellegriffin.substack.com/p/crypto-funded-nft-novel"
     },
     "og_item": {
       "title": "Please make a dumb car – TechCrunch",
@@ -1626,6 +1443,105 @@
     }
   },
   {
+    "id": 30141171,
+    "title": "Deep symbolic regression for recurrent sequences",
+    "url": "http://recur-env.eba-rm3fchmn.us-east-2.elasticbeanstalk.com/",
+    "time": 1643577344,
+    "image": "",
+    "icon": "",
+    "publisher": "recur-env.eba-rm3fchmn.us-eas…",
+    "description": "",
+    "by": "ShamelessC",
+    "points": 56,
+    "comment_count": 13,
+    "hn_item": {
+      "by": "rmason",
+      "descendants": 4,
+      "id": 30141784,
+      "kids": [
+        30143952,
+        30145080,
+        30144425,
+        30144133
+      ],
+      "score": 15,
+      "time": 1643581215,
+      "title": "I crowdfunded a novel using cryptocurrency",
+      "type": "story",
+      "url": "https://ellegriffin.substack.com/p/crypto-funded-nft-novel"
+    },
+    "og_item": {
+      "title": "Streamlit",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "./favicon.png"
+      }
+    }
+  },
+  {
+    "id": 30128048,
+    "title": "COM+ Revisited",
+    "url": "https://lowleveldesign.org/2022/01/17/com-revisited/",
+    "time": 1643476281,
+    "image": "https://lowleveldesign.files.wordpress.com/2022/01/probe-mem-layout.png?w=1200",
+    "icon": "https://lowleveldesign.files.wordpress.com/2019/01/cropped-site_logo-1.png?w=192",
+    "publisher": "lowleveldesign.org",
+    "description": "More than ten years ago (how time flies!), when I published the basic sample of a COM+ server and client, I thought that I wouldn’t be touching this subject again. But here we are, in 2022, a…",
+    "by": "lowleveldesign",
+    "points": 77,
+    "comment_count": 13,
+    "hn_item": {
+      "by": "rmason",
+      "descendants": 4,
+      "id": 30141784,
+      "kids": [
+        30143952,
+        30145080,
+        30144425,
+        30144133
+      ],
+      "score": 15,
+      "time": 1643581215,
+      "title": "I crowdfunded a novel using cryptocurrency",
+      "type": "story",
+      "url": "https://ellegriffin.substack.com/p/crypto-funded-nft-novel"
+    },
+    "og_item": {
+      "title": "COM+ revisited",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://lowleveldesign.files.wordpress.com/2022/01/probe-mem-layout.png?w=1200",
+          "secure_url": "",
+          "type": "",
+          "width": 1200,
+          "height": 800,
+          "alt": ""
+        }
+      ],
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/",
+      "audio": [],
+      "description": "More than ten years ago (how time flies!), when I published the basic sample of a COM+ server and client, I thought that I wouldn’t be touching this subject again. But here we are, in 2022, a…",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "lowleveldesign.org",
+      "video": [],
+      "favicon": {
+        "url": "https://lowleveldesign.files.wordpress.com/2019/01/cropped-site_logo-1.png?w=192"
+      }
+    }
+  },
+  {
     "id": 30137720,
     "title": "U.S. companies are hiring Latin America’s tech talent",
     "url": "https://restofworld.org/2022/latin-america-startup-developer-scarcity/",
@@ -1635,26 +1551,23 @@
     "publisher": "Rest of World",
     "description": "As a hedge against American talent poachers, some exasperated founders are recruiting developers who can’t speak English.",
     "by": "braco_alva",
-    "points": 191,
+    "points": 192,
     "comment_count": 41,
     "hn_item": {
-      "by": "camnora",
-      "descendants": 23,
-      "id": 30138468,
+      "by": "rmason",
+      "descendants": 4,
+      "id": 30141784,
       "kids": [
-        30140217,
-        30139229,
-        30138770,
-        30139945,
-        30139640,
-        30139547,
-        30140997
+        30143952,
+        30145080,
+        30144425,
+        30144133
       ],
-      "score": 102,
-      "time": 1643559712,
-      "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
+      "score": 15,
+      "time": 1643581215,
+      "title": "I crowdfunded a novel using cryptocurrency",
       "type": "story",
-      "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
+      "url": "https://ellegriffin.substack.com/p/crypto-funded-nft-novel"
     },
     "og_item": {
       "title": "“It’s a bloodbath”: U.S. companies are pillaging Latin America’s tech talent",
@@ -1695,23 +1608,20 @@
     "points": 119,
     "comment_count": 9,
     "hn_item": {
-      "by": "camnora",
-      "descendants": 23,
-      "id": 30138468,
+      "by": "rmason",
+      "descendants": 4,
+      "id": 30141784,
       "kids": [
-        30140217,
-        30139229,
-        30138770,
-        30139945,
-        30139640,
-        30139547,
-        30140997
+        30143952,
+        30145080,
+        30144425,
+        30144133
       ],
-      "score": 102,
-      "time": 1643559712,
-      "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
+      "score": 15,
+      "time": 1643581215,
+      "title": "I crowdfunded a novel using cryptocurrency",
       "type": "story",
-      "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
+      "url": "https://ellegriffin.substack.com/p/crypto-funded-nft-novel"
     },
     "og_item": {
       "title": "Devious SQL: Message Queuing Using Native PostgreSQL",
@@ -1740,63 +1650,6 @@
     }
   },
   {
-    "id": 30142918,
-    "title": "Unconscious R\u0026D (2021)",
-    "url": "https://subconscious.substack.com/p/unconscious-r-and-d",
-    "time": 1643589336,
-    "image": "https://cdn.substack.com/image/fetch/w_1200,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F80b4a51a-7687-453c-b94b-a0c33b1399c7_1668x1668.jpeg",
-    "icon": "https://cdn.substack.com/icons/substack/favicon-32x32.png",
-    "publisher": "subconscious.substack.com",
-    "description": "What if your notes could self-organize—from scratch notes, to draft, to finished creative work—through a stream-of-consciousness process—like dreaming? Years ago, I was part of a user study that aimed to understand how creators create. We interviewed authors, artists, students, influencers,…",
-    "by": "fagnerbrack",
-    "points": 22,
-    "comment_count": 3,
-    "hn_item": {
-      "by": "camnora",
-      "descendants": 23,
-      "id": 30138468,
-      "kids": [
-        30140217,
-        30139229,
-        30138770,
-        30139945,
-        30139640,
-        30139547,
-        30140997
-      ],
-      "score": 102,
-      "time": 1643559712,
-      "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
-      "type": "story",
-      "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
-    },
-    "og_item": {
-      "title": "Unconscious R\u0026D",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://cdn.substack.com/image/fetch/w_1200,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F80b4a51a-7687-453c-b94b-a0c33b1399c7_1668x1668.jpeg",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://subconscious.substack.com/p/unconscious-r-and-d",
-      "audio": [],
-      "description": "What if your notes could self-organize—from scratch notes, to draft, to finished creative work—through a stream-of-consciousness process—like dreaming? Years ago, I was part of a user study that aimed to understand how creators create. We interviewed authors, artists, students, influencers, and discovered a recurrent meta-pattern in the creative processes that emerged across disciplines and tools...",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "https://cdn.substack.com/icons/substack/favicon-32x32.png"
-      }
-    }
-  },
-  {
     "id": 30142247,
     "title": "Basic Cryptography – The Vigenere Cipher",
     "url": "https://eric.mann.blog/basic-cryptography-the-vigenere-cipher/",
@@ -1809,23 +1662,20 @@
     "points": 30,
     "comment_count": 6,
     "hn_item": {
-      "by": "camnora",
-      "descendants": 23,
-      "id": 30138468,
+      "by": "rmason",
+      "descendants": 4,
+      "id": 30141784,
       "kids": [
-        30140217,
-        30139229,
-        30138770,
-        30139945,
-        30139640,
-        30139547,
-        30140997
+        30143952,
+        30145080,
+        30144425,
+        30144133
       ],
-      "score": 102,
-      "time": 1643559712,
-      "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
+      "score": 15,
+      "time": 1643581215,
+      "title": "I crowdfunded a novel using cryptocurrency",
       "type": "story",
-      "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
+      "url": "https://ellegriffin.substack.com/p/crypto-funded-nft-novel"
     },
     "og_item": {
       "title": "Basic cryptography - the Vigenere cipher - Eric Mann's Blog",
@@ -1854,11 +1704,65 @@
     }
   },
   {
+    "id": 30142918,
+    "title": "Unconscious R\u0026D (2021)",
+    "url": "https://subconscious.substack.com/p/unconscious-r-and-d",
+    "time": 1643589336,
+    "image": "https://cdn.substack.com/image/fetch/w_1200,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F80b4a51a-7687-453c-b94b-a0c33b1399c7_1668x1668.jpeg",
+    "icon": "https://cdn.substack.com/icons/substack/favicon-32x32.png",
+    "publisher": "subconscious.substack.com",
+    "description": "What if your notes could self-organize—from scratch notes, to draft, to finished creative work—through a stream-of-consciousness process—like dreaming? Years ago, I was part of a user study that aimed to understand how creators create. We interviewed authors, artists, students, influencers,…",
+    "by": "fagnerbrack",
+    "points": 22,
+    "comment_count": 3,
+    "hn_item": {
+      "by": "rmason",
+      "descendants": 4,
+      "id": 30141784,
+      "kids": [
+        30143952,
+        30145080,
+        30144425,
+        30144133
+      ],
+      "score": 15,
+      "time": 1643581215,
+      "title": "I crowdfunded a novel using cryptocurrency",
+      "type": "story",
+      "url": "https://ellegriffin.substack.com/p/crypto-funded-nft-novel"
+    },
+    "og_item": {
+      "title": "Unconscious R\u0026D",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://cdn.substack.com/image/fetch/w_1200,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F80b4a51a-7687-453c-b94b-a0c33b1399c7_1668x1668.jpeg",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://subconscious.substack.com/p/unconscious-r-and-d",
+      "audio": [],
+      "description": "What if your notes could self-organize—from scratch notes, to draft, to finished creative work—through a stream-of-consciousness process—like dreaming? Years ago, I was part of a user study that aimed to understand how creators create. We interviewed authors, artists, students, influencers, and discovered a recurrent meta-pattern in the creative processes that emerged across disciplines and tools...",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "https://cdn.substack.com/icons/substack/favicon-32x32.png"
+      }
+    }
+  },
+  {
     "id": 30135190,
     "title": "FunctionStomping – A new shellcode injection technique",
     "url": "https://github.com/Idov31/FunctionStomping",
     "time": 1643533222,
-    "image": "https://opengraph.githubassets.com/fa5bb9f9a84593e371a43359067fdf97c0eab1d83e5bf3092701ec65d55204b1/Idov31/FunctionStomping",
+    "image": "https://opengraph.githubassets.com/5182dd161e12d9a7abd666720c356411c034b670c2644d98a6e8511a52e47daa/Idov31/FunctionStomping",
     "icon": "https://github.githubassets.com/favicons/favicon.svg",
     "publisher": "GitHub",
     "description": "A new shellcode injection technique. Given as C++ header or standalone Rust program. - GitHub - Idov31/FunctionStomping: A new shellcode injection technique. Given as C++ header or standalone Rust ...",
@@ -1866,30 +1770,27 @@
     "points": 33,
     "comment_count": 3,
     "hn_item": {
-      "by": "camnora",
-      "descendants": 23,
-      "id": 30138468,
+      "by": "rmason",
+      "descendants": 4,
+      "id": 30141784,
       "kids": [
-        30140217,
-        30139229,
-        30138770,
-        30139945,
-        30139640,
-        30139547,
-        30140997
+        30143952,
+        30145080,
+        30144425,
+        30144133
       ],
-      "score": 102,
-      "time": 1643559712,
-      "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
+      "score": 15,
+      "time": 1643581215,
+      "title": "I crowdfunded a novel using cryptocurrency",
       "type": "story",
-      "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
+      "url": "https://ellegriffin.substack.com/p/crypto-funded-nft-novel"
     },
     "og_item": {
       "title": "GitHub - Idov31/FunctionStomping: A new shellcode injection technique. Given as C++ header or standalone Rust program.",
       "type": "object",
       "image": [
         {
-          "url": "https://opengraph.githubassets.com/fa5bb9f9a84593e371a43359067fdf97c0eab1d83e5bf3092701ec65d55204b1/Idov31/FunctionStomping",
+          "url": "https://opengraph.githubassets.com/5182dd161e12d9a7abd666720c356411c034b670c2644d98a6e8511a52e47daa/Idov31/FunctionStomping",
           "secure_url": "",
           "type": "",
           "width": 1200,
@@ -1911,54 +1812,6 @@
     }
   },
   {
-    "id": 30138533,
-    "title": "Hypercard Simulator",
-    "url": "https://hypercardsimulator.com/",
-    "time": 1643560248,
-    "image": "",
-    "icon": "https://hypercardsimulator.com/favicon.ico",
-    "publisher": "hypercardsimulator.com",
-    "description": "",
-    "by": "alexmingoia",
-    "points": 216,
-    "comment_count": 14,
-    "hn_item": {
-      "by": "camnora",
-      "descendants": 23,
-      "id": 30138468,
-      "kids": [
-        30140217,
-        30139229,
-        30138770,
-        30139945,
-        30139640,
-        30139547,
-        30140997
-      ],
-      "score": 102,
-      "time": 1643559712,
-      "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
-      "type": "story",
-      "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
-    },
-    "og_item": {
-      "title": "HyperCardSimulator",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30120901,
     "title": "Using tree data structures to implement terminal split panes",
     "url": "https://blog.warp.dev/using-tree-data-structures-to-implement-terminal-split-panes-more-fun-than-it-sounds/",
@@ -1968,26 +1821,23 @@
     "publisher": "Warp - Blog",
     "description": "This is how we used tree data structures to build split panes in our terminal app.",
     "by": "lukastyrychtr",
-    "points": 51,
+    "points": 52,
     "comment_count": 7,
     "hn_item": {
-      "by": "camnora",
-      "descendants": 23,
-      "id": 30138468,
+      "by": "rmason",
+      "descendants": 4,
+      "id": 30141784,
       "kids": [
-        30140217,
-        30139229,
-        30138770,
-        30139945,
-        30139640,
-        30139547,
-        30140997
+        30143952,
+        30145080,
+        30144425,
+        30144133
       ],
-      "score": 102,
-      "time": 1643559712,
-      "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
+      "score": 15,
+      "time": 1643581215,
+      "title": "I crowdfunded a novel using cryptocurrency",
       "type": "story",
-      "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
+      "url": "https://ellegriffin.substack.com/p/crypto-funded-nft-novel"
     },
     "og_item": {
       "title": "Using tree data structures to implement terminal split panes - more fun than it sounds",
@@ -2016,42 +1866,84 @@
     }
   },
   {
-    "id": 30131847,
-    "title": "Mix and Match Mental Models",
-    "url": "https://lethain.com/mental-models-mix-match/",
-    "time": 1643499930,
-    "image": "https://lethain.com/static/author.png",
-    "icon": "https://lethain.com/favicon.ico",
-    "publisher": "lethain.com",
-    "description": "A few days ago, I got to have a delightful chat with Katie Wilde, digging into a question that we’ve both found difficult to answer: what distinguishes managers perceived to have good judgment from those perceived to have bad judgment? In exploring that question, the topic of mental models came…",
-    "by": "wavelander",
-    "points": 35,
-    "comment_count": 0,
+    "id": 30138533,
+    "title": "Hypercard Simulator",
+    "url": "https://hypercardsimulator.com/",
+    "time": 1643560248,
+    "image": "",
+    "icon": "https://hypercardsimulator.com/favicon.ico",
+    "publisher": "hypercardsimulator.com",
+    "description": "",
+    "by": "alexmingoia",
+    "points": 216,
+    "comment_count": 14,
     "hn_item": {
-      "by": "camnora",
-      "descendants": 23,
-      "id": 30138468,
+      "by": "rmason",
+      "descendants": 4,
+      "id": 30141784,
       "kids": [
-        30140217,
-        30139229,
-        30138770,
-        30139945,
-        30139640,
-        30139547,
-        30140997
+        30143952,
+        30145080,
+        30144425,
+        30144133
       ],
-      "score": 102,
-      "time": 1643559712,
-      "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
+      "score": 15,
+      "time": 1643581215,
+      "title": "I crowdfunded a novel using cryptocurrency",
       "type": "story",
-      "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
+      "url": "https://ellegriffin.substack.com/p/crypto-funded-nft-novel"
     },
     "og_item": {
-      "title": "Mix and match mental models.",
+      "title": "HyperCardSimulator",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30115520,
+    "title": "Pearls Before Breakfast (2007)",
+    "url": "https://www.washingtonpost.com/lifestyle/magazine/pearls-before-breakfast-can-one-of-the-nations-great-musicians-cut-through-the-fog-of-a-dc-rush-hour-lets-find-out/2014/09/23/8a6d46da-4331-11e4-b47c-f5889e061e5f_story.html",
+    "time": 1643382593,
+    "image": "https://www.washingtonpost.com/pbox.php?url=https://www.washingtonpost.com/pb/resources/img/twp-social-share.png\u0026w=1484\u0026op=resize\u0026opt=1\u0026filter=antialias\u0026t=20170517",
+    "icon": "https://www.washingtonpost.com/favicon.ico",
+    "publisher": "Washington Post",
+    "description": "Joshua Bell is one of the world’s greatest violinists. His instrument of choice is a multimillion-dollar Stradivarius. If he played it for spare change, incognito, outside a bustling Metro stop in Washington, would anyone notice?",
+    "by": "Tomte",
+    "points": 12,
+    "comment_count": 8,
+    "hn_item": {
+      "by": "rmason",
+      "descendants": 4,
+      "id": 30141784,
+      "kids": [
+        30143952,
+        30145080,
+        30144425,
+        30144133
+      ],
+      "score": 15,
+      "time": 1643581215,
+      "title": "I crowdfunded a novel using cryptocurrency",
+      "type": "story",
+      "url": "https://ellegriffin.substack.com/p/crypto-funded-nft-novel"
+    },
+    "og_item": {
+      "title": "Pearls Before Breakfast: Can one of the nation’s great musicians cut through the fog of a D.C. rush hour? Let’s find out.",
       "type": "article",
       "image": [
         {
-          "url": "https://lethain.com/static/author.png",
+          "url": "https://www.washingtonpost.com/pbox.php?url=https://www.washingtonpost.com/pb/resources/img/twp-social-share.png\u0026w=1484\u0026op=resize\u0026opt=1\u0026filter=antialias\u0026t=20170517",
           "secure_url": "",
           "type": "",
           "width": 0,
@@ -2059,13 +1951,13 @@
           "alt": ""
         }
       ],
-      "url": "https://lethain.com/mental-models-mix-match/",
+      "url": "https://www.washingtonpost.com/lifestyle/magazine/pearls-before-breakfast-can-one-of-the-nations-great-musicians-cut-through-the-fog-of-a-dc-rush-hour-lets-find-out/2014/09/23/8a6d46da-4331-11e4-b47c-f5889e061e5f_story.html",
       "audio": [],
-      "description": "A few days ago, I got to have a delightful chat with Katie Wilde, digging into a question that we’ve both found difficult to answer: what distinguishes managers perceived to have good judgment from those perceived to have bad judgment? In exploring that question, the topic of mental models came up frequently.",
+      "description": "Joshua Bell is one of the world’s greatest violinists. His instrument of choice is a multimillion-dollar Stradivarius. If he played it for spare change, incognito, outside a bustling Metro stop in Washington, would anyone notice?",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "",
+      "site_name": "Washington Post",
       "video": [],
       "favicon": {
         "url": "/favicon.ico"
@@ -2082,26 +1974,23 @@
     "publisher": "BuzzFeed News",
     "description": "I went on a vacation. I came home with a mysterious fungus in my brain that is so rare only about 120 cases have been confirmed worldwide since its discovery in 1911.",
     "by": "yellow_lead",
-    "points": 194,
+    "points": 195,
     "comment_count": 10,
     "hn_item": {
-      "by": "camnora",
-      "descendants": 23,
-      "id": 30138468,
+      "by": "rmason",
+      "descendants": 4,
+      "id": 30141784,
       "kids": [
-        30140217,
-        30139229,
-        30138770,
-        30139945,
-        30139640,
-        30139547,
-        30140997
+        30143952,
+        30145080,
+        30144425,
+        30144133
       ],
-      "score": 102,
-      "time": 1643559712,
-      "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
+      "score": 15,
+      "time": 1643581215,
+      "title": "I crowdfunded a novel using cryptocurrency",
       "type": "story",
-      "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
+      "url": "https://ellegriffin.substack.com/p/crypto-funded-nft-novel"
     },
     "og_item": {
       "title": "Toxic Black Mold Is Growing On My Brain",
@@ -2130,6 +2019,60 @@
     }
   },
   {
+    "id": 30131847,
+    "title": "Mix and Match Mental Models",
+    "url": "https://lethain.com/mental-models-mix-match/",
+    "time": 1643499930,
+    "image": "https://lethain.com/static/author.png",
+    "icon": "https://lethain.com/favicon.ico",
+    "publisher": "lethain.com",
+    "description": "A few days ago, I got to have a delightful chat with Katie Wilde, digging into a question that we’ve both found difficult to answer: what distinguishes managers perceived to have good judgment from those perceived to have bad judgment? In exploring that question, the topic of mental models came…",
+    "by": "wavelander",
+    "points": 35,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "rmason",
+      "descendants": 4,
+      "id": 30141784,
+      "kids": [
+        30143952,
+        30145080,
+        30144425,
+        30144133
+      ],
+      "score": 15,
+      "time": 1643581215,
+      "title": "I crowdfunded a novel using cryptocurrency",
+      "type": "story",
+      "url": "https://ellegriffin.substack.com/p/crypto-funded-nft-novel"
+    },
+    "og_item": {
+      "title": "Mix and match mental models.",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://lethain.com/static/author.png",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://lethain.com/mental-models-mix-match/",
+      "audio": [],
+      "description": "A few days ago, I got to have a delightful chat with Katie Wilde, digging into a question that we’ve both found difficult to answer: what distinguishes managers perceived to have good judgment from those perceived to have bad judgment? In exploring that question, the topic of mental models came up frequently.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30142106,
     "title": "Yoga and meditation do not quiet the ego but instead boost self-enhancement (2018)",
     "url": "https://journals.sagepub.com/doi/abs/10.1177/0956797618764621",
@@ -2142,23 +2085,20 @@
     "points": 23,
     "comment_count": 8,
     "hn_item": {
-      "by": "camnora",
-      "descendants": 23,
-      "id": 30138468,
+      "by": "rmason",
+      "descendants": 4,
+      "id": 30141784,
       "kids": [
-        30140217,
-        30139229,
-        30138770,
-        30139945,
-        30139640,
-        30139547,
-        30140997
+        30143952,
+        30145080,
+        30144425,
+        30144133
       ],
-      "score": 102,
-      "time": 1643559712,
-      "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
+      "score": 15,
+      "time": 1643581215,
+      "title": "I crowdfunded a novel using cryptocurrency",
       "type": "story",
-      "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
+      "url": "https://ellegriffin.substack.com/p/crypto-funded-nft-novel"
     },
     "og_item": {
       "title": "Just a moment...",
@@ -2190,23 +2130,20 @@
     "points": 4,
     "comment_count": 0,
     "hn_item": {
-      "by": "camnora",
-      "descendants": 23,
-      "id": 30138468,
+      "by": "rmason",
+      "descendants": 4,
+      "id": 30141784,
       "kids": [
-        30140217,
-        30139229,
-        30138770,
-        30139945,
-        30139640,
-        30139547,
-        30140997
+        30143952,
+        30145080,
+        30144425,
+        30144133
       ],
-      "score": 102,
-      "time": 1643559712,
-      "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
+      "score": 15,
+      "time": 1643581215,
+      "title": "I crowdfunded a novel using cryptocurrency",
       "type": "story",
-      "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
+      "url": "https://ellegriffin.substack.com/p/crypto-funded-nft-novel"
     },
     "og_item": {
       "title": "Will Tokens Replace Equity?",
@@ -2235,63 +2172,6 @@
     }
   },
   {
-    "id": 30115520,
-    "title": "Pearls Before Breakfast (2007)",
-    "url": "https://www.washingtonpost.com/lifestyle/magazine/pearls-before-breakfast-can-one-of-the-nations-great-musicians-cut-through-the-fog-of-a-dc-rush-hour-lets-find-out/2014/09/23/8a6d46da-4331-11e4-b47c-f5889e061e5f_story.html",
-    "time": 1643382593,
-    "image": "https://www.washingtonpost.com/pbox.php?url=https://www.washingtonpost.com/pb/resources/img/twp-social-share.png\u0026w=1484\u0026op=resize\u0026opt=1\u0026filter=antialias\u0026t=20170517",
-    "icon": "https://www.washingtonpost.com/favicon.ico",
-    "publisher": "Washington Post",
-    "description": "Joshua Bell is one of the world’s greatest violinists. His instrument of choice is a multimillion-dollar Stradivarius. If he played it for spare change, incognito, outside a bustling Metro stop in Washington, would anyone notice?",
-    "by": "Tomte",
-    "points": 11,
-    "comment_count": 8,
-    "hn_item": {
-      "by": "camnora",
-      "descendants": 23,
-      "id": 30138468,
-      "kids": [
-        30140217,
-        30139229,
-        30138770,
-        30139945,
-        30139640,
-        30139547,
-        30140997
-      ],
-      "score": 102,
-      "time": 1643559712,
-      "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
-      "type": "story",
-      "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
-    },
-    "og_item": {
-      "title": "Pearls Before Breakfast: Can one of the nation’s great musicians cut through the fog of a D.C. rush hour? Let’s find out.",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://www.washingtonpost.com/pbox.php?url=https://www.washingtonpost.com/pb/resources/img/twp-social-share.png\u0026w=1484\u0026op=resize\u0026opt=1\u0026filter=antialias\u0026t=20170517",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://www.washingtonpost.com/lifestyle/magazine/pearls-before-breakfast-can-one-of-the-nations-great-musicians-cut-through-the-fog-of-a-dc-rush-hour-lets-find-out/2014/09/23/8a6d46da-4331-11e4-b47c-f5889e061e5f_story.html",
-      "audio": [],
-      "description": "Joshua Bell is one of the world’s greatest violinists. His instrument of choice is a multimillion-dollar Stradivarius. If he played it for spare change, incognito, outside a bustling Metro stop in Washington, would anyone notice?",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Washington Post",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30138434,
     "title": "Beancount: Double-entry accounting from text files",
     "url": "https://github.com/beancount/beancount",
@@ -2304,23 +2184,20 @@
     "points": 199,
     "comment_count": 22,
     "hn_item": {
-      "by": "camnora",
-      "descendants": 23,
-      "id": 30138468,
+      "by": "rmason",
+      "descendants": 4,
+      "id": 30141784,
       "kids": [
-        30140217,
-        30139229,
-        30138770,
-        30139945,
-        30139640,
-        30139547,
-        30140997
+        30143952,
+        30145080,
+        30144425,
+        30144133
       ],
-      "score": 102,
-      "time": 1643559712,
-      "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
+      "score": 15,
+      "time": 1643581215,
+      "title": "I crowdfunded a novel using cryptocurrency",
       "type": "story",
-      "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
+      "url": "https://ellegriffin.substack.com/p/crypto-funded-nft-novel"
     },
     "og_item": {
       "title": "GitHub - beancount/beancount: Beancount: Double-Entry Accounting from Text Files.",
@@ -2361,23 +2238,20 @@
     "points": 261,
     "comment_count": 32,
     "hn_item": {
-      "by": "camnora",
-      "descendants": 23,
-      "id": 30138468,
+      "by": "rmason",
+      "descendants": 4,
+      "id": 30141784,
       "kids": [
-        30140217,
-        30139229,
-        30138770,
-        30139945,
-        30139640,
-        30139547,
-        30140997
+        30143952,
+        30145080,
+        30144425,
+        30144133
       ],
-      "score": 102,
-      "time": 1643559712,
-      "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
+      "score": 15,
+      "time": 1643581215,
+      "title": "I crowdfunded a novel using cryptocurrency",
       "type": "story",
-      "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
+      "url": "https://ellegriffin.substack.com/p/crypto-funded-nft-novel"
     },
     "og_item": {
       "title": "John Locke’s recipe for Pancakes",
@@ -2406,6 +2280,60 @@
     }
   },
   {
+    "id": 30142410,
+    "title": "The Wikimedia Foundation's acceptance of cryptocurrency donations",
+    "url": "https://blog.mollywhite.net/wikimedia-foundation-cryptocurrency-donations/",
+    "time": 1643585562,
+    "image": "https://blog.mollywhite.net/assets/mollyandmax.png",
+    "icon": "https://blog.mollywhite.net/assets/favicon-16x16.png",
+    "publisher": "blog.mollywhite.net",
+    "description": "Originally published in the Wikipedia Signpost: Should the Wikimedia Foundation continue to accept cryptocurrency donations? One editor doesn't think so.",
+    "by": "hesk",
+    "points": 19,
+    "comment_count": 2,
+    "hn_item": {
+      "by": "rmason",
+      "descendants": 4,
+      "id": 30141784,
+      "kids": [
+        30143952,
+        30145080,
+        30144425,
+        30144133
+      ],
+      "score": 15,
+      "time": 1643581215,
+      "title": "I crowdfunded a novel using cryptocurrency",
+      "type": "story",
+      "url": "https://ellegriffin.substack.com/p/crypto-funded-nft-novel"
+    },
+    "og_item": {
+      "title": "Wikipedia Signpost: The Wikimedia Foundation's acceptance of cryptocurrency donations",
+      "type": "website",
+      "image": [
+        {
+          "url": "https://blog.mollywhite.net/assets/mollyandmax.png",
+          "secure_url": "",
+          "type": "",
+          "width": 200,
+          "height": 200,
+          "alt": ""
+        }
+      ],
+      "url": "https://blog.mollywhite.net/wikimedia-foundation-cryptocurrency-donations/",
+      "audio": [],
+      "description": "Originally published in the Wikipedia Signpost: Should the Wikimedia Foundation continue to accept cryptocurrency donations? One editor doesn't think so.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/assets/favicon-16x16.png"
+      }
+    }
+  },
+  {
     "id": 30122128,
     "title": "Sega quits arcade business after 50 years",
     "url": "https://www.eurogamer.net/articles/2022-01-28-sega-quits-japanese-arcade-business-after-50-years",
@@ -2418,23 +2346,20 @@
     "points": 229,
     "comment_count": 25,
     "hn_item": {
-      "by": "camnora",
-      "descendants": 23,
-      "id": 30138468,
+      "by": "rmason",
+      "descendants": 4,
+      "id": 30141784,
       "kids": [
-        30140217,
-        30139229,
-        30138770,
-        30139945,
-        30139640,
-        30139547,
-        30140997
+        30143952,
+        30145080,
+        30144425,
+        30144133
       ],
-      "score": 102,
-      "time": 1643559712,
-      "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
+      "score": 15,
+      "time": 1643581215,
+      "title": "I crowdfunded a novel using cryptocurrency",
       "type": "story",
-      "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
+      "url": "https://ellegriffin.substack.com/p/crypto-funded-nft-novel"
     },
     "og_item": {
       "title": "Sega quits Japanese arcade business after 50 years",
@@ -2463,63 +2388,6 @@
     }
   },
   {
-    "id": 30143377,
-    "title": "A Simple Transformer Implementation(PyTorch) Without Difficult Syntax",
-    "url": "https://github.com/IpsumDominum/Pytorch-Simple-Transformer",
-    "time": 1643592608,
-    "image": "https://opengraph.githubassets.com/a6a0f18e050ef8520d18eb7b37ebab168aeaf369d33f630e29136dd51468facf/IpsumDominum/Pytorch-Simple-Transformer",
-    "icon": "https://github.githubassets.com/favicons/favicon.svg",
-    "publisher": "GitHub",
-    "description": "A simple transformer implementation without difficult syntax and extra bells and whistles. - GitHub - IpsumDominum/Pytorch-Simple-Transformer: A simple transformer implementation without difficult ...",
-    "by": "IpsumDominum",
-    "points": 9,
-    "comment_count": 1,
-    "hn_item": {
-      "by": "camnora",
-      "descendants": 23,
-      "id": 30138468,
-      "kids": [
-        30140217,
-        30139229,
-        30138770,
-        30139945,
-        30139640,
-        30139547,
-        30140997
-      ],
-      "score": 102,
-      "time": 1643559712,
-      "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
-      "type": "story",
-      "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
-    },
-    "og_item": {
-      "title": "GitHub - IpsumDominum/Pytorch-Simple-Transformer: A simple transformer implementation without difficult syntax and extra bells and whistles.",
-      "type": "object",
-      "image": [
-        {
-          "url": "https://opengraph.githubassets.com/a6a0f18e050ef8520d18eb7b37ebab168aeaf369d33f630e29136dd51468facf/IpsumDominum/Pytorch-Simple-Transformer",
-          "secure_url": "",
-          "type": "",
-          "width": 1200,
-          "height": 600,
-          "alt": ""
-        }
-      ],
-      "url": "https://github.com/IpsumDominum/Pytorch-Simple-Transformer",
-      "audio": [],
-      "description": "A simple transformer implementation without difficult syntax and extra bells and whistles. - GitHub - IpsumDominum/Pytorch-Simple-Transformer: A simple transformer implementation without difficult ...",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "GitHub",
-      "video": [],
-      "favicon": {
-        "url": "https://github.githubassets.com/favicons/favicon.svg"
-      }
-    }
-  },
-  {
     "id": 30116262,
     "title": "A Padlock I’d Use [video]",
     "url": "https://www.youtube.com/watch?v=HrV86GqlY8o",
@@ -2532,23 +2400,20 @@
     "points": 144,
     "comment_count": 7,
     "hn_item": {
-      "by": "camnora",
-      "descendants": 23,
-      "id": 30138468,
+      "by": "rmason",
+      "descendants": 4,
+      "id": 30141784,
       "kids": [
-        30140217,
-        30139229,
-        30138770,
-        30139945,
-        30139640,
-        30139547,
-        30140997
+        30143952,
+        30145080,
+        30144425,
+        30144133
       ],
-      "score": 102,
-      "time": 1643559712,
-      "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
+      "score": 15,
+      "time": 1643581215,
+      "title": "I crowdfunded a novel using cryptocurrency",
       "type": "story",
-      "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
+      "url": "https://ellegriffin.substack.com/p/crypto-funded-nft-novel"
     },
     "og_item": {
       "title": "[1398] A Padlock I’d Use: Abus Granit 37RK/80 (Pick \u0026 Gut)",
@@ -2586,6 +2451,60 @@
     }
   },
   {
+    "id": 30143377,
+    "title": "A Simple Transformer Implementation(PyTorch) Without Difficult Syntax",
+    "url": "https://github.com/IpsumDominum/Pytorch-Simple-Transformer",
+    "time": 1643592608,
+    "image": "https://opengraph.githubassets.com/a6a0f18e050ef8520d18eb7b37ebab168aeaf369d33f630e29136dd51468facf/IpsumDominum/Pytorch-Simple-Transformer",
+    "icon": "https://github.githubassets.com/favicons/favicon.svg",
+    "publisher": "GitHub",
+    "description": "A simple transformer implementation without difficult syntax and extra bells and whistles. - GitHub - IpsumDominum/Pytorch-Simple-Transformer: A simple transformer implementation without difficult ...",
+    "by": "IpsumDominum",
+    "points": 9,
+    "comment_count": 1,
+    "hn_item": {
+      "by": "rmason",
+      "descendants": 4,
+      "id": 30141784,
+      "kids": [
+        30143952,
+        30145080,
+        30144425,
+        30144133
+      ],
+      "score": 15,
+      "time": 1643581215,
+      "title": "I crowdfunded a novel using cryptocurrency",
+      "type": "story",
+      "url": "https://ellegriffin.substack.com/p/crypto-funded-nft-novel"
+    },
+    "og_item": {
+      "title": "GitHub - IpsumDominum/Pytorch-Simple-Transformer: A simple transformer implementation without difficult syntax and extra bells and whistles.",
+      "type": "object",
+      "image": [
+        {
+          "url": "https://opengraph.githubassets.com/a6a0f18e050ef8520d18eb7b37ebab168aeaf369d33f630e29136dd51468facf/IpsumDominum/Pytorch-Simple-Transformer",
+          "secure_url": "",
+          "type": "",
+          "width": 1200,
+          "height": 600,
+          "alt": ""
+        }
+      ],
+      "url": "https://github.com/IpsumDominum/Pytorch-Simple-Transformer",
+      "audio": [],
+      "description": "A simple transformer implementation without difficult syntax and extra bells and whistles. - GitHub - IpsumDominum/Pytorch-Simple-Transformer: A simple transformer implementation without difficult ...",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "GitHub",
+      "video": [],
+      "favicon": {
+        "url": "https://github.githubassets.com/favicons/favicon.svg"
+      }
+    }
+  },
+  {
     "id": 30137681,
     "title": "In defence of the boring web",
     "url": "https://bastian.rieck.me/blog/posts/2022/boring/",
@@ -2595,26 +2514,23 @@
     "publisher": "bastian.rieck.me",
     "description": "",
     "by": "Topolomancer",
-    "points": 208,
+    "points": 209,
     "comment_count": 24,
     "hn_item": {
-      "by": "camnora",
-      "descendants": 23,
-      "id": 30138468,
+      "by": "rmason",
+      "descendants": 4,
+      "id": 30141784,
       "kids": [
-        30140217,
-        30139229,
-        30138770,
-        30139945,
-        30139640,
-        30139547,
-        30140997
+        30143952,
+        30145080,
+        30144425,
+        30144133
       ],
-      "score": 102,
-      "time": 1643559712,
-      "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
+      "score": 15,
+      "time": 1643581215,
+      "title": "I crowdfunded a novel using cryptocurrency",
       "type": "story",
-      "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
+      "url": "https://ellegriffin.substack.com/p/crypto-funded-nft-novel"
     },
     "og_item": {
       "title": "In Defence of the Boring Web",
@@ -2634,6 +2550,51 @@
     }
   },
   {
+    "id": 30138669,
+    "title": "Ask HN: Has anyone leveraged GDPR to overturn automated bans?",
+    "url": "https://news.ycombinator.com/item?id=30138669",
+    "time": 1643561257,
+    "image": "",
+    "icon": "https://news.ycombinator.com/favicon.ico",
+    "publisher": "Hacker News",
+    "description": "",
+    "by": "ndmrs",
+    "points": 139,
+    "comment_count": 12,
+    "hn_item": {
+      "by": "rmason",
+      "descendants": 4,
+      "id": 30141784,
+      "kids": [
+        30143952,
+        30145080,
+        30144425,
+        30144133
+      ],
+      "score": 15,
+      "time": 1643581215,
+      "title": "I crowdfunded a novel using cryptocurrency",
+      "type": "story",
+      "url": "https://ellegriffin.substack.com/p/crypto-funded-nft-novel"
+    },
+    "og_item": {
+      "title": "Ask HN: Has anyone leveraged GDPR to overturn automated bans? | Hacker News",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30110679,
     "title": "Bringing Ancient Pottery to Life",
     "url": "https://news.harvard.edu/gazette/story/2021/09/harvard-ceramics-program-recreates-art-museums-pieces/",
@@ -2646,23 +2607,20 @@
     "points": 14,
     "comment_count": 1,
     "hn_item": {
-      "by": "camnora",
-      "descendants": 23,
-      "id": 30138468,
+      "by": "rmason",
+      "descendants": 4,
+      "id": 30141784,
       "kids": [
-        30140217,
-        30139229,
-        30138770,
-        30139945,
-        30139640,
-        30139547,
-        30140997
+        30143952,
+        30145080,
+        30144425,
+        30144133
       ],
-      "score": 102,
-      "time": 1643559712,
-      "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
+      "score": 15,
+      "time": 1643581215,
+      "title": "I crowdfunded a novel using cryptocurrency",
       "type": "story",
-      "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
+      "url": "https://ellegriffin.substack.com/p/crypto-funded-nft-novel"
     },
     "og_item": {
       "title": "Harvard ceramics program recreates Art Museums’ pieces",
@@ -2691,54 +2649,6 @@
     }
   },
   {
-    "id": 30138669,
-    "title": "Ask HN: Has anyone leveraged GDPR to overturn automated bans?",
-    "url": "https://news.ycombinator.com/item?id=30138669",
-    "time": 1643561257,
-    "image": "",
-    "icon": "https://news.ycombinator.com/favicon.ico",
-    "publisher": "Hacker News",
-    "description": "",
-    "by": "ndmrs",
-    "points": 139,
-    "comment_count": 12,
-    "hn_item": {
-      "by": "camnora",
-      "descendants": 23,
-      "id": 30138468,
-      "kids": [
-        30140217,
-        30139229,
-        30138770,
-        30139945,
-        30139640,
-        30139547,
-        30140997
-      ],
-      "score": 102,
-      "time": 1643559712,
-      "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
-      "type": "story",
-      "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
-    },
-    "og_item": {
-      "title": "Ask HN: Has anyone leveraged GDPR to overturn automated bans? | Hacker News",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30139734,
     "title": "Show the case against",
     "url": "https://www.shubhro.com/2022/01/03/show-the-case-against/",
@@ -2751,23 +2661,20 @@
     "points": 36,
     "comment_count": 5,
     "hn_item": {
-      "by": "camnora",
-      "descendants": 23,
-      "id": 30138468,
+      "by": "rmason",
+      "descendants": 4,
+      "id": 30141784,
       "kids": [
-        30140217,
-        30139229,
-        30138770,
-        30139945,
-        30139640,
-        30139547,
-        30140997
+        30143952,
+        30145080,
+        30144425,
+        30144133
       ],
-      "score": 102,
-      "time": 1643559712,
-      "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
+      "score": 15,
+      "time": 1643581215,
+      "title": "I crowdfunded a novel using cryptocurrency",
       "type": "story",
-      "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
+      "url": "https://ellegriffin.substack.com/p/crypto-funded-nft-novel"
     },
     "og_item": {
       "title": "Show the case against - shubhro.com",
@@ -2799,23 +2706,20 @@
     "points": 10,
     "comment_count": 2,
     "hn_item": {
-      "by": "camnora",
-      "descendants": 23,
-      "id": 30138468,
+      "by": "rmason",
+      "descendants": 4,
+      "id": 30141784,
       "kids": [
-        30140217,
-        30139229,
-        30138770,
-        30139945,
-        30139640,
-        30139547,
-        30140997
+        30143952,
+        30145080,
+        30144425,
+        30144133
       ],
-      "score": 102,
-      "time": 1643559712,
-      "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
+      "score": 15,
+      "time": 1643581215,
+      "title": "I crowdfunded a novel using cryptocurrency",
       "type": "story",
-      "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
+      "url": "https://ellegriffin.substack.com/p/crypto-funded-nft-novel"
     },
     "og_item": {
       "title": "articles/static-let.md at main · phoe/articles",
@@ -2856,23 +2760,20 @@
     "points": 40,
     "comment_count": 4,
     "hn_item": {
-      "by": "camnora",
-      "descendants": 23,
-      "id": 30138468,
+      "by": "rmason",
+      "descendants": 4,
+      "id": 30141784,
       "kids": [
-        30140217,
-        30139229,
-        30138770,
-        30139945,
-        30139640,
-        30139547,
-        30140997
+        30143952,
+        30145080,
+        30144425,
+        30144133
       ],
-      "score": 102,
-      "time": 1643559712,
-      "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
+      "score": 15,
+      "time": 1643581215,
+      "title": "I crowdfunded a novel using cryptocurrency",
       "type": "story",
-      "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
+      "url": "https://ellegriffin.substack.com/p/crypto-funded-nft-novel"
     },
     "og_item": {
       "title": "Very Remote Lisp Debugging Story - Susam's Maze",
@@ -2892,63 +2793,6 @@
     }
   },
   {
-    "id": 30142410,
-    "title": "The Wikimedia Foundation's acceptance of cryptocurrency donations",
-    "url": "https://blog.mollywhite.net/wikimedia-foundation-cryptocurrency-donations/",
-    "time": 1643585562,
-    "image": "https://blog.mollywhite.net/assets/mollyandmax.png",
-    "icon": "https://blog.mollywhite.net/assets/favicon-16x16.png",
-    "publisher": "blog.mollywhite.net",
-    "description": "Originally published in the Wikipedia Signpost: Should the Wikimedia Foundation continue to accept cryptocurrency donations? One editor doesn't think so.",
-    "by": "hesk",
-    "points": 17,
-    "comment_count": 2,
-    "hn_item": {
-      "by": "camnora",
-      "descendants": 23,
-      "id": 30138468,
-      "kids": [
-        30140217,
-        30139229,
-        30138770,
-        30139945,
-        30139640,
-        30139547,
-        30140997
-      ],
-      "score": 102,
-      "time": 1643559712,
-      "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
-      "type": "story",
-      "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
-    },
-    "og_item": {
-      "title": "Wikipedia Signpost: The Wikimedia Foundation's acceptance of cryptocurrency donations",
-      "type": "website",
-      "image": [
-        {
-          "url": "https://blog.mollywhite.net/assets/mollyandmax.png",
-          "secure_url": "",
-          "type": "",
-          "width": 200,
-          "height": 200,
-          "alt": ""
-        }
-      ],
-      "url": "https://blog.mollywhite.net/wikimedia-foundation-cryptocurrency-donations/",
-      "audio": [],
-      "description": "Originally published in the Wikipedia Signpost: Should the Wikimedia Foundation continue to accept cryptocurrency donations? One editor doesn't think so.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/assets/favicon-16x16.png"
-      }
-    }
-  },
-  {
     "id": 30128627,
     "title": "Tech debt gets worse before it gets better",
     "url": "https://jeremymikkola.com/posts/2022_01_29_tech_debt_gets_worse_before_it_gets_beffer.html",
@@ -2958,26 +2802,23 @@
     "publisher": "jeremymikkola.com",
     "description": "",
     "by": "piinbinary",
-    "points": 131,
+    "points": 132,
     "comment_count": 12,
     "hn_item": {
-      "by": "camnora",
-      "descendants": 23,
-      "id": 30138468,
+      "by": "rmason",
+      "descendants": 4,
+      "id": 30141784,
       "kids": [
-        30140217,
-        30139229,
-        30138770,
-        30139945,
-        30139640,
-        30139547,
-        30140997
+        30143952,
+        30145080,
+        30144425,
+        30144133
       ],
-      "score": 102,
-      "time": 1643559712,
-      "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
+      "score": 15,
+      "time": 1643581215,
+      "title": "I crowdfunded a novel using cryptocurrency",
       "type": "story",
-      "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
+      "url": "https://ellegriffin.substack.com/p/crypto-funded-nft-novel"
     },
     "og_item": {
       "title": "Jeremy Mikkola - Tech debt gets worse before it gets better",
@@ -3009,23 +2850,20 @@
     "points": 25,
     "comment_count": 2,
     "hn_item": {
-      "by": "camnora",
-      "descendants": 23,
-      "id": 30138468,
+      "by": "rmason",
+      "descendants": 4,
+      "id": 30141784,
       "kids": [
-        30140217,
-        30139229,
-        30138770,
-        30139945,
-        30139640,
-        30139547,
-        30140997
+        30143952,
+        30145080,
+        30144425,
+        30144133
       ],
-      "score": 102,
-      "time": 1643559712,
-      "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
+      "score": 15,
+      "time": 1643581215,
+      "title": "I crowdfunded a novel using cryptocurrency",
       "type": "story",
-      "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
+      "url": "https://ellegriffin.substack.com/p/crypto-funded-nft-novel"
     },
     "og_item": {
       "title": "The Game of War: An Overview | Alexander R. Galloway",
@@ -3054,6 +2892,60 @@
     }
   },
   {
+    "id": 30142974,
+    "title": "Don’t Buy Samsung Smartphones",
+    "url": "https://befinitiv.wordpress.com/2022/01/30/dont-buy-samsung-smartphones/",
+    "time": 1643589704,
+    "image": "https://s0.wp.com/i/blank.jpg",
+    "icon": "https://s0.wp.com/i/favicon.ico",
+    "publisher": "befinitiv",
+    "description": "TLDR: Bought a Samsung S21 5G, it broke 3 times within warranty time, Samsung gave up repairing it and leaves me with a broken 700€ phone. Last year my old phone broke and I replaced it with the Sa…",
+    "by": "zdw",
+    "points": 9,
+    "comment_count": 3,
+    "hn_item": {
+      "by": "rmason",
+      "descendants": 4,
+      "id": 30141784,
+      "kids": [
+        30143952,
+        30145080,
+        30144425,
+        30144133
+      ],
+      "score": 15,
+      "time": 1643581215,
+      "title": "I crowdfunded a novel using cryptocurrency",
+      "type": "story",
+      "url": "https://ellegriffin.substack.com/p/crypto-funded-nft-novel"
+    },
+    "og_item": {
+      "title": "Don’t buy Samsung Smartphones",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://s0.wp.com/i/blank.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://befinitiv.wordpress.com/2022/01/30/dont-buy-samsung-smartphones/",
+      "audio": [],
+      "description": "TLDR: Bought a Samsung S21 5G, it broke 3 times within warranty time, Samsung gave up repairing it and leaves me with a broken 700€ phone. Last year my old phone broke and I replaced it with the Sa…",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "befinitiv",
+      "video": [],
+      "favicon": {
+        "url": "https://s0.wp.com/i/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30114787,
     "title": "The Society of the Spectacle",
     "url": "https://unredacted-word.pub/",
@@ -3066,23 +2958,20 @@
     "points": 94,
     "comment_count": 10,
     "hn_item": {
-      "by": "camnora",
-      "descendants": 23,
-      "id": 30138468,
+      "by": "rmason",
+      "descendants": 4,
+      "id": 30141784,
       "kids": [
-        30140217,
-        30139229,
-        30138770,
-        30139945,
-        30139640,
-        30139547,
-        30140997
+        30143952,
+        30145080,
+        30144425,
+        30144133
       ],
-      "score": 102,
-      "time": 1643559712,
-      "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
+      "score": 15,
+      "time": 1643581215,
+      "title": "I crowdfunded a novel using cryptocurrency",
       "type": "story",
-      "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
+      "url": "https://ellegriffin.substack.com/p/crypto-funded-nft-novel"
     },
     "og_item": {
       "title": "Unredacted Word",
@@ -3111,120 +3000,6 @@
     }
   },
   {
-    "id": 30144892,
-    "title": "Kia’s new EV6 electric crossover goes straight to the head of the pack",
-    "url": "https://arstechnica.com/cars/2022/01/kias-new-ev6-electric-crossover-goes-straight-to-the-head-of-the-pack/",
-    "time": 1643607086,
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/01/Kia-EV6-1-760x380.jpg",
-    "icon": "https://cdn.arstechnica.net/wp-content/themes/ars/assets/img/material-ars-db41652381.png",
-    "publisher": "Ars Technica",
-    "description": "It's highly efficient, fun to drive, and loaded with equipment, too.",
-    "by": "feross",
-    "points": 10,
-    "comment_count": 4,
-    "hn_item": {
-      "by": "camnora",
-      "descendants": 23,
-      "id": 30138468,
-      "kids": [
-        30140217,
-        30139229,
-        30138770,
-        30139945,
-        30139640,
-        30139547,
-        30140997
-      ],
-      "score": 102,
-      "time": 1643559712,
-      "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
-      "type": "story",
-      "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
-    },
-    "og_item": {
-      "title": "Kia’s new EV6 electric crossover goes straight to the head of the pack",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/01/Kia-EV6-1-760x380.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://arstechnica.com/cars/2022/01/kias-new-ev6-electric-crossover-goes-straight-to-the-head-of-the-pack/",
-      "audio": [],
-      "description": "It's highly efficient, fun to drive, and loaded with equipment, too.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Ars Technica",
-      "video": [],
-      "favicon": {
-        "url": "https://cdn.arstechnica.net/wp-content/themes/ars/assets/img/material-ars-db41652381.png"
-      }
-    }
-  },
-  {
-    "id": 30145241,
-    "title": "Spotify Announces Addition of Content Warnings",
-    "url": "https://deadline.com/2022/01/spotify-content-warnings-joe-rogan-covid-19-misinformation-1234922739/",
-    "time": 1643611221,
-    "image": "https://deadline.com/wp-content/uploads/2020/07/spotify.jpg?w=1024",
-    "icon": "https://deadline.com/wp-content/uploads/2019/04/cropped-icon-512x512.png?w=192",
-    "publisher": "Deadline",
-    "description": "Spotify subscribers will notice a new content warning airing ahead of any podcast episodes discussing Covid-19, CEO Daniel Ek announced on Sunday. The news arrives on the heels of Neil Young removi…",
-    "by": "awb",
-    "points": 4,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "camnora",
-      "descendants": 23,
-      "id": 30138468,
-      "kids": [
-        30140217,
-        30139229,
-        30138770,
-        30139945,
-        30139640,
-        30139547,
-        30140997
-      ],
-      "score": 102,
-      "time": 1643559712,
-      "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
-      "type": "story",
-      "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
-    },
-    "og_item": {
-      "title": "Spotify Announces Addition Of Content Warnings In Response To Joe Rogan Covid-19 Misinformation Criticism",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://deadline.com/wp-content/uploads/2020/07/spotify.jpg?w=1024",
-          "secure_url": "",
-          "type": "",
-          "width": 1024,
-          "height": 535,
-          "alt": ""
-        }
-      ],
-      "url": "https://deadline.com/2022/01/spotify-content-warnings-joe-rogan-covid-19-misinformation-1234922739/",
-      "audio": [],
-      "description": "Spotify subscribers will notice a new content warning airing ahead of any podcast episodes discussing Covid-19, CEO Daniel Ek announced on Sunday. The news arrives on the heels of Neil Young removi…",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Deadline",
-      "video": [],
-      "favicon": {
-        "url": "https://deadline.com/wp-content/uploads/2019/04/cropped-icon-512x512.png?w=192"
-      }
-    }
-  },
-  {
     "id": 30137864,
     "title": "Midnight Commander Tips and Tricks",
     "url": "http://www.softpanorama.org/OFM/MC/mc_tips.shtml",
@@ -3234,26 +3009,23 @@
     "publisher": "softpanorama.org",
     "description": "",
     "by": "ingve",
-    "points": 157,
-    "comment_count": 18,
+    "points": 158,
+    "comment_count": 19,
     "hn_item": {
-      "by": "camnora",
-      "descendants": 23,
-      "id": 30138468,
+      "by": "rmason",
+      "descendants": 4,
+      "id": 30141784,
       "kids": [
-        30140217,
-        30139229,
-        30138770,
-        30139945,
-        30139640,
-        30139547,
-        30140997
+        30143952,
+        30145080,
+        30144425,
+        30144133
       ],
-      "score": 102,
-      "time": 1643559712,
-      "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
+      "score": 15,
+      "time": 1643581215,
+      "title": "I crowdfunded a novel using cryptocurrency",
       "type": "story",
-      "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
+      "url": "https://ellegriffin.substack.com/p/crypto-funded-nft-novel"
     },
     "og_item": {
       "title": "Midnight Commander Tips and Tricks",
@@ -3285,23 +3057,20 @@
     "points": 8,
     "comment_count": 1,
     "hn_item": {
-      "by": "camnora",
-      "descendants": 23,
-      "id": 30138468,
+      "by": "rmason",
+      "descendants": 4,
+      "id": 30141784,
       "kids": [
-        30140217,
-        30139229,
-        30138770,
-        30139945,
-        30139640,
-        30139547,
-        30140997
+        30143952,
+        30145080,
+        30144425,
+        30144133
       ],
-      "score": 102,
-      "time": 1643559712,
-      "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
+      "score": 15,
+      "time": 1643581215,
+      "title": "I crowdfunded a novel using cryptocurrency",
       "type": "story",
-      "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
+      "url": "https://ellegriffin.substack.com/p/crypto-funded-nft-novel"
     },
     "og_item": {
       "title": "You want HOW MANY years experience?!",
@@ -3321,6 +3090,60 @@
     }
   },
   {
+    "id": 30144892,
+    "title": "Kia’s new EV6 electric crossover goes straight to the head of the pack",
+    "url": "https://arstechnica.com/cars/2022/01/kias-new-ev6-electric-crossover-goes-straight-to-the-head-of-the-pack/",
+    "time": 1643607086,
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/01/Kia-EV6-1-760x380.jpg",
+    "icon": "https://cdn.arstechnica.net/wp-content/themes/ars/assets/img/material-ars-db41652381.png",
+    "publisher": "Ars Technica",
+    "description": "It's highly efficient, fun to drive, and loaded with equipment, too.",
+    "by": "feross",
+    "points": 11,
+    "comment_count": 4,
+    "hn_item": {
+      "by": "rmason",
+      "descendants": 4,
+      "id": 30141784,
+      "kids": [
+        30143952,
+        30145080,
+        30144425,
+        30144133
+      ],
+      "score": 15,
+      "time": 1643581215,
+      "title": "I crowdfunded a novel using cryptocurrency",
+      "type": "story",
+      "url": "https://ellegriffin.substack.com/p/crypto-funded-nft-novel"
+    },
+    "og_item": {
+      "title": "Kia’s new EV6 electric crossover goes straight to the head of the pack",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/01/Kia-EV6-1-760x380.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://arstechnica.com/cars/2022/01/kias-new-ev6-electric-crossover-goes-straight-to-the-head-of-the-pack/",
+      "audio": [],
+      "description": "It's highly efficient, fun to drive, and loaded with equipment, too.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Ars Technica",
+      "video": [],
+      "favicon": {
+        "url": "https://cdn.arstechnica.net/wp-content/themes/ars/assets/img/material-ars-db41652381.png"
+      }
+    }
+  },
+  {
     "id": 30125931,
     "title": "Fluid Simulation – Siggraph 2007 Course Notes [pdf]",
     "url": "https://www.cs.ubc.ca/~rbridson/fluidsimulation/fluids_notes.pdf",
@@ -3333,80 +3156,74 @@
     "points": 37,
     "comment_count": 5,
     "hn_item": {
-      "by": "camnora",
-      "descendants": 23,
-      "id": 30138468,
+      "by": "rmason",
+      "descendants": 4,
+      "id": 30141784,
       "kids": [
-        30140217,
-        30139229,
-        30138770,
-        30139945,
-        30139640,
-        30139547,
-        30140997
+        30143952,
+        30145080,
+        30144425,
+        30144133
       ],
-      "score": 102,
-      "time": 1643559712,
-      "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
+      "score": 15,
+      "time": 1643581215,
+      "title": "I crowdfunded a novel using cryptocurrency",
       "type": "story",
-      "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
+      "url": "https://ellegriffin.substack.com/p/crypto-funded-nft-novel"
     },
     "og_item": null
   },
   {
-    "id": 30142974,
-    "title": "Don’t Buy Samsung Smartphones",
-    "url": "https://befinitiv.wordpress.com/2022/01/30/dont-buy-samsung-smartphones/",
-    "time": 1643589704,
-    "image": "https://s0.wp.com/i/blank.jpg",
-    "icon": "https://s0.wp.com/i/favicon.ico",
-    "publisher": "befinitiv",
-    "description": "TLDR: Bought a Samsung S21 5G, it broke 3 times within warranty time, Samsung gave up repairing it and leaves me with a broken 700€ phone. Last year my old phone broke and I replaced it with the Sa…",
-    "by": "zdw",
-    "points": 8,
-    "comment_count": 3,
+    "id": 30145241,
+    "title": "Spotify Announces Addition of Content Warnings",
+    "url": "https://deadline.com/2022/01/spotify-content-warnings-joe-rogan-covid-19-misinformation-1234922739/",
+    "time": 1643611221,
+    "image": "https://deadline.com/wp-content/uploads/2020/07/spotify.jpg?w=1024",
+    "icon": "https://deadline.com/wp-content/uploads/2019/04/cropped-icon-512x512.png?w=192",
+    "publisher": "Deadline",
+    "description": "Spotify subscribers will notice a new content warning airing ahead of any podcast episodes discussing Covid-19, CEO Daniel Ek announced on Sunday. The news arrives on the heels of Neil Young removi…",
+    "by": "awb",
+    "points": 4,
+    "comment_count": 0,
     "hn_item": {
-      "by": "camnora",
-      "descendants": 23,
-      "id": 30138468,
+      "by": "rmason",
+      "descendants": 4,
+      "id": 30141784,
       "kids": [
-        30140217,
-        30139229,
-        30138770,
-        30139945,
-        30139640,
-        30139547,
-        30140997
+        30143952,
+        30145080,
+        30144425,
+        30144133
       ],
-      "score": 102,
-      "time": 1643559712,
-      "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
+      "score": 15,
+      "time": 1643581215,
+      "title": "I crowdfunded a novel using cryptocurrency",
       "type": "story",
-      "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
+      "url": "https://ellegriffin.substack.com/p/crypto-funded-nft-novel"
     },
     "og_item": {
-      "title": "Don’t buy Samsung Smartphones",
+      "title": "Spotify Announces Addition Of Content Warnings In Response To Joe Rogan Covid-19 Misinformation Criticism",
       "type": "article",
       "image": [
         {
-          "url": "https://s0.wp.com/i/blank.jpg",
+          "url": "https://deadline.com/wp-content/uploads/2020/07/spotify.jpg?w=1024",
           "secure_url": "",
           "type": "",
-          "width": 0,
-          "height": 0,
+          "width": 1024,
+          "height": 535,
           "alt": ""
         }
       ],
-      "url": "https://befinitiv.wordpress.com/2022/01/30/dont-buy-samsung-smartphones/",
+      "url": "https://deadline.com/2022/01/spotify-content-warnings-joe-rogan-covid-19-misinformation-1234922739/",
       "audio": [],
-      "description": "TLDR: Bought a Samsung S21 5G, it broke 3 times within warranty time, Samsung gave up repairing it and leaves me with a broken 700€ phone. Last year my old phone broke and I replaced it with the Sa…",
+      "description": "Spotify subscribers will notice a new content warning airing ahead of any podcast episodes discussing Covid-19, CEO Daniel Ek announced on Sunday. The news arrives on the heels of Neil Young removi…",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "befinitiv",
+      "site_name": "Deadline",
       "video": [],
       "favicon": {
-        "url": "https://s0.wp.com/i/favicon.ico"
+        "url": "https://deadline.com/wp-content/uploads/2019/04/cropped-icon-512x512.png?w=192"
       }
     }
   },
@@ -3423,23 +3240,20 @@
     "points": 54,
     "comment_count": 6,
     "hn_item": {
-      "by": "camnora",
-      "descendants": 23,
-      "id": 30138468,
+      "by": "rmason",
+      "descendants": 4,
+      "id": 30141784,
       "kids": [
-        30140217,
-        30139229,
-        30138770,
-        30139945,
-        30139640,
-        30139547,
-        30140997
+        30143952,
+        30145080,
+        30144425,
+        30144133
       ],
-      "score": 102,
-      "time": 1643559712,
-      "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
+      "score": 15,
+      "time": 1643581215,
+      "title": "I crowdfunded a novel using cryptocurrency",
       "type": "story",
-      "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
+      "url": "https://ellegriffin.substack.com/p/crypto-funded-nft-novel"
     },
     "og_item": {
       "title": "How Amiga 500 RAM Probably Works | How Things Probably Work",
@@ -3489,23 +3303,20 @@
     "points": 99,
     "comment_count": 5,
     "hn_item": {
-      "by": "camnora",
-      "descendants": 23,
-      "id": 30138468,
+      "by": "rmason",
+      "descendants": 4,
+      "id": 30141784,
       "kids": [
-        30140217,
-        30139229,
-        30138770,
-        30139945,
-        30139640,
-        30139547,
-        30140997
+        30143952,
+        30145080,
+        30144425,
+        30144133
       ],
-      "score": 102,
-      "time": 1643559712,
-      "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
+      "score": 15,
+      "time": 1643581215,
+      "title": "I crowdfunded a novel using cryptocurrency",
       "type": "story",
-      "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
+      "url": "https://ellegriffin.substack.com/p/crypto-funded-nft-novel"
     },
     "og_item": {
       "title": "All News - Steel Bank Common Lisp",
@@ -3525,6 +3336,114 @@
     }
   },
   {
+    "id": 30142351,
+    "title": "Completing a Creative Project",
+    "url": "https://www.sonyasupposedly.com/completing-a-creative-project/",
+    "time": 1643585100,
+    "image": "https://www.sonyasupposedly.com/content/images/2022/01/artdecoladies-1.jpg",
+    "icon": "https://www.sonyasupposedly.com/favicon.png",
+    "publisher": "Sonya Supposedly",
+    "description": "My undying thanks to members for funding the following realizations 💖 Btw, click here for the PDF version that I mailed in November, if you want it for some reason. How to complete a creative project: stick with it until you're done. Gee thanks, great advice, I know. But it's true!",
+    "by": "exolymph",
+    "points": 5,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "rmason",
+      "descendants": 4,
+      "id": 30141784,
+      "kids": [
+        30143952,
+        30145080,
+        30144425,
+        30144133
+      ],
+      "score": 15,
+      "time": 1643581215,
+      "title": "I crowdfunded a novel using cryptocurrency",
+      "type": "story",
+      "url": "https://ellegriffin.substack.com/p/crypto-funded-nft-novel"
+    },
+    "og_item": {
+      "title": "Completing a Creative Project",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://www.sonyasupposedly.com/content/images/2022/01/artdecoladies-1.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 2000,
+          "height": 1050,
+          "alt": ""
+        }
+      ],
+      "url": "https://www.sonyasupposedly.com/completing-a-creative-project/",
+      "audio": [],
+      "description": "My undying thanks to members for funding the following realizations 💖 Btw, click here for the PDF version that I mailed in November, if you want it for some reason. How to complete a creative project: stick with it until you're done. Gee thanks, great advice, I know. But it's true!",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Sonya Supposedly",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.png"
+      }
+    }
+  },
+  {
+    "id": 30145208,
+    "title": "The Moral Calculations of a Billionaire",
+    "url": "https://www.washingtonpost.com/nation/2022/01/30/moral-calculations-billionaire/",
+    "time": 1643610788,
+    "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PGU65MD5MMI6ZDGIW2LFMS5HSY.jpg\u0026w=1440",
+    "icon": "https://www.washingtonpost.com/wp-stat/assets/favicons/touch-icon-iphone.png",
+    "publisher": "Washington Post",
+    "description": "After the best year in history to be among the super-rich, one of America’s 745 billionaires wonders: “What’s enough? What’s the answer?”",
+    "by": "cmod",
+    "points": 5,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "rmason",
+      "descendants": 4,
+      "id": 30141784,
+      "kids": [
+        30143952,
+        30145080,
+        30144425,
+        30144133
+      ],
+      "score": 15,
+      "time": 1643581215,
+      "title": "I crowdfunded a novel using cryptocurrency",
+      "type": "story",
+      "url": "https://ellegriffin.substack.com/p/crypto-funded-nft-novel"
+    },
+    "og_item": {
+      "title": "The moral calculations of a billionaire",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PGU65MD5MMI6ZDGIW2LFMS5HSY.jpg\u0026w=1440",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://www.washingtonpost.com/nation/2022/01/30/moral-calculations-billionaire/",
+      "audio": [],
+      "description": "After the best year in history to be among the super-rich, one of America’s 745 billionaires wonders: “What’s enough? What’s the answer?”",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Washington Post",
+      "video": [],
+      "favicon": {
+        "url": "https://www.washingtonpost.com/wp-stat/assets/favicons/touch-icon-iphone.png"
+      }
+    }
+  },
+  {
     "id": 30142896,
     "title": "Decrypt an encrypted message to any plaintext",
     "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts",
@@ -3537,23 +3456,20 @@
     "points": 13,
     "comment_count": 1,
     "hn_item": {
-      "by": "camnora",
-      "descendants": 23,
-      "id": 30138468,
+      "by": "rmason",
+      "descendants": 4,
+      "id": 30141784,
       "kids": [
-        30140217,
-        30139229,
-        30138770,
-        30139945,
-        30139640,
-        30139547,
-        30140997
+        30143952,
+        30145080,
+        30144425,
+        30144133
       ],
-      "score": 102,
-      "time": 1643559712,
-      "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
+      "score": 15,
+      "time": 1643581215,
+      "title": "I crowdfunded a novel using cryptocurrency",
       "type": "story",
-      "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
+      "url": "https://ellegriffin.substack.com/p/crypto-funded-nft-novel"
     },
     "og_item": {
       "title": "Padder",
@@ -3585,23 +3501,20 @@
     "points": 15,
     "comment_count": 4,
     "hn_item": {
-      "by": "camnora",
-      "descendants": 23,
-      "id": 30138468,
+      "by": "rmason",
+      "descendants": 4,
+      "id": 30141784,
       "kids": [
-        30140217,
-        30139229,
-        30138770,
-        30139945,
-        30139640,
-        30139547,
-        30140997
+        30143952,
+        30145080,
+        30144425,
+        30144133
       ],
-      "score": 102,
-      "time": 1643559712,
-      "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
+      "score": 15,
+      "time": 1643581215,
+      "title": "I crowdfunded a novel using cryptocurrency",
       "type": "story",
-      "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
+      "url": "https://ellegriffin.substack.com/p/crypto-funded-nft-novel"
     },
     "og_item": {
       "title": "I crowdfunded a novel using cryptocurrency ",
@@ -3628,86 +3541,5 @@
         "url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/6d33229e-dadd-4d42-81b0-60daf1fbc7ef/favicon-48x48.png"
       }
     }
-  },
-  {
-    "id": 30122435,
-    "title": "DDS: Build and library management tool for C, C++",
-    "url": "https://vector-of-bool.github.io/docs/dds/index.html",
-    "time": 1643416395,
-    "image": "",
-    "icon": "https://vector-of-bool.github.io/favicon.ico",
-    "publisher": "vector-of-bool.github.io",
-    "description": "",
-    "by": "oumua_don17",
-    "points": 25,
-    "comment_count": 2,
-    "hn_item": {
-      "by": "camnora",
-      "descendants": 23,
-      "id": 30138468,
-      "kids": [
-        30140217,
-        30139229,
-        30138770,
-        30139945,
-        30139640,
-        30139547,
-        30140997
-      ],
-      "score": 102,
-      "time": 1643559712,
-      "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
-      "type": "story",
-      "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
-    },
-    "og_item": {
-      "title": "DDS — dds 0.1.0-alpha.3 documentation",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30138468,
-    "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
-    "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf",
-    "time": 1643559712,
-    "image": "",
-    "icon": "",
-    "publisher": "win.tue.nl",
-    "description": "",
-    "by": "camnora",
-    "points": 102,
-    "comment_count": 7,
-    "hn_item": {
-      "by": "camnora",
-      "descendants": 23,
-      "id": 30138468,
-      "kids": [
-        30140217,
-        30139229,
-        30138770,
-        30139945,
-        30139640,
-        30139547,
-        30140997
-      ],
-      "score": 102,
-      "time": 1643559712,
-      "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
-      "type": "story",
-      "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
-    },
-    "og_item": null
   }
 ]
