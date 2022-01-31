@@ -1,267 +1,5 @@
 [
   {
-    "id": 30147379,
-    "title": "My dishwasher won’t start until I let it update its firmware over the WiFi",
-    "url": "https://twitter.com/isislovecruft/status/1487947074901463040",
-    "time": 1643633680,
-    "image": "",
-    "icon": "https://abs.twimg.com/favicons/twitter.2.ico",
-    "publisher": "Twitter",
-    "description": "",
-    "by": "_Microft",
-    "points": 272,
-    "comment_count": 49,
-    "hn_item": {
-      "by": "doener",
-      "descendants": 27,
-      "id": 30125730,
-      "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
-      ],
-      "score": 60,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
-      "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
-    },
-    "og_item": {
-      "title": "",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Twitter",
-      "video": [],
-      "favicon": {
-        "url": "//abs.twimg.com/favicons/twitter.2.ico"
-      }
-    }
-  },
-  {
-    "id": 30146052,
-    "title": "The Awk State Machine Parser Pattern (2018)",
-    "url": "https://two-wrongs.com/awk-state-machine-parser-pattern.html",
-    "time": 1643620307,
-    "image": "",
-    "icon": "https://two-wrongs.com/favicon.ico",
-    "publisher": "two-wrongs.com",
-    "description": "",
-    "by": "Tomte",
-    "points": 116,
-    "comment_count": 8,
-    "hn_item": {
-      "by": "doener",
-      "descendants": 27,
-      "id": 30125730,
-      "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
-      ],
-      "score": 60,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
-      "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
-    },
-    "og_item": {
-      "title": "The AWK State Machine Parser Pattern",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30147507,
-    "title": "VT100 Machine Emulator in JavaScript",
-    "url": "https://www.pcjs.org/machines/dec/vt100/",
-    "time": 1643634629,
-    "image": "https://www.pcjs.org/assets/img/logo-home.png",
-    "icon": "https://www.pcjs.org/assets/icons/favicon.ico",
-    "publisher": "pcjs.org",
-    "description": "Home of the original IBM PC emulator for browsers. PCjs offers a variety of online machine emulators written in JavaScript. Run DOS, Windows, OS/2 and other vintage PC applications in a web browser on your desktop computer, iPhone, or iPad. An assortment of microcomputers, minicomputers, terminal…",
-    "by": "DiabloD3",
-    "points": 26,
-    "comment_count": 4,
-    "hn_item": {
-      "by": "doener",
-      "descendants": 27,
-      "id": 30125730,
-      "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
-      ],
-      "score": 60,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
-      "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
-    },
-    "og_item": {
-      "title": "DEC VT100 Terminal",
-      "type": "",
-      "image": [
-        {
-          "url": "https://www.pcjs.org/assets/img/logo-home.png",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "",
-      "audio": [],
-      "description": "Home of the original IBM PC emulator for browsers. PCjs offers a variety of online machine emulators written in JavaScript. Run DOS, Windows, OS/2 and other vintage PC applications in a web browser on your desktop computer, iPhone, or iPad. An assortment of microcomputers, minicomputers, terminals, programmable calculators, and arcade machines are available, along with an archive of historical software and documentation.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/assets/icons/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30147755,
-    "title": "Polar bears move into abandoned Arctic weather station",
-    "url": "https://www.theguardian.com/world/2022/jan/31/polar-bears-move-into-abandoned-arctic-weather-station-photo-essay",
-    "time": 1643636620,
-    "image": "https://i.guim.co.uk/img/media/b9c97924f2784beddc80fab14f75453d83824613/0_231_3500_2101/master/3500.jpg?width=1200\u0026height=630\u0026quality=85\u0026auto=format\u0026fit=crop\u0026overlay-align=bottom%2Cleft\u0026overlay-width=100p\u0026overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc\u0026enable=upscale\u0026s=5d8713011a3bb525f19bf8544cb15bcc",
-    "icon": "https://static.guim.co.uk/images/favicon-32x32.ico",
-    "publisher": "the Guardian",
-    "description": "Photographer Dmitry Kokh discovered polar bears living in an abandoned weather station in Kolyuchin in the Chukotka Autonomous Okrug of Russia",
-    "by": "sofixa",
-    "points": 56,
-    "comment_count": 3,
-    "hn_item": {
-      "by": "doener",
-      "descendants": 27,
-      "id": 30125730,
-      "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
-      ],
-      "score": 60,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
-      "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
-    },
-    "og_item": {
-      "title": "Polar bears move into abandoned Arctic weather station – photo essay",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://i.guim.co.uk/img/media/b9c97924f2784beddc80fab14f75453d83824613/0_231_3500_2101/master/3500.jpg?width=1200\u0026height=630\u0026quality=85\u0026auto=format\u0026fit=crop\u0026overlay-align=bottom%2Cleft\u0026overlay-width=100p\u0026overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc\u0026enable=upscale\u0026s=5d8713011a3bb525f19bf8544cb15bcc",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://www.theguardian.com/world/2022/jan/31/polar-bears-move-into-abandoned-arctic-weather-station-photo-essay",
-      "audio": [],
-      "description": "Photographer Dmitry Kokh discovered polar bears living in an abandoned weather station in Kolyuchin in the Chukotka Autonomous Okrug of Russia",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "the Guardian",
-      "video": [],
-      "favicon": {
-        "url": "https://static.guim.co.uk/images/favicon-32x32.ico"
-      }
-    }
-  },
-  {
-    "id": 30116316,
-    "title": "Mixbox: Practical Pigment Mixing for Digital Painting",
-    "url": "https://github.com/scrtwpns/pigment-mixing",
-    "time": 1643385624,
-    "image": "https://opengraph.githubassets.com/8cfd2d03f3b8a8a87fa5419c34d9256b5a06d3497ce1594e42dc3613497c3a44/scrtwpns/pigment-mixing",
-    "icon": "https://github.githubassets.com/favicons/favicon.svg",
-    "publisher": "GitHub",
-    "description": "Practical Pigment Mixing for Digital Painting. Contribute to scrtwpns/pigment-mixing development by creating an account on GitHub.",
-    "by": "maydemir",
-    "points": 20,
-    "comment_count": 5,
-    "hn_item": {
-      "by": "doener",
-      "descendants": 27,
-      "id": 30125730,
-      "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
-      ],
-      "score": 60,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
-      "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
-    },
-    "og_item": {
-      "title": "GitHub - scrtwpns/pigment-mixing: Practical Pigment Mixing for Digital Painting",
-      "type": "object",
-      "image": [
-        {
-          "url": "https://opengraph.githubassets.com/8cfd2d03f3b8a8a87fa5419c34d9256b5a06d3497ce1594e42dc3613497c3a44/scrtwpns/pigment-mixing",
-          "secure_url": "",
-          "type": "",
-          "width": 1200,
-          "height": 600,
-          "alt": ""
-        }
-      ],
-      "url": "https://github.com/scrtwpns/pigment-mixing",
-      "audio": [],
-      "description": "Practical Pigment Mixing for Digital Painting. Contribute to scrtwpns/pigment-mixing development by creating an account on GitHub.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "GitHub",
-      "video": [],
-      "favicon": {
-        "url": "https://github.githubassets.com/favicons/favicon.svg"
-      }
-    }
-  },
-  {
     "id": 30148547,
     "title": "Non-Tesla Supercharger Pilot",
     "url": "https://www.tesla.com/support/non-tesla-supercharging",
@@ -271,25 +9,23 @@
     "publisher": "tesla.com",
     "description": "Launched in November 2021, our Non-Tesla Supercharger pilot will continue to expand to new sites and countries in support of our mission to accelerate the world’s transition to sustainable energy.",
     "by": "punnerud",
-    "points": 9,
-    "comment_count": 3,
+    "points": 16,
+    "comment_count": 5,
     "hn_item": {
-      "by": "doener",
-      "descendants": 27,
-      "id": 30125730,
+      "by": "mupuff1234",
+      "descendants": 4,
+      "id": 30147159,
       "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
+        30147549,
+        30147505,
+        30147188,
+        30147463
       ],
-      "score": 60,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
+      "score": 8,
+      "time": 1643631642,
+      "title": "How Facebook Is Morphing into Meta",
       "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+      "url": "https://www.nytimes.com/2022/01/31/technology/facebook-meta-change.html"
     },
     "og_item": {
       "title": "Non-Tesla Supercharger Pilot",
@@ -318,6 +54,366 @@
     }
   },
   {
+    "id": 30147379,
+    "title": "My dishwasher won’t start until I let it update its firmware over the WiFi",
+    "url": "https://twitter.com/isislovecruft/status/1487947074901463040",
+    "time": 1643633680,
+    "image": "",
+    "icon": "https://abs.twimg.com/favicons/twitter.2.ico",
+    "publisher": "Twitter",
+    "description": "",
+    "by": "_Microft",
+    "points": 283,
+    "comment_count": 51,
+    "hn_item": {
+      "by": "mupuff1234",
+      "descendants": 4,
+      "id": 30147159,
+      "kids": [
+        30147549,
+        30147505,
+        30147188,
+        30147463
+      ],
+      "score": 8,
+      "time": 1643631642,
+      "title": "How Facebook Is Morphing into Meta",
+      "type": "story",
+      "url": "https://www.nytimes.com/2022/01/31/technology/facebook-meta-change.html"
+    },
+    "og_item": {
+      "title": "",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Twitter",
+      "video": [],
+      "favicon": {
+        "url": "//abs.twimg.com/favicons/twitter.2.ico"
+      }
+    }
+  },
+  {
+    "id": 30146052,
+    "title": "The Awk State Machine Parser Pattern (2018)",
+    "url": "https://two-wrongs.com/awk-state-machine-parser-pattern.html",
+    "time": 1643620307,
+    "image": "",
+    "icon": "https://two-wrongs.com/favicon.ico",
+    "publisher": "two-wrongs.com",
+    "description": "",
+    "by": "Tomte",
+    "points": 118,
+    "comment_count": 9,
+    "hn_item": {
+      "by": "mupuff1234",
+      "descendants": 4,
+      "id": 30147159,
+      "kids": [
+        30147549,
+        30147505,
+        30147188,
+        30147463
+      ],
+      "score": 8,
+      "time": 1643631642,
+      "title": "How Facebook Is Morphing into Meta",
+      "type": "story",
+      "url": "https://www.nytimes.com/2022/01/31/technology/facebook-meta-change.html"
+    },
+    "og_item": {
+      "title": "The AWK State Machine Parser Pattern",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30147507,
+    "title": "VT100 Machine Emulator in JavaScript",
+    "url": "https://www.pcjs.org/machines/dec/vt100/",
+    "time": 1643634629,
+    "image": "https://www.pcjs.org/assets/img/logo-home.png",
+    "icon": "https://www.pcjs.org/assets/icons/favicon.ico",
+    "publisher": "pcjs.org",
+    "description": "Home of the original IBM PC emulator for browsers. PCjs offers a variety of online machine emulators written in JavaScript. Run DOS, Windows, OS/2 and other vintage PC applications in a web browser on your desktop computer, iPhone, or iPad. An assortment of microcomputers, minicomputers, terminal…",
+    "by": "DiabloD3",
+    "points": 28,
+    "comment_count": 4,
+    "hn_item": {
+      "by": "mupuff1234",
+      "descendants": 4,
+      "id": 30147159,
+      "kids": [
+        30147549,
+        30147505,
+        30147188,
+        30147463
+      ],
+      "score": 8,
+      "time": 1643631642,
+      "title": "How Facebook Is Morphing into Meta",
+      "type": "story",
+      "url": "https://www.nytimes.com/2022/01/31/technology/facebook-meta-change.html"
+    },
+    "og_item": {
+      "title": "DEC VT100 Terminal",
+      "type": "",
+      "image": [
+        {
+          "url": "https://www.pcjs.org/assets/img/logo-home.png",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "",
+      "audio": [],
+      "description": "Home of the original IBM PC emulator for browsers. PCjs offers a variety of online machine emulators written in JavaScript. Run DOS, Windows, OS/2 and other vintage PC applications in a web browser on your desktop computer, iPhone, or iPad. An assortment of microcomputers, minicomputers, terminals, programmable calculators, and arcade machines are available, along with an archive of historical software and documentation.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/assets/icons/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30116316,
+    "title": "Mixbox: Practical Pigment Mixing for Digital Painting",
+    "url": "https://github.com/scrtwpns/pigment-mixing",
+    "time": 1643385624,
+    "image": "https://opengraph.githubassets.com/589224a274cdc9c7bf0e130d7faa386e233bd91ec38ae0e2f6fe049158040d91/scrtwpns/pigment-mixing",
+    "icon": "https://github.githubassets.com/favicons/favicon.svg",
+    "publisher": "GitHub",
+    "description": "Practical Pigment Mixing for Digital Painting. Contribute to scrtwpns/pigment-mixing development by creating an account on GitHub.",
+    "by": "maydemir",
+    "points": 23,
+    "comment_count": 5,
+    "hn_item": {
+      "by": "mupuff1234",
+      "descendants": 4,
+      "id": 30147159,
+      "kids": [
+        30147549,
+        30147505,
+        30147188,
+        30147463
+      ],
+      "score": 8,
+      "time": 1643631642,
+      "title": "How Facebook Is Morphing into Meta",
+      "type": "story",
+      "url": "https://www.nytimes.com/2022/01/31/technology/facebook-meta-change.html"
+    },
+    "og_item": {
+      "title": "GitHub - scrtwpns/pigment-mixing: Practical Pigment Mixing for Digital Painting",
+      "type": "object",
+      "image": [
+        {
+          "url": "https://opengraph.githubassets.com/589224a274cdc9c7bf0e130d7faa386e233bd91ec38ae0e2f6fe049158040d91/scrtwpns/pigment-mixing",
+          "secure_url": "",
+          "type": "",
+          "width": 1200,
+          "height": 600,
+          "alt": ""
+        }
+      ],
+      "url": "https://github.com/scrtwpns/pigment-mixing",
+      "audio": [],
+      "description": "Practical Pigment Mixing for Digital Painting. Contribute to scrtwpns/pigment-mixing development by creating an account on GitHub.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "GitHub",
+      "video": [],
+      "favicon": {
+        "url": "https://github.githubassets.com/favicons/favicon.svg"
+      }
+    }
+  },
+  {
+    "id": 30147755,
+    "title": "Polar bears move into abandoned Arctic weather station",
+    "url": "https://www.theguardian.com/world/2022/jan/31/polar-bears-move-into-abandoned-arctic-weather-station-photo-essay",
+    "time": 1643636620,
+    "image": "https://i.guim.co.uk/img/media/b9c97924f2784beddc80fab14f75453d83824613/0_231_3500_2101/master/3500.jpg?width=1200\u0026height=630\u0026quality=85\u0026auto=format\u0026fit=crop\u0026overlay-align=bottom%2Cleft\u0026overlay-width=100p\u0026overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc\u0026enable=upscale\u0026s=5d8713011a3bb525f19bf8544cb15bcc",
+    "icon": "https://static.guim.co.uk/images/favicon-32x32.ico",
+    "publisher": "the Guardian",
+    "description": "Photographer Dmitry Kokh discovered polar bears living in an abandoned weather station in Kolyuchin in the Chukotka Autonomous Okrug of Russia",
+    "by": "sofixa",
+    "points": 59,
+    "comment_count": 4,
+    "hn_item": {
+      "by": "mupuff1234",
+      "descendants": 4,
+      "id": 30147159,
+      "kids": [
+        30147549,
+        30147505,
+        30147188,
+        30147463
+      ],
+      "score": 8,
+      "time": 1643631642,
+      "title": "How Facebook Is Morphing into Meta",
+      "type": "story",
+      "url": "https://www.nytimes.com/2022/01/31/technology/facebook-meta-change.html"
+    },
+    "og_item": {
+      "title": "Polar bears move into abandoned Arctic weather station – photo essay",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://i.guim.co.uk/img/media/b9c97924f2784beddc80fab14f75453d83824613/0_231_3500_2101/master/3500.jpg?width=1200\u0026height=630\u0026quality=85\u0026auto=format\u0026fit=crop\u0026overlay-align=bottom%2Cleft\u0026overlay-width=100p\u0026overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc\u0026enable=upscale\u0026s=5d8713011a3bb525f19bf8544cb15bcc",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://www.theguardian.com/world/2022/jan/31/polar-bears-move-into-abandoned-arctic-weather-station-photo-essay",
+      "audio": [],
+      "description": "Photographer Dmitry Kokh discovered polar bears living in an abandoned weather station in Kolyuchin in the Chukotka Autonomous Okrug of Russia",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "the Guardian",
+      "video": [],
+      "favicon": {
+        "url": "https://static.guim.co.uk/images/favicon-32x32.ico"
+      }
+    }
+  },
+  {
+    "id": 30136479,
+    "title": "Socrates on the blessing of being refuted",
+    "url": "https://antigonejournal.com/2022/01/socrates-being-refuted/",
+    "time": 1643545027,
+    "image": "https://antigonejournal.com/wp-content/uploads/2022/01/HWDrops.png",
+    "icon": "https://i0.wp.com/antigonejournal.com/wp-content/uploads/2021/03/cropped-Ant.png?fit=192%2C192\u0026ssl=1",
+    "publisher": "Antigone",
+    "description": "ANDREW BEER The genuine pleasure of yielding to better arguments.",
+    "by": "AverilS",
+    "points": 23,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "mupuff1234",
+      "descendants": 4,
+      "id": 30147159,
+      "kids": [
+        30147549,
+        30147505,
+        30147188,
+        30147463
+      ],
+      "score": 8,
+      "time": 1643631642,
+      "title": "How Facebook Is Morphing into Meta",
+      "type": "story",
+      "url": "https://www.nytimes.com/2022/01/31/technology/facebook-meta-change.html"
+    },
+    "og_item": {
+      "title": "Socrates on the Blessing of Being Refuted - Antigone",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://antigonejournal.com/wp-content/uploads/2022/01/HWDrops.png",
+          "secure_url": "",
+          "type": "",
+          "width": 1049,
+          "height": 539,
+          "alt": ""
+        }
+      ],
+      "url": "https://antigonejournal.com/2022/01/socrates-being-refuted/",
+      "audio": [],
+      "description": "ANDREW BEER The genuine pleasure of yielding to better arguments.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Antigone",
+      "video": [],
+      "favicon": {
+        "url": "https://i0.wp.com/antigonejournal.com/wp-content/uploads/2021/03/cropped-Ant.png?fit=192%2C192\u0026ssl=1"
+      }
+    }
+  },
+  {
+    "id": 30147213,
+    "title": "Textual adds support for Windows (Python package for TUIs)",
+    "url": "https://www.willmcgugan.com/blog/tech/post/textual-for-windows/",
+    "time": 1643632067,
+    "image": "https://media.moyaproject.com/willmcgugan/uploads/thumbnails/techblog/9f8c0466-8285-11ec-97a9-f23c91845b44.png/9f8c0466-8285-11ec-97a9-f23c91845b44png.og.preview.2.jpeg",
+    "icon": "https://www.willmcgugan.com/favicon.ico",
+    "publisher": "Will McGugan Tech",
+    "description": "Textual adds Windows support I've just released v0.1.15 of Textual, with Windows support. The Windows support is somewhat experimental, but so far seems solid. You will get best results on the new Windows Terminal. On the classic command prompt you might find a reduced color palette. This works o…",
+    "by": "RojerGS",
+    "points": 24,
+    "comment_count": 1,
+    "hn_item": {
+      "by": "mupuff1234",
+      "descendants": 4,
+      "id": 30147159,
+      "kids": [
+        30147549,
+        30147505,
+        30147188,
+        30147463
+      ],
+      "score": 8,
+      "time": 1643631642,
+      "title": "How Facebook Is Morphing into Meta",
+      "type": "story",
+      "url": "https://www.nytimes.com/2022/01/31/technology/facebook-meta-change.html"
+    },
+    "og_item": {
+      "title": "Textual for Windows",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://media.moyaproject.com/willmcgugan/uploads/thumbnails/techblog/9f8c0466-8285-11ec-97a9-f23c91845b44.png/9f8c0466-8285-11ec-97a9-f23c91845b44png.og.preview.2.jpeg",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://www.willmcgugan.com/blog/tech/post/textual-for-windows/",
+      "audio": [],
+      "description": "Textual adds Windows support I've just released v0.1.15 of Textual, with Windows support. The Windows support is somewhat experimental, but so far seems solid. You will get best results on the new Windows Terminal. On the classic command prompt you might find a reduced color palette. This works on […]",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Will McGugan Tech",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30144805,
     "title": "Examples of common false beliefs in mathematics",
     "url": "https://mathoverflow.net/questions/23478/examples-of-common-false-beliefs-in-mathematics",
@@ -327,25 +423,23 @@
     "publisher": "MathOverflow",
     "description": "The first thing to say is that this is not the same as the question about interesting mathematical mistakes. I am interested about the type of false beliefs that many intelligent people have while ...",
     "by": "gballan",
-    "points": 176,
-    "comment_count": 10,
+    "points": 178,
+    "comment_count": 11,
     "hn_item": {
-      "by": "doener",
-      "descendants": 27,
-      "id": 30125730,
+      "by": "mupuff1234",
+      "descendants": 4,
+      "id": 30147159,
       "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
+        30147549,
+        30147505,
+        30147188,
+        30147463
       ],
-      "score": 60,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
+      "score": 8,
+      "time": 1643631642,
+      "title": "How Facebook Is Morphing into Meta",
       "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+      "url": "https://www.nytimes.com/2022/01/31/technology/facebook-meta-change.html"
     },
     "og_item": {
       "title": "Examples of common false beliefs in mathematics",
@@ -386,22 +480,20 @@
     "points": 190,
     "comment_count": 6,
     "hn_item": {
-      "by": "doener",
-      "descendants": 27,
-      "id": 30125730,
+      "by": "mupuff1234",
+      "descendants": 4,
+      "id": 30147159,
       "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
+        30147549,
+        30147505,
+        30147188,
+        30147463
       ],
-      "score": 60,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
+      "score": 8,
+      "time": 1643631642,
+      "title": "How Facebook Is Morphing into Meta",
       "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+      "url": "https://www.nytimes.com/2022/01/31/technology/facebook-meta-change.html"
     },
     "og_item": {
       "title": "Zero-copy network transmission with io_uring [LWN.net]",
@@ -421,62 +513,6 @@
     }
   },
   {
-    "id": 30147213,
-    "title": "Textual adds support for Windows (Python package for TUIs)",
-    "url": "https://www.willmcgugan.com/blog/tech/post/textual-for-windows/",
-    "time": 1643632067,
-    "image": "https://media.moyaproject.com/willmcgugan/uploads/thumbnails/techblog/9f8c0466-8285-11ec-97a9-f23c91845b44.png/9f8c0466-8285-11ec-97a9-f23c91845b44png.og.preview.2.jpeg",
-    "icon": "https://www.willmcgugan.com/favicon.ico",
-    "publisher": "Will McGugan Tech",
-    "description": "Textual adds Windows support I've just released v0.1.15 of Textual, with Windows support. The Windows support is somewhat experimental, but so far seems solid. You will get best results on the new Windows Terminal. On the classic command prompt you might find a reduced color palette. This works o…",
-    "by": "RojerGS",
-    "points": 22,
-    "comment_count": 1,
-    "hn_item": {
-      "by": "doener",
-      "descendants": 27,
-      "id": 30125730,
-      "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
-      ],
-      "score": 60,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
-      "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
-    },
-    "og_item": {
-      "title": "Textual for Windows",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://media.moyaproject.com/willmcgugan/uploads/thumbnails/techblog/9f8c0466-8285-11ec-97a9-f23c91845b44.png/9f8c0466-8285-11ec-97a9-f23c91845b44png.og.preview.2.jpeg",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://www.willmcgugan.com/blog/tech/post/textual-for-windows/",
-      "audio": [],
-      "description": "Textual adds Windows support I've just released v0.1.15 of Textual, with Windows support. The Windows support is somewhat experimental, but so far seems solid. You will get best results on the new Windows Terminal. On the classic command prompt you might find a reduced color palette. This works on […]",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Will McGugan Tech",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30114822,
     "title": "Async Rust: Panics vs. Cancellation",
     "url": "https://smallcultfollowing.com/babysteps//blog/2022/01/27/panics-vs-cancellation-part-1/",
@@ -489,22 +525,20 @@
     "points": 90,
     "comment_count": 4,
     "hn_item": {
-      "by": "doener",
-      "descendants": 27,
-      "id": 30125730,
+      "by": "mupuff1234",
+      "descendants": 4,
+      "id": 30147159,
       "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
+        30147549,
+        30147505,
+        30147188,
+        30147463
       ],
-      "score": 60,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
+      "score": 8,
+      "time": 1643631642,
+      "title": "How Facebook Is Morphing into Meta",
       "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+      "url": "https://www.nytimes.com/2022/01/31/technology/facebook-meta-change.html"
     },
     "og_item": {
       "title": "Baby Steps",
@@ -524,62 +558,6 @@
     }
   },
   {
-    "id": 30147878,
-    "title": "Driverless cars won’t be good for the environment if they lead to more auto use",
-    "url": "https://theconversation.com/driverless-cars-wont-be-good-for-the-environment-if-they-lead-to-more-auto-use-173819",
-    "time": 1643637350,
-    "image": "https://images.theconversation.com/files/442036/original/file-20220121-15-vbuwo5.jpg?ixlib=rb-1.1.0\u0026rect=49%2C523%2C5464%2C2732\u0026q=45\u0026auto=format\u0026w=1356\u0026h=668\u0026fit=crop",
-    "icon": "https://cdn.theconversation.com/static/tc/@theconversation/ui/dist/esm/logos/favicon-ae7bd7a3096e6cda828b4576fa9b32c6.ico",
-    "publisher": "The Conversation",
-    "description": "Studies show that when people can ride in a car without having to operate it, they increase their car use. That could increase traffic and pollution, unless government puts a price on car travel.",
-    "by": "CapitalistCartr",
-    "points": 43,
-    "comment_count": 8,
-    "hn_item": {
-      "by": "doener",
-      "descendants": 27,
-      "id": 30125730,
-      "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
-      ],
-      "score": 60,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
-      "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
-    },
-    "og_item": {
-      "title": "Driverless cars won't be good for the environment if they lead to more auto use",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://images.theconversation.com/files/442036/original/file-20220121-15-vbuwo5.jpg?ixlib=rb-1.1.0\u0026rect=49%2C523%2C5464%2C2732\u0026q=45\u0026auto=format\u0026w=1356\u0026h=668\u0026fit=crop",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "http://theconversation.com/driverless-cars-wont-be-good-for-the-environment-if-they-lead-to-more-auto-use-173819",
-      "audio": [],
-      "description": "Studies show that when people can ride in a car without having to operate it, they increase their car use. That could increase traffic and pollution, unless government puts a price on car travel.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "The Conversation",
-      "video": [],
-      "favicon": {
-        "url": "https://cdn.theconversation.com/static/tc/@theconversation/ui/dist/esm/logos/favicon-ae7bd7a3096e6cda828b4576fa9b32c6.ico"
-      }
-    }
-  },
-  {
     "id": 30124457,
     "title": "Chip shortages due to lack of investment in right fabs",
     "url": "https://www.theregister.com/2022/01/28/idc_chip_shortages/",
@@ -589,25 +567,23 @@
     "publisher": "theregister.com",
     "description": "",
     "by": "laktak",
-    "points": 170,
+    "points": 171,
     "comment_count": 12,
     "hn_item": {
-      "by": "doener",
-      "descendants": 27,
-      "id": 30125730,
+      "by": "mupuff1234",
+      "descendants": 4,
+      "id": 30147159,
       "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
+        30147549,
+        30147505,
+        30147188,
+        30147463
       ],
-      "score": 60,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
+      "score": 8,
+      "time": 1643631642,
+      "title": "How Facebook Is Morphing into Meta",
       "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+      "url": "https://www.nytimes.com/2022/01/31/technology/facebook-meta-change.html"
     },
     "og_item": {
       "title": "",
@@ -639,22 +615,20 @@
     "points": 1,
     "comment_count": 0,
     "hn_item": {
-      "by": "doener",
-      "descendants": 27,
-      "id": 30125730,
+      "by": "mupuff1234",
+      "descendants": 4,
+      "id": 30147159,
       "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
+        30147549,
+        30147505,
+        30147188,
+        30147463
       ],
-      "score": 60,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
+      "score": 8,
+      "time": 1643631642,
+      "title": "How Facebook Is Morphing into Meta",
       "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+      "url": "https://www.nytimes.com/2022/01/31/technology/facebook-meta-change.html"
     },
     "og_item": {
       "title": "Software Engineer",
@@ -693,24 +667,22 @@
     "description": "Why startups should hire conscientious people—and how to find them",
     "by": "rognjen",
     "points": 27,
-    "comment_count": 10,
+    "comment_count": 11,
     "hn_item": {
-      "by": "doener",
-      "descendants": 27,
-      "id": 30125730,
+      "by": "mupuff1234",
+      "descendants": 4,
+      "id": 30147159,
       "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
+        30147549,
+        30147505,
+        30147188,
+        30147463
       ],
-      "score": 60,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
+      "score": 8,
+      "time": 1643631642,
+      "title": "How Facebook Is Morphing into Meta",
       "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+      "url": "https://www.nytimes.com/2022/01/31/technology/facebook-meta-change.html"
     },
     "og_item": {
       "title": "Hiring for Conscientiousness — Holloway",
@@ -739,6 +711,60 @@
     }
   },
   {
+    "id": 30147878,
+    "title": "Driverless cars won’t be good for the environment if they lead to more auto use",
+    "url": "https://theconversation.com/driverless-cars-wont-be-good-for-the-environment-if-they-lead-to-more-auto-use-173819",
+    "time": 1643637350,
+    "image": "https://images.theconversation.com/files/442036/original/file-20220121-15-vbuwo5.jpg?ixlib=rb-1.1.0\u0026rect=49%2C523%2C5464%2C2732\u0026q=45\u0026auto=format\u0026w=1356\u0026h=668\u0026fit=crop",
+    "icon": "https://cdn.theconversation.com/static/tc/@theconversation/ui/dist/esm/logos/favicon-ae7bd7a3096e6cda828b4576fa9b32c6.ico",
+    "publisher": "The Conversation",
+    "description": "Studies show that when people can ride in a car without having to operate it, they increase their car use. That could increase traffic and pollution, unless government puts a price on car travel.",
+    "by": "CapitalistCartr",
+    "points": 48,
+    "comment_count": 10,
+    "hn_item": {
+      "by": "mupuff1234",
+      "descendants": 4,
+      "id": 30147159,
+      "kids": [
+        30147549,
+        30147505,
+        30147188,
+        30147463
+      ],
+      "score": 8,
+      "time": 1643631642,
+      "title": "How Facebook Is Morphing into Meta",
+      "type": "story",
+      "url": "https://www.nytimes.com/2022/01/31/technology/facebook-meta-change.html"
+    },
+    "og_item": {
+      "title": "Driverless cars won't be good for the environment if they lead to more auto use",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://images.theconversation.com/files/442036/original/file-20220121-15-vbuwo5.jpg?ixlib=rb-1.1.0\u0026rect=49%2C523%2C5464%2C2732\u0026q=45\u0026auto=format\u0026w=1356\u0026h=668\u0026fit=crop",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "http://theconversation.com/driverless-cars-wont-be-good-for-the-environment-if-they-lead-to-more-auto-use-173819",
+      "audio": [],
+      "description": "Studies show that when people can ride in a car without having to operate it, they increase their car use. That could increase traffic and pollution, unless government puts a price on car travel.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "The Conversation",
+      "video": [],
+      "favicon": {
+        "url": "https://cdn.theconversation.com/static/tc/@theconversation/ui/dist/esm/logos/favicon-ae7bd7a3096e6cda828b4576fa9b32c6.ico"
+      }
+    }
+  },
+  {
     "id": 30144021,
     "title": "How I Discovered Thousands of Open Databases on AWS",
     "url": "https://infosecwriteups.com/how-i-discovered-thousands-of-open-databases-on-aws-764729aa7f32?gi=ba781482d685",
@@ -748,25 +774,23 @@
     "publisher": "Medium",
     "description": "My journey on finding and reporting databases with sensitive data about Fortune-500 companies, Hospitals, Crypto platforms, Startups during…",
     "by": "boyter",
-    "points": 228,
+    "points": 229,
     "comment_count": 14,
     "hn_item": {
-      "by": "doener",
-      "descendants": 27,
-      "id": 30125730,
+      "by": "mupuff1234",
+      "descendants": 4,
+      "id": 30147159,
       "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
+        30147549,
+        30147505,
+        30147188,
+        30147463
       ],
-      "score": 60,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
+      "score": 8,
+      "time": 1643631642,
+      "title": "How Facebook Is Morphing into Meta",
       "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+      "url": "https://www.nytimes.com/2022/01/31/technology/facebook-meta-change.html"
     },
     "og_item": {
       "title": "How I Discovered Thousands of Open Databases on AWS",
@@ -795,62 +819,6 @@
     }
   },
   {
-    "id": 30136479,
-    "title": "Socrates on the blessing of being refuted",
-    "url": "https://antigonejournal.com/2022/01/socrates-being-refuted/",
-    "time": 1643545027,
-    "image": "https://antigonejournal.com/wp-content/uploads/2022/01/HWDrops.png",
-    "icon": "https://i0.wp.com/antigonejournal.com/wp-content/uploads/2021/03/cropped-Ant.png?fit=192%2C192\u0026ssl=1",
-    "publisher": "Antigone",
-    "description": "ANDREW BEER The genuine pleasure of yielding to better arguments.",
-    "by": "AverilS",
-    "points": 18,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "doener",
-      "descendants": 27,
-      "id": 30125730,
-      "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
-      ],
-      "score": 60,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
-      "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
-    },
-    "og_item": {
-      "title": "Socrates on the Blessing of Being Refuted - Antigone",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://antigonejournal.com/wp-content/uploads/2022/01/HWDrops.png",
-          "secure_url": "",
-          "type": "",
-          "width": 1049,
-          "height": 539,
-          "alt": ""
-        }
-      ],
-      "url": "https://antigonejournal.com/2022/01/socrates-being-refuted/",
-      "audio": [],
-      "description": "ANDREW BEER The genuine pleasure of yielding to better arguments.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Antigone",
-      "video": [],
-      "favicon": {
-        "url": "https://i0.wp.com/antigonejournal.com/wp-content/uploads/2021/03/cropped-Ant.png?fit=192%2C192\u0026ssl=1"
-      }
-    }
-  },
-  {
     "id": 30131926,
     "title": "What is the inverse of a circle?",
     "url": "https://mattferraro.dev/posts/inverse-of-a-circle",
@@ -860,25 +828,23 @@
     "publisher": "mattferraro.dev",
     "description": "What does it mean to invert a shape?",
     "by": "mferraro89",
-    "points": 162,
+    "points": 164,
     "comment_count": 14,
     "hn_item": {
-      "by": "doener",
-      "descendants": 27,
-      "id": 30125730,
+      "by": "mupuff1234",
+      "descendants": 4,
+      "id": 30147159,
       "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
+        30147549,
+        30147505,
+        30147188,
+        30147463
       ],
-      "score": 60,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
+      "score": 8,
+      "time": 1643631642,
+      "title": "How Facebook Is Morphing into Meta",
       "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+      "url": "https://www.nytimes.com/2022/01/31/technology/facebook-meta-change.html"
     },
     "og_item": {
       "title": "What is the Inverse of a Circle?",
@@ -916,25 +882,23 @@
     "publisher": "GitHub",
     "description": "A light based alert system. Contribute to jscd/Boyfriend-Alert development by creating an account on GitHub.",
     "by": "rgun",
-    "points": 164,
+    "points": 166,
     "comment_count": 34,
     "hn_item": {
-      "by": "doener",
-      "descendants": 27,
-      "id": 30125730,
+      "by": "mupuff1234",
+      "descendants": 4,
+      "id": 30147159,
       "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
+        30147549,
+        30147505,
+        30147188,
+        30147463
       ],
-      "score": 60,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
+      "score": 8,
+      "time": 1643631642,
+      "title": "How Facebook Is Morphing into Meta",
       "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+      "url": "https://www.nytimes.com/2022/01/31/technology/facebook-meta-change.html"
     },
     "og_item": {
       "title": "GitHub - jscd/Boyfriend-Alert: A light based alert system",
@@ -972,83 +936,25 @@
     "publisher": "blog.thomaspuppe.de",
     "description": "",
     "by": "indigodaddy",
-    "points": 80,
+    "points": 81,
     "comment_count": 10,
     "hn_item": {
-      "by": "doener",
-      "descendants": 27,
-      "id": 30125730,
+      "by": "mupuff1234",
+      "descendants": 4,
+      "id": 30147159,
       "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
+        30147549,
+        30147505,
+        30147188,
+        30147463
       ],
-      "score": 60,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
+      "score": 8,
+      "time": 1643631642,
+      "title": "How Facebook Is Morphing into Meta",
       "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+      "url": "https://www.nytimes.com/2022/01/31/technology/facebook-meta-change.html"
     },
     "og_item": null
-  },
-  {
-    "id": 30144108,
-    "title": "Reimagining Chess with AlphaZero",
-    "url": "https://cacm.acm.org/magazines/2022/2/258230-reimagining-chess-with-alphazero/fulltext",
-    "time": 1643599537,
-    "image": "https://cacm.acm.org/system/assets/0004/2100/012022_CACMpg1_Reimagining-Chess1.large.jpg?1642700035\u00261642700035",
-    "icon": "https://cacm.acm.org/favicon.ico",
-    "publisher": "cacm.acm.org",
-    "description": "AI is driving the next evolution of chess, giving players a glimpse into the game\u0026#39;s future.",
-    "by": "joak",
-    "points": 130,
-    "comment_count": 17,
-    "hn_item": {
-      "by": "doener",
-      "descendants": 27,
-      "id": 30125730,
-      "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
-      ],
-      "score": 60,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
-      "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
-    },
-    "og_item": {
-      "title": "Reimagining Chess with AlphaZero",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://cacm.acm.org/system/assets/0004/2100/012022_CACMpg1_Reimagining-Chess1.large.jpg?1642700035\u00261642700035",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://cacm.acm.org/magazines/2022/2/258230-reimagining-chess-with-alphazero/fulltext",
-      "audio": [],
-      "description": "AI is driving the next evolution of chess, giving players a glimpse into the game\u0026#39;s future.\n",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
   },
   {
     "id": 30147547,
@@ -1060,25 +966,23 @@
     "publisher": "Ars Technica",
     "description": "Slow ARM CPU almost single-handedly derails an intriguing laptop experiment.",
     "by": "leephillips",
-    "points": 40,
+    "points": 43,
     "comment_count": 5,
     "hn_item": {
-      "by": "doener",
-      "descendants": 27,
-      "id": 30125730,
+      "by": "mupuff1234",
+      "descendants": 4,
+      "id": 30147159,
       "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
+        30147549,
+        30147505,
+        30147188,
+        30147463
       ],
-      "score": 60,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
+      "score": 8,
+      "time": 1643631642,
+      "title": "How Facebook Is Morphing into Meta",
       "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+      "url": "https://www.nytimes.com/2022/01/31/technology/facebook-meta-change.html"
     },
     "og_item": {
       "title": "Review: MNT Reform laptop has fully open hardware and software—for better or worse",
@@ -1107,6 +1011,60 @@
     }
   },
   {
+    "id": 30144108,
+    "title": "Reimagining Chess with AlphaZero",
+    "url": "https://cacm.acm.org/magazines/2022/2/258230-reimagining-chess-with-alphazero/fulltext",
+    "time": 1643599537,
+    "image": "https://cacm.acm.org/system/assets/0004/2100/012022_CACMpg1_Reimagining-Chess1.large.jpg?1642700035\u00261642700035",
+    "icon": "https://cacm.acm.org/favicon.ico",
+    "publisher": "cacm.acm.org",
+    "description": "AI is driving the next evolution of chess, giving players a glimpse into the game\u0026#39;s future.",
+    "by": "joak",
+    "points": 130,
+    "comment_count": 17,
+    "hn_item": {
+      "by": "mupuff1234",
+      "descendants": 4,
+      "id": 30147159,
+      "kids": [
+        30147549,
+        30147505,
+        30147188,
+        30147463
+      ],
+      "score": 8,
+      "time": 1643631642,
+      "title": "How Facebook Is Morphing into Meta",
+      "type": "story",
+      "url": "https://www.nytimes.com/2022/01/31/technology/facebook-meta-change.html"
+    },
+    "og_item": {
+      "title": "Reimagining Chess with AlphaZero",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://cacm.acm.org/system/assets/0004/2100/012022_CACMpg1_Reimagining-Chess1.large.jpg?1642700035\u00261642700035",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://cacm.acm.org/magazines/2022/2/258230-reimagining-chess-with-alphazero/fulltext",
+      "audio": [],
+      "description": "AI is driving the next evolution of chess, giving players a glimpse into the game\u0026#39;s future.\n",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30146042,
     "title": "Finnish diplomats’ phones infected with NSO Group Pegasus spyware",
     "url": "https://www.bleepingcomputer.com/news/security/finnish-diplomats-phones-infected-with-nso-group-pegasus-spyware/",
@@ -1116,25 +1074,23 @@
     "publisher": "bleepingcomputer.com",
     "description": "",
     "by": "beermonster",
-    "points": 144,
+    "points": 149,
     "comment_count": 9,
     "hn_item": {
-      "by": "doener",
-      "descendants": 27,
-      "id": 30125730,
+      "by": "mupuff1234",
+      "descendants": 4,
+      "id": 30147159,
       "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
+        30147549,
+        30147505,
+        30147188,
+        30147463
       ],
-      "score": 60,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
+      "score": 8,
+      "time": 1643631642,
+      "title": "How Facebook Is Morphing into Meta",
       "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+      "url": "https://www.nytimes.com/2022/01/31/technology/facebook-meta-change.html"
     },
     "og_item": {
       "title": "Just a moment...",
@@ -1163,25 +1119,23 @@
     "publisher": "EL PAÍS English Edition",
     "description": "Doctors in Belgium explain how they saved a bomb attack victim who had been struggling with one of the most virulent bacterial pathogens in the world",
     "by": "belter",
-    "points": 116,
+    "points": 119,
     "comment_count": 12,
     "hn_item": {
-      "by": "doener",
-      "descendants": 27,
-      "id": 30125730,
+      "by": "mupuff1234",
+      "descendants": 4,
+      "id": 30147159,
       "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
+        30147549,
+        30147505,
+        30147188,
+        30147463
       ],
-      "score": 60,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
+      "score": 8,
+      "time": 1643631642,
+      "title": "How Facebook Is Morphing into Meta",
       "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+      "url": "https://www.nytimes.com/2022/01/31/technology/facebook-meta-change.html"
     },
     "og_item": {
       "title": "How a virus helped a woman survive a dangerous antibiotic-resistant infection",
@@ -1219,25 +1173,23 @@
     "publisher": "zillow.com",
     "description": "",
     "by": "otras",
-    "points": 325,
+    "points": 326,
     "comment_count": 40,
     "hn_item": {
-      "by": "doener",
-      "descendants": 27,
-      "id": 30125730,
+      "by": "mupuff1234",
+      "descendants": 4,
+      "id": 30147159,
       "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
+        30147549,
+        30147505,
+        30147188,
+        30147463
       ],
-      "score": 60,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
+      "score": 8,
+      "time": 1643631642,
+      "title": "How Facebook Is Morphing into Meta",
       "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+      "url": "https://www.nytimes.com/2022/01/31/technology/facebook-meta-change.html"
     },
     "og_item": {
       "title": "",
@@ -1266,25 +1218,23 @@
     "publisher": "National Review",
     "description": "Out of public view, the state-owned broadcaster has been altering old episodes of its shows to make them ‘suitable’ for modern listeners.",
     "by": "temp8964",
-    "points": 64,
-    "comment_count": 12,
+    "points": 66,
+    "comment_count": 15,
     "hn_item": {
-      "by": "doener",
-      "descendants": 27,
-      "id": 30125730,
+      "by": "mupuff1234",
+      "descendants": 4,
+      "id": 30147159,
       "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
+        30147549,
+        30147505,
+        30147188,
+        30147463
       ],
-      "score": 60,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
+      "score": 8,
+      "time": 1643631642,
+      "title": "How Facebook Is Morphing into Meta",
       "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+      "url": "https://www.nytimes.com/2022/01/31/technology/facebook-meta-change.html"
     },
     "og_item": {
       "title": "The BBC Quietly Censors Its Own Archives | National Review",
@@ -1325,22 +1275,20 @@
     "points": 68,
     "comment_count": 7,
     "hn_item": {
-      "by": "doener",
-      "descendants": 27,
-      "id": 30125730,
+      "by": "mupuff1234",
+      "descendants": 4,
+      "id": 30147159,
       "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
+        30147549,
+        30147505,
+        30147188,
+        30147463
       ],
-      "score": 60,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
+      "score": 8,
+      "time": 1643631642,
+      "title": "How Facebook Is Morphing into Meta",
       "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+      "url": "https://www.nytimes.com/2022/01/31/technology/facebook-meta-change.html"
     },
     "og_item": {
       "title": "Ylang: Universal Language for eBPF, Stap+, GDB, and More (Part 4) - OpenResty Official Blog",
@@ -1372,22 +1320,20 @@
     "points": 12,
     "comment_count": 1,
     "hn_item": {
-      "by": "doener",
-      "descendants": 27,
-      "id": 30125730,
+      "by": "mupuff1234",
+      "descendants": 4,
+      "id": 30147159,
       "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
+        30147549,
+        30147505,
+        30147188,
+        30147463
       ],
-      "score": 60,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
+      "score": 8,
+      "time": 1643631642,
+      "title": "How Facebook Is Morphing into Meta",
       "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+      "url": "https://www.nytimes.com/2022/01/31/technology/facebook-meta-change.html"
     },
     "og_item": {
       "title": "Plain Geology",
@@ -1407,161 +1353,47 @@
     }
   },
   {
-    "id": 30143946,
-    "title": "Mesmerizing Labor",
-    "url": "https://daily.jstor.org/mesmerizing-labor/",
-    "time": 1643597651,
-    "image": "https://daily.jstor.org/wp-content/uploads/2022/01/mesmerizing_labor_1050x700.jpg",
-    "icon": "https://daily.jstor.org/wp-content/uploads/2017/12/cropped-new_daily_favicon-300x300.png",
-    "publisher": "JSTOR Daily",
-    "description": "The man who introduced mesmerism to the US was a slave-owner from Guadeloupe, where planters were experimenting with “magnetizing” their enslaved people.",
-    "by": "onychomys",
-    "points": 42,
-    "comment_count": 5,
-    "hn_item": {
-      "by": "doener",
-      "descendants": 27,
-      "id": 30125730,
-      "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
-      ],
-      "score": 60,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
-      "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
-    },
-    "og_item": {
-      "title": "Mesmerizing Labor - JSTOR Daily",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://daily.jstor.org/wp-content/uploads/2022/01/mesmerizing_labor_1050x700.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 1050,
-          "height": 700,
-          "alt": ""
-        }
-      ],
-      "url": "https://daily.jstor.org/mesmerizing-labor/",
-      "audio": [],
-      "description": "The man who introduced mesmerism to the US was a slave-owner from Guadeloupe, where planters were experimenting with “magnetizing” their enslaved people.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "JSTOR Daily",
-      "video": [],
-      "favicon": {
-        "url": "https://daily.jstor.org/wp-content/uploads/2017/12/cropped-new_daily_favicon-300x300.png"
-      }
-    }
-  },
-  {
-    "id": 30137984,
-    "title": "Show HN: Web page that parses and explains the label on a bike tire",
-    "url": "https://fahrrad-tools.de/tire.html",
-    "time": 1643556717,
+    "id": 30148806,
+    "title": "Gitlab Is Down",
+    "url": "https://gitlab.com/",
+    "time": 1643642319,
     "image": "",
-    "icon": "https://fahrrad-tools.de/tire.html/icon.png",
-    "publisher": "fahrrad-tools.de",
-    "description": "Which tire fits my bike? Tires are always flat and now buy a tire with puncture protection? Find the right tire now!",
-    "by": "moasda",
-    "points": 595,
-    "comment_count": 39,
+    "icon": "https://gitlab.com/favicon.ico",
+    "publisher": "gitlab.com",
+    "description": "",
+    "by": "riyadparvez",
+    "points": 14,
+    "comment_count": 4,
     "hn_item": {
-      "by": "doener",
-      "descendants": 27,
-      "id": 30125730,
+      "by": "mupuff1234",
+      "descendants": 4,
+      "id": 30147159,
       "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
+        30147549,
+        30147505,
+        30147188,
+        30147463
       ],
-      "score": 60,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
+      "score": 8,
+      "time": 1643631642,
+      "title": "How Facebook Is Morphing into Meta",
       "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+      "url": "https://www.nytimes.com/2022/01/31/technology/facebook-meta-change.html"
     },
     "og_item": {
-      "title": "Bike Tire | Fahrrad-Tools.de",
+      "title": "503 Server Unavailable",
       "type": "",
       "image": [],
       "url": "",
       "audio": [],
-      "description": "Which tire fits my bike? Tires are always flat and now buy a tire with puncture protection? Find the right tire now!",
+      "description": "",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
       "site_name": "",
       "video": [],
       "favicon": {
-        "url": "icon.png"
-      }
-    }
-  },
-  {
-    "id": 30119800,
-    "title": "How the Hall Effect Still Reverberates",
-    "url": "https://spectrum.ieee.org/hall-effect-sensor",
-    "time": 1643401246,
-    "image": "https://spectrum.ieee.org/media-library/edwin-herbert-hall.png?id=29169021\u0026width=1200\u0026coordinates=0%2C466%2C0%2C466\u0026height=600",
-    "icon": "https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yNjU5NjY0OS9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTY1OTYwMjUwNn0.83ww7bkGqpGwDJ0lJUQ9t40jCxvzIiI09EEqwNcU8HE/img.png?width=32\u0026height=32",
-    "publisher": "IEEE Spectrum",
-    "description": "In 1879, a physicist set the stage for efficient space propulsion",
-    "by": "headalgorithm",
-    "points": 20,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "doener",
-      "descendants": 27,
-      "id": 30125730,
-      "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
-      ],
-      "score": 60,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
-      "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
-    },
-    "og_item": {
-      "title": "How the Hall Effect Still Reverberates",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://spectrum.ieee.org/media-library/edwin-herbert-hall.png?id=29169021\u0026width=1200\u0026coordinates=0%2C466%2C0%2C466\u0026height=600",
-          "secure_url": "",
-          "type": "",
-          "width": 1200,
-          "height": 600,
-          "alt": ""
-        }
-      ],
-      "url": "https://spectrum.ieee.org/hall-effect-sensor",
-      "audio": [],
-      "description": "In 1879, a physicist set the stage for efficient space propulsion",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "IEEE Spectrum",
-      "video": [],
-      "favicon": {
-        "url": "https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yNjU5NjY0OS9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTY1OTYwMjUwNn0.83ww7bkGqpGwDJ0lJUQ9t40jCxvzIiI09EEqwNcU8HE/img.png?width=32\u0026height=32"
+        "url": "/favicon.ico"
       }
     }
   },
@@ -1575,25 +1407,23 @@
     "publisher": "GitHub",
     "description": "Added\n\nAdded jailer option --parent-cgroup \u003crelative_path\u003e to allow the placement\nof microvm cgroups in custom cgroup nested hierarchies. The default value is\n\u003cexec-file\u003e which is backwards compati...",
     "by": "ciprian_craciun",
-    "points": 12,
-    "comment_count": 1,
+    "points": 14,
+    "comment_count": 2,
     "hn_item": {
-      "by": "doener",
-      "descendants": 27,
-      "id": 30125730,
+      "by": "mupuff1234",
+      "descendants": 4,
+      "id": 30147159,
       "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
+        30147549,
+        30147505,
+        30147188,
+        30147463
       ],
-      "score": 60,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
+      "score": 8,
+      "time": 1643631642,
+      "title": "How Facebook Is Morphing into Meta",
       "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+      "url": "https://www.nytimes.com/2022/01/31/technology/facebook-meta-change.html"
     },
     "og_item": {
       "title": "Release Firecracker v1.0.0 · firecracker-microvm/firecracker",
@@ -1622,6 +1452,159 @@
     }
   },
   {
+    "id": 30143946,
+    "title": "Mesmerizing Labor",
+    "url": "https://daily.jstor.org/mesmerizing-labor/",
+    "time": 1643597651,
+    "image": "https://daily.jstor.org/wp-content/uploads/2022/01/mesmerizing_labor_1050x700.jpg",
+    "icon": "https://daily.jstor.org/wp-content/uploads/2017/12/cropped-new_daily_favicon-300x300.png",
+    "publisher": "JSTOR Daily",
+    "description": "The man who introduced mesmerism to the US was a slave-owner from Guadeloupe, where planters were experimenting with “magnetizing” their enslaved people.",
+    "by": "onychomys",
+    "points": 43,
+    "comment_count": 5,
+    "hn_item": {
+      "by": "mupuff1234",
+      "descendants": 4,
+      "id": 30147159,
+      "kids": [
+        30147549,
+        30147505,
+        30147188,
+        30147463
+      ],
+      "score": 8,
+      "time": 1643631642,
+      "title": "How Facebook Is Morphing into Meta",
+      "type": "story",
+      "url": "https://www.nytimes.com/2022/01/31/technology/facebook-meta-change.html"
+    },
+    "og_item": {
+      "title": "Mesmerizing Labor - JSTOR Daily",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://daily.jstor.org/wp-content/uploads/2022/01/mesmerizing_labor_1050x700.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 1050,
+          "height": 700,
+          "alt": ""
+        }
+      ],
+      "url": "https://daily.jstor.org/mesmerizing-labor/",
+      "audio": [],
+      "description": "The man who introduced mesmerism to the US was a slave-owner from Guadeloupe, where planters were experimenting with “magnetizing” their enslaved people.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "JSTOR Daily",
+      "video": [],
+      "favicon": {
+        "url": "https://daily.jstor.org/wp-content/uploads/2017/12/cropped-new_daily_favicon-300x300.png"
+      }
+    }
+  },
+  {
+    "id": 30119800,
+    "title": "How the Hall Effect Still Reverberates",
+    "url": "https://spectrum.ieee.org/hall-effect-sensor",
+    "time": 1643401246,
+    "image": "https://spectrum.ieee.org/media-library/edwin-herbert-hall.png?id=29169021\u0026width=1200\u0026coordinates=0%2C466%2C0%2C466\u0026height=600",
+    "icon": "https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yNjU5NjY0OS9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTY1OTYwMjUwNn0.83ww7bkGqpGwDJ0lJUQ9t40jCxvzIiI09EEqwNcU8HE/img.png?width=32\u0026height=32",
+    "publisher": "IEEE Spectrum",
+    "description": "In 1879, a physicist set the stage for efficient space propulsion",
+    "by": "headalgorithm",
+    "points": 21,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "mupuff1234",
+      "descendants": 4,
+      "id": 30147159,
+      "kids": [
+        30147549,
+        30147505,
+        30147188,
+        30147463
+      ],
+      "score": 8,
+      "time": 1643631642,
+      "title": "How Facebook Is Morphing into Meta",
+      "type": "story",
+      "url": "https://www.nytimes.com/2022/01/31/technology/facebook-meta-change.html"
+    },
+    "og_item": {
+      "title": "How the Hall Effect Still Reverberates",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://spectrum.ieee.org/media-library/edwin-herbert-hall.png?id=29169021\u0026width=1200\u0026coordinates=0%2C466%2C0%2C466\u0026height=600",
+          "secure_url": "",
+          "type": "",
+          "width": 1200,
+          "height": 600,
+          "alt": ""
+        }
+      ],
+      "url": "https://spectrum.ieee.org/hall-effect-sensor",
+      "audio": [],
+      "description": "In 1879, a physicist set the stage for efficient space propulsion",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "IEEE Spectrum",
+      "video": [],
+      "favicon": {
+        "url": "https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yNjU5NjY0OS9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTY1OTYwMjUwNn0.83ww7bkGqpGwDJ0lJUQ9t40jCxvzIiI09EEqwNcU8HE/img.png?width=32\u0026height=32"
+      }
+    }
+  },
+  {
+    "id": 30137984,
+    "title": "Show HN: Web page that parses and explains the label on a bike tire",
+    "url": "https://fahrrad-tools.de/tire.html",
+    "time": 1643556717,
+    "image": "",
+    "icon": "https://fahrrad-tools.de/tire.html/icon.png",
+    "publisher": "fahrrad-tools.de",
+    "description": "Which tire fits my bike? Tires are always flat and now buy a tire with puncture protection? Find the right tire now!",
+    "by": "moasda",
+    "points": 595,
+    "comment_count": 39,
+    "hn_item": {
+      "by": "mupuff1234",
+      "descendants": 4,
+      "id": 30147159,
+      "kids": [
+        30147549,
+        30147505,
+        30147188,
+        30147463
+      ],
+      "score": 8,
+      "time": 1643631642,
+      "title": "How Facebook Is Morphing into Meta",
+      "type": "story",
+      "url": "https://www.nytimes.com/2022/01/31/technology/facebook-meta-change.html"
+    },
+    "og_item": {
+      "title": "Bike Tire | Fahrrad-Tools.de",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "Which tire fits my bike? Tires are always flat and now buy a tire with puncture protection? Find the right tire now!",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "icon.png"
+      }
+    }
+  },
+  {
     "id": 30143375,
     "title": "Lizard scale patterns described with antiferromagnetic model",
     "url": "https://physics.aps.org/articles/v15/s12",
@@ -1634,22 +1617,20 @@
     "points": 54,
     "comment_count": 3,
     "hn_item": {
-      "by": "doener",
-      "descendants": 27,
-      "id": 30125730,
+      "by": "mupuff1234",
+      "descendants": 4,
+      "id": 30147159,
       "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
+        30147549,
+        30147505,
+        30147188,
+        30147463
       ],
-      "score": 60,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
+      "score": 8,
+      "time": 1643631642,
+      "title": "How Facebook Is Morphing into Meta",
       "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+      "url": "https://www.nytimes.com/2022/01/31/technology/facebook-meta-change.html"
     },
     "og_item": {
       "title": "Lizard Scale Patterns Described with Antiferromagnetic Model",
@@ -1690,22 +1671,20 @@
     "points": 128,
     "comment_count": 11,
     "hn_item": {
-      "by": "doener",
-      "descendants": 27,
-      "id": 30125730,
+      "by": "mupuff1234",
+      "descendants": 4,
+      "id": 30147159,
       "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
+        30147549,
+        30147505,
+        30147188,
+        30147463
       ],
-      "score": 60,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
+      "score": 8,
+      "time": 1643631642,
+      "title": "How Facebook Is Morphing into Meta",
       "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+      "url": "https://www.nytimes.com/2022/01/31/technology/facebook-meta-change.html"
     },
     "og_item": {
       "title": "Devious SQL: Message Queuing Using Native PostgreSQL",
@@ -1743,25 +1722,23 @@
     "publisher": "royalsociety.org",
     "description": "The Online Information Environment report discusses how to limit the harm of scientific misinformation online",
     "by": "steelstraw",
-    "points": 927,
+    "points": 928,
     "comment_count": 60,
     "hn_item": {
-      "by": "doener",
-      "descendants": 27,
-      "id": 30125730,
+      "by": "mupuff1234",
+      "descendants": 4,
+      "id": 30147159,
       "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
+        30147549,
+        30147505,
+        30147188,
+        30147463
       ],
-      "score": 60,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
+      "score": 8,
+      "time": 1643631642,
+      "title": "How Facebook Is Morphing into Meta",
       "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+      "url": "https://www.nytimes.com/2022/01/31/technology/facebook-meta-change.html"
     },
     "og_item": {
       "title": "Royal Society cautions against censorship of scientific misinformation online | Royal Society",
@@ -1802,22 +1779,20 @@
     "points": 57,
     "comment_count": 1,
     "hn_item": {
-      "by": "doener",
-      "descendants": 27,
-      "id": 30125730,
+      "by": "mupuff1234",
+      "descendants": 4,
+      "id": 30147159,
       "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
+        30147549,
+        30147505,
+        30147188,
+        30147463
       ],
-      "score": 60,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
+      "score": 8,
+      "time": 1643631642,
+      "title": "How Facebook Is Morphing into Meta",
       "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+      "url": "https://www.nytimes.com/2022/01/31/technology/facebook-meta-change.html"
     },
     "og_item": {
       "title": "A couple years ago, I created this list: immersive: walking taking a shower sleeping teaching falling in love cinema life or death experience I was curious about these amazing parts of life that feel so meaningful — like portals, where time and space take on a totally different, enchanted feeling. I remember writing this list… – blog.laurel.world",
@@ -1837,6 +1812,60 @@
     }
   },
   {
+    "id": 30148364,
+    "title": "The Rising Human Cost of Sports Betting",
+    "url": "https://www.nytimes.com/2022/01/31/sports/football/super-bowl-sports-betting.html",
+    "time": 1643640178,
+    "image": "https://static01.nyt.com/images/2022/01/31/sports/31streeter-sot-podcast/merlin_201062172_a6e09b9d-629b-4a9d-91e8-9fcdb8365fe4-facebookJumbo.jpg",
+    "icon": "https://www.nytimes.com/vi-assets/static-assets/favicon-d2483f10ef688e6f89e23806b9700298.ico",
+    "publisher": "The New York Times",
+    "description": "The ends of the college and pro football seasons were already a perilous time for people recovering from a gambling addiction. Then came the onslaught of ads for legal sports betting.",
+    "by": "jbegley",
+    "points": 4,
+    "comment_count": 1,
+    "hn_item": {
+      "by": "mupuff1234",
+      "descendants": 4,
+      "id": 30147159,
+      "kids": [
+        30147549,
+        30147505,
+        30147188,
+        30147463
+      ],
+      "score": 8,
+      "time": 1643631642,
+      "title": "How Facebook Is Morphing into Meta",
+      "type": "story",
+      "url": "https://www.nytimes.com/2022/01/31/technology/facebook-meta-change.html"
+    },
+    "og_item": {
+      "title": "The Rising Human Cost of Sports Betting",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://static01.nyt.com/images/2022/01/31/sports/31streeter-sot-podcast/merlin_201062172_a6e09b9d-629b-4a9d-91e8-9fcdb8365fe4-facebookJumbo.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://www.nytimes.com/2022/01/31/sports/football/super-bowl-sports-betting.html",
+      "audio": [],
+      "description": "The ends of the college and pro football seasons were already a perilous time for people recovering from a gambling addiction. Then came the onslaught of ads for legal sports betting.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/vi-assets/static-assets/favicon-d2483f10ef688e6f89e23806b9700298.ico"
+      }
+    }
+  },
+  {
     "id": 30111033,
     "title": "Toxic black mold is growing in my brain",
     "url": "https://www.buzzfeednews.com/article/tysonbottenus/black-mold-growing-toxic-brain-vacation",
@@ -1846,25 +1875,23 @@
     "publisher": "BuzzFeed News",
     "description": "I went on a vacation. I came home with a mysterious fungus in my brain that is so rare only about 120 cases have been confirmed worldwide since its discovery in 1911.",
     "by": "yellow_lead",
-    "points": 217,
-    "comment_count": 10,
+    "points": 218,
+    "comment_count": 11,
     "hn_item": {
-      "by": "doener",
-      "descendants": 27,
-      "id": 30125730,
+      "by": "mupuff1234",
+      "descendants": 4,
+      "id": 30147159,
       "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
+        30147549,
+        30147505,
+        30147188,
+        30147463
       ],
-      "score": 60,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
+      "score": 8,
+      "time": 1643631642,
+      "title": "How Facebook Is Morphing into Meta",
       "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+      "url": "https://www.nytimes.com/2022/01/31/technology/facebook-meta-change.html"
     },
     "og_item": {
       "title": "Toxic Black Mold Is Growing On My Brain",
@@ -1893,6 +1920,51 @@
     }
   },
   {
+    "id": 30146891,
+    "title": "Arduino Gameboy Printer Emulator",
+    "url": "https://mofosyne.github.io/arduino-gameboy-printer-emulator/",
+    "time": 1643628483,
+    "image": "",
+    "icon": "https://mofosyne.github.io/favicon.ico",
+    "publisher": "arduino-gameboy-printer-emulator",
+    "description": "Code to emulate a gameboy printer via the gameboy link cable",
+    "by": "giuliomagnifico",
+    "points": 3,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "mupuff1234",
+      "descendants": 4,
+      "id": 30147159,
+      "kids": [
+        30147549,
+        30147505,
+        30147188,
+        30147463
+      ],
+      "score": 8,
+      "time": 1643631642,
+      "title": "How Facebook Is Morphing into Meta",
+      "type": "story",
+      "url": "https://www.nytimes.com/2022/01/31/technology/facebook-meta-change.html"
+    },
+    "og_item": {
+      "title": "Arduino Gameboy Printer Emulator (V3)",
+      "type": "",
+      "image": [],
+      "url": "https://mofosyne.github.io/arduino-gameboy-printer-emulator/",
+      "audio": [],
+      "description": "Code to emulate a gameboy printer via the gameboy link cable",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "arduino-gameboy-printer-emulator",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30142558,
     "title": "State of the Web: Static Site Generators",
     "url": "https://byteofdev.com/posts/static-site-generators/",
@@ -1902,25 +1974,23 @@
     "publisher": "ByteofDev",
     "description": "Static Site Generators have been changing quickly with new trends like Jamstack. Learn more about the background of static site generators, why people use them, and the current state of them, with information on modern SSGs like Eleventy, Next.js, SvelteKit, and Astro.",
     "by": "AsyncBanana",
-    "points": 141,
+    "points": 143,
     "comment_count": 27,
     "hn_item": {
-      "by": "doener",
-      "descendants": 27,
-      "id": 30125730,
+      "by": "mupuff1234",
+      "descendants": 4,
+      "id": 30147159,
       "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
+        30147549,
+        30147505,
+        30147188,
+        30147463
       ],
-      "score": 60,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
+      "score": 8,
+      "time": 1643631642,
+      "title": "How Facebook Is Morphing into Meta",
       "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+      "url": "https://www.nytimes.com/2022/01/31/technology/facebook-meta-change.html"
     },
     "og_item": {
       "title": "State of the Web: Static Site Generators",
@@ -1949,62 +2019,6 @@
     }
   },
   {
-    "id": 30148272,
-    "title": "Citrix to be acquired for $16.5B, will be merged with Tibco",
-    "url": "https://techcrunch.com/2022/01/31/citrix-to-be-acquired-by-vista-and-evergreen-elliott-in-a-16-5b-all-cash-deal-will-be-merged-with-tibco-to-create-saas-powerhouse/",
-    "time": 1643639536,
-    "image": "https://techcrunch.com/wp-content/uploads/2021/11/GettyImages-1255780794.jpg?w=653",
-    "icon": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=192",
-    "publisher": "TechCrunch",
-    "description": "More consolidation is afoot in the world of IT to meet a new demand from enterprises for “one-stop shops” covering a wide range of needs in our hybrid world of work. Citrix, the long-in-the-tooth virtualization giant that had been making a slow transition into cloud computing, is being …",
-    "by": "blopeur",
-    "points": 7,
-    "comment_count": 1,
-    "hn_item": {
-      "by": "doener",
-      "descendants": 27,
-      "id": 30125730,
-      "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
-      ],
-      "score": 60,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
-      "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
-    },
-    "og_item": {
-      "title": "Citrix to be acquired by Vista and Evergreen/Elliott in a $16.5B all-cash deal, will be merged with Tibco to create SaaS powerhouse – TechCrunch",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/11/GettyImages-1255780794.jpg?w=653",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://social.techcrunch.com/2022/01/31/citrix-to-be-acquired-by-vista-and-evergreen-elliott-in-a-16-5b-all-cash-deal-will-be-merged-with-tibco-to-create-saas-powerhouse/",
-      "audio": [],
-      "description": "More consolidation is afoot in the world of IT to meet a new demand from enterprises for “one-stop shops” covering a wide range of needs in our hybrid world of work. Citrix, the long-in-the-tooth virtualization giant that had been making a slow transition into cloud computing, is being …",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "TechCrunch",
-      "video": [],
-      "favicon": {
-        "url": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=192"
-      }
-    }
-  },
-  {
     "id": 30132612,
     "title": "John Locke’s recipe for Pancakes (2021)",
     "url": "https://rarecooking.com/2021/12/14/john-lockes-recipe-for-pancakes/",
@@ -2017,22 +2031,20 @@
     "points": 269,
     "comment_count": 33,
     "hn_item": {
-      "by": "doener",
-      "descendants": 27,
-      "id": 30125730,
+      "by": "mupuff1234",
+      "descendants": 4,
+      "id": 30147159,
       "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
+        30147549,
+        30147505,
+        30147188,
+        30147463
       ],
-      "score": 60,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
+      "score": 8,
+      "time": 1643631642,
+      "title": "How Facebook Is Morphing into Meta",
       "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+      "url": "https://www.nytimes.com/2022/01/31/technology/facebook-meta-change.html"
     },
     "og_item": {
       "title": "John Locke’s recipe for Pancakes",
@@ -2061,6 +2073,60 @@
     }
   },
   {
+    "id": 30148272,
+    "title": "Citrix to be acquired for $16.5B, will be merged with Tibco",
+    "url": "https://techcrunch.com/2022/01/31/citrix-to-be-acquired-by-vista-and-evergreen-elliott-in-a-16-5b-all-cash-deal-will-be-merged-with-tibco-to-create-saas-powerhouse/",
+    "time": 1643639536,
+    "image": "https://techcrunch.com/wp-content/uploads/2021/11/GettyImages-1255780794.jpg?w=653",
+    "icon": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=192",
+    "publisher": "TechCrunch",
+    "description": "More consolidation is afoot in the world of IT to meet a new demand from enterprises for “one-stop shops” covering a wide range of needs in our hybrid world of work. Citrix, the long-in-the-tooth virtualization giant that had been making a slow transition into cloud computing, is being …",
+    "by": "blopeur",
+    "points": 7,
+    "comment_count": 2,
+    "hn_item": {
+      "by": "mupuff1234",
+      "descendants": 4,
+      "id": 30147159,
+      "kids": [
+        30147549,
+        30147505,
+        30147188,
+        30147463
+      ],
+      "score": 8,
+      "time": 1643631642,
+      "title": "How Facebook Is Morphing into Meta",
+      "type": "story",
+      "url": "https://www.nytimes.com/2022/01/31/technology/facebook-meta-change.html"
+    },
+    "og_item": {
+      "title": "Citrix to be acquired by Vista and Evergreen/Elliott in a $16.5B all-cash deal, will be merged with Tibco to create SaaS powerhouse – TechCrunch",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/11/GettyImages-1255780794.jpg?w=653",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://social.techcrunch.com/2022/01/31/citrix-to-be-acquired-by-vista-and-evergreen-elliott-in-a-16-5b-all-cash-deal-will-be-merged-with-tibco-to-create-saas-powerhouse/",
+      "audio": [],
+      "description": "More consolidation is afoot in the world of IT to meet a new demand from enterprises for “one-stop shops” covering a wide range of needs in our hybrid world of work. Citrix, the long-in-the-tooth virtualization giant that had been making a slow transition into cloud computing, is being …",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "TechCrunch",
+      "video": [],
+      "favicon": {
+        "url": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=192"
+      }
+    }
+  },
+  {
     "id": 30140835,
     "title": "Hardy, Ramanujan and Taxi No. 1729",
     "url": "https://johncarlosbaez.wordpress.com/2022/01/30/hardy-ramanujan-and-taxi-no-1729/",
@@ -2073,22 +2139,20 @@
     "points": 122,
     "comment_count": 10,
     "hn_item": {
-      "by": "doener",
-      "descendants": 27,
-      "id": 30125730,
+      "by": "mupuff1234",
+      "descendants": 4,
+      "id": 30147159,
       "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
+        30147549,
+        30147505,
+        30147188,
+        30147463
       ],
-      "score": 60,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
+      "score": 8,
+      "time": 1643631642,
+      "title": "How Facebook Is Morphing into Meta",
       "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+      "url": "https://www.nytimes.com/2022/01/31/technology/facebook-meta-change.html"
     },
     "og_item": {
       "title": "Hardy, Ramanujan and Taxi No. 1729",
@@ -2129,22 +2193,20 @@
     "points": 220,
     "comment_count": 14,
     "hn_item": {
-      "by": "doener",
-      "descendants": 27,
-      "id": 30125730,
+      "by": "mupuff1234",
+      "descendants": 4,
+      "id": 30147159,
       "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
+        30147549,
+        30147505,
+        30147188,
+        30147463
       ],
-      "score": 60,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
+      "score": 8,
+      "time": 1643631642,
+      "title": "How Facebook Is Morphing into Meta",
       "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+      "url": "https://www.nytimes.com/2022/01/31/technology/facebook-meta-change.html"
     },
     "og_item": {
       "title": "HyperCardSimulator",
@@ -2174,24 +2236,22 @@
     "description": "The Weird Future Ahead",
     "by": "enigmatic02",
     "points": 11,
-    "comment_count": 3,
+    "comment_count": 4,
     "hn_item": {
-      "by": "doener",
-      "descendants": 27,
-      "id": 30125730,
+      "by": "mupuff1234",
+      "descendants": 4,
+      "id": 30147159,
       "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
+        30147549,
+        30147505,
+        30147188,
+        30147463
       ],
-      "score": 60,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
+      "score": 8,
+      "time": 1643631642,
+      "title": "How Facebook Is Morphing into Meta",
       "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+      "url": "https://www.nytimes.com/2022/01/31/technology/facebook-meta-change.html"
     },
     "og_item": {
       "title": "Will Tokens Replace Equity?",
@@ -2220,62 +2280,6 @@
     }
   },
   {
-    "id": 30122128,
-    "title": "Sega quits arcade business after 50 years",
-    "url": "https://www.eurogamer.net/articles/2022-01-28-sega-quits-japanese-arcade-business-after-50-years",
-    "time": 1643413723,
-    "image": "https://images.gnwcdn.com/2022/articles/2022-01-28-11-02/sega-quits-japanese-arcade-business-after-50-years-1643367770782.jpg/EG11/resize/1200x-1/sega-quits-japanese-arcade-business-after-50-years-1643367770782.jpg",
-    "icon": "https://www.eurogamer.net/favicon.ico",
-    "publisher": "Eurogamer.net",
-    "description": "",
-    "by": "atombender",
-    "points": 242,
-    "comment_count": 26,
-    "hn_item": {
-      "by": "doener",
-      "descendants": 27,
-      "id": 30125730,
-      "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
-      ],
-      "score": 60,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
-      "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
-    },
-    "og_item": {
-      "title": "Sega quits Japanese arcade business after 50 years",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://images.gnwcdn.com/2022/articles/2022-01-28-11-02/sega-quits-japanese-arcade-business-after-50-years-1643367770782.jpg/EG11/resize/1200x-1/sega-quits-japanese-arcade-business-after-50-years-1643367770782.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 1200,
-          "height": 676,
-          "alt": ""
-        }
-      ],
-      "url": "https://www.eurogamer.net/articles/2022-01-28-sega-quits-japanese-arcade-business-after-50-years",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Eurogamer.net",
-      "video": [],
-      "favicon": {
-        "url": "https://www.eurogamer.net/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30116262,
     "title": "A Padlock I’d Use [video]",
     "url": "https://www.youtube.com/watch?v=HrV86GqlY8o",
@@ -2288,22 +2292,20 @@
     "points": 149,
     "comment_count": 7,
     "hn_item": {
-      "by": "doener",
-      "descendants": 27,
-      "id": 30125730,
+      "by": "mupuff1234",
+      "descendants": 4,
+      "id": 30147159,
       "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
+        30147549,
+        30147505,
+        30147188,
+        30147463
       ],
-      "score": 60,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
+      "score": 8,
+      "time": 1643631642,
+      "title": "How Facebook Is Morphing into Meta",
       "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+      "url": "https://www.nytimes.com/2022/01/31/technology/facebook-meta-change.html"
     },
     "og_item": {
       "title": "[1398] A Padlock I’d Use: Abus Granit 37RK/80 (Pick \u0026 Gut)",
@@ -2341,58 +2343,146 @@
     }
   },
   {
-    "id": 30123592,
-    "title": "Assembling Accountability, from the Ground Up (2021)",
-    "url": "https://points.datasociety.net/assembling-accountability-from-the-ground-up-4655c492d0d0?gi=833242955cfa",
-    "time": 1643428009,
-    "image": "https://miro.medium.com/max/1200/1*D4V3-R-xBs3Qrf4F8JBeyA.png",
-    "icon": "https://miro.medium.com/fit/c/256/256/1*g7zU0sabzknTXlMs4m3Iqg.jpeg",
-    "publisher": "Medium",
-    "description": "Algorithmic impact assessments should leverage diverse expertise \u0026 complex histories",
-    "by": "mooreds",
-    "points": 3,
-    "comment_count": 0,
+    "id": 30122128,
+    "title": "Sega quits arcade business after 50 years",
+    "url": "https://www.eurogamer.net/articles/2022-01-28-sega-quits-japanese-arcade-business-after-50-years",
+    "time": 1643413723,
+    "image": "https://images.gnwcdn.com/2022/articles/2022-01-28-11-02/sega-quits-japanese-arcade-business-after-50-years-1643367770782.jpg/EG11/resize/1200x-1/sega-quits-japanese-arcade-business-after-50-years-1643367770782.jpg",
+    "icon": "https://www.eurogamer.net/favicon.ico",
+    "publisher": "Eurogamer.net",
+    "description": "",
+    "by": "atombender",
+    "points": 242,
+    "comment_count": 26,
     "hn_item": {
-      "by": "doener",
-      "descendants": 27,
-      "id": 30125730,
+      "by": "mupuff1234",
+      "descendants": 4,
+      "id": 30147159,
       "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
+        30147549,
+        30147505,
+        30147188,
+        30147463
       ],
-      "score": 60,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
+      "score": 8,
+      "time": 1643631642,
+      "title": "How Facebook Is Morphing into Meta",
       "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+      "url": "https://www.nytimes.com/2022/01/31/technology/facebook-meta-change.html"
     },
     "og_item": {
-      "title": "Assembling Accountability, from the Ground Up",
+      "title": "Sega quits Japanese arcade business after 50 years",
       "type": "article",
       "image": [
         {
-          "url": "https://miro.medium.com/max/1200/1*D4V3-R-xBs3Qrf4F8JBeyA.png",
+          "url": "https://images.gnwcdn.com/2022/articles/2022-01-28-11-02/sega-quits-japanese-arcade-business-after-50-years-1643367770782.jpg/EG11/resize/1200x-1/sega-quits-japanese-arcade-business-after-50-years-1643367770782.jpg",
           "secure_url": "",
           "type": "",
-          "width": 0,
-          "height": 0,
+          "width": 1200,
+          "height": 676,
           "alt": ""
         }
       ],
-      "url": "https://points.datasociety.net/assembling-accountability-from-the-ground-up-4655c492d0d0",
+      "url": "https://www.eurogamer.net/articles/2022-01-28-sega-quits-japanese-arcade-business-after-50-years",
       "audio": [],
-      "description": "Algorithmic impact assessments should leverage diverse expertise \u0026 complex histories",
+      "description": "",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "Medium",
+      "site_name": "Eurogamer.net",
       "video": [],
       "favicon": {
-        "url": "https://miro.medium.com/fit/c/256/256/1*g7zU0sabzknTXlMs4m3Iqg.jpeg"
+        "url": "https://www.eurogamer.net/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30148670,
+    "title": "What If? 2: the book (by the author of Xkcd)",
+    "url": "https://xkcd.com/what-if-2/",
+    "time": 1643641679,
+    "image": "",
+    "icon": "https://xkcd.com/favicon.ico",
+    "publisher": "xkcd.com",
+    "description": "",
+    "by": "RojerGS",
+    "points": 5,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "mupuff1234",
+      "descendants": 4,
+      "id": 30147159,
+      "kids": [
+        30147549,
+        30147505,
+        30147188,
+        30147463
+      ],
+      "score": 8,
+      "time": 1643631642,
+      "title": "How Facebook Is Morphing into Meta",
+      "type": "story",
+      "url": "https://www.nytimes.com/2022/01/31/technology/facebook-meta-change.html"
+    },
+    "og_item": {
+      "title": "What if? 2: Additional Serious Scientific Answers to Absurd Hypothetical Questions ",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30146918,
+    "title": "Qubit appeals to the honour of thieves who lifted $80M of its digi-dollars",
+    "url": "https://www.theregister.com/2022/01/31/qubit_bug_bounty/",
+    "time": 1643628811,
+    "image": "",
+    "icon": "https://www.theregister.com/favicon.ico",
+    "publisher": "theregister.com",
+    "description": "",
+    "by": "pseudolus",
+    "points": 13,
+    "comment_count": 1,
+    "hn_item": {
+      "by": "mupuff1234",
+      "descendants": 4,
+      "id": 30147159,
+      "kids": [
+        30147549,
+        30147505,
+        30147188,
+        30147463
+      ],
+      "score": 8,
+      "time": 1643631642,
+      "title": "How Facebook Is Morphing into Meta",
+      "type": "story",
+      "url": "https://www.nytimes.com/2022/01/31/technology/facebook-meta-change.html"
+    },
+    "og_item": {
+      "title": "",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
       }
     }
   },
@@ -2409,22 +2499,20 @@
     "points": 139,
     "comment_count": 11,
     "hn_item": {
-      "by": "doener",
-      "descendants": 27,
-      "id": 30125730,
+      "by": "mupuff1234",
+      "descendants": 4,
+      "id": 30147159,
       "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
+        30147549,
+        30147505,
+        30147188,
+        30147463
       ],
-      "score": 60,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
+      "score": 8,
+      "time": 1643631642,
+      "title": "How Facebook Is Morphing into Meta",
       "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+      "url": "https://www.nytimes.com/2022/01/31/technology/facebook-meta-change.html"
     },
     "og_item": {
       "title": "GameSpot's SIMply Divine: The Story of Maxis Software",
@@ -2456,22 +2544,20 @@
     "points": 39,
     "comment_count": 7,
     "hn_item": {
-      "by": "doener",
-      "descendants": 27,
-      "id": 30125730,
+      "by": "mupuff1234",
+      "descendants": 4,
+      "id": 30147159,
       "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
+        30147549,
+        30147505,
+        30147188,
+        30147463
       ],
-      "score": 60,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
+      "score": 8,
+      "time": 1643631642,
+      "title": "How Facebook Is Morphing into Meta",
       "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+      "url": "https://www.nytimes.com/2022/01/31/technology/facebook-meta-change.html"
     },
     "og_item": {
       "title": "Basic cryptography - the Vigenere cipher - Eric Mann's Blog",
@@ -2500,6 +2586,60 @@
     }
   },
   {
+    "id": 30123592,
+    "title": "Assembling Accountability, from the Ground Up (2021)",
+    "url": "https://points.datasociety.net/assembling-accountability-from-the-ground-up-4655c492d0d0?gi=833242955cfa",
+    "time": 1643428009,
+    "image": "https://miro.medium.com/max/1200/1*D4V3-R-xBs3Qrf4F8JBeyA.png",
+    "icon": "https://miro.medium.com/fit/c/256/256/1*g7zU0sabzknTXlMs4m3Iqg.jpeg",
+    "publisher": "Medium",
+    "description": "Algorithmic impact assessments should leverage diverse expertise \u0026 complex histories",
+    "by": "mooreds",
+    "points": 3,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "mupuff1234",
+      "descendants": 4,
+      "id": 30147159,
+      "kids": [
+        30147549,
+        30147505,
+        30147188,
+        30147463
+      ],
+      "score": 8,
+      "time": 1643631642,
+      "title": "How Facebook Is Morphing into Meta",
+      "type": "story",
+      "url": "https://www.nytimes.com/2022/01/31/technology/facebook-meta-change.html"
+    },
+    "og_item": {
+      "title": "Assembling Accountability, from the Ground Up",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://miro.medium.com/max/1200/1*D4V3-R-xBs3Qrf4F8JBeyA.png",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://points.datasociety.net/assembling-accountability-from-the-ground-up-4655c492d0d0",
+      "audio": [],
+      "description": "Algorithmic impact assessments should leverage diverse expertise \u0026 complex histories",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Medium",
+      "video": [],
+      "favicon": {
+        "url": "https://miro.medium.com/fit/c/256/256/1*g7zU0sabzknTXlMs4m3Iqg.jpeg"
+      }
+    }
+  },
+  {
     "id": 30141439,
     "title": "Operation Warp Speed: A new model for industrial policy",
     "url": "https://americanaffairsjournal.org/2021/05/inside-operation-warp-speed-a-new-model-for-industrial-policy/",
@@ -2512,22 +2652,20 @@
     "points": 140,
     "comment_count": 10,
     "hn_item": {
-      "by": "doener",
-      "descendants": 27,
-      "id": 30125730,
+      "by": "mupuff1234",
+      "descendants": 4,
+      "id": 30147159,
       "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
+        30147549,
+        30147505,
+        30147188,
+        30147463
       ],
-      "score": 60,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
+      "score": 8,
+      "time": 1643631642,
+      "title": "How Facebook Is Morphing into Meta",
       "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+      "url": "https://www.nytimes.com/2022/01/31/technology/facebook-meta-change.html"
     },
     "og_item": {
       "title": "Inside Operation Warp Speed: A New Model for Industrial Policy - American Affairs Journal",
@@ -2556,62 +2694,6 @@
     }
   },
   {
-    "id": 30135190,
-    "title": "FunctionStomping – A new shellcode injection technique",
-    "url": "https://github.com/Idov31/FunctionStomping",
-    "time": 1643533222,
-    "image": "https://opengraph.githubassets.com/bafaf3d3ae0c400607a12a2a3fb9252d0cdbba62bfc4035057fd9be954f32647/Idov31/FunctionStomping",
-    "icon": "https://github.githubassets.com/favicons/favicon.svg",
-    "publisher": "GitHub",
-    "description": "A new shellcode injection technique. Given as C++ header or standalone Rust program. - GitHub - Idov31/FunctionStomping: A new shellcode injection technique. Given as C++ header or standalone Rust ...",
-    "by": "maydemir",
-    "points": 35,
-    "comment_count": 3,
-    "hn_item": {
-      "by": "doener",
-      "descendants": 27,
-      "id": 30125730,
-      "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
-      ],
-      "score": 60,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
-      "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
-    },
-    "og_item": {
-      "title": "GitHub - Idov31/FunctionStomping: A new shellcode injection technique. Given as C++ header or standalone Rust program.",
-      "type": "object",
-      "image": [
-        {
-          "url": "https://opengraph.githubassets.com/bafaf3d3ae0c400607a12a2a3fb9252d0cdbba62bfc4035057fd9be954f32647/Idov31/FunctionStomping",
-          "secure_url": "",
-          "type": "",
-          "width": 1200,
-          "height": 600,
-          "alt": ""
-        }
-      ],
-      "url": "https://github.com/Idov31/FunctionStomping",
-      "audio": [],
-      "description": "A new shellcode injection technique. Given as C++ header or standalone Rust program. - GitHub - Idov31/FunctionStomping: A new shellcode injection technique. Given as C++ header or standalone Rust ...",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "GitHub",
-      "video": [],
-      "favicon": {
-        "url": "https://github.githubassets.com/favicons/favicon.svg"
-      }
-    }
-  },
-  {
     "id": 30138434,
     "title": "Beancount: Double-entry accounting from text files",
     "url": "https://github.com/beancount/beancount",
@@ -2621,25 +2703,23 @@
     "publisher": "GitHub",
     "description": "Beancount: Double-Entry Accounting from Text Files. - GitHub - beancount/beancount: Beancount: Double-Entry Accounting from Text Files.",
     "by": "techtalsky",
-    "points": 210,
+    "points": 212,
     "comment_count": 22,
     "hn_item": {
-      "by": "doener",
-      "descendants": 27,
-      "id": 30125730,
+      "by": "mupuff1234",
+      "descendants": 4,
+      "id": 30147159,
       "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
+        30147549,
+        30147505,
+        30147188,
+        30147463
       ],
-      "score": 60,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
+      "score": 8,
+      "time": 1643631642,
+      "title": "How Facebook Is Morphing into Meta",
       "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+      "url": "https://www.nytimes.com/2022/01/31/technology/facebook-meta-change.html"
     },
     "og_item": {
       "title": "GitHub - beancount/beancount: Beancount: Double-Entry Accounting from Text Files.",
@@ -2668,6 +2748,60 @@
     }
   },
   {
+    "id": 30135190,
+    "title": "FunctionStomping – A new shellcode injection technique",
+    "url": "https://github.com/Idov31/FunctionStomping",
+    "time": 1643533222,
+    "image": "https://opengraph.githubassets.com/bafaf3d3ae0c400607a12a2a3fb9252d0cdbba62bfc4035057fd9be954f32647/Idov31/FunctionStomping",
+    "icon": "https://github.githubassets.com/favicons/favicon.svg",
+    "publisher": "GitHub",
+    "description": "A new shellcode injection technique. Given as C++ header or standalone Rust program. - GitHub - Idov31/FunctionStomping: A new shellcode injection technique. Given as C++ header or standalone Rust ...",
+    "by": "maydemir",
+    "points": 35,
+    "comment_count": 3,
+    "hn_item": {
+      "by": "mupuff1234",
+      "descendants": 4,
+      "id": 30147159,
+      "kids": [
+        30147549,
+        30147505,
+        30147188,
+        30147463
+      ],
+      "score": 8,
+      "time": 1643631642,
+      "title": "How Facebook Is Morphing into Meta",
+      "type": "story",
+      "url": "https://www.nytimes.com/2022/01/31/technology/facebook-meta-change.html"
+    },
+    "og_item": {
+      "title": "GitHub - Idov31/FunctionStomping: A new shellcode injection technique. Given as C++ header or standalone Rust program.",
+      "type": "object",
+      "image": [
+        {
+          "url": "https://opengraph.githubassets.com/bafaf3d3ae0c400607a12a2a3fb9252d0cdbba62bfc4035057fd9be954f32647/Idov31/FunctionStomping",
+          "secure_url": "",
+          "type": "",
+          "width": 1200,
+          "height": 600,
+          "alt": ""
+        }
+      ],
+      "url": "https://github.com/Idov31/FunctionStomping",
+      "audio": [],
+      "description": "A new shellcode injection technique. Given as C++ header or standalone Rust program. - GitHub - Idov31/FunctionStomping: A new shellcode injection technique. Given as C++ header or standalone Rust ...",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "GitHub",
+      "video": [],
+      "favicon": {
+        "url": "https://github.githubassets.com/favicons/favicon.svg"
+      }
+    }
+  },
+  {
     "id": 30134367,
     "title": "The case of the mysterious --help directory (2020)",
     "url": "https://leahneukirchen.org/blog/archive/2020/05/the-case-of-the-mysterious-help-directory.html",
@@ -2680,22 +2814,20 @@
     "points": 160,
     "comment_count": 13,
     "hn_item": {
-      "by": "doener",
-      "descendants": 27,
-      "id": 30125730,
+      "by": "mupuff1234",
+      "descendants": 4,
+      "id": 30147159,
       "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
+        30147549,
+        30147505,
+        30147188,
+        30147463
       ],
-      "score": 60,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
+      "score": 8,
+      "time": 1643631642,
+      "title": "How Facebook Is Morphing into Meta",
       "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+      "url": "https://www.nytimes.com/2022/01/31/technology/facebook-meta-change.html"
     },
     "og_item": {
       "title": "leah blogs: The case of the mysterious --help directory",
@@ -2725,24 +2857,22 @@
     "description": "Understanding the behemoth in Redmond teaches us valuable lessons in cloud infrastructure, startup strategy, and the future of software.",
     "by": "SamvitJ",
     "points": 387,
-    "comment_count": 62,
+    "comment_count": 63,
     "hn_item": {
-      "by": "doener",
-      "descendants": 27,
-      "id": 30125730,
+      "by": "mupuff1234",
+      "descendants": 4,
+      "id": 30147159,
       "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
+        30147549,
+        30147505,
+        30147188,
+        30147463
       ],
-      "score": 60,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
+      "score": 8,
+      "time": 1643631642,
+      "title": "How Facebook Is Morphing into Meta",
       "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+      "url": "https://www.nytimes.com/2022/01/31/technology/facebook-meta-change.html"
     },
     "og_item": {
       "title": "Don’t forget Microsoft",
@@ -2771,6 +2901,51 @@
     }
   },
   {
+    "id": 30137681,
+    "title": "In defence of the boring web",
+    "url": "https://bastian.rieck.me/blog/posts/2022/boring/",
+    "time": 1643554351,
+    "image": "",
+    "icon": "https://bastian.rieck.me/favicon.ico",
+    "publisher": "bastian.rieck.me",
+    "description": "",
+    "by": "Topolomancer",
+    "points": 223,
+    "comment_count": 26,
+    "hn_item": {
+      "by": "mupuff1234",
+      "descendants": 4,
+      "id": 30147159,
+      "kids": [
+        30147549,
+        30147505,
+        30147188,
+        30147463
+      ],
+      "score": 8,
+      "time": 1643631642,
+      "title": "How Facebook Is Morphing into Meta",
+      "type": "story",
+      "url": "https://www.nytimes.com/2022/01/31/technology/facebook-meta-change.html"
+    },
+    "og_item": {
+      "title": "In Defence of the Boring Web",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30146843,
     "title": "1k-cycle lithium-sulfur battery could quintuple electric vehicle ranges",
     "url": "https://news.umich.edu/1000-cycle-lithium-sulfur-battery-could-quintuple-electric-vehicle-ranges/",
@@ -2783,22 +2958,20 @@
     "points": 48,
     "comment_count": 11,
     "hn_item": {
-      "by": "doener",
-      "descendants": 27,
-      "id": 30125730,
+      "by": "mupuff1234",
+      "descendants": 4,
+      "id": 30147159,
       "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
+        30147549,
+        30147505,
+        30147188,
+        30147463
       ],
-      "score": 60,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
+      "score": 8,
+      "time": 1643631642,
+      "title": "How Facebook Is Morphing into Meta",
       "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+      "url": "https://www.nytimes.com/2022/01/31/technology/facebook-meta-change.html"
     },
     "og_item": {
       "title": "1,000-cycle lithium-sulfur battery could quintuple electric vehicle ranges",
@@ -2827,100 +3000,6 @@
     }
   },
   {
-    "id": 30146918,
-    "title": "Qubit appeals to the honour of thieves who lifted $80M of its digi-dollars",
-    "url": "https://www.theregister.com/2022/01/31/qubit_bug_bounty/",
-    "time": 1643628811,
-    "image": "",
-    "icon": "https://www.theregister.com/favicon.ico",
-    "publisher": "theregister.com",
-    "description": "",
-    "by": "pseudolus",
-    "points": 12,
-    "comment_count": 1,
-    "hn_item": {
-      "by": "doener",
-      "descendants": 27,
-      "id": 30125730,
-      "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
-      ],
-      "score": 60,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
-      "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
-    },
-    "og_item": {
-      "title": "",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30137681,
-    "title": "In defence of the boring web",
-    "url": "https://bastian.rieck.me/blog/posts/2022/boring/",
-    "time": 1643554351,
-    "image": "",
-    "icon": "https://bastian.rieck.me/favicon.ico",
-    "publisher": "bastian.rieck.me",
-    "description": "",
-    "by": "Topolomancer",
-    "points": 221,
-    "comment_count": 26,
-    "hn_item": {
-      "by": "doener",
-      "descendants": 27,
-      "id": 30125730,
-      "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
-      ],
-      "score": 60,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
-      "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
-    },
-    "og_item": {
-      "title": "In Defence of the Boring Web",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30142918,
     "title": "Unconscious R\u0026D (2021)",
     "url": "https://subconscious.substack.com/p/unconscious-r-and-d",
@@ -2933,22 +3012,20 @@
     "points": 27,
     "comment_count": 3,
     "hn_item": {
-      "by": "doener",
-      "descendants": 27,
-      "id": 30125730,
+      "by": "mupuff1234",
+      "descendants": 4,
+      "id": 30147159,
       "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
+        30147549,
+        30147505,
+        30147188,
+        30147463
       ],
-      "score": 60,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
+      "score": 8,
+      "time": 1643631642,
+      "title": "How Facebook Is Morphing into Meta",
       "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+      "url": "https://www.nytimes.com/2022/01/31/technology/facebook-meta-change.html"
     },
     "og_item": {
       "title": "Unconscious R\u0026D",
@@ -2989,22 +3066,20 @@
     "points": 33,
     "comment_count": 12,
     "hn_item": {
-      "by": "doener",
-      "descendants": 27,
-      "id": 30125730,
+      "by": "mupuff1234",
+      "descendants": 4,
+      "id": 30147159,
       "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
+        30147549,
+        30147505,
+        30147188,
+        30147463
       ],
-      "score": 60,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
+      "score": 8,
+      "time": 1643631642,
+      "title": "How Facebook Is Morphing into Meta",
       "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+      "url": "https://www.nytimes.com/2022/01/31/technology/facebook-meta-change.html"
     },
     "og_item": {
       "title": "Just a moment...",
@@ -3036,22 +3111,20 @@
     "points": 18,
     "comment_count": 4,
     "hn_item": {
-      "by": "doener",
-      "descendants": 27,
-      "id": 30125730,
+      "by": "mupuff1234",
+      "descendants": 4,
+      "id": 30147159,
       "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
+        30147549,
+        30147505,
+        30147188,
+        30147463
       ],
-      "score": 60,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
+      "score": 8,
+      "time": 1643631642,
+      "title": "How Facebook Is Morphing into Meta",
       "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+      "url": "https://www.nytimes.com/2022/01/31/technology/facebook-meta-change.html"
     },
     "og_item": {
       "title": "You want HOW MANY years experience?!",
@@ -3083,22 +3156,20 @@
     "points": 39,
     "comment_count": 0,
     "hn_item": {
-      "by": "doener",
-      "descendants": 27,
-      "id": 30125730,
+      "by": "mupuff1234",
+      "descendants": 4,
+      "id": 30147159,
       "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
+        30147549,
+        30147505,
+        30147188,
+        30147463
       ],
-      "score": 60,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
+      "score": 8,
+      "time": 1643631642,
+      "title": "How Facebook Is Morphing into Meta",
       "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+      "url": "https://www.nytimes.com/2022/01/31/technology/facebook-meta-change.html"
     },
     "og_item": {
       "title": "Mix and match mental models.",
@@ -3139,22 +3210,20 @@
     "points": 20,
     "comment_count": 1,
     "hn_item": {
-      "by": "doener",
-      "descendants": 27,
-      "id": 30125730,
+      "by": "mupuff1234",
+      "descendants": 4,
+      "id": 30147159,
       "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
+        30147549,
+        30147505,
+        30147188,
+        30147463
       ],
-      "score": 60,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
+      "score": 8,
+      "time": 1643631642,
+      "title": "How Facebook Is Morphing into Meta",
       "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+      "url": "https://www.nytimes.com/2022/01/31/technology/facebook-meta-change.html"
     },
     "og_item": {
       "title": "GitHub - IpsumDominum/Pytorch-Simple-Transformer: A simple transformer implementation without difficult syntax and extra bells and whistles.",
@@ -3195,22 +3264,20 @@
     "points": 90,
     "comment_count": 10,
     "hn_item": {
-      "by": "doener",
-      "descendants": 27,
-      "id": 30125730,
+      "by": "mupuff1234",
+      "descendants": 4,
+      "id": 30147159,
       "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
+        30147549,
+        30147505,
+        30147188,
+        30147463
       ],
-      "score": 60,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
+      "score": 8,
+      "time": 1643631642,
+      "title": "How Facebook Is Morphing into Meta",
       "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+      "url": "https://www.nytimes.com/2022/01/31/technology/facebook-meta-change.html"
     },
     "og_item": {
       "title": "Game Performance Optimization - A Practical Example From Industry Idle",
@@ -3230,53 +3297,6 @@
     }
   },
   {
-    "id": 30148670,
-    "title": "What If? 2: the book (by the author of Xkcd)",
-    "url": "https://xkcd.com/what-if-2/",
-    "time": 1643641679,
-    "image": "",
-    "icon": "https://xkcd.com/favicon.ico",
-    "publisher": "xkcd.com",
-    "description": "",
-    "by": "RojerGS",
-    "points": 3,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "doener",
-      "descendants": 27,
-      "id": 30125730,
-      "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
-      ],
-      "score": 60,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
-      "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
-    },
-    "og_item": {
-      "title": "What if? 2: Additional Serious Scientific Answers to Absurd Hypothetical Questions ",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30140984,
     "title": "A UX designer walks into a Tesla Bar",
     "url": "https://jenson.org/tesla/",
@@ -3286,25 +3306,23 @@
     "publisher": "jenson.org",
     "description": "",
     "by": "radley",
-    "points": 847,
+    "points": 848,
     "comment_count": 107,
     "hn_item": {
-      "by": "doener",
-      "descendants": 27,
-      "id": 30125730,
+      "by": "mupuff1234",
+      "descendants": 4,
+      "id": 30147159,
       "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
+        30147549,
+        30147505,
+        30147188,
+        30147463
       ],
-      "score": 60,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
+      "score": 8,
+      "time": 1643631642,
+      "title": "How Facebook Is Morphing into Meta",
       "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+      "url": "https://www.nytimes.com/2022/01/31/technology/facebook-meta-change.html"
     },
     "og_item": {
       "title": "A UX designer walks into a Tesla Bar – Scott Jenson",
@@ -3336,22 +3354,20 @@
     "points": 697,
     "comment_count": 70,
     "hn_item": {
-      "by": "doener",
-      "descendants": 27,
-      "id": 30125730,
+      "by": "mupuff1234",
+      "descendants": 4,
+      "id": 30147159,
       "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
+        30147549,
+        30147505,
+        30147188,
+        30147463
       ],
-      "score": 60,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
+      "score": 8,
+      "time": 1643631642,
+      "title": "How Facebook Is Morphing into Meta",
       "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+      "url": "https://www.nytimes.com/2022/01/31/technology/facebook-meta-change.html"
     },
     "og_item": {
       "title": "",
@@ -3371,6 +3387,96 @@
     }
   },
   {
+    "id": 30139643,
+    "title": "Very Remote Lisp Debugging Story",
+    "url": "https://susam.net/maze/very-remote-debugging.html",
+    "time": 1643567057,
+    "image": "",
+    "icon": "https://susam.net/maze/favicon.png",
+    "publisher": "susam.net",
+    "description": "",
+    "by": "susam",
+    "points": 44,
+    "comment_count": 5,
+    "hn_item": {
+      "by": "mupuff1234",
+      "descendants": 4,
+      "id": 30147159,
+      "kids": [
+        30147549,
+        30147505,
+        30147188,
+        30147463
+      ],
+      "score": 8,
+      "time": 1643631642,
+      "title": "How Facebook Is Morphing into Meta",
+      "type": "story",
+      "url": "https://www.nytimes.com/2022/01/31/technology/facebook-meta-change.html"
+    },
+    "og_item": {
+      "title": "Very Remote Lisp Debugging Story - Susam's Maze",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "favicon.png"
+      }
+    }
+  },
+  {
+    "id": 30137864,
+    "title": "Midnight Commander Tips and Tricks",
+    "url": "http://www.softpanorama.org/OFM/MC/mc_tips.shtml",
+    "time": 1643555741,
+    "image": "",
+    "icon": "",
+    "publisher": "softpanorama.org",
+    "description": "",
+    "by": "ingve",
+    "points": 163,
+    "comment_count": 19,
+    "hn_item": {
+      "by": "mupuff1234",
+      "descendants": 4,
+      "id": 30147159,
+      "kids": [
+        30147549,
+        30147505,
+        30147188,
+        30147463
+      ],
+      "score": 8,
+      "time": 1643631642,
+      "title": "How Facebook Is Morphing into Meta",
+      "type": "story",
+      "url": "https://www.nytimes.com/2022/01/31/technology/facebook-meta-change.html"
+    },
+    "og_item": {
+      "title": "Midnight Commander Tips and Tricks",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30147159,
     "title": "How Facebook Is Morphing into Meta",
     "url": "https://www.nytimes.com/2022/01/31/technology/facebook-meta-change.html",
@@ -3383,22 +3489,20 @@
     "points": 8,
     "comment_count": 4,
     "hn_item": {
-      "by": "doener",
-      "descendants": 27,
-      "id": 30125730,
+      "by": "mupuff1234",
+      "descendants": 4,
+      "id": 30147159,
       "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
+        30147549,
+        30147505,
+        30147188,
+        30147463
       ],
-      "score": 60,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
+      "score": 8,
+      "time": 1643631642,
+      "title": "How Facebook Is Morphing into Meta",
       "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+      "url": "https://www.nytimes.com/2022/01/31/technology/facebook-meta-change.html"
     },
     "og_item": {
       "title": "How Facebook Is Morphing Into Meta",
@@ -3423,268 +3527,6 @@
       "video": [],
       "favicon": {
         "url": "/vi-assets/static-assets/favicon-d2483f10ef688e6f89e23806b9700298.ico"
-      }
-    }
-  },
-  {
-    "id": 30139643,
-    "title": "Very Remote Lisp Debugging Story",
-    "url": "https://susam.net/maze/very-remote-debugging.html",
-    "time": 1643567057,
-    "image": "",
-    "icon": "https://susam.net/maze/favicon.png",
-    "publisher": "susam.net",
-    "description": "",
-    "by": "susam",
-    "points": 44,
-    "comment_count": 5,
-    "hn_item": {
-      "by": "doener",
-      "descendants": 27,
-      "id": 30125730,
-      "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
-      ],
-      "score": 60,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
-      "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
-    },
-    "og_item": {
-      "title": "Very Remote Lisp Debugging Story - Susam's Maze",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "favicon.png"
-      }
-    }
-  },
-  {
-    "id": 30140464,
-    "title": "The Great Unconformity: Research points to glaciers being the culprit",
-    "url": "https://www.vice.com/en/article/wxdzzb/a-billion-years-of-time-are-mysteriously-missing-scientists-think-they-know-why",
-    "time": 1643572375,
-    "image": "https://video-images.vice.com/articles/61f2a92be1de8b0094f51e5e/lede/1643293461145-screen-shot-2022-01-27-at-92341-am.png?image-resize-opts=Y3JvcD0xeHc6MC44NDUxeGg7MHh3LDAuMTE0OXhoJnJlc2l6ZT0xMjAwOiomcmVzaXplPTEyMDA6Kg",
-    "icon": "https://vice-web-statics-cdn.vice.com/favicons/vice/favicon-16x16.png",
-    "publisher": "Vice",
-    "description": "The Great Unconformity has baffled geologists for a century. New research points to glaciers being the culprit.",
-    "by": "cbkeller",
-    "points": 84,
-    "comment_count": 4,
-    "hn_item": {
-      "by": "doener",
-      "descendants": 27,
-      "id": 30125730,
-      "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
-      ],
-      "score": 60,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
-      "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
-    },
-    "og_item": {
-      "title": "A Billion Years of Time Are Mysteriously Missing. Scientists Think They Know Why.",
-      "type": "website",
-      "image": [
-        {
-          "url": "https://video-images.vice.com/articles/61f2a92be1de8b0094f51e5e/lede/1643293461145-screen-shot-2022-01-27-at-92341-am.png?image-resize-opts=Y3JvcD0xeHc6MC44NDUxeGg7MHh3LDAuMTE0OXhoJnJlc2l6ZT0xMjAwOiomcmVzaXplPTEyMDA6Kg",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://www.vice.com/en/article/wxdzzb/a-billion-years-of-time-are-mysteriously-missing-scientists-think-they-know-why",
-      "audio": [],
-      "description": "The Great Unconformity has baffled geologists for a century. New research points to glaciers being the culprit.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "https://vice-web-statics-cdn.vice.com/favicons/vice/favicon-16x16.png"
-      }
-    }
-  },
-  {
-    "id": 30137864,
-    "title": "Midnight Commander Tips and Tricks",
-    "url": "http://www.softpanorama.org/OFM/MC/mc_tips.shtml",
-    "time": 1643555741,
-    "image": "",
-    "icon": "",
-    "publisher": "softpanorama.org",
-    "description": "",
-    "by": "ingve",
-    "points": 163,
-    "comment_count": 19,
-    "hn_item": {
-      "by": "doener",
-      "descendants": 27,
-      "id": 30125730,
-      "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
-      ],
-      "score": 60,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
-      "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
-    },
-    "og_item": {
-      "title": "Midnight Commander Tips and Tricks",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30139734,
-    "title": "Show the case against",
-    "url": "https://www.shubhro.com/2022/01/03/show-the-case-against/",
-    "time": 1643567644,
-    "image": "",
-    "icon": "https://www.shubhro.com/favicon.ico",
-    "publisher": "shubhro.com",
-    "description": "",
-    "by": "shbhrsaha",
-    "points": 39,
-    "comment_count": 6,
-    "hn_item": {
-      "by": "doener",
-      "descendants": 27,
-      "id": 30125730,
-      "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
-      ],
-      "score": 60,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
-      "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
-    },
-    "og_item": {
-      "title": "Show the case against - shubhro.com",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30125730,
-    "title": "How Amiga 500 RAM Probably Works",
-    "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs",
-    "time": 1643458917,
-    "image": "https://i.ytimg.com/vi/e_f2Kg-bBUs/hqdefault.jpg",
-    "icon": "https://www.youtube.com/s/desktop/ca9cd554/img/favicon_144x144.png",
-    "publisher": "YouTube",
-    "description": "Amiga 500 RAM can be a bit of a mystery, like ghosts. But once you understand it, you'll never not understand it again. In this episode of \"How Things Probab...",
-    "by": "doener",
-    "points": 60,
-    "comment_count": 6,
-    "hn_item": {
-      "by": "doener",
-      "descendants": 27,
-      "id": 30125730,
-      "kids": [
-        30137540,
-        30138285,
-        30140327,
-        30137710,
-        30140268,
-        30141664
-      ],
-      "score": 60,
-      "time": 1643458917,
-      "title": "How Amiga 500 RAM Probably Works",
-      "type": "story",
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
-    },
-    "og_item": {
-      "title": "How Amiga 500 RAM Probably Works | How Things Probably Work",
-      "type": "video.other",
-      "image": [
-        {
-          "url": "https://i.ytimg.com/vi/e_f2Kg-bBUs/hqdefault.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 480,
-          "height": 360,
-          "alt": ""
-        }
-      ],
-      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs",
-      "audio": [],
-      "description": "Amiga 500 RAM can be a bit of a mystery, like ghosts. But once you understand it, you'll never not understand it again. In this episode of \"How Things Probab...",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "YouTube",
-      "video": [
-        {
-          "url": "https://www.youtube.com/embed/e_f2Kg-bBUs",
-          "secure_url": "https://www.youtube.com/embed/e_f2Kg-bBUs",
-          "type": "text/html",
-          "width": 1280,
-          "height": 720,
-          "duration": 0
-        }
-      ],
-      "favicon": {
-        "url": "https://www.youtube.com/s/desktop/ca9cd554/img/favicon_144x144.png"
       }
     }
   }
