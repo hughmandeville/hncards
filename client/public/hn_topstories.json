@@ -1,56 +1,5 @@
 [
   {
-    "id": 30146505,
-    "title": "Wokeademia",
-    "url": "https://johnhcochrane.blogspot.com/2020/01/wokeademia.html",
-    "time": 1643624509,
-    "image": "https://1.bp.blogspot.com/-PGegYolMXoA/XjH-__gMeTI/AAAAAAAACq0/blNGOgDJe20blxfDiaIA2ez_8HR87zeHgCLcBGAsYHQ/w1200-h630-p-k-no-nu/Screen%2BShot%2B2020-01-29%2Bat%2B1.53.34%2BPM.png",
-    "icon": "https://johnhcochrane.blogspot.com/favicon.ico",
-    "publisher": "johnhcochrane.blogspot.com",
-    "description": "",
-    "by": "kkwteh",
-    "points": 23,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "_wldu",
-      "descendants": 2,
-      "id": 30142896,
-      "kids": [
-        30144335
-      ],
-      "score": 15,
-      "time": 1643589180,
-      "title": "Decrypt an encrypted message to any plaintext",
-      "type": "story",
-      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts"
-    },
-    "og_item": {
-      "title": "Wokeademia",
-      "type": "",
-      "image": [
-        {
-          "url": "https://1.bp.blogspot.com/-PGegYolMXoA/XjH-__gMeTI/AAAAAAAACq0/blNGOgDJe20blxfDiaIA2ez_8HR87zeHgCLcBGAsYHQ/w1200-h630-p-k-no-nu/Screen%2BShot%2B2020-01-29%2Bat%2B1.53.34%2BPM.png",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://johnhcochrane.blogspot.com/2020/01/wokeademia.html",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "https://johnhcochrane.blogspot.com/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30146052,
     "title": "The Awk State Machine Parser Pattern (2018)",
     "url": "https://two-wrongs.com/awk-state-machine-parser-pattern.html",
@@ -60,7 +9,7 @@
     "publisher": "two-wrongs.com",
     "description": "",
     "by": "Tomte",
-    "points": 38,
+    "points": 40,
     "comment_count": 1,
     "hn_item": {
       "by": "_wldu",
@@ -102,7 +51,7 @@
     "publisher": "royalsociety.org",
     "description": "The Online Information Environment report discusses how to limit the harm of scientific misinformation online",
     "by": "steelstraw",
-    "points": 819,
+    "points": 825,
     "comment_count": 54,
     "hn_item": {
       "by": "_wldu",
@@ -153,7 +102,7 @@
     "publisher": "lwn.net",
     "description": "",
     "by": "pabs3",
-    "points": 129,
+    "points": 132,
     "comment_count": 5,
     "hn_item": {
       "by": "_wldu",
@@ -195,7 +144,7 @@
     "publisher": "smallcultfollowing.com",
     "description": "",
     "by": "ingve",
-    "points": 30,
+    "points": 35,
     "comment_count": 1,
     "hn_item": {
       "by": "_wldu",
@@ -237,7 +186,7 @@
     "publisher": "MathOverflow",
     "description": "The first thing to say is that this is not the same as the question about interesting mathematical mistakes. I am interested about the type of false beliefs that many intelligent people have while ...",
     "by": "gballan",
-    "points": 105,
+    "points": 108,
     "comment_count": 10,
     "hn_item": {
       "by": "_wldu",
@@ -283,12 +232,12 @@
     "title": "Boyfriend Alert",
     "url": "https://github.com/jscd/Boyfriend-Alert",
     "time": 1643619852,
-    "image": "https://opengraph.githubassets.com/5420ad7ecfc0fa7dbd215c484d899ea688cff6f2122b2940e79d5298bffdf570/jscd/Boyfriend-Alert",
+    "image": "https://opengraph.githubassets.com/06ff3a1ed46dc6e59780c6dec9c88952a62615c24a0d6aaedc63d27b40d9ba07/jscd/Boyfriend-Alert",
     "icon": "https://github.githubassets.com/favicons/favicon.svg",
     "publisher": "GitHub",
     "description": "A light based alert system. Contribute to jscd/Boyfriend-Alert development by creating an account on GitHub.",
     "by": "rgun",
-    "points": 29,
+    "points": 32,
     "comment_count": 8,
     "hn_item": {
       "by": "_wldu",
@@ -308,7 +257,7 @@
       "type": "object",
       "image": [
         {
-          "url": "https://opengraph.githubassets.com/5420ad7ecfc0fa7dbd215c484d899ea688cff6f2122b2940e79d5298bffdf570/jscd/Boyfriend-Alert",
+          "url": "https://opengraph.githubassets.com/06ff3a1ed46dc6e59780c6dec9c88952a62615c24a0d6aaedc63d27b40d9ba07/jscd/Boyfriend-Alert",
           "secure_url": "",
           "type": "",
           "width": 1200,
@@ -339,7 +288,7 @@
     "publisher": "theregister.com",
     "description": "",
     "by": "laktak",
-    "points": 100,
+    "points": 102,
     "comment_count": 10,
     "hn_item": {
       "by": "_wldu",
@@ -381,7 +330,7 @@
     "publisher": "Medium",
     "description": "My journey on finding and reporting databases with sensitive data about Fortune-500 companies, Hospitals, Crypto platforms, Startups during…",
     "by": "boyter",
-    "points": 156,
+    "points": 158,
     "comment_count": 14,
     "hn_item": {
       "by": "_wldu",
@@ -423,33 +372,6 @@
     }
   },
   {
-    "id": 30145237,
-    "title": "Generate Static Sites from Markdown Files with Caddy",
-    "url": "https://blog.thomaspuppe.de/static-sites-from-markdown-with-caddy-server",
-    "time": 1643611196,
-    "image": "",
-    "icon": "",
-    "publisher": "blog.thomaspuppe.de",
-    "description": "",
-    "by": "indigodaddy",
-    "points": 43,
-    "comment_count": 8,
-    "hn_item": {
-      "by": "_wldu",
-      "descendants": 2,
-      "id": 30142896,
-      "kids": [
-        30144335
-      ],
-      "score": 15,
-      "time": 1643589180,
-      "title": "Decrypt an encrypted message to any plaintext",
-      "type": "story",
-      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts"
-    },
-    "og_item": null
-  },
-  {
     "id": 30144108,
     "title": "Reimagining Chess with AlphaZero",
     "url": "https://cacm.acm.org/magazines/2022/2/258230-reimagining-chess-with-alphazero/fulltext",
@@ -459,8 +381,8 @@
     "publisher": "cacm.acm.org",
     "description": "AI is driving the next evolution of chess, giving players a glimpse into the game\u0026#39;s future.",
     "by": "joak",
-    "points": 103,
-    "comment_count": 13,
+    "points": 108,
+    "comment_count": 14,
     "hn_item": {
       "by": "_wldu",
       "descendants": 2,
@@ -501,6 +423,33 @@
     }
   },
   {
+    "id": 30145237,
+    "title": "Generate Static Sites from Markdown Files with Caddy",
+    "url": "https://blog.thomaspuppe.de/static-sites-from-markdown-with-caddy-server",
+    "time": 1643611196,
+    "image": "",
+    "icon": "",
+    "publisher": "blog.thomaspuppe.de",
+    "description": "",
+    "by": "indigodaddy",
+    "points": 45,
+    "comment_count": 8,
+    "hn_item": {
+      "by": "_wldu",
+      "descendants": 2,
+      "id": 30142896,
+      "kids": [
+        30144335
+      ],
+      "score": 15,
+      "time": 1643589180,
+      "title": "Decrypt an encrypted message to any plaintext",
+      "type": "story",
+      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts"
+    },
+    "og_item": null
+  },
+  {
     "id": 30131926,
     "title": "What is the inverse of a circle?",
     "url": "https://mattferraro.dev/posts/inverse-of-a-circle",
@@ -510,7 +459,7 @@
     "publisher": "mattferraro.dev",
     "description": "What does it mean to invert a shape?",
     "by": "mferraro89",
-    "points": 87,
+    "points": 92,
     "comment_count": 9,
     "hn_item": {
       "by": "_wldu",
@@ -561,7 +510,7 @@
     "publisher": "bleepingcomputer.com",
     "description": "",
     "by": "beermonster",
-    "points": 46,
+    "points": 53,
     "comment_count": 6,
     "hn_item": {
       "by": "_wldu",
@@ -603,7 +552,7 @@
     "publisher": "zillow.com",
     "description": "",
     "by": "otras",
-    "points": 276,
+    "points": 277,
     "comment_count": 34,
     "hn_item": {
       "by": "_wldu",
@@ -645,7 +594,7 @@
     "publisher": "EL PAÍS English Edition",
     "description": "Doctors in Belgium explain how they saved a bomb attack victim who had been struggling with one of the most virulent bacterial pathogens in the world",
     "by": "belter",
-    "points": 61,
+    "points": 64,
     "comment_count": 6,
     "hn_item": {
       "by": "_wldu",
@@ -696,7 +645,7 @@
     "publisher": "Azimuth",
     "description": "In his book Ramanujan: Twelve Lectures on Subjects Suggested by His Life and Work, G. H. Hardy tells this famous story: He could remember the idiosyncracies of numbers in an almost uncanny way. It …",
     "by": "johncarlosbaez",
-    "points": 103,
+    "points": 105,
     "comment_count": 9,
     "hn_item": {
       "by": "_wldu",
@@ -738,6 +687,48 @@
     }
   },
   {
+    "id": 30117500,
+    "title": "Plain Geology (1921)",
+    "url": "https://pubs.usgs.gov/gip/plain.html",
+    "time": 1643390110,
+    "image": "",
+    "icon": "https://pubs.usgs.gov/favicon.ico",
+    "publisher": "pubs.usgs.gov",
+    "description": "",
+    "by": "wrycoder",
+    "points": 4,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "_wldu",
+      "descendants": 2,
+      "id": 30142896,
+      "kids": [
+        30144335
+      ],
+      "score": 15,
+      "time": 1643589180,
+      "title": "Decrypt an encrypted message to any plaintext",
+      "type": "story",
+      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts"
+    },
+    "og_item": {
+      "title": "Plain Geology",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30143587,
     "title": "Ylang: Universal Language for eBPF, Stap+, GDB, and More (2021)",
     "url": "https://blog.openresty.com/en/ylang-intro-part4/",
@@ -747,7 +738,7 @@
     "publisher": "blog.openresty.com",
     "description": "Transparent Container Tracing Efficient Stack Unwinding Analyzing Dead Processes (Core Dumps) Very Low Tracing Overhead Standard Ylang Libraries \u0026amp; Tools Network Filtering \u0026amp; Control The Ylang Compiler\u0026rsquo;s Implementation Operating System Support Contributions to Open-Source Communities",
     "by": "walterbell",
-    "points": 51,
+    "points": 52,
     "comment_count": 6,
     "hn_item": {
       "by": "_wldu",
@@ -780,48 +771,6 @@
     }
   },
   {
-    "id": 30141278,
-    "title": "The Story of Maxis Software (1999)",
-    "url": "https://web.archive.org/web/19991012021220/http://gamespot.com/features/maxis/index.html",
-    "time": 1643577913,
-    "image": "",
-    "icon": "https://web.archive.org/favicon.ico",
-    "publisher": "web.archive.org",
-    "description": "",
-    "by": "ecliptik",
-    "points": 115,
-    "comment_count": 10,
-    "hn_item": {
-      "by": "_wldu",
-      "descendants": 2,
-      "id": 30142896,
-      "kids": [
-        30144335
-      ],
-      "score": 15,
-      "time": 1643589180,
-      "title": "Decrypt an encrypted message to any plaintext",
-      "type": "story",
-      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts"
-    },
-    "og_item": {
-      "title": "GameSpot's SIMply Divine: The Story of Maxis Software",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30143946,
     "title": "Mesmerizing Labor",
     "url": "https://daily.jstor.org/mesmerizing-labor/",
@@ -831,7 +780,7 @@
     "publisher": "JSTOR Daily",
     "description": "The man who introduced mesmerism to the US was a slave-owner from Guadeloupe, where planters were experimenting with “magnetizing” their enslaved people.",
     "by": "onychomys",
-    "points": 36,
+    "points": 37,
     "comment_count": 3,
     "hn_item": {
       "by": "_wldu",
@@ -882,7 +831,7 @@
     "publisher": "leahneukirchen.org",
     "description": "",
     "by": "panic",
-    "points": 149,
+    "points": 150,
     "comment_count": 13,
     "hn_item": {
       "by": "_wldu",
@@ -915,17 +864,17 @@
     }
   },
   {
-    "id": 30141192,
-    "title": "Don't forget Microsoft",
-    "url": "https://luttig.substack.com/p/dont-forget-microsoft",
-    "time": 1643577413,
-    "image": "https://cdn.substack.com/image/fetch/w_1200,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8ddf68e0-c549-49b6-8751-226f54fd4e30_1280x720.jpeg",
-    "icon": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/9c349228-1ca8-4dba-b953-12d78b35ee45/favicon-32x32.png",
-    "publisher": "luttig.substack.com",
-    "description": "Understanding the behemoth in Redmond teaches us valuable lessons in cloud infrastructure, startup strategy, and the future of software.",
-    "by": "SamvitJ",
-    "points": 319,
-    "comment_count": 57,
+    "id": 30141278,
+    "title": "The Story of Maxis Software (1999)",
+    "url": "https://web.archive.org/web/19991012021220/http://gamespot.com/features/maxis/index.html",
+    "time": 1643577913,
+    "image": "",
+    "icon": "https://web.archive.org/favicon.ico",
+    "publisher": "web.archive.org",
+    "description": "",
+    "by": "ecliptik",
+    "points": 115,
+    "comment_count": 10,
     "hn_item": {
       "by": "_wldu",
       "descendants": 2,
@@ -940,28 +889,19 @@
       "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts"
     },
     "og_item": {
-      "title": "Don’t forget Microsoft",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://cdn.substack.com/image/fetch/w_1200,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8ddf68e0-c549-49b6-8751-226f54fd4e30_1280x720.jpeg",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://luttig.substack.com/p/dont-forget-microsoft",
+      "title": "GameSpot's SIMply Divine: The Story of Maxis Software",
+      "type": "",
+      "image": [],
+      "url": "",
       "audio": [],
-      "description": "Understanding the behemoth in Redmond teaches us valuable lessons in cloud infrastructure, startup strategy, and the future of software.",
+      "description": "",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
       "site_name": "",
       "video": [],
       "favicon": {
-        "url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/9c349228-1ca8-4dba-b953-12d78b35ee45/favicon-32x32.png"
+        "url": "/favicon.ico"
       }
     }
   },
@@ -975,7 +915,7 @@
     "publisher": "Physics",
     "description": "The pattern of green and black scales on an ocellated lizard can be described with the two-parameter Ising model for antiferromagnetic systems.",
     "by": "shusaku",
-    "points": 48,
+    "points": 49,
     "comment_count": 3,
     "hn_item": {
       "by": "_wldu",
@@ -1017,6 +957,57 @@
     }
   },
   {
+    "id": 30141192,
+    "title": "Don't forget Microsoft",
+    "url": "https://luttig.substack.com/p/dont-forget-microsoft",
+    "time": 1643577413,
+    "image": "https://cdn.substack.com/image/fetch/w_1200,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8ddf68e0-c549-49b6-8751-226f54fd4e30_1280x720.jpeg",
+    "icon": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/9c349228-1ca8-4dba-b953-12d78b35ee45/favicon-32x32.png",
+    "publisher": "luttig.substack.com",
+    "description": "Understanding the behemoth in Redmond teaches us valuable lessons in cloud infrastructure, startup strategy, and the future of software.",
+    "by": "SamvitJ",
+    "points": 322,
+    "comment_count": 57,
+    "hn_item": {
+      "by": "_wldu",
+      "descendants": 2,
+      "id": 30142896,
+      "kids": [
+        30144335
+      ],
+      "score": 15,
+      "time": 1643589180,
+      "title": "Decrypt an encrypted message to any plaintext",
+      "type": "story",
+      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts"
+    },
+    "og_item": {
+      "title": "Don’t forget Microsoft",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://cdn.substack.com/image/fetch/w_1200,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8ddf68e0-c549-49b6-8751-226f54fd4e30_1280x720.jpeg",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://luttig.substack.com/p/dont-forget-microsoft",
+      "audio": [],
+      "description": "Understanding the behemoth in Redmond teaches us valuable lessons in cloud infrastructure, startup strategy, and the future of software.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/9c349228-1ca8-4dba-b953-12d78b35ee45/favicon-32x32.png"
+      }
+    }
+  },
+  {
     "id": 30131387,
     "title": "Game performance optimization – A practical example from Industry Idle",
     "url": "https://ruoyusun.com/2022/01/28/game-pref.html",
@@ -1026,8 +1017,8 @@
     "publisher": "ruoyusun.com",
     "description": "",
     "by": "insraq",
-    "points": 71,
-    "comment_count": 7,
+    "points": 74,
+    "comment_count": 8,
     "hn_item": {
       "by": "_wldu",
       "descendants": 2,
@@ -1059,6 +1050,57 @@
     }
   },
   {
+    "id": 30141439,
+    "title": "Operation Warp Speed: A new model for industrial policy",
+    "url": "https://americanaffairsjournal.org/2021/05/inside-operation-warp-speed-a-new-model-for-industrial-policy/",
+    "time": 1643579096,
+    "image": "https://americanaffairsjournal.org/wp-content/uploads/2021/05/Jenner-Vaccine.jpg",
+    "icon": "https://americanaffairsjournal.org/wp-content/themes/american-affairs-journal/assets/images/favicon-new.png",
+    "publisher": "American Affairs Journal",
+    "description": "Operation Warp Speed1 (OWS) was launched on May 15, 2020. A partnership between the Departments of Health and Human Services (HHS) and Defense (DoD), other agencies, and the private sector, its goal was to “accelerate the testing, supply, development, and distribution of safe and effective vacc…",
+    "by": "gok",
+    "points": 116,
+    "comment_count": 9,
+    "hn_item": {
+      "by": "_wldu",
+      "descendants": 2,
+      "id": 30142896,
+      "kids": [
+        30144335
+      ],
+      "score": 15,
+      "time": 1643589180,
+      "title": "Decrypt an encrypted message to any plaintext",
+      "type": "story",
+      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts"
+    },
+    "og_item": {
+      "title": "Inside Operation Warp Speed: A New Model for Industrial Policy - American Affairs Journal",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://americanaffairsjournal.org/wp-content/uploads/2021/05/Jenner-Vaccine.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 1200,
+          "height": 794,
+          "alt": ""
+        }
+      ],
+      "url": "https://americanaffairsjournal.org/2021/05/inside-operation-warp-speed-a-new-model-for-industrial-policy/",
+      "audio": [],
+      "description": "Operation Warp Speed1 (OWS) was launched on May 15, 2020. A partnership between the Departments of Health and Human Services (HHS) and Defense (DoD), other agencies, and the private sector, its goal was to “accelerate the testing, supply, development, and distribution of safe and effective vaccines, therapeutics, and diag­nostics to counter Covid-19.” As a result…",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "American Affairs Journal",
+      "video": [],
+      "favicon": {
+        "url": "https://americanaffairsjournal.org/wp-content/themes/american-affairs-journal/assets/images/favicon-new.png"
+      }
+    }
+  },
+  {
     "id": 30137984,
     "title": "Show HN: Web page that parses and explains the label on a bike tire",
     "url": "https://fahrrad-tools.de/tire.html",
@@ -1068,7 +1110,7 @@
     "publisher": "fahrrad-tools.de",
     "description": "Which tire fits my bike? Tires are always flat and now buy a tire with puncture protection? Find the right tire now!",
     "by": "moasda",
-    "points": 574,
+    "points": 575,
     "comment_count": 38,
     "hn_item": {
       "by": "_wldu",
@@ -1110,7 +1152,7 @@
     "publisher": "jenson.org",
     "description": "",
     "by": "radley",
-    "points": 784,
+    "points": 788,
     "comment_count": 102,
     "hn_item": {
       "by": "_wldu",
@@ -1194,57 +1236,6 @@
     }
   },
   {
-    "id": 30141439,
-    "title": "Operation Warp Speed: A new model for industrial policy",
-    "url": "https://americanaffairsjournal.org/2021/05/inside-operation-warp-speed-a-new-model-for-industrial-policy/",
-    "time": 1643579096,
-    "image": "https://americanaffairsjournal.org/wp-content/uploads/2021/05/Jenner-Vaccine.jpg",
-    "icon": "https://americanaffairsjournal.org/wp-content/themes/american-affairs-journal/assets/images/favicon-new.png",
-    "publisher": "American Affairs Journal",
-    "description": "Operation Warp Speed1 (OWS) was launched on May 15, 2020. A partnership between the Departments of Health and Human Services (HHS) and Defense (DoD), other agencies, and the private sector, its goal was to “accelerate the testing, supply, development, and distribution of safe and effective vacc…",
-    "by": "gok",
-    "points": 114,
-    "comment_count": 9,
-    "hn_item": {
-      "by": "_wldu",
-      "descendants": 2,
-      "id": 30142896,
-      "kids": [
-        30144335
-      ],
-      "score": 15,
-      "time": 1643589180,
-      "title": "Decrypt an encrypted message to any plaintext",
-      "type": "story",
-      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts"
-    },
-    "og_item": {
-      "title": "Inside Operation Warp Speed: A New Model for Industrial Policy - American Affairs Journal",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://americanaffairsjournal.org/wp-content/uploads/2021/05/Jenner-Vaccine.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 1200,
-          "height": 794,
-          "alt": ""
-        }
-      ],
-      "url": "https://americanaffairsjournal.org/2021/05/inside-operation-warp-speed-a-new-model-for-industrial-policy/",
-      "audio": [],
-      "description": "Operation Warp Speed1 (OWS) was launched on May 15, 2020. A partnership between the Departments of Health and Human Services (HHS) and Defense (DoD), other agencies, and the private sector, its goal was to “accelerate the testing, supply, development, and distribution of safe and effective vaccines, therapeutics, and diag­nostics to counter Covid-19.” As a result…",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "American Affairs Journal",
-      "video": [],
-      "favicon": {
-        "url": "https://americanaffairsjournal.org/wp-content/themes/american-affairs-journal/assets/images/favicon-new.png"
-      }
-    }
-  },
-  {
     "id": 30128193,
     "title": "On Immersion",
     "url": "https://blog.laurel.world/on-immersion/",
@@ -1254,7 +1245,7 @@
     "publisher": "blog.laurel.world",
     "description": "",
     "by": "artmare",
-    "points": 48,
+    "points": 51,
     "comment_count": 1,
     "hn_item": {
       "by": "_wldu",
@@ -1338,7 +1329,7 @@
     "publisher": "ByteofDev",
     "description": "Static Site Generators have been changing quickly with new trends like Jamstack. Learn more about the background of static site generators, why people use them, and the current state of them, with information on modern SSGs like Eleventy, Next.js, SvelteKit, and Astro.",
     "by": "AsyncBanana",
-    "points": 117,
+    "points": 119,
     "comment_count": 24,
     "hn_item": {
       "by": "_wldu",
@@ -1380,17 +1371,17 @@
     }
   },
   {
-    "id": 30141171,
-    "title": "Deep symbolic regression for recurrent sequences",
-    "url": "http://recur-env.eba-rm3fchmn.us-east-2.elasticbeanstalk.com/",
-    "time": 1643577344,
-    "image": "",
-    "icon": "",
-    "publisher": "recur-env.eba-rm3fchmn.us-eas…",
-    "description": "",
-    "by": "ShamelessC",
-    "points": 63,
-    "comment_count": 13,
+    "id": 30119800,
+    "title": "How the Hall Effect Still Reverberates",
+    "url": "https://spectrum.ieee.org/hall-effect-sensor",
+    "time": 1643401246,
+    "image": "https://spectrum.ieee.org/media-library/edwin-herbert-hall.png?id=29169021\u0026width=1200\u0026coordinates=0%2C466%2C0%2C466\u0026height=600",
+    "icon": "https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yNjU5NjY0OS9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTY1OTYwMjUwNn0.83ww7bkGqpGwDJ0lJUQ9t40jCxvzIiI09EEqwNcU8HE/img.png?width=32\u0026height=32",
+    "publisher": "IEEE Spectrum",
+    "description": "In 1879, a physicist set the stage for efficient space propulsion",
+    "by": "headalgorithm",
+    "points": 7,
+    "comment_count": 0,
     "hn_item": {
       "by": "_wldu",
       "descendants": 2,
@@ -1405,19 +1396,28 @@
       "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts"
     },
     "og_item": {
-      "title": "Streamlit",
-      "type": "",
-      "image": [],
-      "url": "",
+      "title": "How the Hall Effect Still Reverberates",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://spectrum.ieee.org/media-library/edwin-herbert-hall.png?id=29169021\u0026width=1200\u0026coordinates=0%2C466%2C0%2C466\u0026height=600",
+          "secure_url": "",
+          "type": "",
+          "width": 1200,
+          "height": 600,
+          "alt": ""
+        }
+      ],
+      "url": "https://spectrum.ieee.org/hall-effect-sensor",
       "audio": [],
-      "description": "",
+      "description": "In 1879, a physicist set the stage for efficient space propulsion",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "",
+      "site_name": "IEEE Spectrum",
       "video": [],
       "favicon": {
-        "url": "./favicon.png"
+        "url": "https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yNjU5NjY0OS9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTY1OTYwMjUwNn0.83ww7bkGqpGwDJ0lJUQ9t40jCxvzIiI09EEqwNcU8HE/img.png?width=32\u0026height=32"
       }
     }
   },
@@ -1473,6 +1473,48 @@
     }
   },
   {
+    "id": 30141171,
+    "title": "Deep symbolic regression for recurrent sequences",
+    "url": "http://recur-env.eba-rm3fchmn.us-east-2.elasticbeanstalk.com/",
+    "time": 1643577344,
+    "image": "",
+    "icon": "",
+    "publisher": "recur-env.eba-rm3fchmn.us-eas…",
+    "description": "",
+    "by": "ShamelessC",
+    "points": 63,
+    "comment_count": 13,
+    "hn_item": {
+      "by": "_wldu",
+      "descendants": 2,
+      "id": 30142896,
+      "kids": [
+        30144335
+      ],
+      "score": 15,
+      "time": 1643589180,
+      "title": "Decrypt an encrypted message to any plaintext",
+      "type": "story",
+      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts"
+    },
+    "og_item": {
+      "title": "Streamlit",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "./favicon.png"
+      }
+    }
+  },
+  {
     "id": 30119285,
     "title": "Devious SQL: Message Queuing Using Native PostgreSQL",
     "url": "https://blog.crunchydata.com/blog/message-queuing-using-native-postgresql",
@@ -1520,57 +1562,6 @@
       "video": [],
       "favicon": {
         "url": "https://blog.crunchydata.com/hubfs/Flat%20Logo_Color%20Icon.png"
-      }
-    }
-  },
-  {
-    "id": 30119800,
-    "title": "How the Hall Effect Still Reverberates",
-    "url": "https://spectrum.ieee.org/hall-effect-sensor",
-    "time": 1643401246,
-    "image": "https://spectrum.ieee.org/media-library/edwin-herbert-hall.png?id=29169021\u0026width=1200\u0026coordinates=0%2C466%2C0%2C466\u0026height=600",
-    "icon": "https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yNjU5NjY0OS9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTY1OTYwMjUwNn0.83ww7bkGqpGwDJ0lJUQ9t40jCxvzIiI09EEqwNcU8HE/img.png?width=32\u0026height=32",
-    "publisher": "IEEE Spectrum",
-    "description": "In 1879, a physicist set the stage for efficient space propulsion",
-    "by": "headalgorithm",
-    "points": 6,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "_wldu",
-      "descendants": 2,
-      "id": 30142896,
-      "kids": [
-        30144335
-      ],
-      "score": 15,
-      "time": 1643589180,
-      "title": "Decrypt an encrypted message to any plaintext",
-      "type": "story",
-      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts"
-    },
-    "og_item": {
-      "title": "How the Hall Effect Still Reverberates",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://spectrum.ieee.org/media-library/edwin-herbert-hall.png?id=29169021\u0026width=1200\u0026coordinates=0%2C466%2C0%2C466\u0026height=600",
-          "secure_url": "",
-          "type": "",
-          "width": 1200,
-          "height": 600,
-          "alt": ""
-        }
-      ],
-      "url": "https://spectrum.ieee.org/hall-effect-sensor",
-      "audio": [],
-      "description": "In 1879, a physicist set the stage for efficient space propulsion",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "IEEE Spectrum",
-      "video": [],
-      "favicon": {
-        "url": "https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yNjU5NjY0OS9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTY1OTYwMjUwNn0.83ww7bkGqpGwDJ0lJUQ9t40jCxvzIiI09EEqwNcU8HE/img.png?width=32\u0026height=32"
       }
     }
   },
@@ -1770,57 +1761,6 @@
     }
   },
   {
-    "id": 30142247,
-    "title": "Basic Cryptography – The Vigenere Cipher",
-    "url": "https://eric.mann.blog/basic-cryptography-the-vigenere-cipher/",
-    "time": 1643584323,
-    "image": "https://i0.wp.com/eric.mann.blog/wp-content/uploads/2022/01/fig-29-01-2022_17-52-02.jpg?fit=1500%2C900\u0026ssl=1",
-    "icon": "https://i0.wp.com/eric.mann.blog/wp-content/uploads/2021/12/cropped-00100sPORTRAIT_00100_BURST20190126115324341_COVER-scaled-1.jpg?fit=192%2C192\u0026ssl=1",
-    "publisher": "Eric Mann's Blog",
-    "description": "The Vigenere cipher is more complicated that the Caesar cipher but based on the same idea. It uses a running key to keep your message secure.",
-    "by": "eamann",
-    "points": 33,
-    "comment_count": 7,
-    "hn_item": {
-      "by": "_wldu",
-      "descendants": 2,
-      "id": 30142896,
-      "kids": [
-        30144335
-      ],
-      "score": 15,
-      "time": 1643589180,
-      "title": "Decrypt an encrypted message to any plaintext",
-      "type": "story",
-      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts"
-    },
-    "og_item": {
-      "title": "Basic cryptography - the Vigenere cipher - Eric Mann's Blog",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://i0.wp.com/eric.mann.blog/wp-content/uploads/2022/01/fig-29-01-2022_17-52-02.jpg?fit=1500%2C900\u0026ssl=1",
-          "secure_url": "",
-          "type": "",
-          "width": 1500,
-          "height": 900,
-          "alt": ""
-        }
-      ],
-      "url": "https://eric.mann.blog/basic-cryptography-the-vigenere-cipher/",
-      "audio": [],
-      "description": "The Vigenere cipher is more complicated that the Caesar cipher but based on the same idea. It uses a running key to keep your message secure.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Eric Mann's Blog",
-      "video": [],
-      "favicon": {
-        "url": "https://i0.wp.com/eric.mann.blog/wp-content/uploads/2021/12/cropped-00100sPORTRAIT_00100_BURST20190126115324341_COVER-scaled-1.jpg?fit=192%2C192\u0026ssl=1"
-      }
-    }
-  },
-  {
     "id": 30132612,
     "title": "John Locke’s recipe for Pancakes (2021)",
     "url": "https://rarecooking.com/2021/12/14/john-lockes-recipe-for-pancakes/",
@@ -1868,6 +1808,57 @@
       "video": [],
       "favicon": {
         "url": "https://s0.wp.com/i/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30142247,
+    "title": "Basic Cryptography – The Vigenere Cipher",
+    "url": "https://eric.mann.blog/basic-cryptography-the-vigenere-cipher/",
+    "time": 1643584323,
+    "image": "https://i0.wp.com/eric.mann.blog/wp-content/uploads/2022/01/fig-29-01-2022_17-52-02.jpg?fit=1500%2C900\u0026ssl=1",
+    "icon": "https://i0.wp.com/eric.mann.blog/wp-content/uploads/2021/12/cropped-00100sPORTRAIT_00100_BURST20190126115324341_COVER-scaled-1.jpg?fit=192%2C192\u0026ssl=1",
+    "publisher": "Eric Mann's Blog",
+    "description": "The Vigenere cipher is more complicated that the Caesar cipher but based on the same idea. It uses a running key to keep your message secure.",
+    "by": "eamann",
+    "points": 33,
+    "comment_count": 7,
+    "hn_item": {
+      "by": "_wldu",
+      "descendants": 2,
+      "id": 30142896,
+      "kids": [
+        30144335
+      ],
+      "score": 15,
+      "time": 1643589180,
+      "title": "Decrypt an encrypted message to any plaintext",
+      "type": "story",
+      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts"
+    },
+    "og_item": {
+      "title": "Basic cryptography - the Vigenere cipher - Eric Mann's Blog",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://i0.wp.com/eric.mann.blog/wp-content/uploads/2022/01/fig-29-01-2022_17-52-02.jpg?fit=1500%2C900\u0026ssl=1",
+          "secure_url": "",
+          "type": "",
+          "width": 1500,
+          "height": 900,
+          "alt": ""
+        }
+      ],
+      "url": "https://eric.mann.blog/basic-cryptography-the-vigenere-cipher/",
+      "audio": [],
+      "description": "The Vigenere cipher is more complicated that the Caesar cipher but based on the same idea. It uses a running key to keep your message secure.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Eric Mann's Blog",
+      "video": [],
+      "favicon": {
+        "url": "https://i0.wp.com/eric.mann.blog/wp-content/uploads/2021/12/cropped-00100sPORTRAIT_00100_BURST20190126115324341_COVER-scaled-1.jpg?fit=192%2C192\u0026ssl=1"
       }
     }
   },
@@ -1965,57 +1956,6 @@
     }
   },
   {
-    "id": 30122128,
-    "title": "Sega quits arcade business after 50 years",
-    "url": "https://www.eurogamer.net/articles/2022-01-28-sega-quits-japanese-arcade-business-after-50-years",
-    "time": 1643413723,
-    "image": "https://images.gnwcdn.com/2022/articles/2022-01-28-11-02/sega-quits-japanese-arcade-business-after-50-years-1643367770782.jpg/EG11/resize/1200x-1/sega-quits-japanese-arcade-business-after-50-years-1643367770782.jpg",
-    "icon": "https://www.eurogamer.net/favicon.ico",
-    "publisher": "Eurogamer.net",
-    "description": "",
-    "by": "atombender",
-    "points": 233,
-    "comment_count": 25,
-    "hn_item": {
-      "by": "_wldu",
-      "descendants": 2,
-      "id": 30142896,
-      "kids": [
-        30144335
-      ],
-      "score": 15,
-      "time": 1643589180,
-      "title": "Decrypt an encrypted message to any plaintext",
-      "type": "story",
-      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts"
-    },
-    "og_item": {
-      "title": "Sega quits Japanese arcade business after 50 years",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://images.gnwcdn.com/2022/articles/2022-01-28-11-02/sega-quits-japanese-arcade-business-after-50-years-1643367770782.jpg/EG11/resize/1200x-1/sega-quits-japanese-arcade-business-after-50-years-1643367770782.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 1200,
-          "height": 676,
-          "alt": ""
-        }
-      ],
-      "url": "https://www.eurogamer.net/articles/2022-01-28-sega-quits-japanese-arcade-business-after-50-years",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Eurogamer.net",
-      "video": [],
-      "favicon": {
-        "url": "https://www.eurogamer.net/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30116262,
     "title": "A Padlock I’d Use [video]",
     "url": "https://www.youtube.com/watch?v=HrV86GqlY8o",
@@ -2076,17 +2016,17 @@
     }
   },
   {
-    "id": 30145872,
-    "title": "Ask HN: What does the GDPR penalty for loading fonts mean for website owners?",
-    "url": "https://news.ycombinator.com/item?id=30145872",
-    "time": 1643618616,
-    "image": "",
-    "icon": "https://news.ycombinator.com/favicon.ico",
-    "publisher": "Hacker News",
+    "id": 30122128,
+    "title": "Sega quits arcade business after 50 years",
+    "url": "https://www.eurogamer.net/articles/2022-01-28-sega-quits-japanese-arcade-business-after-50-years",
+    "time": 1643413723,
+    "image": "https://images.gnwcdn.com/2022/articles/2022-01-28-11-02/sega-quits-japanese-arcade-business-after-50-years-1643367770782.jpg/EG11/resize/1200x-1/sega-quits-japanese-arcade-business-after-50-years-1643367770782.jpg",
+    "icon": "https://www.eurogamer.net/favicon.ico",
+    "publisher": "Eurogamer.net",
     "description": "",
-    "by": "emschlr",
-    "points": 5,
-    "comment_count": 4,
+    "by": "atombender",
+    "points": 234,
+    "comment_count": 25,
     "hn_item": {
       "by": "_wldu",
       "descendants": 2,
@@ -2101,70 +2041,28 @@
       "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts"
     },
     "og_item": {
-      "title": "Ask HN: What does the GDPR penalty for loading fonts mean for website owners? | Hacker News",
-      "type": "",
-      "image": [],
-      "url": "",
+      "title": "Sega quits Japanese arcade business after 50 years",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://images.gnwcdn.com/2022/articles/2022-01-28-11-02/sega-quits-japanese-arcade-business-after-50-years-1643367770782.jpg/EG11/resize/1200x-1/sega-quits-japanese-arcade-business-after-50-years-1643367770782.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 1200,
+          "height": 676,
+          "alt": ""
+        }
+      ],
+      "url": "https://www.eurogamer.net/articles/2022-01-28-sega-quits-japanese-arcade-business-after-50-years",
       "audio": [],
       "description": "",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "",
+      "site_name": "Eurogamer.net",
       "video": [],
       "favicon": {
-        "url": "favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30143377,
-    "title": "A Simple Transformer Implementation(PyTorch) Without Difficult Syntax",
-    "url": "https://github.com/IpsumDominum/Pytorch-Simple-Transformer",
-    "time": 1643592608,
-    "image": "https://opengraph.githubassets.com/2129739e27d77f005c178d2d301679e8bd379c0248ef2930674de0d3118f0859/IpsumDominum/Pytorch-Simple-Transformer",
-    "icon": "https://github.githubassets.com/favicons/favicon.svg",
-    "publisher": "GitHub",
-    "description": "A simple transformer implementation without difficult syntax and extra bells and whistles. - GitHub - IpsumDominum/Pytorch-Simple-Transformer: A simple transformer implementation without difficult ...",
-    "by": "IpsumDominum",
-    "points": 13,
-    "comment_count": 1,
-    "hn_item": {
-      "by": "_wldu",
-      "descendants": 2,
-      "id": 30142896,
-      "kids": [
-        30144335
-      ],
-      "score": 15,
-      "time": 1643589180,
-      "title": "Decrypt an encrypted message to any plaintext",
-      "type": "story",
-      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts"
-    },
-    "og_item": {
-      "title": "GitHub - IpsumDominum/Pytorch-Simple-Transformer: A simple transformer implementation without difficult syntax and extra bells and whistles.",
-      "type": "object",
-      "image": [
-        {
-          "url": "https://opengraph.githubassets.com/2129739e27d77f005c178d2d301679e8bd379c0248ef2930674de0d3118f0859/IpsumDominum/Pytorch-Simple-Transformer",
-          "secure_url": "",
-          "type": "",
-          "width": 1200,
-          "height": 600,
-          "alt": ""
-        }
-      ],
-      "url": "https://github.com/IpsumDominum/Pytorch-Simple-Transformer",
-      "audio": [],
-      "description": "A simple transformer implementation without difficult syntax and extra bells and whistles. - GitHub - IpsumDominum/Pytorch-Simple-Transformer: A simple transformer implementation without difficult ...",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "GitHub",
-      "video": [],
-      "favicon": {
-        "url": "https://github.githubassets.com/favicons/favicon.svg"
+        "url": "https://www.eurogamer.net/favicon.ico"
       }
     }
   },
@@ -2178,7 +2076,7 @@
     "publisher": "GitHub",
     "description": "Beancount: Double-Entry Accounting from Text Files. - GitHub - beancount/beancount: Beancount: Double-Entry Accounting from Text Files.",
     "by": "techtalsky",
-    "points": 201,
+    "points": 202,
     "comment_count": 22,
     "hn_item": {
       "by": "_wldu",
@@ -2209,6 +2107,57 @@
       "url": "https://github.com/beancount/beancount",
       "audio": [],
       "description": "Beancount: Double-Entry Accounting from Text Files. - GitHub - beancount/beancount: Beancount: Double-Entry Accounting from Text Files.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "GitHub",
+      "video": [],
+      "favicon": {
+        "url": "https://github.githubassets.com/favicons/favicon.svg"
+      }
+    }
+  },
+  {
+    "id": 30143377,
+    "title": "A Simple Transformer Implementation(PyTorch) Without Difficult Syntax",
+    "url": "https://github.com/IpsumDominum/Pytorch-Simple-Transformer",
+    "time": 1643592608,
+    "image": "https://opengraph.githubassets.com/2129739e27d77f005c178d2d301679e8bd379c0248ef2930674de0d3118f0859/IpsumDominum/Pytorch-Simple-Transformer",
+    "icon": "https://github.githubassets.com/favicons/favicon.svg",
+    "publisher": "GitHub",
+    "description": "A simple transformer implementation without difficult syntax and extra bells and whistles. - GitHub - IpsumDominum/Pytorch-Simple-Transformer: A simple transformer implementation without difficult ...",
+    "by": "IpsumDominum",
+    "points": 14,
+    "comment_count": 1,
+    "hn_item": {
+      "by": "_wldu",
+      "descendants": 2,
+      "id": 30142896,
+      "kids": [
+        30144335
+      ],
+      "score": 15,
+      "time": 1643589180,
+      "title": "Decrypt an encrypted message to any plaintext",
+      "type": "story",
+      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts"
+    },
+    "og_item": {
+      "title": "GitHub - IpsumDominum/Pytorch-Simple-Transformer: A simple transformer implementation without difficult syntax and extra bells and whistles.",
+      "type": "object",
+      "image": [
+        {
+          "url": "https://opengraph.githubassets.com/2129739e27d77f005c178d2d301679e8bd379c0248ef2930674de0d3118f0859/IpsumDominum/Pytorch-Simple-Transformer",
+          "secure_url": "",
+          "type": "",
+          "width": 1200,
+          "height": 600,
+          "alt": ""
+        }
+      ],
+      "url": "https://github.com/IpsumDominum/Pytorch-Simple-Transformer",
+      "audio": [],
+      "description": "A simple transformer implementation without difficult syntax and extra bells and whistles. - GitHub - IpsumDominum/Pytorch-Simple-Transformer: A simple transformer implementation without difficult ...",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
@@ -2280,7 +2229,7 @@
     "publisher": "bastian.rieck.me",
     "description": "",
     "by": "Topolomancer",
-    "points": 211,
+    "points": 213,
     "comment_count": 24,
     "hn_item": {
       "by": "_wldu",
@@ -2309,6 +2258,48 @@
       "video": [],
       "favicon": {
         "url": "/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30145872,
+    "title": "Ask HN: What does the GDPR penalty for loading fonts mean for website owners?",
+    "url": "https://news.ycombinator.com/item?id=30145872",
+    "time": 1643618616,
+    "image": "",
+    "icon": "https://news.ycombinator.com/favicon.ico",
+    "publisher": "Hacker News",
+    "description": "",
+    "by": "emschlr",
+    "points": 5,
+    "comment_count": 4,
+    "hn_item": {
+      "by": "_wldu",
+      "descendants": 2,
+      "id": 30142896,
+      "kids": [
+        30144335
+      ],
+      "score": 15,
+      "time": 1643589180,
+      "title": "Decrypt an encrypted message to any plaintext",
+      "type": "story",
+      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts"
+    },
+    "og_item": {
+      "title": "Ask HN: What does the GDPR penalty for loading fonts mean for website owners? | Hacker News",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "favicon.ico"
       }
     }
   },
@@ -2355,17 +2346,17 @@
     }
   },
   {
-    "id": 30144101,
-    "title": "Please Make a Dumb Car",
-    "url": "https://techcrunch.com/2022/01/29/please-make-a-dumb-car/",
-    "time": 1643599448,
-    "image": "https://techcrunch.com/wp-content/uploads/2022/01/dumb-car2.jpg?w=711",
-    "icon": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=192",
-    "publisher": "TechCrunch",
-    "description": "Today’s cars are dumb where they should be smart, and smart where they should be dumb. Enough already. Make a car that’s pretty much all dumb and watch it sell — because what automakers are giving people is so bad, they’ll pay more to have less of it. Cars now are like budget smar…",
-    "by": "wrycoder",
-    "points": 128,
-    "comment_count": 43,
+    "id": 30146468,
+    "title": "More Americans died of Covid in the past 2 weeks than died of flu in past 3 yrs",
+    "url": "https://twitter.com/Craig_A_Spencer/status/1487985522765086731",
+    "time": 1643624104,
+    "image": "",
+    "icon": "https://abs.twimg.com/favicons/twitter.2.ico",
+    "publisher": "Twitter",
+    "description": "",
+    "by": "caaqil",
+    "points": 8,
+    "comment_count": 0,
     "hn_item": {
       "by": "_wldu",
       "descendants": 2,
@@ -2380,79 +2371,19 @@
       "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts"
     },
     "og_item": {
-      "title": "Please make a dumb car – TechCrunch",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/01/dumb-car2.jpg?w=711",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://social.techcrunch.com/2022/01/29/please-make-a-dumb-car/",
+      "title": "",
+      "type": "",
+      "image": [],
+      "url": "",
       "audio": [],
-      "description": "Today’s cars are dumb where they should be smart, and smart where they should be dumb. Enough already. Make a car that’s pretty much all dumb and watch it sell — because what automakers are giving people is so bad, they’ll pay more to have less of it. Cars now are like budget smar…",
+      "description": "",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "TechCrunch",
+      "site_name": "Twitter",
       "video": [],
       "favicon": {
-        "url": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=192"
-      }
-    }
-  },
-  {
-    "id": 30114787,
-    "title": "The Society of the Spectacle",
-    "url": "https://unredacted-word.pub/",
-    "time": 1643379255,
-    "image": "https://unredacted-word.pub/static/logo.png",
-    "icon": "https://unredacted-word.pub/favicon.ico",
-    "publisher": "unredacted-word.pub",
-    "description": "Unredacted Word: publisher of words, code \u0026 data. Our new edition of The Society of the Spectacle is out now 💥.",
-    "by": "raldu",
-    "points": 97,
-    "comment_count": 10,
-    "hn_item": {
-      "by": "_wldu",
-      "descendants": 2,
-      "id": 30142896,
-      "kids": [
-        30144335
-      ],
-      "score": 15,
-      "time": 1643589180,
-      "title": "Decrypt an encrypted message to any plaintext",
-      "type": "story",
-      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts"
-    },
-    "og_item": {
-      "title": "Unredacted Word",
-      "type": "website",
-      "image": [
-        {
-          "url": "https://unredacted-word.pub/static/logo.png",
-          "secure_url": "",
-          "type": "",
-          "width": 180,
-          "height": 180,
-          "alt": ""
-        }
-      ],
-      "url": "https://unredacted-word.pub/",
-      "audio": [],
-      "description": "Unredacted Word: publisher of words, code \u0026 data. Our new edition of The Society of the Spectacle is out now 💥. ",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
+        "url": "//abs.twimg.com/favicons/twitter.2.ico"
       }
     }
   },
@@ -2588,6 +2519,57 @@
       "video": [],
       "favicon": {
         "url": "favicon.png"
+      }
+    }
+  },
+  {
+    "id": 30144101,
+    "title": "Please Make a Dumb Car",
+    "url": "https://techcrunch.com/2022/01/29/please-make-a-dumb-car/",
+    "time": 1643599448,
+    "image": "https://techcrunch.com/wp-content/uploads/2022/01/dumb-car2.jpg?w=711",
+    "icon": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=192",
+    "publisher": "TechCrunch",
+    "description": "Today’s cars are dumb where they should be smart, and smart where they should be dumb. Enough already. Make a car that’s pretty much all dumb and watch it sell — because what automakers are giving people is so bad, they’ll pay more to have less of it. Cars now are like budget smar…",
+    "by": "wrycoder",
+    "points": 129,
+    "comment_count": 44,
+    "hn_item": {
+      "by": "_wldu",
+      "descendants": 2,
+      "id": 30142896,
+      "kids": [
+        30144335
+      ],
+      "score": 15,
+      "time": 1643589180,
+      "title": "Decrypt an encrypted message to any plaintext",
+      "type": "story",
+      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts"
+    },
+    "og_item": {
+      "title": "Please make a dumb car – TechCrunch",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/01/dumb-car2.jpg?w=711",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://social.techcrunch.com/2022/01/29/please-make-a-dumb-car/",
+      "audio": [],
+      "description": "Today’s cars are dumb where they should be smart, and smart where they should be dumb. Enough already. Make a car that’s pretty much all dumb and watch it sell — because what automakers are giving people is so bad, they’ll pay more to have less of it. Cars now are like budget smar…",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "TechCrunch",
+      "video": [],
+      "favicon": {
+        "url": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=192"
       }
     }
   },
@@ -2847,33 +2829,6 @@
     }
   },
   {
-    "id": 30125931,
-    "title": "Fluid Simulation – Siggraph 2007 Course Notes [pdf]",
-    "url": "https://www.cs.ubc.ca/~rbridson/fluidsimulation/fluids_notes.pdf",
-    "time": 1643461256,
-    "image": "",
-    "icon": "",
-    "publisher": "cs.ubc.ca",
-    "description": "",
-    "by": "creata",
-    "points": 38,
-    "comment_count": 5,
-    "hn_item": {
-      "by": "_wldu",
-      "descendants": 2,
-      "id": 30142896,
-      "kids": [
-        30144335
-      ],
-      "score": 15,
-      "time": 1643589180,
-      "title": "Decrypt an encrypted message to any plaintext",
-      "type": "story",
-      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts"
-    },
-    "og_item": null
-  },
-  {
     "id": 30128061,
     "title": "Nuanced communication usually doesn't work at scale",
     "url": "https://twitter.com/danluu/status/1487228574608211969",
@@ -2914,6 +2869,33 @@
         "url": "//abs.twimg.com/favicons/twitter.2.ico"
       }
     }
+  },
+  {
+    "id": 30125931,
+    "title": "Fluid Simulation – Siggraph 2007 Course Notes [pdf]",
+    "url": "https://www.cs.ubc.ca/~rbridson/fluidsimulation/fluids_notes.pdf",
+    "time": 1643461256,
+    "image": "",
+    "icon": "",
+    "publisher": "cs.ubc.ca",
+    "description": "",
+    "by": "creata",
+    "points": 38,
+    "comment_count": 5,
+    "hn_item": {
+      "by": "_wldu",
+      "descendants": 2,
+      "id": 30142896,
+      "kids": [
+        30144335
+      ],
+      "score": 15,
+      "time": 1643589180,
+      "title": "Decrypt an encrypted message to any plaintext",
+      "type": "story",
+      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts"
+    },
+    "og_item": null
   },
   {
     "id": 30128379,
@@ -3060,6 +3042,33 @@
     }
   },
   {
+    "id": 30138468,
+    "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
+    "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf",
+    "time": 1643559712,
+    "image": "",
+    "icon": "",
+    "publisher": "win.tue.nl",
+    "description": "",
+    "by": "camnora",
+    "points": 105,
+    "comment_count": 7,
+    "hn_item": {
+      "by": "_wldu",
+      "descendants": 2,
+      "id": 30142896,
+      "kids": [
+        30144335
+      ],
+      "score": 15,
+      "time": 1643589180,
+      "title": "Decrypt an encrypted message to any plaintext",
+      "type": "story",
+      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts"
+    },
+    "og_item": null
+  },
+  {
     "id": 30119925,
     "title": "Message in a bottle from Scottish girl found in Norway after 25 years",
     "url": "https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-60121185",
@@ -3109,33 +3118,6 @@
         "url": "/favicon.ico"
       }
     }
-  },
-  {
-    "id": 30138468,
-    "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
-    "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf",
-    "time": 1643559712,
-    "image": "",
-    "icon": "",
-    "publisher": "win.tue.nl",
-    "description": "",
-    "by": "camnora",
-    "points": 105,
-    "comment_count": 7,
-    "hn_item": {
-      "by": "_wldu",
-      "descendants": 2,
-      "id": 30142896,
-      "kids": [
-        30144335
-      ],
-      "score": 15,
-      "time": 1643589180,
-      "title": "Decrypt an encrypted message to any plaintext",
-      "type": "story",
-      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts"
-    },
-    "og_item": null
   },
   {
     "id": 30141784,
