@@ -9,23 +9,18 @@
     "publisher": "royalsociety.org",
     "description": "The Online Information Environment report discusses how to limit the harm of scientific misinformation online",
     "by": "steelstraw",
-    "points": 321,
-    "comment_count": 28,
+    "points": 329,
+    "comment_count": 30,
     "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
-      "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
-      ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
+      "by": "jihadjihad",
+      "descendants": 0,
+      "id": 30143454,
+      "kids": null,
+      "score": 3,
+      "time": 1643593183,
+      "title": "Belphegor's Prime",
       "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
+      "url": "https://en.wikipedia.org/wiki/Belphegor%27s_prime"
     },
     "og_item": {
       "title": "Royal Society cautions against censorship of scientific misinformation online | Royal Society",
@@ -63,23 +58,18 @@
     "publisher": "fahrrad-tools.de",
     "description": "Which tire fits my bike? Tires are always flat and now buy a tire with puncture protection? Find the right tire now!",
     "by": "moasda",
-    "points": 494,
+    "points": 495,
     "comment_count": 36,
     "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
-      "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
-      ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
+      "by": "jihadjihad",
+      "descendants": 0,
+      "id": 30143454,
+      "kids": null,
+      "score": 3,
+      "time": 1643593183,
+      "title": "Belphegor's Prime",
       "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
+      "url": "https://en.wikipedia.org/wiki/Belphegor%27s_prime"
     },
     "og_item": {
       "title": "Bike Tire | Fahrrad-Tools.de",
@@ -108,23 +98,18 @@
     "publisher": "American Affairs Journal",
     "description": "Operation Warp Speed1 (OWS) was launched on May 15, 2020. A partnership between the Departments of Health and Human Services (HHS) and Defense (DoD), other agencies, and the private sector, its goal was to “accelerate the testing, supply, development, and distribution of safe and effective vacc…",
     "by": "gok",
-    "points": 58,
+    "points": 60,
     "comment_count": 5,
     "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
-      "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
-      ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
+      "by": "jihadjihad",
+      "descendants": 0,
+      "id": 30143454,
+      "kids": null,
+      "score": 3,
+      "time": 1643593183,
+      "title": "Belphegor's Prime",
       "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
+      "url": "https://en.wikipedia.org/wiki/Belphegor%27s_prime"
     },
     "og_item": {
       "title": "Inside Operation Warp Speed: A New Model for Industrial Policy - American Affairs Journal",
@@ -153,6 +138,55 @@
     }
   },
   {
+    "id": 30143375,
+    "title": "Lizard Scale Patterns Described with Antiferromagnetic Model",
+    "url": "https://physics.aps.org/articles/v15/s12",
+    "time": 1643592578,
+    "image": "https://physics.aps.org/assets/604d524b-147e-4667-ad05-3d568e7114b0/e12_1_thumb.png",
+    "icon": "https://cdn.journals.aps.org/development/physics/images/icons/favicon.ico",
+    "publisher": "Physics",
+    "description": "The pattern of green and black scales on an ocellated lizard can be described with the two-parameter Ising model for antiferromagnetic systems.",
+    "by": "shusaku",
+    "points": 5,
+    "comment_count": 1,
+    "hn_item": {
+      "by": "jihadjihad",
+      "descendants": 0,
+      "id": 30143454,
+      "kids": null,
+      "score": 3,
+      "time": 1643593183,
+      "title": "Belphegor's Prime",
+      "type": "story",
+      "url": "https://en.wikipedia.org/wiki/Belphegor%27s_prime"
+    },
+    "og_item": {
+      "title": "Lizard Scale Patterns Described with Antiferromagnetic Model",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://physics.aps.org/assets/604d524b-147e-4667-ad05-3d568e7114b0/e12_1_thumb.png",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://physics.aps.org/articles/v15/s12",
+      "audio": [],
+      "description": "The pattern of green and black scales on an ocellated lizard can be described with the two-parameter Ising model for antiferromagnetic systems.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Physics",
+      "video": [],
+      "favicon": {
+        "url": "//cdn.journals.aps.org/development/physics/images/icons/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30141278,
     "title": "The Story of Maxis Software (1999)",
     "url": "https://web.archive.org/web/19991012021220/http://gamespot.com/features/maxis/index.html",
@@ -162,71 +196,21 @@
     "publisher": "web.archive.org",
     "description": "",
     "by": "ecliptik",
-    "points": 49,
+    "points": 51,
     "comment_count": 5,
     "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
-      "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
-      ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
+      "by": "jihadjihad",
+      "descendants": 0,
+      "id": 30143454,
+      "kids": null,
+      "score": 3,
+      "time": 1643593183,
+      "title": "Belphegor's Prime",
       "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
+      "url": "https://en.wikipedia.org/wiki/Belphegor%27s_prime"
     },
     "og_item": {
       "title": "GameSpot's SIMply Divine: The Story of Maxis Software",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30138533,
-    "title": "Hypercard Simulator",
-    "url": "https://hypercardsimulator.com/",
-    "time": 1643560248,
-    "image": "",
-    "icon": "https://hypercardsimulator.com/favicon.ico",
-    "publisher": "hypercardsimulator.com",
-    "description": "",
-    "by": "alexmingoia",
-    "points": 186,
-    "comment_count": 13,
-    "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
-      "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
-      ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
-      "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
-    },
-    "og_item": {
-      "title": "HyperCardSimulator",
       "type": "",
       "image": [],
       "url": "",
@@ -252,23 +236,18 @@
     "publisher": "Azimuth",
     "description": "In his book Ramanujan: Twelve Lectures on Subjects Suggested by His Life and Work, G. H. Hardy tells this famous story: He could remember the idiosyncracies of numbers in an almost uncanny way. It …",
     "by": "johncarlosbaez",
-    "points": 25,
+    "points": 26,
     "comment_count": 2,
     "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
-      "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
-      ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
+      "by": "jihadjihad",
+      "descendants": 0,
+      "id": 30143454,
+      "kids": null,
+      "score": 3,
+      "time": 1643593183,
+      "title": "Belphegor's Prime",
       "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
+      "url": "https://en.wikipedia.org/wiki/Belphegor%27s_prime"
     },
     "og_item": {
       "title": "Hardy, Ramanujan and Taxi No. 1729",
@@ -297,51 +276,6 @@
     }
   },
   {
-    "id": 30140984,
-    "title": "A UX designer walks into a Tesla Bar",
-    "url": "https://jenson.org/tesla/",
-    "time": 1643576121,
-    "image": "",
-    "icon": "https://jenson.org/wp-content/uploads/2015/09/out-200x200.png",
-    "publisher": "jenson.org",
-    "description": "",
-    "by": "radley",
-    "points": 528,
-    "comment_count": 79,
-    "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
-      "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
-      ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
-      "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
-    },
-    "og_item": {
-      "title": "A UX designer walks into a Tesla Bar – Scott Jenson",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "https://jenson.org/wp-content/uploads/2015/09/out-200x200.png"
-      }
-    }
-  },
-  {
     "id": 30134367,
     "title": "The case of the mysterious --help directory (2020)",
     "url": "https://leahneukirchen.org/blog/archive/2020/05/the-case-of-the-mysterious-help-directory.html",
@@ -351,23 +285,18 @@
     "publisher": "leahneukirchen.org",
     "description": "",
     "by": "panic",
-    "points": 109,
+    "points": 111,
     "comment_count": 10,
     "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
-      "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
-      ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
+      "by": "jihadjihad",
+      "descendants": 0,
+      "id": 30143454,
+      "kids": null,
+      "score": 3,
+      "time": 1643593183,
+      "title": "Belphegor's Prime",
       "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
+      "url": "https://en.wikipedia.org/wiki/Belphegor%27s_prime"
     },
     "og_item": {
       "title": "leah blogs: The case of the mysterious --help directory",
@@ -387,6 +316,86 @@
     }
   },
   {
+    "id": 30138533,
+    "title": "Hypercard Simulator",
+    "url": "https://hypercardsimulator.com/",
+    "time": 1643560248,
+    "image": "",
+    "icon": "https://hypercardsimulator.com/favicon.ico",
+    "publisher": "hypercardsimulator.com",
+    "description": "",
+    "by": "alexmingoia",
+    "points": 188,
+    "comment_count": 13,
+    "hn_item": {
+      "by": "jihadjihad",
+      "descendants": 0,
+      "id": 30143454,
+      "kids": null,
+      "score": 3,
+      "time": 1643593183,
+      "title": "Belphegor's Prime",
+      "type": "story",
+      "url": "https://en.wikipedia.org/wiki/Belphegor%27s_prime"
+    },
+    "og_item": {
+      "title": "HyperCardSimulator",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30140984,
+    "title": "A UX designer walks into a Tesla Bar",
+    "url": "https://jenson.org/tesla/",
+    "time": 1643576121,
+    "image": "",
+    "icon": "https://jenson.org/wp-content/uploads/2015/09/out-200x200.png",
+    "publisher": "jenson.org",
+    "description": "",
+    "by": "radley",
+    "points": 534,
+    "comment_count": 80,
+    "hn_item": {
+      "by": "jihadjihad",
+      "descendants": 0,
+      "id": 30143454,
+      "kids": null,
+      "score": 3,
+      "time": 1643593183,
+      "title": "Belphegor's Prime",
+      "type": "story",
+      "url": "https://en.wikipedia.org/wiki/Belphegor%27s_prime"
+    },
+    "og_item": {
+      "title": "A UX designer walks into a Tesla Bar – Scott Jenson",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "https://jenson.org/wp-content/uploads/2015/09/out-200x200.png"
+      }
+    }
+  },
+  {
     "id": 30141192,
     "title": "Don't forget Microsoft",
     "url": "https://luttig.substack.com/p/dont-forget-microsoft",
@@ -396,23 +405,18 @@
     "publisher": "luttig.substack.com",
     "description": "Understanding the behemoth in Redmond teaches us valuable lessons in cloud infrastructure, startup strategy, and the future of software.",
     "by": "SamvitJ",
-    "points": 139,
+    "points": 147,
     "comment_count": 35,
     "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
-      "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
-      ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
+      "by": "jihadjihad",
+      "descendants": 0,
+      "id": 30143454,
+      "kids": null,
+      "score": 3,
+      "time": 1643593183,
+      "title": "Belphegor's Prime",
       "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
+      "url": "https://en.wikipedia.org/wiki/Belphegor%27s_prime"
     },
     "og_item": {
       "title": "Don’t forget Microsoft",
@@ -445,7 +449,7 @@
     "title": "Beancount: Double-entry accounting from text files",
     "url": "https://github.com/beancount/beancount",
     "time": 1643559445,
-    "image": "https://opengraph.githubassets.com/3c81d1fc54219e923d6aa491cf7d07f8b956af6d52492ec611d80ebf17d49901/beancount/beancount",
+    "image": "https://opengraph.githubassets.com/80ac0ab1f915308e37547dd415894bbc9152cf9563ef1cfa0351d2160e9257a9/beancount/beancount",
     "icon": "https://github.githubassets.com/favicons/favicon.svg",
     "publisher": "GitHub",
     "description": "Beancount: Double-Entry Accounting from Text Files. - GitHub - beancount/beancount: Beancount: Double-Entry Accounting from Text Files.",
@@ -453,27 +457,22 @@
     "points": 164,
     "comment_count": 18,
     "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
-      "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
-      ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
+      "by": "jihadjihad",
+      "descendants": 0,
+      "id": 30143454,
+      "kids": null,
+      "score": 3,
+      "time": 1643593183,
+      "title": "Belphegor's Prime",
       "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
+      "url": "https://en.wikipedia.org/wiki/Belphegor%27s_prime"
     },
     "og_item": {
       "title": "GitHub - beancount/beancount: Beancount: Double-Entry Accounting from Text Files.",
       "type": "object",
       "image": [
         {
-          "url": "https://opengraph.githubassets.com/3c81d1fc54219e923d6aa491cf7d07f8b956af6d52492ec611d80ebf17d49901/beancount/beancount",
+          "url": "https://opengraph.githubassets.com/80ac0ab1f915308e37547dd415894bbc9152cf9563ef1cfa0351d2160e9257a9/beancount/beancount",
           "secure_url": "",
           "type": "",
           "width": 1200,
@@ -504,23 +503,18 @@
     "publisher": "BBC News",
     "description": "The bottle Joanna Buchan dropped in the sea at Peterhead when she was eight has washed up in Norway.",
     "by": "LinuxBender",
-    "points": 76,
-    "comment_count": 8,
+    "points": 77,
+    "comment_count": 9,
     "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
-      "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
-      ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
+      "by": "jihadjihad",
+      "descendants": 0,
+      "id": 30143454,
+      "kids": null,
+      "score": 3,
+      "time": 1643593183,
+      "title": "Belphegor's Prime",
       "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
+      "url": "https://en.wikipedia.org/wiki/Belphegor%27s_prime"
     },
     "og_item": {
       "title": "Message in a bottle from Scottish girl found in Norway after 25 years",
@@ -558,23 +552,18 @@
     "publisher": "recur-env.eba-rm3fchmn.us-eas…",
     "description": "",
     "by": "ShamelessC",
-    "points": 41,
+    "points": 42,
     "comment_count": 11,
     "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
-      "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
-      ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
+      "by": "jihadjihad",
+      "descendants": 0,
+      "id": 30143454,
+      "kids": null,
+      "score": 3,
+      "time": 1643593183,
+      "title": "Belphegor's Prime",
       "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
+      "url": "https://en.wikipedia.org/wiki/Belphegor%27s_prime"
     },
     "og_item": {
       "title": "Streamlit",
@@ -594,60 +583,6 @@
     }
   },
   {
-    "id": 30140464,
-    "title": "The Great Unconformity: Research points to glaciers being the culprit",
-    "url": "https://www.vice.com/en/article/wxdzzb/a-billion-years-of-time-are-mysteriously-missing-scientists-think-they-know-why",
-    "time": 1643572375,
-    "image": "https://video-images.vice.com/articles/61f2a92be1de8b0094f51e5e/lede/1643293461145-screen-shot-2022-01-27-at-92341-am.png?image-resize-opts=Y3JvcD0xeHc6MC44NDUxeGg7MHh3LDAuMTE0OXhoJnJlc2l6ZT0xMjAwOiomcmVzaXplPTEyMDA6Kg",
-    "icon": "https://vice-web-statics-cdn.vice.com/favicons/vice/favicon-16x16.png",
-    "publisher": "Vice",
-    "description": "The Great Unconformity has baffled geologists for a century. New research points to glaciers being the culprit.",
-    "by": "cbkeller",
-    "points": 52,
-    "comment_count": 3,
-    "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
-      "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
-      ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
-      "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
-    },
-    "og_item": {
-      "title": "A Billion Years of Time Are Mysteriously Missing. Scientists Think They Know Why.",
-      "type": "website",
-      "image": [
-        {
-          "url": "https://video-images.vice.com/articles/61f2a92be1de8b0094f51e5e/lede/1643293461145-screen-shot-2022-01-27-at-92341-am.png?image-resize-opts=Y3JvcD0xeHc6MC44NDUxeGg7MHh3LDAuMTE0OXhoJnJlc2l6ZT0xMjAwOiomcmVzaXplPTEyMDA6Kg",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://www.vice.com/en/article/wxdzzb/a-billion-years-of-time-are-mysteriously-missing-scientists-think-they-know-why",
-      "audio": [],
-      "description": "The Great Unconformity has baffled geologists for a century. New research points to glaciers being the culprit.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "https://vice-web-statics-cdn.vice.com/favicons/vice/favicon-16x16.png"
-      }
-    }
-  },
-  {
     "id": 30142247,
     "title": "Basic Cryptography – The Vigenere Cipher",
     "url": "https://eric.mann.blog/basic-cryptography-the-vigenere-cipher/",
@@ -657,23 +592,18 @@
     "publisher": "Eric Mann's Blog",
     "description": "The Vigenere cipher is more complicated that the Caesar cipher but based on the same idea. It uses a running key to keep your message secure.",
     "by": "eamann",
-    "points": 17,
+    "points": 18,
     "comment_count": 2,
     "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
-      "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
-      ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
+      "by": "jihadjihad",
+      "descendants": 0,
+      "id": 30143454,
+      "kids": null,
+      "score": 3,
+      "time": 1643593183,
+      "title": "Belphegor's Prime",
       "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
+      "url": "https://en.wikipedia.org/wiki/Belphegor%27s_prime"
     },
     "og_item": {
       "title": "Basic cryptography - the Vigenere cipher - Eric Mann's Blog",
@@ -702,56 +632,51 @@
     }
   },
   {
-    "id": 30122128,
-    "title": "Sega quits arcade business after 50 years",
-    "url": "https://www.eurogamer.net/articles/2022-01-28-sega-quits-japanese-arcade-business-after-50-years",
-    "time": 1643413723,
-    "image": "https://images.gnwcdn.com/2022/articles/2022-01-28-11-02/sega-quits-japanese-arcade-business-after-50-years-1643367770782.jpg/EG11/resize/1200x-1/sega-quits-japanese-arcade-business-after-50-years-1643367770782.jpg",
-    "icon": "https://www.eurogamer.net/favicon.ico",
-    "publisher": "Eurogamer.net",
-    "description": "",
-    "by": "atombender",
-    "points": 200,
-    "comment_count": 23,
+    "id": 30140464,
+    "title": "The Great Unconformity: Research points to glaciers being the culprit",
+    "url": "https://www.vice.com/en/article/wxdzzb/a-billion-years-of-time-are-mysteriously-missing-scientists-think-they-know-why",
+    "time": 1643572375,
+    "image": "https://video-images.vice.com/articles/61f2a92be1de8b0094f51e5e/lede/1643293461145-screen-shot-2022-01-27-at-92341-am.png?image-resize-opts=Y3JvcD0xeHc6MC44NDUxeGg7MHh3LDAuMTE0OXhoJnJlc2l6ZT0xMjAwOiomcmVzaXplPTEyMDA6Kg",
+    "icon": "https://vice-web-statics-cdn.vice.com/favicons/vice/favicon-16x16.png",
+    "publisher": "Vice",
+    "description": "The Great Unconformity has baffled geologists for a century. New research points to glaciers being the culprit.",
+    "by": "cbkeller",
+    "points": 54,
+    "comment_count": 3,
     "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
-      "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
-      ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
+      "by": "jihadjihad",
+      "descendants": 0,
+      "id": 30143454,
+      "kids": null,
+      "score": 3,
+      "time": 1643593183,
+      "title": "Belphegor's Prime",
       "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
+      "url": "https://en.wikipedia.org/wiki/Belphegor%27s_prime"
     },
     "og_item": {
-      "title": "Sega quits Japanese arcade business after 50 years",
-      "type": "article",
+      "title": "A Billion Years of Time Are Mysteriously Missing. Scientists Think They Know Why.",
+      "type": "website",
       "image": [
         {
-          "url": "https://images.gnwcdn.com/2022/articles/2022-01-28-11-02/sega-quits-japanese-arcade-business-after-50-years-1643367770782.jpg/EG11/resize/1200x-1/sega-quits-japanese-arcade-business-after-50-years-1643367770782.jpg",
+          "url": "https://video-images.vice.com/articles/61f2a92be1de8b0094f51e5e/lede/1643293461145-screen-shot-2022-01-27-at-92341-am.png?image-resize-opts=Y3JvcD0xeHc6MC44NDUxeGg7MHh3LDAuMTE0OXhoJnJlc2l6ZT0xMjAwOiomcmVzaXplPTEyMDA6Kg",
           "secure_url": "",
           "type": "",
-          "width": 1200,
-          "height": 676,
+          "width": 0,
+          "height": 0,
           "alt": ""
         }
       ],
-      "url": "https://www.eurogamer.net/articles/2022-01-28-sega-quits-japanese-arcade-business-after-50-years",
+      "url": "https://www.vice.com/en/article/wxdzzb/a-billion-years-of-time-are-mysteriously-missing-scientists-think-they-know-why",
       "audio": [],
-      "description": "",
+      "description": "The Great Unconformity has baffled geologists for a century. New research points to glaciers being the culprit.",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "Eurogamer.net",
+      "site_name": "",
       "video": [],
       "favicon": {
-        "url": "https://www.eurogamer.net/favicon.ico"
+        "url": "https://vice-web-statics-cdn.vice.com/favicons/vice/favicon-16x16.png"
       }
     }
   },
@@ -768,20 +693,15 @@
     "points": 1,
     "comment_count": 0,
     "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
-      "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
-      ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
+      "by": "jihadjihad",
+      "descendants": 0,
+      "id": 30143454,
+      "kids": null,
+      "score": 3,
+      "time": 1643593183,
+      "title": "Belphegor's Prime",
       "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
+      "url": "https://en.wikipedia.org/wiki/Belphegor%27s_prime"
     },
     "og_item": {
       "title": "BuildZoom jobs",
@@ -810,6 +730,55 @@
     }
   },
   {
+    "id": 30122128,
+    "title": "Sega quits arcade business after 50 years",
+    "url": "https://www.eurogamer.net/articles/2022-01-28-sega-quits-japanese-arcade-business-after-50-years",
+    "time": 1643413723,
+    "image": "https://images.gnwcdn.com/2022/articles/2022-01-28-11-02/sega-quits-japanese-arcade-business-after-50-years-1643367770782.jpg/EG11/resize/1200x-1/sega-quits-japanese-arcade-business-after-50-years-1643367770782.jpg",
+    "icon": "https://www.eurogamer.net/favicon.ico",
+    "publisher": "Eurogamer.net",
+    "description": "",
+    "by": "atombender",
+    "points": 203,
+    "comment_count": 23,
+    "hn_item": {
+      "by": "jihadjihad",
+      "descendants": 0,
+      "id": 30143454,
+      "kids": null,
+      "score": 3,
+      "time": 1643593183,
+      "title": "Belphegor's Prime",
+      "type": "story",
+      "url": "https://en.wikipedia.org/wiki/Belphegor%27s_prime"
+    },
+    "og_item": {
+      "title": "Sega quits Japanese arcade business after 50 years",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://images.gnwcdn.com/2022/articles/2022-01-28-11-02/sega-quits-japanese-arcade-business-after-50-years-1643367770782.jpg/EG11/resize/1200x-1/sega-quits-japanese-arcade-business-after-50-years-1643367770782.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 1200,
+          "height": 676,
+          "alt": ""
+        }
+      ],
+      "url": "https://www.eurogamer.net/articles/2022-01-28-sega-quits-japanese-arcade-business-after-50-years",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Eurogamer.net",
+      "video": [],
+      "favicon": {
+        "url": "https://www.eurogamer.net/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30137681,
     "title": "In defence of the boring web",
     "url": "https://bastian.rieck.me/blog/posts/2022/boring/",
@@ -819,23 +788,18 @@
     "publisher": "bastian.rieck.me",
     "description": "",
     "by": "Topolomancer",
-    "points": 164,
+    "points": 167,
     "comment_count": 20,
     "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
-      "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
-      ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
+      "by": "jihadjihad",
+      "descendants": 0,
+      "id": 30143454,
+      "kids": null,
+      "score": 3,
+      "time": 1643593183,
+      "title": "Belphegor's Prime",
       "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
+      "url": "https://en.wikipedia.org/wiki/Belphegor%27s_prime"
     },
     "og_item": {
       "title": "In Defence of the Boring Web",
@@ -864,23 +828,18 @@
     "publisher": "tribunemag.co.uk",
     "description": "At workplaces like Amazon, algorithms have become the worst kind of boss – one who watches you constantly, makes impossible demands and then sacks you without explanation.",
     "by": "jrepinc",
-    "points": 67,
+    "points": 68,
     "comment_count": 12,
     "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
-      "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
-      ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
+      "by": "jihadjihad",
+      "descendants": 0,
+      "id": 30143454,
+      "kids": null,
+      "score": 3,
+      "time": 1643593183,
+      "title": "Belphegor's Prime",
       "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
+      "url": "https://en.wikipedia.org/wiki/Belphegor%27s_prime"
     },
     "og_item": {
       "title": "When the Algorithm Is Your Boss",
@@ -909,39 +868,114 @@
     }
   },
   {
-    "id": 30143375,
-    "title": "Lizard Scale Patterns Described with Antiferromagnetic Model",
-    "url": "https://physics.aps.org/articles/v15/s12",
-    "time": 1643592578,
-    "image": "https://physics.aps.org/assets/604d524b-147e-4667-ad05-3d568e7114b0/e12_1_thumb.png",
-    "icon": "https://cdn.journals.aps.org/development/physics/images/icons/favicon.ico",
-    "publisher": "Physics",
-    "description": "The pattern of green and black scales on an ocellated lizard can be described with the two-parameter Ising model for antiferromagnetic systems.",
-    "by": "shusaku",
-    "points": 3,
+    "id": 30128193,
+    "title": "On Immersion",
+    "url": "https://blog.laurel.world/on-immersion/",
+    "time": 1643477006,
+    "image": "",
+    "icon": "https://blog.laurel.world/favicon.ico",
+    "publisher": "blog.laurel.world",
+    "description": "",
+    "by": "artmare",
+    "points": 6,
     "comment_count": 0,
     "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
-      "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
-      ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
+      "by": "jihadjihad",
+      "descendants": 0,
+      "id": 30143454,
+      "kids": null,
+      "score": 3,
+      "time": 1643593183,
+      "title": "Belphegor's Prime",
       "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
+      "url": "https://en.wikipedia.org/wiki/Belphegor%27s_prime"
     },
     "og_item": {
-      "title": "Lizard Scale Patterns Described with Antiferromagnetic Model",
+      "title": "A couple years ago, I created this list: immersive: walking taking a shower sleeping teaching falling in love cinema life or death experience I was curious about these amazing parts of life that feel so meaningful — like portals, where time and space take on a totally different, enchanted feeling. I remember writing this list… – blog.laurel.world",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30142105,
+    "title": "Seattle Telecommunications History Museum",
+    "url": "https://www.telcomhistory.org/connections-museum-seattle/",
+    "time": 1643583232,
+    "image": "",
+    "icon": "https://www.telcomhistory.org/favicon.ico",
+    "publisher": "telcomhistory.org",
+    "description": "",
+    "by": "basementcat",
+    "points": 21,
+    "comment_count": 2,
+    "hn_item": {
+      "by": "jihadjihad",
+      "descendants": 0,
+      "id": 30143454,
+      "kids": null,
+      "score": 3,
+      "time": 1643593183,
+      "title": "Belphegor's Prime",
+      "type": "story",
+      "url": "https://en.wikipedia.org/wiki/Belphegor%27s_prime"
+    },
+    "og_item": {
+      "title": "403 Forbidden",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30142558,
+    "title": "State of the Web: Static Site Generators",
+    "url": "https://byteofdev.com/posts/static-site-generators/",
+    "time": 1643586463,
+    "image": "https://ik.imagekit.io/serenity/ByteofDev/Blog_Heading_Images/State_of_the_Web_Static_Site_Generators",
+    "icon": "https://byteofdev.com/favicon.svg",
+    "publisher": "ByteofDev",
+    "description": "Static Site Generators have been changing quickly with new trends like Jamstack. Learn more about the background of static site generators, why people use them, and the current state of them, with information on modern SSGs like Eleventy, Next.js, SvelteKit, and Astro.",
+    "by": "AsyncBanana",
+    "points": 13,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "jihadjihad",
+      "descendants": 0,
+      "id": 30143454,
+      "kids": null,
+      "score": 3,
+      "time": 1643593183,
+      "title": "Belphegor's Prime",
+      "type": "story",
+      "url": "https://en.wikipedia.org/wiki/Belphegor%27s_prime"
+    },
+    "og_item": {
+      "title": "State of the Web: Static Site Generators",
       "type": "article",
       "image": [
         {
-          "url": "https://physics.aps.org/assets/604d524b-147e-4667-ad05-3d568e7114b0/e12_1_thumb.png",
+          "url": "https://ik.imagekit.io/serenity/ByteofDev/Blog_Heading_Images/State_of_the_Web_Static_Site_Generators",
           "secure_url": "",
           "type": "",
           "width": 0,
@@ -949,16 +983,16 @@
           "alt": ""
         }
       ],
-      "url": "https://physics.aps.org/articles/v15/s12",
+      "url": "https://byteofdev.com/posts/static-site-generators/",
       "audio": [],
-      "description": "The pattern of green and black scales on an ocellated lizard can be described with the two-parameter Ising model for antiferromagnetic systems.",
+      "description": "Static Site Generators have been changing quickly with new trends like Jamstack. Learn more about the background of static site generators, why people use them, and the current state of them, with information on modern SSGs like Eleventy, Next.js, SvelteKit, and Astro.",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "Physics",
+      "site_name": "ByteofDev",
       "video": [],
       "favicon": {
-        "url": "//cdn.journals.aps.org/development/physics/images/icons/favicon.ico"
+        "url": "/favicon.svg"
       }
     }
   },
@@ -972,23 +1006,18 @@
     "publisher": "GitHub",
     "description": "A new shellcode injection technique. Given as C++ header or standalone Rust program. - GitHub - Idov31/FunctionStomping: A new shellcode injection technique. Given as C++ header or standalone Rust ...",
     "by": "maydemir",
-    "points": 27,
+    "points": 28,
     "comment_count": 1,
     "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
-      "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
-      ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
+      "by": "jihadjihad",
+      "descendants": 0,
+      "id": 30143454,
+      "kids": null,
+      "score": 3,
+      "time": 1643593183,
+      "title": "Belphegor's Prime",
       "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
+      "url": "https://en.wikipedia.org/wiki/Belphegor%27s_prime"
     },
     "og_item": {
       "title": "GitHub - Idov31/FunctionStomping: A new shellcode injection technique. Given as C++ header or standalone Rust program.",
@@ -1029,20 +1058,15 @@
     "points": 23,
     "comment_count": 3,
     "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
-      "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
-      ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
+      "by": "jihadjihad",
+      "descendants": 0,
+      "id": 30143454,
+      "kids": null,
+      "score": 3,
+      "time": 1643593183,
+      "title": "Belphegor's Prime",
       "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
+      "url": "https://en.wikipedia.org/wiki/Belphegor%27s_prime"
     },
     "og_item": {
       "title": "Game Performance Optimization - A Practical Example From Industry Idle",
@@ -1062,92 +1086,51 @@
     }
   },
   {
-    "id": 30142105,
-    "title": "Seattle Telecommunications History Museum",
-    "url": "https://www.telcomhistory.org/connections-museum-seattle/",
-    "time": 1643583232,
-    "image": "",
-    "icon": "https://www.telcomhistory.org/favicon.ico",
-    "publisher": "telcomhistory.org",
-    "description": "",
-    "by": "basementcat",
-    "points": 18,
-    "comment_count": 2,
+    "id": 30142918,
+    "title": "Unconscious R\u0026D (2021)",
+    "url": "https://subconscious.substack.com/p/unconscious-r-and-d",
+    "time": 1643589336,
+    "image": "https://cdn.substack.com/image/fetch/w_1200,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F80b4a51a-7687-453c-b94b-a0c33b1399c7_1668x1668.jpeg",
+    "icon": "https://cdn.substack.com/icons/substack/favicon-32x32.png",
+    "publisher": "subconscious.substack.com",
+    "description": "What if your notes could self-organize—from scratch notes, to draft, to finished creative work—through a stream-of-consciousness process—like dreaming? Years ago, I was part of a user study that aimed to understand how creators create. We interviewed authors, artists, students, influencers,…",
+    "by": "fagnerbrack",
+    "points": 8,
+    "comment_count": 1,
     "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
-      "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
-      ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
+      "by": "jihadjihad",
+      "descendants": 0,
+      "id": 30143454,
+      "kids": null,
+      "score": 3,
+      "time": 1643593183,
+      "title": "Belphegor's Prime",
       "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
+      "url": "https://en.wikipedia.org/wiki/Belphegor%27s_prime"
     },
     "og_item": {
-      "title": "403 Forbidden",
-      "type": "",
-      "image": [],
-      "url": "",
+      "title": "Unconscious R\u0026D",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://cdn.substack.com/image/fetch/w_1200,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F80b4a51a-7687-453c-b94b-a0c33b1399c7_1668x1668.jpeg",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://subconscious.substack.com/p/unconscious-r-and-d",
       "audio": [],
-      "description": "",
+      "description": "What if your notes could self-organize—from scratch notes, to draft, to finished creative work—through a stream-of-consciousness process—like dreaming? Years ago, I was part of a user study that aimed to understand how creators create. We interviewed authors, artists, students, influencers, and discovered a recurrent meta-pattern in the creative processes that emerged across disciplines and tools...",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
       "site_name": "",
       "video": [],
       "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30128193,
-    "title": "On Immersion",
-    "url": "https://blog.laurel.world/on-immersion/",
-    "time": 1643477006,
-    "image": "",
-    "icon": "https://blog.laurel.world/favicon.ico",
-    "publisher": "blog.laurel.world",
-    "description": "",
-    "by": "artmare",
-    "points": 5,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
-      "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
-      ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
-      "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
-    },
-    "og_item": {
-      "title": "A couple years ago, I created this list: immersive: walking taking a shower sleeping teaching falling in love cinema life or death experience I was curious about these amazing parts of life that feel so meaningful — like portals, where time and space take on a totally different, enchanted feeling. I remember writing this list… – Laurel's Blog",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
+        "url": "https://cdn.substack.com/icons/substack/favicon-32x32.png"
       }
     }
   },
@@ -1161,23 +1144,18 @@
     "publisher": "softpanorama.org",
     "description": "",
     "by": "ingve",
-    "points": 134,
+    "points": 136,
     "comment_count": 18,
     "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
-      "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
-      ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
+      "by": "jihadjihad",
+      "descendants": 0,
+      "id": 30143454,
+      "kids": null,
+      "score": 3,
+      "time": 1643593183,
+      "title": "Belphegor's Prime",
       "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
+      "url": "https://en.wikipedia.org/wiki/Belphegor%27s_prime"
     },
     "og_item": {
       "title": "Midnight Commander Tips and Tricks",
@@ -1209,20 +1187,15 @@
     "points": 9,
     "comment_count": 0,
     "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
-      "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
-      ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
+      "by": "jihadjihad",
+      "descendants": 0,
+      "id": 30143454,
+      "kids": null,
+      "score": 3,
+      "time": 1643593183,
+      "title": "Belphegor's Prime",
       "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
+      "url": "https://en.wikipedia.org/wiki/Belphegor%27s_prime"
     },
     "og_item": {
       "title": "Harvard ceramics program recreates Art Museums’ pieces",
@@ -1251,6 +1224,31 @@
     }
   },
   {
+    "id": 30138468,
+    "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
+    "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf",
+    "time": 1643559712,
+    "image": "",
+    "icon": "",
+    "publisher": "win.tue.nl",
+    "description": "",
+    "by": "camnora",
+    "points": 90,
+    "comment_count": 7,
+    "hn_item": {
+      "by": "jihadjihad",
+      "descendants": 0,
+      "id": 30143454,
+      "kids": null,
+      "score": 3,
+      "time": 1643593183,
+      "title": "Belphegor's Prime",
+      "type": "story",
+      "url": "https://en.wikipedia.org/wiki/Belphegor%27s_prime"
+    },
+    "og_item": null
+  },
+  {
     "id": 30128048,
     "title": "COM+ Revisited",
     "url": "https://lowleveldesign.org/2022/01/17/com-revisited/",
@@ -1263,20 +1261,15 @@
     "points": 61,
     "comment_count": 8,
     "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
-      "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
-      ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
+      "by": "jihadjihad",
+      "descendants": 0,
+      "id": 30143454,
+      "kids": null,
+      "score": 3,
+      "time": 1643593183,
+      "title": "Belphegor's Prime",
       "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
+      "url": "https://en.wikipedia.org/wiki/Belphegor%27s_prime"
     },
     "og_item": {
       "title": "COM+ revisited",
@@ -1305,90 +1298,6 @@
     }
   },
   {
-    "id": 30138468,
-    "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
-    "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf",
-    "time": 1643559712,
-    "image": "",
-    "icon": "",
-    "publisher": "win.tue.nl",
-    "description": "",
-    "by": "camnora",
-    "points": 90,
-    "comment_count": 7,
-    "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
-      "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
-      ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
-      "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
-    },
-    "og_item": null
-  },
-  {
-    "id": 30142558,
-    "title": "State of the Web: Static Site Generators",
-    "url": "https://byteofdev.com/posts/static-site-generators/",
-    "time": 1643586463,
-    "image": "https://ik.imagekit.io/serenity/ByteofDev/Blog_Heading_Images/State_of_the_Web_Static_Site_Generators",
-    "icon": "https://byteofdev.com/favicon.svg",
-    "publisher": "ByteofDev",
-    "description": "Static Site Generators have been changing quickly with new trends like Jamstack. Learn more about the background of static site generators, why people use them, and the current state of them, with information on modern SSGs like Eleventy, Next.js, SvelteKit, and Astro.",
-    "by": "AsyncBanana",
-    "points": 10,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
-      "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
-      ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
-      "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
-    },
-    "og_item": {
-      "title": "State of the Web: Static Site Generators",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://ik.imagekit.io/serenity/ByteofDev/Blog_Heading_Images/State_of_the_Web_Static_Site_Generators",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://byteofdev.com/posts/static-site-generators/",
-      "audio": [],
-      "description": "Static Site Generators have been changing quickly with new trends like Jamstack. Learn more about the background of static site generators, why people use them, and the current state of them, with information on modern SSGs like Eleventy, Next.js, SvelteKit, and Astro.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "ByteofDev",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.svg"
-      }
-    }
-  },
-  {
     "id": 30137720,
     "title": "U.S. companies are hiring Latin America’s tech talent",
     "url": "https://restofworld.org/2022/latin-america-startup-developer-scarcity/",
@@ -1398,23 +1307,18 @@
     "publisher": "Rest of World",
     "description": "As a hedge against American talent poachers, some exasperated founders are recruiting developers who can’t speak English.",
     "by": "braco_alva",
-    "points": 162,
+    "points": 163,
     "comment_count": 36,
     "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
-      "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
-      ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
+      "by": "jihadjihad",
+      "descendants": 0,
+      "id": 30143454,
+      "kids": null,
+      "score": 3,
+      "time": 1643593183,
+      "title": "Belphegor's Prime",
       "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
+      "url": "https://en.wikipedia.org/wiki/Belphegor%27s_prime"
     },
     "og_item": {
       "title": "“It’s a bloodbath”: U.S. companies are pillaging Latin America’s tech talent",
@@ -1443,105 +1347,6 @@
     }
   },
   {
-    "id": 30142918,
-    "title": "Unconscious R\u0026D (2021)",
-    "url": "https://subconscious.substack.com/p/unconscious-r-and-d",
-    "time": 1643589336,
-    "image": "https://cdn.substack.com/image/fetch/w_1200,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F80b4a51a-7687-453c-b94b-a0c33b1399c7_1668x1668.jpeg",
-    "icon": "https://cdn.substack.com/icons/substack/favicon-32x32.png",
-    "publisher": "subconscious.substack.com",
-    "description": "What if your notes could self-organize—from scratch notes, to draft, to finished creative work—through a stream-of-consciousness process—like dreaming? Years ago, I was part of a user study that aimed to understand how creators create. We interviewed authors, artists, students, influencers,…",
-    "by": "fagnerbrack",
-    "points": 6,
-    "comment_count": 1,
-    "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
-      "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
-      ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
-      "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
-    },
-    "og_item": {
-      "title": "Unconscious R\u0026D",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://cdn.substack.com/image/fetch/w_1200,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F80b4a51a-7687-453c-b94b-a0c33b1399c7_1668x1668.jpeg",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://subconscious.substack.com/p/unconscious-r-and-d",
-      "audio": [],
-      "description": "What if your notes could self-organize—from scratch notes, to draft, to finished creative work—through a stream-of-consciousness process—like dreaming? Years ago, I was part of a user study that aimed to understand how creators create. We interviewed authors, artists, students, influencers, and discovered a recurrent meta-pattern in the creative processes that emerged across disciplines and tools...",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "https://cdn.substack.com/icons/substack/favicon-32x32.png"
-      }
-    }
-  },
-  {
-    "id": 30142896,
-    "title": "Decrypt an encrypted message to any plaintext",
-    "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts",
-    "time": 1643589180,
-    "image": "",
-    "icon": "https://www.go350.com/favicon-16x16.png",
-    "publisher": "go350.com",
-    "description": "a one-time pad implementation",
-    "by": "_wldu",
-    "points": 6,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
-      "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
-      ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
-      "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
-    },
-    "og_item": {
-      "title": "Padder",
-      "type": "article",
-      "image": [],
-      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/",
-      "audio": [],
-      "description": "a one-time pad implementation",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon-16x16.png"
-      }
-    }
-  },
-  {
     "id": 30120901,
     "title": "Using tree data structures to implement terminal split panes",
     "url": "https://blog.warp.dev/using-tree-data-structures-to-implement-terminal-split-panes-more-fun-than-it-sounds/",
@@ -1551,23 +1356,18 @@
     "publisher": "Warp - Blog",
     "description": "This is how we used tree data structures to build split panes in our terminal app.",
     "by": "lukastyrychtr",
-    "points": 46,
+    "points": 47,
     "comment_count": 7,
     "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
-      "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
-      ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
+      "by": "jihadjihad",
+      "descendants": 0,
+      "id": 30143454,
+      "kids": null,
+      "score": 3,
+      "time": 1643593183,
+      "title": "Belphegor's Prime",
       "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
+      "url": "https://en.wikipedia.org/wiki/Belphegor%27s_prime"
     },
     "og_item": {
       "title": "Using tree data structures to implement terminal split panes - more fun than it sounds",
@@ -1596,51 +1396,6 @@
     }
   },
   {
-    "id": 30142106,
-    "title": "Yoga and meditation do not quiet the ego but instead boost self-enhancement (2018)",
-    "url": "https://journals.sagepub.com/doi/abs/10.1177/0956797618764621",
-    "time": 1643583242,
-    "image": "",
-    "icon": "https://journals.sagepub.com/favicon.ico",
-    "publisher": "journals.sagepub.com",
-    "description": "",
-    "by": "FrojoS",
-    "points": 13,
-    "comment_count": 4,
-    "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
-      "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
-      ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
-      "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
-    },
-    "og_item": {
-      "title": "Just a moment...",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30125933,
     "title": "Dataset and Model for “I built a system to take photos of planes over my house”",
     "url": "https://universe.roboflow.com/skybot-cam/overhead-plane-detector",
@@ -1653,20 +1408,15 @@
     "points": 114,
     "comment_count": 7,
     "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
-      "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
-      ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
+      "by": "jihadjihad",
+      "descendants": 0,
+      "id": 30143454,
+      "kids": null,
+      "score": 3,
+      "time": 1643593183,
+      "title": "Belphegor's Prime",
       "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
+      "url": "https://en.wikipedia.org/wiki/Belphegor%27s_prime"
     },
     "og_item": {
       "title": "Overhead Plane Detector Object Detection Dataset",
@@ -1695,6 +1445,86 @@
     }
   },
   {
+    "id": 30142896,
+    "title": "Decrypt an encrypted message to any plaintext",
+    "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts",
+    "time": 1643589180,
+    "image": "",
+    "icon": "https://www.go350.com/favicon-16x16.png",
+    "publisher": "go350.com",
+    "description": "a one-time pad implementation",
+    "by": "_wldu",
+    "points": 9,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "jihadjihad",
+      "descendants": 0,
+      "id": 30143454,
+      "kids": null,
+      "score": 3,
+      "time": 1643593183,
+      "title": "Belphegor's Prime",
+      "type": "story",
+      "url": "https://en.wikipedia.org/wiki/Belphegor%27s_prime"
+    },
+    "og_item": {
+      "title": "Padder",
+      "type": "article",
+      "image": [],
+      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/",
+      "audio": [],
+      "description": "a one-time pad implementation",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon-16x16.png"
+      }
+    }
+  },
+  {
+    "id": 30142106,
+    "title": "Yoga and meditation do not quiet the ego but instead boost self-enhancement (2018)",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/0956797618764621",
+    "time": 1643583242,
+    "image": "",
+    "icon": "https://journals.sagepub.com/favicon.ico",
+    "publisher": "journals.sagepub.com",
+    "description": "",
+    "by": "FrojoS",
+    "points": 13,
+    "comment_count": 5,
+    "hn_item": {
+      "by": "jihadjihad",
+      "descendants": 0,
+      "id": 30143454,
+      "kids": null,
+      "score": 3,
+      "time": 1643593183,
+      "title": "Belphegor's Prime",
+      "type": "story",
+      "url": "https://en.wikipedia.org/wiki/Belphegor%27s_prime"
+    },
+    "og_item": {
+      "title": "Just a moment...",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30131847,
     "title": "Mix and Match Mental Models",
     "url": "https://lethain.com/mental-models-mix-match/",
@@ -1707,20 +1537,15 @@
     "points": 28,
     "comment_count": 0,
     "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
-      "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
-      ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
+      "by": "jihadjihad",
+      "descendants": 0,
+      "id": 30143454,
+      "kids": null,
+      "score": 3,
+      "time": 1643593183,
+      "title": "Belphegor's Prime",
       "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
+      "url": "https://en.wikipedia.org/wiki/Belphegor%27s_prime"
     },
     "og_item": {
       "title": "Mix and match mental models.",
@@ -1761,20 +1586,15 @@
     "points": 76,
     "comment_count": 17,
     "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
-      "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
-      ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
+      "by": "jihadjihad",
+      "descendants": 0,
+      "id": 30143454,
+      "kids": null,
+      "score": 3,
+      "time": 1643593183,
+      "title": "Belphegor's Prime",
       "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
+      "url": "https://en.wikipedia.org/wiki/Belphegor%27s_prime"
     },
     "og_item": {
       "title": "Autonomous battery-powered rail cars could steal shipments from truckers",
@@ -1815,20 +1635,15 @@
     "points": 114,
     "comment_count": 14,
     "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
-      "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
-      ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
+      "by": "jihadjihad",
+      "descendants": 0,
+      "id": 30143454,
+      "kids": null,
+      "score": 3,
+      "time": 1643593183,
+      "title": "Belphegor's Prime",
       "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
+      "url": "https://en.wikipedia.org/wiki/Belphegor%27s_prime"
     },
     "og_item": {
       "title": "How to Excel in Tech Without Learning to Code | Future",
@@ -1869,20 +1684,15 @@
     "points": 74,
     "comment_count": 5,
     "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
-      "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
-      ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
+      "by": "jihadjihad",
+      "descendants": 0,
+      "id": 30143454,
+      "kids": null,
+      "score": 3,
+      "time": 1643593183,
+      "title": "Belphegor's Prime",
       "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
+      "url": "https://en.wikipedia.org/wiki/Belphegor%27s_prime"
     },
     "og_item": {
       "title": "\n    zeux.io - Writing an efficient Vulkan renderer\n  ",
@@ -1914,20 +1724,15 @@
     "points": 35,
     "comment_count": 5,
     "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
-      "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
-      ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
+      "by": "jihadjihad",
+      "descendants": 0,
+      "id": 30143454,
+      "kids": null,
+      "score": 3,
+      "time": 1643593183,
+      "title": "Belphegor's Prime",
       "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
+      "url": "https://en.wikipedia.org/wiki/Belphegor%27s_prime"
     },
     "og_item": {
       "title": "Show the case against - shubhro.com",
@@ -1959,20 +1764,15 @@
     "points": 72,
     "comment_count": 6,
     "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
-      "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
-      ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
+      "by": "jihadjihad",
+      "descendants": 0,
+      "id": 30143454,
+      "kids": null,
+      "score": 3,
+      "time": 1643593183,
+      "title": "Belphegor's Prime",
       "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
+      "url": "https://en.wikipedia.org/wiki/Belphegor%27s_prime"
     },
     "og_item": {
       "title": " Nim tutorial for setting up a website. ",
@@ -2004,20 +1804,15 @@
     "points": 23,
     "comment_count": 2,
     "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
-      "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
-      ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
+      "by": "jihadjihad",
+      "descendants": 0,
+      "id": 30143454,
+      "kids": null,
+      "score": 3,
+      "time": 1643593183,
+      "title": "Belphegor's Prime",
       "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
+      "url": "https://en.wikipedia.org/wiki/Belphegor%27s_prime"
     },
     "og_item": {
       "title": "The Game of War: An Overview | Alexander R. Galloway",
@@ -2046,60 +1841,6 @@
     }
   },
   {
-    "id": 30142227,
-    "title": "America's Favorite Pickup Truck Goes Electric",
-    "url": "https://www.newyorker.com/magazine/2022/01/31/americas-favorite-pickup-truck-goes-electric",
-    "time": 1643584218,
-    "image": "https://media.newyorker.com/photos/61eb71a540b49e277739cf73/16:9/w_1280,c_limit/220131_r39776.jpg",
-    "icon": "https://www.newyorker.com/verso/static/the-new-yorker/assets/favicon.ico",
-    "publisher": "The New Yorker",
-    "description": "Ford’s F-series trucks make up the best-selling vehicle line in the U.S. Can its new F-150 Lightning compete with Tesla in the E.V. market?",
-    "by": "nojito",
-    "points": 59,
-    "comment_count": 9,
-    "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
-      "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
-      ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
-      "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
-    },
-    "og_item": {
-      "title": "America’s Favorite Pickup Truck Goes Electric",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://media.newyorker.com/photos/61eb71a540b49e277739cf73/16:9/w_1280,c_limit/220131_r39776.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://www.newyorker.com/magazine/2022/01/31/americas-favorite-pickup-truck-goes-electric",
-      "audio": [],
-      "description": "Ford’s F-series trucks make up the best-selling vehicle line in the U.S. Can its new F-150 Lightning compete with Tesla in the E.V. market?",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "The New Yorker",
-      "video": [],
-      "favicon": {
-        "url": "https://www.newyorker.com/verso/static/the-new-yorker/assets/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30136969,
     "title": "GoSTL: Algorithm and datastructure library for Go similar to C++ STL",
     "url": "https://github.com/liyue201/gostl",
@@ -2112,20 +1853,15 @@
     "points": 85,
     "comment_count": 9,
     "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
-      "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
-      ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
+      "by": "jihadjihad",
+      "descendants": 0,
+      "id": 30143454,
+      "kids": null,
+      "score": 3,
+      "time": 1643593183,
+      "title": "Belphegor's Prime",
       "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
+      "url": "https://en.wikipedia.org/wiki/Belphegor%27s_prime"
     },
     "og_item": {
       "title": "GitHub - liyue201/gostl: Data structure and algorithm library for go, designed to provide functions similar to C++ STL",
@@ -2166,20 +1902,15 @@
     "points": 133,
     "comment_count": 11,
     "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
-      "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
-      ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
+      "by": "jihadjihad",
+      "descendants": 0,
+      "id": 30143454,
+      "kids": null,
+      "score": 3,
+      "time": 1643593183,
+      "title": "Belphegor's Prime",
       "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
+      "url": "https://en.wikipedia.org/wiki/Belphegor%27s_prime"
     },
     "og_item": {
       "title": "Ask HN: Has anyone leveraged GDPR to overturn automated bans? | Hacker News",
@@ -2199,56 +1930,42 @@
     }
   },
   {
-    "id": 30142410,
-    "title": "The Wikimedia Foundation's acceptance of cryptocurrency donations",
-    "url": "https://blog.mollywhite.net/wikimedia-foundation-cryptocurrency-donations/",
-    "time": 1643585562,
-    "image": "https://blog.mollywhite.net/assets/mollyandmax.png",
-    "icon": "https://blog.mollywhite.net/assets/favicon-16x16.png",
-    "publisher": "blog.mollywhite.net",
-    "description": "Originally published in the Wikipedia Signpost: Should the Wikimedia Foundation continue to accept cryptocurrency donations? One editor doesn't think so.",
-    "by": "hesk",
-    "points": 9,
-    "comment_count": 1,
+    "id": 30139643,
+    "title": "Very Remote Lisp Debugging Story",
+    "url": "https://susam.net/maze/very-remote-debugging.html",
+    "time": 1643567057,
+    "image": "",
+    "icon": "https://susam.net/maze/favicon.png",
+    "publisher": "susam.net",
+    "description": "",
+    "by": "susam",
+    "points": 35,
+    "comment_count": 2,
     "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
-      "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
-      ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
+      "by": "jihadjihad",
+      "descendants": 0,
+      "id": 30143454,
+      "kids": null,
+      "score": 3,
+      "time": 1643593183,
+      "title": "Belphegor's Prime",
       "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
+      "url": "https://en.wikipedia.org/wiki/Belphegor%27s_prime"
     },
     "og_item": {
-      "title": "Wikipedia Signpost: The Wikimedia Foundation's acceptance of cryptocurrency donations",
-      "type": "website",
-      "image": [
-        {
-          "url": "https://blog.mollywhite.net/assets/mollyandmax.png",
-          "secure_url": "",
-          "type": "",
-          "width": 200,
-          "height": 200,
-          "alt": ""
-        }
-      ],
-      "url": "https://blog.mollywhite.net/wikimedia-foundation-cryptocurrency-donations/",
+      "title": "Very Remote Lisp Debugging Story - Susam's Maze",
+      "type": "",
+      "image": [],
+      "url": "",
       "audio": [],
-      "description": "Originally published in the Wikipedia Signpost: Should the Wikimedia Foundation continue to accept cryptocurrency donations? One editor doesn't think so.",
+      "description": "",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
       "site_name": "",
       "video": [],
       "favicon": {
-        "url": "/assets/favicon-16x16.png"
+        "url": "favicon.png"
       }
     }
   },
@@ -2265,20 +1982,15 @@
     "points": 109,
     "comment_count": 9,
     "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
-      "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
-      ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
+      "by": "jihadjihad",
+      "descendants": 0,
+      "id": 30143454,
+      "kids": null,
+      "score": 3,
+      "time": 1643593183,
+      "title": "Belphegor's Prime",
       "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
+      "url": "https://en.wikipedia.org/wiki/Belphegor%27s_prime"
     },
     "og_item": {
       "title": "Devious SQL: Message Queuing Using Native PostgreSQL",
@@ -2307,6 +2019,55 @@
     }
   },
   {
+    "id": 30142410,
+    "title": "The Wikimedia Foundation's acceptance of cryptocurrency donations",
+    "url": "https://blog.mollywhite.net/wikimedia-foundation-cryptocurrency-donations/",
+    "time": 1643585562,
+    "image": "https://blog.mollywhite.net/assets/mollyandmax.png",
+    "icon": "https://blog.mollywhite.net/assets/favicon-16x16.png",
+    "publisher": "blog.mollywhite.net",
+    "description": "Originally published in the Wikipedia Signpost: Should the Wikimedia Foundation continue to accept cryptocurrency donations? One editor doesn't think so.",
+    "by": "hesk",
+    "points": 9,
+    "comment_count": 1,
+    "hn_item": {
+      "by": "jihadjihad",
+      "descendants": 0,
+      "id": 30143454,
+      "kids": null,
+      "score": 3,
+      "time": 1643593183,
+      "title": "Belphegor's Prime",
+      "type": "story",
+      "url": "https://en.wikipedia.org/wiki/Belphegor%27s_prime"
+    },
+    "og_item": {
+      "title": "Wikipedia Signpost: The Wikimedia Foundation's acceptance of cryptocurrency donations",
+      "type": "website",
+      "image": [
+        {
+          "url": "https://blog.mollywhite.net/assets/mollyandmax.png",
+          "secure_url": "",
+          "type": "",
+          "width": 200,
+          "height": 200,
+          "alt": ""
+        }
+      ],
+      "url": "https://blog.mollywhite.net/wikimedia-foundation-cryptocurrency-donations/",
+      "audio": [],
+      "description": "Originally published in the Wikipedia Signpost: Should the Wikimedia Foundation continue to accept cryptocurrency donations? One editor doesn't think so.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/assets/favicon-16x16.png"
+      }
+    }
+  },
+  {
     "id": 30141215,
     "title": "Show HN: BeanHub – A GitHub for Beancount",
     "url": "https://beanhub.io/",
@@ -2319,20 +2080,15 @@
     "points": 13,
     "comment_count": 0,
     "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
-      "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
-      ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
+      "by": "jihadjihad",
+      "descendants": 0,
+      "id": 30143454,
+      "kids": null,
+      "score": 3,
+      "time": 1643593183,
+      "title": "Belphegor's Prime",
       "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
+      "url": "https://en.wikipedia.org/wiki/Belphegor%27s_prime"
     },
     "og_item": {
       "title": "\n    BeanHub\n    ",
@@ -2352,39 +2108,34 @@
     }
   },
   {
-    "id": 30142494,
-    "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
-    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/",
-    "time": 1643586052,
-    "image": "https://www.reuters.com/resizer/nJB_ZidKD76ip6VAQlGhKHf1JI8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PYPUULVDLFI5ZBML3UV35CE4TA.jpg",
-    "icon": "https://www.reuters.com/pf/resources/icons/favicon.ico?d=69",
-    "publisher": "Reuters",
-    "description": "The highly transmissible Omicron variant of the SARS-CoV-2 virus - the most common form of which is known as BA.1 - now accounts for nearly all of the coronavirus infections globally, although dramatic surges in COVID cases have already peaked in some countries.",
-    "by": "lsllc",
-    "points": 17,
-    "comment_count": 1,
+    "id": 30142227,
+    "title": "America's Favorite Pickup Truck Goes Electric",
+    "url": "https://www.newyorker.com/magazine/2022/01/31/americas-favorite-pickup-truck-goes-electric",
+    "time": 1643584218,
+    "image": "https://media.newyorker.com/photos/61eb71a540b49e277739cf73/16:9/w_1280,c_limit/220131_r39776.jpg",
+    "icon": "https://www.newyorker.com/verso/static/the-new-yorker/assets/favicon.ico",
+    "publisher": "The New Yorker",
+    "description": "Ford’s F-series trucks make up the best-selling vehicle line in the U.S. Can its new F-150 Lightning compete with Tesla in the E.V. market?",
+    "by": "nojito",
+    "points": 59,
+    "comment_count": 9,
     "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
-      "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
-      ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
+      "by": "jihadjihad",
+      "descendants": 0,
+      "id": 30143454,
+      "kids": null,
+      "score": 3,
+      "time": 1643593183,
+      "title": "Belphegor's Prime",
       "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
+      "url": "https://en.wikipedia.org/wiki/Belphegor%27s_prime"
     },
     "og_item": {
-      "title": "Explainer: Scientists on alert over rising cases caused by Omicron cousin BA.2",
+      "title": "America’s Favorite Pickup Truck Goes Electric",
       "type": "article",
       "image": [
         {
-          "url": "https://www.reuters.com/resizer/nJB_ZidKD76ip6VAQlGhKHf1JI8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PYPUULVDLFI5ZBML3UV35CE4TA.jpg",
+          "url": "https://media.newyorker.com/photos/61eb71a540b49e277739cf73/16:9/w_1280,c_limit/220131_r39776.jpg",
           "secure_url": "",
           "type": "",
           "width": 0,
@@ -2392,61 +2143,16 @@
           "alt": ""
         }
       ],
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/",
+      "url": "https://www.newyorker.com/magazine/2022/01/31/americas-favorite-pickup-truck-goes-electric",
       "audio": [],
-      "description": "The highly transmissible Omicron variant of the SARS-CoV-2 virus - the most common form of which is known as BA.1 - now accounts for nearly all of the coronavirus infections globally, although dramatic surges in COVID cases have already peaked in some countries.",
+      "description": "Ford’s F-series trucks make up the best-selling vehicle line in the U.S. Can its new F-150 Lightning compete with Tesla in the E.V. market?",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "Reuters",
+      "site_name": "The New Yorker",
       "video": [],
       "favicon": {
-        "url": "/pf/resources/icons/favicon.ico?d=69"
-      }
-    }
-  },
-  {
-    "id": 30139643,
-    "title": "Very Remote Lisp Debugging Story",
-    "url": "https://susam.net/maze/very-remote-debugging.html",
-    "time": 1643567057,
-    "image": "",
-    "icon": "https://susam.net/maze/favicon.png",
-    "publisher": "susam.net",
-    "description": "",
-    "by": "susam",
-    "points": 33,
-    "comment_count": 2,
-    "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
-      "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
-      ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
-      "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
-    },
-    "og_item": {
-      "title": "Very Remote Lisp Debugging Story - Susam's Maze",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "favicon.png"
+        "url": "https://www.newyorker.com/verso/static/the-new-yorker/assets/favicon.ico"
       }
     }
   },
@@ -2463,20 +2169,15 @@
     "points": 23,
     "comment_count": 2,
     "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
-      "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
-      ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
+      "by": "jihadjihad",
+      "descendants": 0,
+      "id": 30143454,
+      "kids": null,
+      "score": 3,
+      "time": 1643593183,
+      "title": "Belphegor's Prime",
       "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
+      "url": "https://en.wikipedia.org/wiki/Belphegor%27s_prime"
     },
     "og_item": {
       "title": "DDS — dds 0.1.0-alpha.3 documentation",
@@ -2485,6 +2186,55 @@
       "url": "",
       "audio": [],
       "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30135297,
+    "title": "The Dialectic of Enlightenment and modern life",
+    "url": "https://daily-philosophy.com/frankfurt-school-dialectic-enlightenment/",
+    "time": 1643534554,
+    "image": "https://daily-philosophy.com/frankfurt-school-dialectic-enlightenment/featured-500px.jpg",
+    "icon": "https://daily-philosophy.com/favicon.ico",
+    "publisher": "daily-philosophy.com",
+    "description": "The Frankfurt School is generally taken to mean a lose collection of thinkers who first congregated around the Institute for Social Research in Frankfurt am Main, Germany.",
+    "by": "moralrobots",
+    "points": 19,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "jihadjihad",
+      "descendants": 0,
+      "id": 30143454,
+      "kids": null,
+      "score": 3,
+      "time": 1643593183,
+      "title": "Belphegor's Prime",
+      "type": "story",
+      "url": "https://en.wikipedia.org/wiki/Belphegor%27s_prime"
+    },
+    "og_item": {
+      "title": "The Dialectic of Enlightenment",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://daily-philosophy.com/frankfurt-school-dialectic-enlightenment/featured-500px.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://daily-philosophy.com/frankfurt-school-dialectic-enlightenment/",
+      "audio": [],
+      "description": "The Frankfurt School is generally taken to mean a lose collection of thinkers who first congregated around the Institute for Social Research in Frankfurt am Main, Germany.",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
@@ -2505,23 +2255,18 @@
     "publisher": "BuzzFeed News",
     "description": "I went on a vacation. I came home with a mysterious fungus in my brain that is so rare only about 120 cases have been confirmed worldwide since its discovery in 1911.",
     "by": "yellow_lead",
-    "points": 160,
+    "points": 161,
     "comment_count": 9,
     "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
-      "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
-      ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
+      "by": "jihadjihad",
+      "descendants": 0,
+      "id": 30143454,
+      "kids": null,
+      "score": 3,
+      "time": 1643593183,
+      "title": "Belphegor's Prime",
       "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
+      "url": "https://en.wikipedia.org/wiki/Belphegor%27s_prime"
     },
     "og_item": {
       "title": "Toxic Black Mold Is Growing On My Brain",
@@ -2550,77 +2295,51 @@
     }
   },
   {
-    "id": 30125931,
-    "title": "Fluid Simulation – Siggraph 2007 Course Notes [pdf]",
-    "url": "https://www.cs.ubc.ca/~rbridson/fluidsimulation/fluids_notes.pdf",
-    "time": 1643461256,
-    "image": "",
-    "icon": "",
-    "publisher": "cs.ubc.ca",
-    "description": "",
-    "by": "creata",
-    "points": 34,
-    "comment_count": 4,
+    "id": 30142494,
+    "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
+    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/",
+    "time": 1643586052,
+    "image": "https://www.reuters.com/resizer/nJB_ZidKD76ip6VAQlGhKHf1JI8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PYPUULVDLFI5ZBML3UV35CE4TA.jpg",
+    "icon": "https://www.reuters.com/pf/resources/icons/favicon.ico?d=69",
+    "publisher": "Reuters",
+    "description": "The highly transmissible Omicron variant of the SARS-CoV-2 virus - the most common form of which is known as BA.1 - now accounts for nearly all of the coronavirus infections globally, although dramatic surges in COVID cases have already peaked in some countries.",
+    "by": "lsllc",
+    "points": 17,
+    "comment_count": 1,
     "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
-      "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
-      ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
+      "by": "jihadjihad",
+      "descendants": 0,
+      "id": 30143454,
+      "kids": null,
+      "score": 3,
+      "time": 1643593183,
+      "title": "Belphegor's Prime",
       "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
-    },
-    "og_item": null
-  },
-  {
-    "id": 30111373,
-    "title": "What is FORGE?",
-    "url": "https://www.energy.gov/eere/geothermal/what-forge",
-    "time": 1643351840,
-    "image": "",
-    "icon": "https://www.energy.gov/themes/particle/apps/drupal/favicon.ico",
-    "publisher": "Energy.gov",
-    "description": "Our flagship effort over the next five years is the Frontier Observatory for Research in Geothermal Energy (FORGE) initiative — the first...",
-    "by": "manicennui",
-    "points": 63,
-    "comment_count": 5,
-    "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
-      "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
-      ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
-      "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
+      "url": "https://en.wikipedia.org/wiki/Belphegor%27s_prime"
     },
     "og_item": {
-      "title": "What is FORGE?",
+      "title": "Explainer: Scientists on alert over rising cases caused by Omicron cousin BA.2",
       "type": "article",
-      "image": [],
-      "url": "https://www.energy.gov/eere/geothermal/what-forge",
+      "image": [
+        {
+          "url": "https://www.reuters.com/resizer/nJB_ZidKD76ip6VAQlGhKHf1JI8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PYPUULVDLFI5ZBML3UV35CE4TA.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/",
       "audio": [],
-      "description": "Our flagship effort over the next five years is the Frontier Observatory for Research in Geothermal Energy (FORGE) initiative — the first...",
+      "description": "The highly transmissible Omicron variant of the SARS-CoV-2 virus - the most common form of which is known as BA.1 - now accounts for nearly all of the coronavirus infections globally, although dramatic surges in COVID cases have already peaked in some countries.",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "Energy.gov",
+      "site_name": "Reuters",
       "video": [],
       "favicon": {
-        "url": "/themes/particle/apps/drupal/favicon.ico"
+        "url": "/pf/resources/icons/favicon.ico?d=69"
       }
     }
   },
@@ -2637,20 +2356,15 @@
     "points": 99,
     "comment_count": 15,
     "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
-      "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
-      ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
+      "by": "jihadjihad",
+      "descendants": 0,
+      "id": 30143454,
+      "kids": null,
+      "score": 3,
+      "time": 1643593183,
+      "title": "Belphegor's Prime",
       "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
+      "url": "https://en.wikipedia.org/wiki/Belphegor%27s_prime"
     },
     "og_item": {
       "title": "Uninitialized Memory: Unsafe Rust is Too Hard",
@@ -2670,6 +2384,46 @@
     }
   },
   {
+    "id": 30111373,
+    "title": "What is FORGE?",
+    "url": "https://www.energy.gov/eere/geothermal/what-forge",
+    "time": 1643351840,
+    "image": "",
+    "icon": "https://www.energy.gov/themes/particle/apps/drupal/favicon.ico",
+    "publisher": "Energy.gov",
+    "description": "Our flagship effort over the next five years is the Frontier Observatory for Research in Geothermal Energy (FORGE) initiative — the first...",
+    "by": "manicennui",
+    "points": 63,
+    "comment_count": 5,
+    "hn_item": {
+      "by": "jihadjihad",
+      "descendants": 0,
+      "id": 30143454,
+      "kids": null,
+      "score": 3,
+      "time": 1643593183,
+      "title": "Belphegor's Prime",
+      "type": "story",
+      "url": "https://en.wikipedia.org/wiki/Belphegor%27s_prime"
+    },
+    "og_item": {
+      "title": "What is FORGE?",
+      "type": "article",
+      "image": [],
+      "url": "https://www.energy.gov/eere/geothermal/what-forge",
+      "audio": [],
+      "description": "Our flagship effort over the next five years is the Frontier Observatory for Research in Geothermal Energy (FORGE) initiative — the first...",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Energy.gov",
+      "video": [],
+      "favicon": {
+        "url": "/themes/particle/apps/drupal/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30116262,
     "title": "A Padlock I’d Use [video]",
     "url": "https://www.youtube.com/watch?v=HrV86GqlY8o",
@@ -2682,20 +2436,15 @@
     "points": 141,
     "comment_count": 7,
     "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
-      "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
-      ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
+      "by": "jihadjihad",
+      "descendants": 0,
+      "id": 30143454,
+      "kids": null,
+      "score": 3,
+      "time": 1643593183,
+      "title": "Belphegor's Prime",
       "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
+      "url": "https://en.wikipedia.org/wiki/Belphegor%27s_prime"
     },
     "og_item": {
       "title": "[1398] A Padlock I’d Use: Abus Granit 37RK/80 (Pick \u0026 Gut)",
@@ -2733,6 +2482,31 @@
     }
   },
   {
+    "id": 30125931,
+    "title": "Fluid Simulation – Siggraph 2007 Course Notes [pdf]",
+    "url": "https://www.cs.ubc.ca/~rbridson/fluidsimulation/fluids_notes.pdf",
+    "time": 1643461256,
+    "image": "",
+    "icon": "",
+    "publisher": "cs.ubc.ca",
+    "description": "",
+    "by": "creata",
+    "points": 34,
+    "comment_count": 4,
+    "hn_item": {
+      "by": "jihadjihad",
+      "descendants": 0,
+      "id": 30143454,
+      "kids": null,
+      "score": 3,
+      "time": 1643593183,
+      "title": "Belphegor's Prime",
+      "type": "story",
+      "url": "https://en.wikipedia.org/wiki/Belphegor%27s_prime"
+    },
+    "og_item": null
+  },
+  {
     "id": 30139142,
     "title": "SBCL: New in Version 2.2.1",
     "url": "http://www.sbcl.org/all-news.html?2.2.1#2.2.1",
@@ -2745,20 +2519,15 @@
     "points": 93,
     "comment_count": 5,
     "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
-      "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
-      ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
+      "by": "jihadjihad",
+      "descendants": 0,
+      "id": 30143454,
+      "kids": null,
+      "score": 3,
+      "time": 1643593183,
+      "title": "Belphegor's Prime",
       "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
+      "url": "https://en.wikipedia.org/wiki/Belphegor%27s_prime"
     },
     "og_item": {
       "title": "All News - Steel Bank Common Lisp",
@@ -2790,20 +2559,15 @@
     "points": 14,
     "comment_count": 2,
     "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
-      "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
-      ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
+      "by": "jihadjihad",
+      "descendants": 0,
+      "id": 30143454,
+      "kids": null,
+      "score": 3,
+      "time": 1643593183,
+      "title": "Belphegor's Prime",
       "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
+      "url": "https://en.wikipedia.org/wiki/Belphegor%27s_prime"
     },
     "og_item": {
       "title": "\nMusic Reactive Led Matrix – Andrea Radaelli\n",
@@ -2812,60 +2576,6 @@
       "url": "",
       "audio": [],
       "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30135297,
-    "title": "The Dialectic of Enlightenment and modern life",
-    "url": "https://daily-philosophy.com/frankfurt-school-dialectic-enlightenment/",
-    "time": 1643534554,
-    "image": "https://daily-philosophy.com/frankfurt-school-dialectic-enlightenment/featured-500px.jpg",
-    "icon": "https://daily-philosophy.com/favicon.ico",
-    "publisher": "daily-philosophy.com",
-    "description": "The Frankfurt School is generally taken to mean a lose collection of thinkers who first congregated around the Institute for Social Research in Frankfurt am Main, Germany.",
-    "by": "moralrobots",
-    "points": 18,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
-      "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
-      ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
-      "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
-    },
-    "og_item": {
-      "title": "The Dialectic of Enlightenment",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://daily-philosophy.com/frankfurt-school-dialectic-enlightenment/featured-500px.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://daily-philosophy.com/frankfurt-school-dialectic-enlightenment/",
-      "audio": [],
-      "description": "The Frankfurt School is generally taken to mean a lose collection of thinkers who first congregated around the Institute for Social Research in Frankfurt am Main, Germany.",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
@@ -2889,20 +2599,15 @@
     "points": 12,
     "comment_count": 2,
     "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
-      "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
-      ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
+      "by": "jihadjihad",
+      "descendants": 0,
+      "id": 30143454,
+      "kids": null,
+      "score": 3,
+      "time": 1643593183,
+      "title": "Belphegor's Prime",
       "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
+      "url": "https://en.wikipedia.org/wiki/Belphegor%27s_prime"
     },
     "og_item": {
       "title": "How to be an effective ruler: the Basilikon Doron of King James VI and I",
@@ -2943,20 +2648,15 @@
     "points": 6,
     "comment_count": 0,
     "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
-      "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
-      ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
+      "by": "jihadjihad",
+      "descendants": 0,
+      "id": 30143454,
+      "kids": null,
+      "score": 3,
+      "time": 1643593183,
+      "title": "Belphegor's Prime",
       "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
+      "url": "https://en.wikipedia.org/wiki/Belphegor%27s_prime"
     },
     "og_item": {
       "title": "I crowdfunded a novel using cryptocurrency ",
@@ -2994,23 +2694,18 @@
     "publisher": "Cooking in the Archives",
     "description": "A collection of philosopher John Locke’s papers at the Bodleian Library includes letters, accounts, poetry, notes on medicine and books, and recipes. When David Armitage posted this recipe fo…",
     "by": "pepys",
-    "points": 256,
+    "points": 257,
     "comment_count": 32,
     "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
-      "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
-      ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
+      "by": "jihadjihad",
+      "descendants": 0,
+      "id": 30143454,
+      "kids": null,
+      "score": 3,
+      "time": 1643593183,
+      "title": "Belphegor's Prime",
       "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
+      "url": "https://en.wikipedia.org/wiki/Belphegor%27s_prime"
     },
     "og_item": {
       "title": "John Locke’s recipe for Pancakes",
@@ -3051,20 +2746,15 @@
     "points": 94,
     "comment_count": 10,
     "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
-      "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
-      ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
+      "by": "jihadjihad",
+      "descendants": 0,
+      "id": 30143454,
+      "kids": null,
+      "score": 3,
+      "time": 1643593183,
+      "title": "Belphegor's Prime",
       "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
+      "url": "https://en.wikipedia.org/wiki/Belphegor%27s_prime"
     },
     "og_item": {
       "title": "Unredacted Word",
@@ -3105,20 +2795,15 @@
     "points": 126,
     "comment_count": 12,
     "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
-      "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
-      ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
+      "by": "jihadjihad",
+      "descendants": 0,
+      "id": 30143454,
+      "kids": null,
+      "score": 3,
+      "time": 1643593183,
+      "title": "Belphegor's Prime",
       "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
+      "url": "https://en.wikipedia.org/wiki/Belphegor%27s_prime"
     },
     "og_item": {
       "title": "Jeremy Mikkola - Tech debt gets worse before it gets better",
@@ -3150,20 +2835,15 @@
     "points": 44,
     "comment_count": 8,
     "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
-      "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
-      ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
+      "by": "jihadjihad",
+      "descendants": 0,
+      "id": 30143454,
+      "kids": null,
+      "score": 3,
+      "time": 1643593183,
+      "title": "Belphegor's Prime",
       "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
+      "url": "https://en.wikipedia.org/wiki/Belphegor%27s_prime"
     },
     "og_item": {
       "title": "Science | AAAS",
@@ -3187,45 +2867,31 @@
     "title": "Ulysses at 100: The Birth of the Modern",
     "url": "https://www.ft.com/content/609d5d0d-b666-4af8-af39-82ddaf5f28de",
     "time": 1643579002,
-    "image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fac1f0e9f-e68b-480f-8bb2-c59702216f76.jpg?source=next-opengraph\u0026fit=scale-down\u0026width=900",
+    "image": "",
     "icon": "https://www.ft.com/__origami/service/image/v2/images/raw/ftlogo-v1%3Abrand-ft-logo-square-coloured?source=update-logos\u0026format=svg",
     "publisher": "ft.com",
-    "description": "Colm Tóibín examines how James Joyce’s groundbreaking novel overturned traditions of narrative storytelling — and of Irish nationhood",
+    "description": "News, analysis and comment from the Financial Times, the worldʼs leading global business publication",
     "by": "kkwteh",
-    "points": 10,
+    "points": 11,
     "comment_count": 1,
     "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
-      "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
-      ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
+      "by": "jihadjihad",
+      "descendants": 0,
+      "id": 30143454,
+      "kids": null,
+      "score": 3,
+      "time": 1643593183,
+      "title": "Belphegor's Prime",
       "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
+      "url": "https://en.wikipedia.org/wiki/Belphegor%27s_prime"
     },
     "og_item": {
-      "title": "Ulysses at 100: the birth of the modern ",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fac1f0e9f-e68b-480f-8bb2-c59702216f76.jpg?source=next-opengraph\u0026fit=scale-down\u0026width=900",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://www.ft.com/content/609d5d0d-b666-4af8-af39-82ddaf5f28de",
+      "title": "Subscribe to read | Financial Times",
+      "type": "",
+      "image": [],
+      "url": "",
       "audio": [],
-      "description": "Colm Tóibín examines how James Joyce’s groundbreaking novel overturned traditions of narrative storytelling — and of Irish nationhood",
+      "description": "News, analysis and comment from the Financial Times, the worldʼs leading global business publication",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
@@ -3249,20 +2915,15 @@
     "points": 21,
     "comment_count": 0,
     "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
-      "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
-      ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
+      "by": "jihadjihad",
+      "descendants": 0,
+      "id": 30143454,
+      "kids": null,
+      "score": 3,
+      "time": 1643593183,
+      "title": "Belphegor's Prime",
       "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
+      "url": "https://en.wikipedia.org/wiki/Belphegor%27s_prime"
     },
     "og_item": {
       "title": "oss-security - Fun with DBM-type databases...",
@@ -3271,51 +2932,6 @@
       "url": "",
       "audio": [],
       "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30141266,
-    "title": "Rpilocator – Find a Raspberry Pi in Stock",
-    "url": "https://rpilocator.com",
-    "time": 1643577841,
-    "image": "",
-    "icon": "https://rpilocator.com/favicon.ico",
-    "publisher": "rpilocator.com",
-    "description": "Find Raspberry Pi computers in stock with this simple to use web application.",
-    "by": "geerlingguy",
-    "points": 12,
-    "comment_count": 3,
-    "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
-      "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
-      ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
-      "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
-    },
-    "og_item": {
-      "title": "rpilocator",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "Find Raspberry Pi computers in stock with this simple to use web application.",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
@@ -3339,20 +2955,15 @@
     "points": 50,
     "comment_count": 6,
     "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
-      "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
-      ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
+      "by": "jihadjihad",
+      "descendants": 0,
+      "id": 30143454,
+      "kids": null,
+      "score": 3,
+      "time": 1643593183,
+      "title": "Belphegor's Prime",
       "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
+      "url": "https://en.wikipedia.org/wiki/Belphegor%27s_prime"
     },
     "og_item": {
       "title": "How Amiga 500 RAM Probably Works | How Things Probably Work",
@@ -3390,6 +3001,46 @@
     }
   },
   {
+    "id": 30141266,
+    "title": "Rpilocator – Find a Raspberry Pi in Stock",
+    "url": "https://rpilocator.com",
+    "time": 1643577841,
+    "image": "",
+    "icon": "https://rpilocator.com/favicon.ico",
+    "publisher": "rpilocator.com",
+    "description": "Find Raspberry Pi computers in stock with this simple to use web application.",
+    "by": "geerlingguy",
+    "points": 12,
+    "comment_count": 3,
+    "hn_item": {
+      "by": "jihadjihad",
+      "descendants": 0,
+      "id": 30143454,
+      "kids": null,
+      "score": 3,
+      "time": 1643593183,
+      "title": "Belphegor's Prime",
+      "type": "story",
+      "url": "https://en.wikipedia.org/wiki/Belphegor%27s_prime"
+    },
+    "og_item": {
+      "title": "rpilocator",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "Find Raspberry Pi computers in stock with this simple to use web application.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30128379,
     "title": "Controlling RGB LEDs with only powerlines: Anatomy of a Christmas light string",
     "url": "https://cpldcpu.wordpress.com/2022/01/23/controlling-rgb-leds-with-only-the-powerlines-anatomy-of-a-christmas-light-string/",
@@ -3402,20 +3053,15 @@
     "points": 142,
     "comment_count": 6,
     "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
-      "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
-      ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
+      "by": "jihadjihad",
+      "descendants": 0,
+      "id": 30143454,
+      "kids": null,
+      "score": 3,
+      "time": 1643593183,
+      "title": "Belphegor's Prime",
       "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
+      "url": "https://en.wikipedia.org/wiki/Belphegor%27s_prime"
     },
     "og_item": {
       "title": "Controlling RGB LEDs With Only the Powerlines: Anatomy of a Christmas Light String",
@@ -3444,37 +3090,41 @@
     }
   },
   {
-    "id": 30119748,
-    "title": "In Defense of NIR",
-    "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/",
-    "time": 1643400958,
-    "image": "",
-    "icon": "https://www.jlekstrand.net/favicon.ico",
-    "publisher": "jlekstrand.net",
+    "id": 30143454,
+    "title": "Belphegor's Prime",
+    "url": "https://en.wikipedia.org/wiki/Belphegor%27s_prime",
+    "time": 1643593183,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/04/Belfagor%27s_Number.png",
+    "icon": "https://en.wikipedia.org/static/favicon/wikipedia.ico",
+    "publisher": "en.wikipedia.org",
     "description": "",
-    "by": "JNRowe",
-    "points": 29,
-    "comment_count": 4,
+    "by": "jihadjihad",
+    "points": 3,
+    "comment_count": 0,
     "hn_item": {
-      "by": "JNRowe",
-      "descendants": 6,
-      "id": 30119748,
-      "kids": [
-        30139852,
-        30140393,
-        30139687,
-        30120527
-      ],
-      "score": 29,
-      "time": 1643400958,
-      "title": "In Defense of NIR",
+      "by": "jihadjihad",
+      "descendants": 0,
+      "id": 30143454,
+      "kids": null,
+      "score": 3,
+      "time": 1643593183,
+      "title": "Belphegor's Prime",
       "type": "story",
-      "url": "https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/"
+      "url": "https://en.wikipedia.org/wiki/Belphegor%27s_prime"
     },
     "og_item": {
-      "title": "In defense of NIR",
-      "type": "",
-      "image": [],
+      "title": "Belphegor's prime - Wikipedia",
+      "type": "website",
+      "image": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Belfagor%27s_Number.png",
+          "secure_url": "",
+          "type": "",
+          "width": 640,
+          "height": 613,
+          "alt": ""
+        }
+      ],
       "url": "",
       "audio": [],
       "description": "",
@@ -3484,7 +3134,7 @@
       "site_name": "",
       "video": [],
       "favicon": {
-        "url": "/favicon.ico"
+        "url": "/static/favicon/wikipedia.ico"
       }
     }
   }
