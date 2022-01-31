@@ -9,21 +9,32 @@
     "publisher": "two-wrongs.com",
     "description": "",
     "by": "Tomte",
-    "points": 67,
+    "points": 69,
     "comment_count": 4,
     "hn_item": {
-      "by": "m33k44",
-      "descendants": 2,
-      "id": 30146554,
+      "by": "lowleveldesign",
+      "descendants": 55,
+      "id": 30128048,
       "kids": [
-        30147038,
-        30147016
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30145419,
+        30144489,
+        30140903,
+        30140096
       ],
-      "score": 3,
-      "time": 1643625014,
-      "title": "Middle class people now paying more than £1m in tax during lifetime",
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
       "type": "story",
-      "url": "https://www.telegraph.co.uk/politics/2022/01/31/middle-class-families-now-lifetime-tax-millionaires-research/"
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
     },
     "og_item": {
       "title": "The AWK State Machine Parser Pattern",
@@ -52,21 +63,32 @@
     "publisher": "royalsociety.org",
     "description": "The Online Information Environment report discusses how to limit the harm of scientific misinformation online",
     "by": "steelstraw",
-    "points": 852,
-    "comment_count": 56,
+    "points": 855,
+    "comment_count": 57,
     "hn_item": {
-      "by": "m33k44",
-      "descendants": 2,
-      "id": 30146554,
+      "by": "lowleveldesign",
+      "descendants": 55,
+      "id": 30128048,
       "kids": [
-        30147038,
-        30147016
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30145419,
+        30144489,
+        30140903,
+        30140096
       ],
-      "score": 3,
-      "time": 1643625014,
-      "title": "Middle class people now paying more than £1m in tax during lifetime",
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
       "type": "story",
-      "url": "https://www.telegraph.co.uk/politics/2022/01/31/middle-class-families-now-lifetime-tax-millionaires-research/"
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
     },
     "og_item": {
       "title": "Royal Society cautions against censorship of scientific misinformation online | Royal Society",
@@ -104,21 +126,32 @@
     "publisher": "lwn.net",
     "description": "",
     "by": "pabs3",
-    "points": 145,
+    "points": 149,
     "comment_count": 5,
     "hn_item": {
-      "by": "m33k44",
-      "descendants": 2,
-      "id": 30146554,
+      "by": "lowleveldesign",
+      "descendants": 55,
+      "id": 30128048,
       "kids": [
-        30147038,
-        30147016
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30145419,
+        30144489,
+        30140903,
+        30140096
       ],
-      "score": 3,
-      "time": 1643625014,
-      "title": "Middle class people now paying more than £1m in tax during lifetime",
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
       "type": "story",
-      "url": "https://www.telegraph.co.uk/politics/2022/01/31/middle-class-families-now-lifetime-tax-millionaires-research/"
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
     },
     "og_item": {
       "title": "Zero-copy network transmission with io_uring [LWN.net]",
@@ -142,33 +175,44 @@
     "title": "Boyfriend Alert",
     "url": "https://github.com/jscd/Boyfriend-Alert",
     "time": 1643619852,
-    "image": "https://opengraph.githubassets.com/4bd71cf2e824b513d738706281e4498b930cf9210ea47a83027cfd5c06443d1c/jscd/Boyfriend-Alert",
+    "image": "https://opengraph.githubassets.com/0105b29f0b0117bb428f05f12c4eab7ac27712c9c729dd177a6ad64e4f7f6383/jscd/Boyfriend-Alert",
     "icon": "https://github.githubassets.com/favicons/favicon.svg",
     "publisher": "GitHub",
     "description": "A light based alert system. Contribute to jscd/Boyfriend-Alert development by creating an account on GitHub.",
     "by": "rgun",
-    "points": 63,
-    "comment_count": 16,
+    "points": 66,
+    "comment_count": 17,
     "hn_item": {
-      "by": "m33k44",
-      "descendants": 2,
-      "id": 30146554,
+      "by": "lowleveldesign",
+      "descendants": 55,
+      "id": 30128048,
       "kids": [
-        30147038,
-        30147016
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30145419,
+        30144489,
+        30140903,
+        30140096
       ],
-      "score": 3,
-      "time": 1643625014,
-      "title": "Middle class people now paying more than £1m in tax during lifetime",
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
       "type": "story",
-      "url": "https://www.telegraph.co.uk/politics/2022/01/31/middle-class-families-now-lifetime-tax-millionaires-research/"
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
     },
     "og_item": {
       "title": "GitHub - jscd/Boyfriend-Alert: A light based alert system",
       "type": "object",
       "image": [
         {
-          "url": "https://opengraph.githubassets.com/4bd71cf2e824b513d738706281e4498b930cf9210ea47a83027cfd5c06443d1c/jscd/Boyfriend-Alert",
+          "url": "https://opengraph.githubassets.com/0105b29f0b0117bb428f05f12c4eab7ac27712c9c729dd177a6ad64e4f7f6383/jscd/Boyfriend-Alert",
           "secure_url": "",
           "type": "",
           "width": 1200,
@@ -199,21 +243,32 @@
     "publisher": "MathOverflow",
     "description": "The first thing to say is that this is not the same as the question about interesting mathematical mistakes. I am interested about the type of false beliefs that many intelligent people have while ...",
     "by": "gballan",
-    "points": 120,
+    "points": 122,
     "comment_count": 10,
     "hn_item": {
-      "by": "m33k44",
-      "descendants": 2,
-      "id": 30146554,
+      "by": "lowleveldesign",
+      "descendants": 55,
+      "id": 30128048,
       "kids": [
-        30147038,
-        30147016
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30145419,
+        30144489,
+        30140903,
+        30140096
       ],
-      "score": 3,
-      "time": 1643625014,
-      "title": "Middle class people now paying more than £1m in tax during lifetime",
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
       "type": "story",
-      "url": "https://www.telegraph.co.uk/politics/2022/01/31/middle-class-families-now-lifetime-tax-millionaires-research/"
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
     },
     "og_item": {
       "title": "Examples of common false beliefs in mathematics",
@@ -242,6 +297,60 @@
     }
   },
   {
+    "id": 30114822,
+    "title": "Async Rust: Panics vs. Cancellation",
+    "url": "https://smallcultfollowing.com/babysteps//blog/2022/01/27/panics-vs-cancellation-part-1/",
+    "time": 1643379403,
+    "image": "",
+    "icon": "https://smallcultfollowing.com/favicon.ico",
+    "publisher": "smallcultfollowing.com",
+    "description": "",
+    "by": "ingve",
+    "points": 47,
+    "comment_count": 3,
+    "hn_item": {
+      "by": "lowleveldesign",
+      "descendants": 55,
+      "id": 30128048,
+      "kids": [
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30145419,
+        30144489,
+        30140903,
+        30140096
+      ],
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
+      "type": "story",
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
+    },
+    "og_item": {
+      "title": "Baby Steps",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30147052,
     "title": "Convictional (YC W19) is hiring engineers to build the future of B2B trade Remote",
     "url": "https://jobs.ashbyhq.com/convictional/91fa08f9-0850-4429-9000-19c1f5fe9ef3",
@@ -254,18 +363,29 @@
     "points": 1,
     "comment_count": 0,
     "hn_item": {
-      "by": "m33k44",
-      "descendants": 2,
-      "id": 30146554,
+      "by": "lowleveldesign",
+      "descendants": 55,
+      "id": 30128048,
       "kids": [
-        30147038,
-        30147016
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30145419,
+        30144489,
+        30140903,
+        30140096
       ],
-      "score": 3,
-      "time": 1643625014,
-      "title": "Middle class people now paying more than £1m in tax during lifetime",
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
       "type": "story",
-      "url": "https://www.telegraph.co.uk/politics/2022/01/31/middle-class-families-now-lifetime-tax-millionaires-research/"
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
     },
     "og_item": {
       "title": "Software Engineer",
@@ -294,49 +414,6 @@
     }
   },
   {
-    "id": 30114822,
-    "title": "Async Rust: Panics vs. Cancellation",
-    "url": "https://smallcultfollowing.com/babysteps//blog/2022/01/27/panics-vs-cancellation-part-1/",
-    "time": 1643379403,
-    "image": "",
-    "icon": "https://smallcultfollowing.com/favicon.ico",
-    "publisher": "smallcultfollowing.com",
-    "description": "",
-    "by": "ingve",
-    "points": 45,
-    "comment_count": 3,
-    "hn_item": {
-      "by": "m33k44",
-      "descendants": 2,
-      "id": 30146554,
-      "kids": [
-        30147038,
-        30147016
-      ],
-      "score": 3,
-      "time": 1643625014,
-      "title": "Middle class people now paying more than £1m in tax during lifetime",
-      "type": "story",
-      "url": "https://www.telegraph.co.uk/politics/2022/01/31/middle-class-families-now-lifetime-tax-millionaires-research/"
-    },
-    "og_item": {
-      "title": "Baby Steps",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30124457,
     "title": "Chip shortages due to lack of investment in right fabs",
     "url": "https://www.theregister.com/2022/01/28/idc_chip_shortages/",
@@ -346,21 +423,32 @@
     "publisher": "theregister.com",
     "description": "",
     "by": "laktak",
-    "points": 117,
+    "points": 119,
     "comment_count": 10,
     "hn_item": {
-      "by": "m33k44",
-      "descendants": 2,
-      "id": 30146554,
+      "by": "lowleveldesign",
+      "descendants": 55,
+      "id": 30128048,
       "kids": [
-        30147038,
-        30147016
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30145419,
+        30144489,
+        30140903,
+        30140096
       ],
-      "score": 3,
-      "time": 1643625014,
-      "title": "Middle class people now paying more than £1m in tax during lifetime",
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
       "type": "story",
-      "url": "https://www.telegraph.co.uk/politics/2022/01/31/middle-class-families-now-lifetime-tax-millionaires-research/"
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
     },
     "og_item": {
       "title": "",
@@ -389,21 +477,32 @@
     "publisher": "Medium",
     "description": "My journey on finding and reporting databases with sensitive data about Fortune-500 companies, Hospitals, Crypto platforms, Startups during…",
     "by": "boyter",
-    "points": 176,
+    "points": 178,
     "comment_count": 14,
     "hn_item": {
-      "by": "m33k44",
-      "descendants": 2,
-      "id": 30146554,
+      "by": "lowleveldesign",
+      "descendants": 55,
+      "id": 30128048,
       "kids": [
-        30147038,
-        30147016
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30145419,
+        30144489,
+        30140903,
+        30140096
       ],
-      "score": 3,
-      "time": 1643625014,
-      "title": "Middle class people now paying more than £1m in tax during lifetime",
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
       "type": "story",
-      "url": "https://www.telegraph.co.uk/politics/2022/01/31/middle-class-families-now-lifetime-tax-millionaires-research/"
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
     },
     "og_item": {
       "title": "How I Discovered Thousands of Open Databases on AWS",
@@ -441,21 +540,32 @@
     "publisher": "blog.thomaspuppe.de",
     "description": "",
     "by": "indigodaddy",
-    "points": 54,
-    "comment_count": 8,
+    "points": 55,
+    "comment_count": 9,
     "hn_item": {
-      "by": "m33k44",
-      "descendants": 2,
-      "id": 30146554,
+      "by": "lowleveldesign",
+      "descendants": 55,
+      "id": 30128048,
       "kids": [
-        30147038,
-        30147016
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30145419,
+        30144489,
+        30140903,
+        30140096
       ],
-      "score": 3,
-      "time": 1643625014,
-      "title": "Middle class people now paying more than £1m in tax during lifetime",
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
       "type": "story",
-      "url": "https://www.telegraph.co.uk/politics/2022/01/31/middle-class-families-now-lifetime-tax-millionaires-research/"
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
     },
     "og_item": null
   },
@@ -469,21 +579,32 @@
     "publisher": "mattferraro.dev",
     "description": "What does it mean to invert a shape?",
     "by": "mferraro89",
-    "points": 113,
+    "points": 114,
     "comment_count": 10,
     "hn_item": {
-      "by": "m33k44",
-      "descendants": 2,
-      "id": 30146554,
+      "by": "lowleveldesign",
+      "descendants": 55,
+      "id": 30128048,
       "kids": [
-        30147038,
-        30147016
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30145419,
+        30144489,
+        30140903,
+        30140096
       ],
-      "score": 3,
-      "time": 1643625014,
-      "title": "Middle class people now paying more than £1m in tax during lifetime",
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
       "type": "story",
-      "url": "https://www.telegraph.co.uk/politics/2022/01/31/middle-class-families-now-lifetime-tax-millionaires-research/"
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
     },
     "og_item": {
       "title": "What is the Inverse of a Circle?",
@@ -521,21 +642,32 @@
     "publisher": "cacm.acm.org",
     "description": "AI is driving the next evolution of chess, giving players a glimpse into the game\u0026#39;s future.",
     "by": "joak",
-    "points": 116,
+    "points": 117,
     "comment_count": 15,
     "hn_item": {
-      "by": "m33k44",
-      "descendants": 2,
-      "id": 30146554,
+      "by": "lowleveldesign",
+      "descendants": 55,
+      "id": 30128048,
       "kids": [
-        30147038,
-        30147016
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30145419,
+        30144489,
+        30140903,
+        30140096
       ],
-      "score": 3,
-      "time": 1643625014,
-      "title": "Middle class people now paying more than £1m in tax during lifetime",
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
       "type": "story",
-      "url": "https://www.telegraph.co.uk/politics/2022/01/31/middle-class-families-now-lifetime-tax-millionaires-research/"
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
     },
     "og_item": {
       "title": "Reimagining Chess with AlphaZero",
@@ -573,21 +705,32 @@
     "publisher": "bleepingcomputer.com",
     "description": "",
     "by": "beermonster",
-    "points": 74,
+    "points": 77,
     "comment_count": 6,
     "hn_item": {
-      "by": "m33k44",
-      "descendants": 2,
-      "id": 30146554,
+      "by": "lowleveldesign",
+      "descendants": 55,
+      "id": 30128048,
       "kids": [
-        30147038,
-        30147016
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30145419,
+        30144489,
+        30140903,
+        30140096
       ],
-      "score": 3,
-      "time": 1643625014,
-      "title": "Middle class people now paying more than £1m in tax during lifetime",
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
       "type": "story",
-      "url": "https://www.telegraph.co.uk/politics/2022/01/31/middle-class-families-now-lifetime-tax-millionaires-research/"
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
     },
     "og_item": {
       "title": "Just a moment...",
@@ -616,21 +759,32 @@
     "publisher": "zillow.com",
     "description": "",
     "by": "otras",
-    "points": 291,
+    "points": 293,
     "comment_count": 35,
     "hn_item": {
-      "by": "m33k44",
-      "descendants": 2,
-      "id": 30146554,
+      "by": "lowleveldesign",
+      "descendants": 55,
+      "id": 30128048,
       "kids": [
-        30147038,
-        30147016
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30145419,
+        30144489,
+        30140903,
+        30140096
       ],
-      "score": 3,
-      "time": 1643625014,
-      "title": "Middle class people now paying more than £1m in tax during lifetime",
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
       "type": "story",
-      "url": "https://www.telegraph.co.uk/politics/2022/01/31/middle-class-families-now-lifetime-tax-millionaires-research/"
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
     },
     "og_item": {
       "title": "",
@@ -650,6 +804,69 @@
     }
   },
   {
+    "id": 30146843,
+    "title": "1k-cycle lithium-sulfur battery could quintuple electric vehicle ranges",
+    "url": "https://news.umich.edu/1000-cycle-lithium-sulfur-battery-could-quintuple-electric-vehicle-ranges/",
+    "time": 1643628054,
+    "image": "https://news.umich.edu/wp-content/uploads/mc-image-cache/2022/01/1000-cycle-lithium-sulfur-battery-could-quintuple-electric-vehicle-ranges-LiS-Battery-Diagram.jpg",
+    "icon": "https://news.umich.edu/favicon.ico",
+    "publisher": "University of Michigan News",
+    "description": "A new biologically inspired battery membrane has enabled a battery with five times the capacity of the industry-standard lithium ion design to run for the thousand-plus cycles needed to power an electric car.\n\nA network of aramid nanofibers, recycled from Kevlar, can enable lithium-sulfur batterie",
+    "by": "maeln",
+    "points": 4,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "lowleveldesign",
+      "descendants": 55,
+      "id": 30128048,
+      "kids": [
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30145419,
+        30144489,
+        30140903,
+        30140096
+      ],
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
+      "type": "story",
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
+    },
+    "og_item": {
+      "title": "1,000-cycle lithium-sulfur battery could quintuple electric vehicle ranges",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://news.umich.edu/wp-content/uploads/mc-image-cache/2022/01/1000-cycle-lithium-sulfur-battery-could-quintuple-electric-vehicle-ranges-LiS-Battery-Diagram.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://news.umich.edu/1000-cycle-lithium-sulfur-battery-could-quintuple-electric-vehicle-ranges/",
+      "audio": [],
+      "description": "A new biologically inspired battery membrane has enabled a battery with five times the capacity of the industry-standard lithium ion design to run for the thousand-plus cycles needed to power an electric car.\n\nA network of aramid nanofibers, recycled from Kevlar, can enable lithium-sulfur batterie",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "University of Michigan News",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30114617,
     "title": "A virus helped a woman survive a dangerous antibiotic-resistant infection",
     "url": "https://english.elpais.com/usa/2022-01-27/how-a-virus-helped-a-woman-survive-a-dangerous-antibiotic-resistant-infection.html",
@@ -659,21 +876,32 @@
     "publisher": "EL PAÍS English Edition",
     "description": "Doctors in Belgium explain how they saved a bomb attack victim who had been struggling with one of the most virulent bacterial pathogens in the world",
     "by": "belter",
-    "points": 76,
+    "points": 77,
     "comment_count": 7,
     "hn_item": {
-      "by": "m33k44",
-      "descendants": 2,
-      "id": 30146554,
+      "by": "lowleveldesign",
+      "descendants": 55,
+      "id": 30128048,
       "kids": [
-        30147038,
-        30147016
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30145419,
+        30144489,
+        30140903,
+        30140096
       ],
-      "score": 3,
-      "time": 1643625014,
-      "title": "Middle class people now paying more than £1m in tax during lifetime",
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
       "type": "story",
-      "url": "https://www.telegraph.co.uk/politics/2022/01/31/middle-class-families-now-lifetime-tax-millionaires-research/"
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
     },
     "og_item": {
       "title": "How a virus helped a woman survive a dangerous antibiotic-resistant infection",
@@ -702,58 +930,6 @@
     }
   },
   {
-    "id": 30146881,
-    "title": "Race-Based Rationing Is Real–and Dangerous",
-    "url": "https://www.theatlantic.com/ideas/archive/2022/01/race-based-covid-rationing-ideology/621405/",
-    "time": 1643628394,
-    "image": "https://cdn.theatlantic.com/thumbor/J4DWZzmkDFuAL67dFhC4XNgg_bU=/0x51:2396x1299/960x500/media/img/mt/2022/01/image_18/original.png",
-    "icon": "https://cdn.theatlantic.com/_next/static/images/favicon-3888b0e329526a975703e3059a02b92d.ico",
-    "publisher": "The Atlantic",
-    "description": "The cultural left’s worldview is beginning to distort health policy.",
-    "by": "pseudolus",
-    "points": 20,
-    "comment_count": 2,
-    "hn_item": {
-      "by": "m33k44",
-      "descendants": 2,
-      "id": 30146554,
-      "kids": [
-        30147038,
-        30147016
-      ],
-      "score": 3,
-      "time": 1643625014,
-      "title": "Middle class people now paying more than £1m in tax during lifetime",
-      "type": "story",
-      "url": "https://www.telegraph.co.uk/politics/2022/01/31/middle-class-families-now-lifetime-tax-millionaires-research/"
-    },
-    "og_item": {
-      "title": "Race-Based Rationing Is Real—And Dangerous",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://cdn.theatlantic.com/thumbor/J4DWZzmkDFuAL67dFhC4XNgg_bU=/0x51:2396x1299/960x500/media/img/mt/2022/01/image_18/original.png",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://www.theatlantic.com/ideas/archive/2022/01/race-based-covid-rationing-ideology/621405/",
-      "audio": [],
-      "description": "The cultural left’s worldview is beginning to distort health policy.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "The Atlantic",
-      "video": [],
-      "favicon": {
-        "url": "https://cdn.theatlantic.com/_next/static/images/favicon-3888b0e329526a975703e3059a02b92d.ico"
-      }
-    }
-  },
-  {
     "id": 30140835,
     "title": "Hardy, Ramanujan and Taxi No. 1729",
     "url": "https://johncarlosbaez.wordpress.com/2022/01/30/hardy-ramanujan-and-taxi-no-1729/",
@@ -763,21 +939,32 @@
     "publisher": "Azimuth",
     "description": "In his book Ramanujan: Twelve Lectures on Subjects Suggested by His Life and Work, G. H. Hardy tells this famous story: He could remember the idiosyncracies of numbers in an almost uncanny way. It …",
     "by": "johncarlosbaez",
-    "points": 111,
+    "points": 112,
     "comment_count": 9,
     "hn_item": {
-      "by": "m33k44",
-      "descendants": 2,
-      "id": 30146554,
+      "by": "lowleveldesign",
+      "descendants": 55,
+      "id": 30128048,
       "kids": [
-        30147038,
-        30147016
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30145419,
+        30144489,
+        30140903,
+        30140096
       ],
-      "score": 3,
-      "time": 1643625014,
-      "title": "Middle class people now paying more than £1m in tax during lifetime",
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
       "type": "story",
-      "url": "https://www.telegraph.co.uk/politics/2022/01/31/middle-class-families-now-lifetime-tax-millionaires-research/"
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
     },
     "og_item": {
       "title": "Hardy, Ramanujan and Taxi No. 1729",
@@ -818,18 +1005,29 @@
     "points": 56,
     "comment_count": 7,
     "hn_item": {
-      "by": "m33k44",
-      "descendants": 2,
-      "id": 30146554,
+      "by": "lowleveldesign",
+      "descendants": 55,
+      "id": 30128048,
       "kids": [
-        30147038,
-        30147016
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30145419,
+        30144489,
+        30140903,
+        30140096
       ],
-      "score": 3,
-      "time": 1643625014,
-      "title": "Middle class people now paying more than £1m in tax during lifetime",
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
       "type": "story",
-      "url": "https://www.telegraph.co.uk/politics/2022/01/31/middle-class-families-now-lifetime-tax-millionaires-research/"
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
     },
     "og_item": {
       "title": "Ylang: Universal Language for eBPF, Stap+, GDB, and More (Part 4) - OpenResty Official Blog",
@@ -861,18 +1059,29 @@
     "points": 5,
     "comment_count": 0,
     "hn_item": {
-      "by": "m33k44",
-      "descendants": 2,
-      "id": 30146554,
+      "by": "lowleveldesign",
+      "descendants": 55,
+      "id": 30128048,
       "kids": [
-        30147038,
-        30147016
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30145419,
+        30144489,
+        30140903,
+        30140096
       ],
-      "score": 3,
-      "time": 1643625014,
-      "title": "Middle class people now paying more than £1m in tax during lifetime",
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
       "type": "story",
-      "url": "https://www.telegraph.co.uk/politics/2022/01/31/middle-class-families-now-lifetime-tax-millionaires-research/"
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
     },
     "og_item": {
       "title": "Plain Geology",
@@ -901,21 +1110,32 @@
     "publisher": "web.archive.org",
     "description": "",
     "by": "ecliptik",
-    "points": 121,
+    "points": 122,
     "comment_count": 10,
     "hn_item": {
-      "by": "m33k44",
-      "descendants": 2,
-      "id": 30146554,
+      "by": "lowleveldesign",
+      "descendants": 55,
+      "id": 30128048,
       "kids": [
-        30147038,
-        30147016
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30145419,
+        30144489,
+        30140903,
+        30140096
       ],
-      "score": 3,
-      "time": 1643625014,
-      "title": "Middle class people now paying more than £1m in tax during lifetime",
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
       "type": "story",
-      "url": "https://www.telegraph.co.uk/politics/2022/01/31/middle-class-families-now-lifetime-tax-millionaires-research/"
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
     },
     "og_item": {
       "title": "GameSpot's SIMply Divine: The Story of Maxis Software",
@@ -935,54 +1155,56 @@
     }
   },
   {
-    "id": 30123592,
-    "title": "Assembling Accountability, from the Ground Up (2021)",
-    "url": "https://points.datasociety.net/assembling-accountability-from-the-ground-up-4655c492d0d0?gi=833242955cfa",
-    "time": 1643428009,
-    "image": "https://miro.medium.com/max/1200/1*D4V3-R-xBs3Qrf4F8JBeyA.png",
-    "icon": "https://miro.medium.com/fit/c/256/256/1*g7zU0sabzknTXlMs4m3Iqg.jpeg",
-    "publisher": "Medium",
-    "description": "Algorithmic impact assessments should leverage diverse expertise \u0026 complex histories",
-    "by": "mooreds",
-    "points": 3,
-    "comment_count": 0,
+    "id": 30134367,
+    "title": "The case of the mysterious --help directory (2020)",
+    "url": "https://leahneukirchen.org/blog/archive/2020/05/the-case-of-the-mysterious-help-directory.html",
+    "time": 1643520785,
+    "image": "",
+    "icon": "https://leahneukirchen.org/favicon.ico",
+    "publisher": "leahneukirchen.org",
+    "description": "",
+    "by": "panic",
+    "points": 156,
+    "comment_count": 13,
     "hn_item": {
-      "by": "m33k44",
-      "descendants": 2,
-      "id": 30146554,
+      "by": "lowleveldesign",
+      "descendants": 55,
+      "id": 30128048,
       "kids": [
-        30147038,
-        30147016
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30145419,
+        30144489,
+        30140903,
+        30140096
       ],
-      "score": 3,
-      "time": 1643625014,
-      "title": "Middle class people now paying more than £1m in tax during lifetime",
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
       "type": "story",
-      "url": "https://www.telegraph.co.uk/politics/2022/01/31/middle-class-families-now-lifetime-tax-millionaires-research/"
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
     },
     "og_item": {
-      "title": "Assembling Accountability, from the Ground Up",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://miro.medium.com/max/1200/1*D4V3-R-xBs3Qrf4F8JBeyA.png",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://points.datasociety.net/assembling-accountability-from-the-ground-up-4655c492d0d0",
+      "title": "leah blogs: The case of the mysterious --help directory",
+      "type": "",
+      "image": [],
+      "url": "",
       "audio": [],
-      "description": "Algorithmic impact assessments should leverage diverse expertise \u0026 complex histories",
+      "description": "",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "Medium",
+      "site_name": "",
       "video": [],
       "favicon": {
-        "url": "https://miro.medium.com/fit/c/256/256/1*g7zU0sabzknTXlMs4m3Iqg.jpeg"
+        "url": "/favicon.ico"
       }
     }
   },
@@ -999,18 +1221,29 @@
     "points": 38,
     "comment_count": 3,
     "hn_item": {
-      "by": "m33k44",
-      "descendants": 2,
-      "id": 30146554,
+      "by": "lowleveldesign",
+      "descendants": 55,
+      "id": 30128048,
       "kids": [
-        30147038,
-        30147016
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30145419,
+        30144489,
+        30140903,
+        30140096
       ],
-      "score": 3,
-      "time": 1643625014,
-      "title": "Middle class people now paying more than £1m in tax during lifetime",
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
       "type": "story",
-      "url": "https://www.telegraph.co.uk/politics/2022/01/31/middle-class-families-now-lifetime-tax-millionaires-research/"
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
     },
     "og_item": {
       "title": "Mesmerizing Labor - JSTOR Daily",
@@ -1039,49 +1272,6 @@
     }
   },
   {
-    "id": 30134367,
-    "title": "The case of the mysterious --help directory (2020)",
-    "url": "https://leahneukirchen.org/blog/archive/2020/05/the-case-of-the-mysterious-help-directory.html",
-    "time": 1643520785,
-    "image": "",
-    "icon": "https://leahneukirchen.org/favicon.ico",
-    "publisher": "leahneukirchen.org",
-    "description": "",
-    "by": "panic",
-    "points": 156,
-    "comment_count": 13,
-    "hn_item": {
-      "by": "m33k44",
-      "descendants": 2,
-      "id": 30146554,
-      "kids": [
-        30147038,
-        30147016
-      ],
-      "score": 3,
-      "time": 1643625014,
-      "title": "Middle class people now paying more than £1m in tax during lifetime",
-      "type": "story",
-      "url": "https://www.telegraph.co.uk/politics/2022/01/31/middle-class-families-now-lifetime-tax-millionaires-research/"
-    },
-    "og_item": {
-      "title": "leah blogs: The case of the mysterious --help directory",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30141192,
     "title": "Don't forget Microsoft",
     "url": "https://luttig.substack.com/p/dont-forget-microsoft",
@@ -1091,21 +1281,32 @@
     "publisher": "luttig.substack.com",
     "description": "Understanding the behemoth in Redmond teaches us valuable lessons in cloud infrastructure, startup strategy, and the future of software.",
     "by": "SamvitJ",
-    "points": 335,
-    "comment_count": 59,
+    "points": 339,
+    "comment_count": 60,
     "hn_item": {
-      "by": "m33k44",
-      "descendants": 2,
-      "id": 30146554,
+      "by": "lowleveldesign",
+      "descendants": 55,
+      "id": 30128048,
       "kids": [
-        30147038,
-        30147016
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30145419,
+        30144489,
+        30140903,
+        30140096
       ],
-      "score": 3,
-      "time": 1643625014,
-      "title": "Middle class people now paying more than £1m in tax during lifetime",
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
       "type": "story",
-      "url": "https://www.telegraph.co.uk/politics/2022/01/31/middle-class-families-now-lifetime-tax-millionaires-research/"
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
     },
     "og_item": {
       "title": "Don’t forget Microsoft",
@@ -1134,6 +1335,123 @@
     }
   },
   {
+    "id": 30123592,
+    "title": "Assembling Accountability, from the Ground Up (2021)",
+    "url": "https://points.datasociety.net/assembling-accountability-from-the-ground-up-4655c492d0d0?gi=833242955cfa",
+    "time": 1643428009,
+    "image": "https://miro.medium.com/max/1200/1*D4V3-R-xBs3Qrf4F8JBeyA.png",
+    "icon": "https://miro.medium.com/fit/c/256/256/1*g7zU0sabzknTXlMs4m3Iqg.jpeg",
+    "publisher": "Medium",
+    "description": "Algorithmic impact assessments should leverage diverse expertise \u0026 complex histories",
+    "by": "mooreds",
+    "points": 3,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "lowleveldesign",
+      "descendants": 55,
+      "id": 30128048,
+      "kids": [
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30145419,
+        30144489,
+        30140903,
+        30140096
+      ],
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
+      "type": "story",
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
+    },
+    "og_item": {
+      "title": "Assembling Accountability, from the Ground Up",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://miro.medium.com/max/1200/1*D4V3-R-xBs3Qrf4F8JBeyA.png",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://points.datasociety.net/assembling-accountability-from-the-ground-up-4655c492d0d0",
+      "audio": [],
+      "description": "Algorithmic impact assessments should leverage diverse expertise \u0026 complex histories",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Medium",
+      "video": [],
+      "favicon": {
+        "url": "https://miro.medium.com/fit/c/256/256/1*g7zU0sabzknTXlMs4m3Iqg.jpeg"
+      }
+    }
+  },
+  {
+    "id": 30131387,
+    "title": "Game performance optimization – A practical example from Industry Idle",
+    "url": "https://ruoyusun.com/2022/01/28/game-pref.html",
+    "time": 1643496513,
+    "image": "",
+    "icon": "https://ruoyusun.com/favicon-16x16.png",
+    "publisher": "ruoyusun.com",
+    "description": "",
+    "by": "insraq",
+    "points": 81,
+    "comment_count": 8,
+    "hn_item": {
+      "by": "lowleveldesign",
+      "descendants": 55,
+      "id": 30128048,
+      "kids": [
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30145419,
+        30144489,
+        30140903,
+        30140096
+      ],
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
+      "type": "story",
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
+    },
+    "og_item": {
+      "title": "Game Performance Optimization - A Practical Example From Industry Idle",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon-16x16.png"
+      }
+    }
+  },
+  {
     "id": 30141439,
     "title": "Operation Warp Speed: A new model for industrial policy",
     "url": "https://americanaffairsjournal.org/2021/05/inside-operation-warp-speed-a-new-model-for-industrial-policy/",
@@ -1146,18 +1464,29 @@
     "points": 123,
     "comment_count": 9,
     "hn_item": {
-      "by": "m33k44",
-      "descendants": 2,
-      "id": 30146554,
+      "by": "lowleveldesign",
+      "descendants": 55,
+      "id": 30128048,
       "kids": [
-        30147038,
-        30147016
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30145419,
+        30144489,
+        30140903,
+        30140096
       ],
-      "score": 3,
-      "time": 1643625014,
-      "title": "Middle class people now paying more than £1m in tax during lifetime",
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
       "type": "story",
-      "url": "https://www.telegraph.co.uk/politics/2022/01/31/middle-class-families-now-lifetime-tax-millionaires-research/"
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
     },
     "og_item": {
       "title": "Inside Operation Warp Speed: A New Model for Industrial Policy - American Affairs Journal",
@@ -1186,49 +1515,6 @@
     }
   },
   {
-    "id": 30131387,
-    "title": "Game performance optimization – A practical example from Industry Idle",
-    "url": "https://ruoyusun.com/2022/01/28/game-pref.html",
-    "time": 1643496513,
-    "image": "",
-    "icon": "https://ruoyusun.com/favicon-16x16.png",
-    "publisher": "ruoyusun.com",
-    "description": "",
-    "by": "insraq",
-    "points": 81,
-    "comment_count": 8,
-    "hn_item": {
-      "by": "m33k44",
-      "descendants": 2,
-      "id": 30146554,
-      "kids": [
-        30147038,
-        30147016
-      ],
-      "score": 3,
-      "time": 1643625014,
-      "title": "Middle class people now paying more than £1m in tax during lifetime",
-      "type": "story",
-      "url": "https://www.telegraph.co.uk/politics/2022/01/31/middle-class-families-now-lifetime-tax-millionaires-research/"
-    },
-    "og_item": {
-      "title": "Game Performance Optimization - A Practical Example From Industry Idle",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon-16x16.png"
-      }
-    }
-  },
-  {
     "id": 30143375,
     "title": "Lizard scale patterns described with antiferromagnetic model",
     "url": "https://physics.aps.org/articles/v15/s12",
@@ -1238,21 +1524,32 @@
     "publisher": "Physics",
     "description": "The pattern of green and black scales on an ocellated lizard can be described with the two-parameter Ising model for antiferromagnetic systems.",
     "by": "shusaku",
-    "points": 50,
+    "points": 51,
     "comment_count": 3,
     "hn_item": {
-      "by": "m33k44",
-      "descendants": 2,
-      "id": 30146554,
+      "by": "lowleveldesign",
+      "descendants": 55,
+      "id": 30128048,
       "kids": [
-        30147038,
-        30147016
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30145419,
+        30144489,
+        30140903,
+        30140096
       ],
-      "score": 3,
-      "time": 1643625014,
-      "title": "Middle class people now paying more than £1m in tax during lifetime",
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
       "type": "story",
-      "url": "https://www.telegraph.co.uk/politics/2022/01/31/middle-class-families-now-lifetime-tax-millionaires-research/"
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
     },
     "og_item": {
       "title": "Lizard Scale Patterns Described with Antiferromagnetic Model",
@@ -1293,18 +1590,29 @@
     "points": 579,
     "comment_count": 38,
     "hn_item": {
-      "by": "m33k44",
-      "descendants": 2,
-      "id": 30146554,
+      "by": "lowleveldesign",
+      "descendants": 55,
+      "id": 30128048,
       "kids": [
-        30147038,
-        30147016
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30145419,
+        30144489,
+        30140903,
+        30140096
       ],
-      "score": 3,
-      "time": 1643625014,
-      "title": "Middle class people now paying more than £1m in tax during lifetime",
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
       "type": "story",
-      "url": "https://www.telegraph.co.uk/politics/2022/01/31/middle-class-families-now-lifetime-tax-millionaires-research/"
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
     },
     "og_item": {
       "title": "Bike Tire | Fahrrad-Tools.de",
@@ -1333,21 +1641,32 @@
     "publisher": "jenson.org",
     "description": "",
     "by": "radley",
-    "points": 811,
+    "points": 814,
     "comment_count": 103,
     "hn_item": {
-      "by": "m33k44",
-      "descendants": 2,
-      "id": 30146554,
+      "by": "lowleveldesign",
+      "descendants": 55,
+      "id": 30128048,
       "kids": [
-        30147038,
-        30147016
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30145419,
+        30144489,
+        30140903,
+        30140096
       ],
-      "score": 3,
-      "time": 1643625014,
-      "title": "Middle class people now paying more than £1m in tax during lifetime",
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
       "type": "story",
-      "url": "https://www.telegraph.co.uk/politics/2022/01/31/middle-class-families-now-lifetime-tax-millionaires-research/"
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
     },
     "og_item": {
       "title": "A UX designer walks into a Tesla Bar – Scott Jenson",
@@ -1379,18 +1698,29 @@
     "points": 80,
     "comment_count": 4,
     "hn_item": {
-      "by": "m33k44",
-      "descendants": 2,
-      "id": 30146554,
+      "by": "lowleveldesign",
+      "descendants": 55,
+      "id": 30128048,
       "kids": [
-        30147038,
-        30147016
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30145419,
+        30144489,
+        30140903,
+        30140096
       ],
-      "score": 3,
-      "time": 1643625014,
-      "title": "Middle class people now paying more than £1m in tax during lifetime",
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
       "type": "story",
-      "url": "https://www.telegraph.co.uk/politics/2022/01/31/middle-class-families-now-lifetime-tax-millionaires-research/"
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
     },
     "og_item": {
       "title": "A Billion Years of Time Are Mysteriously Missing. Scientists Think They Know Why.",
@@ -1431,18 +1761,29 @@
     "points": 130,
     "comment_count": 24,
     "hn_item": {
-      "by": "m33k44",
-      "descendants": 2,
-      "id": 30146554,
+      "by": "lowleveldesign",
+      "descendants": 55,
+      "id": 30128048,
       "kids": [
-        30147038,
-        30147016
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30145419,
+        30144489,
+        30140903,
+        30140096
       ],
-      "score": 3,
-      "time": 1643625014,
-      "title": "Middle class people now paying more than £1m in tax during lifetime",
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
       "type": "story",
-      "url": "https://www.telegraph.co.uk/politics/2022/01/31/middle-class-families-now-lifetime-tax-millionaires-research/"
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
     },
     "og_item": {
       "title": "State of the Web: Static Site Generators",
@@ -1483,18 +1824,29 @@
     "points": 9,
     "comment_count": 0,
     "hn_item": {
-      "by": "m33k44",
-      "descendants": 2,
-      "id": 30146554,
+      "by": "lowleveldesign",
+      "descendants": 55,
+      "id": 30128048,
       "kids": [
-        30147038,
-        30147016
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30145419,
+        30144489,
+        30140903,
+        30140096
       ],
-      "score": 3,
-      "time": 1643625014,
-      "title": "Middle class people now paying more than £1m in tax during lifetime",
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
       "type": "story",
-      "url": "https://www.telegraph.co.uk/politics/2022/01/31/middle-class-families-now-lifetime-tax-millionaires-research/"
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
     },
     "og_item": {
       "title": "How the Hall Effect Still Reverberates",
@@ -1535,18 +1887,29 @@
     "points": 62,
     "comment_count": 10,
     "hn_item": {
-      "by": "m33k44",
-      "descendants": 2,
-      "id": 30146554,
+      "by": "lowleveldesign",
+      "descendants": 55,
+      "id": 30128048,
       "kids": [
-        30147038,
-        30147016
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30145419,
+        30144489,
+        30140903,
+        30140096
       ],
-      "score": 3,
-      "time": 1643625014,
-      "title": "Middle class people now paying more than £1m in tax during lifetime",
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
       "type": "story",
-      "url": "https://www.telegraph.co.uk/politics/2022/01/31/middle-class-families-now-lifetime-tax-millionaires-research/"
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
     },
     "og_item": {
       "title": "403 Forbidden",
@@ -1578,18 +1941,29 @@
     "points": 126,
     "comment_count": 10,
     "hn_item": {
-      "by": "m33k44",
-      "descendants": 2,
-      "id": 30146554,
+      "by": "lowleveldesign",
+      "descendants": 55,
+      "id": 30128048,
       "kids": [
-        30147038,
-        30147016
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30145419,
+        30144489,
+        30140903,
+        30140096
       ],
-      "score": 3,
-      "time": 1643625014,
-      "title": "Middle class people now paying more than £1m in tax during lifetime",
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
       "type": "story",
-      "url": "https://www.telegraph.co.uk/politics/2022/01/31/middle-class-families-now-lifetime-tax-millionaires-research/"
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
     },
     "og_item": {
       "title": "Devious SQL: Message Queuing Using Native PostgreSQL",
@@ -1630,18 +2004,29 @@
     "points": 64,
     "comment_count": 13,
     "hn_item": {
-      "by": "m33k44",
-      "descendants": 2,
-      "id": 30146554,
+      "by": "lowleveldesign",
+      "descendants": 55,
+      "id": 30128048,
       "kids": [
-        30147038,
-        30147016
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30145419,
+        30144489,
+        30140903,
+        30140096
       ],
-      "score": 3,
-      "time": 1643625014,
-      "title": "Middle class people now paying more than £1m in tax during lifetime",
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
       "type": "story",
-      "url": "https://www.telegraph.co.uk/politics/2022/01/31/middle-class-families-now-lifetime-tax-millionaires-research/"
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
     },
     "og_item": {
       "title": "Streamlit",
@@ -1673,18 +2058,29 @@
     "points": 51,
     "comment_count": 1,
     "hn_item": {
-      "by": "m33k44",
-      "descendants": 2,
-      "id": 30146554,
+      "by": "lowleveldesign",
+      "descendants": 55,
+      "id": 30128048,
       "kids": [
-        30147038,
-        30147016
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30145419,
+        30144489,
+        30140903,
+        30140096
       ],
-      "score": 3,
-      "time": 1643625014,
-      "title": "Middle class people now paying more than £1m in tax during lifetime",
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
       "type": "story",
-      "url": "https://www.telegraph.co.uk/politics/2022/01/31/middle-class-families-now-lifetime-tax-millionaires-research/"
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
     },
     "og_item": {
       "title": "A couple years ago, I created this list: immersive: walking taking a shower sleeping teaching falling in love cinema life or death experience I was curious about these amazing parts of life that feel so meaningful — like portals, where time and space take on a totally different, enchanted feeling. I remember writing this list… – blog.laurel.world",
@@ -1704,6 +2100,69 @@
     }
   },
   {
+    "id": 30146881,
+    "title": "Race-Based Rationing Is Real–and Dangerous",
+    "url": "https://www.theatlantic.com/ideas/archive/2022/01/race-based-covid-rationing-ideology/621405/",
+    "time": 1643628394,
+    "image": "https://cdn.theatlantic.com/thumbor/J4DWZzmkDFuAL67dFhC4XNgg_bU=/0x51:2396x1299/960x500/media/img/mt/2022/01/image_18/original.png",
+    "icon": "https://cdn.theatlantic.com/_next/static/images/favicon-3888b0e329526a975703e3059a02b92d.ico",
+    "publisher": "The Atlantic",
+    "description": "The cultural left’s worldview is beginning to distort health policy.",
+    "by": "pseudolus",
+    "points": 26,
+    "comment_count": 4,
+    "hn_item": {
+      "by": "lowleveldesign",
+      "descendants": 55,
+      "id": 30128048,
+      "kids": [
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30145419,
+        30144489,
+        30140903,
+        30140096
+      ],
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
+      "type": "story",
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
+    },
+    "og_item": {
+      "title": "Race-Based Rationing Is Real—And Dangerous",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://cdn.theatlantic.com/thumbor/J4DWZzmkDFuAL67dFhC4XNgg_bU=/0x51:2396x1299/960x500/media/img/mt/2022/01/image_18/original.png",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://www.theatlantic.com/ideas/archive/2022/01/race-based-covid-rationing-ideology/621405/",
+      "audio": [],
+      "description": "The cultural left’s worldview is beginning to distort health policy.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "The Atlantic",
+      "video": [],
+      "favicon": {
+        "url": "https://cdn.theatlantic.com/_next/static/images/favicon-3888b0e329526a975703e3059a02b92d.ico"
+      }
+    }
+  },
+  {
     "id": 30111033,
     "title": "Toxic black mold is growing in my brain",
     "url": "https://www.buzzfeednews.com/article/tysonbottenus/black-mold-growing-toxic-brain-vacation",
@@ -1713,21 +2172,32 @@
     "publisher": "BuzzFeed News",
     "description": "I went on a vacation. I came home with a mysterious fungus in my brain that is so rare only about 120 cases have been confirmed worldwide since its discovery in 1911.",
     "by": "yellow_lead",
-    "points": 208,
+    "points": 209,
     "comment_count": 10,
     "hn_item": {
-      "by": "m33k44",
-      "descendants": 2,
-      "id": 30146554,
+      "by": "lowleveldesign",
+      "descendants": 55,
+      "id": 30128048,
       "kids": [
-        30147038,
-        30147016
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30145419,
+        30144489,
+        30140903,
+        30140096
       ],
-      "score": 3,
-      "time": 1643625014,
-      "title": "Middle class people now paying more than £1m in tax during lifetime",
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
       "type": "story",
-      "url": "https://www.telegraph.co.uk/politics/2022/01/31/middle-class-families-now-lifetime-tax-millionaires-research/"
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
     },
     "og_item": {
       "title": "Toxic Black Mold Is Growing On My Brain",
@@ -1756,58 +2226,6 @@
     }
   },
   {
-    "id": 30144673,
-    "title": "Will Tokens Replace Equity?",
-    "url": "https://every.to/napkin-math/will-tokens-replace-equity",
-    "time": 1643605204,
-    "image": "https://d24ovhgu8s7341.cloudfront.net/uploads/post/cover/2019/Screen_Shot_2022-01-27_at_1.43.25_PM.png",
-    "icon": "https://every.to/favicon.ico",
-    "publisher": "every.to",
-    "description": "The Weird Future Ahead",
-    "by": "enigmatic02",
-    "points": 9,
-    "comment_count": 2,
-    "hn_item": {
-      "by": "m33k44",
-      "descendants": 2,
-      "id": 30146554,
-      "kids": [
-        30147038,
-        30147016
-      ],
-      "score": 3,
-      "time": 1643625014,
-      "title": "Middle class people now paying more than £1m in tax during lifetime",
-      "type": "story",
-      "url": "https://www.telegraph.co.uk/politics/2022/01/31/middle-class-families-now-lifetime-tax-millionaires-research/"
-    },
-    "og_item": {
-      "title": "Will Tokens Replace Equity?",
-      "type": "",
-      "image": [
-        {
-          "url": "https://d24ovhgu8s7341.cloudfront.net/uploads/post/cover/2019/Screen_Shot_2022-01-27_at_1.43.25_PM.png",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://every.to/napkin-math/will-tokens-replace-equity",
-      "audio": [],
-      "description": "The Weird Future Ahead ",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30132612,
     "title": "John Locke’s recipe for Pancakes (2021)",
     "url": "https://rarecooking.com/2021/12/14/john-lockes-recipe-for-pancakes/",
@@ -1820,18 +2238,29 @@
     "points": 265,
     "comment_count": 33,
     "hn_item": {
-      "by": "m33k44",
-      "descendants": 2,
-      "id": 30146554,
+      "by": "lowleveldesign",
+      "descendants": 55,
+      "id": 30128048,
       "kids": [
-        30147038,
-        30147016
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30145419,
+        30144489,
+        30140903,
+        30140096
       ],
-      "score": 3,
-      "time": 1643625014,
-      "title": "Middle class people now paying more than £1m in tax during lifetime",
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
       "type": "story",
-      "url": "https://www.telegraph.co.uk/politics/2022/01/31/middle-class-families-now-lifetime-tax-millionaires-research/"
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
     },
     "og_item": {
       "title": "John Locke’s recipe for Pancakes",
@@ -1860,6 +2289,69 @@
     }
   },
   {
+    "id": 30144673,
+    "title": "Will Tokens Replace Equity?",
+    "url": "https://every.to/napkin-math/will-tokens-replace-equity",
+    "time": 1643605204,
+    "image": "https://d24ovhgu8s7341.cloudfront.net/uploads/post/cover/2019/Screen_Shot_2022-01-27_at_1.43.25_PM.png",
+    "icon": "https://every.to/favicon.ico",
+    "publisher": "every.to",
+    "description": "The Weird Future Ahead",
+    "by": "enigmatic02",
+    "points": 9,
+    "comment_count": 2,
+    "hn_item": {
+      "by": "lowleveldesign",
+      "descendants": 55,
+      "id": 30128048,
+      "kids": [
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30145419,
+        30144489,
+        30140903,
+        30140096
+      ],
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
+      "type": "story",
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
+    },
+    "og_item": {
+      "title": "Will Tokens Replace Equity?",
+      "type": "",
+      "image": [
+        {
+          "url": "https://d24ovhgu8s7341.cloudfront.net/uploads/post/cover/2019/Screen_Shot_2022-01-27_at_1.43.25_PM.png",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://every.to/napkin-math/will-tokens-replace-equity",
+      "audio": [],
+      "description": "The Weird Future Ahead ",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30138533,
     "title": "Hypercard Simulator",
     "url": "https://hypercardsimulator.com/",
@@ -1869,21 +2361,32 @@
     "publisher": "hypercardsimulator.com",
     "description": "",
     "by": "alexmingoia",
-    "points": 216,
+    "points": 217,
     "comment_count": 14,
     "hn_item": {
-      "by": "m33k44",
-      "descendants": 2,
-      "id": 30146554,
+      "by": "lowleveldesign",
+      "descendants": 55,
+      "id": 30128048,
       "kids": [
-        30147038,
-        30147016
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30145419,
+        30144489,
+        30140903,
+        30140096
       ],
-      "score": 3,
-      "time": 1643625014,
-      "title": "Middle class people now paying more than £1m in tax during lifetime",
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
       "type": "story",
-      "url": "https://www.telegraph.co.uk/politics/2022/01/31/middle-class-families-now-lifetime-tax-millionaires-research/"
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
     },
     "og_item": {
       "title": "HyperCardSimulator",
@@ -1915,18 +2418,29 @@
     "points": 35,
     "comment_count": 3,
     "hn_item": {
-      "by": "m33k44",
-      "descendants": 2,
-      "id": 30146554,
+      "by": "lowleveldesign",
+      "descendants": 55,
+      "id": 30128048,
       "kids": [
-        30147038,
-        30147016
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30145419,
+        30144489,
+        30140903,
+        30140096
       ],
-      "score": 3,
-      "time": 1643625014,
-      "title": "Middle class people now paying more than £1m in tax during lifetime",
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
       "type": "story",
-      "url": "https://www.telegraph.co.uk/politics/2022/01/31/middle-class-families-now-lifetime-tax-millionaires-research/"
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
     },
     "og_item": {
       "title": "GitHub - Idov31/FunctionStomping: A new shellcode injection technique. Given as C++ header or standalone Rust program.",
@@ -1967,18 +2481,29 @@
     "points": 34,
     "comment_count": 7,
     "hn_item": {
-      "by": "m33k44",
-      "descendants": 2,
-      "id": 30146554,
+      "by": "lowleveldesign",
+      "descendants": 55,
+      "id": 30128048,
       "kids": [
-        30147038,
-        30147016
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30145419,
+        30144489,
+        30140903,
+        30140096
       ],
-      "score": 3,
-      "time": 1643625014,
-      "title": "Middle class people now paying more than £1m in tax during lifetime",
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
       "type": "story",
-      "url": "https://www.telegraph.co.uk/politics/2022/01/31/middle-class-families-now-lifetime-tax-millionaires-research/"
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
     },
     "og_item": {
       "title": "Basic cryptography - the Vigenere cipher - Eric Mann's Blog",
@@ -2019,18 +2544,29 @@
     "points": 32,
     "comment_count": 10,
     "hn_item": {
-      "by": "m33k44",
-      "descendants": 2,
-      "id": 30146554,
+      "by": "lowleveldesign",
+      "descendants": 55,
+      "id": 30128048,
       "kids": [
-        30147038,
-        30147016
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30145419,
+        30144489,
+        30140903,
+        30140096
       ],
-      "score": 3,
-      "time": 1643625014,
-      "title": "Middle class people now paying more than £1m in tax during lifetime",
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
       "type": "story",
-      "url": "https://www.telegraph.co.uk/politics/2022/01/31/middle-class-families-now-lifetime-tax-millionaires-research/"
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
     },
     "og_item": {
       "title": "Just a moment...",
@@ -2062,18 +2598,29 @@
     "points": 147,
     "comment_count": 7,
     "hn_item": {
-      "by": "m33k44",
-      "descendants": 2,
-      "id": 30146554,
+      "by": "lowleveldesign",
+      "descendants": 55,
+      "id": 30128048,
       "kids": [
-        30147038,
-        30147016
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30145419,
+        30144489,
+        30140903,
+        30140096
       ],
-      "score": 3,
-      "time": 1643625014,
-      "title": "Middle class people now paying more than £1m in tax during lifetime",
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
       "type": "story",
-      "url": "https://www.telegraph.co.uk/politics/2022/01/31/middle-class-families-now-lifetime-tax-millionaires-research/"
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
     },
     "og_item": {
       "title": "[1398] A Padlock I’d Use: Abus Granit 37RK/80 (Pick \u0026 Gut)",
@@ -2111,58 +2658,6 @@
     }
   },
   {
-    "id": 30142918,
-    "title": "Unconscious R\u0026D (2021)",
-    "url": "https://subconscious.substack.com/p/unconscious-r-and-d",
-    "time": 1643589336,
-    "image": "https://cdn.substack.com/image/fetch/w_1200,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F80b4a51a-7687-453c-b94b-a0c33b1399c7_1668x1668.jpeg",
-    "icon": "https://cdn.substack.com/icons/substack/favicon-32x32.png",
-    "publisher": "subconscious.substack.com",
-    "description": "What if your notes could self-organize—from scratch notes, to draft, to finished creative work—through a stream-of-consciousness process—like dreaming? Years ago, I was part of a user study that aimed to understand how creators create. We interviewed authors, artists, students, influencers,…",
-    "by": "fagnerbrack",
-    "points": 24,
-    "comment_count": 3,
-    "hn_item": {
-      "by": "m33k44",
-      "descendants": 2,
-      "id": 30146554,
-      "kids": [
-        30147038,
-        30147016
-      ],
-      "score": 3,
-      "time": 1643625014,
-      "title": "Middle class people now paying more than £1m in tax during lifetime",
-      "type": "story",
-      "url": "https://www.telegraph.co.uk/politics/2022/01/31/middle-class-families-now-lifetime-tax-millionaires-research/"
-    },
-    "og_item": {
-      "title": "Unconscious R\u0026D",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://cdn.substack.com/image/fetch/w_1200,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F80b4a51a-7687-453c-b94b-a0c33b1399c7_1668x1668.jpeg",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://subconscious.substack.com/p/unconscious-r-and-d",
-      "audio": [],
-      "description": "What if your notes could self-organize—from scratch notes, to draft, to finished creative work—through a stream-of-consciousness process—like dreaming? Years ago, I was part of a user study that aimed to understand how creators create. We interviewed authors, artists, students, influencers, and discovered a recurrent meta-pattern in the creative processes that emerged across disciplines and tools...",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "https://cdn.substack.com/icons/substack/favicon-32x32.png"
-      }
-    }
-  },
-  {
     "id": 30122128,
     "title": "Sega quits arcade business after 50 years",
     "url": "https://www.eurogamer.net/articles/2022-01-28-sega-quits-japanese-arcade-business-after-50-years",
@@ -2175,18 +2670,29 @@
     "points": 235,
     "comment_count": 26,
     "hn_item": {
-      "by": "m33k44",
-      "descendants": 2,
-      "id": 30146554,
+      "by": "lowleveldesign",
+      "descendants": 55,
+      "id": 30128048,
       "kids": [
-        30147038,
-        30147016
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30145419,
+        30144489,
+        30140903,
+        30140096
       ],
-      "score": 3,
-      "time": 1643625014,
-      "title": "Middle class people now paying more than £1m in tax during lifetime",
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
       "type": "story",
-      "url": "https://www.telegraph.co.uk/politics/2022/01/31/middle-class-families-now-lifetime-tax-millionaires-research/"
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
     },
     "og_item": {
       "title": "Sega quits Japanese arcade business after 50 years",
@@ -2215,6 +2721,69 @@
     }
   },
   {
+    "id": 30142918,
+    "title": "Unconscious R\u0026D (2021)",
+    "url": "https://subconscious.substack.com/p/unconscious-r-and-d",
+    "time": 1643589336,
+    "image": "https://cdn.substack.com/image/fetch/w_1200,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F80b4a51a-7687-453c-b94b-a0c33b1399c7_1668x1668.jpeg",
+    "icon": "https://cdn.substack.com/icons/substack/favicon-32x32.png",
+    "publisher": "subconscious.substack.com",
+    "description": "What if your notes could self-organize—from scratch notes, to draft, to finished creative work—through a stream-of-consciousness process—like dreaming? Years ago, I was part of a user study that aimed to understand how creators create. We interviewed authors, artists, students, influencers,…",
+    "by": "fagnerbrack",
+    "points": 24,
+    "comment_count": 3,
+    "hn_item": {
+      "by": "lowleveldesign",
+      "descendants": 55,
+      "id": 30128048,
+      "kids": [
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30145419,
+        30144489,
+        30140903,
+        30140096
+      ],
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
+      "type": "story",
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
+    },
+    "og_item": {
+      "title": "Unconscious R\u0026D",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://cdn.substack.com/image/fetch/w_1200,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F80b4a51a-7687-453c-b94b-a0c33b1399c7_1668x1668.jpeg",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://subconscious.substack.com/p/unconscious-r-and-d",
+      "audio": [],
+      "description": "What if your notes could self-organize—from scratch notes, to draft, to finished creative work—through a stream-of-consciousness process—like dreaming? Years ago, I was part of a user study that aimed to understand how creators create. We interviewed authors, artists, students, influencers, and discovered a recurrent meta-pattern in the creative processes that emerged across disciplines and tools...",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "https://cdn.substack.com/icons/substack/favicon-32x32.png"
+      }
+    }
+  },
+  {
     "id": 30138434,
     "title": "Beancount: Double-entry accounting from text files",
     "url": "https://github.com/beancount/beancount",
@@ -2227,18 +2796,29 @@
     "points": 203,
     "comment_count": 22,
     "hn_item": {
-      "by": "m33k44",
-      "descendants": 2,
-      "id": 30146554,
+      "by": "lowleveldesign",
+      "descendants": 55,
+      "id": 30128048,
       "kids": [
-        30147038,
-        30147016
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30145419,
+        30144489,
+        30140903,
+        30140096
       ],
-      "score": 3,
-      "time": 1643625014,
-      "title": "Middle class people now paying more than £1m in tax during lifetime",
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
       "type": "story",
-      "url": "https://www.telegraph.co.uk/politics/2022/01/31/middle-class-families-now-lifetime-tax-millionaires-research/"
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
     },
     "og_item": {
       "title": "GitHub - beancount/beancount: Beancount: Double-Entry Accounting from Text Files.",
@@ -2267,33 +2847,44 @@
     }
   },
   {
-    "id": 30146516,
-    "title": "Ask HN: GitHub and Bitbucket end support for password auth for CLI - Now what?",
-    "url": "https://news.ycombinator.com/item?id=30146516",
-    "time": 1643624617,
+    "id": 30137681,
+    "title": "In defence of the boring web",
+    "url": "https://bastian.rieck.me/blog/posts/2022/boring/",
+    "time": 1643554351,
     "image": "",
-    "icon": "https://news.ycombinator.com/favicon.ico",
-    "publisher": "Hacker News",
+    "icon": "https://bastian.rieck.me/favicon.ico",
+    "publisher": "bastian.rieck.me",
     "description": "",
-    "by": "weezee",
-    "points": 3,
-    "comment_count": 1,
+    "by": "Topolomancer",
+    "points": 214,
+    "comment_count": 26,
     "hn_item": {
-      "by": "m33k44",
-      "descendants": 2,
-      "id": 30146554,
+      "by": "lowleveldesign",
+      "descendants": 55,
+      "id": 30128048,
       "kids": [
-        30147038,
-        30147016
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30145419,
+        30144489,
+        30140903,
+        30140096
       ],
-      "score": 3,
-      "time": 1643625014,
-      "title": "Middle class people now paying more than £1m in tax during lifetime",
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
       "type": "story",
-      "url": "https://www.telegraph.co.uk/politics/2022/01/31/middle-class-families-now-lifetime-tax-millionaires-research/"
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
     },
     "og_item": {
-      "title": "Ask HN: GitHub and Bitbucket end support for password auth for CLI - Now what? | Hacker News",
+      "title": "In Defence of the Boring Web",
       "type": "",
       "image": [],
       "url": "",
@@ -2305,7 +2896,7 @@
       "site_name": "",
       "video": [],
       "favicon": {
-        "url": "favicon.ico"
+        "url": "/favicon.ico"
       }
     }
   },
@@ -2322,18 +2913,29 @@
     "points": 38,
     "comment_count": 0,
     "hn_item": {
-      "by": "m33k44",
-      "descendants": 2,
-      "id": 30146554,
+      "by": "lowleveldesign",
+      "descendants": 55,
+      "id": 30128048,
       "kids": [
-        30147038,
-        30147016
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30145419,
+        30144489,
+        30140903,
+        30140096
       ],
-      "score": 3,
-      "time": 1643625014,
-      "title": "Middle class people now paying more than £1m in tax during lifetime",
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
       "type": "story",
-      "url": "https://www.telegraph.co.uk/politics/2022/01/31/middle-class-families-now-lifetime-tax-millionaires-research/"
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
     },
     "og_item": {
       "title": "Mix and match mental models.",
@@ -2362,33 +2964,44 @@
     }
   },
   {
-    "id": 30137681,
-    "title": "In defence of the boring web",
-    "url": "https://bastian.rieck.me/blog/posts/2022/boring/",
-    "time": 1643554351,
+    "id": 30146516,
+    "title": "Ask HN: GitHub and Bitbucket end support for password auth for CLI - Now what?",
+    "url": "https://news.ycombinator.com/item?id=30146516",
+    "time": 1643624617,
     "image": "",
-    "icon": "https://bastian.rieck.me/favicon.ico",
-    "publisher": "bastian.rieck.me",
+    "icon": "https://news.ycombinator.com/favicon.ico",
+    "publisher": "Hacker News",
     "description": "",
-    "by": "Topolomancer",
-    "points": 214,
-    "comment_count": 26,
+    "by": "weezee",
+    "points": 3,
+    "comment_count": 1,
     "hn_item": {
-      "by": "m33k44",
-      "descendants": 2,
-      "id": 30146554,
+      "by": "lowleveldesign",
+      "descendants": 55,
+      "id": 30128048,
       "kids": [
-        30147038,
-        30147016
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30145419,
+        30144489,
+        30140903,
+        30140096
       ],
-      "score": 3,
-      "time": 1643625014,
-      "title": "Middle class people now paying more than £1m in tax during lifetime",
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
       "type": "story",
-      "url": "https://www.telegraph.co.uk/politics/2022/01/31/middle-class-families-now-lifetime-tax-millionaires-research/"
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
     },
     "og_item": {
-      "title": "In Defence of the Boring Web",
+      "title": "Ask HN: GitHub and Bitbucket end support for password auth for CLI - Now what? | Hacker News",
       "type": "",
       "image": [],
       "url": "",
@@ -2400,7 +3013,7 @@
       "site_name": "",
       "video": [],
       "favicon": {
-        "url": "/favicon.ico"
+        "url": "favicon.ico"
       }
     }
   },
@@ -2409,7 +3022,7 @@
     "title": "A Simple Transformer Implementation(PyTorch) Without Difficult Syntax",
     "url": "https://github.com/IpsumDominum/Pytorch-Simple-Transformer",
     "time": 1643592608,
-    "image": "https://opengraph.githubassets.com/2129739e27d77f005c178d2d301679e8bd379c0248ef2930674de0d3118f0859/IpsumDominum/Pytorch-Simple-Transformer",
+    "image": "https://opengraph.githubassets.com/503ced67edea3fbbf2447bf889659a6c22a7d954899de80c39b9d47ec1a13e63/IpsumDominum/Pytorch-Simple-Transformer",
     "icon": "https://github.githubassets.com/favicons/favicon.svg",
     "publisher": "GitHub",
     "description": "A simple transformer implementation without difficult syntax and extra bells and whistles. - GitHub - IpsumDominum/Pytorch-Simple-Transformer: A simple transformer implementation without difficult ...",
@@ -2417,25 +3030,36 @@
     "points": 15,
     "comment_count": 1,
     "hn_item": {
-      "by": "m33k44",
-      "descendants": 2,
-      "id": 30146554,
+      "by": "lowleveldesign",
+      "descendants": 55,
+      "id": 30128048,
       "kids": [
-        30147038,
-        30147016
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30145419,
+        30144489,
+        30140903,
+        30140096
       ],
-      "score": 3,
-      "time": 1643625014,
-      "title": "Middle class people now paying more than £1m in tax during lifetime",
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
       "type": "story",
-      "url": "https://www.telegraph.co.uk/politics/2022/01/31/middle-class-families-now-lifetime-tax-millionaires-research/"
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
     },
     "og_item": {
       "title": "GitHub - IpsumDominum/Pytorch-Simple-Transformer: A simple transformer implementation without difficult syntax and extra bells and whistles.",
       "type": "object",
       "image": [
         {
-          "url": "https://opengraph.githubassets.com/2129739e27d77f005c178d2d301679e8bd379c0248ef2930674de0d3118f0859/IpsumDominum/Pytorch-Simple-Transformer",
+          "url": "https://opengraph.githubassets.com/503ced67edea3fbbf2447bf889659a6c22a7d954899de80c39b9d47ec1a13e63/IpsumDominum/Pytorch-Simple-Transformer",
           "secure_url": "",
           "type": "",
           "width": 1200,
@@ -2469,18 +3093,29 @@
     "points": 14,
     "comment_count": 2,
     "hn_item": {
-      "by": "m33k44",
-      "descendants": 2,
-      "id": 30146554,
+      "by": "lowleveldesign",
+      "descendants": 55,
+      "id": 30128048,
       "kids": [
-        30147038,
-        30147016
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30145419,
+        30144489,
+        30140903,
+        30140096
       ],
-      "score": 3,
-      "time": 1643625014,
-      "title": "Middle class people now paying more than £1m in tax during lifetime",
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
       "type": "story",
-      "url": "https://www.telegraph.co.uk/politics/2022/01/31/middle-class-families-now-lifetime-tax-millionaires-research/"
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
     },
     "og_item": {
       "title": "You want HOW MANY years experience?!",
@@ -2512,18 +3147,29 @@
     "points": 38,
     "comment_count": 6,
     "hn_item": {
-      "by": "m33k44",
-      "descendants": 2,
-      "id": 30146554,
+      "by": "lowleveldesign",
+      "descendants": 55,
+      "id": 30128048,
       "kids": [
-        30147038,
-        30147016
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30145419,
+        30144489,
+        30140903,
+        30140096
       ],
-      "score": 3,
-      "time": 1643625014,
-      "title": "Middle class people now paying more than £1m in tax during lifetime",
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
       "type": "story",
-      "url": "https://www.telegraph.co.uk/politics/2022/01/31/middle-class-families-now-lifetime-tax-millionaires-research/"
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
     },
     "og_item": {
       "title": "Show the case against - shubhro.com",
@@ -2555,18 +3201,29 @@
     "points": 43,
     "comment_count": 4,
     "hn_item": {
-      "by": "m33k44",
-      "descendants": 2,
-      "id": 30146554,
+      "by": "lowleveldesign",
+      "descendants": 55,
+      "id": 30128048,
       "kids": [
-        30147038,
-        30147016
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30145419,
+        30144489,
+        30140903,
+        30140096
       ],
-      "score": 3,
-      "time": 1643625014,
-      "title": "Middle class people now paying more than £1m in tax during lifetime",
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
       "type": "story",
-      "url": "https://www.telegraph.co.uk/politics/2022/01/31/middle-class-families-now-lifetime-tax-millionaires-research/"
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
     },
     "og_item": {
       "title": "Very Remote Lisp Debugging Story - Susam's Maze",
@@ -2586,49 +3243,6 @@
     }
   },
   {
-    "id": 30137864,
-    "title": "Midnight Commander Tips and Tricks",
-    "url": "http://www.softpanorama.org/OFM/MC/mc_tips.shtml",
-    "time": 1643555741,
-    "image": "",
-    "icon": "",
-    "publisher": "softpanorama.org",
-    "description": "",
-    "by": "ingve",
-    "points": 162,
-    "comment_count": 19,
-    "hn_item": {
-      "by": "m33k44",
-      "descendants": 2,
-      "id": 30146554,
-      "kids": [
-        30147038,
-        30147016
-      ],
-      "score": 3,
-      "time": 1643625014,
-      "title": "Middle class people now paying more than £1m in tax during lifetime",
-      "type": "story",
-      "url": "https://www.telegraph.co.uk/politics/2022/01/31/middle-class-families-now-lifetime-tax-millionaires-research/"
-    },
-    "og_item": {
-      "title": "Midnight Commander Tips and Tricks",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30140270,
     "title": "When the algorithm is your boss",
     "url": "https://tribunemag.co.uk/2022/01/amazon-algorithm-human-resource-management-tech-worker-surveillance",
@@ -2638,21 +3252,32 @@
     "publisher": "tribunemag.co.uk",
     "description": "At workplaces like Amazon, algorithms have become the worst kind of boss – one who watches you constantly, makes impossible demands and then sacks you without explanation.",
     "by": "jrepinc",
-    "points": 104,
+    "points": 105,
     "comment_count": 14,
     "hn_item": {
-      "by": "m33k44",
-      "descendants": 2,
-      "id": 30146554,
+      "by": "lowleveldesign",
+      "descendants": 55,
+      "id": 30128048,
       "kids": [
-        30147038,
-        30147016
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30145419,
+        30144489,
+        30140903,
+        30140096
       ],
-      "score": 3,
-      "time": 1643625014,
-      "title": "Middle class people now paying more than £1m in tax during lifetime",
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
       "type": "story",
-      "url": "https://www.telegraph.co.uk/politics/2022/01/31/middle-class-families-now-lifetime-tax-millionaires-research/"
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
     },
     "og_item": {
       "title": "When the Algorithm Is Your Boss",
@@ -2681,6 +3306,114 @@
     }
   },
   {
+    "id": 30137864,
+    "title": "Midnight Commander Tips and Tricks",
+    "url": "http://www.softpanorama.org/OFM/MC/mc_tips.shtml",
+    "time": 1643555741,
+    "image": "",
+    "icon": "",
+    "publisher": "softpanorama.org",
+    "description": "",
+    "by": "ingve",
+    "points": 162,
+    "comment_count": 19,
+    "hn_item": {
+      "by": "lowleveldesign",
+      "descendants": 55,
+      "id": 30128048,
+      "kids": [
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30145419,
+        30144489,
+        30140903,
+        30140096
+      ],
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
+      "type": "story",
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
+    },
+    "og_item": {
+      "title": "Midnight Commander Tips and Tricks",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30145394,
+    "title": "My WFH sedentary life (Sitting, lying down) is more than 11 hr?",
+    "url": "https://news.ycombinator.com/item?id=30145394",
+    "time": 1643613303,
+    "image": "",
+    "icon": "https://news.ycombinator.com/favicon.ico",
+    "publisher": "Hacker News",
+    "description": "",
+    "by": "cryptozeus",
+    "points": 9,
+    "comment_count": 5,
+    "hn_item": {
+      "by": "lowleveldesign",
+      "descendants": 55,
+      "id": 30128048,
+      "kids": [
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30145419,
+        30144489,
+        30140903,
+        30140096
+      ],
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
+      "type": "story",
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
+    },
+    "og_item": {
+      "title": "My WFH sedentary life (Sitting, lying down) is more than 11 hr? | Hacker News",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30115520,
     "title": "Pearls Before Breakfast (2007)",
     "url": "https://www.washingtonpost.com/lifestyle/magazine/pearls-before-breakfast-can-one-of-the-nations-great-musicians-cut-through-the-fog-of-a-dc-rush-hour-lets-find-out/2014/09/23/8a6d46da-4331-11e4-b47c-f5889e061e5f_story.html",
@@ -2693,18 +3426,29 @@
     "points": 13,
     "comment_count": 8,
     "hn_item": {
-      "by": "m33k44",
-      "descendants": 2,
-      "id": 30146554,
+      "by": "lowleveldesign",
+      "descendants": 55,
+      "id": 30128048,
       "kids": [
-        30147038,
-        30147016
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30145419,
+        30144489,
+        30140903,
+        30140096
       ],
-      "score": 3,
-      "time": 1643625014,
-      "title": "Middle class people now paying more than £1m in tax during lifetime",
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
       "type": "story",
-      "url": "https://www.telegraph.co.uk/politics/2022/01/31/middle-class-families-now-lifetime-tax-millionaires-research/"
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
     },
     "og_item": {
       "title": "Pearls Before Breakfast: Can one of the nation’s great musicians cut through the fog of a D.C. rush hour? Let’s find out.",
@@ -2733,49 +3477,6 @@
     }
   },
   {
-    "id": 30146468,
-    "title": "More Americans died of Covid in the past 2 weeks than died of flu in past 3 yrs",
-    "url": "https://twitter.com/Craig_A_Spencer/status/1487985522765086731",
-    "time": 1643624104,
-    "image": "",
-    "icon": "https://abs.twimg.com/favicons/twitter.2.ico",
-    "publisher": "Twitter",
-    "description": "",
-    "by": "caaqil",
-    "points": 13,
-    "comment_count": 1,
-    "hn_item": {
-      "by": "m33k44",
-      "descendants": 2,
-      "id": 30146554,
-      "kids": [
-        30147038,
-        30147016
-      ],
-      "score": 3,
-      "time": 1643625014,
-      "title": "Middle class people now paying more than £1m in tax during lifetime",
-      "type": "story",
-      "url": "https://www.telegraph.co.uk/politics/2022/01/31/middle-class-families-now-lifetime-tax-millionaires-research/"
-    },
-    "og_item": {
-      "title": "",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Twitter",
-      "video": [],
-      "favicon": {
-        "url": "//abs.twimg.com/favicons/twitter.2.ico"
-      }
-    }
-  },
-  {
     "id": 30125730,
     "title": "How Amiga 500 RAM Probably Works",
     "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs",
@@ -2788,18 +3489,29 @@
     "points": 59,
     "comment_count": 6,
     "hn_item": {
-      "by": "m33k44",
-      "descendants": 2,
-      "id": 30146554,
+      "by": "lowleveldesign",
+      "descendants": 55,
+      "id": 30128048,
       "kids": [
-        30147038,
-        30147016
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30145419,
+        30144489,
+        30140903,
+        30140096
       ],
-      "score": 3,
-      "time": 1643625014,
-      "title": "Middle class people now paying more than £1m in tax during lifetime",
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
       "type": "story",
-      "url": "https://www.telegraph.co.uk/politics/2022/01/31/middle-class-families-now-lifetime-tax-millionaires-research/"
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
     },
     "og_item": {
       "title": "How Amiga 500 RAM Probably Works | How Things Probably Work",
@@ -2849,18 +3561,29 @@
     "points": 695,
     "comment_count": 70,
     "hn_item": {
-      "by": "m33k44",
-      "descendants": 2,
-      "id": 30146554,
+      "by": "lowleveldesign",
+      "descendants": 55,
+      "id": 30128048,
       "kids": [
-        30147038,
-        30147016
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30145419,
+        30144489,
+        30140903,
+        30140096
       ],
-      "score": 3,
-      "time": 1643625014,
-      "title": "Middle class people now paying more than £1m in tax during lifetime",
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
       "type": "story",
-      "url": "https://www.telegraph.co.uk/politics/2022/01/31/middle-class-families-now-lifetime-tax-millionaires-research/"
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
     },
     "og_item": {
       "title": "",
@@ -2892,18 +3615,29 @@
     "points": 26,
     "comment_count": 2,
     "hn_item": {
-      "by": "m33k44",
-      "descendants": 2,
-      "id": 30146554,
+      "by": "lowleveldesign",
+      "descendants": 55,
+      "id": 30128048,
       "kids": [
-        30147038,
-        30147016
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30145419,
+        30144489,
+        30140903,
+        30140096
       ],
-      "score": 3,
-      "time": 1643625014,
-      "title": "Middle class people now paying more than £1m in tax during lifetime",
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
       "type": "story",
-      "url": "https://www.telegraph.co.uk/politics/2022/01/31/middle-class-families-now-lifetime-tax-millionaires-research/"
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
     },
     "og_item": {
       "title": "The Game of War: An Overview | Alexander R. Galloway",
@@ -2944,20 +3678,85 @@
     "points": 39,
     "comment_count": 5,
     "hn_item": {
-      "by": "m33k44",
-      "descendants": 2,
-      "id": 30146554,
+      "by": "lowleveldesign",
+      "descendants": 55,
+      "id": 30128048,
       "kids": [
-        30147038,
-        30147016
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30145419,
+        30144489,
+        30140903,
+        30140096
       ],
-      "score": 3,
-      "time": 1643625014,
-      "title": "Middle class people now paying more than £1m in tax during lifetime",
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
       "type": "story",
-      "url": "https://www.telegraph.co.uk/politics/2022/01/31/middle-class-families-now-lifetime-tax-millionaires-research/"
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
     },
     "og_item": null
+  },
+  {
+    "id": 30146468,
+    "title": "More Americans died of Covid in the past 2 weeks than died of flu in past 3 yrs",
+    "url": "https://twitter.com/Craig_A_Spencer/status/1487985522765086731",
+    "time": 1643624104,
+    "image": "",
+    "icon": "https://abs.twimg.com/favicons/twitter.2.ico",
+    "publisher": "Twitter",
+    "description": "",
+    "by": "caaqil",
+    "points": 14,
+    "comment_count": 2,
+    "hn_item": {
+      "by": "lowleveldesign",
+      "descendants": 55,
+      "id": 30128048,
+      "kids": [
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30145419,
+        30144489,
+        30140903,
+        30140096
+      ],
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
+      "type": "story",
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
+    },
+    "og_item": {
+      "title": "",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Twitter",
+      "video": [],
+      "favicon": {
+        "url": "//abs.twimg.com/favicons/twitter.2.ico"
+      }
+    }
   },
   {
     "id": 30110679,
@@ -2972,18 +3771,29 @@
     "points": 15,
     "comment_count": 1,
     "hn_item": {
-      "by": "m33k44",
-      "descendants": 2,
-      "id": 30146554,
+      "by": "lowleveldesign",
+      "descendants": 55,
+      "id": 30128048,
       "kids": [
-        30147038,
-        30147016
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30145419,
+        30144489,
+        30140903,
+        30140096
       ],
-      "score": 3,
-      "time": 1643625014,
-      "title": "Middle class people now paying more than £1m in tax during lifetime",
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
       "type": "story",
-      "url": "https://www.telegraph.co.uk/politics/2022/01/31/middle-class-families-now-lifetime-tax-millionaires-research/"
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
     },
     "og_item": {
       "title": "Harvard ceramics program recreates Art Museums’ pieces",
@@ -3012,49 +3822,6 @@
     }
   },
   {
-    "id": 30145872,
-    "title": "Ask HN: What does the GDPR penalty for loading fonts mean for website owners?",
-    "url": "https://news.ycombinator.com/item?id=30145872",
-    "time": 1643618616,
-    "image": "",
-    "icon": "https://news.ycombinator.com/favicon.ico",
-    "publisher": "Hacker News",
-    "description": "",
-    "by": "emschlr",
-    "points": 6,
-    "comment_count": 5,
-    "hn_item": {
-      "by": "m33k44",
-      "descendants": 2,
-      "id": 30146554,
-      "kids": [
-        30147038,
-        30147016
-      ],
-      "score": 3,
-      "time": 1643625014,
-      "title": "Middle class people now paying more than £1m in tax during lifetime",
-      "type": "story",
-      "url": "https://www.telegraph.co.uk/politics/2022/01/31/middle-class-families-now-lifetime-tax-millionaires-research/"
-    },
-    "og_item": {
-      "title": "Ask HN: What does the GDPR penalty for loading fonts mean for website owners? | Hacker News",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30128379,
     "title": "Controlling RGB LEDs with only powerlines: Anatomy of a Christmas light string",
     "url": "https://cpldcpu.wordpress.com/2022/01/23/controlling-rgb-leds-with-only-the-powerlines-anatomy-of-a-christmas-light-string/",
@@ -3067,18 +3834,29 @@
     "points": 147,
     "comment_count": 7,
     "hn_item": {
-      "by": "m33k44",
-      "descendants": 2,
-      "id": 30146554,
+      "by": "lowleveldesign",
+      "descendants": 55,
+      "id": 30128048,
       "kids": [
-        30147038,
-        30147016
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30145419,
+        30144489,
+        30140903,
+        30140096
       ],
-      "score": 3,
-      "time": 1643625014,
-      "title": "Middle class people now paying more than £1m in tax during lifetime",
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
       "type": "story",
-      "url": "https://www.telegraph.co.uk/politics/2022/01/31/middle-class-families-now-lifetime-tax-millionaires-research/"
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
     },
     "og_item": {
       "title": "Controlling RGB LEDs With Only the Powerlines: Anatomy of a Christmas Light String",
@@ -3107,33 +3885,44 @@
     }
   },
   {
-    "id": 30145394,
-    "title": "My WFH sedentary life (Sitting, lying down) is more than 11 hr?",
-    "url": "https://news.ycombinator.com/item?id=30145394",
-    "time": 1643613303,
+    "id": 30146236,
+    "title": "Ask HN: How to maintain focus during tests?",
+    "url": "https://news.ycombinator.com/item?id=30146236",
+    "time": 1643622108,
     "image": "",
     "icon": "https://news.ycombinator.com/favicon.ico",
     "publisher": "Hacker News",
     "description": "",
-    "by": "cryptozeus",
-    "points": 8,
-    "comment_count": 5,
+    "by": "oatmeal349",
+    "points": 3,
+    "comment_count": 1,
     "hn_item": {
-      "by": "m33k44",
-      "descendants": 2,
-      "id": 30146554,
+      "by": "lowleveldesign",
+      "descendants": 55,
+      "id": 30128048,
       "kids": [
-        30147038,
-        30147016
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30145419,
+        30144489,
+        30140903,
+        30140096
       ],
-      "score": 3,
-      "time": 1643625014,
-      "title": "Middle class people now paying more than £1m in tax during lifetime",
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
       "type": "story",
-      "url": "https://www.telegraph.co.uk/politics/2022/01/31/middle-class-families-now-lifetime-tax-millionaires-research/"
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
     },
     "og_item": {
-      "title": "My WFH sedentary life (Sitting, lying down) is more than 11 hr? | Hacker News",
+      "title": "Ask HN: How to maintain focus during tests? | Hacker News",
       "type": "",
       "image": [],
       "url": "",
@@ -3150,37 +3939,102 @@
     }
   },
   {
-    "id": 30144101,
-    "title": "Please Make a Dumb Car",
-    "url": "https://techcrunch.com/2022/01/29/please-make-a-dumb-car/",
-    "time": 1643599448,
-    "image": "https://techcrunch.com/wp-content/uploads/2022/01/dumb-car2.jpg?w=711",
-    "icon": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=192",
-    "publisher": "TechCrunch",
-    "description": "Today’s cars are dumb where they should be smart, and smart where they should be dumb. Enough already. Make a car that’s pretty much all dumb and watch it sell — because what automakers are giving people is so bad, they’ll pay more to have less of it. Cars now are like budget smar…",
-    "by": "wrycoder",
-    "points": 133,
-    "comment_count": 46,
+    "id": 30145872,
+    "title": "Ask HN: What does the GDPR penalty for loading fonts mean for website owners?",
+    "url": "https://news.ycombinator.com/item?id=30145872",
+    "time": 1643618616,
+    "image": "",
+    "icon": "https://news.ycombinator.com/favicon.ico",
+    "publisher": "Hacker News",
+    "description": "",
+    "by": "emschlr",
+    "points": 6,
+    "comment_count": 5,
     "hn_item": {
-      "by": "m33k44",
-      "descendants": 2,
-      "id": 30146554,
+      "by": "lowleveldesign",
+      "descendants": 55,
+      "id": 30128048,
       "kids": [
-        30147038,
-        30147016
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30145419,
+        30144489,
+        30140903,
+        30140096
       ],
-      "score": 3,
-      "time": 1643625014,
-      "title": "Middle class people now paying more than £1m in tax during lifetime",
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
       "type": "story",
-      "url": "https://www.telegraph.co.uk/politics/2022/01/31/middle-class-families-now-lifetime-tax-millionaires-research/"
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
     },
     "og_item": {
-      "title": "Please make a dumb car – TechCrunch",
+      "title": "Ask HN: What does the GDPR penalty for loading fonts mean for website owners? | Hacker News",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30119925,
+    "title": "Message in a bottle from Scottish girl found in Norway after 25 years",
+    "url": "https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-60121185",
+    "time": 1643401844,
+    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/16512/production/_123001419_joanna2.jpg",
+    "icon": "https://www.bbc.co.uk/favicon.ico",
+    "publisher": "BBC News",
+    "description": "The bottle Joanna Buchan dropped in the sea at Peterhead when she was eight has washed up in Norway.",
+    "by": "LinuxBender",
+    "points": 109,
+    "comment_count": 13,
+    "hn_item": {
+      "by": "lowleveldesign",
+      "descendants": 55,
+      "id": 30128048,
+      "kids": [
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30145419,
+        30144489,
+        30140903,
+        30140096
+      ],
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
+      "type": "story",
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
+    },
+    "og_item": {
+      "title": "Message in a bottle from Scottish girl found in Norway after 25 years",
       "type": "article",
       "image": [
         {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/01/dumb-car2.jpg?w=711",
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/16512/production/_123001419_joanna2.jpg",
           "secure_url": "",
           "type": "",
           "width": 0,
@@ -3188,16 +4042,16 @@
           "alt": ""
         }
       ],
-      "url": "https://social.techcrunch.com/2022/01/29/please-make-a-dumb-car/",
+      "url": "https://www.bbc.com/news/uk-scotland-north-east-orkney-shetland-60121185",
       "audio": [],
-      "description": "Today’s cars are dumb where they should be smart, and smart where they should be dumb. Enough already. Make a car that’s pretty much all dumb and watch it sell — because what automakers are giving people is so bad, they’ll pay more to have less of it. Cars now are like budget smar…",
+      "description": "The bottle Joanna Buchan dropped in the sea at Peterhead when she was eight has washed up in Norway.",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "TechCrunch",
+      "site_name": "BBC News",
       "video": [],
       "favicon": {
-        "url": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=192"
+        "url": "/favicon.ico"
       }
     }
   },
@@ -3214,18 +4068,29 @@
     "points": 82,
     "comment_count": 13,
     "hn_item": {
-      "by": "m33k44",
-      "descendants": 2,
-      "id": 30146554,
+      "by": "lowleveldesign",
+      "descendants": 55,
+      "id": 30128048,
       "kids": [
-        30147038,
-        30147016
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30145419,
+        30144489,
+        30140903,
+        30140096
       ],
-      "score": 3,
-      "time": 1643625014,
-      "title": "Middle class people now paying more than £1m in tax during lifetime",
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
       "type": "story",
-      "url": "https://www.telegraph.co.uk/politics/2022/01/31/middle-class-families-now-lifetime-tax-millionaires-research/"
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
     },
     "og_item": {
       "title": "COM+ revisited",
@@ -3250,101 +4115,6 @@
       "video": [],
       "favicon": {
         "url": "https://lowleveldesign.files.wordpress.com/2019/01/cropped-site_logo-1.png?w=192"
-      }
-    }
-  },
-  {
-    "id": 30139142,
-    "title": "SBCL: New in Version 2.2.1",
-    "url": "http://www.sbcl.org/all-news.html?2.2.1#2.2.1",
-    "time": 1643564118,
-    "image": "",
-    "icon": "",
-    "publisher": "sbcl.org",
-    "description": "",
-    "by": "susam",
-    "points": 102,
-    "comment_count": 5,
-    "hn_item": {
-      "by": "m33k44",
-      "descendants": 2,
-      "id": 30146554,
-      "kids": [
-        30147038,
-        30147016
-      ],
-      "score": 3,
-      "time": 1643625014,
-      "title": "Middle class people now paying more than £1m in tax during lifetime",
-      "type": "story",
-      "url": "https://www.telegraph.co.uk/politics/2022/01/31/middle-class-families-now-lifetime-tax-millionaires-research/"
-    },
-    "og_item": {
-      "title": "All News - Steel Bank Common Lisp",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30146554,
-    "title": "Middle class people now paying more than £1m in tax during lifetime",
-    "url": "https://www.telegraph.co.uk/politics/2022/01/31/middle-class-families-now-lifetime-tax-millionaires-research/",
-    "time": 1643625014,
-    "image": "https://www.telegraph.co.uk/content/dam/politics/2022/01/30/TELEMMGLPICT000284169775_trans_NvBQzQNjv4Bq92hKO6jAtmPrz4xYdDrmemTZcc1a2CSL5KvcSFGJWMk.jpeg?impolicy=logo-overlay",
-    "icon": "https://www.telegraph.co.uk/etc/designs/telegraph/core/clientlibs/core/icons/favicon-196x196.png",
-    "publisher": "The Telegraph",
-    "description": "MPs in dismay over political cost of tax burden, with one former minister saying the Chancellor has 'lots of ambition but little experience'",
-    "by": "m33k44",
-    "points": 3,
-    "comment_count": 2,
-    "hn_item": {
-      "by": "m33k44",
-      "descendants": 2,
-      "id": 30146554,
-      "kids": [
-        30147038,
-        30147016
-      ],
-      "score": 3,
-      "time": 1643625014,
-      "title": "Middle class people now paying more than £1m in tax during lifetime",
-      "type": "story",
-      "url": "https://www.telegraph.co.uk/politics/2022/01/31/middle-class-families-now-lifetime-tax-millionaires-research/"
-    },
-    "og_item": {
-      "title": "Middle class people now paying more than £1m in tax during lifetime",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://www.telegraph.co.uk/content/dam/politics/2022/01/30/TELEMMGLPICT000284169775_trans_NvBQzQNjv4Bq92hKO6jAtmPrz4xYdDrmemTZcc1a2CSL5KvcSFGJWMk.jpeg?impolicy=logo-overlay",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://www.telegraph.co.uk/politics/2022/01/31/middle-class-families-now-lifetime-tax-millionaires-research/",
-      "audio": [],
-      "description": "MPs in dismay over political cost of tax burden, with one former minister saying the Chancellor has 'lots of ambition but little experience'",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "The Telegraph",
-      "video": [],
-      "favicon": {
-        "url": "/etc/designs/telegraph/core/clientlibs/core/icons/favicon-196x196.png"
       }
     }
   }
