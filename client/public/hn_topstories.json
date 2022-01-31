@@ -9,8 +9,8 @@
     "publisher": "imlefthanded.com",
     "description": "",
     "by": "decrypt",
-    "points": 354,
-    "comment_count": 404,
+    "points": 374,
+    "comment_count": 417,
     "hn_item": {
       "by": "Torwald",
       "descendants": 0,
@@ -49,8 +49,8 @@
     "publisher": "them.",
     "description": "We could be getting even closer to stopping the spread of HIV/AIDS.",
     "by": "grawprog",
-    "points": 267,
-    "comment_count": 117,
+    "points": 301,
+    "comment_count": 124,
     "hn_item": {
       "by": "Torwald",
       "descendants": 0,
@@ -98,8 +98,8 @@
     "publisher": "Joel Dare",
     "description": "",
     "by": "codazoda",
-    "points": 34,
-    "comment_count": 18,
+    "points": 38,
+    "comment_count": 28,
     "hn_item": {
       "by": "Torwald",
       "descendants": 0,
@@ -138,8 +138,8 @@
     "publisher": "magistrate.khanna.law",
     "description": "",
     "by": "hkhanna",
-    "points": 138,
-    "comment_count": 43,
+    "points": 140,
+    "comment_count": 45,
     "hn_item": {
       "by": "Torwald",
       "descendants": 0,
@@ -173,13 +173,13 @@
     "title": "Pyflow – Visual and modular block programming in Python",
     "url": "https://github.com/Bycelium/PyFlow",
     "time": 1643647446,
-    "image": "https://opengraph.githubassets.com/046756cef530e14bafe9cc03545573560838938c7dd11c41dfeb4ccf0c1b76ee/Bycelium/PyFlow",
+    "image": "https://opengraph.githubassets.com/a1321ecea46bb3af0b9bf9f71fffd3aa75379a860178ef5fb80afb119f502cb1/Bycelium/PyFlow",
     "icon": "https://github.githubassets.com/favicons/favicon.svg",
     "publisher": "GitHub",
     "description": "An open-source tool for visual and modular block programing in python - GitHub - Bycelium/PyFlow: An open-source tool for visual and modular block programing in python",
     "by": "amai",
-    "points": 73,
-    "comment_count": 35,
+    "points": 80,
+    "comment_count": 39,
     "hn_item": {
       "by": "Torwald",
       "descendants": 0,
@@ -196,7 +196,7 @@
       "type": "object",
       "image": [
         {
-          "url": "https://opengraph.githubassets.com/046756cef530e14bafe9cc03545573560838938c7dd11c41dfeb4ccf0c1b76ee/Bycelium/PyFlow",
+          "url": "https://opengraph.githubassets.com/a1321ecea46bb3af0b9bf9f71fffd3aa75379a860178ef5fb80afb119f502cb1/Bycelium/PyFlow",
           "secure_url": "",
           "type": "",
           "width": 1200,
@@ -227,7 +227,7 @@
     "publisher": "Oceana",
     "description": "Giant Pyrosomes are bioluminescent (light producing), giving rise to the common name, which comes from the Greek for fire (“pyro”) and body (“soma”). The light produced by Giant Pyrosomes is particularly bright and long lasting and is beautiful to witness. Because the individual tunicat…",
     "by": "integrale",
-    "points": 72,
+    "points": 75,
     "comment_count": 18,
     "hn_item": {
       "by": "Torwald",
@@ -276,8 +276,8 @@
     "publisher": "Ask a Manager",
     "description": "A reader writes: This is a situation currently unfolding at my husband's office so I’m a very amused bystander and thought I’d get your opinion on this",
     "by": "amadeuspzs",
-    "points": 253,
-    "comment_count": 150,
+    "points": 286,
+    "comment_count": 155,
     "hn_item": {
       "by": "Torwald",
       "descendants": 0,
@@ -325,7 +325,7 @@
     "publisher": "meadhbh.hamrick.rocks",
     "description": "An overview of the IETF's Virtual Worlds Agent Region Protocol and it's development.",
     "by": "dingosity",
-    "points": 13,
+    "points": 15,
     "comment_count": 5,
     "hn_item": {
       "by": "Torwald",
@@ -356,6 +356,55 @@
     }
   },
   {
+    "id": 30129631,
+    "title": "Request bodies in GET requests",
+    "url": "https://evertpot.com/get-request-bodies/",
+    "time": 1643485054,
+    "image": "https://evertpot.com/assets/cover/flower.png",
+    "icon": "https://evertpot.com/assets/img/flower-icon.png",
+    "publisher": "evertpot.com",
+    "description": "",
+    "by": "treve",
+    "points": 23,
+    "comment_count": 3,
+    "hn_item": {
+      "by": "Torwald",
+      "descendants": 0,
+      "id": 30148527,
+      "kids": null,
+      "score": 4,
+      "time": 1643640933,
+      "title": "Run a Amiga Workbench simulation in your browser",
+      "type": "story",
+      "url": "https://www.taws.ch/WB.html"
+    },
+    "og_item": {
+      "title": "Request bodies in GET requests",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://evertpot.com/assets/cover/flower.png",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/assets/img/flower-icon.png"
+      }
+    }
+  },
+  {
     "id": 30150495,
     "title": "Yemen's Bifurcated Monetary System",
     "url": "http://jpkoning.blogspot.com/2022/01/yemens-bifurcated-monetary-system.html",
@@ -365,7 +414,7 @@
     "publisher": "jpkoning.blogspot.com",
     "description": "Over the last five years Yemen has stumbled into a unique monetary situation. I initially wrote about Yemen's odd currency status two years ...",
     "by": "rwmj",
-    "points": 33,
+    "points": 34,
     "comment_count": 7,
     "hn_item": {
       "by": "Torwald",
@@ -401,55 +450,6 @@
       "video": [],
       "favicon": {
         "url": "http://jpkoning.blogspot.com/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30129631,
-    "title": "Request bodies in GET requests",
-    "url": "https://evertpot.com/get-request-bodies/",
-    "time": 1643485054,
-    "image": "https://evertpot.com/assets/cover/flower.png",
-    "icon": "https://evertpot.com/assets/img/flower-icon.png",
-    "publisher": "evertpot.com",
-    "description": "",
-    "by": "treve",
-    "points": 20,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "Torwald",
-      "descendants": 0,
-      "id": 30148527,
-      "kids": null,
-      "score": 4,
-      "time": 1643640933,
-      "title": "Run a Amiga Workbench simulation in your browser",
-      "type": "story",
-      "url": "https://www.taws.ch/WB.html"
-    },
-    "og_item": {
-      "title": "Request bodies in GET requests",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://evertpot.com/assets/cover/flower.png",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/assets/img/flower-icon.png"
       }
     }
   },
@@ -512,8 +512,8 @@
     "publisher": "CNBC",
     "description": "Sony has agreed to acquire Bungie in a $3.6 billion deal, continuing January's torrid pace of video game consolidation",
     "by": "daveaiello",
-    "points": 81,
-    "comment_count": 42,
+    "points": 90,
+    "comment_count": 56,
     "hn_item": {
       "by": "Torwald",
       "descendants": 0,
@@ -601,7 +601,7 @@
     "publisher": "GitHub",
     "description": "A book about learning eLisp for customising Emacs the hard way - see the Gist https://gist.github.com/754568 - GitHub - hypernumbers/learn_elisp_the_hard_way: A book about learning eLisp for custom...",
     "by": "AndroidKitKat",
-    "points": 51,
+    "points": 52,
     "comment_count": 20,
     "hn_item": {
       "by": "Torwald",
@@ -650,8 +650,8 @@
     "publisher": "GitHub",
     "description": "Rich-cli is a command line toolbox for fancy output in the terminal - GitHub - Textualize/rich-cli: Rich-cli is a command line toolbox for fancy output in the terminal",
     "by": "willm",
-    "points": 38,
-    "comment_count": 5,
+    "points": 40,
+    "comment_count": 8,
     "hn_item": {
       "by": "Torwald",
       "descendants": 0,
@@ -699,8 +699,8 @@
     "publisher": "TechCrunch",
     "description": "Today’s cars are dumb where they should be smart, and smart where they should be dumb. Enough already. Make a car that’s pretty much all dumb and watch it sell — because what automakers are giving people is so bad, they’ll pay more to have less of it. Cars now are like budget smar…",
     "by": "wrycoder",
-    "points": 292,
-    "comment_count": 363,
+    "points": 301,
+    "comment_count": 382,
     "hn_item": {
       "by": "Torwald",
       "descendants": 0,
@@ -739,55 +739,6 @@
     }
   },
   {
-    "id": 30148364,
-    "title": "The rising human cost of sports betting",
-    "url": "https://www.nytimes.com/2022/01/31/sports/football/super-bowl-sports-betting.html",
-    "time": 1643640178,
-    "image": "https://static01.nyt.com/images/2022/01/31/sports/31streeter-sot-podcast/merlin_201062172_a6e09b9d-629b-4a9d-91e8-9fcdb8365fe4-facebookJumbo.jpg",
-    "icon": "https://www.nytimes.com/vi-assets/static-assets/favicon-d2483f10ef688e6f89e23806b9700298.ico",
-    "publisher": "The New York Times",
-    "description": "The ends of the college and pro football seasons were already a perilous time for people recovering from a gambling addiction. Then came the onslaught of ads for legal sports betting.",
-    "by": "jbegley",
-    "points": 92,
-    "comment_count": 111,
-    "hn_item": {
-      "by": "Torwald",
-      "descendants": 0,
-      "id": 30148527,
-      "kids": null,
-      "score": 4,
-      "time": 1643640933,
-      "title": "Run a Amiga Workbench simulation in your browser",
-      "type": "story",
-      "url": "https://www.taws.ch/WB.html"
-    },
-    "og_item": {
-      "title": "The Rising Human Cost of Sports Betting",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://static01.nyt.com/images/2022/01/31/sports/31streeter-sot-podcast/merlin_201062172_a6e09b9d-629b-4a9d-91e8-9fcdb8365fe4-facebookJumbo.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://www.nytimes.com/2022/01/31/sports/football/super-bowl-sports-betting.html",
-      "audio": [],
-      "description": "The ends of the college and pro football seasons were already a perilous time for people recovering from a gambling addiction. Then came the onslaught of ads for legal sports betting.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/vi-assets/static-assets/favicon-d2483f10ef688e6f89e23806b9700298.ico"
-      }
-    }
-  },
-  {
     "id": 30149099,
     "title": "Google critiqued the practice of displaying ads above search results",
     "url": "https://twitter.com/krebs_adrian/status/1488173888068542466",
@@ -797,8 +748,8 @@
     "publisher": "Twitter",
     "description": "",
     "by": "hubraumhugo",
-    "points": 246,
-    "comment_count": 119,
+    "points": 251,
+    "comment_count": 123,
     "hn_item": {
       "by": "Torwald",
       "descendants": 0,
@@ -837,8 +788,8 @@
     "publisher": "Daniel Roy Greenfeld",
     "description": "Make Your Makefiles Make Your Day!",
     "by": "JNRowe",
-    "points": 26,
-    "comment_count": 18,
+    "points": 27,
+    "comment_count": 19,
     "hn_item": {
       "by": "Torwald",
       "descendants": 0,
@@ -877,95 +828,6 @@
     }
   },
   {
-    "id": 30149838,
-    "title": "Ask HN: Where do you hang out virtually online?",
-    "url": "https://news.ycombinator.com/item?id=30149838",
-    "time": 1643646557,
-    "image": "",
-    "icon": "https://news.ycombinator.com/favicon.ico",
-    "publisher": "Hacker News",
-    "description": "",
-    "by": "codemonkeysh",
-    "points": 86,
-    "comment_count": 101,
-    "hn_item": {
-      "by": "Torwald",
-      "descendants": 0,
-      "id": 30148527,
-      "kids": null,
-      "score": 4,
-      "time": 1643640933,
-      "title": "Run a Amiga Workbench simulation in your browser",
-      "type": "story",
-      "url": "https://www.taws.ch/WB.html"
-    },
-    "og_item": {
-      "title": "Ask HN: Where do you hang out virtually online? | Hacker News",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30136479,
-    "title": "Socrates on the blessing of being refuted",
-    "url": "https://antigonejournal.com/2022/01/socrates-being-refuted/",
-    "time": 1643545027,
-    "image": "https://antigonejournal.com/wp-content/uploads/2022/01/HWDrops.png",
-    "icon": "https://i0.wp.com/antigonejournal.com/wp-content/uploads/2021/03/cropped-Ant.png?fit=192%2C192\u0026ssl=1",
-    "publisher": "Antigone",
-    "description": "ANDREW BEER The genuine pleasure of yielding to better arguments.",
-    "by": "AverilS",
-    "points": 105,
-    "comment_count": 40,
-    "hn_item": {
-      "by": "Torwald",
-      "descendants": 0,
-      "id": 30148527,
-      "kids": null,
-      "score": 4,
-      "time": 1643640933,
-      "title": "Run a Amiga Workbench simulation in your browser",
-      "type": "story",
-      "url": "https://www.taws.ch/WB.html"
-    },
-    "og_item": {
-      "title": "Socrates on the Blessing of Being Refuted - Antigone",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://antigonejournal.com/wp-content/uploads/2022/01/HWDrops.png",
-          "secure_url": "",
-          "type": "",
-          "width": 1049,
-          "height": 539,
-          "alt": ""
-        }
-      ],
-      "url": "https://antigonejournal.com/2022/01/socrates-being-refuted/",
-      "audio": [],
-      "description": "ANDREW BEER The genuine pleasure of yielding to better arguments.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Antigone",
-      "video": [],
-      "favicon": {
-        "url": "https://i0.wp.com/antigonejournal.com/wp-content/uploads/2021/03/cropped-Ant.png?fit=192%2C192\u0026ssl=1"
-      }
-    }
-  },
-  {
     "id": 30149108,
     "title": "Boring Technology Checklist",
     "url": "https://blog.begin.com/posts/2022-01-27-the-boring-technology-checklist",
@@ -975,7 +837,7 @@
     "publisher": "blog.begin.com",
     "description": "Technologists love new technology—that new shiny thing. But, often, the promise of a new solution introduces new unforeseen problems creating unplanned challen…",
     "by": "macdonst",
-    "points": 114,
+    "points": 117,
     "comment_count": 74,
     "hn_item": {
       "by": "Torwald",
@@ -1015,7 +877,7 @@
     "publisher": "BuzzFeed",
     "description": "Tommie Woodward yelled, \"Fuck that gator!\" just before he was killed by one in Texas, and his death instantly became a national joke. For his family, grieving means having to rescue the person from the punchline.",
     "by": "blending",
-    "points": 7,
+    "points": 8,
     "comment_count": 0,
     "hn_item": {
       "by": "Torwald",
@@ -1051,6 +913,193 @@
       "video": [],
       "favicon": {
         "url": "/static-assets/bf-bpage-ui/_next/static/images/favicon-496b7cee633e6a7dca162654e1bb39c9.ico"
+      }
+    }
+  },
+  {
+    "id": 30136479,
+    "title": "Socrates on the blessing of being refuted",
+    "url": "https://antigonejournal.com/2022/01/socrates-being-refuted/",
+    "time": 1643545027,
+    "image": "https://antigonejournal.com/wp-content/uploads/2022/01/HWDrops.png",
+    "icon": "https://i0.wp.com/antigonejournal.com/wp-content/uploads/2021/03/cropped-Ant.png?fit=192%2C192\u0026ssl=1",
+    "publisher": "Antigone",
+    "description": "ANDREW BEER The genuine pleasure of yielding to better arguments.",
+    "by": "AverilS",
+    "points": 106,
+    "comment_count": 41,
+    "hn_item": {
+      "by": "Torwald",
+      "descendants": 0,
+      "id": 30148527,
+      "kids": null,
+      "score": 4,
+      "time": 1643640933,
+      "title": "Run a Amiga Workbench simulation in your browser",
+      "type": "story",
+      "url": "https://www.taws.ch/WB.html"
+    },
+    "og_item": {
+      "title": "Socrates on the Blessing of Being Refuted - Antigone",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://antigonejournal.com/wp-content/uploads/2022/01/HWDrops.png",
+          "secure_url": "",
+          "type": "",
+          "width": 1049,
+          "height": 539,
+          "alt": ""
+        }
+      ],
+      "url": "https://antigonejournal.com/2022/01/socrates-being-refuted/",
+      "audio": [],
+      "description": "ANDREW BEER The genuine pleasure of yielding to better arguments.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Antigone",
+      "video": [],
+      "favicon": {
+        "url": "https://i0.wp.com/antigonejournal.com/wp-content/uploads/2021/03/cropped-Ant.png?fit=192%2C192\u0026ssl=1"
+      }
+    }
+  },
+  {
+    "id": 30148364,
+    "title": "The rising human cost of sports betting",
+    "url": "https://www.nytimes.com/2022/01/31/sports/football/super-bowl-sports-betting.html",
+    "time": 1643640178,
+    "image": "https://static01.nyt.com/images/2022/01/31/sports/31streeter-sot-podcast/merlin_201062172_a6e09b9d-629b-4a9d-91e8-9fcdb8365fe4-facebookJumbo.jpg",
+    "icon": "https://www.nytimes.com/vi-assets/static-assets/favicon-d2483f10ef688e6f89e23806b9700298.ico",
+    "publisher": "The New York Times",
+    "description": "The ends of the college and pro football seasons were already a perilous time for people recovering from a gambling addiction. Then came the onslaught of ads for legal sports betting.",
+    "by": "jbegley",
+    "points": 93,
+    "comment_count": 122,
+    "hn_item": {
+      "by": "Torwald",
+      "descendants": 0,
+      "id": 30148527,
+      "kids": null,
+      "score": 4,
+      "time": 1643640933,
+      "title": "Run a Amiga Workbench simulation in your browser",
+      "type": "story",
+      "url": "https://www.taws.ch/WB.html"
+    },
+    "og_item": {
+      "title": "The Rising Human Cost of Sports Betting",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://static01.nyt.com/images/2022/01/31/sports/31streeter-sot-podcast/merlin_201062172_a6e09b9d-629b-4a9d-91e8-9fcdb8365fe4-facebookJumbo.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://www.nytimes.com/2022/01/31/sports/football/super-bowl-sports-betting.html",
+      "audio": [],
+      "description": "The ends of the college and pro football seasons were already a perilous time for people recovering from a gambling addiction. Then came the onslaught of ads for legal sports betting.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/vi-assets/static-assets/favicon-d2483f10ef688e6f89e23806b9700298.ico"
+      }
+    }
+  },
+  {
+    "id": 30151021,
+    "title": "YouTube ranks “wholesome and funny” comments higher",
+    "url": "https://web.archive.org/web/20220131130754/https://twitter.com/nikhilbd/status/1488027319935537153",
+    "time": 1643650806,
+    "image": "https://web.archive.org/web/20220131130754im_/https://pbs.twimg.com/profile_images/948667199685734400/eXUO9qB2_normal.jpg",
+    "icon": "https://web.archive.org/web/20220131130754im_/https://abs.twimg.com/favicons/twitter.2.ico",
+    "publisher": "Twitter",
+    "description": "@patrickc Maybe in a future blogpost :). Sorry, I can't disclose much on Twitter. You know how it goes.",
+    "by": "ipsum2",
+    "points": 11,
+    "comment_count": 2,
+    "hn_item": {
+      "by": "Torwald",
+      "descendants": 0,
+      "id": 30148527,
+      "kids": null,
+      "score": 4,
+      "time": 1643640933,
+      "title": "Run a Amiga Workbench simulation in your browser",
+      "type": "story",
+      "url": "https://www.taws.ch/WB.html"
+    },
+    "og_item": {
+      "title": "Nikhil Dandekar on Twitter",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://web.archive.org/web/20220131130754im_/https://pbs.twimg.com/profile_images/948667199685734400/eXUO9qB2_normal.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://web.archive.org/web/20220131130754/https://twitter.com/nikhilbd/status/1488027319935537153",
+      "audio": [],
+      "description": "@patrickc Maybe in a future blogpost :). Sorry, I can't disclose much on Twitter. You know how it goes.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Twitter",
+      "video": [],
+      "favicon": {
+        "url": "//web.archive.org/web/20220131130754im_/https://abs.twimg.com/favicons/twitter.2.ico"
+      }
+    }
+  },
+  {
+    "id": 30149838,
+    "title": "Ask HN: Where do you hang out virtually online?",
+    "url": "https://news.ycombinator.com/item?id=30149838",
+    "time": 1643646557,
+    "image": "",
+    "icon": "https://news.ycombinator.com/favicon.ico",
+    "publisher": "Hacker News",
+    "description": "",
+    "by": "codemonkeysh",
+    "points": 89,
+    "comment_count": 108,
+    "hn_item": {
+      "by": "Torwald",
+      "descendants": 0,
+      "id": 30148527,
+      "kids": null,
+      "score": 4,
+      "time": 1643640933,
+      "title": "Run a Amiga Workbench simulation in your browser",
+      "type": "story",
+      "url": "https://www.taws.ch/WB.html"
+    },
+    "og_item": {
+      "title": "Ask HN: Where do you hang out virtually online? | Hacker News",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "favicon.ico"
       }
     }
   },
@@ -1091,55 +1140,6 @@
       "video": [],
       "favicon": {
         "url": "/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30151021,
-    "title": "YouTube ranks “wholesome and funny” comments higher",
-    "url": "https://web.archive.org/web/20220131130754/https://twitter.com/nikhilbd/status/1488027319935537153",
-    "time": 1643650806,
-    "image": "https://web.archive.org/web/20220131130754im_/https://pbs.twimg.com/profile_images/948667199685734400/eXUO9qB2_normal.jpg",
-    "icon": "https://web.archive.org/web/20220131130754im_/https://abs.twimg.com/favicons/twitter.2.ico",
-    "publisher": "Twitter",
-    "description": "@patrickc Maybe in a future blogpost :). Sorry, I can't disclose much on Twitter. You know how it goes.",
-    "by": "ipsum2",
-    "points": 8,
-    "comment_count": 1,
-    "hn_item": {
-      "by": "Torwald",
-      "descendants": 0,
-      "id": 30148527,
-      "kids": null,
-      "score": 4,
-      "time": 1643640933,
-      "title": "Run a Amiga Workbench simulation in your browser",
-      "type": "story",
-      "url": "https://www.taws.ch/WB.html"
-    },
-    "og_item": {
-      "title": "Nikhil Dandekar on Twitter",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://web.archive.org/web/20220131130754im_/https://pbs.twimg.com/profile_images/948667199685734400/eXUO9qB2_normal.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://web.archive.org/web/20220131130754/https://twitter.com/nikhilbd/status/1488027319935537153",
-      "audio": [],
-      "description": "@patrickc Maybe in a future blogpost :). Sorry, I can't disclose much on Twitter. You know how it goes.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Twitter",
-      "video": [],
-      "favicon": {
-        "url": "//web.archive.org/web/20220131130754im_/https://abs.twimg.com/favicons/twitter.2.ico"
       }
     }
   },
@@ -1197,7 +1197,7 @@
     "title": "Mixbox: Practical pigment mixing for digital painting",
     "url": "https://github.com/scrtwpns/pigment-mixing",
     "time": 1643385624,
-    "image": "https://opengraph.githubassets.com/8586ab3c002a6ac969c2073ffc68ae7188a4c699d05a9cdc9b0737b6342a218d/scrtwpns/pigment-mixing",
+    "image": "https://opengraph.githubassets.com/1b2dde77df0c19ae3d67be6e8bb140988666d899833bf2088037ce42c34e914d/scrtwpns/pigment-mixing",
     "icon": "https://github.githubassets.com/favicons/favicon.svg",
     "publisher": "GitHub",
     "description": "Practical Pigment Mixing for Digital Painting. Contribute to scrtwpns/pigment-mixing development by creating an account on GitHub.",
@@ -1220,7 +1220,7 @@
       "type": "object",
       "image": [
         {
-          "url": "https://opengraph.githubassets.com/8586ab3c002a6ac969c2073ffc68ae7188a4c699d05a9cdc9b0737b6342a218d/scrtwpns/pigment-mixing",
+          "url": "https://opengraph.githubassets.com/1b2dde77df0c19ae3d67be6e8bb140988666d899833bf2088037ce42c34e914d/scrtwpns/pigment-mixing",
           "secure_url": "",
           "type": "",
           "width": 1200,
@@ -1251,8 +1251,8 @@
     "publisher": "The Verge",
     "description": "Another huge acquisition in the gaming industry",
     "by": "KoftaBob",
-    "points": 29,
-    "comment_count": 8,
+    "points": 32,
+    "comment_count": 9,
     "hn_item": {
       "by": "Torwald",
       "descendants": 0,
@@ -1287,6 +1287,55 @@
       "video": [],
       "favicon": {
         "url": "https://cdn.vox-cdn.com/uploads/chorus_asset/file/7395351/android-chrome-192x192.0.png"
+      }
+    }
+  },
+  {
+    "id": 30144805,
+    "title": "Examples of common false beliefs in mathematics",
+    "url": "https://mathoverflow.net/questions/23478/examples-of-common-false-beliefs-in-mathematics",
+    "time": 1643606336,
+    "image": "https://cdn.sstatic.net/Sites/mathoverflow/Img/apple-touch-icon@2.png?v=f1c9606b77ff",
+    "icon": "https://cdn.sstatic.net/Sites/mathoverflow/Img/favicon.ico?v=8bbfe38cfc48",
+    "publisher": "MathOverflow",
+    "description": "The first thing to say is that this is not the same as the question about interesting mathematical mistakes. I am interested about the type of false beliefs that many intelligent people have while ...",
+    "by": "gballan",
+    "points": 220,
+    "comment_count": 138,
+    "hn_item": {
+      "by": "Torwald",
+      "descendants": 0,
+      "id": 30148527,
+      "kids": null,
+      "score": 4,
+      "time": 1643640933,
+      "title": "Run a Amiga Workbench simulation in your browser",
+      "type": "story",
+      "url": "https://www.taws.ch/WB.html"
+    },
+    "og_item": {
+      "title": "Examples of common false beliefs in mathematics",
+      "type": "website",
+      "image": [
+        {
+          "url": "https://cdn.sstatic.net/Sites/mathoverflow/Img/apple-touch-icon@2.png?v=f1c9606b77ff",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://mathoverflow.net/questions/23478/examples-of-common-false-beliefs-in-mathematics",
+      "audio": [],
+      "description": "The first thing to say is that this is not the same as the question about interesting mathematical mistakes. I am interested about the type of false beliefs that many intelligent people have while ...",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "MathOverflow",
+      "video": [],
+      "favicon": {
+        "url": "https://cdn.sstatic.net/Sites/mathoverflow/Img/favicon.ico?v=8bbfe38cfc48"
       }
     }
   },
@@ -1340,55 +1389,6 @@
     }
   },
   {
-    "id": 30144805,
-    "title": "Examples of common false beliefs in mathematics",
-    "url": "https://mathoverflow.net/questions/23478/examples-of-common-false-beliefs-in-mathematics",
-    "time": 1643606336,
-    "image": "https://cdn.sstatic.net/Sites/mathoverflow/Img/apple-touch-icon@2.png?v=f1c9606b77ff",
-    "icon": "https://cdn.sstatic.net/Sites/mathoverflow/Img/favicon.ico?v=8bbfe38cfc48",
-    "publisher": "MathOverflow",
-    "description": "The first thing to say is that this is not the same as the question about interesting mathematical mistakes. I am interested about the type of false beliefs that many intelligent people have while ...",
-    "by": "gballan",
-    "points": 218,
-    "comment_count": 136,
-    "hn_item": {
-      "by": "Torwald",
-      "descendants": 0,
-      "id": 30148527,
-      "kids": null,
-      "score": 4,
-      "time": 1643640933,
-      "title": "Run a Amiga Workbench simulation in your browser",
-      "type": "story",
-      "url": "https://www.taws.ch/WB.html"
-    },
-    "og_item": {
-      "title": "Examples of common false beliefs in mathematics",
-      "type": "website",
-      "image": [
-        {
-          "url": "https://cdn.sstatic.net/Sites/mathoverflow/Img/apple-touch-icon@2.png?v=f1c9606b77ff",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://mathoverflow.net/questions/23478/examples-of-common-false-beliefs-in-mathematics",
-      "audio": [],
-      "description": "The first thing to say is that this is not the same as the question about interesting mathematical mistakes. I am interested about the type of false beliefs that many intelligent people have while ...",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "MathOverflow",
-      "video": [],
-      "favicon": {
-        "url": "https://cdn.sstatic.net/Sites/mathoverflow/Img/favicon.ico?v=8bbfe38cfc48"
-      }
-    }
-  },
-  {
     "id": 30147213,
     "title": "Textual for Windows (Python package for TUIs)",
     "url": "https://www.willmcgugan.com/blog/tech/post/textual-for-windows/",
@@ -1399,7 +1399,7 @@
     "description": "Textual adds Windows support I've just released v0.1.15 of Textual, with Windows support. The Windows support is somewhat experimental, but so far seems solid. You will get best results on the new Windows Terminal. On the classic command prompt you might find a reduced color palette. This works o…",
     "by": "RojerGS",
     "points": 63,
-    "comment_count": 9,
+    "comment_count": 10,
     "hn_item": {
       "by": "Torwald",
       "descendants": 0,
@@ -1447,7 +1447,7 @@
     "publisher": "lwn.net",
     "description": "",
     "by": "pabs3",
-    "points": 226,
+    "points": 227,
     "comment_count": 45,
     "hn_item": {
       "by": "Torwald",
@@ -1488,7 +1488,7 @@
     "description": "Photographer Dmitry Kokh discovered polar bears living in an abandoned weather station in Kolyuchin in the Chukotka Autonomous Okrug of Russia",
     "by": "sofixa",
     "points": 171,
-    "comment_count": 45,
+    "comment_count": 46,
     "hn_item": {
       "by": "Torwald",
       "descendants": 0,
@@ -1537,7 +1537,7 @@
     "description": "More consolidation is afoot in the world of IT to meet a new demand from enterprises for “one-stop shops” covering a wide range of needs in our hybrid world of work. Citrix, the long-in-the-tooth virtualization giant that had been making a slow transition into cloud computing, is being …",
     "by": "blopeur",
     "points": 80,
-    "comment_count": 59,
+    "comment_count": 60,
     "hn_item": {
       "by": "Torwald",
       "descendants": 0,
@@ -1665,6 +1665,55 @@
     }
   },
   {
+    "id": 30146019,
+    "title": "Boyfriend-alert – A light based alert system",
+    "url": "https://github.com/jscd/Boyfriend-Alert",
+    "time": 1643619852,
+    "image": "https://opengraph.githubassets.com/02c78df16f3e01126a593de098dc59140ed309e0a48ccb379c6d110c372b834d/jscd/Boyfriend-Alert",
+    "icon": "https://github.githubassets.com/favicons/favicon.svg",
+    "publisher": "GitHub",
+    "description": "A light based alert system. Contribute to jscd/Boyfriend-Alert development by creating an account on GitHub.",
+    "by": "rgun",
+    "points": 200,
+    "comment_count": 160,
+    "hn_item": {
+      "by": "Torwald",
+      "descendants": 0,
+      "id": 30148527,
+      "kids": null,
+      "score": 4,
+      "time": 1643640933,
+      "title": "Run a Amiga Workbench simulation in your browser",
+      "type": "story",
+      "url": "https://www.taws.ch/WB.html"
+    },
+    "og_item": {
+      "title": "GitHub - jscd/Boyfriend-Alert: A light based alert system",
+      "type": "object",
+      "image": [
+        {
+          "url": "https://opengraph.githubassets.com/02c78df16f3e01126a593de098dc59140ed309e0a48ccb379c6d110c372b834d/jscd/Boyfriend-Alert",
+          "secure_url": "",
+          "type": "",
+          "width": 1200,
+          "height": 600,
+          "alt": ""
+        }
+      ],
+      "url": "https://github.com/jscd/Boyfriend-Alert",
+      "audio": [],
+      "description": "A light based alert system. Contribute to jscd/Boyfriend-Alert development by creating an account on GitHub.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "GitHub",
+      "video": [],
+      "favicon": {
+        "url": "https://github.githubassets.com/favicons/favicon.svg"
+      }
+    }
+  },
+  {
     "id": 30117500,
     "title": "Plain Geology (1921)",
     "url": "https://pubs.usgs.gov/gip/plain.html",
@@ -1705,17 +1754,17 @@
     }
   },
   {
-    "id": 30146019,
-    "title": "Boyfriend-alert – A light based alert system",
-    "url": "https://github.com/jscd/Boyfriend-Alert",
-    "time": 1643619852,
-    "image": "https://opengraph.githubassets.com/113c76582fa96527c757316450d9e36c6ba5936bb5e3d911c1466c7cbfd56223/jscd/Boyfriend-Alert",
-    "icon": "https://github.githubassets.com/favicons/favicon.svg",
-    "publisher": "GitHub",
-    "description": "A light based alert system. Contribute to jscd/Boyfriend-Alert development by creating an account on GitHub.",
-    "by": "rgun",
-    "points": 199,
-    "comment_count": 161,
+    "id": 30146042,
+    "title": "Finnish diplomats’ phones infected with NSO Group Pegasus spyware",
+    "url": "https://www.bleepingcomputer.com/news/security/finnish-diplomats-phones-infected-with-nso-group-pegasus-spyware/",
+    "time": 1643620174,
+    "image": "",
+    "icon": "https://www.bleepingcomputer.com/favicon.ico",
+    "publisher": "bleepingcomputer.com",
+    "description": "",
+    "by": "beermonster",
+    "points": 196,
+    "comment_count": 97,
     "hn_item": {
       "by": "Torwald",
       "descendants": 0,
@@ -1728,28 +1777,19 @@
       "url": "https://www.taws.ch/WB.html"
     },
     "og_item": {
-      "title": "GitHub - jscd/Boyfriend-Alert: A light based alert system",
-      "type": "object",
-      "image": [
-        {
-          "url": "https://opengraph.githubassets.com/113c76582fa96527c757316450d9e36c6ba5936bb5e3d911c1466c7cbfd56223/jscd/Boyfriend-Alert",
-          "secure_url": "",
-          "type": "",
-          "width": 1200,
-          "height": 600,
-          "alt": ""
-        }
-      ],
-      "url": "https://github.com/jscd/Boyfriend-Alert",
+      "title": "Just a moment...",
+      "type": "",
+      "image": [],
+      "url": "",
       "audio": [],
-      "description": "A light based alert system. Contribute to jscd/Boyfriend-Alert development by creating an account on GitHub.",
+      "description": "",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "GitHub",
+      "site_name": "",
       "video": [],
       "favicon": {
-        "url": "https://github.githubassets.com/favicons/favicon.svg"
+        "url": "/favicon.ico"
       }
     }
   },
@@ -1803,46 +1843,6 @@
     }
   },
   {
-    "id": 30146042,
-    "title": "Finnish diplomats’ phones infected with NSO Group Pegasus spyware",
-    "url": "https://www.bleepingcomputer.com/news/security/finnish-diplomats-phones-infected-with-nso-group-pegasus-spyware/",
-    "time": 1643620174,
-    "image": "",
-    "icon": "https://www.bleepingcomputer.com/favicon.ico",
-    "publisher": "bleepingcomputer.com",
-    "description": "",
-    "by": "beermonster",
-    "points": 195,
-    "comment_count": 96,
-    "hn_item": {
-      "by": "Torwald",
-      "descendants": 0,
-      "id": 30148527,
-      "kids": null,
-      "score": 4,
-      "time": 1643640933,
-      "title": "Run a Amiga Workbench simulation in your browser",
-      "type": "story",
-      "url": "https://www.taws.ch/WB.html"
-    },
-    "og_item": {
-      "title": "Just a moment...",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30150776,
     "title": "Ask HN: AT\u0026T Charing for FaceTime?",
     "url": "https://news.ycombinator.com/item?id=30150776",
@@ -1883,6 +1883,55 @@
     }
   },
   {
+    "id": 30148147,
+    "title": "BBC censors its own archives",
+    "url": "https://www.nationalreview.com/2022/01/the-bbc-quietly-censors-its-own-archives/",
+    "time": 1643638884,
+    "image": "https://www.nationalreview.com/wp-content/uploads/2022/01/bbc.jpg?fit=2057%2C1200",
+    "icon": "https://www.nationalreview.com/wp-content/themes/national-review/static/images/favicons/favicon-96x96.png",
+    "publisher": "National Review",
+    "description": "Out of public view, the state-owned broadcaster has been altering old episodes of its shows to make them ‘suitable’ for modern listeners.",
+    "by": "temp8964",
+    "points": 132,
+    "comment_count": 125,
+    "hn_item": {
+      "by": "Torwald",
+      "descendants": 0,
+      "id": 30148527,
+      "kids": null,
+      "score": 4,
+      "time": 1643640933,
+      "title": "Run a Amiga Workbench simulation in your browser",
+      "type": "story",
+      "url": "https://www.taws.ch/WB.html"
+    },
+    "og_item": {
+      "title": "The BBC Quietly Censors Its Own Archives | National Review",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://www.nationalreview.com/wp-content/uploads/2022/01/bbc.jpg?fit=2057%2C1200",
+          "secure_url": "",
+          "type": "",
+          "width": 2057,
+          "height": 1200,
+          "alt": ""
+        }
+      ],
+      "url": "https://www.nationalreview.com/2022/01/the-bbc-quietly-censors-its-own-archives/",
+      "audio": [],
+      "description": "Out of public view, the state-owned broadcaster has been altering old episodes of its shows to make them ‘suitable’ for modern listeners.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "National Review",
+      "video": [],
+      "favicon": {
+        "url": "https://www.nationalreview.com/wp-content/themes/national-review/static/images/favicons/favicon-96x96.png"
+      }
+    }
+  },
+  {
     "id": 30151571,
     "title": "Show HN: Espial – AI tool to automate discovery and organization of knowledge",
     "url": "https://github.com/Uzay-G/espial",
@@ -1893,7 +1942,7 @@
     "description": "Contribute to Uzay-G/espial development by creating an account on GitHub.",
     "by": "etherio",
     "points": 4,
-    "comment_count": 1,
+    "comment_count": 2,
     "hn_item": {
       "by": "Torwald",
       "descendants": 0,
@@ -2006,55 +2055,6 @@
     "og_item": null
   },
   {
-    "id": 30151765,
-    "title": "Sony is buying Bungie for $3.6B",
-    "url": "https://www.pcgamer.com/uk/sony-is-buying-bungie-for-dollar36b/",
-    "time": 1643653107,
-    "image": "https://cdn.mos.cms.futurecdn.net/JCE4jqp64h2vRQt8vTwKnX-1200-80.jpg",
-    "icon": "https://vanilla.futurecdn.net/pcgamer/402341/apple-touch-icon.png",
-    "publisher": "pcgamer",
-    "description": "The Destiny 2 developer will soon become a PlayStation studio.",
-    "by": "gmemstr",
-    "points": 14,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "Torwald",
-      "descendants": 0,
-      "id": 30148527,
-      "kids": null,
-      "score": 4,
-      "time": 1643640933,
-      "title": "Run a Amiga Workbench simulation in your browser",
-      "type": "story",
-      "url": "https://www.taws.ch/WB.html"
-    },
-    "og_item": {
-      "title": "Sony is buying Bungie for $3.6B",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/JCE4jqp64h2vRQt8vTwKnX-1200-80.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 1200,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://www.pcgamer.com/uk/sony-is-buying-bungie-for-dollar36b/",
-      "audio": [],
-      "description": "The Destiny 2 developer will soon become a PlayStation studio.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "pcgamer",
-      "video": [],
-      "favicon": {
-        "url": "https://vanilla.futurecdn.net/pcgamer/402341/apple-touch-icon.png"
-      }
-    }
-  },
-  {
     "id": 30150021,
     "title": "Slack Having a Partial Outage",
     "url": "https://status.slack.com/2022-01/f7d4da863db0707c",
@@ -2104,17 +2104,17 @@
     }
   },
   {
-    "id": 30148147,
-    "title": "BBC censors its own archives",
-    "url": "https://www.nationalreview.com/2022/01/the-bbc-quietly-censors-its-own-archives/",
-    "time": 1643638884,
-    "image": "https://www.nationalreview.com/wp-content/uploads/2022/01/bbc.jpg?fit=2057%2C1200",
-    "icon": "https://www.nationalreview.com/wp-content/themes/national-review/static/images/favicons/favicon-96x96.png",
-    "publisher": "National Review",
-    "description": "Out of public view, the state-owned broadcaster has been altering old episodes of its shows to make them ‘suitable’ for modern listeners.",
-    "by": "temp8964",
-    "points": 130,
-    "comment_count": 123,
+    "id": 30151765,
+    "title": "Sony is buying Bungie for $3.6B",
+    "url": "https://www.pcgamer.com/uk/sony-is-buying-bungie-for-dollar36b/",
+    "time": 1643653107,
+    "image": "https://cdn.mos.cms.futurecdn.net/JCE4jqp64h2vRQt8vTwKnX-1200-80.jpg",
+    "icon": "https://vanilla.futurecdn.net/pcgamer/402341/apple-touch-icon.png",
+    "publisher": "pcgamer",
+    "description": "The Destiny 2 developer will soon become a PlayStation studio.",
+    "by": "gmemstr",
+    "points": 15,
+    "comment_count": 0,
     "hn_item": {
       "by": "Torwald",
       "descendants": 0,
@@ -2127,28 +2127,68 @@
       "url": "https://www.taws.ch/WB.html"
     },
     "og_item": {
-      "title": "The BBC Quietly Censors Its Own Archives | National Review",
+      "title": "Sony is buying Bungie for $3.6B",
       "type": "article",
       "image": [
         {
-          "url": "https://www.nationalreview.com/wp-content/uploads/2022/01/bbc.jpg?fit=2057%2C1200",
+          "url": "https://cdn.mos.cms.futurecdn.net/JCE4jqp64h2vRQt8vTwKnX-1200-80.jpg",
           "secure_url": "",
           "type": "",
-          "width": 2057,
-          "height": 1200,
+          "width": 1200,
+          "height": 0,
           "alt": ""
         }
       ],
-      "url": "https://www.nationalreview.com/2022/01/the-bbc-quietly-censors-its-own-archives/",
+      "url": "https://www.pcgamer.com/uk/sony-is-buying-bungie-for-dollar36b/",
       "audio": [],
-      "description": "Out of public view, the state-owned broadcaster has been altering old episodes of its shows to make them ‘suitable’ for modern listeners.",
+      "description": "The Destiny 2 developer will soon become a PlayStation studio.",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "National Review",
+      "site_name": "pcgamer",
       "video": [],
       "favicon": {
-        "url": "https://www.nationalreview.com/wp-content/themes/national-review/static/images/favicons/favicon-96x96.png"
+        "url": "https://vanilla.futurecdn.net/pcgamer/402341/apple-touch-icon.png"
+      }
+    }
+  },
+  {
+    "id": 30150877,
+    "title": "Ask HN: Why do adblockers still work?",
+    "url": "https://news.ycombinator.com/item?id=30150877",
+    "time": 1643650348,
+    "image": "",
+    "icon": "https://news.ycombinator.com/favicon.ico",
+    "publisher": "Hacker News",
+    "description": "",
+    "by": "johnsanders",
+    "points": 12,
+    "comment_count": 8,
+    "hn_item": {
+      "by": "Torwald",
+      "descendants": 0,
+      "id": 30148527,
+      "kids": null,
+      "score": 4,
+      "time": 1643640933,
+      "title": "Run a Amiga Workbench simulation in your browser",
+      "type": "story",
+      "url": "https://www.taws.ch/WB.html"
+    },
+    "og_item": {
+      "title": "Ask HN: Why do adblockers still work? | Hacker News",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "favicon.ico"
       }
     }
   },
@@ -2193,46 +2233,6 @@
     }
   },
   {
-    "id": 30150877,
-    "title": "Ask HN: Why do adblockers still work?",
-    "url": "https://news.ycombinator.com/item?id=30150877",
-    "time": 1643650348,
-    "image": "",
-    "icon": "https://news.ycombinator.com/favicon.ico",
-    "publisher": "Hacker News",
-    "description": "",
-    "by": "johnsanders",
-    "points": 11,
-    "comment_count": 8,
-    "hn_item": {
-      "by": "Torwald",
-      "descendants": 0,
-      "id": 30148527,
-      "kids": null,
-      "score": 4,
-      "time": 1643640933,
-      "title": "Run a Amiga Workbench simulation in your browser",
-      "type": "story",
-      "url": "https://www.taws.ch/WB.html"
-    },
-    "og_item": {
-      "title": "Ask HN: Why do adblockers still work? | Hacker News",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30147379,
     "title": "My dishwasher won’t start until I let it update its firmware over the WiFi",
     "url": "https://twitter.com/isislovecruft/status/1487947074901463040",
@@ -2243,7 +2243,7 @@
     "description": "",
     "by": "_Microft",
     "points": 496,
-    "comment_count": 504,
+    "comment_count": 508,
     "hn_item": {
       "by": "Torwald",
       "descendants": 0,
@@ -2323,7 +2323,7 @@
     "description": "Slow ARM CPU almost single-handedly derails an intriguing laptop experiment.",
     "by": "leephillips",
     "points": 77,
-    "comment_count": 21,
+    "comment_count": 22,
     "hn_item": {
       "by": "Torwald",
       "descendants": 0,
@@ -2372,7 +2372,7 @@
     "description": "",
     "by": "laktak",
     "points": 199,
-    "comment_count": 153,
+    "comment_count": 154,
     "hn_item": {
       "by": "Torwald",
       "descendants": 0,
@@ -2386,95 +2386,6 @@
     },
     "og_item": {
       "title": "",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30151923,
-    "title": "Rust: Changes in the Core Team",
-    "url": "https://blog.rust-lang.org/2022/01/31/changes-in-the-core-team.html",
-    "time": 1643653712,
-    "image": "https://www.rust-lang.org/static/images/rust-social-wide.jpg",
-    "icon": "https://blog.rust-lang.org/images/favicon.svg",
-    "publisher": "blog.rust-lang.org",
-    "description": "Empowering everyone to build reliable and efficient software.",
-    "by": "phab",
-    "points": 8,
-    "comment_count": 2,
-    "hn_item": {
-      "by": "Torwald",
-      "descendants": 0,
-      "id": 30148527,
-      "kids": null,
-      "score": 4,
-      "time": 1643640933,
-      "title": "Run a Amiga Workbench simulation in your browser",
-      "type": "story",
-      "url": "https://www.taws.ch/WB.html"
-    },
-    "og_item": {
-      "title": "Changes in the Core Team | Rust Blog",
-      "type": "website",
-      "image": [
-        {
-          "url": "https://www.rust-lang.org/static/images/rust-social-wide.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "",
-      "audio": [],
-      "description": "Empowering everyone to build reliable and efficient software.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/images/favicon.svg"
-      }
-    }
-  },
-  {
-    "id": 30149797,
-    "title": "Internet outage affected nearly 30k people after Oakland fiber cable was shot",
-    "url": "https://www.datacenterdynamics.com/en/news/tens-of-thousands-left-without-internet-as-multiple-bullets-hit-oakland-xfinity-fiber-cable/",
-    "time": 1643646379,
-    "image": "",
-    "icon": "https://www.datacenterdynamics.com/favicon.ico",
-    "publisher": "datacenterdynamics.com",
-    "description": "",
-    "by": "Element_",
-    "points": 73,
-    "comment_count": 105,
-    "hn_item": {
-      "by": "Torwald",
-      "descendants": 0,
-      "id": 30148527,
-      "kids": null,
-      "score": 4,
-      "time": 1643640933,
-      "title": "Run a Amiga Workbench simulation in your browser",
-      "type": "story",
-      "url": "https://www.taws.ch/WB.html"
-    },
-    "og_item": {
-      "title": "Please Wait... | Cloudflare",
       "type": "",
       "image": [],
       "url": "",
@@ -2589,17 +2500,17 @@
     }
   },
   {
-    "id": 30151141,
-    "title": "Ask HN: What are idling first-time home buyers doing?",
-    "url": "https://news.ycombinator.com/item?id=30151141",
-    "time": 1643651149,
-    "image": "",
-    "icon": "https://news.ycombinator.com/favicon.ico",
-    "publisher": "Hacker News",
-    "description": "",
-    "by": "windows2020",
-    "points": 7,
-    "comment_count": 3,
+    "id": 30151923,
+    "title": "Rust: Changes in the Core Team",
+    "url": "https://blog.rust-lang.org/2022/01/31/changes-in-the-core-team.html",
+    "time": 1643653712,
+    "image": "https://www.rust-lang.org/static/images/rust-social-wide.jpg",
+    "icon": "https://blog.rust-lang.org/images/favicon.svg",
+    "publisher": "blog.rust-lang.org",
+    "description": "Empowering everyone to build reliable and efficient software.",
+    "by": "phab",
+    "points": 8,
+    "comment_count": 2,
     "hn_item": {
       "by": "Torwald",
       "descendants": 0,
@@ -2612,7 +2523,56 @@
       "url": "https://www.taws.ch/WB.html"
     },
     "og_item": {
-      "title": "Ask HN: What are idling first-time home buyers doing? | Hacker News",
+      "title": "Changes in the Core Team | Rust Blog",
+      "type": "website",
+      "image": [
+        {
+          "url": "https://www.rust-lang.org/static/images/rust-social-wide.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "",
+      "audio": [],
+      "description": "Empowering everyone to build reliable and efficient software.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/images/favicon.svg"
+      }
+    }
+  },
+  {
+    "id": 30149797,
+    "title": "Internet outage affected nearly 30k people after Oakland fiber cable was shot",
+    "url": "https://www.datacenterdynamics.com/en/news/tens-of-thousands-left-without-internet-as-multiple-bullets-hit-oakland-xfinity-fiber-cable/",
+    "time": 1643646379,
+    "image": "",
+    "icon": "https://www.datacenterdynamics.com/favicon.ico",
+    "publisher": "datacenterdynamics.com",
+    "description": "",
+    "by": "Element_",
+    "points": 73,
+    "comment_count": 107,
+    "hn_item": {
+      "by": "Torwald",
+      "descendants": 0,
+      "id": 30148527,
+      "kids": null,
+      "score": 4,
+      "time": 1643640933,
+      "title": "Run a Amiga Workbench simulation in your browser",
+      "type": "story",
+      "url": "https://www.taws.ch/WB.html"
+    },
+    "og_item": {
+      "title": "Please Wait... | Cloudflare",
       "type": "",
       "image": [],
       "url": "",
@@ -2624,7 +2584,56 @@
       "site_name": "",
       "video": [],
       "favicon": {
-        "url": "favicon.ico"
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30150243,
+    "title": "Anarchists Are Building DIY Heaters to Keep Unhoused People Warm",
+    "url": "https://www.vice.com/en/article/n7nd5x/anarchists-are-building-diy-heaters-to-keep-unhoused-people-warm",
+    "time": 1643648262,
+    "image": "https://video-images.vice.com/articles/61f4492de1de8b0094f60b31/lede/1643399791383-signal-2022-01-27-192920001.jpeg?image-resize-opts=Y3JvcD0wLjk3NDF4dzowLjgyMDZ4aDswLjAyNTl4dywwLjA3MzJ4aCZyZXNpemU9MTIwMDoqJnJlc2l6ZT0xMjAwOio",
+    "icon": "https://vice-web-statics-cdn.vice.com/favicons/vice/favicon-16x16.png",
+    "publisher": "Vice",
+    "description": "Open-source blueprints are inspiring activists to distribute tent-safe heaters that can be built for as little as $7.",
+    "by": "Victerius",
+    "points": 16,
+    "comment_count": 4,
+    "hn_item": {
+      "by": "Torwald",
+      "descendants": 0,
+      "id": 30148527,
+      "kids": null,
+      "score": 4,
+      "time": 1643640933,
+      "title": "Run a Amiga Workbench simulation in your browser",
+      "type": "story",
+      "url": "https://www.taws.ch/WB.html"
+    },
+    "og_item": {
+      "title": "Anarchists are Building DIY Heaters to Keep Unhoused People Warm ",
+      "type": "website",
+      "image": [
+        {
+          "url": "https://video-images.vice.com/articles/61f4492de1de8b0094f60b31/lede/1643399791383-signal-2022-01-27-192920001.jpeg?image-resize-opts=Y3JvcD0wLjk3NDF4dzowLjgyMDZ4aDswLjAyNTl4dywwLjA3MzJ4aCZyZXNpemU9MTIwMDoqJnJlc2l6ZT0xMjAwOio",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://www.vice.com/en/article/n7nd5x/anarchists-are-building-diy-heaters-to-keep-unhoused-people-warm",
+      "audio": [],
+      "description": "Open-source blueprints are inspiring activists to distribute tent-safe heaters that can be built for as little as $7.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "https://vice-web-statics-cdn.vice.com/favicons/vice/favicon-16x16.png"
       }
     }
   },
@@ -2669,16 +2678,16 @@
     }
   },
   {
-    "id": 30150243,
-    "title": "Anarchists Are Building DIY Heaters to Keep Unhoused People Warm",
-    "url": "https://www.vice.com/en/article/n7nd5x/anarchists-are-building-diy-heaters-to-keep-unhoused-people-warm",
-    "time": 1643648262,
-    "image": "https://video-images.vice.com/articles/61f4492de1de8b0094f60b31/lede/1643399791383-signal-2022-01-27-192920001.jpeg?image-resize-opts=Y3JvcD0wLjk3NDF4dzowLjgyMDZ4aDswLjAyNTl4dywwLjA3MzJ4aCZyZXNpemU9MTIwMDoqJnJlc2l6ZT0xMjAwOio",
-    "icon": "https://vice-web-statics-cdn.vice.com/favicons/vice/favicon-16x16.png",
-    "publisher": "Vice",
-    "description": "Open-source blueprints are inspiring activists to distribute tent-safe heaters that can be built for as little as $7.",
-    "by": "Victerius",
-    "points": 15,
+    "id": 30151141,
+    "title": "Ask HN: What are idling first-time home buyers doing?",
+    "url": "https://news.ycombinator.com/item?id=30151141",
+    "time": 1643651149,
+    "image": "",
+    "icon": "https://news.ycombinator.com/favicon.ico",
+    "publisher": "Hacker News",
+    "description": "",
+    "by": "windows2020",
+    "points": 7,
     "comment_count": 4,
     "hn_item": {
       "by": "Torwald",
@@ -2692,28 +2701,19 @@
       "url": "https://www.taws.ch/WB.html"
     },
     "og_item": {
-      "title": "Anarchists are Building DIY Heaters to Keep Unhoused People Warm ",
-      "type": "website",
-      "image": [
-        {
-          "url": "https://video-images.vice.com/articles/61f4492de1de8b0094f60b31/lede/1643399791383-signal-2022-01-27-192920001.jpeg?image-resize-opts=Y3JvcD0wLjk3NDF4dzowLjgyMDZ4aDswLjAyNTl4dywwLjA3MzJ4aCZyZXNpemU9MTIwMDoqJnJlc2l6ZT0xMjAwOio",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://www.vice.com/en/article/n7nd5x/anarchists-are-building-diy-heaters-to-keep-unhoused-people-warm",
+      "title": "Ask HN: What are idling first-time home buyers doing? | Hacker News",
+      "type": "",
+      "image": [],
+      "url": "",
       "audio": [],
-      "description": "Open-source blueprints are inspiring activists to distribute tent-safe heaters that can be built for as little as $7.",
+      "description": "",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
       "site_name": "",
       "video": [],
       "favicon": {
-        "url": "https://vice-web-statics-cdn.vice.com/favicons/vice/favicon-16x16.png"
+        "url": "favicon.ico"
       }
     }
   },
@@ -2962,55 +2962,6 @@
     }
   },
   {
-    "id": 30150803,
-    "title": "Workplace Disruption Reported at Meta Amid AR and VR Push",
-    "url": "https://www.macrumors.com/2022/01/31/workplace-disruption-at-meta-amid-ar-and-vr-push/",
-    "time": 1643650143,
-    "image": "https://images.macrumors.com/t/TFBkuLDX0tRnNFK6I0jzhGrAjiA=/1600x/article-new/2021/10/facebook-meta.jpg",
-    "icon": "https://images.macrumors.com/images-new/favicon-16x16.png",
-    "publisher": "MacRumors",
-    "description": "Some Meta employees are being aggressively pushed to apply for other jobs at the company and embrace the recent drive toward augmented reality (AR)...",
-    "by": "anonymousab",
-    "points": 5,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "Torwald",
-      "descendants": 0,
-      "id": 30148527,
-      "kids": null,
-      "score": 4,
-      "time": 1643640933,
-      "title": "Run a Amiga Workbench simulation in your browser",
-      "type": "story",
-      "url": "https://www.taws.ch/WB.html"
-    },
-    "og_item": {
-      "title": "Workplace Disruption Reported at Meta Amid AR and VR Push, Some Staff Defecting to Competitors Like Apple",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://images.macrumors.com/t/TFBkuLDX0tRnNFK6I0jzhGrAjiA=/1600x/article-new/2021/10/facebook-meta.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 1600,
-          "height": 900,
-          "alt": ""
-        }
-      ],
-      "url": "https://www.macrumors.com/2022/01/31/workplace-disruption-at-meta-amid-ar-and-vr-push/",
-      "audio": [],
-      "description": "Some Meta employees are being aggressively pushed to apply for other jobs at the company and embrace the recent drive toward augmented reality (AR)...",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "MacRumors",
-      "video": [],
-      "favicon": {
-        "url": "https://images.macrumors.com/images-new/favicon-16x16.png"
-      }
-    }
-  },
-  {
     "id": 30128193,
     "title": "On Immersion",
     "url": "https://blog.laurel.world/on-immersion/",
@@ -3061,7 +3012,7 @@
     "description": "The Online Information Environment report discusses how to limit the harm of scientific misinformation online",
     "by": "steelstraw",
     "points": 961,
-    "comment_count": 855,
+    "comment_count": 857,
     "hn_item": {
       "by": "Torwald",
       "descendants": 0,
@@ -3096,6 +3047,55 @@
       "video": [],
       "favicon": {
         "url": "/images/Main/favIcon.ico"
+      }
+    }
+  },
+  {
+    "id": 30150803,
+    "title": "Workplace Disruption Reported at Meta Amid AR and VR Push",
+    "url": "https://www.macrumors.com/2022/01/31/workplace-disruption-at-meta-amid-ar-and-vr-push/",
+    "time": 1643650143,
+    "image": "https://images.macrumors.com/t/TFBkuLDX0tRnNFK6I0jzhGrAjiA=/1600x/article-new/2021/10/facebook-meta.jpg",
+    "icon": "https://images.macrumors.com/images-new/favicon-16x16.png",
+    "publisher": "MacRumors",
+    "description": "Some Meta employees are being aggressively pushed to apply for other jobs at the company and embrace the recent drive toward augmented reality (AR)...",
+    "by": "anonymousab",
+    "points": 5,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "Torwald",
+      "descendants": 0,
+      "id": 30148527,
+      "kids": null,
+      "score": 4,
+      "time": 1643640933,
+      "title": "Run a Amiga Workbench simulation in your browser",
+      "type": "story",
+      "url": "https://www.taws.ch/WB.html"
+    },
+    "og_item": {
+      "title": "Workplace Disruption Reported at Meta Amid AR and VR Push, Some Staff Defecting to Competitors Like Apple",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://images.macrumors.com/t/TFBkuLDX0tRnNFK6I0jzhGrAjiA=/1600x/article-new/2021/10/facebook-meta.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 1600,
+          "height": 900,
+          "alt": ""
+        }
+      ],
+      "url": "https://www.macrumors.com/2022/01/31/workplace-disruption-at-meta-amid-ar-and-vr-push/",
+      "audio": [],
+      "description": "Some Meta employees are being aggressively pushed to apply for other jobs at the company and embrace the recent drive toward augmented reality (AR)...",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "MacRumors",
+      "video": [],
+      "favicon": {
+        "url": "https://images.macrumors.com/images-new/favicon-16x16.png"
       }
     }
   },
