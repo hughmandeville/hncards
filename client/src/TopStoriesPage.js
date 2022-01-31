@@ -14,17 +14,24 @@ const TopStoriesPage = () => {
     hnURL = '/hnui/hn_topstories.json';
   }
 
+  // NOTE: set empty second parameter in useEffect so doesn't calling fetch over and over.
   useEffect(() => {
+    fetchData();
+  }, []);
+
+  const fetchData = () => {
+    console.log("fetching data")
     fetch(hnURL)
-      .then(response => response.json())
-      .then(items => {
-        setItems(items);
-      })
-      .catch(error => {
-        console.log('Error:', error);
-        setError(error);
-      });
-  });
+    .then(response => response.json())
+    .then(items => {
+      console.log("Fetched Hacker News data: ", items);
+      setItems(items);
+    })
+    .catch(error => {
+      console.log('Error fetching Hacker News data: ', error);
+      setError(error);
+    });
+  }
 
   return (
     <div id="ts-page">
