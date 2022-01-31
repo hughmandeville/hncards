@@ -9,20 +9,25 @@
     "publisher": "royalsociety.org",
     "description": "The Online Information Environment report discusses how to limit the harm of scientific misinformation online",
     "by": "steelstraw",
-    "points": 425,
-    "comment_count": 38,
+    "points": 436,
+    "comment_count": 39,
     "hn_item": {
-      "by": "jordigh",
-      "descendants": 1,
-      "id": 30141063,
+      "by": "doener",
+      "descendants": 24,
+      "id": 30125730,
       "kids": [
-        30143696
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
       ],
-      "score": 6,
-      "time": 1643576644,
-      "title": "Recovering Nintendo’s Lost SimCity for the NES",
+      "score": 50,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
       "type": "story",
-      "url": "https://gamehistory.org/simcity/"
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
     },
     "og_item": {
       "title": "Royal Society cautions against censorship of scientific misinformation online | Royal Society",
@@ -51,6 +56,53 @@
     }
   },
   {
+    "id": 30137984,
+    "title": "Show HN: Web page that parses and explains the label on a bike tire",
+    "url": "https://fahrrad-tools.de/tire.html",
+    "time": 1643556717,
+    "image": "",
+    "icon": "https://fahrrad-tools.de/tire.html/icon.png",
+    "publisher": "fahrrad-tools.de",
+    "description": "Which tire fits my bike? Tires are always flat and now buy a tire with puncture protection? Find the right tire now!",
+    "by": "moasda",
+    "points": 524,
+    "comment_count": 36,
+    "hn_item": {
+      "by": "doener",
+      "descendants": 24,
+      "id": 30125730,
+      "kids": [
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
+      ],
+      "score": 50,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
+      "type": "story",
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+    },
+    "og_item": {
+      "title": "Bike Tire | Fahrrad-Tools.de",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "Which tire fits my bike? Tires are always flat and now buy a tire with puncture protection? Find the right tire now!",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "icon.png"
+      }
+    }
+  },
+  {
     "id": 30143946,
     "title": "Mesmerizing Labor",
     "url": "https://daily.jstor.org/mesmerizing-labor/",
@@ -60,20 +112,25 @@
     "publisher": "JSTOR Daily",
     "description": "The man who introduced mesmerism to the US was a slave-owner from Guadeloupe, where planters were experimenting with “magnetizing” their enslaved people.",
     "by": "onychomys",
-    "points": 11,
+    "points": 12,
     "comment_count": 0,
     "hn_item": {
-      "by": "jordigh",
-      "descendants": 1,
-      "id": 30141063,
+      "by": "doener",
+      "descendants": 24,
+      "id": 30125730,
       "kids": [
-        30143696
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
       ],
-      "score": 6,
-      "time": 1643576644,
-      "title": "Recovering Nintendo’s Lost SimCity for the NES",
+      "score": 50,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
       "type": "story",
-      "url": "https://gamehistory.org/simcity/"
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
     },
     "og_item": {
       "title": "Mesmerizing Labor - JSTOR Daily",
@@ -102,48 +159,6 @@
     }
   },
   {
-    "id": 30137984,
-    "title": "Show HN: Web page that parses and explains the label on a bike tire",
-    "url": "https://fahrrad-tools.de/tire.html",
-    "time": 1643556717,
-    "image": "",
-    "icon": "https://fahrrad-tools.de/tire.html/icon.png",
-    "publisher": "fahrrad-tools.de",
-    "description": "Which tire fits my bike? Tires are always flat and now buy a tire with puncture protection? Find the right tire now!",
-    "by": "moasda",
-    "points": 521,
-    "comment_count": 36,
-    "hn_item": {
-      "by": "jordigh",
-      "descendants": 1,
-      "id": 30141063,
-      "kids": [
-        30143696
-      ],
-      "score": 6,
-      "time": 1643576644,
-      "title": "Recovering Nintendo’s Lost SimCity for the NES",
-      "type": "story",
-      "url": "https://gamehistory.org/simcity/"
-    },
-    "og_item": {
-      "title": "Bike Tire | Fahrrad-Tools.de",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "Which tire fits my bike? Tires are always flat and now buy a tire with puncture protection? Find the right tire now!",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "icon.png"
-      }
-    }
-  },
-  {
     "id": 30140835,
     "title": "Hardy, Ramanujan and Taxi No. 1729",
     "url": "https://johncarlosbaez.wordpress.com/2022/01/30/hardy-ramanujan-and-taxi-no-1729/",
@@ -153,20 +168,25 @@
     "publisher": "Azimuth",
     "description": "In his book Ramanujan: Twelve Lectures on Subjects Suggested by His Life and Work, G. H. Hardy tells this famous story: He could remember the idiosyncracies of numbers in an almost uncanny way. It …",
     "by": "johncarlosbaez",
-    "points": 47,
-    "comment_count": 5,
+    "points": 50,
+    "comment_count": 6,
     "hn_item": {
-      "by": "jordigh",
-      "descendants": 1,
-      "id": 30141063,
+      "by": "doener",
+      "descendants": 24,
+      "id": 30125730,
       "kids": [
-        30143696
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
       ],
-      "score": 6,
-      "time": 1643576644,
-      "title": "Recovering Nintendo’s Lost SimCity for the NES",
+      "score": 50,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
       "type": "story",
-      "url": "https://gamehistory.org/simcity/"
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
     },
     "og_item": {
       "title": "Hardy, Ramanujan and Taxi No. 1729",
@@ -204,20 +224,25 @@
     "publisher": "ByteofDev",
     "description": "Static Site Generators have been changing quickly with new trends like Jamstack. Learn more about the background of static site generators, why people use them, and the current state of them, with information on modern SSGs like Eleventy, Next.js, SvelteKit, and Astro.",
     "by": "AsyncBanana",
-    "points": 31,
-    "comment_count": 6,
+    "points": 33,
+    "comment_count": 7,
     "hn_item": {
-      "by": "jordigh",
-      "descendants": 1,
-      "id": 30141063,
+      "by": "doener",
+      "descendants": 24,
+      "id": 30125730,
       "kids": [
-        30143696
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
       ],
-      "score": 6,
-      "time": 1643576644,
-      "title": "Recovering Nintendo’s Lost SimCity for the NES",
+      "score": 50,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
       "type": "story",
-      "url": "https://gamehistory.org/simcity/"
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
     },
     "og_item": {
       "title": "State of the Web: Static Site Generators",
@@ -246,6 +271,53 @@
     }
   },
   {
+    "id": 30138533,
+    "title": "Hypercard Simulator",
+    "url": "https://hypercardsimulator.com/",
+    "time": 1643560248,
+    "image": "",
+    "icon": "https://hypercardsimulator.com/favicon.ico",
+    "publisher": "hypercardsimulator.com",
+    "description": "",
+    "by": "alexmingoia",
+    "points": 197,
+    "comment_count": 13,
+    "hn_item": {
+      "by": "doener",
+      "descendants": 24,
+      "id": 30125730,
+      "kids": [
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
+      ],
+      "score": 50,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
+      "type": "story",
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+    },
+    "og_item": {
+      "title": "HyperCardSimulator",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30141439,
     "title": "Operation Warp Speed: A new model for industrial policy",
     "url": "https://americanaffairsjournal.org/2021/05/inside-operation-warp-speed-a-new-model-for-industrial-policy/",
@@ -258,17 +330,22 @@
     "points": 80,
     "comment_count": 5,
     "hn_item": {
-      "by": "jordigh",
-      "descendants": 1,
-      "id": 30141063,
+      "by": "doener",
+      "descendants": 24,
+      "id": 30125730,
       "kids": [
-        30143696
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
       ],
-      "score": 6,
-      "time": 1643576644,
-      "title": "Recovering Nintendo’s Lost SimCity for the NES",
+      "score": 50,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
       "type": "story",
-      "url": "https://gamehistory.org/simcity/"
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
     },
     "og_item": {
       "title": "Inside Operation Warp Speed: A New Model for Industrial Policy - American Affairs Journal",
@@ -297,37 +374,98 @@
     }
   },
   {
-    "id": 30138533,
-    "title": "Hypercard Simulator",
-    "url": "https://hypercardsimulator.com/",
-    "time": 1643560248,
+    "id": 30141278,
+    "title": "The Story of Maxis Software (1999)",
+    "url": "https://web.archive.org/web/19991012021220/http://gamespot.com/features/maxis/index.html",
+    "time": 1643577913,
     "image": "",
-    "icon": "https://hypercardsimulator.com/favicon.ico",
-    "publisher": "hypercardsimulator.com",
+    "icon": "https://web.archive.org/favicon.ico",
+    "publisher": "web.archive.org",
     "description": "",
-    "by": "alexmingoia",
-    "points": 195,
-    "comment_count": 13,
+    "by": "ecliptik",
+    "points": 74,
+    "comment_count": 7,
     "hn_item": {
-      "by": "jordigh",
-      "descendants": 1,
-      "id": 30141063,
+      "by": "doener",
+      "descendants": 24,
+      "id": 30125730,
       "kids": [
-        30143696
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
       ],
-      "score": 6,
-      "time": 1643576644,
-      "title": "Recovering Nintendo’s Lost SimCity for the NES",
+      "score": 50,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
       "type": "story",
-      "url": "https://gamehistory.org/simcity/"
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
     },
     "og_item": {
-      "title": "HyperCardSimulator",
+      "title": "GameSpot's SIMply Divine: The Story of Maxis Software",
       "type": "",
       "image": [],
       "url": "",
       "audio": [],
       "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30144108,
+    "title": "Reimagining Chess with AlphaZero",
+    "url": "https://cacm.acm.org/magazines/2022/2/258230-reimagining-chess-with-alphazero/fulltext",
+    "time": 1643599537,
+    "image": "https://cacm.acm.org/system/assets/0004/2100/012022_CACMpg1_Reimagining-Chess1.large.jpg?1642700035\u00261642700035",
+    "icon": "https://cacm.acm.org/favicon.ico",
+    "publisher": "cacm.acm.org",
+    "description": "AI is driving the next evolution of chess, giving players a glimpse into the game\u0026#39;s future.",
+    "by": "joak",
+    "points": 4,
+    "comment_count": 1,
+    "hn_item": {
+      "by": "doener",
+      "descendants": 24,
+      "id": 30125730,
+      "kids": [
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
+      ],
+      "score": 50,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
+      "type": "story",
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+    },
+    "og_item": {
+      "title": "Reimagining Chess with AlphaZero",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://cacm.acm.org/system/assets/0004/2100/012022_CACMpg1_Reimagining-Chess1.large.jpg?1642700035\u00261642700035",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://cacm.acm.org/magazines/2022/2/258230-reimagining-chess-with-alphazero/fulltext",
+      "audio": [],
+      "description": "AI is driving the next evolution of chess, giving players a glimpse into the game\u0026#39;s future.\n",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
@@ -348,20 +486,25 @@
     "publisher": "Physics",
     "description": "The pattern of green and black scales on an ocellated lizard can be described with the two-parameter Ising model for antiferromagnetic systems.",
     "by": "shusaku",
-    "points": 14,
+    "points": 15,
     "comment_count": 3,
     "hn_item": {
-      "by": "jordigh",
-      "descendants": 1,
-      "id": 30141063,
+      "by": "doener",
+      "descendants": 24,
+      "id": 30125730,
       "kids": [
-        30143696
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
       ],
-      "score": 6,
-      "time": 1643576644,
-      "title": "Recovering Nintendo’s Lost SimCity for the NES",
+      "score": 50,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
       "type": "story",
-      "url": "https://gamehistory.org/simcity/"
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
     },
     "og_item": {
       "title": "Lizard Scale Patterns Described with Antiferromagnetic Model",
@@ -390,48 +533,6 @@
     }
   },
   {
-    "id": 30141278,
-    "title": "The Story of Maxis Software (1999)",
-    "url": "https://web.archive.org/web/19991012021220/http://gamespot.com/features/maxis/index.html",
-    "time": 1643577913,
-    "image": "",
-    "icon": "https://web.archive.org/favicon.ico",
-    "publisher": "web.archive.org",
-    "description": "",
-    "by": "ecliptik",
-    "points": 70,
-    "comment_count": 6,
-    "hn_item": {
-      "by": "jordigh",
-      "descendants": 1,
-      "id": 30141063,
-      "kids": [
-        30143696
-      ],
-      "score": 6,
-      "time": 1643576644,
-      "title": "Recovering Nintendo’s Lost SimCity for the NES",
-      "type": "story",
-      "url": "https://gamehistory.org/simcity/"
-    },
-    "og_item": {
-      "title": "GameSpot's SIMply Divine: The Story of Maxis Software",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30134367,
     "title": "The case of the mysterious --help directory (2020)",
     "url": "https://leahneukirchen.org/blog/archive/2020/05/the-case-of-the-mysterious-help-directory.html",
@@ -441,20 +542,25 @@
     "publisher": "leahneukirchen.org",
     "description": "",
     "by": "panic",
-    "points": 119,
+    "points": 121,
     "comment_count": 10,
     "hn_item": {
-      "by": "jordigh",
-      "descendants": 1,
-      "id": 30141063,
+      "by": "doener",
+      "descendants": 24,
+      "id": 30125730,
       "kids": [
-        30143696
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
       ],
-      "score": 6,
-      "time": 1643576644,
-      "title": "Recovering Nintendo’s Lost SimCity for the NES",
+      "score": 50,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
       "type": "story",
-      "url": "https://gamehistory.org/simcity/"
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
     },
     "og_item": {
       "title": "leah blogs: The case of the mysterious --help directory",
@@ -474,48 +580,6 @@
     }
   },
   {
-    "id": 30140984,
-    "title": "A UX designer walks into a Tesla Bar",
-    "url": "https://jenson.org/tesla/",
-    "time": 1643576121,
-    "image": "",
-    "icon": "https://jenson.org/wp-content/uploads/2015/09/out-200x200.png",
-    "publisher": "jenson.org",
-    "description": "",
-    "by": "radley",
-    "points": 590,
-    "comment_count": 89,
-    "hn_item": {
-      "by": "jordigh",
-      "descendants": 1,
-      "id": 30141063,
-      "kids": [
-        30143696
-      ],
-      "score": 6,
-      "time": 1643576644,
-      "title": "Recovering Nintendo’s Lost SimCity for the NES",
-      "type": "story",
-      "url": "https://gamehistory.org/simcity/"
-    },
-    "og_item": {
-      "title": "A UX designer walks into a Tesla Bar – Scott Jenson",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "https://jenson.org/wp-content/uploads/2015/09/out-200x200.png"
-      }
-    }
-  },
-  {
     "id": 30143587,
     "title": "Ylang: Universal Language for eBPF, Stap+, GDB, and More (2021)",
     "url": "https://blog.openresty.com/en/ylang-intro-part4/",
@@ -525,20 +589,25 @@
     "publisher": "blog.openresty.com",
     "description": "Transparent Container Tracing Efficient Stack Unwinding Analyzing Dead Processes (Core Dumps) Very Low Tracing Overhead Standard Ylang Libraries \u0026amp; Tools Network Filtering \u0026amp; Control The Ylang Compiler\u0026rsquo;s Implementation Operating System Support Contributions to Open-Source Communities",
     "by": "walterbell",
-    "points": 13,
+    "points": 14,
     "comment_count": 2,
     "hn_item": {
-      "by": "jordigh",
-      "descendants": 1,
-      "id": 30141063,
+      "by": "doener",
+      "descendants": 24,
+      "id": 30125730,
       "kids": [
-        30143696
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
       ],
-      "score": 6,
-      "time": 1643576644,
-      "title": "Recovering Nintendo’s Lost SimCity for the NES",
+      "score": 50,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
       "type": "story",
-      "url": "https://gamehistory.org/simcity/"
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
     },
     "og_item": {
       "title": "Ylang: Universal Language for eBPF, Stap+, GDB, and More (Part 4) - OpenResty Official Blog",
@@ -558,6 +627,100 @@
     }
   },
   {
+    "id": 30141605,
+    "title": "Evolution Gym: A Large-Scale Benchmark for Evolving Soft Robots",
+    "url": "https://evolutiongym.github.io/",
+    "time": 1643580102,
+    "image": "",
+    "icon": "https://evolutiongym.github.io/favicon.ico",
+    "publisher": "EvoGym",
+    "description": "Evolution Gym is a toolkit for developing and comparing algorithms for co-optimizing design and control.",
+    "by": "homarp",
+    "points": 7,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "doener",
+      "descendants": 24,
+      "id": 30125730,
+      "kids": [
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
+      ],
+      "score": 50,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
+      "type": "story",
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+    },
+    "og_item": {
+      "title": "Home",
+      "type": "",
+      "image": [],
+      "url": "https://evolutiongym.github.io/",
+      "audio": [],
+      "description": "Evolution Gym is a toolkit for developing and comparing algorithms for co-optimizing design and control.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "EvoGym",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30140984,
+    "title": "A UX designer walks into a Tesla Bar",
+    "url": "https://jenson.org/tesla/",
+    "time": 1643576121,
+    "image": "",
+    "icon": "https://jenson.org/wp-content/uploads/2015/09/out-200x200.png",
+    "publisher": "jenson.org",
+    "description": "",
+    "by": "radley",
+    "points": 597,
+    "comment_count": 90,
+    "hn_item": {
+      "by": "doener",
+      "descendants": 24,
+      "id": 30125730,
+      "kids": [
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
+      ],
+      "score": 50,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
+      "type": "story",
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+    },
+    "og_item": {
+      "title": "A UX designer walks into a Tesla Bar – Scott Jenson",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "https://jenson.org/wp-content/uploads/2015/09/out-200x200.png"
+      }
+    }
+  },
+  {
     "id": 30141192,
     "title": "Don't forget Microsoft",
     "url": "https://luttig.substack.com/p/dont-forget-microsoft",
@@ -567,20 +730,25 @@
     "publisher": "luttig.substack.com",
     "description": "Understanding the behemoth in Redmond teaches us valuable lessons in cloud infrastructure, startup strategy, and the future of software.",
     "by": "SamvitJ",
-    "points": 179,
-    "comment_count": 40,
+    "points": 186,
+    "comment_count": 41,
     "hn_item": {
-      "by": "jordigh",
-      "descendants": 1,
-      "id": 30141063,
+      "by": "doener",
+      "descendants": 24,
+      "id": 30125730,
       "kids": [
-        30143696
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
       ],
-      "score": 6,
-      "time": 1643576644,
-      "title": "Recovering Nintendo’s Lost SimCity for the NES",
+      "score": 50,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
       "type": "story",
-      "url": "https://gamehistory.org/simcity/"
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
     },
     "og_item": {
       "title": "Don’t forget Microsoft",
@@ -618,20 +786,25 @@
     "publisher": "Vice",
     "description": "The Great Unconformity has baffled geologists for a century. New research points to glaciers being the culprit.",
     "by": "cbkeller",
-    "points": 66,
+    "points": 67,
     "comment_count": 4,
     "hn_item": {
-      "by": "jordigh",
-      "descendants": 1,
-      "id": 30141063,
+      "by": "doener",
+      "descendants": 24,
+      "id": 30125730,
       "kids": [
-        30143696
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
       ],
-      "score": 6,
-      "time": 1643576644,
-      "title": "Recovering Nintendo’s Lost SimCity for the NES",
+      "score": 50,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
       "type": "story",
-      "url": "https://gamehistory.org/simcity/"
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
     },
     "og_item": {
       "title": "A Billion Years of Time Are Mysteriously Missing. Scientists Think They Know Why.",
@@ -672,17 +845,22 @@
     "points": 175,
     "comment_count": 21,
     "hn_item": {
-      "by": "jordigh",
-      "descendants": 1,
-      "id": 30141063,
+      "by": "doener",
+      "descendants": 24,
+      "id": 30125730,
       "kids": [
-        30143696
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
       ],
-      "score": 6,
-      "time": 1643576644,
-      "title": "Recovering Nintendo’s Lost SimCity for the NES",
+      "score": 50,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
       "type": "story",
-      "url": "https://gamehistory.org/simcity/"
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
     },
     "og_item": {
       "title": "GitHub - beancount/beancount: Beancount: Double-Entry Accounting from Text Files.",
@@ -711,48 +889,6 @@
     }
   },
   {
-    "id": 30142105,
-    "title": "Seattle Telecommunications History Museum",
-    "url": "https://www.telcomhistory.org/connections-museum-seattle/",
-    "time": 1643583232,
-    "image": "",
-    "icon": "https://www.telcomhistory.org/favicon.ico",
-    "publisher": "telcomhistory.org",
-    "description": "",
-    "by": "basementcat",
-    "points": 34,
-    "comment_count": 4,
-    "hn_item": {
-      "by": "jordigh",
-      "descendants": 1,
-      "id": 30141063,
-      "kids": [
-        30143696
-      ],
-      "score": 6,
-      "time": 1643576644,
-      "title": "Recovering Nintendo’s Lost SimCity for the NES",
-      "type": "story",
-      "url": "https://gamehistory.org/simcity/"
-    },
-    "og_item": {
-      "title": "403 Forbidden",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30122128,
     "title": "Sega quits arcade business after 50 years",
     "url": "https://www.eurogamer.net/articles/2022-01-28-sega-quits-japanese-arcade-business-after-50-years",
@@ -762,20 +898,25 @@
     "publisher": "Eurogamer.net",
     "description": "",
     "by": "atombender",
-    "points": 215,
+    "points": 217,
     "comment_count": 24,
     "hn_item": {
-      "by": "jordigh",
-      "descendants": 1,
-      "id": 30141063,
+      "by": "doener",
+      "descendants": 24,
+      "id": 30125730,
       "kids": [
-        30143696
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
       ],
-      "score": 6,
-      "time": 1643576644,
-      "title": "Recovering Nintendo’s Lost SimCity for the NES",
+      "score": 50,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
       "type": "story",
-      "url": "https://gamehistory.org/simcity/"
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
     },
     "og_item": {
       "title": "Sega quits Japanese arcade business after 50 years",
@@ -804,57 +945,6 @@
     }
   },
   {
-    "id": 30119925,
-    "title": "Message in a bottle from Scottish girl found in Norway after 25 years",
-    "url": "https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-60121185",
-    "time": 1643401844,
-    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/16512/production/_123001419_joanna2.jpg",
-    "icon": "https://www.bbc.co.uk/favicon.ico",
-    "publisher": "BBC News",
-    "description": "The bottle Joanna Buchan dropped in the sea at Peterhead when she was eight has washed up in Norway.",
-    "by": "LinuxBender",
-    "points": 83,
-    "comment_count": 9,
-    "hn_item": {
-      "by": "jordigh",
-      "descendants": 1,
-      "id": 30141063,
-      "kids": [
-        30143696
-      ],
-      "score": 6,
-      "time": 1643576644,
-      "title": "Recovering Nintendo’s Lost SimCity for the NES",
-      "type": "story",
-      "url": "https://gamehistory.org/simcity/"
-    },
-    "og_item": {
-      "title": "Message in a bottle from Scottish girl found in Norway after 25 years",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/16512/production/_123001419_joanna2.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://www.bbc.com/news/uk-scotland-north-east-orkney-shetland-60121185",
-      "audio": [],
-      "description": "The bottle Joanna Buchan dropped in the sea at Peterhead when she was eight has washed up in Norway.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "BBC News",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30141022,
     "title": "BuildZoom (better way to build custom homes) Is hiring a Principal Engineer",
     "url": "https://jobs.lever.co/buildzoom",
@@ -867,17 +957,22 @@
     "points": 1,
     "comment_count": 0,
     "hn_item": {
-      "by": "jordigh",
-      "descendants": 1,
-      "id": 30141063,
+      "by": "doener",
+      "descendants": 24,
+      "id": 30125730,
       "kids": [
-        30143696
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
       ],
-      "score": 6,
-      "time": 1643576644,
-      "title": "Recovering Nintendo’s Lost SimCity for the NES",
+      "score": 50,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
       "type": "story",
-      "url": "https://gamehistory.org/simcity/"
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
     },
     "og_item": {
       "title": "BuildZoom jobs",
@@ -906,6 +1001,109 @@
     }
   },
   {
+    "id": 30142105,
+    "title": "Seattle Telecommunications History Museum",
+    "url": "https://www.telcomhistory.org/connections-museum-seattle/",
+    "time": 1643583232,
+    "image": "",
+    "icon": "https://www.telcomhistory.org/favicon.ico",
+    "publisher": "telcomhistory.org",
+    "description": "",
+    "by": "basementcat",
+    "points": 34,
+    "comment_count": 4,
+    "hn_item": {
+      "by": "doener",
+      "descendants": 24,
+      "id": 30125730,
+      "kids": [
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
+      ],
+      "score": 50,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
+      "type": "story",
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+    },
+    "og_item": {
+      "title": "403 Forbidden",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30119925,
+    "title": "Message in a bottle from Scottish girl found in Norway after 25 years",
+    "url": "https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-60121185",
+    "time": 1643401844,
+    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/16512/production/_123001419_joanna2.jpg",
+    "icon": "https://www.bbc.co.uk/favicon.ico",
+    "publisher": "BBC News",
+    "description": "The bottle Joanna Buchan dropped in the sea at Peterhead when she was eight has washed up in Norway.",
+    "by": "LinuxBender",
+    "points": 84,
+    "comment_count": 9,
+    "hn_item": {
+      "by": "doener",
+      "descendants": 24,
+      "id": 30125730,
+      "kids": [
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
+      ],
+      "score": 50,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
+      "type": "story",
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+    },
+    "og_item": {
+      "title": "Message in a bottle from Scottish girl found in Norway after 25 years",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/16512/production/_123001419_joanna2.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://www.bbc.com/news/uk-scotland-north-east-orkney-shetland-60121185",
+      "audio": [],
+      "description": "The bottle Joanna Buchan dropped in the sea at Peterhead when she was eight has washed up in Norway.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "BBC News",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30137681,
     "title": "In defence of the boring web",
     "url": "https://bastian.rieck.me/blog/posts/2022/boring/",
@@ -915,20 +1113,25 @@
     "publisher": "bastian.rieck.me",
     "description": "",
     "by": "Topolomancer",
-    "points": 180,
-    "comment_count": 21,
+    "points": 183,
+    "comment_count": 22,
     "hn_item": {
-      "by": "jordigh",
-      "descendants": 1,
-      "id": 30141063,
+      "by": "doener",
+      "descendants": 24,
+      "id": 30125730,
       "kids": [
-        30143696
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
       ],
-      "score": 6,
-      "time": 1643576644,
-      "title": "Recovering Nintendo’s Lost SimCity for the NES",
+      "score": 50,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
       "type": "story",
-      "url": "https://gamehistory.org/simcity/"
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
     },
     "og_item": {
       "title": "In Defence of the Boring Web",
@@ -960,17 +1163,22 @@
     "points": 76,
     "comment_count": 12,
     "hn_item": {
-      "by": "jordigh",
-      "descendants": 1,
-      "id": 30141063,
+      "by": "doener",
+      "descendants": 24,
+      "id": 30125730,
       "kids": [
-        30143696
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
       ],
-      "score": 6,
-      "time": 1643576644,
-      "title": "Recovering Nintendo’s Lost SimCity for the NES",
+      "score": 50,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
       "type": "story",
-      "url": "https://gamehistory.org/simcity/"
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
     },
     "og_item": {
       "title": "When the Algorithm Is Your Boss",
@@ -999,6 +1207,53 @@
     }
   },
   {
+    "id": 30128193,
+    "title": "On Immersion",
+    "url": "https://blog.laurel.world/on-immersion/",
+    "time": 1643477006,
+    "image": "",
+    "icon": "https://blog.laurel.world/favicon.ico",
+    "publisher": "blog.laurel.world",
+    "description": "",
+    "by": "artmare",
+    "points": 14,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "doener",
+      "descendants": 24,
+      "id": 30125730,
+      "kids": [
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
+      ],
+      "score": 50,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
+      "type": "story",
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+    },
+    "og_item": {
+      "title": "A couple years ago, I created this list: immersive: walking taking a shower sleeping teaching falling in love cinema life or death experience I was curious about these amazing parts of life that feel so meaningful — like portals, where time and space take on a totally different, enchanted feeling. I remember writing this list… – blog.laurel.world",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30131387,
     "title": "Game performance optimization – A practical example from Industry Idle",
     "url": "https://ruoyusun.com/2022/01/28/game-pref.html",
@@ -1011,17 +1266,22 @@
     "points": 33,
     "comment_count": 4,
     "hn_item": {
-      "by": "jordigh",
-      "descendants": 1,
-      "id": 30141063,
+      "by": "doener",
+      "descendants": 24,
+      "id": 30125730,
       "kids": [
-        30143696
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
       ],
-      "score": 6,
-      "time": 1643576644,
-      "title": "Recovering Nintendo’s Lost SimCity for the NES",
+      "score": 50,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
       "type": "story",
-      "url": "https://gamehistory.org/simcity/"
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
     },
     "og_item": {
       "title": "Game Performance Optimization - A Practical Example From Industry Idle",
@@ -1041,6 +1301,62 @@
     }
   },
   {
+    "id": 30142918,
+    "title": "Unconscious R\u0026D (2021)",
+    "url": "https://subconscious.substack.com/p/unconscious-r-and-d",
+    "time": 1643589336,
+    "image": "https://cdn.substack.com/image/fetch/w_1200,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F80b4a51a-7687-453c-b94b-a0c33b1399c7_1668x1668.jpeg",
+    "icon": "https://cdn.substack.com/icons/substack/favicon-32x32.png",
+    "publisher": "subconscious.substack.com",
+    "description": "What if your notes could self-organize—from scratch notes, to draft, to finished creative work—through a stream-of-consciousness process—like dreaming? Years ago, I was part of a user study that aimed to understand how creators create. We interviewed authors, artists, students, influencers,…",
+    "by": "fagnerbrack",
+    "points": 16,
+    "comment_count": 1,
+    "hn_item": {
+      "by": "doener",
+      "descendants": 24,
+      "id": 30125730,
+      "kids": [
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
+      ],
+      "score": 50,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
+      "type": "story",
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+    },
+    "og_item": {
+      "title": "Unconscious R\u0026D",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://cdn.substack.com/image/fetch/w_1200,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F80b4a51a-7687-453c-b94b-a0c33b1399c7_1668x1668.jpeg",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://subconscious.substack.com/p/unconscious-r-and-d",
+      "audio": [],
+      "description": "What if your notes could self-organize—from scratch notes, to draft, to finished creative work—through a stream-of-consciousness process—like dreaming? Years ago, I was part of a user study that aimed to understand how creators create. We interviewed authors, artists, students, influencers, and discovered a recurrent meta-pattern in the creative processes that emerged across disciplines and tools...",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "https://cdn.substack.com/icons/substack/favicon-32x32.png"
+      }
+    }
+  },
+  {
     "id": 30141171,
     "title": "Deep symbolic regression for recurrent sequences",
     "url": "http://recur-env.eba-rm3fchmn.us-east-2.elasticbeanstalk.com/",
@@ -1050,20 +1366,25 @@
     "publisher": "recur-env.eba-rm3fchmn.us-eas…",
     "description": "",
     "by": "ShamelessC",
-    "points": 44,
+    "points": 45,
     "comment_count": 11,
     "hn_item": {
-      "by": "jordigh",
-      "descendants": 1,
-      "id": 30141063,
+      "by": "doener",
+      "descendants": 24,
+      "id": 30125730,
       "kids": [
-        30143696
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
       ],
-      "score": 6,
-      "time": 1643576644,
-      "title": "Recovering Nintendo’s Lost SimCity for the NES",
+      "score": 50,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
       "type": "story",
-      "url": "https://gamehistory.org/simcity/"
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
     },
     "og_item": {
       "title": "Streamlit",
@@ -1095,17 +1416,22 @@
     "points": 26,
     "comment_count": 6,
     "hn_item": {
-      "by": "jordigh",
-      "descendants": 1,
-      "id": 30141063,
+      "by": "doener",
+      "descendants": 24,
+      "id": 30125730,
       "kids": [
-        30143696
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
       ],
-      "score": 6,
-      "time": 1643576644,
-      "title": "Recovering Nintendo’s Lost SimCity for the NES",
+      "score": 50,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
       "type": "story",
-      "url": "https://gamehistory.org/simcity/"
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
     },
     "og_item": {
       "title": "Basic cryptography - the Vigenere cipher - Eric Mann's Blog",
@@ -1134,99 +1460,6 @@
     }
   },
   {
-    "id": 30128193,
-    "title": "On Immersion",
-    "url": "https://blog.laurel.world/on-immersion/",
-    "time": 1643477006,
-    "image": "",
-    "icon": "https://blog.laurel.world/favicon.ico",
-    "publisher": "blog.laurel.world",
-    "description": "",
-    "by": "artmare",
-    "points": 13,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "jordigh",
-      "descendants": 1,
-      "id": 30141063,
-      "kids": [
-        30143696
-      ],
-      "score": 6,
-      "time": 1643576644,
-      "title": "Recovering Nintendo’s Lost SimCity for the NES",
-      "type": "story",
-      "url": "https://gamehistory.org/simcity/"
-    },
-    "og_item": {
-      "title": "A couple years ago, I created this list: immersive: walking taking a shower sleeping teaching falling in love cinema life or death experience I was curious about these amazing parts of life that feel so meaningful — like portals, where time and space take on a totally different, enchanted feeling. I remember writing this list… – blog.laurel.world",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30115520,
-    "title": "Pearls Before Breakfast (2007)",
-    "url": "https://www.washingtonpost.com/lifestyle/magazine/pearls-before-breakfast-can-one-of-the-nations-great-musicians-cut-through-the-fog-of-a-dc-rush-hour-lets-find-out/2014/09/23/8a6d46da-4331-11e4-b47c-f5889e061e5f_story.html",
-    "time": 1643382593,
-    "image": "https://www.washingtonpost.com/pbox.php?url=https://www.washingtonpost.com/pb/resources/img/twp-social-share.png\u0026w=1484\u0026op=resize\u0026opt=1\u0026filter=antialias\u0026t=20170517",
-    "icon": "https://www.washingtonpost.com/favicon.ico",
-    "publisher": "Washington Post",
-    "description": "Joshua Bell is one of the world’s greatest violinists. His instrument of choice is a multimillion-dollar Stradivarius. If he played it for spare change, incognito, outside a bustling Metro stop in Washington, would anyone notice?",
-    "by": "Tomte",
-    "points": 7,
-    "comment_count": 1,
-    "hn_item": {
-      "by": "jordigh",
-      "descendants": 1,
-      "id": 30141063,
-      "kids": [
-        30143696
-      ],
-      "score": 6,
-      "time": 1643576644,
-      "title": "Recovering Nintendo’s Lost SimCity for the NES",
-      "type": "story",
-      "url": "https://gamehistory.org/simcity/"
-    },
-    "og_item": {
-      "title": "Pearls Before Breakfast: Can one of the nation’s great musicians cut through the fog of a D.C. rush hour? Let’s find out.",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://www.washingtonpost.com/pbox.php?url=https://www.washingtonpost.com/pb/resources/img/twp-social-share.png\u0026w=1484\u0026op=resize\u0026opt=1\u0026filter=antialias\u0026t=20170517",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://www.washingtonpost.com/lifestyle/magazine/pearls-before-breakfast-can-one-of-the-nations-great-musicians-cut-through-the-fog-of-a-dc-rush-hour-lets-find-out/2014/09/23/8a6d46da-4331-11e4-b47c-f5889e061e5f_story.html",
-      "audio": [],
-      "description": "Joshua Bell is one of the world’s greatest violinists. His instrument of choice is a multimillion-dollar Stradivarius. If he played it for spare change, incognito, outside a bustling Metro stop in Washington, would anyone notice?",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Washington Post",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30137864,
     "title": "Midnight Commander Tips and Tricks",
     "url": "http://www.softpanorama.org/OFM/MC/mc_tips.shtml",
@@ -1239,17 +1472,22 @@
     "points": 143,
     "comment_count": 18,
     "hn_item": {
-      "by": "jordigh",
-      "descendants": 1,
-      "id": 30141063,
+      "by": "doener",
+      "descendants": 24,
+      "id": 30125730,
       "kids": [
-        30143696
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
       ],
-      "score": 6,
-      "time": 1643576644,
-      "title": "Recovering Nintendo’s Lost SimCity for the NES",
+      "score": 50,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
       "type": "story",
-      "url": "https://gamehistory.org/simcity/"
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
     },
     "og_item": {
       "title": "Midnight Commander Tips and Tricks",
@@ -1269,57 +1507,6 @@
     }
   },
   {
-    "id": 30142918,
-    "title": "Unconscious R\u0026D (2021)",
-    "url": "https://subconscious.substack.com/p/unconscious-r-and-d",
-    "time": 1643589336,
-    "image": "https://cdn.substack.com/image/fetch/w_1200,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F80b4a51a-7687-453c-b94b-a0c33b1399c7_1668x1668.jpeg",
-    "icon": "https://cdn.substack.com/icons/substack/favicon-32x32.png",
-    "publisher": "subconscious.substack.com",
-    "description": "What if your notes could self-organize—from scratch notes, to draft, to finished creative work—through a stream-of-consciousness process—like dreaming? Years ago, I was part of a user study that aimed to understand how creators create. We interviewed authors, artists, students, influencers,…",
-    "by": "fagnerbrack",
-    "points": 15,
-    "comment_count": 1,
-    "hn_item": {
-      "by": "jordigh",
-      "descendants": 1,
-      "id": 30141063,
-      "kids": [
-        30143696
-      ],
-      "score": 6,
-      "time": 1643576644,
-      "title": "Recovering Nintendo’s Lost SimCity for the NES",
-      "type": "story",
-      "url": "https://gamehistory.org/simcity/"
-    },
-    "og_item": {
-      "title": "Unconscious R\u0026D",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://cdn.substack.com/image/fetch/w_1200,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F80b4a51a-7687-453c-b94b-a0c33b1399c7_1668x1668.jpeg",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://subconscious.substack.com/p/unconscious-r-and-d",
-      "audio": [],
-      "description": "What if your notes could self-organize—from scratch notes, to draft, to finished creative work—through a stream-of-consciousness process—like dreaming? Years ago, I was part of a user study that aimed to understand how creators create. We interviewed authors, artists, students, influencers, and discovered a recurrent meta-pattern in the creative processes that emerged across disciplines and tools...",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "https://cdn.substack.com/icons/substack/favicon-32x32.png"
-      }
-    }
-  },
-  {
     "id": 30128048,
     "title": "COM+ Revisited",
     "url": "https://lowleveldesign.org/2022/01/17/com-revisited/",
@@ -1332,17 +1519,22 @@
     "points": 69,
     "comment_count": 8,
     "hn_item": {
-      "by": "jordigh",
-      "descendants": 1,
-      "id": 30141063,
+      "by": "doener",
+      "descendants": 24,
+      "id": 30125730,
       "kids": [
-        30143696
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
       ],
-      "score": 6,
-      "time": 1643576644,
-      "title": "Recovering Nintendo’s Lost SimCity for the NES",
+      "score": 50,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
       "type": "story",
-      "url": "https://gamehistory.org/simcity/"
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
     },
     "og_item": {
       "title": "COM+ revisited",
@@ -1371,6 +1563,62 @@
     }
   },
   {
+    "id": 30115520,
+    "title": "Pearls Before Breakfast (2007)",
+    "url": "https://www.washingtonpost.com/lifestyle/magazine/pearls-before-breakfast-can-one-of-the-nations-great-musicians-cut-through-the-fog-of-a-dc-rush-hour-lets-find-out/2014/09/23/8a6d46da-4331-11e4-b47c-f5889e061e5f_story.html",
+    "time": 1643382593,
+    "image": "https://www.washingtonpost.com/pbox.php?url=https://www.washingtonpost.com/pb/resources/img/twp-social-share.png\u0026w=1484\u0026op=resize\u0026opt=1\u0026filter=antialias\u0026t=20170517",
+    "icon": "https://www.washingtonpost.com/favicon.ico",
+    "publisher": "Washington Post",
+    "description": "Joshua Bell is one of the world’s greatest violinists. His instrument of choice is a multimillion-dollar Stradivarius. If he played it for spare change, incognito, outside a bustling Metro stop in Washington, would anyone notice?",
+    "by": "Tomte",
+    "points": 8,
+    "comment_count": 1,
+    "hn_item": {
+      "by": "doener",
+      "descendants": 24,
+      "id": 30125730,
+      "kids": [
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
+      ],
+      "score": 50,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
+      "type": "story",
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+    },
+    "og_item": {
+      "title": "Pearls Before Breakfast: Can one of the nation’s great musicians cut through the fog of a D.C. rush hour? Let’s find out.",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://www.washingtonpost.com/pbox.php?url=https://www.washingtonpost.com/pb/resources/img/twp-social-share.png\u0026w=1484\u0026op=resize\u0026opt=1\u0026filter=antialias\u0026t=20170517",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://www.washingtonpost.com/lifestyle/magazine/pearls-before-breakfast-can-one-of-the-nations-great-musicians-cut-through-the-fog-of-a-dc-rush-hour-lets-find-out/2014/09/23/8a6d46da-4331-11e4-b47c-f5889e061e5f_story.html",
+      "audio": [],
+      "description": "Joshua Bell is one of the world’s greatest violinists. His instrument of choice is a multimillion-dollar Stradivarius. If he played it for spare change, incognito, outside a bustling Metro stop in Washington, would anyone notice?",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Washington Post",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30138468,
     "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
     "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf",
@@ -1383,70 +1631,24 @@
     "points": 96,
     "comment_count": 7,
     "hn_item": {
-      "by": "jordigh",
-      "descendants": 1,
-      "id": 30141063,
+      "by": "doener",
+      "descendants": 24,
+      "id": 30125730,
       "kids": [
-        30143696
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
       ],
-      "score": 6,
-      "time": 1643576644,
-      "title": "Recovering Nintendo’s Lost SimCity for the NES",
+      "score": 50,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
       "type": "story",
-      "url": "https://gamehistory.org/simcity/"
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
     },
     "og_item": null
-  },
-  {
-    "id": 30135190,
-    "title": "FunctionStomping – A new shellcode injection technique",
-    "url": "https://github.com/Idov31/FunctionStomping",
-    "time": 1643533222,
-    "image": "https://opengraph.githubassets.com/3c292dd68285aa5c70889338a5fbc198735de53ac1a444e23ae4b8ad007b4843/Idov31/FunctionStomping",
-    "icon": "https://github.githubassets.com/favicons/favicon.svg",
-    "publisher": "GitHub",
-    "description": "A new shellcode injection technique. Given as C++ header or standalone Rust program. - GitHub - Idov31/FunctionStomping: A new shellcode injection technique. Given as C++ header or standalone Rust ...",
-    "by": "maydemir",
-    "points": 30,
-    "comment_count": 1,
-    "hn_item": {
-      "by": "jordigh",
-      "descendants": 1,
-      "id": 30141063,
-      "kids": [
-        30143696
-      ],
-      "score": 6,
-      "time": 1643576644,
-      "title": "Recovering Nintendo’s Lost SimCity for the NES",
-      "type": "story",
-      "url": "https://gamehistory.org/simcity/"
-    },
-    "og_item": {
-      "title": "GitHub - Idov31/FunctionStomping: A new shellcode injection technique. Given as C++ header or standalone Rust program.",
-      "type": "object",
-      "image": [
-        {
-          "url": "https://opengraph.githubassets.com/3c292dd68285aa5c70889338a5fbc198735de53ac1a444e23ae4b8ad007b4843/Idov31/FunctionStomping",
-          "secure_url": "",
-          "type": "",
-          "width": 1200,
-          "height": 600,
-          "alt": ""
-        }
-      ],
-      "url": "https://github.com/Idov31/FunctionStomping",
-      "audio": [],
-      "description": "A new shellcode injection technique. Given as C++ header or standalone Rust program. - GitHub - Idov31/FunctionStomping: A new shellcode injection technique. Given as C++ header or standalone Rust ...",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "GitHub",
-      "video": [],
-      "favicon": {
-        "url": "https://github.githubassets.com/favicons/favicon.svg"
-      }
-    }
   },
   {
     "id": 30137720,
@@ -1461,17 +1663,22 @@
     "points": 178,
     "comment_count": 39,
     "hn_item": {
-      "by": "jordigh",
-      "descendants": 1,
-      "id": 30141063,
+      "by": "doener",
+      "descendants": 24,
+      "id": 30125730,
       "kids": [
-        30143696
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
       ],
-      "score": 6,
-      "time": 1643576644,
-      "title": "Recovering Nintendo’s Lost SimCity for the NES",
+      "score": 50,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
       "type": "story",
-      "url": "https://gamehistory.org/simcity/"
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
     },
     "og_item": {
       "title": "“It’s a bloodbath”: U.S. companies are pillaging Latin America’s tech talent",
@@ -1500,6 +1707,118 @@
     }
   },
   {
+    "id": 30135190,
+    "title": "FunctionStomping – A new shellcode injection technique",
+    "url": "https://github.com/Idov31/FunctionStomping",
+    "time": 1643533222,
+    "image": "https://opengraph.githubassets.com/3c292dd68285aa5c70889338a5fbc198735de53ac1a444e23ae4b8ad007b4843/Idov31/FunctionStomping",
+    "icon": "https://github.githubassets.com/favicons/favicon.svg",
+    "publisher": "GitHub",
+    "description": "A new shellcode injection technique. Given as C++ header or standalone Rust program. - GitHub - Idov31/FunctionStomping: A new shellcode injection technique. Given as C++ header or standalone Rust ...",
+    "by": "maydemir",
+    "points": 30,
+    "comment_count": 2,
+    "hn_item": {
+      "by": "doener",
+      "descendants": 24,
+      "id": 30125730,
+      "kids": [
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
+      ],
+      "score": 50,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
+      "type": "story",
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+    },
+    "og_item": {
+      "title": "GitHub - Idov31/FunctionStomping: A new shellcode injection technique. Given as C++ header or standalone Rust program.",
+      "type": "object",
+      "image": [
+        {
+          "url": "https://opengraph.githubassets.com/3c292dd68285aa5c70889338a5fbc198735de53ac1a444e23ae4b8ad007b4843/Idov31/FunctionStomping",
+          "secure_url": "",
+          "type": "",
+          "width": 1200,
+          "height": 600,
+          "alt": ""
+        }
+      ],
+      "url": "https://github.com/Idov31/FunctionStomping",
+      "audio": [],
+      "description": "A new shellcode injection technique. Given as C++ header or standalone Rust program. - GitHub - Idov31/FunctionStomping: A new shellcode injection technique. Given as C++ header or standalone Rust ...",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "GitHub",
+      "video": [],
+      "favicon": {
+        "url": "https://github.githubassets.com/favicons/favicon.svg"
+      }
+    }
+  },
+  {
+    "id": 30142351,
+    "title": "Completing a Creative Project",
+    "url": "https://www.sonyasupposedly.com/completing-a-creative-project/",
+    "time": 1643585100,
+    "image": "https://www.sonyasupposedly.com/content/images/2022/01/artdecoladies-1.jpg",
+    "icon": "https://www.sonyasupposedly.com/favicon.png",
+    "publisher": "Sonya Supposedly",
+    "description": "My undying thanks to members for funding the following realizations 💖 Btw, click here for the PDF version that I mailed in November, if you want it for some reason. How to complete a creative project: stick with it until you're done. Gee thanks, great advice, I know. But it's true!",
+    "by": "exolymph",
+    "points": 3,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "doener",
+      "descendants": 24,
+      "id": 30125730,
+      "kids": [
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
+      ],
+      "score": 50,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
+      "type": "story",
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+    },
+    "og_item": {
+      "title": "Completing a Creative Project",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://www.sonyasupposedly.com/content/images/2022/01/artdecoladies-1.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 2000,
+          "height": 1050,
+          "alt": ""
+        }
+      ],
+      "url": "https://www.sonyasupposedly.com/completing-a-creative-project/",
+      "audio": [],
+      "description": "My undying thanks to members for funding the following realizations 💖 Btw, click here for the PDF version that I mailed in November, if you want it for some reason. How to complete a creative project: stick with it until you're done. Gee thanks, great advice, I know. But it's true!",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Sonya Supposedly",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.png"
+      }
+    }
+  },
+  {
     "id": 30125933,
     "title": "Dataset and Model for “I built a system to take photos of planes over my house”",
     "url": "https://universe.roboflow.com/skybot-cam/overhead-plane-detector",
@@ -1512,17 +1831,22 @@
     "points": 116,
     "comment_count": 7,
     "hn_item": {
-      "by": "jordigh",
-      "descendants": 1,
-      "id": 30141063,
+      "by": "doener",
+      "descendants": 24,
+      "id": 30125730,
       "kids": [
-        30143696
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
       ],
-      "score": 6,
-      "time": 1643576644,
-      "title": "Recovering Nintendo’s Lost SimCity for the NES",
+      "score": 50,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
       "type": "story",
-      "url": "https://gamehistory.org/simcity/"
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
     },
     "og_item": {
       "title": "Overhead Plane Detector Object Detection Dataset",
@@ -1563,17 +1887,22 @@
     "points": 13,
     "comment_count": 1,
     "hn_item": {
-      "by": "jordigh",
-      "descendants": 1,
-      "id": 30141063,
+      "by": "doener",
+      "descendants": 24,
+      "id": 30125730,
       "kids": [
-        30143696
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
       ],
-      "score": 6,
-      "time": 1643576644,
-      "title": "Recovering Nintendo’s Lost SimCity for the NES",
+      "score": 50,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
       "type": "story",
-      "url": "https://gamehistory.org/simcity/"
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
     },
     "og_item": {
       "title": "Harvard ceramics program recreates Art Museums’ pieces",
@@ -1614,17 +1943,22 @@
     "points": 48,
     "comment_count": 7,
     "hn_item": {
-      "by": "jordigh",
-      "descendants": 1,
-      "id": 30141063,
+      "by": "doener",
+      "descendants": 24,
+      "id": 30125730,
       "kids": [
-        30143696
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
       ],
-      "score": 6,
-      "time": 1643576644,
-      "title": "Recovering Nintendo’s Lost SimCity for the NES",
+      "score": 50,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
       "type": "story",
-      "url": "https://gamehistory.org/simcity/"
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
     },
     "og_item": {
       "title": "Using tree data structures to implement terminal split panes - more fun than it sounds",
@@ -1663,19 +1997,24 @@
     "description": "Technical literacy is key to career success, even for non-engineers. Learn how to master the tools of your trade and build a solid tech foundation.",
     "by": "jseliger",
     "points": 116,
-    "comment_count": 15,
+    "comment_count": 16,
     "hn_item": {
-      "by": "jordigh",
-      "descendants": 1,
-      "id": 30141063,
+      "by": "doener",
+      "descendants": 24,
+      "id": 30125730,
       "kids": [
-        30143696
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
       ],
-      "score": 6,
-      "time": 1643576644,
-      "title": "Recovering Nintendo’s Lost SimCity for the NES",
+      "score": 50,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
       "type": "story",
-      "url": "https://gamehistory.org/simcity/"
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
     },
     "og_item": {
       "title": "How to Excel in Tech Without Learning to Code | Future",
@@ -1716,17 +2055,22 @@
     "points": 76,
     "comment_count": 17,
     "hn_item": {
-      "by": "jordigh",
-      "descendants": 1,
-      "id": 30141063,
+      "by": "doener",
+      "descendants": 24,
+      "id": 30125730,
       "kids": [
-        30143696
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
       ],
-      "score": 6,
-      "time": 1643576644,
-      "title": "Recovering Nintendo’s Lost SimCity for the NES",
+      "score": 50,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
       "type": "story",
-      "url": "https://gamehistory.org/simcity/"
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
     },
     "og_item": {
       "title": "Autonomous battery-powered rail cars could steal shipments from truckers",
@@ -1767,17 +2111,22 @@
     "points": 14,
     "comment_count": 6,
     "hn_item": {
-      "by": "jordigh",
-      "descendants": 1,
-      "id": 30141063,
+      "by": "doener",
+      "descendants": 24,
+      "id": 30125730,
       "kids": [
-        30143696
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
       ],
-      "score": 6,
-      "time": 1643576644,
-      "title": "Recovering Nintendo’s Lost SimCity for the NES",
+      "score": 50,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
       "type": "story",
-      "url": "https://gamehistory.org/simcity/"
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
     },
     "og_item": {
       "title": "Just a moment...",
@@ -1809,17 +2158,22 @@
     "points": 74,
     "comment_count": 5,
     "hn_item": {
-      "by": "jordigh",
-      "descendants": 1,
-      "id": 30141063,
+      "by": "doener",
+      "descendants": 24,
+      "id": 30125730,
       "kids": [
-        30143696
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
       ],
-      "score": 6,
-      "time": 1643576644,
-      "title": "Recovering Nintendo’s Lost SimCity for the NES",
+      "score": 50,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
       "type": "story",
-      "url": "https://gamehistory.org/simcity/"
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
     },
     "og_item": {
       "title": "\n    zeux.io - Writing an efficient Vulkan renderer\n  ",
@@ -1851,17 +2205,22 @@
     "points": 28,
     "comment_count": 0,
     "hn_item": {
-      "by": "jordigh",
-      "descendants": 1,
-      "id": 30141063,
+      "by": "doener",
+      "descendants": 24,
+      "id": 30125730,
       "kids": [
-        30143696
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
       ],
-      "score": 6,
-      "time": 1643576644,
-      "title": "Recovering Nintendo’s Lost SimCity for the NES",
+      "score": 50,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
       "type": "story",
-      "url": "https://gamehistory.org/simcity/"
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
     },
     "og_item": {
       "title": "Mix and match mental models.",
@@ -1890,48 +2249,6 @@
     }
   },
   {
-    "id": 30138277,
-    "title": "Set up a website with Nim (2019)",
-    "url": "https://ttj.dk/blog/2019/01/20/setup-a-website-with-nim",
-    "time": 1643558464,
-    "image": "",
-    "icon": "https://ttj.dk/images/favicon-ttj.png",
-    "publisher": "ttj.dk",
-    "description": "This small tutorial will help you create a website with Nim. We'll use libraries from the standard library and some externals from Nim-users. You will learn to create a small webserver with an admin user who has access to the secret area.",
-    "by": "melissalobos",
-    "points": 73,
-    "comment_count": 6,
-    "hn_item": {
-      "by": "jordigh",
-      "descendants": 1,
-      "id": 30141063,
-      "kids": [
-        30143696
-      ],
-      "score": 6,
-      "time": 1643576644,
-      "title": "Recovering Nintendo’s Lost SimCity for the NES",
-      "type": "story",
-      "url": "https://gamehistory.org/simcity/"
-    },
-    "og_item": {
-      "title": " Nim tutorial for setting up a website. ",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "This small tutorial will help you create a website with Nim. We'll use libraries from the standard library and some externals from Nim-users. You will learn to create a small webserver with an admin user who has access to the secret area.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/images/favicon-ttj.png"
-      }
-    }
-  },
-  {
     "id": 30119285,
     "title": "Devious SQL: Message Queuing Using Native PostgreSQL",
     "url": "https://blog.crunchydata.com/blog/message-queuing-using-native-postgresql",
@@ -1941,20 +2258,25 @@
     "publisher": "blog.crunchydata.com",
     "description": "An interesting question came up on the #postgresql IRC channel about how to use native PostgreSQL features to handle some sort of queuing behavior. While the specific usage was related to handling serialization of specific events to some external broker, the specifics are less important than the …",
     "by": "Scramblejams",
-    "points": 109,
+    "points": 111,
     "comment_count": 9,
     "hn_item": {
-      "by": "jordigh",
-      "descendants": 1,
-      "id": 30141063,
+      "by": "doener",
+      "descendants": 24,
+      "id": 30125730,
       "kids": [
-        30143696
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
       ],
-      "score": 6,
-      "time": 1643576644,
-      "title": "Recovering Nintendo’s Lost SimCity for the NES",
+      "score": 50,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
       "type": "story",
-      "url": "https://gamehistory.org/simcity/"
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
     },
     "og_item": {
       "title": "Devious SQL: Message Queuing Using Native PostgreSQL",
@@ -1983,6 +2305,53 @@
     }
   },
   {
+    "id": 30138277,
+    "title": "Set up a website with Nim (2019)",
+    "url": "https://ttj.dk/blog/2019/01/20/setup-a-website-with-nim",
+    "time": 1643558464,
+    "image": "",
+    "icon": "https://ttj.dk/images/favicon-ttj.png",
+    "publisher": "ttj.dk",
+    "description": "This small tutorial will help you create a website with Nim. We'll use libraries from the standard library and some externals from Nim-users. You will learn to create a small webserver with an admin user who has access to the secret area.",
+    "by": "melissalobos",
+    "points": 73,
+    "comment_count": 6,
+    "hn_item": {
+      "by": "doener",
+      "descendants": 24,
+      "id": 30125730,
+      "kids": [
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
+      ],
+      "score": 50,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
+      "type": "story",
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+    },
+    "og_item": {
+      "title": " Nim tutorial for setting up a website. ",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "This small tutorial will help you create a website with Nim. We'll use libraries from the standard library and some externals from Nim-users. You will learn to create a small webserver with an admin user who has access to the secret area.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/images/favicon-ttj.png"
+      }
+    }
+  },
+  {
     "id": 30136969,
     "title": "GoSTL: Algorithm and datastructure library for Go similar to C++ STL",
     "url": "https://github.com/liyue201/gostl",
@@ -1995,17 +2364,22 @@
     "points": 86,
     "comment_count": 9,
     "hn_item": {
-      "by": "jordigh",
-      "descendants": 1,
-      "id": 30141063,
+      "by": "doener",
+      "descendants": 24,
+      "id": 30125730,
       "kids": [
-        30143696
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
       ],
-      "score": 6,
-      "time": 1643576644,
-      "title": "Recovering Nintendo’s Lost SimCity for the NES",
+      "score": 50,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
       "type": "story",
-      "url": "https://gamehistory.org/simcity/"
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
     },
     "og_item": {
       "title": "GitHub - liyue201/gostl: Data structure and algorithm library for go, designed to provide functions similar to C++ STL",
@@ -2046,17 +2420,22 @@
     "points": 35,
     "comment_count": 5,
     "hn_item": {
-      "by": "jordigh",
-      "descendants": 1,
-      "id": 30141063,
+      "by": "doener",
+      "descendants": 24,
+      "id": 30125730,
       "kids": [
-        30143696
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
       ],
-      "score": 6,
-      "time": 1643576644,
-      "title": "Recovering Nintendo’s Lost SimCity for the NES",
+      "score": 50,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
       "type": "story",
-      "url": "https://gamehistory.org/simcity/"
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
     },
     "og_item": {
       "title": "Show the case against - shubhro.com",
@@ -2088,17 +2467,22 @@
     "points": 134,
     "comment_count": 12,
     "hn_item": {
-      "by": "jordigh",
-      "descendants": 1,
-      "id": 30141063,
+      "by": "doener",
+      "descendants": 24,
+      "id": 30125730,
       "kids": [
-        30143696
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
       ],
-      "score": 6,
-      "time": 1643576644,
-      "title": "Recovering Nintendo’s Lost SimCity for the NES",
+      "score": 50,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
       "type": "story",
-      "url": "https://gamehistory.org/simcity/"
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
     },
     "og_item": {
       "title": "Ask HN: Has anyone leveraged GDPR to overturn automated bans? | Hacker News",
@@ -2118,57 +2502,6 @@
     }
   },
   {
-    "id": 30136350,
-    "title": "The Game of War: Chess with Networks (2008)",
-    "url": "https://www.cabinetmagazine.org/issues/29/galloway.php",
-    "time": 1643544263,
-    "image": "https://cabinetmagazine.org/issues/29/cabinet_029_galloway_alexander_r_facebook.jpg",
-    "icon": "https://www.cabinetmagazine.org/favicon-128.png",
-    "publisher": "cabinetmagazine.org",
-    "description": "Chess with networks",
-    "by": "bshepard",
-    "points": 23,
-    "comment_count": 2,
-    "hn_item": {
-      "by": "jordigh",
-      "descendants": 1,
-      "id": 30141063,
-      "kids": [
-        30143696
-      ],
-      "score": 6,
-      "time": 1643576644,
-      "title": "Recovering Nintendo’s Lost SimCity for the NES",
-      "type": "story",
-      "url": "https://gamehistory.org/simcity/"
-    },
-    "og_item": {
-      "title": "The Game of War: An Overview | Alexander R. Galloway",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://cabinetmagazine.org/issues/29/cabinet_029_galloway_alexander_r_facebook.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 52,
-          "height": 80,
-          "alt": ""
-        }
-      ],
-      "url": "https://cabinetmagazine.org/issues/29/galloway.php",
-      "audio": [],
-      "description": "Chess with networks",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon-128.png"
-      }
-    }
-  },
-  {
     "id": 30111033,
     "title": "Toxic black mold is growing in my brain",
     "url": "https://www.buzzfeednews.com/article/tysonbottenus/black-mold-growing-toxic-brain-vacation",
@@ -2178,20 +2511,25 @@
     "publisher": "BuzzFeed News",
     "description": "I went on a vacation. I came home with a mysterious fungus in my brain that is so rare only about 120 cases have been confirmed worldwide since its discovery in 1911.",
     "by": "yellow_lead",
-    "points": 171,
+    "points": 172,
     "comment_count": 10,
     "hn_item": {
-      "by": "jordigh",
-      "descendants": 1,
-      "id": 30141063,
+      "by": "doener",
+      "descendants": 24,
+      "id": 30125730,
       "kids": [
-        30143696
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
       ],
-      "score": 6,
-      "time": 1643576644,
-      "title": "Recovering Nintendo’s Lost SimCity for the NES",
+      "score": 50,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
       "type": "story",
-      "url": "https://gamehistory.org/simcity/"
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
     },
     "og_item": {
       "title": "Toxic Black Mold Is Growing On My Brain",
@@ -2220,44 +2558,58 @@
     }
   },
   {
-    "id": 30142896,
-    "title": "Decrypt an encrypted message to any plaintext",
-    "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts",
-    "time": 1643589180,
-    "image": "",
-    "icon": "https://www.go350.com/favicon-16x16.png",
-    "publisher": "go350.com",
-    "description": "a one-time pad implementation",
-    "by": "_wldu",
-    "points": 10,
-    "comment_count": 0,
+    "id": 30136350,
+    "title": "The Game of War: Chess with Networks (2008)",
+    "url": "https://www.cabinetmagazine.org/issues/29/galloway.php",
+    "time": 1643544263,
+    "image": "https://cabinetmagazine.org/issues/29/cabinet_029_galloway_alexander_r_facebook.jpg",
+    "icon": "https://www.cabinetmagazine.org/favicon-128.png",
+    "publisher": "cabinetmagazine.org",
+    "description": "Chess with networks",
+    "by": "bshepard",
+    "points": 23,
+    "comment_count": 2,
     "hn_item": {
-      "by": "jordigh",
-      "descendants": 1,
-      "id": 30141063,
+      "by": "doener",
+      "descendants": 24,
+      "id": 30125730,
       "kids": [
-        30143696
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
       ],
-      "score": 6,
-      "time": 1643576644,
-      "title": "Recovering Nintendo’s Lost SimCity for the NES",
+      "score": 50,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
       "type": "story",
-      "url": "https://gamehistory.org/simcity/"
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
     },
     "og_item": {
-      "title": "Padder",
+      "title": "The Game of War: An Overview | Alexander R. Galloway",
       "type": "article",
-      "image": [],
-      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/",
+      "image": [
+        {
+          "url": "https://cabinetmagazine.org/issues/29/cabinet_029_galloway_alexander_r_facebook.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 52,
+          "height": 80,
+          "alt": ""
+        }
+      ],
+      "url": "https://cabinetmagazine.org/issues/29/galloway.php",
       "audio": [],
-      "description": "a one-time pad implementation",
+      "description": "Chess with networks",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
       "site_name": "",
       "video": [],
       "favicon": {
-        "url": "/favicon-16x16.png"
+        "url": "/favicon-128.png"
       }
     }
   },
@@ -2274,17 +2626,22 @@
     "points": 36,
     "comment_count": 3,
     "hn_item": {
-      "by": "jordigh",
-      "descendants": 1,
-      "id": 30141063,
+      "by": "doener",
+      "descendants": 24,
+      "id": 30125730,
       "kids": [
-        30143696
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
       ],
-      "score": 6,
-      "time": 1643576644,
-      "title": "Recovering Nintendo’s Lost SimCity for the NES",
+      "score": 50,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
       "type": "story",
-      "url": "https://gamehistory.org/simcity/"
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
     },
     "og_item": {
       "title": "Very Remote Lisp Debugging Story - Susam's Maze",
@@ -2304,104 +2661,49 @@
     }
   },
   {
-    "id": 30143933,
-    "title": "Everything we see is a mash-up of the brain’s last 15s of visual information",
-    "url": "https://theconversation.com/everything-we-see-is-a-mash-up-of-the-brains-last-15-seconds-of-visual-information-175577",
-    "time": 1643597517,
-    "image": "https://images.theconversation.com/files/442574/original/file-20220125-15-123wgyh.jpg?ixlib=rb-1.1.0\u0026rect=0%2C808%2C2590%2C1295\u0026q=45\u0026auto=format\u0026w=1356\u0026h=668\u0026fit=crop",
-    "icon": "https://cdn.theconversation.com/static/tc/@theconversation/ui/dist/esm/logos/favicon-ae7bd7a3096e6cda828b4576fa9b32c6.ico",
-    "publisher": "The Conversation",
-    "description": "The brain is basically a time machine that ensures what we see is stable and continuous",
-    "by": "solarmist",
-    "points": 5,
+    "id": 30142896,
+    "title": "Decrypt an encrypted message to any plaintext",
+    "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts",
+    "time": 1643589180,
+    "image": "",
+    "icon": "https://www.go350.com/favicon-16x16.png",
+    "publisher": "go350.com",
+    "description": "a one-time pad implementation",
+    "by": "_wldu",
+    "points": 10,
     "comment_count": 0,
     "hn_item": {
-      "by": "jordigh",
-      "descendants": 1,
-      "id": 30141063,
+      "by": "doener",
+      "descendants": 24,
+      "id": 30125730,
       "kids": [
-        30143696
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
       ],
-      "score": 6,
-      "time": 1643576644,
-      "title": "Recovering Nintendo’s Lost SimCity for the NES",
+      "score": 50,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
       "type": "story",
-      "url": "https://gamehistory.org/simcity/"
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
     },
     "og_item": {
-      "title": "Everything we see is a mash-up of the brain's last 15 seconds of visual information",
+      "title": "Padder",
       "type": "article",
-      "image": [
-        {
-          "url": "https://images.theconversation.com/files/442574/original/file-20220125-15-123wgyh.jpg?ixlib=rb-1.1.0\u0026rect=0%2C808%2C2590%2C1295\u0026q=45\u0026auto=format\u0026w=1356\u0026h=668\u0026fit=crop",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "http://theconversation.com/everything-we-see-is-a-mash-up-of-the-brains-last-15-seconds-of-visual-information-175577",
+      "image": [],
+      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/",
       "audio": [],
-      "description": "The brain is basically a time machine that ensures what we see is stable and continuous",
+      "description": "a one-time pad implementation",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "The Conversation",
+      "site_name": "",
       "video": [],
       "favicon": {
-        "url": "https://cdn.theconversation.com/static/tc/@theconversation/ui/dist/esm/logos/favicon-ae7bd7a3096e6cda828b4576fa9b32c6.ico"
-      }
-    }
-  },
-  {
-    "id": 30142494,
-    "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
-    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/",
-    "time": 1643586052,
-    "image": "https://www.reuters.com/resizer/nJB_ZidKD76ip6VAQlGhKHf1JI8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PYPUULVDLFI5ZBML3UV35CE4TA.jpg",
-    "icon": "https://www.reuters.com/pf/resources/icons/favicon.ico?d=69",
-    "publisher": "Reuters",
-    "description": "The highly transmissible Omicron variant of the SARS-CoV-2 virus - the most common form of which is known as BA.1 - now accounts for nearly all of the coronavirus infections globally, although dramatic surges in COVID cases have already peaked in some countries.",
-    "by": "lsllc",
-    "points": 23,
-    "comment_count": 1,
-    "hn_item": {
-      "by": "jordigh",
-      "descendants": 1,
-      "id": 30141063,
-      "kids": [
-        30143696
-      ],
-      "score": 6,
-      "time": 1643576644,
-      "title": "Recovering Nintendo’s Lost SimCity for the NES",
-      "type": "story",
-      "url": "https://gamehistory.org/simcity/"
-    },
-    "og_item": {
-      "title": "Explainer: Scientists on alert over rising cases caused by Omicron cousin BA.2",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://www.reuters.com/resizer/nJB_ZidKD76ip6VAQlGhKHf1JI8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PYPUULVDLFI5ZBML3UV35CE4TA.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/",
-      "audio": [],
-      "description": "The highly transmissible Omicron variant of the SARS-CoV-2 virus - the most common form of which is known as BA.1 - now accounts for nearly all of the coronavirus infections globally, although dramatic surges in COVID cases have already peaked in some countries.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Reuters",
-      "video": [],
-      "favicon": {
-        "url": "/pf/resources/icons/favicon.ico?d=69"
+        "url": "/favicon-16x16.png"
       }
     }
   },
@@ -2418,17 +2720,22 @@
     "points": 141,
     "comment_count": 7,
     "hn_item": {
-      "by": "jordigh",
-      "descendants": 1,
-      "id": 30141063,
+      "by": "doener",
+      "descendants": 24,
+      "id": 30125730,
       "kids": [
-        30143696
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
       ],
-      "score": 6,
-      "time": 1643576644,
-      "title": "Recovering Nintendo’s Lost SimCity for the NES",
+      "score": 50,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
       "type": "story",
-      "url": "https://gamehistory.org/simcity/"
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
     },
     "og_item": {
       "title": "[1398] A Padlock I’d Use: Abus Granit 37RK/80 (Pick \u0026 Gut)",
@@ -2466,6 +2773,62 @@
     }
   },
   {
+    "id": 30142494,
+    "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
+    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/",
+    "time": 1643586052,
+    "image": "https://www.reuters.com/resizer/nJB_ZidKD76ip6VAQlGhKHf1JI8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PYPUULVDLFI5ZBML3UV35CE4TA.jpg",
+    "icon": "https://www.reuters.com/pf/resources/icons/favicon.ico?d=69",
+    "publisher": "Reuters",
+    "description": "The highly transmissible Omicron variant of the SARS-CoV-2 virus - the most common form of which is known as BA.1 - now accounts for nearly all of the coronavirus infections globally, although dramatic surges in COVID cases have already peaked in some countries.",
+    "by": "lsllc",
+    "points": 23,
+    "comment_count": 1,
+    "hn_item": {
+      "by": "doener",
+      "descendants": 24,
+      "id": 30125730,
+      "kids": [
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
+      ],
+      "score": 50,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
+      "type": "story",
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+    },
+    "og_item": {
+      "title": "Explainer: Scientists on alert over rising cases caused by Omicron cousin BA.2",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://www.reuters.com/resizer/nJB_ZidKD76ip6VAQlGhKHf1JI8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PYPUULVDLFI5ZBML3UV35CE4TA.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/",
+      "audio": [],
+      "description": "The highly transmissible Omicron variant of the SARS-CoV-2 virus - the most common form of which is known as BA.1 - now accounts for nearly all of the coronavirus infections globally, although dramatic surges in COVID cases have already peaked in some countries.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Reuters",
+      "video": [],
+      "favicon": {
+        "url": "/pf/resources/icons/favicon.ico?d=69"
+      }
+    }
+  },
+  {
     "id": 30111373,
     "title": "What is FORGE?",
     "url": "https://www.energy.gov/eere/geothermal/what-forge",
@@ -2478,17 +2841,22 @@
     "points": 63,
     "comment_count": 5,
     "hn_item": {
-      "by": "jordigh",
-      "descendants": 1,
-      "id": 30141063,
+      "by": "doener",
+      "descendants": 24,
+      "id": 30125730,
       "kids": [
-        30143696
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
       ],
-      "score": 6,
-      "time": 1643576644,
-      "title": "Recovering Nintendo’s Lost SimCity for the NES",
+      "score": 50,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
       "type": "story",
-      "url": "https://gamehistory.org/simcity/"
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
     },
     "og_item": {
       "title": "What is FORGE?",
@@ -2508,108 +2876,6 @@
     }
   },
   {
-    "id": 30142410,
-    "title": "The Wikimedia Foundation's acceptance of cryptocurrency donations",
-    "url": "https://blog.mollywhite.net/wikimedia-foundation-cryptocurrency-donations/",
-    "time": 1643585562,
-    "image": "https://blog.mollywhite.net/assets/mollyandmax.png",
-    "icon": "https://blog.mollywhite.net/assets/favicon-16x16.png",
-    "publisher": "blog.mollywhite.net",
-    "description": "Originally published in the Wikipedia Signpost: Should the Wikimedia Foundation continue to accept cryptocurrency donations? One editor doesn't think so.",
-    "by": "hesk",
-    "points": 10,
-    "comment_count": 1,
-    "hn_item": {
-      "by": "jordigh",
-      "descendants": 1,
-      "id": 30141063,
-      "kids": [
-        30143696
-      ],
-      "score": 6,
-      "time": 1643576644,
-      "title": "Recovering Nintendo’s Lost SimCity for the NES",
-      "type": "story",
-      "url": "https://gamehistory.org/simcity/"
-    },
-    "og_item": {
-      "title": "Wikipedia Signpost: The Wikimedia Foundation's acceptance of cryptocurrency donations",
-      "type": "website",
-      "image": [
-        {
-          "url": "https://blog.mollywhite.net/assets/mollyandmax.png",
-          "secure_url": "",
-          "type": "",
-          "width": 200,
-          "height": 200,
-          "alt": ""
-        }
-      ],
-      "url": "https://blog.mollywhite.net/wikimedia-foundation-cryptocurrency-donations/",
-      "audio": [],
-      "description": "Originally published in the Wikipedia Signpost: Should the Wikimedia Foundation continue to accept cryptocurrency donations? One editor doesn't think so.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/assets/favicon-16x16.png"
-      }
-    }
-  },
-  {
-    "id": 30141784,
-    "title": "I crowdfunded a novel using cryptocurrency",
-    "url": "https://ellegriffin.substack.com/p/crypto-funded-nft-novel",
-    "time": 1643581215,
-    "image": "https://cdn.substack.com/image/fetch/w_1200,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafd428d3-200b-473c-81ba-d0fe3d371b74_1000x700.png",
-    "icon": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/6d33229e-dadd-4d42-81b0-60daf1fbc7ef/favicon-48x48.png",
-    "publisher": "ellegriffin.substack.com",
-    "description": "This could be how books get funded in the future.",
-    "by": "rmason",
-    "points": 8,
-    "comment_count": 1,
-    "hn_item": {
-      "by": "jordigh",
-      "descendants": 1,
-      "id": 30141063,
-      "kids": [
-        30143696
-      ],
-      "score": 6,
-      "time": 1643576644,
-      "title": "Recovering Nintendo’s Lost SimCity for the NES",
-      "type": "story",
-      "url": "https://gamehistory.org/simcity/"
-    },
-    "og_item": {
-      "title": "I crowdfunded a novel using cryptocurrency ",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://cdn.substack.com/image/fetch/w_1200,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafd428d3-200b-473c-81ba-d0fe3d371b74_1000x700.png",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://ellegriffin.substack.com/p/crypto-funded-nft-novel",
-      "audio": [],
-      "description": "This could be how books get funded in the future.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/6d33229e-dadd-4d42-81b0-60daf1fbc7ef/favicon-48x48.png"
-      }
-    }
-  },
-  {
     "id": 30132612,
     "title": "John Locke’s recipe for Pancakes (2021)",
     "url": "https://rarecooking.com/2021/12/14/john-lockes-recipe-for-pancakes/",
@@ -2622,17 +2888,22 @@
     "points": 258,
     "comment_count": 32,
     "hn_item": {
-      "by": "jordigh",
-      "descendants": 1,
-      "id": 30141063,
+      "by": "doener",
+      "descendants": 24,
+      "id": 30125730,
       "kids": [
-        30143696
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
       ],
-      "score": 6,
-      "time": 1643576644,
-      "title": "Recovering Nintendo’s Lost SimCity for the NES",
+      "score": 50,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
       "type": "story",
-      "url": "https://gamehistory.org/simcity/"
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
     },
     "og_item": {
       "title": "John Locke’s recipe for Pancakes",
@@ -2661,6 +2932,174 @@
     }
   },
   {
+    "id": 30143933,
+    "title": "Everything we see is a mash-up of the brain’s last 15s of visual information",
+    "url": "https://theconversation.com/everything-we-see-is-a-mash-up-of-the-brains-last-15-seconds-of-visual-information-175577",
+    "time": 1643597517,
+    "image": "https://images.theconversation.com/files/442574/original/file-20220125-15-123wgyh.jpg?ixlib=rb-1.1.0\u0026rect=0%2C808%2C2590%2C1295\u0026q=45\u0026auto=format\u0026w=1356\u0026h=668\u0026fit=crop",
+    "icon": "https://cdn.theconversation.com/static/tc/@theconversation/ui/dist/esm/logos/favicon-ae7bd7a3096e6cda828b4576fa9b32c6.ico",
+    "publisher": "The Conversation",
+    "description": "The brain is basically a time machine that ensures what we see is stable and continuous",
+    "by": "solarmist",
+    "points": 5,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "doener",
+      "descendants": 24,
+      "id": 30125730,
+      "kids": [
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
+      ],
+      "score": 50,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
+      "type": "story",
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+    },
+    "og_item": {
+      "title": "Everything we see is a mash-up of the brain's last 15 seconds of visual information",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://images.theconversation.com/files/442574/original/file-20220125-15-123wgyh.jpg?ixlib=rb-1.1.0\u0026rect=0%2C808%2C2590%2C1295\u0026q=45\u0026auto=format\u0026w=1356\u0026h=668\u0026fit=crop",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "http://theconversation.com/everything-we-see-is-a-mash-up-of-the-brains-last-15-seconds-of-visual-information-175577",
+      "audio": [],
+      "description": "The brain is basically a time machine that ensures what we see is stable and continuous",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "The Conversation",
+      "video": [],
+      "favicon": {
+        "url": "https://cdn.theconversation.com/static/tc/@theconversation/ui/dist/esm/logos/favicon-ae7bd7a3096e6cda828b4576fa9b32c6.ico"
+      }
+    }
+  },
+  {
+    "id": 30141784,
+    "title": "I crowdfunded a novel using cryptocurrency",
+    "url": "https://ellegriffin.substack.com/p/crypto-funded-nft-novel",
+    "time": 1643581215,
+    "image": "https://cdn.substack.com/image/fetch/w_1200,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafd428d3-200b-473c-81ba-d0fe3d371b74_1000x700.png",
+    "icon": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/6d33229e-dadd-4d42-81b0-60daf1fbc7ef/favicon-48x48.png",
+    "publisher": "ellegriffin.substack.com",
+    "description": "This could be how books get funded in the future.",
+    "by": "rmason",
+    "points": 8,
+    "comment_count": 2,
+    "hn_item": {
+      "by": "doener",
+      "descendants": 24,
+      "id": 30125730,
+      "kids": [
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
+      ],
+      "score": 50,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
+      "type": "story",
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+    },
+    "og_item": {
+      "title": "I crowdfunded a novel using cryptocurrency ",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://cdn.substack.com/image/fetch/w_1200,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafd428d3-200b-473c-81ba-d0fe3d371b74_1000x700.png",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://ellegriffin.substack.com/p/crypto-funded-nft-novel",
+      "audio": [],
+      "description": "This could be how books get funded in the future.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/6d33229e-dadd-4d42-81b0-60daf1fbc7ef/favicon-48x48.png"
+      }
+    }
+  },
+  {
+    "id": 30142410,
+    "title": "The Wikimedia Foundation's acceptance of cryptocurrency donations",
+    "url": "https://blog.mollywhite.net/wikimedia-foundation-cryptocurrency-donations/",
+    "time": 1643585562,
+    "image": "https://blog.mollywhite.net/assets/mollyandmax.png",
+    "icon": "https://blog.mollywhite.net/assets/favicon-16x16.png",
+    "publisher": "blog.mollywhite.net",
+    "description": "Originally published in the Wikipedia Signpost: Should the Wikimedia Foundation continue to accept cryptocurrency donations? One editor doesn't think so.",
+    "by": "hesk",
+    "points": 10,
+    "comment_count": 1,
+    "hn_item": {
+      "by": "doener",
+      "descendants": 24,
+      "id": 30125730,
+      "kids": [
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
+      ],
+      "score": 50,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
+      "type": "story",
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
+    },
+    "og_item": {
+      "title": "Wikipedia Signpost: The Wikimedia Foundation's acceptance of cryptocurrency donations",
+      "type": "website",
+      "image": [
+        {
+          "url": "https://blog.mollywhite.net/assets/mollyandmax.png",
+          "secure_url": "",
+          "type": "",
+          "width": 200,
+          "height": 200,
+          "alt": ""
+        }
+      ],
+      "url": "https://blog.mollywhite.net/wikimedia-foundation-cryptocurrency-donations/",
+      "audio": [],
+      "description": "Originally published in the Wikipedia Signpost: Should the Wikimedia Foundation continue to accept cryptocurrency donations? One editor doesn't think so.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/assets/favicon-16x16.png"
+      }
+    }
+  },
+  {
     "id": 30141215,
     "title": "Show HN: BeanHub – A GitHub for Beancount",
     "url": "https://beanhub.io/",
@@ -2673,17 +3112,22 @@
     "points": 16,
     "comment_count": 0,
     "hn_item": {
-      "by": "jordigh",
-      "descendants": 1,
-      "id": 30141063,
+      "by": "doener",
+      "descendants": 24,
+      "id": 30125730,
       "kids": [
-        30143696
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
       ],
-      "score": 6,
-      "time": 1643576644,
-      "title": "Recovering Nintendo’s Lost SimCity for the NES",
+      "score": 50,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
       "type": "story",
-      "url": "https://gamehistory.org/simcity/"
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
     },
     "og_item": {
       "title": "\n    BeanHub\n    ",
@@ -2715,17 +3159,22 @@
     "points": 34,
     "comment_count": 4,
     "hn_item": {
-      "by": "jordigh",
-      "descendants": 1,
-      "id": 30141063,
+      "by": "doener",
+      "descendants": 24,
+      "id": 30125730,
       "kids": [
-        30143696
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
       ],
-      "score": 6,
-      "time": 1643576644,
-      "title": "Recovering Nintendo’s Lost SimCity for the NES",
+      "score": 50,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
       "type": "story",
-      "url": "https://gamehistory.org/simcity/"
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
     },
     "og_item": null
   },
@@ -2742,17 +3191,22 @@
     "points": 23,
     "comment_count": 2,
     "hn_item": {
-      "by": "jordigh",
-      "descendants": 1,
-      "id": 30141063,
+      "by": "doener",
+      "descendants": 24,
+      "id": 30125730,
       "kids": [
-        30143696
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
       ],
-      "score": 6,
-      "time": 1643576644,
-      "title": "Recovering Nintendo’s Lost SimCity for the NES",
+      "score": 50,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
       "type": "story",
-      "url": "https://gamehistory.org/simcity/"
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
     },
     "og_item": {
       "title": "DDS — dds 0.1.0-alpha.3 documentation",
@@ -2784,17 +3238,22 @@
     "points": 96,
     "comment_count": 5,
     "hn_item": {
-      "by": "jordigh",
-      "descendants": 1,
-      "id": 30141063,
+      "by": "doener",
+      "descendants": 24,
+      "id": 30125730,
       "kids": [
-        30143696
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
       ],
-      "score": 6,
-      "time": 1643576644,
-      "title": "Recovering Nintendo’s Lost SimCity for the NES",
+      "score": 50,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
       "type": "story",
-      "url": "https://gamehistory.org/simcity/"
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
     },
     "og_item": {
       "title": "All News - Steel Bank Common Lisp",
@@ -2826,17 +3285,22 @@
     "points": 19,
     "comment_count": 0,
     "hn_item": {
-      "by": "jordigh",
-      "descendants": 1,
-      "id": 30141063,
+      "by": "doener",
+      "descendants": 24,
+      "id": 30125730,
       "kids": [
-        30143696
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
       ],
-      "score": 6,
-      "time": 1643576644,
-      "title": "Recovering Nintendo’s Lost SimCity for the NES",
+      "score": 50,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
       "type": "story",
-      "url": "https://gamehistory.org/simcity/"
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
     },
     "og_item": {
       "title": "The Dialectic of Enlightenment",
@@ -2877,17 +3341,22 @@
     "points": 13,
     "comment_count": 2,
     "hn_item": {
-      "by": "jordigh",
-      "descendants": 1,
-      "id": 30141063,
+      "by": "doener",
+      "descendants": 24,
+      "id": 30125730,
       "kids": [
-        30143696
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
       ],
-      "score": 6,
-      "time": 1643576644,
-      "title": "Recovering Nintendo’s Lost SimCity for the NES",
+      "score": 50,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
       "type": "story",
-      "url": "https://gamehistory.org/simcity/"
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
     },
     "og_item": {
       "title": "How to be an effective ruler: the Basilikon Doron of King James VI and I",
@@ -2928,17 +3397,22 @@
     "points": 94,
     "comment_count": 10,
     "hn_item": {
-      "by": "jordigh",
-      "descendants": 1,
-      "id": 30141063,
+      "by": "doener",
+      "descendants": 24,
+      "id": 30125730,
       "kids": [
-        30143696
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
       ],
-      "score": 6,
-      "time": 1643576644,
-      "title": "Recovering Nintendo’s Lost SimCity for the NES",
+      "score": 50,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
       "type": "story",
-      "url": "https://gamehistory.org/simcity/"
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
     },
     "og_item": {
       "title": "Unredacted Word",
@@ -2979,17 +3453,22 @@
     "points": 127,
     "comment_count": 12,
     "hn_item": {
-      "by": "jordigh",
-      "descendants": 1,
-      "id": 30141063,
+      "by": "doener",
+      "descendants": 24,
+      "id": 30125730,
       "kids": [
-        30143696
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
       ],
-      "score": 6,
-      "time": 1643576644,
-      "title": "Recovering Nintendo’s Lost SimCity for the NES",
+      "score": 50,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
       "type": "story",
-      "url": "https://gamehistory.org/simcity/"
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
     },
     "og_item": {
       "title": "Jeremy Mikkola - Tech debt gets worse before it gets better",
@@ -3018,20 +3497,25 @@
     "publisher": "aradaelli.com",
     "description": "",
     "by": "aradaelli",
-    "points": 14,
+    "points": 15,
     "comment_count": 2,
     "hn_item": {
-      "by": "jordigh",
-      "descendants": 1,
-      "id": 30141063,
+      "by": "doener",
+      "descendants": 24,
+      "id": 30125730,
       "kids": [
-        30143696
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
       ],
-      "score": 6,
-      "time": 1643576644,
-      "title": "Recovering Nintendo’s Lost SimCity for the NES",
+      "score": 50,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
       "type": "story",
-      "url": "https://gamehistory.org/simcity/"
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
     },
     "og_item": {
       "title": "\nMusic Reactive Led Matrix – Andrea Radaelli\n",
@@ -3051,44 +3535,58 @@
     }
   },
   {
-    "id": 30140210,
-    "title": "Why is Harvard astrophysicist Avi Loeb working with ardent UFO believers?",
-    "url": "https://www.science.org/content/article/why-is-harvard-astrophysicist-working-with-ufo-buffs",
-    "time": 1643570644,
-    "image": "",
-    "icon": "https://www.science.org/favicon.ico",
-    "publisher": "AAAS",
-    "description": "",
-    "by": "tejohnso",
-    "points": 47,
-    "comment_count": 9,
+    "id": 30144083,
+    "title": "Rents are up 40 percent in some cities, forcing millions to move",
+    "url": "https://www.washingtonpost.com/business/2022/01/30/rent-inflation-housing/",
+    "time": 1643599234,
+    "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QJQ7K2D774I6ZDGIW2LFMS5HSY.jpg\u0026w=1440",
+    "icon": "https://www.washingtonpost.com/wp-stat/assets/favicons/touch-icon-iphone.png",
+    "publisher": "Washington Post",
+    "description": "Rising rents are also expected to be a driving force in inflation this year and have been an ongoing policy challenge for the Biden administration.",
+    "by": "MilnerRoute",
+    "points": 5,
+    "comment_count": 0,
     "hn_item": {
-      "by": "jordigh",
-      "descendants": 1,
-      "id": 30141063,
+      "by": "doener",
+      "descendants": 24,
+      "id": 30125730,
       "kids": [
-        30143696
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
       ],
-      "score": 6,
-      "time": 1643576644,
-      "title": "Recovering Nintendo’s Lost SimCity for the NES",
+      "score": 50,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
       "type": "story",
-      "url": "https://gamehistory.org/simcity/"
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
     },
     "og_item": {
-      "title": "Science | AAAS",
-      "type": "Website",
-      "image": [],
-      "url": "",
+      "title": "Rents are up 40 percent in some cities, forcing millions to find another place to live",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QJQ7K2D774I6ZDGIW2LFMS5HSY.jpg\u0026w=1440",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://www.washingtonpost.com/business/2022/01/30/rent-inflation-housing/",
       "audio": [],
-      "description": "",
+      "description": "Rising rents are also expected to be a driving force in inflation this year and have been an ongoing policy challenge for the Biden administration.",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "AAAS",
+      "site_name": "Washington Post",
       "video": [],
       "favicon": {
-        "url": "/favicon.ico"
+        "url": "https://www.washingtonpost.com/wp-stat/assets/favicons/touch-icon-iphone.png"
       }
     }
   },
@@ -3105,17 +3603,22 @@
     "points": 50,
     "comment_count": 6,
     "hn_item": {
-      "by": "jordigh",
-      "descendants": 1,
-      "id": 30141063,
+      "by": "doener",
+      "descendants": 24,
+      "id": 30125730,
       "kids": [
-        30143696
+        30137540,
+        30138285,
+        30140327,
+        30137710,
+        30140268,
+        30141664
       ],
-      "score": 6,
-      "time": 1643576644,
-      "title": "Recovering Nintendo’s Lost SimCity for the NES",
+      "score": 50,
+      "time": 1643458917,
+      "title": "How Amiga 500 RAM Probably Works",
       "type": "story",
-      "url": "https://gamehistory.org/simcity/"
+      "url": "https://www.youtube.com/watch?v=e_f2Kg-bBUs"
     },
     "og_item": {
       "title": "How Amiga 500 RAM Probably Works | How Things Probably Work",
@@ -3149,150 +3652,6 @@
       ],
       "favicon": {
         "url": "https://www.youtube.com/s/desktop/ca9cd554/img/favicon_144x144.png"
-      }
-    }
-  },
-  {
-    "id": 30128379,
-    "title": "Controlling RGB LEDs with only powerlines: Anatomy of a Christmas light string",
-    "url": "https://cpldcpu.wordpress.com/2022/01/23/controlling-rgb-leds-with-only-the-powerlines-anatomy-of-a-christmas-light-string/",
-    "time": 1643477829,
-    "image": "https://cpldcpu.files.wordpress.com/2022/01/wiremess.jpg",
-    "icon": "https://s0.wp.com/i/favicon.ico",
-    "publisher": "Tim's Blog",
-    "description": "The RGB curtain predictably turns into a mess of wires when not used according to instructions. As should be obvious from this blog, I am somewhat drawn to clever and minimalistic implementations o…",
-    "by": "cpldcpu",
-    "points": 143,
-    "comment_count": 6,
-    "hn_item": {
-      "by": "jordigh",
-      "descendants": 1,
-      "id": 30141063,
-      "kids": [
-        30143696
-      ],
-      "score": 6,
-      "time": 1643576644,
-      "title": "Recovering Nintendo’s Lost SimCity for the NES",
-      "type": "story",
-      "url": "https://gamehistory.org/simcity/"
-    },
-    "og_item": {
-      "title": "Controlling RGB LEDs With Only the Powerlines: Anatomy of a Christmas Light String",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://cpldcpu.files.wordpress.com/2022/01/wiremess.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 3840,
-          "height": 2632,
-          "alt": ""
-        }
-      ],
-      "url": "https://cpldcpu.wordpress.com/2022/01/23/controlling-rgb-leds-with-only-the-powerlines-anatomy-of-a-christmas-light-string/",
-      "audio": [],
-      "description": "The RGB curtain predictably turns into a mess of wires when not used according to instructions. As should be obvious from this blog, I am somewhat drawn to clever and minimalistic implementations o…",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Tim's Blog",
-      "video": [],
-      "favicon": {
-        "url": "https://s0.wp.com/i/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30125758,
-    "title": "Fun with DBM-type databases (2018)",
-    "url": "https://www.openwall.com/lists/oss-security/2018/06/17/1",
-    "time": 1643459431,
-    "image": "",
-    "icon": "https://www.openwall.com/favicon.ico",
-    "publisher": "openwall.com",
-    "description": "",
-    "by": "rdpintqogeogsaa",
-    "points": 21,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "jordigh",
-      "descendants": 1,
-      "id": 30141063,
-      "kids": [
-        30143696
-      ],
-      "score": 6,
-      "time": 1643576644,
-      "title": "Recovering Nintendo’s Lost SimCity for the NES",
-      "type": "story",
-      "url": "https://gamehistory.org/simcity/"
-    },
-    "og_item": {
-      "title": "oss-security - Fun with DBM-type databases...",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30141063,
-    "title": "Recovering Nintendo’s Lost SimCity for the NES",
-    "url": "https://gamehistory.org/simcity/",
-    "time": 1643576644,
-    "image": "https://gamehistory.org/wp-content/uploads/2018/12/image9.png",
-    "icon": "https://gamehistory.org/wp-content/uploads/2020/09/cropped-favicon-192x192.png",
-    "publisher": "Video Game History Foundation",
-    "description": "The Super Nintendo classic started life on the 8-bit NES. That version was considered lost...until now.",
-    "by": "jordigh",
-    "points": 6,
-    "comment_count": 1,
-    "hn_item": {
-      "by": "jordigh",
-      "descendants": 1,
-      "id": 30141063,
-      "kids": [
-        30143696
-      ],
-      "score": 6,
-      "time": 1643576644,
-      "title": "Recovering Nintendo’s Lost SimCity for the NES",
-      "type": "story",
-      "url": "https://gamehistory.org/simcity/"
-    },
-    "og_item": {
-      "title": "Recovering Nintendo's Lost SimCity for the NES | Video Game History Foundation",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://gamehistory.org/wp-content/uploads/2018/12/image9.png",
-          "secure_url": "",
-          "type": "",
-          "width": 1598,
-          "height": 1008,
-          "alt": ""
-        }
-      ],
-      "url": "https://gamehistory.org/simcity/",
-      "audio": [],
-      "description": "The Super Nintendo classic started life on the 8-bit NES. That version was considered lost...until now.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Video Game History Foundation",
-      "video": [],
-      "favicon": {
-        "url": "https://gamehistory.org/wp-content/uploads/2020/09/cropped-favicon-192x192.png"
       }
     }
   }
