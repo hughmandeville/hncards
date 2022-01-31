@@ -9,25 +9,21 @@
     "publisher": "lsd.gnunet.org",
     "description": "This document contains the GNU Name System (GNS) technical\n      specification.\n      GNS is a decentralized and censorship-resistant name\n      system that provides a privacy-enhancing alternative to the Domain\n      Name System (DNS).\n       \n       \n      This document defines t…",
     "by": "simonpure",
-    "points": 65,
-    "comment_count": 22,
+    "points": 74,
+    "comment_count": 24,
     "hn_item": {
-      "by": "ciprian_craciun",
-      "descendants": 16,
-      "id": 30147652,
+      "by": "Otter-man",
+      "descendants": 5,
+      "id": 30153589,
       "kids": [
-        30148761,
-        30149137,
-        30149632,
-        30154229,
-        30149237,
-        30148851
+        30154692,
+        30154171
       ],
-      "score": 85,
-      "time": 1643635848,
-      "title": "Firecracker v1.0 Released",
+      "score": 28,
+      "time": 1643659930,
+      "title": "YouTube limits live streams viewers for accounts with \"limited creator history\"",
       "type": "story",
-      "url": "https://github.com/firecracker-microvm/firecracker/releases/tag/v1.0.0"
+      "url": "https://twitter.com/infolibnews/status/1488013567207120896"
     },
     "og_item": {
       "title": "The GNU Name System",
@@ -56,25 +52,21 @@
     "publisher": "The New York Times",
     "description": "The word game, released in October, has millions of daily users.",
     "by": "lucis",
-    "points": 370,
-    "comment_count": 245,
+    "points": 391,
+    "comment_count": 264,
     "hn_item": {
-      "by": "ciprian_craciun",
-      "descendants": 16,
-      "id": 30147652,
+      "by": "Otter-man",
+      "descendants": 5,
+      "id": 30153589,
       "kids": [
-        30148761,
-        30149137,
-        30149632,
-        30154229,
-        30149237,
-        30148851
+        30154692,
+        30154171
       ],
-      "score": 85,
-      "time": 1643635848,
-      "title": "Firecracker v1.0 Released",
+      "score": 28,
+      "time": 1643659930,
+      "title": "YouTube limits live streams viewers for accounts with \"limited creator history\"",
       "type": "story",
-      "url": "https://github.com/firecracker-microvm/firecracker/releases/tag/v1.0.0"
+      "url": "https://twitter.com/infolibnews/status/1488013567207120896"
     },
     "og_item": {
       "title": "The New York Times Buys Wordle",
@@ -104,7 +96,7 @@
   },
   {
     "id": 30155295,
-    "title": "Pay Attention to WebAssembly",
+    "title": "Pay attention to WebAssembly",
     "url": "https://harshal.sheth.io/2022/01/31/webassembly.html",
     "time": 1643666927,
     "image": "",
@@ -112,25 +104,21 @@
     "publisher": "Harshal Sheth",
     "description": "\u003c!—–",
     "by": "hsheth2",
-    "points": 36,
-    "comment_count": 17,
+    "points": 40,
+    "comment_count": 25,
     "hn_item": {
-      "by": "ciprian_craciun",
-      "descendants": 16,
-      "id": 30147652,
+      "by": "Otter-man",
+      "descendants": 5,
+      "id": 30153589,
       "kids": [
-        30148761,
-        30149137,
-        30149632,
-        30154229,
-        30149237,
-        30148851
+        30154692,
+        30154171
       ],
-      "score": 85,
-      "time": 1643635848,
-      "title": "Firecracker v1.0 Released",
+      "score": 28,
+      "time": 1643659930,
+      "title": "YouTube limits live streams viewers for accounts with \"limited creator history\"",
       "type": "story",
-      "url": "https://github.com/firecracker-microvm/firecracker/releases/tag/v1.0.0"
+      "url": "https://twitter.com/infolibnews/status/1488013567207120896"
     },
     "og_item": {
       "title": "Pay attention to WebAssembly",
@@ -150,6 +138,49 @@
     }
   },
   {
+    "id": 30155927,
+    "title": "Red Light Green Light",
+    "url": "https://jamessevedge.com/articles/red-light-green-light/",
+    "time": 1643669639,
+    "image": "",
+    "icon": "https://jamessevedge.com/favicon.ico",
+    "publisher": "jamessevedge.com",
+    "description": "I was listening to the Tim Ferriss Show podcast episode #532 with Sheila Heen (Harvard Negotiation Project, co-author of Difficult Conversations: How To Discuss What Matters Most) and a specific story she told during the conversation really resonated with me. Below is the excerpt of that story in…",
+    "by": "aseattledev1234",
+    "points": 14,
+    "comment_count": 2,
+    "hn_item": {
+      "by": "Otter-man",
+      "descendants": 5,
+      "id": 30153589,
+      "kids": [
+        30154692,
+        30154171
+      ],
+      "score": 28,
+      "time": 1643659930,
+      "title": "YouTube limits live streams viewers for accounts with \"limited creator history\"",
+      "type": "story",
+      "url": "https://twitter.com/infolibnews/status/1488013567207120896"
+    },
+    "og_item": {
+      "title": "Red Light Green Light",
+      "type": "article",
+      "image": [],
+      "url": "https://jamessevedge.com/articles/red-light-green-light/",
+      "audio": [],
+      "description": "I was listening to the Tim Ferriss Show podcast episode #532 with Sheila Heen (Harvard Negotiation Project, co-author of Difficult Conversations: How To Discuss What Matters Most) and a specific story she told during the conversation really resonated with me. Below is the excerpt of that story in her own words.\nIt reminds me, I sometimes tell this story about my eldest son. His name is Ben. He’s 22 now, but when he was about three, we were driving down the street.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30150586,
     "title": "Moderna’s HIV vaccine has officially begun human trials",
     "url": "https://www.them.us/story/hiv-aids-vaccine-human-trials-moderna",
@@ -159,25 +190,21 @@
     "publisher": "them.",
     "description": "We could be getting even closer to stopping the spread of HIV/AIDS.",
     "by": "grawprog",
-    "points": 670,
-    "comment_count": 273,
+    "points": 680,
+    "comment_count": 277,
     "hn_item": {
-      "by": "ciprian_craciun",
-      "descendants": 16,
-      "id": 30147652,
+      "by": "Otter-man",
+      "descendants": 5,
+      "id": 30153589,
       "kids": [
-        30148761,
-        30149137,
-        30149632,
-        30154229,
-        30149237,
-        30148851
+        30154692,
+        30154171
       ],
-      "score": 85,
-      "time": 1643635848,
-      "title": "Firecracker v1.0 Released",
+      "score": 28,
+      "time": 1643659930,
+      "title": "YouTube limits live streams viewers for accounts with \"limited creator history\"",
       "type": "story",
-      "url": "https://github.com/firecracker-microvm/firecracker/releases/tag/v1.0.0"
+      "url": "https://twitter.com/infolibnews/status/1488013567207120896"
     },
     "og_item": {
       "title": "Moderna’s HIV Vaccine Has Officially Begun Human Trials",
@@ -215,25 +242,21 @@
     "publisher": "benkuhn.net",
     "description": "When I started dating my partner, I quickly noticed that grad school was making her very sad.\nThis was shortly after I’d started leading an engineering team at Wave, and so the “obvious” hypothesis to me was that the management (okay, “management”) one gets in graduate school is totally…",
     "by": "sebg",
-    "points": 102,
-    "comment_count": 100,
+    "points": 105,
+    "comment_count": 104,
     "hn_item": {
-      "by": "ciprian_craciun",
-      "descendants": 16,
-      "id": 30147652,
+      "by": "Otter-man",
+      "descendants": 5,
+      "id": 30153589,
       "kids": [
-        30148761,
-        30149137,
-        30149632,
-        30154229,
-        30149237,
-        30148851
+        30154692,
+        30154171
       ],
-      "score": 85,
-      "time": 1643635848,
-      "title": "Firecracker v1.0 Released",
+      "score": 28,
+      "time": 1643659930,
+      "title": "YouTube limits live streams viewers for accounts with \"limited creator history\"",
       "type": "story",
-      "url": "https://github.com/firecracker-microvm/firecracker/releases/tag/v1.0.0"
+      "url": "https://twitter.com/infolibnews/status/1488013567207120896"
     },
     "og_item": {
       "title": "The unreasonable effectiveness of one-on-ones",
@@ -262,25 +285,21 @@
     "publisher": "magistrate.khanna.law",
     "description": "",
     "by": "hkhanna",
-    "points": 197,
+    "points": 198,
     "comment_count": 80,
     "hn_item": {
-      "by": "ciprian_craciun",
-      "descendants": 16,
-      "id": 30147652,
+      "by": "Otter-man",
+      "descendants": 5,
+      "id": 30153589,
       "kids": [
-        30148761,
-        30149137,
-        30149632,
-        30154229,
-        30149237,
-        30148851
+        30154692,
+        30154171
       ],
-      "score": 85,
-      "time": 1643635848,
-      "title": "Firecracker v1.0 Released",
+      "score": 28,
+      "time": 1643659930,
+      "title": "YouTube limits live streams viewers for accounts with \"limited creator history\"",
       "type": "story",
-      "url": "https://github.com/firecracker-microvm/firecracker/releases/tag/v1.0.0"
+      "url": "https://twitter.com/infolibnews/status/1488013567207120896"
     },
     "og_item": {
       "title": "Plain text legal contracts for developers - Magistrate",
@@ -300,53 +319,6 @@
     }
   },
   {
-    "id": 30155927,
-    "title": "Red Light Green Light",
-    "url": "https://jamessevedge.com/articles/red-light-green-light/",
-    "time": 1643669639,
-    "image": "",
-    "icon": "https://jamessevedge.com/favicon.ico",
-    "publisher": "jamessevedge.com",
-    "description": "I was listening to the Tim Ferriss Show podcast episode #532 with Sheila Heen (Harvard Negotiation Project, co-author of Difficult Conversations: How To Discuss What Matters Most) and a specific story she told during the conversation really resonated with me. Below is the excerpt of that story in…",
-    "by": "aseattledev1234",
-    "points": 8,
-    "comment_count": 2,
-    "hn_item": {
-      "by": "ciprian_craciun",
-      "descendants": 16,
-      "id": 30147652,
-      "kids": [
-        30148761,
-        30149137,
-        30149632,
-        30154229,
-        30149237,
-        30148851
-      ],
-      "score": 85,
-      "time": 1643635848,
-      "title": "Firecracker v1.0 Released",
-      "type": "story",
-      "url": "https://github.com/firecracker-microvm/firecracker/releases/tag/v1.0.0"
-    },
-    "og_item": {
-      "title": "Red Light Green Light",
-      "type": "article",
-      "image": [],
-      "url": "https://jamessevedge.com/articles/red-light-green-light/",
-      "audio": [],
-      "description": "I was listening to the Tim Ferriss Show podcast episode #532 with Sheila Heen (Harvard Negotiation Project, co-author of Difficult Conversations: How To Discuss What Matters Most) and a specific story she told during the conversation really resonated with me. Below is the excerpt of that story in her own words.\nIt reminds me, I sometimes tell this story about my eldest son. His name is Ben. He’s 22 now, but when he was about three, we were driving down the street.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30129631,
     "title": "Request bodies in GET requests",
     "url": "https://evertpot.com/get-request-bodies/",
@@ -356,25 +328,21 @@
     "publisher": "evertpot.com",
     "description": "",
     "by": "treve",
-    "points": 109,
-    "comment_count": 86,
+    "points": 112,
+    "comment_count": 91,
     "hn_item": {
-      "by": "ciprian_craciun",
-      "descendants": 16,
-      "id": 30147652,
+      "by": "Otter-man",
+      "descendants": 5,
+      "id": 30153589,
       "kids": [
-        30148761,
-        30149137,
-        30149632,
-        30154229,
-        30149237,
-        30148851
+        30154692,
+        30154171
       ],
-      "score": 85,
-      "time": 1643635848,
-      "title": "Firecracker v1.0 Released",
+      "score": 28,
+      "time": 1643659930,
+      "title": "YouTube limits live streams viewers for accounts with \"limited creator history\"",
       "type": "story",
-      "url": "https://github.com/firecracker-microvm/firecracker/releases/tag/v1.0.0"
+      "url": "https://twitter.com/infolibnews/status/1488013567207120896"
     },
     "og_item": {
       "title": "Request bodies in GET requests",
@@ -403,41 +371,80 @@
     }
   },
   {
+    "id": 30156048,
+    "title": "SimpleDB: A Basic RDBMS Built from Scratch",
+    "url": "https://www.awelm.com/posts/simple-db/",
+    "time": 1643670213,
+    "image": "",
+    "icon": "https://www.awelm.com/favicon.ico",
+    "publisher": "awelm.com",
+    "description": "My databases class at UCLA wasn’t very challenging so I never truly understood the internals of databases. This always bothered me so I vowed to build a simple database from scratch to learn the fundamentals.",
+    "by": "hackthesystem",
+    "points": 9,
+    "comment_count": 1,
+    "hn_item": {
+      "by": "Otter-man",
+      "descendants": 5,
+      "id": 30153589,
+      "kids": [
+        30154692,
+        30154171
+      ],
+      "score": 28,
+      "time": 1643659930,
+      "title": "YouTube limits live streams viewers for accounts with \"limited creator history\"",
+      "type": "story",
+      "url": "https://twitter.com/infolibnews/status/1488013567207120896"
+    },
+    "og_item": {
+      "title": "SimpleDB: A Basic RDBMS Built From Scratch",
+      "type": "article",
+      "image": [],
+      "url": "https://www.awelm.com/posts/simple-db/",
+      "audio": [],
+      "description": "My databases class at UCLA wasn’t very challenging so I never truly understood the internals of databases. This always bothered me so I vowed to build a simple database from scratch to learn the fundamentals.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30150018,
     "title": "Pyflow – Visual and modular block programming in Python",
     "url": "https://github.com/Bycelium/PyFlow",
     "time": 1643647446,
-    "image": "https://opengraph.githubassets.com/26e67c5b195a62b6959213898e171d012fcacb987a6d9fd27551aa503752907a/Bycelium/PyFlow",
+    "image": "https://opengraph.githubassets.com/c4bdf12fddc3cf337260c8aeb44bba60843605b139997b1484cd9e0ba2bf9e19/Bycelium/PyFlow",
     "icon": "https://github.githubassets.com/favicons/favicon.svg",
     "publisher": "GitHub",
     "description": "An open-source tool for visual and modular block programing in python - GitHub - Bycelium/PyFlow: An open-source tool for visual and modular block programing in python",
     "by": "amai",
-    "points": 144,
-    "comment_count": 69,
+    "points": 146,
+    "comment_count": 70,
     "hn_item": {
-      "by": "ciprian_craciun",
-      "descendants": 16,
-      "id": 30147652,
+      "by": "Otter-man",
+      "descendants": 5,
+      "id": 30153589,
       "kids": [
-        30148761,
-        30149137,
-        30149632,
-        30154229,
-        30149237,
-        30148851
+        30154692,
+        30154171
       ],
-      "score": 85,
-      "time": 1643635848,
-      "title": "Firecracker v1.0 Released",
+      "score": 28,
+      "time": 1643659930,
+      "title": "YouTube limits live streams viewers for accounts with \"limited creator history\"",
       "type": "story",
-      "url": "https://github.com/firecracker-microvm/firecracker/releases/tag/v1.0.0"
+      "url": "https://twitter.com/infolibnews/status/1488013567207120896"
     },
     "og_item": {
       "title": "GitHub - Bycelium/PyFlow: An open-source tool for visual and modular block programing in python",
       "type": "object",
       "image": [
         {
-          "url": "https://opengraph.githubassets.com/26e67c5b195a62b6959213898e171d012fcacb987a6d9fd27551aa503752907a/Bycelium/PyFlow",
+          "url": "https://opengraph.githubassets.com/c4bdf12fddc3cf337260c8aeb44bba60843605b139997b1484cd9e0ba2bf9e19/Bycelium/PyFlow",
           "secure_url": "",
           "type": "",
           "width": 1200,
@@ -459,62 +466,6 @@
     }
   },
   {
-    "id": 30150343,
-    "title": "The new hire who showed up is not the same person we interviewed",
-    "url": "https://www.askamanager.org/2022/01/the-new-hire-who-showed-up-is-not-the-same-person-we-interviewed.html",
-    "time": 1643648604,
-    "image": "https://www.askamanager.org/wp-content/uploads/2014/04/bannersmfb.png",
-    "icon": "https://www.askamanager.org/wp-content/uploads/2011/02/favicon2.png",
-    "publisher": "Ask a Manager",
-    "description": "A reader writes: This is a situation currently unfolding at my husband's office so I’m a very amused bystander and thought I’d get your opinion on this",
-    "by": "amadeuspzs",
-    "points": 640,
-    "comment_count": 366,
-    "hn_item": {
-      "by": "ciprian_craciun",
-      "descendants": 16,
-      "id": 30147652,
-      "kids": [
-        30148761,
-        30149137,
-        30149632,
-        30154229,
-        30149237,
-        30148851
-      ],
-      "score": 85,
-      "time": 1643635848,
-      "title": "Firecracker v1.0 Released",
-      "type": "story",
-      "url": "https://github.com/firecracker-microvm/firecracker/releases/tag/v1.0.0"
-    },
-    "og_item": {
-      "title": "the new hire who showed up is not the same person we interviewed",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://www.askamanager.org/wp-content/uploads/2014/04/bannersmfb.png",
-          "secure_url": "",
-          "type": "",
-          "width": 300,
-          "height": 253,
-          "alt": ""
-        }
-      ],
-      "url": "https://www.askamanager.org/2022/01/the-new-hire-who-showed-up-is-not-the-same-person-we-interviewed.html",
-      "audio": [],
-      "description": "A reader writes: This is a situation currently unfolding at my husband's office so I’m a very amused bystander and thought I’d get your opinion on this",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Ask a Manager",
-      "video": [],
-      "favicon": {
-        "url": "https://www.askamanager.org/wp-content/uploads/2011/02/favicon2.png"
-      }
-    }
-  },
-  {
     "id": 30154265,
     "title": "Smarking (YC W15) Is Hiring Head of Eng to digitize $655B parking industry",
     "url": "https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567",
@@ -527,22 +478,18 @@
     "points": 1,
     "comment_count": 0,
     "hn_item": {
-      "by": "ciprian_craciun",
-      "descendants": 16,
-      "id": 30147652,
+      "by": "Otter-man",
+      "descendants": 5,
+      "id": 30153589,
       "kids": [
-        30148761,
-        30149137,
-        30149632,
-        30154229,
-        30149237,
-        30148851
+        30154692,
+        30154171
       ],
-      "score": 85,
-      "time": 1643635848,
-      "title": "Firecracker v1.0 Released",
+      "score": 28,
+      "time": 1643659930,
+      "title": "YouTube limits live streams viewers for accounts with \"limited creator history\"",
       "type": "story",
-      "url": "https://github.com/firecracker-microvm/firecracker/releases/tag/v1.0.0"
+      "url": "https://twitter.com/infolibnews/status/1488013567207120896"
     },
     "og_item": {
       "title": "Smarking - Head of Engineering",
@@ -580,25 +527,21 @@
     "publisher": "Nature",
     "description": "Several teams hope to use pulsars in the Milky Way to detect ripples in space-time made by distant supermassive black holes.",
     "by": "pseudolus",
-    "points": 11,
+    "points": 14,
     "comment_count": 0,
     "hn_item": {
-      "by": "ciprian_craciun",
-      "descendants": 16,
-      "id": 30147652,
+      "by": "Otter-man",
+      "descendants": 5,
+      "id": 30153589,
       "kids": [
-        30148761,
-        30149137,
-        30149632,
-        30154229,
-        30149237,
-        30148851
+        30154692,
+        30154171
       ],
-      "score": 85,
-      "time": 1643635848,
-      "title": "Firecracker v1.0 Released",
+      "score": 28,
+      "time": 1643659930,
+      "title": "YouTube limits live streams viewers for accounts with \"limited creator history\"",
       "type": "story",
-      "url": "https://github.com/firecracker-microvm/firecracker/releases/tag/v1.0.0"
+      "url": "https://twitter.com/infolibnews/status/1488013567207120896"
     },
     "og_item": {
       "title": "Astronomers close in on new way to detect gravitational waves",
@@ -627,6 +570,58 @@
     }
   },
   {
+    "id": 30150343,
+    "title": "The new hire who showed up is not the same person we interviewed",
+    "url": "https://www.askamanager.org/2022/01/the-new-hire-who-showed-up-is-not-the-same-person-we-interviewed.html",
+    "time": 1643648604,
+    "image": "https://www.askamanager.org/wp-content/uploads/2014/04/bannersmfb.png",
+    "icon": "https://www.askamanager.org/wp-content/uploads/2011/02/favicon2.png",
+    "publisher": "Ask a Manager",
+    "description": "A reader writes: This is a situation currently unfolding at my husband's office so I’m a very amused bystander and thought I’d get your opinion on this",
+    "by": "amadeuspzs",
+    "points": 650,
+    "comment_count": 373,
+    "hn_item": {
+      "by": "Otter-man",
+      "descendants": 5,
+      "id": 30153589,
+      "kids": [
+        30154692,
+        30154171
+      ],
+      "score": 28,
+      "time": 1643659930,
+      "title": "YouTube limits live streams viewers for accounts with \"limited creator history\"",
+      "type": "story",
+      "url": "https://twitter.com/infolibnews/status/1488013567207120896"
+    },
+    "og_item": {
+      "title": "the new hire who showed up is not the same person we interviewed",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://www.askamanager.org/wp-content/uploads/2014/04/bannersmfb.png",
+          "secure_url": "",
+          "type": "",
+          "width": 300,
+          "height": 253,
+          "alt": ""
+        }
+      ],
+      "url": "https://www.askamanager.org/2022/01/the-new-hire-who-showed-up-is-not-the-same-person-we-interviewed.html",
+      "audio": [],
+      "description": "A reader writes: This is a situation currently unfolding at my husband's office so I’m a very amused bystander and thought I’d get your opinion on this",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Ask a Manager",
+      "video": [],
+      "favicon": {
+        "url": "https://www.askamanager.org/wp-content/uploads/2011/02/favicon2.png"
+      }
+    }
+  },
+  {
     "id": 30150495,
     "title": "Yemen's bifurcated monetary system",
     "url": "http://jpkoning.blogspot.com/2022/01/yemens-bifurcated-monetary-system.html",
@@ -637,24 +632,20 @@
     "description": "Over the last five years Yemen has stumbled into a unique monetary situation. I initially wrote about Yemen's odd currency status two years ...",
     "by": "rwmj",
     "points": 90,
-    "comment_count": 55,
+    "comment_count": 58,
     "hn_item": {
-      "by": "ciprian_craciun",
-      "descendants": 16,
-      "id": 30147652,
+      "by": "Otter-man",
+      "descendants": 5,
+      "id": 30153589,
       "kids": [
-        30148761,
-        30149137,
-        30149632,
-        30154229,
-        30149237,
-        30148851
+        30154692,
+        30154171
       ],
-      "score": 85,
-      "time": 1643635848,
-      "title": "Firecracker v1.0 Released",
+      "score": 28,
+      "time": 1643659930,
+      "title": "YouTube limits live streams viewers for accounts with \"limited creator history\"",
       "type": "story",
-      "url": "https://github.com/firecracker-microvm/firecracker/releases/tag/v1.0.0"
+      "url": "https://twitter.com/infolibnews/status/1488013567207120896"
     },
     "og_item": {
       "title": "Yemen's bifurcated monetary system",
@@ -693,24 +684,20 @@
     "description": "Giant Pyrosomes are bioluminescent (light producing), giving rise to the common name, which comes from the Greek for fire (“pyro”) and body (“soma”). The light produced by Giant Pyrosomes is particularly bright and long lasting and is beautiful to witness. Because the individual tunicat…",
     "by": "integrale",
     "points": 115,
-    "comment_count": 29,
+    "comment_count": 30,
     "hn_item": {
-      "by": "ciprian_craciun",
-      "descendants": 16,
-      "id": 30147652,
+      "by": "Otter-man",
+      "descendants": 5,
+      "id": 30153589,
       "kids": [
-        30148761,
-        30149137,
-        30149632,
-        30154229,
-        30149237,
-        30148851
+        30154692,
+        30154171
       ],
-      "score": 85,
-      "time": 1643635848,
-      "title": "Firecracker v1.0 Released",
+      "score": 28,
+      "time": 1643659930,
+      "title": "YouTube limits live streams viewers for accounts with \"limited creator history\"",
       "type": "story",
-      "url": "https://github.com/firecracker-microvm/firecracker/releases/tag/v1.0.0"
+      "url": "https://twitter.com/infolibnews/status/1488013567207120896"
     },
     "og_item": {
       "title": "Giant Pyrosome",
@@ -748,25 +735,21 @@
     "publisher": "jeffgeerling.com",
     "description": "",
     "by": "geerlingguy",
-    "points": 70,
-    "comment_count": 43,
+    "points": 74,
+    "comment_count": 47,
     "hn_item": {
-      "by": "ciprian_craciun",
-      "descendants": 16,
-      "id": 30147652,
+      "by": "Otter-man",
+      "descendants": 5,
+      "id": 30153589,
       "kids": [
-        30148761,
-        30149137,
-        30149632,
-        30154229,
-        30149237,
-        30148851
+        30154692,
+        30154171
       ],
-      "score": 85,
-      "time": 1643635848,
-      "title": "Firecracker v1.0 Released",
+      "score": 28,
+      "time": 1643659930,
+      "title": "YouTube limits live streams viewers for accounts with \"limited creator history\"",
       "type": "story",
-      "url": "https://github.com/firecracker-microvm/firecracker/releases/tag/v1.0.0"
+      "url": "https://twitter.com/infolibnews/status/1488013567207120896"
     },
     "og_item": {
       "title": "It's dire: Raspberry Pi availability tracker is launched | Jeff Geerling",
@@ -786,53 +769,6 @@
     }
   },
   {
-    "id": 30156048,
-    "title": "SimpleDB: A Basic RDBMS Built from Scratch",
-    "url": "https://www.awelm.com/posts/simple-db/",
-    "time": 1643670213,
-    "image": "",
-    "icon": "https://www.awelm.com/favicon.ico",
-    "publisher": "awelm.com",
-    "description": "My databases class at UCLA wasn’t very challenging so I never truly understood the internals of databases. This always bothered me so I vowed to build a simple database from scratch to learn the fundamentals.",
-    "by": "hackthesystem",
-    "points": 4,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "ciprian_craciun",
-      "descendants": 16,
-      "id": 30147652,
-      "kids": [
-        30148761,
-        30149137,
-        30149632,
-        30154229,
-        30149237,
-        30148851
-      ],
-      "score": 85,
-      "time": 1643635848,
-      "title": "Firecracker v1.0 Released",
-      "type": "story",
-      "url": "https://github.com/firecracker-microvm/firecracker/releases/tag/v1.0.0"
-    },
-    "og_item": {
-      "title": "SimpleDB: A Basic RDBMS Built From Scratch",
-      "type": "article",
-      "image": [],
-      "url": "https://www.awelm.com/posts/simple-db/",
-      "audio": [],
-      "description": "My databases class at UCLA wasn’t very challenging so I never truly understood the internals of databases. This always bothered me so I vowed to build a simple database from scratch to learn the fundamentals.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30148364,
     "title": "The rising human cost of sports betting",
     "url": "https://www.nytimes.com/2022/01/31/sports/football/super-bowl-sports-betting.html",
@@ -842,25 +778,21 @@
     "publisher": "The New York Times",
     "description": "The ends of the college and pro football seasons were already a perilous time for people recovering from a gambling addiction. Then came the onslaught of ads for legal sports betting.",
     "by": "jbegley",
-    "points": 124,
-    "comment_count": 191,
+    "points": 128,
+    "comment_count": 193,
     "hn_item": {
-      "by": "ciprian_craciun",
-      "descendants": 16,
-      "id": 30147652,
+      "by": "Otter-man",
+      "descendants": 5,
+      "id": 30153589,
       "kids": [
-        30148761,
-        30149137,
-        30149632,
-        30154229,
-        30149237,
-        30148851
+        30154692,
+        30154171
       ],
-      "score": 85,
-      "time": 1643635848,
-      "title": "Firecracker v1.0 Released",
+      "score": 28,
+      "time": 1643659930,
+      "title": "YouTube limits live streams viewers for accounts with \"limited creator history\"",
       "type": "story",
-      "url": "https://github.com/firecracker-microvm/firecracker/releases/tag/v1.0.0"
+      "url": "https://twitter.com/infolibnews/status/1488013567207120896"
     },
     "og_item": {
       "title": "The Rising Human Cost of Sports Betting",
@@ -889,6 +821,49 @@
     }
   },
   {
+    "id": 30152113,
+    "title": "What is VWRAP? (Linden's ten year old open Virtual World protocol)",
+    "url": "https://meadhbh.hamrick.rocks/v2/technical/vwrap/index.html",
+    "time": 1643654368,
+    "image": "",
+    "icon": "https://meadhbh.hamrick.rocks/favicon.ico",
+    "publisher": "meadhbh.hamrick.rocks",
+    "description": "An overview of the IETF's Virtual Worlds Agent Region Protocol and it's development.",
+    "by": "dingosity",
+    "points": 44,
+    "comment_count": 38,
+    "hn_item": {
+      "by": "Otter-man",
+      "descendants": 5,
+      "id": 30153589,
+      "kids": [
+        30154692,
+        30154171
+      ],
+      "score": 28,
+      "time": 1643659930,
+      "title": "YouTube limits live streams viewers for accounts with \"limited creator history\"",
+      "type": "story",
+      "url": "https://twitter.com/infolibnews/status/1488013567207120896"
+    },
+    "og_item": {
+      "title": "What is VWRAP?",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "An overview of the IETF's Virtual Worlds Agent Region Protocol and it's development.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30153493,
     "title": "Observing HTTP/2 Traffic Is Hard, but eBPF Can Help",
     "url": "https://blog.px.dev/ebpf-http2-tracing/",
@@ -901,22 +876,18 @@
     "points": 42,
     "comment_count": 1,
     "hn_item": {
-      "by": "ciprian_craciun",
-      "descendants": 16,
-      "id": 30147652,
+      "by": "Otter-man",
+      "descendants": 5,
+      "id": 30153589,
       "kids": [
-        30148761,
-        30149137,
-        30149632,
-        30154229,
-        30149237,
-        30148851
+        30154692,
+        30154171
       ],
-      "score": 85,
-      "time": 1643635848,
-      "title": "Firecracker v1.0 Released",
+      "score": 28,
+      "time": 1643659930,
+      "title": "YouTube limits live streams viewers for accounts with \"limited creator history\"",
       "type": "story",
-      "url": "https://github.com/firecracker-microvm/firecracker/releases/tag/v1.0.0"
+      "url": "https://twitter.com/infolibnews/status/1488013567207120896"
     },
     "og_item": {
       "title": "Observing HTTP/2 Traffic is Hard, but eBPF Can Help",
@@ -945,53 +916,6 @@
     }
   },
   {
-    "id": 30152113,
-    "title": "What is VWRAP? (Linden's ten year old open Virtual World protocol)",
-    "url": "https://meadhbh.hamrick.rocks/v2/technical/vwrap/index.html",
-    "time": 1643654368,
-    "image": "",
-    "icon": "https://meadhbh.hamrick.rocks/favicon.ico",
-    "publisher": "meadhbh.hamrick.rocks",
-    "description": "An overview of the IETF's Virtual Worlds Agent Region Protocol and it's development.",
-    "by": "dingosity",
-    "points": 44,
-    "comment_count": 38,
-    "hn_item": {
-      "by": "ciprian_craciun",
-      "descendants": 16,
-      "id": 30147652,
-      "kids": [
-        30148761,
-        30149137,
-        30149632,
-        30154229,
-        30149237,
-        30148851
-      ],
-      "score": 85,
-      "time": 1643635848,
-      "title": "Firecracker v1.0 Released",
-      "type": "story",
-      "url": "https://github.com/firecracker-microvm/firecracker/releases/tag/v1.0.0"
-    },
-    "og_item": {
-      "title": "What is VWRAP?",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "An overview of the IETF's Virtual Worlds Agent Region Protocol and it's development.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30129652,
     "title": "Couple discovers two 60-foot-long murals hidden behind walls of 115-yo building",
     "url": "https://www.cnn.com/style/article/couple-discover-murals-during-renovation-trnd/index.html",
@@ -1001,25 +925,21 @@
     "publisher": "CNN",
     "description": "What started out as a couple's renovation project to convert a historic building into a bar has turned into an effort to restore decades-old artwork in a small Washington town.",
     "by": "wglb",
-    "points": 48,
+    "points": 49,
     "comment_count": 9,
     "hn_item": {
-      "by": "ciprian_craciun",
-      "descendants": 16,
-      "id": 30147652,
+      "by": "Otter-man",
+      "descendants": 5,
+      "id": 30153589,
       "kids": [
-        30148761,
-        30149137,
-        30149632,
-        30154229,
-        30149237,
-        30148851
+        30154692,
+        30154171
       ],
-      "score": 85,
-      "time": 1643635848,
-      "title": "Firecracker v1.0 Released",
+      "score": 28,
+      "time": 1643659930,
+      "title": "YouTube limits live streams viewers for accounts with \"limited creator history\"",
       "type": "story",
-      "url": "https://github.com/firecracker-microvm/firecracker/releases/tag/v1.0.0"
+      "url": "https://twitter.com/infolibnews/status/1488013567207120896"
     },
     "og_item": {
       "title": "A couple renovating a 115-year-old building discovered two 60-foot-long hidden murals",
@@ -1048,62 +968,6 @@
     }
   },
   {
-    "id": 30129857,
-    "title": "Online archives where scientists post research spark information revolution",
-    "url": "https://www.washingtonpost.com/health/preprint-peer-review-studies/2022/01/28/3cdfb46e-4d53-11ec-b73b-a00d6e559a6e_story.html",
-    "time": 1643486748,
-    "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KN5F5OT7DII6ZDLRB2OKGUGUWE.jpg\u0026w=1440",
-    "icon": "https://www.washingtonpost.com/wp-stat/assets/favicons/touch-icon-iphone.png",
-    "publisher": "Washington Post",
-    "description": "Called preprint servers, these free sites allow the public to read such studies before their formal publication. They are shifting how people approach new research, experts say.",
-    "by": "bookofjoe",
-    "points": 17,
-    "comment_count": 3,
-    "hn_item": {
-      "by": "ciprian_craciun",
-      "descendants": 16,
-      "id": 30147652,
-      "kids": [
-        30148761,
-        30149137,
-        30149632,
-        30154229,
-        30149237,
-        30148851
-      ],
-      "score": 85,
-      "time": 1643635848,
-      "title": "Firecracker v1.0 Released",
-      "type": "story",
-      "url": "https://github.com/firecracker-microvm/firecracker/releases/tag/v1.0.0"
-    },
-    "og_item": {
-      "title": "Online archives where scientists post their research spark information revolution",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KN5F5OT7DII6ZDLRB2OKGUGUWE.jpg\u0026w=1440",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://www.washingtonpost.com/health/preprint-peer-review-studies/2022/01/28/3cdfb46e-4d53-11ec-b73b-a00d6e559a6e_story.html",
-      "audio": [],
-      "description": "Called preprint servers, these free sites allow the public to read such studies before their formal publication. They are shifting how people approach new research, experts say.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Washington Post",
-      "video": [],
-      "favicon": {
-        "url": "https://www.washingtonpost.com/wp-stat/assets/favicons/touch-icon-iphone.png"
-      }
-    }
-  },
-  {
     "id": 30153841,
     "title": "Spanish Wordle",
     "url": "https://wordle.santiagodebus.com/",
@@ -1113,25 +977,21 @@
     "publisher": "wordle.santiagodebus.com",
     "description": "Adivine la palabra en 6 intentos. Un nuevo desafio es generado cada día.",
     "by": "sandes",
-    "points": 29,
-    "comment_count": 21,
+    "points": 30,
+    "comment_count": 22,
     "hn_item": {
-      "by": "ciprian_craciun",
-      "descendants": 16,
-      "id": 30147652,
+      "by": "Otter-man",
+      "descendants": 5,
+      "id": 30153589,
       "kids": [
-        30148761,
-        30149137,
-        30149632,
-        30154229,
-        30149237,
-        30148851
+        30154692,
+        30154171
       ],
-      "score": 85,
-      "time": 1643635848,
-      "title": "Firecracker v1.0 Released",
+      "score": 28,
+      "time": 1643659930,
+      "title": "YouTube limits live streams viewers for accounts with \"limited creator history\"",
       "type": "story",
-      "url": "https://github.com/firecracker-microvm/firecracker/releases/tag/v1.0.0"
+      "url": "https://twitter.com/infolibnews/status/1488013567207120896"
     },
     "og_item": {
       "title": "Wordle Español- Juego de adivinar una palabra por día",
@@ -1160,6 +1020,58 @@
     }
   },
   {
+    "id": 30129857,
+    "title": "Online archives where scientists post research spark information revolution",
+    "url": "https://www.washingtonpost.com/health/preprint-peer-review-studies/2022/01/28/3cdfb46e-4d53-11ec-b73b-a00d6e559a6e_story.html",
+    "time": 1643486748,
+    "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KN5F5OT7DII6ZDLRB2OKGUGUWE.jpg\u0026w=1440",
+    "icon": "https://www.washingtonpost.com/wp-stat/assets/favicons/touch-icon-iphone.png",
+    "publisher": "Washington Post",
+    "description": "Called preprint servers, these free sites allow the public to read such studies before their formal publication. They are shifting how people approach new research, experts say.",
+    "by": "bookofjoe",
+    "points": 17,
+    "comment_count": 3,
+    "hn_item": {
+      "by": "Otter-man",
+      "descendants": 5,
+      "id": 30153589,
+      "kids": [
+        30154692,
+        30154171
+      ],
+      "score": 28,
+      "time": 1643659930,
+      "title": "YouTube limits live streams viewers for accounts with \"limited creator history\"",
+      "type": "story",
+      "url": "https://twitter.com/infolibnews/status/1488013567207120896"
+    },
+    "og_item": {
+      "title": "Online archives where scientists post their research spark information revolution",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KN5F5OT7DII6ZDLRB2OKGUGUWE.jpg\u0026w=1440",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://www.washingtonpost.com/health/preprint-peer-review-studies/2022/01/28/3cdfb46e-4d53-11ec-b73b-a00d6e559a6e_story.html",
+      "audio": [],
+      "description": "Called preprint servers, these free sites allow the public to read such studies before their formal publication. They are shifting how people approach new research, experts say.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Washington Post",
+      "video": [],
+      "favicon": {
+        "url": "https://www.washingtonpost.com/wp-stat/assets/favicons/touch-icon-iphone.png"
+      }
+    }
+  },
+  {
     "id": 30151580,
     "title": "Sony to buy video game maker Bungie in $3.6B deal",
     "url": "https://www.cnbc.com/2022/01/31/sony-to-buy-video-game-maker-bungie-in-3point6-billion-deal.html",
@@ -1169,25 +1081,21 @@
     "publisher": "CNBC",
     "description": "Sony has agreed to acquire Bungie in a $3.6 billion deal, continuing January's torrid pace of video game consolidation",
     "by": "daveaiello",
-    "points": 233,
-    "comment_count": 200,
+    "points": 236,
+    "comment_count": 209,
     "hn_item": {
-      "by": "ciprian_craciun",
-      "descendants": 16,
-      "id": 30147652,
+      "by": "Otter-man",
+      "descendants": 5,
+      "id": 30153589,
       "kids": [
-        30148761,
-        30149137,
-        30149632,
-        30154229,
-        30149237,
-        30148851
+        30154692,
+        30154171
       ],
-      "score": 85,
-      "time": 1643635848,
-      "title": "Firecracker v1.0 Released",
+      "score": 28,
+      "time": 1643659930,
+      "title": "YouTube limits live streams viewers for accounts with \"limited creator history\"",
       "type": "story",
-      "url": "https://github.com/firecracker-microvm/firecracker/releases/tag/v1.0.0"
+      "url": "https://twitter.com/infolibnews/status/1488013567207120896"
     },
     "og_item": {
       "title": "Sony to buy video game maker Bungie in $3.6 billion deal as industry consolidation heats up",
@@ -1228,22 +1136,18 @@
     "points": 56,
     "comment_count": 16,
     "hn_item": {
-      "by": "ciprian_craciun",
-      "descendants": 16,
-      "id": 30147652,
+      "by": "Otter-man",
+      "descendants": 5,
+      "id": 30153589,
       "kids": [
-        30148761,
-        30149137,
-        30149632,
-        30154229,
-        30149237,
-        30148851
+        30154692,
+        30154171
       ],
-      "score": 85,
-      "time": 1643635848,
-      "title": "Firecracker v1.0 Released",
+      "score": 28,
+      "time": 1643659930,
+      "title": "YouTube limits live streams viewers for accounts with \"limited creator history\"",
       "type": "story",
-      "url": "https://github.com/firecracker-microvm/firecracker/releases/tag/v1.0.0"
+      "url": "https://twitter.com/infolibnews/status/1488013567207120896"
     },
     "og_item": {
       "title": "Reducing the size of large PDFs - All this",
@@ -1263,6 +1167,101 @@
     }
   },
   {
+    "id": 30152930,
+    "title": "Software Development Languages: Haskell",
+    "url": "https://www.fosskers.ca/en/blog/haskell-software-dev",
+    "time": 1643657291,
+    "image": "",
+    "icon": "https://www.fosskers.ca/assets/images/favicon-32x32.png",
+    "publisher": "fosskers.ca",
+    "description": "",
+    "by": "colingw",
+    "points": 36,
+    "comment_count": 14,
+    "hn_item": {
+      "by": "Otter-man",
+      "descendants": 5,
+      "id": 30153589,
+      "kids": [
+        30154692,
+        30154171
+      ],
+      "score": 28,
+      "time": 1643659930,
+      "title": "YouTube limits live streams viewers for accounts with \"limited creator history\"",
+      "type": "story",
+      "url": "https://twitter.com/infolibnews/status/1488013567207120896"
+    },
+    "og_item": {
+      "title": "Colin Woodbury",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/assets/images/favicon-32x32.png"
+      }
+    }
+  },
+  {
+    "id": 30146019,
+    "title": "Boyfriend-alert – A light based alert system",
+    "url": "https://github.com/jscd/Boyfriend-Alert",
+    "time": 1643619852,
+    "image": "https://opengraph.githubassets.com/022ff423fd7793855f08c5d278a57831126e2eac859d95c7c33235b269dddd88/jscd/Boyfriend-Alert",
+    "icon": "https://github.githubassets.com/favicons/favicon.svg",
+    "publisher": "GitHub",
+    "description": "A light based alert system. Contribute to jscd/Boyfriend-Alert development by creating an account on GitHub.",
+    "by": "rgun",
+    "points": 214,
+    "comment_count": 167,
+    "hn_item": {
+      "by": "Otter-man",
+      "descendants": 5,
+      "id": 30153589,
+      "kids": [
+        30154692,
+        30154171
+      ],
+      "score": 28,
+      "time": 1643659930,
+      "title": "YouTube limits live streams viewers for accounts with \"limited creator history\"",
+      "type": "story",
+      "url": "https://twitter.com/infolibnews/status/1488013567207120896"
+    },
+    "og_item": {
+      "title": "GitHub - jscd/Boyfriend-Alert: A light based alert system",
+      "type": "object",
+      "image": [
+        {
+          "url": "https://opengraph.githubassets.com/022ff423fd7793855f08c5d278a57831126e2eac859d95c7c33235b269dddd88/jscd/Boyfriend-Alert",
+          "secure_url": "",
+          "type": "",
+          "width": 1200,
+          "height": 600,
+          "alt": ""
+        }
+      ],
+      "url": "https://github.com/jscd/Boyfriend-Alert",
+      "audio": [],
+      "description": "A light based alert system. Contribute to jscd/Boyfriend-Alert development by creating an account on GitHub.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "GitHub",
+      "video": [],
+      "favicon": {
+        "url": "https://github.githubassets.com/favicons/favicon.svg"
+      }
+    }
+  },
+  {
     "id": 30150219,
     "title": "Show HN: Rich-CLI – A CLI toolbox for highlighting, Markdown, JSON and rich text",
     "url": "https://github.com/Textualize/rich-cli",
@@ -1275,22 +1274,18 @@
     "points": 79,
     "comment_count": 27,
     "hn_item": {
-      "by": "ciprian_craciun",
-      "descendants": 16,
-      "id": 30147652,
+      "by": "Otter-man",
+      "descendants": 5,
+      "id": 30153589,
       "kids": [
-        30148761,
-        30149137,
-        30149632,
-        30154229,
-        30149237,
-        30148851
+        30154692,
+        30154171
       ],
-      "score": 85,
-      "time": 1643635848,
-      "title": "Firecracker v1.0 Released",
+      "score": 28,
+      "time": 1643659930,
+      "title": "YouTube limits live streams viewers for accounts with \"limited creator history\"",
       "type": "story",
-      "url": "https://github.com/firecracker-microvm/firecracker/releases/tag/v1.0.0"
+      "url": "https://twitter.com/infolibnews/status/1488013567207120896"
     },
     "og_item": {
       "title": "GitHub - Textualize/rich-cli: Rich-cli is a command line toolbox for fancy output in the terminal",
@@ -1319,109 +1314,6 @@
     }
   },
   {
-    "id": 30146019,
-    "title": "Boyfriend-alert – A light based alert system",
-    "url": "https://github.com/jscd/Boyfriend-Alert",
-    "time": 1643619852,
-    "image": "https://opengraph.githubassets.com/50d30d989b4c03f3744aab109d62a0b8d7e1aa261c540a82c0456dbbde11b873/jscd/Boyfriend-Alert",
-    "icon": "https://github.githubassets.com/favicons/favicon.svg",
-    "publisher": "GitHub",
-    "description": "A light based alert system. Contribute to jscd/Boyfriend-Alert development by creating an account on GitHub.",
-    "by": "rgun",
-    "points": 213,
-    "comment_count": 167,
-    "hn_item": {
-      "by": "ciprian_craciun",
-      "descendants": 16,
-      "id": 30147652,
-      "kids": [
-        30148761,
-        30149137,
-        30149632,
-        30154229,
-        30149237,
-        30148851
-      ],
-      "score": 85,
-      "time": 1643635848,
-      "title": "Firecracker v1.0 Released",
-      "type": "story",
-      "url": "https://github.com/firecracker-microvm/firecracker/releases/tag/v1.0.0"
-    },
-    "og_item": {
-      "title": "GitHub - jscd/Boyfriend-Alert: A light based alert system",
-      "type": "object",
-      "image": [
-        {
-          "url": "https://opengraph.githubassets.com/50d30d989b4c03f3744aab109d62a0b8d7e1aa261c540a82c0456dbbde11b873/jscd/Boyfriend-Alert",
-          "secure_url": "",
-          "type": "",
-          "width": 1200,
-          "height": 600,
-          "alt": ""
-        }
-      ],
-      "url": "https://github.com/jscd/Boyfriend-Alert",
-      "audio": [],
-      "description": "A light based alert system. Contribute to jscd/Boyfriend-Alert development by creating an account on GitHub.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "GitHub",
-      "video": [],
-      "favicon": {
-        "url": "https://github.githubassets.com/favicons/favicon.svg"
-      }
-    }
-  },
-  {
-    "id": 30152930,
-    "title": "Software Development Languages: Haskell",
-    "url": "https://www.fosskers.ca/en/blog/haskell-software-dev",
-    "time": 1643657291,
-    "image": "",
-    "icon": "https://www.fosskers.ca/assets/images/favicon-32x32.png",
-    "publisher": "fosskers.ca",
-    "description": "",
-    "by": "colingw",
-    "points": 33,
-    "comment_count": 12,
-    "hn_item": {
-      "by": "ciprian_craciun",
-      "descendants": 16,
-      "id": 30147652,
-      "kids": [
-        30148761,
-        30149137,
-        30149632,
-        30154229,
-        30149237,
-        30148851
-      ],
-      "score": 85,
-      "time": 1643635848,
-      "title": "Firecracker v1.0 Released",
-      "type": "story",
-      "url": "https://github.com/firecracker-microvm/firecracker/releases/tag/v1.0.0"
-    },
-    "og_item": {
-      "title": "Colin Woodbury",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/assets/images/favicon-32x32.png"
-      }
-    }
-  },
-  {
     "id": 30149864,
     "title": "How to approach and prioritize technical debt",
     "url": "https://leadership.garden/tips-on-prioritizing-tech-debt/",
@@ -1431,25 +1323,21 @@
     "publisher": "leadership.garden",
     "description": "",
     "by": "ochronus",
-    "points": 64,
+    "points": 65,
     "comment_count": 31,
     "hn_item": {
-      "by": "ciprian_craciun",
-      "descendants": 16,
-      "id": 30147652,
+      "by": "Otter-man",
+      "descendants": 5,
+      "id": 30153589,
       "kids": [
-        30148761,
-        30149137,
-        30149632,
-        30154229,
-        30149237,
-        30148851
+        30154692,
+        30154171
       ],
-      "score": 85,
-      "time": 1643635848,
-      "title": "Firecracker v1.0 Released",
+      "score": 28,
+      "time": 1643659930,
+      "title": "YouTube limits live streams viewers for accounts with \"limited creator history\"",
       "type": "story",
-      "url": "https://github.com/firecracker-microvm/firecracker/releases/tag/v1.0.0"
+      "url": "https://twitter.com/infolibnews/status/1488013567207120896"
     },
     "og_item": {
       "title": "Please Wait... | Cloudflare",
@@ -1479,24 +1367,20 @@
     "description": "",
     "by": "decrypt",
     "points": 620,
-    "comment_count": 666,
+    "comment_count": 678,
     "hn_item": {
-      "by": "ciprian_craciun",
-      "descendants": 16,
-      "id": 30147652,
+      "by": "Otter-man",
+      "descendants": 5,
+      "id": 30153589,
       "kids": [
-        30148761,
-        30149137,
-        30149632,
-        30154229,
-        30149237,
-        30148851
+        30154692,
+        30154171
       ],
-      "score": 85,
-      "time": 1643635848,
-      "title": "Firecracker v1.0 Released",
+      "score": 28,
+      "time": 1643659930,
+      "title": "YouTube limits live streams viewers for accounts with \"limited creator history\"",
       "type": "story",
-      "url": "https://github.com/firecracker-microvm/firecracker/releases/tag/v1.0.0"
+      "url": "https://twitter.com/infolibnews/status/1488013567207120896"
     },
     "og_item": {
       "title": "Just a moment...",
@@ -1528,22 +1412,18 @@
     "points": 68,
     "comment_count": 21,
     "hn_item": {
-      "by": "ciprian_craciun",
-      "descendants": 16,
-      "id": 30147652,
+      "by": "Otter-man",
+      "descendants": 5,
+      "id": 30153589,
       "kids": [
-        30148761,
-        30149137,
-        30149632,
-        30154229,
-        30149237,
-        30148851
+        30154692,
+        30154171
       ],
-      "score": 85,
-      "time": 1643635848,
-      "title": "Firecracker v1.0 Released",
+      "score": 28,
+      "time": 1643659930,
+      "title": "YouTube limits live streams viewers for accounts with \"limited creator history\"",
       "type": "story",
-      "url": "https://github.com/firecracker-microvm/firecracker/releases/tag/v1.0.0"
+      "url": "https://twitter.com/infolibnews/status/1488013567207120896"
     },
     "og_item": {
       "title": "GitHub - hypernumbers/learn_elisp_the_hard_way: A book about learning eLisp for customising Emacs the hard way - see the Gist https://gist.github.com/754568",
@@ -1582,24 +1462,20 @@
     "description": "Make Your Makefiles Make Your Day!",
     "by": "JNRowe",
     "points": 52,
-    "comment_count": 29,
+    "comment_count": 30,
     "hn_item": {
-      "by": "ciprian_craciun",
-      "descendants": 16,
-      "id": 30147652,
+      "by": "Otter-man",
+      "descendants": 5,
+      "id": 30153589,
       "kids": [
-        30148761,
-        30149137,
-        30149632,
-        30154229,
-        30149237,
-        30148851
+        30154692,
+        30154171
       ],
-      "score": 85,
-      "time": 1643635848,
-      "title": "Firecracker v1.0 Released",
+      "score": 28,
+      "time": 1643659930,
+      "title": "YouTube limits live streams viewers for accounts with \"limited creator history\"",
       "type": "story",
-      "url": "https://github.com/firecracker-microvm/firecracker/releases/tag/v1.0.0"
+      "url": "https://twitter.com/infolibnews/status/1488013567207120896"
     },
     "og_item": {
       "title": "Autodocumenting Makefiles",
@@ -1637,25 +1513,21 @@
     "publisher": "Joel Dare",
     "description": "",
     "by": "codazoda",
-    "points": 123,
+    "points": 125,
     "comment_count": 95,
     "hn_item": {
-      "by": "ciprian_craciun",
-      "descendants": 16,
-      "id": 30147652,
+      "by": "Otter-man",
+      "descendants": 5,
+      "id": 30153589,
       "kids": [
-        30148761,
-        30149137,
-        30149632,
-        30154229,
-        30149237,
-        30148851
+        30154692,
+        30154171
       ],
-      "score": 85,
-      "time": 1643635848,
-      "title": "Firecracker v1.0 Released",
+      "score": 28,
+      "time": 1643659930,
+      "title": "YouTube limits live streams viewers for accounts with \"limited creator history\"",
       "type": "story",
-      "url": "https://github.com/firecracker-microvm/firecracker/releases/tag/v1.0.0"
+      "url": "https://twitter.com/infolibnews/status/1488013567207120896"
     },
     "og_item": {
       "title": "Gains I’m seeing from my second brain tool",
@@ -1684,25 +1556,21 @@
     "publisher": "Twitter",
     "description": "",
     "by": "ipsum2",
-    "points": 99,
+    "points": 100,
     "comment_count": 132,
     "hn_item": {
-      "by": "ciprian_craciun",
-      "descendants": 16,
-      "id": 30147652,
+      "by": "Otter-man",
+      "descendants": 5,
+      "id": 30153589,
       "kids": [
-        30148761,
-        30149137,
-        30149632,
-        30154229,
-        30149237,
-        30148851
+        30154692,
+        30154171
       ],
-      "score": 85,
-      "time": 1643635848,
-      "title": "Firecracker v1.0 Released",
+      "score": 28,
+      "time": 1643659930,
+      "title": "YouTube limits live streams viewers for accounts with \"limited creator history\"",
       "type": "story",
-      "url": "https://github.com/firecracker-microvm/firecracker/releases/tag/v1.0.0"
+      "url": "https://twitter.com/infolibnews/status/1488013567207120896"
     },
     "og_item": {
       "title": "",
@@ -1732,24 +1600,20 @@
     "description": "Tommie Woodward yelled, \"Fuck that gator!\" just before he was killed by one in Texas, and his death instantly became a national joke. For his family, grieving means having to rescue the person from the punchline.",
     "by": "blending",
     "points": 22,
-    "comment_count": 4,
+    "comment_count": 5,
     "hn_item": {
-      "by": "ciprian_craciun",
-      "descendants": 16,
-      "id": 30147652,
+      "by": "Otter-man",
+      "descendants": 5,
+      "id": 30153589,
       "kids": [
-        30148761,
-        30149137,
-        30149632,
-        30154229,
-        30149237,
-        30148851
+        30154692,
+        30154171
       ],
-      "score": 85,
-      "time": 1643635848,
-      "title": "Firecracker v1.0 Released",
+      "score": 28,
+      "time": 1643659930,
+      "title": "YouTube limits live streams viewers for accounts with \"limited creator history\"",
       "type": "story",
-      "url": "https://github.com/firecracker-microvm/firecracker/releases/tag/v1.0.0"
+      "url": "https://twitter.com/infolibnews/status/1488013567207120896"
     },
     "og_item": {
       "title": "Tommie Woodward's Internet-Famous Last Words",
@@ -1790,22 +1654,18 @@
     "points": 122,
     "comment_count": 58,
     "hn_item": {
-      "by": "ciprian_craciun",
-      "descendants": 16,
-      "id": 30147652,
+      "by": "Otter-man",
+      "descendants": 5,
+      "id": 30153589,
       "kids": [
-        30148761,
-        30149137,
-        30149632,
-        30154229,
-        30149237,
-        30148851
+        30154692,
+        30154171
       ],
-      "score": 85,
-      "time": 1643635848,
-      "title": "Firecracker v1.0 Released",
+      "score": 28,
+      "time": 1643659930,
+      "title": "YouTube limits live streams viewers for accounts with \"limited creator history\"",
       "type": "story",
-      "url": "https://github.com/firecracker-microvm/firecracker/releases/tag/v1.0.0"
+      "url": "https://twitter.com/infolibnews/status/1488013567207120896"
     },
     "og_item": {
       "title": "Socrates on the Blessing of Being Refuted - Antigone",
@@ -1846,22 +1706,18 @@
     "points": 156,
     "comment_count": 26,
     "hn_item": {
-      "by": "ciprian_craciun",
-      "descendants": 16,
-      "id": 30147652,
+      "by": "Otter-man",
+      "descendants": 5,
+      "id": 30153589,
       "kids": [
-        30148761,
-        30149137,
-        30149632,
-        30154229,
-        30149237,
-        30148851
+        30154692,
+        30154171
       ],
-      "score": 85,
-      "time": 1643635848,
-      "title": "Firecracker v1.0 Released",
+      "score": 28,
+      "time": 1643659930,
+      "title": "YouTube limits live streams viewers for accounts with \"limited creator history\"",
       "type": "story",
-      "url": "https://github.com/firecracker-microvm/firecracker/releases/tag/v1.0.0"
+      "url": "https://twitter.com/infolibnews/status/1488013567207120896"
     },
     "og_item": {
       "title": "The AWK State Machine Parser Pattern",
@@ -1891,24 +1747,20 @@
     "description": "Technologists love new technology—that new shiny thing. But, often, the promise of a new solution introduces new unforeseen problems creating unplanned challen…",
     "by": "macdonst",
     "points": 152,
-    "comment_count": 94,
+    "comment_count": 96,
     "hn_item": {
-      "by": "ciprian_craciun",
-      "descendants": 16,
-      "id": 30147652,
+      "by": "Otter-man",
+      "descendants": 5,
+      "id": 30153589,
       "kids": [
-        30148761,
-        30149137,
-        30149632,
-        30154229,
-        30149237,
-        30148851
+        30154692,
+        30154171
       ],
-      "score": 85,
-      "time": 1643635848,
-      "title": "Firecracker v1.0 Released",
+      "score": 28,
+      "time": 1643659930,
+      "title": "YouTube limits live streams viewers for accounts with \"limited creator history\"",
       "type": "story",
-      "url": "https://github.com/firecracker-microvm/firecracker/releases/tag/v1.0.0"
+      "url": "https://twitter.com/infolibnews/status/1488013567207120896"
     },
     "og_item": {
       "title": "The Boring Technology Checklist - Begin",
@@ -1928,156 +1780,6 @@
     }
   },
   {
-    "id": 30149099,
-    "title": "Google critiqued the practice of displaying ads above search results",
-    "url": "https://twitter.com/krebs_adrian/status/1488173888068542466",
-    "time": 1643643385,
-    "image": "",
-    "icon": "https://abs.twimg.com/favicons/twitter.2.ico",
-    "publisher": "Twitter",
-    "description": "",
-    "by": "hubraumhugo",
-    "points": 291,
-    "comment_count": 137,
-    "hn_item": {
-      "by": "ciprian_craciun",
-      "descendants": 16,
-      "id": 30147652,
-      "kids": [
-        30148761,
-        30149137,
-        30149632,
-        30154229,
-        30149237,
-        30148851
-      ],
-      "score": 85,
-      "time": 1643635848,
-      "title": "Firecracker v1.0 Released",
-      "type": "story",
-      "url": "https://github.com/firecracker-microvm/firecracker/releases/tag/v1.0.0"
-    },
-    "og_item": {
-      "title": "",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Twitter",
-      "video": [],
-      "favicon": {
-        "url": "//abs.twimg.com/favicons/twitter.2.ico"
-      }
-    }
-  },
-  {
-    "id": 30144101,
-    "title": "Please make a dumb car",
-    "url": "https://techcrunch.com/2022/01/29/please-make-a-dumb-car/",
-    "time": 1643599448,
-    "image": "https://techcrunch.com/wp-content/uploads/2022/01/dumb-car2.jpg?w=711",
-    "icon": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=192",
-    "publisher": "TechCrunch",
-    "description": "Today’s cars are dumb where they should be smart, and smart where they should be dumb. Enough already. Make a car that’s pretty much all dumb and watch it sell — because what automakers are giving people is so bad, they’ll pay more to have less of it. Cars now are like budget smar…",
-    "by": "wrycoder",
-    "points": 462,
-    "comment_count": 550,
-    "hn_item": {
-      "by": "ciprian_craciun",
-      "descendants": 16,
-      "id": 30147652,
-      "kids": [
-        30148761,
-        30149137,
-        30149632,
-        30154229,
-        30149237,
-        30148851
-      ],
-      "score": 85,
-      "time": 1643635848,
-      "title": "Firecracker v1.0 Released",
-      "type": "story",
-      "url": "https://github.com/firecracker-microvm/firecracker/releases/tag/v1.0.0"
-    },
-    "og_item": {
-      "title": "Please make a dumb car – TechCrunch",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/01/dumb-car2.jpg?w=711",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://social.techcrunch.com/2022/01/29/please-make-a-dumb-car/",
-      "audio": [],
-      "description": "Today’s cars are dumb where they should be smart, and smart where they should be dumb. Enough already. Make a car that’s pretty much all dumb and watch it sell — because what automakers are giving people is so bad, they’ll pay more to have less of it. Cars now are like budget smar…",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "TechCrunch",
-      "video": [],
-      "favicon": {
-        "url": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=192"
-      }
-    }
-  },
-  {
-    "id": 30153624,
-    "title": "DockerHub Active Incident",
-    "url": "https://status.docker.com/pages/history/533c6539221ae15e3f000031",
-    "time": 1643660098,
-    "image": "",
-    "icon": "https://image.status.io/PYCmnvEWUfEF.ico",
-    "publisher": "status.docker.com",
-    "description": "Current system status. View active incidents or upcoming maintenances. Subscribe to receive status notifications.",
-    "by": "mkl95",
-    "points": 9,
-    "comment_count": 3,
-    "hn_item": {
-      "by": "ciprian_craciun",
-      "descendants": 16,
-      "id": 30147652,
-      "kids": [
-        30148761,
-        30149137,
-        30149632,
-        30154229,
-        30149237,
-        30148851
-      ],
-      "score": 85,
-      "time": 1643635848,
-      "title": "Firecracker v1.0 Released",
-      "type": "story",
-      "url": "https://github.com/firecracker-microvm/firecracker/releases/tag/v1.0.0"
-    },
-    "og_item": {
-      "title": "Docker system status real-time view",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "Current system status. View active incidents or upcoming maintenances. Subscribe to receive status notifications.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "//image.status.io/PYCmnvEWUfEF.ico"
-      }
-    }
-  },
-  {
     "id": 30154492,
     "title": "Phase I clinical trial of Moderna mRNA vaccine for Epstein-Barr virus starting",
     "url": "https://www.umassmed.edu/news/news-archives/2022/01/phase-i-clinical-trial-of-moderna-mrna-vaccine-for-epstein-barr-virus-starting-at-umass-chan/",
@@ -2087,25 +1789,21 @@
     "publisher": "UMass Chan Medical School",
     "description": "UMass Chan Medical School researchers are embarking on a clinical trial of an mRNA vaccine by Moderna against the Epstein-Barr virus (EBV), a common cause of infectious mononucleosis. Katherine Luzuriaga, MD, is principal investigator for the study at UMass Chan.",
     "by": "drewcon",
-    "points": 15,
+    "points": 17,
     "comment_count": 1,
     "hn_item": {
-      "by": "ciprian_craciun",
-      "descendants": 16,
-      "id": 30147652,
+      "by": "Otter-man",
+      "descendants": 5,
+      "id": 30153589,
       "kids": [
-        30148761,
-        30149137,
-        30149632,
-        30154229,
-        30149237,
-        30148851
+        30154692,
+        30154171
       ],
-      "score": 85,
-      "time": 1643635848,
-      "title": "Firecracker v1.0 Released",
+      "score": 28,
+      "time": 1643659930,
+      "title": "YouTube limits live streams viewers for accounts with \"limited creator history\"",
       "type": "story",
-      "url": "https://github.com/firecracker-microvm/firecracker/releases/tag/v1.0.0"
+      "url": "https://twitter.com/infolibnews/status/1488013567207120896"
     },
     "og_item": {
       "title": "Phase I clinical trial of Moderna mRNA vaccine for Epstein-Barr virus starting at UMass Chan",
@@ -2134,6 +1832,196 @@
     }
   },
   {
+    "id": 30149099,
+    "title": "Google critiqued the practice of displaying ads above search results",
+    "url": "https://twitter.com/krebs_adrian/status/1488173888068542466",
+    "time": 1643643385,
+    "image": "",
+    "icon": "https://abs.twimg.com/favicons/twitter.2.ico",
+    "publisher": "Twitter",
+    "description": "",
+    "by": "hubraumhugo",
+    "points": 293,
+    "comment_count": 137,
+    "hn_item": {
+      "by": "Otter-man",
+      "descendants": 5,
+      "id": 30153589,
+      "kids": [
+        30154692,
+        30154171
+      ],
+      "score": 28,
+      "time": 1643659930,
+      "title": "YouTube limits live streams viewers for accounts with \"limited creator history\"",
+      "type": "story",
+      "url": "https://twitter.com/infolibnews/status/1488013567207120896"
+    },
+    "og_item": {
+      "title": "",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Twitter",
+      "video": [],
+      "favicon": {
+        "url": "//abs.twimg.com/favicons/twitter.2.ico"
+      }
+    }
+  },
+  {
+    "id": 30144101,
+    "title": "Please make a dumb car",
+    "url": "https://techcrunch.com/2022/01/29/please-make-a-dumb-car/",
+    "time": 1643599448,
+    "image": "https://techcrunch.com/wp-content/uploads/2022/01/dumb-car2.jpg?w=711",
+    "icon": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=192",
+    "publisher": "TechCrunch",
+    "description": "Today’s cars are dumb where they should be smart, and smart where they should be dumb. Enough already. Make a car that’s pretty much all dumb and watch it sell — because what automakers are giving people is so bad, they’ll pay more to have less of it. Cars now are like budget smar…",
+    "by": "wrycoder",
+    "points": 463,
+    "comment_count": 552,
+    "hn_item": {
+      "by": "Otter-man",
+      "descendants": 5,
+      "id": 30153589,
+      "kids": [
+        30154692,
+        30154171
+      ],
+      "score": 28,
+      "time": 1643659930,
+      "title": "YouTube limits live streams viewers for accounts with \"limited creator history\"",
+      "type": "story",
+      "url": "https://twitter.com/infolibnews/status/1488013567207120896"
+    },
+    "og_item": {
+      "title": "Please make a dumb car – TechCrunch",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/01/dumb-car2.jpg?w=711",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://social.techcrunch.com/2022/01/29/please-make-a-dumb-car/",
+      "audio": [],
+      "description": "Today’s cars are dumb where they should be smart, and smart where they should be dumb. Enough already. Make a car that’s pretty much all dumb and watch it sell — because what automakers are giving people is so bad, they’ll pay more to have less of it. Cars now are like budget smar…",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "TechCrunch",
+      "video": [],
+      "favicon": {
+        "url": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=192"
+      }
+    }
+  },
+  {
+    "id": 30152714,
+    "title": "HVM: A Parallel Functional Runtime",
+    "url": "https://github.com/Kindelia/HVM",
+    "time": 1643656542,
+    "image": "https://opengraph.githubassets.com/6304c5844dd5fe45a0c73c2245346d35cbaab59603cdf23f463dbae6aa876fc4/Kindelia/HVM",
+    "icon": "https://github.githubassets.com/favicons/favicon.svg",
+    "publisher": "GitHub",
+    "description": "A massively parallel, optimal functional runtime in Rust - GitHub - Kindelia/HVM: A massively parallel, optimal functional runtime in Rust",
+    "by": "LightMachine",
+    "points": 24,
+    "comment_count": 4,
+    "hn_item": {
+      "by": "Otter-man",
+      "descendants": 5,
+      "id": 30153589,
+      "kids": [
+        30154692,
+        30154171
+      ],
+      "score": 28,
+      "time": 1643659930,
+      "title": "YouTube limits live streams viewers for accounts with \"limited creator history\"",
+      "type": "story",
+      "url": "https://twitter.com/infolibnews/status/1488013567207120896"
+    },
+    "og_item": {
+      "title": "GitHub - Kindelia/HVM: A massively parallel, optimal functional runtime in Rust",
+      "type": "object",
+      "image": [
+        {
+          "url": "https://opengraph.githubassets.com/6304c5844dd5fe45a0c73c2245346d35cbaab59603cdf23f463dbae6aa876fc4/Kindelia/HVM",
+          "secure_url": "",
+          "type": "",
+          "width": 1200,
+          "height": 600,
+          "alt": ""
+        }
+      ],
+      "url": "https://github.com/Kindelia/HVM",
+      "audio": [],
+      "description": "A massively parallel, optimal functional runtime in Rust - GitHub - Kindelia/HVM: A massively parallel, optimal functional runtime in Rust",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "GitHub",
+      "video": [],
+      "favicon": {
+        "url": "https://github.githubassets.com/favicons/favicon.svg"
+      }
+    }
+  },
+  {
+    "id": 30153624,
+    "title": "DockerHub Active Incident",
+    "url": "https://status.docker.com/pages/history/533c6539221ae15e3f000031",
+    "time": 1643660098,
+    "image": "",
+    "icon": "https://image.status.io/PYCmnvEWUfEF.ico",
+    "publisher": "status.docker.com",
+    "description": "Current system status. View active incidents or upcoming maintenances. Subscribe to receive status notifications.",
+    "by": "mkl95",
+    "points": 9,
+    "comment_count": 3,
+    "hn_item": {
+      "by": "Otter-man",
+      "descendants": 5,
+      "id": 30153589,
+      "kids": [
+        30154692,
+        30154171
+      ],
+      "score": 28,
+      "time": 1643659930,
+      "title": "YouTube limits live streams viewers for accounts with \"limited creator history\"",
+      "type": "story",
+      "url": "https://twitter.com/infolibnews/status/1488013567207120896"
+    },
+    "og_item": {
+      "title": "Docker system status real-time view",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "Current system status. View active incidents or upcoming maintenances. Subscribe to receive status notifications.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "//image.status.io/PYCmnvEWUfEF.ico"
+      }
+    }
+  },
+  {
     "id": 30146843,
     "title": "1k-cycle lithium-sulfur battery could increase electric vehicle ranges",
     "url": "https://news.umich.edu/1000-cycle-lithium-sulfur-battery-could-quintuple-electric-vehicle-ranges/",
@@ -2146,22 +2034,18 @@
     "points": 74,
     "comment_count": 161,
     "hn_item": {
-      "by": "ciprian_craciun",
-      "descendants": 16,
-      "id": 30147652,
+      "by": "Otter-man",
+      "descendants": 5,
+      "id": 30153589,
       "kids": [
-        30148761,
-        30149137,
-        30149632,
-        30154229,
-        30149237,
-        30148851
+        30154692,
+        30154171
       ],
-      "score": 85,
-      "time": 1643635848,
-      "title": "Firecracker v1.0 Released",
+      "score": 28,
+      "time": 1643659930,
+      "title": "YouTube limits live streams viewers for accounts with \"limited creator history\"",
       "type": "story",
-      "url": "https://github.com/firecracker-microvm/firecracker/releases/tag/v1.0.0"
+      "url": "https://twitter.com/infolibnews/status/1488013567207120896"
     },
     "og_item": {
       "title": "1,000-cycle lithium-sulfur battery could quintuple electric vehicle ranges",
@@ -2190,6 +2074,58 @@
     }
   },
   {
+    "id": 30153326,
+    "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
+    "url": "https://ar5iv.org/",
+    "time": 1643658897,
+    "image": "https://ar5iv.org/assets/ar5iv_card.png",
+    "icon": "https://ar5iv.org/favicon.ico",
+    "publisher": "ar5iv",
+    "description": "ar5iv offers a modern web view for arXiv's preprints. An open community resource, on a quest to a full collection of high-quality documents.",
+    "by": "rg111",
+    "points": 10,
+    "comment_count": 1,
+    "hn_item": {
+      "by": "Otter-man",
+      "descendants": 5,
+      "id": 30153589,
+      "kids": [
+        30154692,
+        30154171
+      ],
+      "score": 28,
+      "time": 1643659930,
+      "title": "YouTube limits live streams viewers for accounts with \"limited creator history\"",
+      "type": "story",
+      "url": "https://twitter.com/infolibnews/status/1488013567207120896"
+    },
+    "og_item": {
+      "title": "ar5iv – Articles from arXiv.org as responsive HTML5 web documents",
+      "type": "",
+      "image": [
+        {
+          "url": "https://ar5iv.org/assets/ar5iv_card.png",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://ar5iv.org",
+      "audio": [],
+      "description": "ar5iv offers a modern web view for arXiv's preprints. An open community resource, on a quest to a full collection of high-quality documents.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "ar5iv",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30147004,
     "title": "A Medieval Book That Opens Six Different Ways (2018)",
     "url": "https://www.openculture.com/2018/10/medieval-book-opens-six-different-ways-revealing-six-different-books-one.html",
@@ -2202,22 +2138,18 @@
     "points": 3,
     "comment_count": 0,
     "hn_item": {
-      "by": "ciprian_craciun",
-      "descendants": 16,
-      "id": 30147652,
+      "by": "Otter-man",
+      "descendants": 5,
+      "id": 30153589,
       "kids": [
-        30148761,
-        30149137,
-        30149632,
-        30154229,
-        30149237,
-        30148851
+        30154692,
+        30154171
       ],
-      "score": 85,
-      "time": 1643635848,
-      "title": "Firecracker v1.0 Released",
+      "score": 28,
+      "time": 1643659930,
+      "title": "YouTube limits live streams viewers for accounts with \"limited creator history\"",
       "type": "story",
-      "url": "https://github.com/firecracker-microvm/firecracker/releases/tag/v1.0.0"
+      "url": "https://twitter.com/infolibnews/status/1488013567207120896"
     },
     "og_item": {
       "title": "A Medieval Book That Opens Six Different Ways, Revealing Six Different Books in One",
@@ -2258,22 +2190,18 @@
     "points": 3,
     "comment_count": 0,
     "hn_item": {
-      "by": "ciprian_craciun",
-      "descendants": 16,
-      "id": 30147652,
+      "by": "Otter-man",
+      "descendants": 5,
+      "id": 30153589,
       "kids": [
-        30148761,
-        30149137,
-        30149632,
-        30154229,
-        30149237,
-        30148851
+        30154692,
+        30154171
       ],
-      "score": 85,
-      "time": 1643635848,
-      "title": "Firecracker v1.0 Released",
+      "score": 28,
+      "time": 1643659930,
+      "title": "YouTube limits live streams viewers for accounts with \"limited creator history\"",
       "type": "story",
-      "url": "https://github.com/firecracker-microvm/firecracker/releases/tag/v1.0.0"
+      "url": "https://twitter.com/infolibnews/status/1488013567207120896"
     },
     "og_item": {
       "title": "tonsillar_hypothesis",
@@ -2293,62 +2221,6 @@
     }
   },
   {
-    "id": 30153326,
-    "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
-    "url": "https://ar5iv.org/",
-    "time": 1643658897,
-    "image": "https://ar5iv.org/assets/ar5iv_card.png",
-    "icon": "https://ar5iv.org/favicon.ico",
-    "publisher": "ar5iv",
-    "description": "ar5iv offers a modern web view for arXiv's preprints. An open community resource, on a quest to a full collection of high-quality documents.",
-    "by": "rg111",
-    "points": 10,
-    "comment_count": 1,
-    "hn_item": {
-      "by": "ciprian_craciun",
-      "descendants": 16,
-      "id": 30147652,
-      "kids": [
-        30148761,
-        30149137,
-        30149632,
-        30154229,
-        30149237,
-        30148851
-      ],
-      "score": 85,
-      "time": 1643635848,
-      "title": "Firecracker v1.0 Released",
-      "type": "story",
-      "url": "https://github.com/firecracker-microvm/firecracker/releases/tag/v1.0.0"
-    },
-    "og_item": {
-      "title": "ar5iv – Articles from arXiv.org as responsive HTML5 web documents",
-      "type": "",
-      "image": [
-        {
-          "url": "https://ar5iv.org/assets/ar5iv_card.png",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://ar5iv.org",
-      "audio": [],
-      "description": "ar5iv offers a modern web view for arXiv's preprints. An open community resource, on a quest to a full collection of high-quality documents.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "ar5iv",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30154070,
     "title": "Realtime Inequality",
     "url": "https://realtimeinequality.org/",
@@ -2361,22 +2233,18 @@
     "points": 8,
     "comment_count": 1,
     "hn_item": {
-      "by": "ciprian_craciun",
-      "descendants": 16,
-      "id": 30147652,
+      "by": "Otter-man",
+      "descendants": 5,
+      "id": 30153589,
       "kids": [
-        30148761,
-        30149137,
-        30149632,
-        30154229,
-        30149237,
-        30148851
+        30154692,
+        30154171
       ],
-      "score": 85,
-      "time": 1643635848,
-      "title": "Firecracker v1.0 Released",
+      "score": 28,
+      "time": 1643659930,
+      "title": "YouTube limits live streams viewers for accounts with \"limited creator history\"",
       "type": "story",
-      "url": "https://github.com/firecracker-microvm/firecracker/releases/tag/v1.0.0"
+      "url": "https://twitter.com/infolibnews/status/1488013567207120896"
     },
     "og_item": {
       "title": "Realtime Inequality",
@@ -2405,53 +2273,6 @@
     }
   },
   {
-    "id": 30150749,
-    "title": "Does my site need HTTPS?",
-    "url": "https://doesmysiteneedhttps.com/",
-    "time": 1643649923,
-    "image": "",
-    "icon": "https://doesmysiteneedhttps.com/favicon.ico",
-    "publisher": "Caddy",
-    "description": "Find out if your site needs HTTPS.",
-    "by": "WallyFunk",
-    "points": 80,
-    "comment_count": 109,
-    "hn_item": {
-      "by": "ciprian_craciun",
-      "descendants": 16,
-      "id": 30147652,
-      "kids": [
-        30148761,
-        30149137,
-        30149632,
-        30154229,
-        30149237,
-        30148851
-      ],
-      "score": 85,
-      "time": 1643635848,
-      "title": "Firecracker v1.0 Released",
-      "type": "story",
-      "url": "https://github.com/firecracker-microvm/firecracker/releases/tag/v1.0.0"
-    },
-    "og_item": {
-      "title": "Does my site need HTTPS?",
-      "type": "article",
-      "image": [],
-      "url": "/",
-      "audio": [],
-      "description": "Find out if your site needs HTTPS.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Caddy",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30147213,
     "title": "Textual for Windows (Python package for TUIs)",
     "url": "https://www.willmcgugan.com/blog/tech/post/textual-for-windows/",
@@ -2464,22 +2285,18 @@
     "points": 69,
     "comment_count": 10,
     "hn_item": {
-      "by": "ciprian_craciun",
-      "descendants": 16,
-      "id": 30147652,
+      "by": "Otter-man",
+      "descendants": 5,
+      "id": 30153589,
       "kids": [
-        30148761,
-        30149137,
-        30149632,
-        30154229,
-        30149237,
-        30148851
+        30154692,
+        30154171
       ],
-      "score": 85,
-      "time": 1643635848,
-      "title": "Firecracker v1.0 Released",
+      "score": 28,
+      "time": 1643659930,
+      "title": "YouTube limits live streams viewers for accounts with \"limited creator history\"",
       "type": "story",
-      "url": "https://github.com/firecracker-microvm/firecracker/releases/tag/v1.0.0"
+      "url": "https://twitter.com/infolibnews/status/1488013567207120896"
     },
     "og_item": {
       "title": "Textual for Windows",
@@ -2508,62 +2325,6 @@
     }
   },
   {
-    "id": 30154442,
-    "title": "Writing Better Release Notes",
-    "url": "https://simonwillison.net/2022/Jan/31/release-notes/",
-    "time": 1643663582,
-    "image": "https://avatars0.githubusercontent.com/u/9599?v=4\u0026s=200",
-    "icon": "https://simonwillison.net/favicon.ico",
-    "publisher": "simonwillison.net",
-    "description": "Release notes are an important part of the open source process. I’ve been thinking about these a lot recently, and I’ve assembled some thoughts on how to do a better …",
-    "by": "BerislavLopac",
-    "points": 5,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "ciprian_craciun",
-      "descendants": 16,
-      "id": 30147652,
-      "kids": [
-        30148761,
-        30149137,
-        30149632,
-        30154229,
-        30149237,
-        30148851
-      ],
-      "score": 85,
-      "time": 1643635848,
-      "title": "Firecracker v1.0 Released",
-      "type": "story",
-      "url": "https://github.com/firecracker-microvm/firecracker/releases/tag/v1.0.0"
-    },
-    "og_item": {
-      "title": "Writing better release notes",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://avatars0.githubusercontent.com/u/9599?v=4\u0026s=200",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "http://simonwillison.net/2022/Jan/31/release-notes/",
-      "audio": [],
-      "description": "Release notes are an important part of the open source process. I’ve been thinking about these a lot recently, and I’ve assembled some thoughts on how to do a better …",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30147507,
     "title": "VT100 Machine Emulator in JavaScript",
     "url": "https://www.pcjs.org/machines/dec/vt100/",
@@ -2576,22 +2337,18 @@
     "points": 72,
     "comment_count": 28,
     "hn_item": {
-      "by": "ciprian_craciun",
-      "descendants": 16,
-      "id": 30147652,
+      "by": "Otter-man",
+      "descendants": 5,
+      "id": 30153589,
       "kids": [
-        30148761,
-        30149137,
-        30149632,
-        30154229,
-        30149237,
-        30148851
+        30154692,
+        30154171
       ],
-      "score": 85,
-      "time": 1643635848,
-      "title": "Firecracker v1.0 Released",
+      "score": 28,
+      "time": 1643659930,
+      "title": "YouTube limits live streams viewers for accounts with \"limited creator history\"",
       "type": "story",
-      "url": "https://github.com/firecracker-microvm/firecracker/releases/tag/v1.0.0"
+      "url": "https://twitter.com/infolibnews/status/1488013567207120896"
     },
     "og_item": {
       "title": "DEC VT100 Terminal",
@@ -2620,34 +2377,125 @@
     }
   },
   {
+    "id": 30154442,
+    "title": "Writing Better Release Notes",
+    "url": "https://simonwillison.net/2022/Jan/31/release-notes/",
+    "time": 1643663582,
+    "image": "https://avatars0.githubusercontent.com/u/9599?v=4\u0026s=200",
+    "icon": "https://simonwillison.net/favicon.ico",
+    "publisher": "simonwillison.net",
+    "description": "Release notes are an important part of the open source process. I’ve been thinking about these a lot recently, and I’ve assembled some thoughts on how to do a better …",
+    "by": "BerislavLopac",
+    "points": 5,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "Otter-man",
+      "descendants": 5,
+      "id": 30153589,
+      "kids": [
+        30154692,
+        30154171
+      ],
+      "score": 28,
+      "time": 1643659930,
+      "title": "YouTube limits live streams viewers for accounts with \"limited creator history\"",
+      "type": "story",
+      "url": "https://twitter.com/infolibnews/status/1488013567207120896"
+    },
+    "og_item": {
+      "title": "Writing better release notes",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://avatars0.githubusercontent.com/u/9599?v=4\u0026s=200",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "http://simonwillison.net/2022/Jan/31/release-notes/",
+      "audio": [],
+      "description": "Release notes are an important part of the open source process. I’ve been thinking about these a lot recently, and I’ve assembled some thoughts on how to do a better …",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30150749,
+    "title": "Does my site need HTTPS?",
+    "url": "https://doesmysiteneedhttps.com/",
+    "time": 1643649923,
+    "image": "",
+    "icon": "https://doesmysiteneedhttps.com/favicon.ico",
+    "publisher": "Caddy",
+    "description": "Find out if your site needs HTTPS.",
+    "by": "WallyFunk",
+    "points": 80,
+    "comment_count": 112,
+    "hn_item": {
+      "by": "Otter-man",
+      "descendants": 5,
+      "id": 30153589,
+      "kids": [
+        30154692,
+        30154171
+      ],
+      "score": 28,
+      "time": 1643659930,
+      "title": "YouTube limits live streams viewers for accounts with \"limited creator history\"",
+      "type": "story",
+      "url": "https://twitter.com/infolibnews/status/1488013567207120896"
+    },
+    "og_item": {
+      "title": "Does my site need HTTPS?",
+      "type": "article",
+      "image": [],
+      "url": "/",
+      "audio": [],
+      "description": "Find out if your site needs HTTPS.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Caddy",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30152168,
     "title": "Sony Buys Bungie",
     "url": "https://blog.playstation.com/2022/01/31/bungie-is-joining-playstation/",
     "time": 1643654556,
     "image": "https://blog.playstation.com/tachyon/2022/01/8f2d141dbfa9c1dd61befc2de0a92266b3e9a9d0.jpg",
-    "icon": "https://blog.playstation.com/tachyon/2019/03/cropped-pslogo.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD\u0026X-Amz-Security-Token=IQoJb3JpZ2luX2VjEP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIEFQkqLbPgggksG1Yvw4Qr6th0tYA4rpBsKZMAEKYjvDAiEAu1K5kH5AOAHnJues%2FaMgTI6Wsn5%2Fletcaybm8SsdLusq%2FQMINxAAGgw1Nzc0MTg4MTg0MTMiDMiD%2Fc%2BqMfnLy4lXiiraA25mLGcAnW2bRDTvVCy9UzzEjshW1awq9BixUVAG2YiUAZzljnjhhI2IqnAWg2kir%2Bu0puWA8ID%2FdrGF3hR4VBhXscQaLUC5TgMvvg4ELbRGq2M90TjQKjuNxwfhcUpmWv8c0Yfqyd1RENquI0G7mJc3f5l31SncxunMkl1jszWnEDWMuTv4LtKbdb8tGg2wxB%2BxecTXQ%2FAYw8YEeraS2RvTfMmCQTDqrclrxpsHEqZ6lLD8dtDlg3nx3w0D%2B1MYmxrNHE4R8ml3QjGltqyKGe%2FTlCUw8Ax4l9Dxg1BAj39w6dA9qh%2F7tK6zcft64vv%2F1wXa6S1tqT5yb5ceMWhkp%2BIl6izRMEYAikm7RS1yKRgYUO%2FNV14zYbrAIP4KeDVrQBW7WpLmj2HacTCtben1Ef1Dc56%2BKnDasBARbaGYsf8qiuyNHNIn8nOlMdbUKNFK6%2FFuCefXIDs0uaUc57D6FtHgBgEavU97eaSv41EHqN1FEFeEGtJkEzcXsmG7PgthOUBFy7Fkv460BxclmzgyyUd4RS036iSY1utef%2BcfJpePHb2G%2FUVNLL76S5cUcBRGbpT6hqji9WQJZ5YCklgeFpl35og%2BYSjrxWht3ylbq%2FLdBpsck3cgMd2L3DCEweGPBjqlAVVfBB1lKXqaPByr5Hrv9LgOnJqyRwREqqV6OVuP2xTm%2FZxDv5jxT9BI0AY6PHQGNGfLbmO4587tDcZD7vetXXZrSax8a2lf6tYiP%2FwR3437wzeIG%2FV25HRg40qr%2FZofILSffNO5C48%2B4gVDEANHgQN0q4Hqr%2BHHbXlfF7T2%2FwNBLe2oYzehwU8H6ZPMGxTMlHm9D6gqg0uxIcvOLoyF%2FOFS2Gurbg%3D%3D\u0026X-Amz-Algorithm=AWS4-HMAC-SHA256\u0026X-Amz-Credential=ASIAYM4GX6NW3XYOZWBM%2F20220131%2Fus-east-1%2Fs3%2Faws4_request\u0026X-Amz-Date=20220131T232356Z\u0026X-Amz-SignedHeaders=host\u0026X-Amz-Expires=900\u0026X-Amz-Signature=3d146ca2bc30091107dc314ba6df31a678a12b59957bb790887e392ea447a6cf\u0026fit=192%2C192",
+    "icon": "https://blog.playstation.com/tachyon/2019/03/cropped-pslogo.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD\u0026X-Amz-Security-Token=IQoJb3JpZ2luX2VjEP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQCfxEEgwpe0hMOd4iXKAfpHRyL6JcOshe75OyK2AT9LTwIgUfNwPVizkqpHLDEx5bssKpHsV8AEMN51ZGOIH4JCq8Uq%2FQMINxAAGgw1Nzc0MTg4MTg0MTMiDLtF0JsuYhAllZ4QeyraA%2FBl%2BzFXmcabhrxOsrGiWdKQQBqcJDlh1bY9Jw0YKregIE2MglAlwklCoBuC4Bj8BeetG6UQlne82MJqoFVS5%2F5rAwU136MdpItKmgm40U52bb%2BwYFdGlO302QQORFFRMovtLfPxI0qjt04BXUt0kEUn9rqKYe3LZZ%2Fa5SyHN094q%2BclSmlezqZs%2Bamj4cVlLZoeD8%2FtQgaThfzoELYVaUDn%2BsDhx6NpMQLQS9rRKETDLSc157Cte5rgn67pLa0g3TWuuC3SlzErF%2B%2B7Se0n6IDgyFVUX1P2AVKcn4Bb9O9aaK%2BR5%2BGUFWB5XVYpKDUykK4L9JVlIoIL4csNBAbYthH4RoCYvIJyVFL7kSafTLhBchnk7%2F9m%2BNnbTdSvVLBV1LJ4K%2FEhU%2B8ulMPl3gvaoRwS1nFbRHRVvTYNyFHRIv5eXKfwE6DHZbTgZr5f6Nf2uCJzna1RH0xlOH3Sx5o%2FTCWKosWe8OWeBdrjRCdWnj7vR%2FO%2B8mp4gPK%2F6hSdup4YCj5e0DbyucX8UJx6i1gteY%2FDG2mYyvgPcdCT4bFTdX%2FYHqnnBQ9i6o9yt24MM3ApZFjoGjwJPaUJOU7W6EHscb71U9vH%2Fg75XWpum7lB6RqiMDFQ86liX5CEBjCEweGPBjqlATrZFDuKCg9qxfR8XHlLFNfl5FzKd%2BlyRZ6VmvUeXSklWwDLD%2FjGuexIIuNW%2BLBw6EVaLLwbL4byDlQfvdbp8YTPNLANhy4C84jHZ0nrviQhf%2BEMRLzmBxjSrs2C7%2BqAd37xrQiqMygqdp33mm7xxM2zz5lZ3FidGSrcuwi8M0m1jw1HoN%2B1lNCe4exqRFMhNssPVM1sZFbWrDXc4dL%2FMXvGY6IjUg%3D%3D\u0026X-Amz-Algorithm=AWS4-HMAC-SHA256\u0026X-Amz-Credential=ASIAYM4GX6NWWIQBQSKZ%2F20220131%2Fus-east-1%2Fs3%2Faws4_request\u0026X-Amz-Date=20220131T233356Z\u0026X-Amz-SignedHeaders=host\u0026X-Amz-Expires=900\u0026X-Amz-Signature=f7b364e1f2c552f7d0c09eb9b42b9b9a26914f2dfa1d893e19ae1b79f099cd81\u0026fit=192%2C192",
     "publisher": "PlayStation.Blog",
     "description": "Legendary developer to join PlayStation as independent, multi-platform studio and publisher.",
     "by": "zdw",
     "points": 12,
     "comment_count": 0,
     "hn_item": {
-      "by": "ciprian_craciun",
-      "descendants": 16,
-      "id": 30147652,
+      "by": "Otter-man",
+      "descendants": 5,
+      "id": 30153589,
       "kids": [
-        30148761,
-        30149137,
-        30149632,
-        30154229,
-        30149237,
-        30148851
+        30154692,
+        30154171
       ],
-      "score": 85,
-      "time": 1643635848,
-      "title": "Firecracker v1.0 Released",
+      "score": 28,
+      "time": 1643659930,
+      "title": "YouTube limits live streams viewers for accounts with \"limited creator history\"",
       "type": "story",
-      "url": "https://github.com/firecracker-microvm/firecracker/releases/tag/v1.0.0"
+      "url": "https://twitter.com/infolibnews/status/1488013567207120896"
     },
     "og_item": {
       "title": "Bungie is Joining PlayStation",
@@ -2671,7 +2519,7 @@
       "site_name": "PlayStation.Blog",
       "video": [],
       "favicon": {
-        "url": "https://blog.playstation.com/tachyon/2019/03/cropped-pslogo.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD\u0026X-Amz-Security-Token=IQoJb3JpZ2luX2VjEP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIEFQkqLbPgggksG1Yvw4Qr6th0tYA4rpBsKZMAEKYjvDAiEAu1K5kH5AOAHnJues%2FaMgTI6Wsn5%2Fletcaybm8SsdLusq%2FQMINxAAGgw1Nzc0MTg4MTg0MTMiDMiD%2Fc%2BqMfnLy4lXiiraA25mLGcAnW2bRDTvVCy9UzzEjshW1awq9BixUVAG2YiUAZzljnjhhI2IqnAWg2kir%2Bu0puWA8ID%2FdrGF3hR4VBhXscQaLUC5TgMvvg4ELbRGq2M90TjQKjuNxwfhcUpmWv8c0Yfqyd1RENquI0G7mJc3f5l31SncxunMkl1jszWnEDWMuTv4LtKbdb8tGg2wxB%2BxecTXQ%2FAYw8YEeraS2RvTfMmCQTDqrclrxpsHEqZ6lLD8dtDlg3nx3w0D%2B1MYmxrNHE4R8ml3QjGltqyKGe%2FTlCUw8Ax4l9Dxg1BAj39w6dA9qh%2F7tK6zcft64vv%2F1wXa6S1tqT5yb5ceMWhkp%2BIl6izRMEYAikm7RS1yKRgYUO%2FNV14zYbrAIP4KeDVrQBW7WpLmj2HacTCtben1Ef1Dc56%2BKnDasBARbaGYsf8qiuyNHNIn8nOlMdbUKNFK6%2FFuCefXIDs0uaUc57D6FtHgBgEavU97eaSv41EHqN1FEFeEGtJkEzcXsmG7PgthOUBFy7Fkv460BxclmzgyyUd4RS036iSY1utef%2BcfJpePHb2G%2FUVNLL76S5cUcBRGbpT6hqji9WQJZ5YCklgeFpl35og%2BYSjrxWht3ylbq%2FLdBpsck3cgMd2L3DCEweGPBjqlAVVfBB1lKXqaPByr5Hrv9LgOnJqyRwREqqV6OVuP2xTm%2FZxDv5jxT9BI0AY6PHQGNGfLbmO4587tDcZD7vetXXZrSax8a2lf6tYiP%2FwR3437wzeIG%2FV25HRg40qr%2FZofILSffNO5C48%2B4gVDEANHgQN0q4Hqr%2BHHbXlfF7T2%2FwNBLe2oYzehwU8H6ZPMGxTMlHm9D6gqg0uxIcvOLoyF%2FOFS2Gurbg%3D%3D\u0026X-Amz-Algorithm=AWS4-HMAC-SHA256\u0026X-Amz-Credential=ASIAYM4GX6NW3XYOZWBM%2F20220131%2Fus-east-1%2Fs3%2Faws4_request\u0026X-Amz-Date=20220131T232356Z\u0026X-Amz-SignedHeaders=host\u0026X-Amz-Expires=900\u0026X-Amz-Signature=3d146ca2bc30091107dc314ba6df31a678a12b59957bb790887e392ea447a6cf\u0026fit=192%2C192"
+        "url": "https://blog.playstation.com/tachyon/2019/03/cropped-pslogo.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD\u0026X-Amz-Security-Token=IQoJb3JpZ2luX2VjEP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQCfxEEgwpe0hMOd4iXKAfpHRyL6JcOshe75OyK2AT9LTwIgUfNwPVizkqpHLDEx5bssKpHsV8AEMN51ZGOIH4JCq8Uq%2FQMINxAAGgw1Nzc0MTg4MTg0MTMiDLtF0JsuYhAllZ4QeyraA%2FBl%2BzFXmcabhrxOsrGiWdKQQBqcJDlh1bY9Jw0YKregIE2MglAlwklCoBuC4Bj8BeetG6UQlne82MJqoFVS5%2F5rAwU136MdpItKmgm40U52bb%2BwYFdGlO302QQORFFRMovtLfPxI0qjt04BXUt0kEUn9rqKYe3LZZ%2Fa5SyHN094q%2BclSmlezqZs%2Bamj4cVlLZoeD8%2FtQgaThfzoELYVaUDn%2BsDhx6NpMQLQS9rRKETDLSc157Cte5rgn67pLa0g3TWuuC3SlzErF%2B%2B7Se0n6IDgyFVUX1P2AVKcn4Bb9O9aaK%2BR5%2BGUFWB5XVYpKDUykK4L9JVlIoIL4csNBAbYthH4RoCYvIJyVFL7kSafTLhBchnk7%2F9m%2BNnbTdSvVLBV1LJ4K%2FEhU%2B8ulMPl3gvaoRwS1nFbRHRVvTYNyFHRIv5eXKfwE6DHZbTgZr5f6Nf2uCJzna1RH0xlOH3Sx5o%2FTCWKosWe8OWeBdrjRCdWnj7vR%2FO%2B8mp4gPK%2F6hSdup4YCj5e0DbyucX8UJx6i1gteY%2FDG2mYyvgPcdCT4bFTdX%2FYHqnnBQ9i6o9yt24MM3ApZFjoGjwJPaUJOU7W6EHscb71U9vH%2Fg75XWpum7lB6RqiMDFQ86liX5CEBjCEweGPBjqlATrZFDuKCg9qxfR8XHlLFNfl5FzKd%2BlyRZ6VmvUeXSklWwDLD%2FjGuexIIuNW%2BLBw6EVaLLwbL4byDlQfvdbp8YTPNLANhy4C84jHZ0nrviQhf%2BEMRLzmBxjSrs2C7%2BqAd37xrQiqMygqdp33mm7xxM2zz5lZ3FidGSrcuwi8M0m1jw1HoN%2B1lNCe4exqRFMhNssPVM1sZFbWrDXc4dL%2FMXvGY6IjUg%3D%3D\u0026X-Amz-Algorithm=AWS4-HMAC-SHA256\u0026X-Amz-Credential=ASIAYM4GX6NWWIQBQSKZ%2F20220131%2Fus-east-1%2Fs3%2Faws4_request\u0026X-Amz-Date=20220131T233356Z\u0026X-Amz-SignedHeaders=host\u0026X-Amz-Expires=900\u0026X-Amz-Signature=f7b364e1f2c552f7d0c09eb9b42b9b9a26914f2dfa1d893e19ae1b79f099cd81\u0026fit=192%2C192"
       }
     }
   },
@@ -2688,22 +2536,18 @@
     "points": 15,
     "comment_count": 3,
     "hn_item": {
-      "by": "ciprian_craciun",
-      "descendants": 16,
-      "id": 30147652,
+      "by": "Otter-man",
+      "descendants": 5,
+      "id": 30153589,
       "kids": [
-        30148761,
-        30149137,
-        30149632,
-        30154229,
-        30149237,
-        30148851
+        30154692,
+        30154171
       ],
-      "score": 85,
-      "time": 1643635848,
-      "title": "Firecracker v1.0 Released",
+      "score": 28,
+      "time": 1643659930,
+      "title": "YouTube limits live streams viewers for accounts with \"limited creator history\"",
       "type": "story",
-      "url": "https://github.com/firecracker-microvm/firecracker/releases/tag/v1.0.0"
+      "url": "https://twitter.com/infolibnews/status/1488013567207120896"
     },
     "og_item": {
       "title": "Table of Contents - Practical Python Projects",
@@ -2723,62 +2567,6 @@
     }
   },
   {
-    "id": 30151779,
-    "title": "Sony is buying Bungie, the developer of Destiny and original creator of Halo",
-    "url": "https://www.theverge.com/22910846/sony-bungie-acquisition-playstation-destiny-halo",
-    "time": 1643653158,
-    "image": "https://cdn.vox-cdn.com/thumbor/_8kP_DYbLyY3jgA9zvhIMrYZNy8=/0x21:1088x591/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23207703/8f2d141dbfa9c1dd61befc2de0a92266.jpeg",
-    "icon": "https://cdn.vox-cdn.com/uploads/chorus_asset/file/7395351/android-chrome-192x192.0.png",
-    "publisher": "The Verge",
-    "description": "Another huge acquisition in the gaming industry",
-    "by": "KoftaBob",
-    "points": 74,
-    "comment_count": 39,
-    "hn_item": {
-      "by": "ciprian_craciun",
-      "descendants": 16,
-      "id": 30147652,
-      "kids": [
-        30148761,
-        30149137,
-        30149632,
-        30154229,
-        30149237,
-        30148851
-      ],
-      "score": 85,
-      "time": 1643635848,
-      "title": "Firecracker v1.0 Released",
-      "type": "story",
-      "url": "https://github.com/firecracker-microvm/firecracker/releases/tag/v1.0.0"
-    },
-    "og_item": {
-      "title": "Sony is buying Bungie, the developer of Destiny and original creator of Halo",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/_8kP_DYbLyY3jgA9zvhIMrYZNy8=/0x21:1088x591/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23207703/8f2d141dbfa9c1dd61befc2de0a92266.jpeg",
-          "secure_url": "",
-          "type": "",
-          "width": 1200,
-          "height": 630,
-          "alt": ""
-        }
-      ],
-      "url": "https://www.theverge.com/22910846/sony-bungie-acquisition-playstation-destiny-halo",
-      "audio": [],
-      "description": "Another huge acquisition in the gaming industry",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "The Verge",
-      "video": [],
-      "favicon": {
-        "url": "https://cdn.vox-cdn.com/uploads/chorus_asset/file/7395351/android-chrome-192x192.0.png"
-      }
-    }
-  },
-  {
     "id": 30147755,
     "title": "Polar bears move into abandoned Arctic weather station",
     "url": "https://www.theguardian.com/world/2022/jan/31/polar-bears-move-into-abandoned-arctic-weather-station-photo-essay",
@@ -2791,22 +2579,18 @@
     "points": 194,
     "comment_count": 46,
     "hn_item": {
-      "by": "ciprian_craciun",
-      "descendants": 16,
-      "id": 30147652,
+      "by": "Otter-man",
+      "descendants": 5,
+      "id": 30153589,
       "kids": [
-        30148761,
-        30149137,
-        30149632,
-        30154229,
-        30149237,
-        30148851
+        30154692,
+        30154171
       ],
-      "score": 85,
-      "time": 1643635848,
-      "title": "Firecracker v1.0 Released",
+      "score": 28,
+      "time": 1643659930,
+      "title": "YouTube limits live streams viewers for accounts with \"limited creator history\"",
       "type": "story",
-      "url": "https://github.com/firecracker-microvm/firecracker/releases/tag/v1.0.0"
+      "url": "https://twitter.com/infolibnews/status/1488013567207120896"
     },
     "og_item": {
       "title": "Polar bears move into abandoned Arctic weather station – photo essay",
@@ -2835,144 +2619,37 @@
     }
   },
   {
-    "id": 30152714,
-    "title": "HVM: A Parallel Functional Runtime",
-    "url": "https://github.com/Kindelia/HVM",
-    "time": 1643656542,
-    "image": "https://opengraph.githubassets.com/1fc4342dca4204b135b962628c2c6ab6cbefe8c54ca2f4c981c84a18101bfdf9/Kindelia/HVM",
-    "icon": "https://github.githubassets.com/favicons/favicon.svg",
-    "publisher": "GitHub",
-    "description": "A massively parallel, optimal functional runtime in Rust - GitHub - Kindelia/HVM: A massively parallel, optimal functional runtime in Rust",
-    "by": "LightMachine",
-    "points": 19,
-    "comment_count": 4,
+    "id": 30151779,
+    "title": "Sony is buying Bungie, the developer of Destiny and original creator of Halo",
+    "url": "https://www.theverge.com/22910846/sony-bungie-acquisition-playstation-destiny-halo",
+    "time": 1643653158,
+    "image": "https://cdn.vox-cdn.com/thumbor/_8kP_DYbLyY3jgA9zvhIMrYZNy8=/0x21:1088x591/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23207703/8f2d141dbfa9c1dd61befc2de0a92266.jpeg",
+    "icon": "https://cdn.vox-cdn.com/uploads/chorus_asset/file/7395351/android-chrome-192x192.0.png",
+    "publisher": "The Verge",
+    "description": "Another huge acquisition in the gaming industry",
+    "by": "KoftaBob",
+    "points": 74,
+    "comment_count": 40,
     "hn_item": {
-      "by": "ciprian_craciun",
-      "descendants": 16,
-      "id": 30147652,
+      "by": "Otter-man",
+      "descendants": 5,
+      "id": 30153589,
       "kids": [
-        30148761,
-        30149137,
-        30149632,
-        30154229,
-        30149237,
-        30148851
+        30154692,
+        30154171
       ],
-      "score": 85,
-      "time": 1643635848,
-      "title": "Firecracker v1.0 Released",
+      "score": 28,
+      "time": 1643659930,
+      "title": "YouTube limits live streams viewers for accounts with \"limited creator history\"",
       "type": "story",
-      "url": "https://github.com/firecracker-microvm/firecracker/releases/tag/v1.0.0"
+      "url": "https://twitter.com/infolibnews/status/1488013567207120896"
     },
     "og_item": {
-      "title": "GitHub - Kindelia/HVM: A massively parallel, optimal functional runtime in Rust",
-      "type": "object",
-      "image": [
-        {
-          "url": "https://opengraph.githubassets.com/1fc4342dca4204b135b962628c2c6ab6cbefe8c54ca2f4c981c84a18101bfdf9/Kindelia/HVM",
-          "secure_url": "",
-          "type": "",
-          "width": 1200,
-          "height": 600,
-          "alt": ""
-        }
-      ],
-      "url": "https://github.com/Kindelia/HVM",
-      "audio": [],
-      "description": "A massively parallel, optimal functional runtime in Rust - GitHub - Kindelia/HVM: A massively parallel, optimal functional runtime in Rust",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "GitHub",
-      "video": [],
-      "favicon": {
-        "url": "https://github.githubassets.com/favicons/favicon.svg"
-      }
-    }
-  },
-  {
-    "id": 30150990,
-    "title": "How to recommend books, or, stop recommending SICP",
-    "url": "https://notes.eatonphil.com/recommending-a-book.html",
-    "time": 1643650719,
-    "image": "",
-    "icon": "https://notes.eatonphil.com/favicon.ico",
-    "publisher": "notes.eatonphil.com",
-    "description": "How to recommend books, or, stop recommending SICP",
-    "by": "eatonphil",
-    "points": 13,
-    "comment_count": 13,
-    "hn_item": {
-      "by": "ciprian_craciun",
-      "descendants": 16,
-      "id": 30147652,
-      "kids": [
-        30148761,
-        30149137,
-        30149632,
-        30154229,
-        30149237,
-        30148851
-      ],
-      "score": 85,
-      "time": 1643635848,
-      "title": "Firecracker v1.0 Released",
-      "type": "story",
-      "url": "https://github.com/firecracker-microvm/firecracker/releases/tag/v1.0.0"
-    },
-    "og_item": {
-      "title": "How to recommend books, or, stop recommending SICP | notes.eatonphil.com",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "How to recommend books, or, stop recommending SICP",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30156132,
-    "title": "Parasites that thrive in a warming planet are killing Minnesota’s moose",
-    "url": "https://www.vox.com/down-to-earth/2022/1/28/22872494/climate-change-moose-minnesota-brainworm-ticks-deer",
-    "time": 1643670670,
-    "image": "https://cdn.vox-cdn.com/thumbor/l4nttKAQ0L6kasI6ugEBqxfv-I8=/0x33:3600x1918/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23182811/GettyImages_1168240854.jpg",
-    "icon": "https://cdn.vox-cdn.com/uploads/hub/sbnu_logo_minimal/441/touch_icon_iphone_retina_1000_yellow.755.png",
-    "publisher": "Vox",
-    "description": "Brainworms and ticks are decimating an animal sacred to the region’s original inhabitants.",
-    "by": "onychomys",
-    "points": 4,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "ciprian_craciun",
-      "descendants": 16,
-      "id": 30147652,
-      "kids": [
-        30148761,
-        30149137,
-        30149632,
-        30154229,
-        30149237,
-        30148851
-      ],
-      "score": 85,
-      "time": 1643635848,
-      "title": "Firecracker v1.0 Released",
-      "type": "story",
-      "url": "https://github.com/firecracker-microvm/firecracker/releases/tag/v1.0.0"
-    },
-    "og_item": {
-      "title": "Parasites that thrive in a warming planet are killing Minnesota’s moose",
+      "title": "Sony is buying Bungie, the developer of Destiny and original creator of Halo",
       "type": "article",
       "image": [
         {
-          "url": "https://cdn.vox-cdn.com/thumbor/l4nttKAQ0L6kasI6ugEBqxfv-I8=/0x33:3600x1918/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23182811/GettyImages_1168240854.jpg",
+          "url": "https://cdn.vox-cdn.com/thumbor/_8kP_DYbLyY3jgA9zvhIMrYZNy8=/0x21:1088x591/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23207703/8f2d141dbfa9c1dd61befc2de0a92266.jpeg",
           "secure_url": "",
           "type": "",
           "width": 1200,
@@ -2980,72 +2657,16 @@
           "alt": ""
         }
       ],
-      "url": "https://www.vox.com/down-to-earth/2022/1/28/22872494/climate-change-moose-minnesota-brainworm-ticks-deer",
+      "url": "https://www.theverge.com/22910846/sony-bungie-acquisition-playstation-destiny-halo",
       "audio": [],
-      "description": "Brainworms and ticks are decimating an animal sacred to the region’s original inhabitants.",
+      "description": "Another huge acquisition in the gaming industry",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "Vox",
+      "site_name": "The Verge",
       "video": [],
       "favicon": {
-        "url": "https://cdn.vox-cdn.com/uploads/hub/sbnu_logo_minimal/441/touch_icon_iphone_retina_1000_yellow.755.png"
-      }
-    }
-  },
-  {
-    "id": 30152833,
-    "title": "AOSC OS/Retro: A Linux Distro for 486 and PPC Macs",
-    "url": "https://lunduke.substack.com/p/aosc-osretro-a-linux-distro-for-486",
-    "time": 1643656955,
-    "image": "https://cdn.substack.com/image/fetch/w_1200,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2dc13a08-0486-4b54-a1ba-8cd51b5bc742_2048x1536.jpeg",
-    "icon": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/a3acf02d-cfe4-43eb-9567-1006db4b5e78/favicon-48x48.png",
-    "publisher": "lunduke.substack.com",
-    "description": "... as well as ARM powered HP Jornadas and other \"retro\" hardware.",
-    "by": "muterad_murilax",
-    "points": 11,
-    "comment_count": 1,
-    "hn_item": {
-      "by": "ciprian_craciun",
-      "descendants": 16,
-      "id": 30147652,
-      "kids": [
-        30148761,
-        30149137,
-        30149632,
-        30154229,
-        30149237,
-        30148851
-      ],
-      "score": 85,
-      "time": 1643635848,
-      "title": "Firecracker v1.0 Released",
-      "type": "story",
-      "url": "https://github.com/firecracker-microvm/firecracker/releases/tag/v1.0.0"
-    },
-    "og_item": {
-      "title": "AOSC OS/Retro: A Linux Distro for 486 \u0026 PPC Macs",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://cdn.substack.com/image/fetch/w_1200,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2dc13a08-0486-4b54-a1ba-8cd51b5bc742_2048x1536.jpeg",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://lunduke.substack.com/p/aosc-osretro-a-linux-distro-for-486",
-      "audio": [],
-      "description": "... as well as ARM powered HP Jornadas and other \"retro\" hardware.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/a3acf02d-cfe4-43eb-9567-1006db4b5e78/favicon-48x48.png"
+        "url": "https://cdn.vox-cdn.com/uploads/chorus_asset/file/7395351/android-chrome-192x192.0.png"
       }
     }
   },
@@ -3059,25 +2680,21 @@
     "publisher": "New York Post",
     "description": "The founder of a tech company now valued at $14 billion told The Post that navigating the startup world of Silicon Valley is like dealing with a “boys club” full of “mob bosses.\u0026#…",
     "by": "Osiris",
-    "points": 4,
-    "comment_count": 0,
+    "points": 5,
+    "comment_count": 1,
     "hn_item": {
-      "by": "ciprian_craciun",
-      "descendants": 16,
-      "id": 30147652,
+      "by": "Otter-man",
+      "descendants": 5,
+      "id": 30153589,
       "kids": [
-        30148761,
-        30149137,
-        30149632,
-        30154229,
-        30149237,
-        30148851
+        30154692,
+        30154171
       ],
-      "score": 85,
-      "time": 1643635848,
-      "title": "Firecracker v1.0 Released",
+      "score": 28,
+      "time": 1643659930,
+      "title": "YouTube limits live streams viewers for accounts with \"limited creator history\"",
       "type": "story",
-      "url": "https://github.com/firecracker-microvm/firecracker/releases/tag/v1.0.0"
+      "url": "https://twitter.com/infolibnews/status/1488013567207120896"
     },
     "og_item": {
       "title": "Founder of $14B startup Bolt calls Silicon Valley ‘boys club’ full of ‘mob bosses’",
@@ -3106,6 +2723,101 @@
     }
   },
   {
+    "id": 30150990,
+    "title": "How to recommend books, or, stop recommending SICP",
+    "url": "https://notes.eatonphil.com/recommending-a-book.html",
+    "time": 1643650719,
+    "image": "",
+    "icon": "https://notes.eatonphil.com/favicon.ico",
+    "publisher": "notes.eatonphil.com",
+    "description": "How to recommend books, or, stop recommending SICP",
+    "by": "eatonphil",
+    "points": 13,
+    "comment_count": 13,
+    "hn_item": {
+      "by": "Otter-man",
+      "descendants": 5,
+      "id": 30153589,
+      "kids": [
+        30154692,
+        30154171
+      ],
+      "score": 28,
+      "time": 1643659930,
+      "title": "YouTube limits live streams viewers for accounts with \"limited creator history\"",
+      "type": "story",
+      "url": "https://twitter.com/infolibnews/status/1488013567207120896"
+    },
+    "og_item": {
+      "title": "How to recommend books, or, stop recommending SICP | notes.eatonphil.com",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "How to recommend books, or, stop recommending SICP",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30152833,
+    "title": "AOSC OS/Retro: A Linux Distro for 486 and PPC Macs",
+    "url": "https://lunduke.substack.com/p/aosc-osretro-a-linux-distro-for-486",
+    "time": 1643656955,
+    "image": "https://cdn.substack.com/image/fetch/w_1200,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2dc13a08-0486-4b54-a1ba-8cd51b5bc742_2048x1536.jpeg",
+    "icon": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/a3acf02d-cfe4-43eb-9567-1006db4b5e78/favicon-48x48.png",
+    "publisher": "lunduke.substack.com",
+    "description": "... as well as ARM powered HP Jornadas and other \"retro\" hardware.",
+    "by": "muterad_murilax",
+    "points": 11,
+    "comment_count": 1,
+    "hn_item": {
+      "by": "Otter-man",
+      "descendants": 5,
+      "id": 30153589,
+      "kids": [
+        30154692,
+        30154171
+      ],
+      "score": 28,
+      "time": 1643659930,
+      "title": "YouTube limits live streams viewers for accounts with \"limited creator history\"",
+      "type": "story",
+      "url": "https://twitter.com/infolibnews/status/1488013567207120896"
+    },
+    "og_item": {
+      "title": "AOSC OS/Retro: A Linux Distro for 486 \u0026 PPC Macs",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://cdn.substack.com/image/fetch/w_1200,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2dc13a08-0486-4b54-a1ba-8cd51b5bc742_2048x1536.jpeg",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://lunduke.substack.com/p/aosc-osretro-a-linux-distro-for-486",
+      "audio": [],
+      "description": "... as well as ARM powered HP Jornadas and other \"retro\" hardware.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/a3acf02d-cfe4-43eb-9567-1006db4b5e78/favicon-48x48.png"
+      }
+    }
+  },
+  {
     "id": 30148272,
     "title": "Citrix to be acquired for $16.5B, will be merged with Tibco",
     "url": "https://techcrunch.com/2022/01/31/citrix-to-be-acquired-by-vista-and-evergreen-elliott-in-a-16-5b-all-cash-deal-will-be-merged-with-tibco-to-create-saas-powerhouse/",
@@ -3118,22 +2830,18 @@
     "points": 86,
     "comment_count": 68,
     "hn_item": {
-      "by": "ciprian_craciun",
-      "descendants": 16,
-      "id": 30147652,
+      "by": "Otter-man",
+      "descendants": 5,
+      "id": 30153589,
       "kids": [
-        30148761,
-        30149137,
-        30149632,
-        30154229,
-        30149237,
-        30148851
+        30154692,
+        30154171
       ],
-      "score": 85,
-      "time": 1643635848,
-      "title": "Firecracker v1.0 Released",
+      "score": 28,
+      "time": 1643659930,
+      "title": "YouTube limits live streams viewers for accounts with \"limited creator history\"",
       "type": "story",
-      "url": "https://github.com/firecracker-microvm/firecracker/releases/tag/v1.0.0"
+      "url": "https://twitter.com/infolibnews/status/1488013567207120896"
     },
     "og_item": {
       "title": "Citrix to be acquired by Vista and Evergreen/Elliott in a $16.5B all-cash deal, will be merged with Tibco to create SaaS powerhouse – TechCrunch",
@@ -3174,22 +2882,18 @@
     "points": 34,
     "comment_count": 4,
     "hn_item": {
-      "by": "ciprian_craciun",
-      "descendants": 16,
-      "id": 30147652,
+      "by": "Otter-man",
+      "descendants": 5,
+      "id": 30153589,
       "kids": [
-        30148761,
-        30149137,
-        30149632,
-        30154229,
-        30149237,
-        30148851
+        30154692,
+        30154171
       ],
-      "score": 85,
-      "time": 1643635848,
-      "title": "Firecracker v1.0 Released",
+      "score": 28,
+      "time": 1643659930,
+      "title": "YouTube limits live streams viewers for accounts with \"limited creator history\"",
       "type": "story",
-      "url": "https://github.com/firecracker-microvm/firecracker/releases/tag/v1.0.0"
+      "url": "https://twitter.com/infolibnews/status/1488013567207120896"
     },
     "og_item": {
       "title": "How the Hall Effect Still Reverberates",
@@ -3230,22 +2934,18 @@
     "points": 205,
     "comment_count": 100,
     "hn_item": {
-      "by": "ciprian_craciun",
-      "descendants": 16,
-      "id": 30147652,
+      "by": "Otter-man",
+      "descendants": 5,
+      "id": 30153589,
       "kids": [
-        30148761,
-        30149137,
-        30149632,
-        30154229,
-        30149237,
-        30148851
+        30154692,
+        30154171
       ],
-      "score": 85,
-      "time": 1643635848,
-      "title": "Firecracker v1.0 Released",
+      "score": 28,
+      "time": 1643659930,
+      "title": "YouTube limits live streams viewers for accounts with \"limited creator history\"",
       "type": "story",
-      "url": "https://github.com/firecracker-microvm/firecracker/releases/tag/v1.0.0"
+      "url": "https://twitter.com/infolibnews/status/1488013567207120896"
     },
     "og_item": {
       "title": "Just a moment...",
@@ -3277,22 +2977,18 @@
     "points": 13,
     "comment_count": 4,
     "hn_item": {
-      "by": "ciprian_craciun",
-      "descendants": 16,
-      "id": 30147652,
+      "by": "Otter-man",
+      "descendants": 5,
+      "id": 30153589,
       "kids": [
-        30148761,
-        30149137,
-        30149632,
-        30154229,
-        30149237,
-        30148851
+        30154692,
+        30154171
       ],
-      "score": 85,
-      "time": 1643635848,
-      "title": "Firecracker v1.0 Released",
+      "score": 28,
+      "time": 1643659930,
+      "title": "YouTube limits live streams viewers for accounts with \"limited creator history\"",
       "type": "story",
-      "url": "https://github.com/firecracker-microvm/firecracker/releases/tag/v1.0.0"
+      "url": "https://twitter.com/infolibnews/status/1488013567207120896"
     },
     "og_item": {
       "title": "GitHub - Uzay-G/espial: Espial is an engine for automated organization and discovery of personal knowledge",
@@ -3321,53 +3017,6 @@
     }
   },
   {
-    "id": 30150895,
-    "title": "Argo CD – Declarative GitOps CD for Kubernetes",
-    "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/helm/",
-    "time": 1643650406,
-    "image": "",
-    "icon": "https://argo-cd.readthedocs.io/en/stable/user-guide/helm/../../assets/favicon.png",
-    "publisher": "argo-cd.readthedocs.io",
-    "description": "",
-    "by": "JordanTen",
-    "points": 15,
-    "comment_count": 6,
-    "hn_item": {
-      "by": "ciprian_craciun",
-      "descendants": 16,
-      "id": 30147652,
-      "kids": [
-        30148761,
-        30149137,
-        30149632,
-        30154229,
-        30149237,
-        30148851
-      ],
-      "score": 85,
-      "time": 1643635848,
-      "title": "Firecracker v1.0 Released",
-      "type": "story",
-      "url": "https://github.com/firecracker-microvm/firecracker/releases/tag/v1.0.0"
-    },
-    "og_item": {
-      "title": "Helm - Argo CD - Declarative GitOps CD for Kubernetes",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "../../assets/favicon.png"
-      }
-    }
-  },
-  {
     "id": 30145237,
     "title": "Generate static sites from Markdown files with Caddy (2018)",
     "url": "https://blog.thomaspuppe.de/static-sites-from-markdown-with-caddy-server",
@@ -3377,74 +3026,23 @@
     "publisher": "blog.thomaspuppe.de",
     "description": "",
     "by": "indigodaddy",
-    "points": 95,
+    "points": 96,
     "comment_count": 27,
     "hn_item": {
-      "by": "ciprian_craciun",
-      "descendants": 16,
-      "id": 30147652,
+      "by": "Otter-man",
+      "descendants": 5,
+      "id": 30153589,
       "kids": [
-        30148761,
-        30149137,
-        30149632,
-        30154229,
-        30149237,
-        30148851
+        30154692,
+        30154171
       ],
-      "score": 85,
-      "time": 1643635848,
-      "title": "Firecracker v1.0 Released",
+      "score": 28,
+      "time": 1643659930,
+      "title": "YouTube limits live streams viewers for accounts with \"limited creator history\"",
       "type": "story",
-      "url": "https://github.com/firecracker-microvm/firecracker/releases/tag/v1.0.0"
+      "url": "https://twitter.com/infolibnews/status/1488013567207120896"
     },
     "og_item": null
-  },
-  {
-    "id": 30154328,
-    "title": "Termo – Portuguese Wordle",
-    "url": "https://term.ooo",
-    "time": 1643663097,
-    "image": "",
-    "icon": "https://term.ooo/icon.png",
-    "publisher": "term.ooo",
-    "description": "Jogo de palavras",
-    "by": "fernandopj",
-    "points": 3,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "ciprian_craciun",
-      "descendants": 16,
-      "id": 30147652,
-      "kids": [
-        30148761,
-        30149137,
-        30149632,
-        30154229,
-        30149237,
-        30148851
-      ],
-      "score": 85,
-      "time": 1643635848,
-      "title": "Firecracker v1.0 Released",
-      "type": "story",
-      "url": "https://github.com/firecracker-microvm/firecracker/releases/tag/v1.0.0"
-    },
-    "og_item": {
-      "title": "Termo",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "Jogo de palavras",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "icon.png"
-      }
-    }
   },
   {
     "id": 30153653,
@@ -3456,25 +3054,21 @@
     "publisher": "go.dev",
     "description": "Go is an open source programming language that makes it easy to build simple, reliable, and efficient software.",
     "by": "0xedb",
-    "points": 15,
+    "points": 16,
     "comment_count": 0,
     "hn_item": {
-      "by": "ciprian_craciun",
-      "descendants": 16,
-      "id": 30147652,
+      "by": "Otter-man",
+      "descendants": 5,
+      "id": 30153589,
       "kids": [
-        30148761,
-        30149137,
-        30149632,
-        30154229,
-        30149237,
-        30148851
+        30154692,
+        30154171
       ],
-      "score": 85,
-      "time": 1643635848,
-      "title": "Firecracker v1.0 Released",
+      "score": 28,
+      "time": 1643659930,
+      "title": "YouTube limits live streams viewers for accounts with \"limited creator history\"",
       "type": "story",
-      "url": "https://github.com/firecracker-microvm/firecracker/releases/tag/v1.0.0"
+      "url": "https://twitter.com/infolibnews/status/1488013567207120896"
     },
     "og_item": {
       "title": "Announcing Go 1.18 Beta 2 - The Go Programming Language",
@@ -3494,6 +3088,144 @@
     }
   },
   {
+    "id": 30156132,
+    "title": "Parasites that thrive in a warming planet are killing Minnesota’s moose",
+    "url": "https://www.vox.com/down-to-earth/2022/1/28/22872494/climate-change-moose-minnesota-brainworm-ticks-deer",
+    "time": 1643670670,
+    "image": "https://cdn.vox-cdn.com/thumbor/l4nttKAQ0L6kasI6ugEBqxfv-I8=/0x33:3600x1918/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23182811/GettyImages_1168240854.jpg",
+    "icon": "https://cdn.vox-cdn.com/uploads/hub/sbnu_logo_minimal/441/touch_icon_iphone_retina_1000_yellow.755.png",
+    "publisher": "Vox",
+    "description": "Brainworms and ticks are decimating an animal sacred to the region’s original inhabitants.",
+    "by": "onychomys",
+    "points": 4,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "Otter-man",
+      "descendants": 5,
+      "id": 30153589,
+      "kids": [
+        30154692,
+        30154171
+      ],
+      "score": 28,
+      "time": 1643659930,
+      "title": "YouTube limits live streams viewers for accounts with \"limited creator history\"",
+      "type": "story",
+      "url": "https://twitter.com/infolibnews/status/1488013567207120896"
+    },
+    "og_item": {
+      "title": "Parasites that thrive in a warming planet are killing Minnesota’s moose",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/l4nttKAQ0L6kasI6ugEBqxfv-I8=/0x33:3600x1918/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23182811/GettyImages_1168240854.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 1200,
+          "height": 630,
+          "alt": ""
+        }
+      ],
+      "url": "https://www.vox.com/down-to-earth/2022/1/28/22872494/climate-change-moose-minnesota-brainworm-ticks-deer",
+      "audio": [],
+      "description": "Brainworms and ticks are decimating an animal sacred to the region’s original inhabitants.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Vox",
+      "video": [],
+      "favicon": {
+        "url": "https://cdn.vox-cdn.com/uploads/hub/sbnu_logo_minimal/441/touch_icon_iphone_retina_1000_yellow.755.png"
+      }
+    }
+  },
+  {
+    "id": 30150895,
+    "title": "Argo CD – Declarative GitOps CD for Kubernetes",
+    "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/helm/",
+    "time": 1643650406,
+    "image": "",
+    "icon": "https://argo-cd.readthedocs.io/en/stable/user-guide/helm/../../assets/favicon.png",
+    "publisher": "argo-cd.readthedocs.io",
+    "description": "",
+    "by": "JordanTen",
+    "points": 15,
+    "comment_count": 6,
+    "hn_item": {
+      "by": "Otter-man",
+      "descendants": 5,
+      "id": 30153589,
+      "kids": [
+        30154692,
+        30154171
+      ],
+      "score": 28,
+      "time": 1643659930,
+      "title": "YouTube limits live streams viewers for accounts with \"limited creator history\"",
+      "type": "story",
+      "url": "https://twitter.com/infolibnews/status/1488013567207120896"
+    },
+    "og_item": {
+      "title": "Helm - Argo CD - Declarative GitOps CD for Kubernetes",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "../../assets/favicon.png"
+      }
+    }
+  },
+  {
+    "id": 30154328,
+    "title": "Termo – Portuguese Wordle",
+    "url": "https://term.ooo",
+    "time": 1643663097,
+    "image": "",
+    "icon": "https://term.ooo/icon.png",
+    "publisher": "term.ooo",
+    "description": "Jogo de palavras",
+    "by": "fernandopj",
+    "points": 3,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "Otter-man",
+      "descendants": 5,
+      "id": 30153589,
+      "kids": [
+        30154692,
+        30154171
+      ],
+      "score": 28,
+      "time": 1643659930,
+      "title": "YouTube limits live streams viewers for accounts with \"limited creator history\"",
+      "type": "story",
+      "url": "https://twitter.com/infolibnews/status/1488013567207120896"
+    },
+    "og_item": {
+      "title": "Termo",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "Jogo de palavras",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "icon.png"
+      }
+    }
+  },
+  {
     "id": 30154195,
     "title": "Website fined by German court for leaking visitor's IP address via Google Fonts",
     "url": "https://www.theregister.com/2022/01/31/website_fine_google_fonts_gdpr/",
@@ -3506,72 +3238,21 @@
     "points": 17,
     "comment_count": 2,
     "hn_item": {
-      "by": "ciprian_craciun",
-      "descendants": 16,
-      "id": 30147652,
+      "by": "Otter-man",
+      "descendants": 5,
+      "id": 30153589,
       "kids": [
-        30148761,
-        30149137,
-        30149632,
-        30154229,
-        30149237,
-        30148851
+        30154692,
+        30154171
       ],
-      "score": 85,
-      "time": 1643635848,
-      "title": "Firecracker v1.0 Released",
+      "score": 28,
+      "time": 1643659930,
+      "title": "YouTube limits live streams viewers for accounts with \"limited creator history\"",
       "type": "story",
-      "url": "https://github.com/firecracker-microvm/firecracker/releases/tag/v1.0.0"
+      "url": "https://twitter.com/infolibnews/status/1488013567207120896"
     },
     "og_item": {
       "title": "",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30153287,
-    "title": "GCC Rust Monthly Report #13: January 2021",
-    "url": "https://thephilbert.io/2022/01/31/gcc-rust-monthly-report-13-january-2021/",
-    "time": 1643658663,
-    "image": "",
-    "icon": "https://thephilbert.io/favicon.ico",
-    "publisher": "thephilbert.io",
-    "description": "",
-    "by": "ingve",
-    "points": 10,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "ciprian_craciun",
-      "descendants": 16,
-      "id": 30147652,
-      "kids": [
-        30148761,
-        30149137,
-        30149632,
-        30154229,
-        30149237,
-        30148851
-      ],
-      "score": 85,
-      "time": 1643635848,
-      "title": "Firecracker v1.0 Released",
-      "type": "story",
-      "url": "https://github.com/firecracker-microvm/firecracker/releases/tag/v1.0.0"
-    },
-    "og_item": {
-      "title": "GCC Rust Monthly Report #13 January 2021 – Philip Herrons Personal Blog",
       "type": "",
       "image": [],
       "url": "",
@@ -3597,25 +3278,21 @@
     "publisher": "GitHub",
     "description": "Added\n\nAdded jailer option --parent-cgroup \u003crelative_path\u003e to allow the placement\nof microvm cgroups in custom cgroup nested hierarchies. The default value is\n\u003cexec-file\u003e which is backwards compati...",
     "by": "ciprian_craciun",
-    "points": 85,
+    "points": 86,
     "comment_count": 16,
     "hn_item": {
-      "by": "ciprian_craciun",
-      "descendants": 16,
-      "id": 30147652,
+      "by": "Otter-man",
+      "descendants": 5,
+      "id": 30153589,
       "kids": [
-        30148761,
-        30149137,
-        30149632,
-        30154229,
-        30149237,
-        30148851
+        30154692,
+        30154171
       ],
-      "score": 85,
-      "time": 1643635848,
-      "title": "Firecracker v1.0 Released",
+      "score": 28,
+      "time": 1643659930,
+      "title": "YouTube limits live streams viewers for accounts with \"limited creator history\"",
       "type": "story",
-      "url": "https://github.com/firecracker-microvm/firecracker/releases/tag/v1.0.0"
+      "url": "https://twitter.com/infolibnews/status/1488013567207120896"
     },
     "og_item": {
       "title": "Release Firecracker v1.0.0 · firecracker-microvm/firecracker",
@@ -3640,6 +3317,49 @@
       "video": [],
       "favicon": {
         "url": "https://github.githubassets.com/favicons/favicon.svg"
+      }
+    }
+  },
+  {
+    "id": 30153589,
+    "title": "YouTube limits live streams viewers for accounts with \"limited creator history\"",
+    "url": "https://twitter.com/infolibnews/status/1488013567207120896",
+    "time": 1643659930,
+    "image": "",
+    "icon": "https://abs.twimg.com/favicons/twitter.2.ico",
+    "publisher": "Twitter",
+    "description": "",
+    "by": "Otter-man",
+    "points": 28,
+    "comment_count": 5,
+    "hn_item": {
+      "by": "Otter-man",
+      "descendants": 5,
+      "id": 30153589,
+      "kids": [
+        30154692,
+        30154171
+      ],
+      "score": 28,
+      "time": 1643659930,
+      "title": "YouTube limits live streams viewers for accounts with \"limited creator history\"",
+      "type": "story",
+      "url": "https://twitter.com/infolibnews/status/1488013567207120896"
+    },
+    "og_item": {
+      "title": "",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Twitter",
+      "video": [],
+      "favicon": {
+        "url": "//abs.twimg.com/favicons/twitter.2.ico"
       }
     }
   }
