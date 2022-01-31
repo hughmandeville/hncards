@@ -9,18 +9,21 @@
     "publisher": "zillow.com",
     "description": "",
     "by": "otras",
-    "points": 154,
-    "comment_count": 22,
+    "points": 167,
+    "comment_count": 24,
     "hn_item": {
-      "by": "fangpenlin",
-      "descendants": 0,
-      "id": 30141215,
-      "kids": null,
-      "score": 18,
-      "time": 1643577545,
-      "title": "Show HN: BeanHub – A GitHub for Beancount",
+      "by": "oumua_don17",
+      "descendants": 4,
+      "id": 30122435,
+      "kids": [
+        30140765,
+        30140933
+      ],
+      "score": 24,
+      "time": 1643416395,
+      "title": "DDS: Build and library management tool for C, C++",
       "type": "story",
-      "url": "https://beanhub.io/"
+      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
     },
     "og_item": {
       "title": "",
@@ -49,18 +52,21 @@
     "publisher": "royalsociety.org",
     "description": "The Online Information Environment report discusses how to limit the harm of scientific misinformation online",
     "by": "steelstraw",
-    "points": 540,
+    "points": 546,
     "comment_count": 40,
     "hn_item": {
-      "by": "fangpenlin",
-      "descendants": 0,
-      "id": 30141215,
-      "kids": null,
-      "score": 18,
-      "time": 1643577545,
-      "title": "Show HN: BeanHub – A GitHub for Beancount",
+      "by": "oumua_don17",
+      "descendants": 4,
+      "id": 30122435,
+      "kids": [
+        30140765,
+        30140933
+      ],
+      "score": 24,
+      "time": 1643416395,
+      "title": "DDS: Build and library management tool for C, C++",
       "type": "story",
-      "url": "https://beanhub.io/"
+      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
     },
     "og_item": {
       "title": "Royal Society cautions against censorship of scientific misinformation online | Royal Society",
@@ -98,18 +104,21 @@
     "publisher": "cacm.acm.org",
     "description": "AI is driving the next evolution of chess, giving players a glimpse into the game\u0026#39;s future.",
     "by": "joak",
-    "points": 51,
+    "points": 56,
     "comment_count": 7,
     "hn_item": {
-      "by": "fangpenlin",
-      "descendants": 0,
-      "id": 30141215,
-      "kids": null,
-      "score": 18,
-      "time": 1643577545,
-      "title": "Show HN: BeanHub – A GitHub for Beancount",
+      "by": "oumua_don17",
+      "descendants": 4,
+      "id": 30122435,
+      "kids": [
+        30140765,
+        30140933
+      ],
+      "score": 24,
+      "time": 1643416395,
+      "title": "DDS: Build and library management tool for C, C++",
       "type": "story",
-      "url": "https://beanhub.io/"
+      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
     },
     "og_item": {
       "title": "Reimagining Chess with AlphaZero",
@@ -138,46 +147,6 @@
     }
   },
   {
-    "id": 30124457,
-    "title": "Chip shortages due to lack of investment in right fabs",
-    "url": "https://www.theregister.com/2022/01/28/idc_chip_shortages/",
-    "time": 1643440457,
-    "image": "",
-    "icon": "https://www.theregister.com/favicon.ico",
-    "publisher": "theregister.com",
-    "description": "",
-    "by": "laktak",
-    "points": 26,
-    "comment_count": 2,
-    "hn_item": {
-      "by": "fangpenlin",
-      "descendants": 0,
-      "id": 30141215,
-      "kids": null,
-      "score": 18,
-      "time": 1643577545,
-      "title": "Show HN: BeanHub – A GitHub for Beancount",
-      "type": "story",
-      "url": "https://beanhub.io/"
-    },
-    "og_item": {
-      "title": "",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30144652,
     "title": "Zero-copy network transmission with io_uring",
     "url": "https://lwn.net/Articles/879724/",
@@ -187,18 +156,21 @@
     "publisher": "lwn.net",
     "description": "",
     "by": "pabs3",
-    "points": 12,
-    "comment_count": 1,
+    "points": 17,
+    "comment_count": 2,
     "hn_item": {
-      "by": "fangpenlin",
-      "descendants": 0,
-      "id": 30141215,
-      "kids": null,
-      "score": 18,
-      "time": 1643577545,
-      "title": "Show HN: BeanHub – A GitHub for Beancount",
+      "by": "oumua_don17",
+      "descendants": 4,
+      "id": 30122435,
+      "kids": [
+        30140765,
+        30140933
+      ],
+      "score": 24,
+      "time": 1643416395,
+      "title": "DDS: Build and library management tool for C, C++",
       "type": "story",
-      "url": "https://beanhub.io/"
+      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
     },
     "og_item": {
       "title": "Zero-copy network transmission with io_uring [LWN.net]",
@@ -218,6 +190,49 @@
     }
   },
   {
+    "id": 30124457,
+    "title": "Chip shortages due to lack of investment in right fabs",
+    "url": "https://www.theregister.com/2022/01/28/idc_chip_shortages/",
+    "time": 1643440457,
+    "image": "",
+    "icon": "https://www.theregister.com/favicon.ico",
+    "publisher": "theregister.com",
+    "description": "",
+    "by": "laktak",
+    "points": 30,
+    "comment_count": 2,
+    "hn_item": {
+      "by": "oumua_don17",
+      "descendants": 4,
+      "id": 30122435,
+      "kids": [
+        30140765,
+        30140933
+      ],
+      "score": 24,
+      "time": 1643416395,
+      "title": "DDS: Build and library management tool for C, C++",
+      "type": "story",
+      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
+    },
+    "og_item": {
+      "title": "",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30144021,
     "title": "How I Discovered Thousands of Open Databases on AWS",
     "url": "https://infosecwriteups.com/how-i-discovered-thousands-of-open-databases-on-aws-764729aa7f32?gi=ba781482d685",
@@ -227,18 +242,21 @@
     "publisher": "Medium",
     "description": "My journey on finding and reporting databases with sensitive data about Fortune-500 companies, Hospitals, Crypto platforms, Startups during…",
     "by": "boyter",
-    "points": 47,
-    "comment_count": 9,
+    "points": 50,
+    "comment_count": 10,
     "hn_item": {
-      "by": "fangpenlin",
-      "descendants": 0,
-      "id": 30141215,
-      "kids": null,
-      "score": 18,
-      "time": 1643577545,
-      "title": "Show HN: BeanHub – A GitHub for Beancount",
+      "by": "oumua_don17",
+      "descendants": 4,
+      "id": 30122435,
+      "kids": [
+        30140765,
+        30140933
+      ],
+      "score": 24,
+      "time": 1643416395,
+      "title": "DDS: Build and library management tool for C, C++",
       "type": "story",
-      "url": "https://beanhub.io/"
+      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
     },
     "og_item": {
       "title": "How I Discovered Thousands of Open Databases on AWS",
@@ -276,18 +294,21 @@
     "publisher": "fahrrad-tools.de",
     "description": "Which tire fits my bike? Tires are always flat and now buy a tire with puncture protection? Find the right tire now!",
     "by": "moasda",
-    "points": 550,
+    "points": 551,
     "comment_count": 36,
     "hn_item": {
-      "by": "fangpenlin",
-      "descendants": 0,
-      "id": 30141215,
-      "kids": null,
-      "score": 18,
-      "time": 1643577545,
-      "title": "Show HN: BeanHub – A GitHub for Beancount",
+      "by": "oumua_don17",
+      "descendants": 4,
+      "id": 30122435,
+      "kids": [
+        30140765,
+        30140933
+      ],
+      "score": 24,
+      "time": 1643416395,
+      "title": "DDS: Build and library management tool for C, C++",
       "type": "story",
-      "url": "https://beanhub.io/"
+      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
     },
     "og_item": {
       "title": "Bike Tire | Fahrrad-Tools.de",
@@ -319,15 +340,18 @@
     "points": 26,
     "comment_count": 3,
     "hn_item": {
-      "by": "fangpenlin",
-      "descendants": 0,
-      "id": 30141215,
-      "kids": null,
-      "score": 18,
-      "time": 1643577545,
-      "title": "Show HN: BeanHub – A GitHub for Beancount",
+      "by": "oumua_don17",
+      "descendants": 4,
+      "id": 30122435,
+      "kids": [
+        30140765,
+        30140933
+      ],
+      "score": 24,
+      "time": 1643416395,
+      "title": "DDS: Build and library management tool for C, C++",
       "type": "story",
-      "url": "https://beanhub.io/"
+      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
     },
     "og_item": {
       "title": "Mesmerizing Labor - JSTOR Daily",
@@ -368,15 +392,18 @@
     "points": 70,
     "comment_count": 6,
     "hn_item": {
-      "by": "fangpenlin",
-      "descendants": 0,
-      "id": 30141215,
-      "kids": null,
-      "score": 18,
-      "time": 1643577545,
-      "title": "Show HN: BeanHub – A GitHub for Beancount",
+      "by": "oumua_don17",
+      "descendants": 4,
+      "id": 30122435,
+      "kids": [
+        30140765,
+        30140933
+      ],
+      "score": 24,
+      "time": 1643416395,
+      "title": "DDS: Build and library management tool for C, C++",
       "type": "story",
-      "url": "https://beanhub.io/"
+      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
     },
     "og_item": {
       "title": "Hardy, Ramanujan and Taxi No. 1729",
@@ -405,42 +432,54 @@
     }
   },
   {
-    "id": 30138533,
-    "title": "Hypercard Simulator",
-    "url": "https://hypercardsimulator.com/",
-    "time": 1643560248,
-    "image": "",
-    "icon": "https://hypercardsimulator.com/favicon.ico",
-    "publisher": "hypercardsimulator.com",
-    "description": "",
-    "by": "alexmingoia",
-    "points": 209,
-    "comment_count": 14,
+    "id": 30144805,
+    "title": "Examples of common false beliefs in mathematics",
+    "url": "https://mathoverflow.net/questions/23478/examples-of-common-false-beliefs-in-mathematics",
+    "time": 1643606336,
+    "image": "https://cdn.sstatic.net/Sites/mathoverflow/Img/apple-touch-icon@2.png?v=f1c9606b77ff",
+    "icon": "https://cdn.sstatic.net/Sites/mathoverflow/Img/favicon.ico?v=8bbfe38cfc48",
+    "publisher": "MathOverflow",
+    "description": "The first thing to say is that this is not the same as the question about interesting mathematical mistakes. I am interested about the type of false beliefs that many intelligent people have while ...",
+    "by": "gballan",
+    "points": 6,
+    "comment_count": 0,
     "hn_item": {
-      "by": "fangpenlin",
-      "descendants": 0,
-      "id": 30141215,
-      "kids": null,
-      "score": 18,
-      "time": 1643577545,
-      "title": "Show HN: BeanHub – A GitHub for Beancount",
+      "by": "oumua_don17",
+      "descendants": 4,
+      "id": 30122435,
+      "kids": [
+        30140765,
+        30140933
+      ],
+      "score": 24,
+      "time": 1643416395,
+      "title": "DDS: Build and library management tool for C, C++",
       "type": "story",
-      "url": "https://beanhub.io/"
+      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
     },
     "og_item": {
-      "title": "HyperCardSimulator",
-      "type": "",
-      "image": [],
-      "url": "",
+      "title": "Examples of common false beliefs in mathematics",
+      "type": "website",
+      "image": [
+        {
+          "url": "https://cdn.sstatic.net/Sites/mathoverflow/Img/apple-touch-icon@2.png?v=f1c9606b77ff",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://mathoverflow.net/questions/23478/examples-of-common-false-beliefs-in-mathematics",
       "audio": [],
-      "description": "",
+      "description": "The first thing to say is that this is not the same as the question about interesting mathematical mistakes. I am interested about the type of false beliefs that many intelligent people have while ...",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "",
+      "site_name": "MathOverflow",
       "video": [],
       "favicon": {
-        "url": "/favicon.ico"
+        "url": "https://cdn.sstatic.net/Sites/mathoverflow/Img/favicon.ico?v=8bbfe38cfc48"
       }
     }
   },
@@ -454,18 +493,21 @@
     "publisher": "blog.openresty.com",
     "description": "Transparent Container Tracing Efficient Stack Unwinding Analyzing Dead Processes (Core Dumps) Very Low Tracing Overhead Standard Ylang Libraries \u0026amp; Tools Network Filtering \u0026amp; Control The Ylang Compiler\u0026rsquo;s Implementation Operating System Support Contributions to Open-Source Communities",
     "by": "walterbell",
-    "points": 27,
+    "points": 29,
     "comment_count": 3,
     "hn_item": {
-      "by": "fangpenlin",
-      "descendants": 0,
-      "id": 30141215,
-      "kids": null,
-      "score": 18,
-      "time": 1643577545,
-      "title": "Show HN: BeanHub – A GitHub for Beancount",
+      "by": "oumua_don17",
+      "descendants": 4,
+      "id": 30122435,
+      "kids": [
+        30140765,
+        30140933
+      ],
+      "score": 24,
+      "time": 1643416395,
+      "title": "DDS: Build and library management tool for C, C++",
       "type": "story",
-      "url": "https://beanhub.io/"
+      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
     },
     "og_item": {
       "title": "Ylang: Universal Language for eBPF, Stap+, GDB, and More (Part 4) - OpenResty Official Blog",
@@ -485,6 +527,49 @@
     }
   },
   {
+    "id": 30138533,
+    "title": "Hypercard Simulator",
+    "url": "https://hypercardsimulator.com/",
+    "time": 1643560248,
+    "image": "",
+    "icon": "https://hypercardsimulator.com/favicon.ico",
+    "publisher": "hypercardsimulator.com",
+    "description": "",
+    "by": "alexmingoia",
+    "points": 209,
+    "comment_count": 14,
+    "hn_item": {
+      "by": "oumua_don17",
+      "descendants": 4,
+      "id": 30122435,
+      "kids": [
+        30140765,
+        30140933
+      ],
+      "score": 24,
+      "time": 1643416395,
+      "title": "DDS: Build and library management tool for C, C++",
+      "type": "story",
+      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
+    },
+    "og_item": {
+      "title": "HyperCardSimulator",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30141278,
     "title": "The Story of Maxis Software (1999)",
     "url": "https://web.archive.org/web/19991012021220/http://gamespot.com/features/maxis/index.html",
@@ -497,15 +582,18 @@
     "points": 92,
     "comment_count": 8,
     "hn_item": {
-      "by": "fangpenlin",
-      "descendants": 0,
-      "id": 30141215,
-      "kids": null,
-      "score": 18,
-      "time": 1643577545,
-      "title": "Show HN: BeanHub – A GitHub for Beancount",
+      "by": "oumua_don17",
+      "descendants": 4,
+      "id": 30122435,
+      "kids": [
+        30140765,
+        30140933
+      ],
+      "score": 24,
+      "time": 1643416395,
+      "title": "DDS: Build and library management tool for C, C++",
       "type": "story",
-      "url": "https://beanhub.io/"
+      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
     },
     "og_item": {
       "title": "GameSpot's SIMply Divine: The Story of Maxis Software",
@@ -534,18 +622,21 @@
     "publisher": "leahneukirchen.org",
     "description": "",
     "by": "panic",
-    "points": 137,
+    "points": 139,
     "comment_count": 10,
     "hn_item": {
-      "by": "fangpenlin",
-      "descendants": 0,
-      "id": 30141215,
-      "kids": null,
-      "score": 18,
-      "time": 1643577545,
-      "title": "Show HN: BeanHub – A GitHub for Beancount",
+      "by": "oumua_don17",
+      "descendants": 4,
+      "id": 30122435,
+      "kids": [
+        30140765,
+        30140933
+      ],
+      "score": 24,
+      "time": 1643416395,
+      "title": "DDS: Build and library management tool for C, C++",
       "type": "story",
-      "url": "https://beanhub.io/"
+      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
     },
     "og_item": {
       "title": "leah blogs: The case of the mysterious --help directory",
@@ -577,15 +668,18 @@
     "points": 30,
     "comment_count": 3,
     "hn_item": {
-      "by": "fangpenlin",
-      "descendants": 0,
-      "id": 30141215,
-      "kids": null,
-      "score": 18,
-      "time": 1643577545,
-      "title": "Show HN: BeanHub – A GitHub for Beancount",
+      "by": "oumua_don17",
+      "descendants": 4,
+      "id": 30122435,
+      "kids": [
+        30140765,
+        30140933
+      ],
+      "score": 24,
+      "time": 1643416395,
+      "title": "DDS: Build and library management tool for C, C++",
       "type": "story",
-      "url": "https://beanhub.io/"
+      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
     },
     "og_item": {
       "title": "Lizard Scale Patterns Described with Antiferromagnetic Model",
@@ -614,193 +708,6 @@
     }
   },
   {
-    "id": 30144805,
-    "title": "Examples of common false beliefs in mathematics",
-    "url": "https://mathoverflow.net/questions/23478/examples-of-common-false-beliefs-in-mathematics",
-    "time": 1643606336,
-    "image": "https://cdn.sstatic.net/Sites/mathoverflow/Img/apple-touch-icon@2.png?v=f1c9606b77ff",
-    "icon": "https://cdn.sstatic.net/Sites/mathoverflow/Img/favicon.ico?v=8bbfe38cfc48",
-    "publisher": "MathOverflow",
-    "description": "The first thing to say is that this is not the same as the question about interesting mathematical mistakes. I am interested about the type of false beliefs that many intelligent people have while ...",
-    "by": "gballan",
-    "points": 3,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "fangpenlin",
-      "descendants": 0,
-      "id": 30141215,
-      "kids": null,
-      "score": 18,
-      "time": 1643577545,
-      "title": "Show HN: BeanHub – A GitHub for Beancount",
-      "type": "story",
-      "url": "https://beanhub.io/"
-    },
-    "og_item": {
-      "title": "Examples of common false beliefs in mathematics",
-      "type": "website",
-      "image": [
-        {
-          "url": "https://cdn.sstatic.net/Sites/mathoverflow/Img/apple-touch-icon@2.png?v=f1c9606b77ff",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://mathoverflow.net/questions/23478/examples-of-common-false-beliefs-in-mathematics",
-      "audio": [],
-      "description": "The first thing to say is that this is not the same as the question about interesting mathematical mistakes. I am interested about the type of false beliefs that many intelligent people have while ...",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "MathOverflow",
-      "video": [],
-      "favicon": {
-        "url": "https://cdn.sstatic.net/Sites/mathoverflow/Img/favicon.ico?v=8bbfe38cfc48"
-      }
-    }
-  },
-  {
-    "id": 30141192,
-    "title": "Don't forget Microsoft",
-    "url": "https://luttig.substack.com/p/dont-forget-microsoft",
-    "time": 1643577413,
-    "image": "https://cdn.substack.com/image/fetch/w_1200,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8ddf68e0-c549-49b6-8751-226f54fd4e30_1280x720.jpeg",
-    "icon": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/9c349228-1ca8-4dba-b953-12d78b35ee45/favicon-32x32.png",
-    "publisher": "luttig.substack.com",
-    "description": "Understanding the behemoth in Redmond teaches us valuable lessons in cloud infrastructure, startup strategy, and the future of software.",
-    "by": "SamvitJ",
-    "points": 236,
-    "comment_count": 49,
-    "hn_item": {
-      "by": "fangpenlin",
-      "descendants": 0,
-      "id": 30141215,
-      "kids": null,
-      "score": 18,
-      "time": 1643577545,
-      "title": "Show HN: BeanHub – A GitHub for Beancount",
-      "type": "story",
-      "url": "https://beanhub.io/"
-    },
-    "og_item": {
-      "title": "Don’t forget Microsoft",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://cdn.substack.com/image/fetch/w_1200,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8ddf68e0-c549-49b6-8751-226f54fd4e30_1280x720.jpeg",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://luttig.substack.com/p/dont-forget-microsoft",
-      "audio": [],
-      "description": "Understanding the behemoth in Redmond teaches us valuable lessons in cloud infrastructure, startup strategy, and the future of software.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/9c349228-1ca8-4dba-b953-12d78b35ee45/favicon-32x32.png"
-      }
-    }
-  },
-  {
-    "id": 30138434,
-    "title": "Beancount: Double-entry accounting from text files",
-    "url": "https://github.com/beancount/beancount",
-    "time": 1643559445,
-    "image": "https://opengraph.githubassets.com/c6658a943e72bdf37fba5c2e927bc079d23401ed60439949e6511cefeee5774d/beancount/beancount",
-    "icon": "https://github.githubassets.com/favicons/favicon.svg",
-    "publisher": "GitHub",
-    "description": "Beancount: Double-Entry Accounting from Text Files. - GitHub - beancount/beancount: Beancount: Double-Entry Accounting from Text Files.",
-    "by": "techtalsky",
-    "points": 190,
-    "comment_count": 22,
-    "hn_item": {
-      "by": "fangpenlin",
-      "descendants": 0,
-      "id": 30141215,
-      "kids": null,
-      "score": 18,
-      "time": 1643577545,
-      "title": "Show HN: BeanHub – A GitHub for Beancount",
-      "type": "story",
-      "url": "https://beanhub.io/"
-    },
-    "og_item": {
-      "title": "GitHub - beancount/beancount: Beancount: Double-Entry Accounting from Text Files.",
-      "type": "object",
-      "image": [
-        {
-          "url": "https://opengraph.githubassets.com/c6658a943e72bdf37fba5c2e927bc079d23401ed60439949e6511cefeee5774d/beancount/beancount",
-          "secure_url": "",
-          "type": "",
-          "width": 1200,
-          "height": 600,
-          "alt": ""
-        }
-      ],
-      "url": "https://github.com/beancount/beancount",
-      "audio": [],
-      "description": "Beancount: Double-Entry Accounting from Text Files. - GitHub - beancount/beancount: Beancount: Double-Entry Accounting from Text Files.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "GitHub",
-      "video": [],
-      "favicon": {
-        "url": "https://github.githubassets.com/favicons/favicon.svg"
-      }
-    }
-  },
-  {
-    "id": 30128193,
-    "title": "On Immersion",
-    "url": "https://blog.laurel.world/on-immersion/",
-    "time": 1643477006,
-    "image": "",
-    "icon": "https://blog.laurel.world/favicon.ico",
-    "publisher": "blog.laurel.world",
-    "description": "",
-    "by": "artmare",
-    "points": 28,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "fangpenlin",
-      "descendants": 0,
-      "id": 30141215,
-      "kids": null,
-      "score": 18,
-      "time": 1643577545,
-      "title": "Show HN: BeanHub – A GitHub for Beancount",
-      "type": "story",
-      "url": "https://beanhub.io/"
-    },
-    "og_item": {
-      "title": "A couple years ago, I created this list: immersive: walking taking a shower sleeping teaching falling in love cinema life or death experience I was curious about these amazing parts of life that feel so meaningful — like portals, where time and space take on a totally different, enchanted feeling. I remember writing this list… – blog.laurel.world",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30131926,
     "title": "What is the inverse of a circle?",
     "url": "https://mattferraro.dev/posts/inverse-of-a-circle",
@@ -810,18 +717,21 @@
     "publisher": "mattferraro.dev",
     "description": "What does it mean to invert a shape?",
     "by": "mferraro89",
-    "points": 8,
-    "comment_count": 0,
+    "points": 10,
+    "comment_count": 1,
     "hn_item": {
-      "by": "fangpenlin",
-      "descendants": 0,
-      "id": 30141215,
-      "kids": null,
-      "score": 18,
-      "time": 1643577545,
-      "title": "Show HN: BeanHub – A GitHub for Beancount",
+      "by": "oumua_don17",
+      "descendants": 4,
+      "id": 30122435,
+      "kids": [
+        30140765,
+        30140933
+      ],
+      "score": 24,
+      "time": 1643416395,
+      "title": "DDS: Build and library management tool for C, C++",
       "type": "story",
-      "url": "https://beanhub.io/"
+      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
     },
     "og_item": {
       "title": "What is the Inverse of a Circle?",
@@ -850,30 +760,85 @@
     }
   },
   {
-    "id": 30137681,
-    "title": "In defence of the boring web",
-    "url": "https://bastian.rieck.me/blog/posts/2022/boring/",
-    "time": 1643554351,
-    "image": "",
-    "icon": "https://bastian.rieck.me/favicon.ico",
-    "publisher": "bastian.rieck.me",
-    "description": "",
-    "by": "Topolomancer",
-    "points": 202,
-    "comment_count": 23,
+    "id": 30141192,
+    "title": "Don't forget Microsoft",
+    "url": "https://luttig.substack.com/p/dont-forget-microsoft",
+    "time": 1643577413,
+    "image": "https://cdn.substack.com/image/fetch/w_1200,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8ddf68e0-c549-49b6-8751-226f54fd4e30_1280x720.jpeg",
+    "icon": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/9c349228-1ca8-4dba-b953-12d78b35ee45/favicon-32x32.png",
+    "publisher": "luttig.substack.com",
+    "description": "Understanding the behemoth in Redmond teaches us valuable lessons in cloud infrastructure, startup strategy, and the future of software.",
+    "by": "SamvitJ",
+    "points": 239,
+    "comment_count": 49,
     "hn_item": {
-      "by": "fangpenlin",
-      "descendants": 0,
-      "id": 30141215,
-      "kids": null,
-      "score": 18,
-      "time": 1643577545,
-      "title": "Show HN: BeanHub – A GitHub for Beancount",
+      "by": "oumua_don17",
+      "descendants": 4,
+      "id": 30122435,
+      "kids": [
+        30140765,
+        30140933
+      ],
+      "score": 24,
+      "time": 1643416395,
+      "title": "DDS: Build and library management tool for C, C++",
       "type": "story",
-      "url": "https://beanhub.io/"
+      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
     },
     "og_item": {
-      "title": "In Defence of the Boring Web",
+      "title": "Don’t forget Microsoft",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://cdn.substack.com/image/fetch/w_1200,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8ddf68e0-c549-49b6-8751-226f54fd4e30_1280x720.jpeg",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://luttig.substack.com/p/dont-forget-microsoft",
+      "audio": [],
+      "description": "Understanding the behemoth in Redmond teaches us valuable lessons in cloud infrastructure, startup strategy, and the future of software.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/9c349228-1ca8-4dba-b953-12d78b35ee45/favicon-32x32.png"
+      }
+    }
+  },
+  {
+    "id": 30128193,
+    "title": "On Immersion",
+    "url": "https://blog.laurel.world/on-immersion/",
+    "time": 1643477006,
+    "image": "",
+    "icon": "https://blog.laurel.world/favicon.ico",
+    "publisher": "blog.laurel.world",
+    "description": "",
+    "by": "artmare",
+    "points": 29,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "oumua_don17",
+      "descendants": 4,
+      "id": 30122435,
+      "kids": [
+        30140765,
+        30140933
+      ],
+      "score": 24,
+      "time": 1643416395,
+      "title": "DDS: Build and library management tool for C, C++",
+      "type": "story",
+      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
+    },
+    "og_item": {
+      "title": "A couple years ago, I created this list: immersive: walking taking a shower sleeping teaching falling in love cinema life or death experience I was curious about these amazing parts of life that feel so meaningful — like portals, where time and space take on a totally different, enchanted feeling. I remember writing this list… – blog.laurel.world",
       "type": "",
       "image": [],
       "url": "",
@@ -890,42 +855,106 @@
     }
   },
   {
-    "id": 30142105,
-    "title": "Seattle Telecommunications History Museum",
-    "url": "https://www.telcomhistory.org/connections-museum-seattle/",
-    "time": 1643583232,
-    "image": "",
-    "icon": "https://www.telcomhistory.org/favicon.ico",
-    "publisher": "telcomhistory.org",
-    "description": "",
-    "by": "basementcat",
-    "points": 47,
-    "comment_count": 7,
+    "id": 30138434,
+    "title": "Beancount: Double-entry accounting from text files",
+    "url": "https://github.com/beancount/beancount",
+    "time": 1643559445,
+    "image": "https://opengraph.githubassets.com/54d992cf912c25003f9234b588c8fa516c8a2c9e2c0b25ae61c63a4636835c93/beancount/beancount",
+    "icon": "https://github.githubassets.com/favicons/favicon.svg",
+    "publisher": "GitHub",
+    "description": "Beancount: Double-Entry Accounting from Text Files. - GitHub - beancount/beancount: Beancount: Double-Entry Accounting from Text Files.",
+    "by": "techtalsky",
+    "points": 190,
+    "comment_count": 22,
     "hn_item": {
-      "by": "fangpenlin",
-      "descendants": 0,
-      "id": 30141215,
-      "kids": null,
-      "score": 18,
-      "time": 1643577545,
-      "title": "Show HN: BeanHub – A GitHub for Beancount",
+      "by": "oumua_don17",
+      "descendants": 4,
+      "id": 30122435,
+      "kids": [
+        30140765,
+        30140933
+      ],
+      "score": 24,
+      "time": 1643416395,
+      "title": "DDS: Build and library management tool for C, C++",
       "type": "story",
-      "url": "https://beanhub.io/"
+      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
     },
     "og_item": {
-      "title": "403 Forbidden",
-      "type": "",
-      "image": [],
-      "url": "",
+      "title": "GitHub - beancount/beancount: Beancount: Double-Entry Accounting from Text Files.",
+      "type": "object",
+      "image": [
+        {
+          "url": "https://opengraph.githubassets.com/54d992cf912c25003f9234b588c8fa516c8a2c9e2c0b25ae61c63a4636835c93/beancount/beancount",
+          "secure_url": "",
+          "type": "",
+          "width": 1200,
+          "height": 600,
+          "alt": ""
+        }
+      ],
+      "url": "https://github.com/beancount/beancount",
       "audio": [],
-      "description": "",
+      "description": "Beancount: Double-Entry Accounting from Text Files. - GitHub - beancount/beancount: Beancount: Double-Entry Accounting from Text Files.",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "",
+      "site_name": "GitHub",
       "video": [],
       "favicon": {
-        "url": "/favicon.ico"
+        "url": "https://github.githubassets.com/favicons/favicon.svg"
+      }
+    }
+  },
+  {
+    "id": 30141439,
+    "title": "Operation Warp Speed: A new model for industrial policy",
+    "url": "https://americanaffairsjournal.org/2021/05/inside-operation-warp-speed-a-new-model-for-industrial-policy/",
+    "time": 1643579096,
+    "image": "https://americanaffairsjournal.org/wp-content/uploads/2021/05/Jenner-Vaccine.jpg",
+    "icon": "https://americanaffairsjournal.org/wp-content/themes/american-affairs-journal/assets/images/favicon-new.png",
+    "publisher": "American Affairs Journal",
+    "description": "Operation Warp Speed1 (OWS) was launched on May 15, 2020. A partnership between the Departments of Health and Human Services (HHS) and Defense (DoD), other agencies, and the private sector, its goal was to “accelerate the testing, supply, development, and distribution of safe and effective vacc…",
+    "by": "gok",
+    "points": 96,
+    "comment_count": 6,
+    "hn_item": {
+      "by": "oumua_don17",
+      "descendants": 4,
+      "id": 30122435,
+      "kids": [
+        30140765,
+        30140933
+      ],
+      "score": 24,
+      "time": 1643416395,
+      "title": "DDS: Build and library management tool for C, C++",
+      "type": "story",
+      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
+    },
+    "og_item": {
+      "title": "Inside Operation Warp Speed: A New Model for Industrial Policy - American Affairs Journal",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://americanaffairsjournal.org/wp-content/uploads/2021/05/Jenner-Vaccine.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 1200,
+          "height": 794,
+          "alt": ""
+        }
+      ],
+      "url": "https://americanaffairsjournal.org/2021/05/inside-operation-warp-speed-a-new-model-for-industrial-policy/",
+      "audio": [],
+      "description": "Operation Warp Speed1 (OWS) was launched on May 15, 2020. A partnership between the Departments of Health and Human Services (HHS) and Defense (DoD), other agencies, and the private sector, its goal was to “accelerate the testing, supply, development, and distribution of safe and effective vaccines, therapeutics, and diag­nostics to counter Covid-19.” As a result…",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "American Affairs Journal",
+      "video": [],
+      "favicon": {
+        "url": "https://americanaffairsjournal.org/wp-content/themes/american-affairs-journal/assets/images/favicon-new.png"
       }
     }
   },
@@ -939,18 +968,21 @@
     "publisher": "jenson.org",
     "description": "",
     "by": "radley",
-    "points": 663,
+    "points": 669,
     "comment_count": 95,
     "hn_item": {
-      "by": "fangpenlin",
-      "descendants": 0,
-      "id": 30141215,
-      "kids": null,
-      "score": 18,
-      "time": 1643577545,
-      "title": "Show HN: BeanHub – A GitHub for Beancount",
+      "by": "oumua_don17",
+      "descendants": 4,
+      "id": 30122435,
+      "kids": [
+        30140765,
+        30140933
+      ],
+      "score": 24,
+      "time": 1643416395,
+      "title": "DDS: Build and library management tool for C, C++",
       "type": "story",
-      "url": "https://beanhub.io/"
+      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
     },
     "og_item": {
       "title": "A UX designer walks into a Tesla Bar – Scott Jenson",
@@ -970,6 +1002,49 @@
     }
   },
   {
+    "id": 30142105,
+    "title": "Seattle Telecommunications History Museum",
+    "url": "https://www.telcomhistory.org/connections-museum-seattle/",
+    "time": 1643583232,
+    "image": "",
+    "icon": "https://www.telcomhistory.org/favicon.ico",
+    "publisher": "telcomhistory.org",
+    "description": "",
+    "by": "basementcat",
+    "points": 48,
+    "comment_count": 7,
+    "hn_item": {
+      "by": "oumua_don17",
+      "descendants": 4,
+      "id": 30122435,
+      "kids": [
+        30140765,
+        30140933
+      ],
+      "score": 24,
+      "time": 1643416395,
+      "title": "DDS: Build and library management tool for C, C++",
+      "type": "story",
+      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
+    },
+    "og_item": {
+      "title": "403 Forbidden",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30140464,
     "title": "The Great Unconformity: Research points to glaciers being the culprit",
     "url": "https://www.vice.com/en/article/wxdzzb/a-billion-years-of-time-are-mysteriously-missing-scientists-think-they-know-why",
@@ -982,15 +1057,18 @@
     "points": 73,
     "comment_count": 4,
     "hn_item": {
-      "by": "fangpenlin",
-      "descendants": 0,
-      "id": 30141215,
-      "kids": null,
-      "score": 18,
-      "time": 1643577545,
-      "title": "Show HN: BeanHub – A GitHub for Beancount",
+      "by": "oumua_don17",
+      "descendants": 4,
+      "id": 30122435,
+      "kids": [
+        30140765,
+        30140933
+      ],
+      "score": 24,
+      "time": 1643416395,
+      "title": "DDS: Build and library management tool for C, C++",
       "type": "story",
-      "url": "https://beanhub.io/"
+      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
     },
     "og_item": {
       "title": "A Billion Years of Time Are Mysteriously Missing. Scientists Think They Know Why.",
@@ -1031,15 +1109,18 @@
     "points": 1,
     "comment_count": 0,
     "hn_item": {
-      "by": "fangpenlin",
-      "descendants": 0,
-      "id": 30141215,
-      "kids": null,
-      "score": 18,
-      "time": 1643577545,
-      "title": "Show HN: BeanHub – A GitHub for Beancount",
+      "by": "oumua_don17",
+      "descendants": 4,
+      "id": 30122435,
+      "kids": [
+        30140765,
+        30140933
+      ],
+      "score": 24,
+      "time": 1643416395,
+      "title": "DDS: Build and library management tool for C, C++",
       "type": "story",
-      "url": "https://beanhub.io/"
+      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
     },
     "og_item": {
       "title": "BuildZoom jobs",
@@ -1077,18 +1158,21 @@
     "publisher": "ByteofDev",
     "description": "Static Site Generators have been changing quickly with new trends like Jamstack. Learn more about the background of static site generators, why people use them, and the current state of them, with information on modern SSGs like Eleventy, Next.js, SvelteKit, and Astro.",
     "by": "AsyncBanana",
-    "points": 66,
+    "points": 68,
     "comment_count": 11,
     "hn_item": {
-      "by": "fangpenlin",
-      "descendants": 0,
-      "id": 30141215,
-      "kids": null,
-      "score": 18,
-      "time": 1643577545,
-      "title": "Show HN: BeanHub – A GitHub for Beancount",
+      "by": "oumua_don17",
+      "descendants": 4,
+      "id": 30122435,
+      "kids": [
+        30140765,
+        30140933
+      ],
+      "score": 24,
+      "time": 1643416395,
+      "title": "DDS: Build and library management tool for C, C++",
       "type": "story",
-      "url": "https://beanhub.io/"
+      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
     },
     "og_item": {
       "title": "State of the Web: Static Site Generators",
@@ -1127,17 +1211,20 @@
     "description": "The bottle Joanna Buchan dropped in the sea at Peterhead when she was eight has washed up in Norway.",
     "by": "LinuxBender",
     "points": 97,
-    "comment_count": 9,
+    "comment_count": 10,
     "hn_item": {
-      "by": "fangpenlin",
-      "descendants": 0,
-      "id": 30141215,
-      "kids": null,
-      "score": 18,
-      "time": 1643577545,
-      "title": "Show HN: BeanHub – A GitHub for Beancount",
+      "by": "oumua_don17",
+      "descendants": 4,
+      "id": 30122435,
+      "kids": [
+        30140765,
+        30140933
+      ],
+      "score": 24,
+      "time": 1643416395,
+      "title": "DDS: Build and library management tool for C, C++",
       "type": "story",
-      "url": "https://beanhub.io/"
+      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
     },
     "og_item": {
       "title": "Message in a bottle from Scottish girl found in Norway after 25 years",
@@ -1175,18 +1262,21 @@
     "publisher": "ruoyusun.com",
     "description": "",
     "by": "insraq",
-    "points": 44,
+    "points": 45,
     "comment_count": 4,
     "hn_item": {
-      "by": "fangpenlin",
-      "descendants": 0,
-      "id": 30141215,
-      "kids": null,
-      "score": 18,
-      "time": 1643577545,
-      "title": "Show HN: BeanHub – A GitHub for Beancount",
+      "by": "oumua_don17",
+      "descendants": 4,
+      "id": 30122435,
+      "kids": [
+        30140765,
+        30140933
+      ],
+      "score": 24,
+      "time": 1643416395,
+      "title": "DDS: Build and library management tool for C, C++",
       "type": "story",
-      "url": "https://beanhub.io/"
+      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
     },
     "og_item": {
       "title": "Game Performance Optimization - A Practical Example From Industry Idle",
@@ -1218,15 +1308,18 @@
     "points": 83,
     "comment_count": 12,
     "hn_item": {
-      "by": "fangpenlin",
-      "descendants": 0,
-      "id": 30141215,
-      "kids": null,
-      "score": 18,
-      "time": 1643577545,
-      "title": "Show HN: BeanHub – A GitHub for Beancount",
+      "by": "oumua_don17",
+      "descendants": 4,
+      "id": 30122435,
+      "kids": [
+        30140765,
+        30140933
+      ],
+      "score": 24,
+      "time": 1643416395,
+      "title": "DDS: Build and library management tool for C, C++",
       "type": "story",
-      "url": "https://beanhub.io/"
+      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
     },
     "og_item": {
       "title": "When the Algorithm Is Your Boss",
@@ -1255,55 +1348,6 @@
     }
   },
   {
-    "id": 30141439,
-    "title": "Operation Warp Speed: A new model for industrial policy",
-    "url": "https://americanaffairsjournal.org/2021/05/inside-operation-warp-speed-a-new-model-for-industrial-policy/",
-    "time": 1643579096,
-    "image": "https://americanaffairsjournal.org/wp-content/uploads/2021/05/Jenner-Vaccine.jpg",
-    "icon": "https://americanaffairsjournal.org/wp-content/themes/american-affairs-journal/assets/images/favicon-new.png",
-    "publisher": "American Affairs Journal",
-    "description": "Operation Warp Speed1 (OWS) was launched on May 15, 2020. A partnership between the Departments of Health and Human Services (HHS) and Defense (DoD), other agencies, and the private sector, its goal was to “accelerate the testing, supply, development, and distribution of safe and effective vacc…",
-    "by": "gok",
-    "points": 93,
-    "comment_count": 6,
-    "hn_item": {
-      "by": "fangpenlin",
-      "descendants": 0,
-      "id": 30141215,
-      "kids": null,
-      "score": 18,
-      "time": 1643577545,
-      "title": "Show HN: BeanHub – A GitHub for Beancount",
-      "type": "story",
-      "url": "https://beanhub.io/"
-    },
-    "og_item": {
-      "title": "Inside Operation Warp Speed: A New Model for Industrial Policy - American Affairs Journal",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://americanaffairsjournal.org/wp-content/uploads/2021/05/Jenner-Vaccine.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 1200,
-          "height": 794,
-          "alt": ""
-        }
-      ],
-      "url": "https://americanaffairsjournal.org/2021/05/inside-operation-warp-speed-a-new-model-for-industrial-policy/",
-      "audio": [],
-      "description": "Operation Warp Speed1 (OWS) was launched on May 15, 2020. A partnership between the Departments of Health and Human Services (HHS) and Defense (DoD), other agencies, and the private sector, its goal was to “accelerate the testing, supply, development, and distribution of safe and effective vaccines, therapeutics, and diag­nostics to counter Covid-19.” As a result…",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "American Affairs Journal",
-      "video": [],
-      "favicon": {
-        "url": "https://americanaffairsjournal.org/wp-content/themes/american-affairs-journal/assets/images/favicon-new.png"
-      }
-    }
-  },
-  {
     "id": 30137864,
     "title": "Midnight Commander Tips and Tricks",
     "url": "http://www.softpanorama.org/OFM/MC/mc_tips.shtml",
@@ -1313,18 +1357,21 @@
     "publisher": "softpanorama.org",
     "description": "",
     "by": "ingve",
-    "points": 151,
+    "points": 154,
     "comment_count": 18,
     "hn_item": {
-      "by": "fangpenlin",
-      "descendants": 0,
-      "id": 30141215,
-      "kids": null,
-      "score": 18,
-      "time": 1643577545,
-      "title": "Show HN: BeanHub – A GitHub for Beancount",
+      "by": "oumua_don17",
+      "descendants": 4,
+      "id": 30122435,
+      "kids": [
+        30140765,
+        30140933
+      ],
+      "score": 24,
+      "time": 1643416395,
+      "title": "DDS: Build and library management tool for C, C++",
       "type": "story",
-      "url": "https://beanhub.io/"
+      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
     },
     "og_item": {
       "title": "Midnight Commander Tips and Tricks",
@@ -1356,15 +1403,18 @@
     "points": 53,
     "comment_count": 11,
     "hn_item": {
-      "by": "fangpenlin",
-      "descendants": 0,
-      "id": 30141215,
-      "kids": null,
-      "score": 18,
-      "time": 1643577545,
-      "title": "Show HN: BeanHub – A GitHub for Beancount",
+      "by": "oumua_don17",
+      "descendants": 4,
+      "id": 30122435,
+      "kids": [
+        30140765,
+        30140933
+      ],
+      "score": 24,
+      "time": 1643416395,
+      "title": "DDS: Build and library management tool for C, C++",
       "type": "story",
-      "url": "https://beanhub.io/"
+      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
     },
     "og_item": {
       "title": "Streamlit",
@@ -1396,15 +1446,18 @@
     "points": 75,
     "comment_count": 12,
     "hn_item": {
-      "by": "fangpenlin",
-      "descendants": 0,
-      "id": 30141215,
-      "kids": null,
-      "score": 18,
-      "time": 1643577545,
-      "title": "Show HN: BeanHub – A GitHub for Beancount",
+      "by": "oumua_don17",
+      "descendants": 4,
+      "id": 30122435,
+      "kids": [
+        30140765,
+        30140933
+      ],
+      "score": 24,
+      "time": 1643416395,
+      "title": "DDS: Build and library management tool for C, C++",
       "type": "story",
-      "url": "https://beanhub.io/"
+      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
     },
     "og_item": {
       "title": "COM+ revisited",
@@ -1433,178 +1486,6 @@
     }
   },
   {
-    "id": 30144083,
-    "title": "Rents are up 40 percent in some cities, forcing millions to move",
-    "url": "https://www.washingtonpost.com/business/2022/01/30/rent-inflation-housing/",
-    "time": 1643599234,
-    "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QJQ7K2D774I6ZDGIW2LFMS5HSY.jpg\u0026w=1440",
-    "icon": "https://www.washingtonpost.com/wp-stat/assets/favicons/touch-icon-iphone.png",
-    "publisher": "Washington Post",
-    "description": "Rising rents are also expected to be a driving force in inflation this year and have been an ongoing policy challenge for the Biden administration.",
-    "by": "MilnerRoute",
-    "points": 72,
-    "comment_count": 12,
-    "hn_item": {
-      "by": "fangpenlin",
-      "descendants": 0,
-      "id": 30141215,
-      "kids": null,
-      "score": 18,
-      "time": 1643577545,
-      "title": "Show HN: BeanHub – A GitHub for Beancount",
-      "type": "story",
-      "url": "https://beanhub.io/"
-    },
-    "og_item": {
-      "title": "Rents are up 40 percent in some cities, forcing millions to find another place to live",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QJQ7K2D774I6ZDGIW2LFMS5HSY.jpg\u0026w=1440",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://www.washingtonpost.com/business/2022/01/30/rent-inflation-housing/",
-      "audio": [],
-      "description": "Rising rents are also expected to be a driving force in inflation this year and have been an ongoing policy challenge for the Biden administration.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Washington Post",
-      "video": [],
-      "favicon": {
-        "url": "https://www.washingtonpost.com/wp-stat/assets/favicons/touch-icon-iphone.png"
-      }
-    }
-  },
-  {
-    "id": 30138468,
-    "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
-    "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf",
-    "time": 1643559712,
-    "image": "",
-    "icon": "",
-    "publisher": "win.tue.nl",
-    "description": "",
-    "by": "camnora",
-    "points": 100,
-    "comment_count": 7,
-    "hn_item": {
-      "by": "fangpenlin",
-      "descendants": 0,
-      "id": 30141215,
-      "kids": null,
-      "score": 18,
-      "time": 1643577545,
-      "title": "Show HN: BeanHub – A GitHub for Beancount",
-      "type": "story",
-      "url": "https://beanhub.io/"
-    },
-    "og_item": null
-  },
-  {
-    "id": 30142918,
-    "title": "Unconscious R\u0026D (2021)",
-    "url": "https://subconscious.substack.com/p/unconscious-r-and-d",
-    "time": 1643589336,
-    "image": "https://cdn.substack.com/image/fetch/w_1200,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F80b4a51a-7687-453c-b94b-a0c33b1399c7_1668x1668.jpeg",
-    "icon": "https://cdn.substack.com/icons/substack/favicon-32x32.png",
-    "publisher": "subconscious.substack.com",
-    "description": "What if your notes could self-organize—from scratch notes, to draft, to finished creative work—through a stream-of-consciousness process—like dreaming? Years ago, I was part of a user study that aimed to understand how creators create. We interviewed authors, artists, students, influencers,…",
-    "by": "fagnerbrack",
-    "points": 20,
-    "comment_count": 3,
-    "hn_item": {
-      "by": "fangpenlin",
-      "descendants": 0,
-      "id": 30141215,
-      "kids": null,
-      "score": 18,
-      "time": 1643577545,
-      "title": "Show HN: BeanHub – A GitHub for Beancount",
-      "type": "story",
-      "url": "https://beanhub.io/"
-    },
-    "og_item": {
-      "title": "Unconscious R\u0026D",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://cdn.substack.com/image/fetch/w_1200,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F80b4a51a-7687-453c-b94b-a0c33b1399c7_1668x1668.jpeg",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://subconscious.substack.com/p/unconscious-r-and-d",
-      "audio": [],
-      "description": "What if your notes could self-organize—from scratch notes, to draft, to finished creative work—through a stream-of-consciousness process—like dreaming? Years ago, I was part of a user study that aimed to understand how creators create. We interviewed authors, artists, students, influencers, and discovered a recurrent meta-pattern in the creative processes that emerged across disciplines and tools...",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "https://cdn.substack.com/icons/substack/favicon-32x32.png"
-      }
-    }
-  },
-  {
-    "id": 30137720,
-    "title": "U.S. companies are hiring Latin America’s tech talent",
-    "url": "https://restofworld.org/2022/latin-america-startup-developer-scarcity/",
-    "time": 1643554658,
-    "image": "https://149346090.v2.pressablecdn.com/wp-content/uploads/2022/01/GettyImages-531336444-1600x900.jpg",
-    "icon": "https://149346090.v2.pressablecdn.com/wp-content/themes/orbis/assets/icons/icon-196.png",
-    "publisher": "Rest of World",
-    "description": "As a hedge against American talent poachers, some exasperated founders are recruiting developers who can’t speak English.",
-    "by": "braco_alva",
-    "points": 185,
-    "comment_count": 39,
-    "hn_item": {
-      "by": "fangpenlin",
-      "descendants": 0,
-      "id": 30141215,
-      "kids": null,
-      "score": 18,
-      "time": 1643577545,
-      "title": "Show HN: BeanHub – A GitHub for Beancount",
-      "type": "story",
-      "url": "https://beanhub.io/"
-    },
-    "og_item": {
-      "title": "“It’s a bloodbath”: U.S. companies are pillaging Latin America’s tech talent",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://149346090.v2.pressablecdn.com/wp-content/uploads/2022/01/GettyImages-531336444-1600x900.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 1600,
-          "height": 900,
-          "alt": ""
-        }
-      ],
-      "url": "https://restofworld.org/2022/latin-america-startup-developer-scarcity/",
-      "audio": [],
-      "description": "As a hedge against American talent poachers, some exasperated founders are recruiting developers who can’t speak English.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Rest of World",
-      "video": [],
-      "favicon": {
-        "url": "https://149346090.v2.pressablecdn.com/wp-content/themes/orbis/assets/icons/icon-196.png"
-      }
-    }
-  },
-  {
     "id": 30144101,
     "title": "Please Make a Dumb Car",
     "url": "https://techcrunch.com/2022/01/29/please-make-a-dumb-car/",
@@ -1614,18 +1495,21 @@
     "publisher": "TechCrunch",
     "description": "Today’s cars are dumb where they should be smart, and smart where they should be dumb. Enough already. Make a car that’s pretty much all dumb and watch it sell — because what automakers are giving people is so bad, they’ll pay more to have less of it. Cars now are like budget smar…",
     "by": "wrycoder",
-    "points": 29,
-    "comment_count": 4,
+    "points": 34,
+    "comment_count": 5,
     "hn_item": {
-      "by": "fangpenlin",
-      "descendants": 0,
-      "id": 30141215,
-      "kids": null,
-      "score": 18,
-      "time": 1643577545,
-      "title": "Show HN: BeanHub – A GitHub for Beancount",
+      "by": "oumua_don17",
+      "descendants": 4,
+      "id": 30122435,
+      "kids": [
+        30140765,
+        30140933
+      ],
+      "score": 24,
+      "time": 1643416395,
+      "title": "DDS: Build and library management tool for C, C++",
       "type": "story",
-      "url": "https://beanhub.io/"
+      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
     },
     "og_item": {
       "title": "Please make a dumb car – TechCrunch",
@@ -1654,6 +1538,190 @@
     }
   },
   {
+    "id": 30138468,
+    "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
+    "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf",
+    "time": 1643559712,
+    "image": "",
+    "icon": "",
+    "publisher": "win.tue.nl",
+    "description": "",
+    "by": "camnora",
+    "points": 100,
+    "comment_count": 7,
+    "hn_item": {
+      "by": "oumua_don17",
+      "descendants": 4,
+      "id": 30122435,
+      "kids": [
+        30140765,
+        30140933
+      ],
+      "score": 24,
+      "time": 1643416395,
+      "title": "DDS: Build and library management tool for C, C++",
+      "type": "story",
+      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
+    },
+    "og_item": null
+  },
+  {
+    "id": 30137720,
+    "title": "U.S. companies are hiring Latin America’s tech talent",
+    "url": "https://restofworld.org/2022/latin-america-startup-developer-scarcity/",
+    "time": 1643554658,
+    "image": "https://149346090.v2.pressablecdn.com/wp-content/uploads/2022/01/GettyImages-531336444-1600x900.jpg",
+    "icon": "https://149346090.v2.pressablecdn.com/wp-content/themes/orbis/assets/icons/icon-196.png",
+    "publisher": "Rest of World",
+    "description": "As a hedge against American talent poachers, some exasperated founders are recruiting developers who can’t speak English.",
+    "by": "braco_alva",
+    "points": 185,
+    "comment_count": 39,
+    "hn_item": {
+      "by": "oumua_don17",
+      "descendants": 4,
+      "id": 30122435,
+      "kids": [
+        30140765,
+        30140933
+      ],
+      "score": 24,
+      "time": 1643416395,
+      "title": "DDS: Build and library management tool for C, C++",
+      "type": "story",
+      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
+    },
+    "og_item": {
+      "title": "“It’s a bloodbath”: U.S. companies are pillaging Latin America’s tech talent",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://149346090.v2.pressablecdn.com/wp-content/uploads/2022/01/GettyImages-531336444-1600x900.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 1600,
+          "height": 900,
+          "alt": ""
+        }
+      ],
+      "url": "https://restofworld.org/2022/latin-america-startup-developer-scarcity/",
+      "audio": [],
+      "description": "As a hedge against American talent poachers, some exasperated founders are recruiting developers who can’t speak English.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Rest of World",
+      "video": [],
+      "favicon": {
+        "url": "https://149346090.v2.pressablecdn.com/wp-content/themes/orbis/assets/icons/icon-196.png"
+      }
+    }
+  },
+  {
+    "id": 30142918,
+    "title": "Unconscious R\u0026D (2021)",
+    "url": "https://subconscious.substack.com/p/unconscious-r-and-d",
+    "time": 1643589336,
+    "image": "https://cdn.substack.com/image/fetch/w_1200,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F80b4a51a-7687-453c-b94b-a0c33b1399c7_1668x1668.jpeg",
+    "icon": "https://cdn.substack.com/icons/substack/favicon-32x32.png",
+    "publisher": "subconscious.substack.com",
+    "description": "What if your notes could self-organize—from scratch notes, to draft, to finished creative work—through a stream-of-consciousness process—like dreaming? Years ago, I was part of a user study that aimed to understand how creators create. We interviewed authors, artists, students, influencers,…",
+    "by": "fagnerbrack",
+    "points": 20,
+    "comment_count": 3,
+    "hn_item": {
+      "by": "oumua_don17",
+      "descendants": 4,
+      "id": 30122435,
+      "kids": [
+        30140765,
+        30140933
+      ],
+      "score": 24,
+      "time": 1643416395,
+      "title": "DDS: Build and library management tool for C, C++",
+      "type": "story",
+      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
+    },
+    "og_item": {
+      "title": "Unconscious R\u0026D",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://cdn.substack.com/image/fetch/w_1200,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F80b4a51a-7687-453c-b94b-a0c33b1399c7_1668x1668.jpeg",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://subconscious.substack.com/p/unconscious-r-and-d",
+      "audio": [],
+      "description": "What if your notes could self-organize—from scratch notes, to draft, to finished creative work—through a stream-of-consciousness process—like dreaming? Years ago, I was part of a user study that aimed to understand how creators create. We interviewed authors, artists, students, influencers, and discovered a recurrent meta-pattern in the creative processes that emerged across disciplines and tools...",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "https://cdn.substack.com/icons/substack/favicon-32x32.png"
+      }
+    }
+  },
+  {
+    "id": 30144083,
+    "title": "Rents are up 40 percent in some cities, forcing millions to move",
+    "url": "https://www.washingtonpost.com/business/2022/01/30/rent-inflation-housing/",
+    "time": 1643599234,
+    "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QJQ7K2D774I6ZDGIW2LFMS5HSY.jpg\u0026w=1440",
+    "icon": "https://www.washingtonpost.com/wp-stat/assets/favicons/touch-icon-iphone.png",
+    "publisher": "Washington Post",
+    "description": "Rising rents are also expected to be a driving force in inflation this year and have been an ongoing policy challenge for the Biden administration.",
+    "by": "MilnerRoute",
+    "points": 72,
+    "comment_count": 12,
+    "hn_item": {
+      "by": "oumua_don17",
+      "descendants": 4,
+      "id": 30122435,
+      "kids": [
+        30140765,
+        30140933
+      ],
+      "score": 24,
+      "time": 1643416395,
+      "title": "DDS: Build and library management tool for C, C++",
+      "type": "story",
+      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
+    },
+    "og_item": {
+      "title": "Rents are up 40 percent in some cities, forcing millions to find another place to live",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QJQ7K2D774I6ZDGIW2LFMS5HSY.jpg\u0026w=1440",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://www.washingtonpost.com/business/2022/01/30/rent-inflation-housing/",
+      "audio": [],
+      "description": "Rising rents are also expected to be a driving force in inflation this year and have been an ongoing policy challenge for the Biden administration.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Washington Post",
+      "video": [],
+      "favicon": {
+        "url": "https://www.washingtonpost.com/wp-stat/assets/favicons/touch-icon-iphone.png"
+      }
+    }
+  },
+  {
     "id": 30142247,
     "title": "Basic Cryptography – The Vigenere Cipher",
     "url": "https://eric.mann.blog/basic-cryptography-the-vigenere-cipher/",
@@ -1666,15 +1734,18 @@
     "points": 28,
     "comment_count": 6,
     "hn_item": {
-      "by": "fangpenlin",
-      "descendants": 0,
-      "id": 30141215,
-      "kids": null,
-      "score": 18,
-      "time": 1643577545,
-      "title": "Show HN: BeanHub – A GitHub for Beancount",
+      "by": "oumua_don17",
+      "descendants": 4,
+      "id": 30122435,
+      "kids": [
+        30140765,
+        30140933
+      ],
+      "score": 24,
+      "time": 1643416395,
+      "title": "DDS: Build and library management tool for C, C++",
       "type": "story",
-      "url": "https://beanhub.io/"
+      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
     },
     "og_item": {
       "title": "Basic cryptography - the Vigenere cipher - Eric Mann's Blog",
@@ -1715,15 +1786,18 @@
     "points": 33,
     "comment_count": 3,
     "hn_item": {
-      "by": "fangpenlin",
-      "descendants": 0,
-      "id": 30141215,
-      "kids": null,
-      "score": 18,
-      "time": 1643577545,
-      "title": "Show HN: BeanHub – A GitHub for Beancount",
+      "by": "oumua_don17",
+      "descendants": 4,
+      "id": 30122435,
+      "kids": [
+        30140765,
+        30140933
+      ],
+      "score": 24,
+      "time": 1643416395,
+      "title": "DDS: Build and library management tool for C, C++",
       "type": "story",
-      "url": "https://beanhub.io/"
+      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
     },
     "og_item": {
       "title": "GitHub - Idov31/FunctionStomping: A new shellcode injection technique. Given as C++ header or standalone Rust program.",
@@ -1762,17 +1836,20 @@
     "description": "Joshua Bell is one of the world’s greatest violinists. His instrument of choice is a multimillion-dollar Stradivarius. If he played it for spare change, incognito, outside a bustling Metro stop in Washington, would anyone notice?",
     "by": "Tomte",
     "points": 11,
-    "comment_count": 6,
+    "comment_count": 7,
     "hn_item": {
-      "by": "fangpenlin",
-      "descendants": 0,
-      "id": 30141215,
-      "kids": null,
-      "score": 18,
-      "time": 1643577545,
-      "title": "Show HN: BeanHub – A GitHub for Beancount",
+      "by": "oumua_don17",
+      "descendants": 4,
+      "id": 30122435,
+      "kids": [
+        30140765,
+        30140933
+      ],
+      "score": 24,
+      "time": 1643416395,
+      "title": "DDS: Build and library management tool for C, C++",
       "type": "story",
-      "url": "https://beanhub.io/"
+      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
     },
     "og_item": {
       "title": "Pearls Before Breakfast: Can one of the nation’s great musicians cut through the fog of a D.C. rush hour? Let’s find out.",
@@ -1813,15 +1890,18 @@
     "points": 50,
     "comment_count": 7,
     "hn_item": {
-      "by": "fangpenlin",
-      "descendants": 0,
-      "id": 30141215,
-      "kids": null,
-      "score": 18,
-      "time": 1643577545,
-      "title": "Show HN: BeanHub – A GitHub for Beancount",
+      "by": "oumua_don17",
+      "descendants": 4,
+      "id": 30122435,
+      "kids": [
+        30140765,
+        30140933
+      ],
+      "score": 24,
+      "time": 1643416395,
+      "title": "DDS: Build and library management tool for C, C++",
       "type": "story",
-      "url": "https://beanhub.io/"
+      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
     },
     "og_item": {
       "title": "Using tree data structures to implement terminal split panes - more fun than it sounds",
@@ -1850,55 +1930,6 @@
     }
   },
   {
-    "id": 30138420,
-    "title": "Autonomous battery-powered rail cars",
-    "url": "https://arstechnica.com/cars/2022/01/moving-more-with-less-freight-startup-bets-on-autonomous-electric-rail-cars/",
-    "time": 1643559370,
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/01/Parallel_Landscape_cropped-e1642613980939-760x380.jpg",
-    "icon": "https://cdn.arstechnica.net/wp-content/themes/ars/assets/img/material-ars-db41652381.png",
-    "publisher": "Ars Technica",
-    "description": "Advances in batteries, autonomy could extend the reach of freight railroads.",
-    "by": "vanburen",
-    "points": 77,
-    "comment_count": 17,
-    "hn_item": {
-      "by": "fangpenlin",
-      "descendants": 0,
-      "id": 30141215,
-      "kids": null,
-      "score": 18,
-      "time": 1643577545,
-      "title": "Show HN: BeanHub – A GitHub for Beancount",
-      "type": "story",
-      "url": "https://beanhub.io/"
-    },
-    "og_item": {
-      "title": "Autonomous battery-powered rail cars could steal shipments from truckers",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/01/Parallel_Landscape_cropped-e1642613980939-760x380.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://arstechnica.com/cars/2022/01/moving-more-with-less-freight-startup-bets-on-autonomous-electric-rail-cars/",
-      "audio": [],
-      "description": "Advances in batteries, autonomy could extend the reach of freight railroads.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Ars Technica",
-      "video": [],
-      "favicon": {
-        "url": "https://cdn.arstechnica.net/wp-content/themes/ars/assets/img/material-ars-db41652381.png"
-      }
-    }
-  },
-  {
     "id": 30119285,
     "title": "Devious SQL: Message Queuing Using Native PostgreSQL",
     "url": "https://blog.crunchydata.com/blog/message-queuing-using-native-postgresql",
@@ -1911,15 +1942,18 @@
     "points": 114,
     "comment_count": 9,
     "hn_item": {
-      "by": "fangpenlin",
-      "descendants": 0,
-      "id": 30141215,
-      "kids": null,
-      "score": 18,
-      "time": 1643577545,
-      "title": "Show HN: BeanHub – A GitHub for Beancount",
+      "by": "oumua_don17",
+      "descendants": 4,
+      "id": 30122435,
+      "kids": [
+        30140765,
+        30140933
+      ],
+      "score": 24,
+      "time": 1643416395,
+      "title": "DDS: Build and library management tool for C, C++",
       "type": "story",
-      "url": "https://beanhub.io/"
+      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
     },
     "og_item": {
       "title": "Devious SQL: Message Queuing Using Native PostgreSQL",
@@ -1948,6 +1982,58 @@
     }
   },
   {
+    "id": 30138420,
+    "title": "Autonomous battery-powered rail cars",
+    "url": "https://arstechnica.com/cars/2022/01/moving-more-with-less-freight-startup-bets-on-autonomous-electric-rail-cars/",
+    "time": 1643559370,
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/01/Parallel_Landscape_cropped-e1642613980939-760x380.jpg",
+    "icon": "https://cdn.arstechnica.net/wp-content/themes/ars/assets/img/material-ars-db41652381.png",
+    "publisher": "Ars Technica",
+    "description": "Advances in batteries, autonomy could extend the reach of freight railroads.",
+    "by": "vanburen",
+    "points": 77,
+    "comment_count": 17,
+    "hn_item": {
+      "by": "oumua_don17",
+      "descendants": 4,
+      "id": 30122435,
+      "kids": [
+        30140765,
+        30140933
+      ],
+      "score": 24,
+      "time": 1643416395,
+      "title": "DDS: Build and library management tool for C, C++",
+      "type": "story",
+      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
+    },
+    "og_item": {
+      "title": "Autonomous battery-powered rail cars could steal shipments from truckers",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/01/Parallel_Landscape_cropped-e1642613980939-760x380.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://arstechnica.com/cars/2022/01/moving-more-with-less-freight-startup-bets-on-autonomous-electric-rail-cars/",
+      "audio": [],
+      "description": "Advances in batteries, autonomy could extend the reach of freight railroads.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Ars Technica",
+      "video": [],
+      "favicon": {
+        "url": "https://cdn.arstechnica.net/wp-content/themes/ars/assets/img/material-ars-db41652381.png"
+      }
+    }
+  },
+  {
     "id": 30131847,
     "title": "Mix and Match Mental Models",
     "url": "https://lethain.com/mental-models-mix-match/",
@@ -1960,15 +2046,18 @@
     "points": 33,
     "comment_count": 0,
     "hn_item": {
-      "by": "fangpenlin",
-      "descendants": 0,
-      "id": 30141215,
-      "kids": null,
-      "score": 18,
-      "time": 1643577545,
-      "title": "Show HN: BeanHub – A GitHub for Beancount",
+      "by": "oumua_don17",
+      "descendants": 4,
+      "id": 30122435,
+      "kids": [
+        30140765,
+        30140933
+      ],
+      "score": 24,
+      "time": 1643416395,
+      "title": "DDS: Build and library management tool for C, C++",
       "type": "story",
-      "url": "https://beanhub.io/"
+      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
     },
     "og_item": {
       "title": "Mix and match mental models.",
@@ -1997,6 +2086,49 @@
     }
   },
   {
+    "id": 30120857,
+    "title": "Writing an efficient Vulkan renderer (2020)",
+    "url": "https://zeux.io/2020/02/27/writing-an-efficient-vulkan-renderer/",
+    "time": 1643406697,
+    "image": "",
+    "icon": "https://zeux.io/2020/02/27/writing-an-efficient-vulkan-renderer/data:;base64,iVBORw0KGgo=",
+    "publisher": "zeux.io",
+    "description": "",
+    "by": "nabla9",
+    "points": 75,
+    "comment_count": 5,
+    "hn_item": {
+      "by": "oumua_don17",
+      "descendants": 4,
+      "id": 30122435,
+      "kids": [
+        30140765,
+        30140933
+      ],
+      "score": 24,
+      "time": 1643416395,
+      "title": "DDS: Build and library management tool for C, C++",
+      "type": "story",
+      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
+    },
+    "og_item": {
+      "title": "\n    zeux.io - Writing an efficient Vulkan renderer\n  ",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "data:;base64,iVBORw0KGgo="
+      }
+    }
+  },
+  {
     "id": 30110679,
     "title": "Bringing Ancient Pottery to Life",
     "url": "https://news.harvard.edu/gazette/story/2021/09/harvard-ceramics-program-recreates-art-museums-pieces/",
@@ -2009,15 +2141,18 @@
     "points": 14,
     "comment_count": 1,
     "hn_item": {
-      "by": "fangpenlin",
-      "descendants": 0,
-      "id": 30141215,
-      "kids": null,
-      "score": 18,
-      "time": 1643577545,
-      "title": "Show HN: BeanHub – A GitHub for Beancount",
+      "by": "oumua_don17",
+      "descendants": 4,
+      "id": 30122435,
+      "kids": [
+        30140765,
+        30140933
+      ],
+      "score": 24,
+      "time": 1643416395,
+      "title": "DDS: Build and library management tool for C, C++",
       "type": "story",
-      "url": "https://beanhub.io/"
+      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
     },
     "og_item": {
       "title": "Harvard ceramics program recreates Art Museums’ pieces",
@@ -2046,46 +2181,6 @@
     }
   },
   {
-    "id": 30120857,
-    "title": "Writing an efficient Vulkan renderer (2020)",
-    "url": "https://zeux.io/2020/02/27/writing-an-efficient-vulkan-renderer/",
-    "time": 1643406697,
-    "image": "",
-    "icon": "https://zeux.io/2020/02/27/writing-an-efficient-vulkan-renderer/data:;base64,iVBORw0KGgo=",
-    "publisher": "zeux.io",
-    "description": "",
-    "by": "nabla9",
-    "points": 75,
-    "comment_count": 5,
-    "hn_item": {
-      "by": "fangpenlin",
-      "descendants": 0,
-      "id": 30141215,
-      "kids": null,
-      "score": 18,
-      "time": 1643577545,
-      "title": "Show HN: BeanHub – A GitHub for Beancount",
-      "type": "story",
-      "url": "https://beanhub.io/"
-    },
-    "og_item": {
-      "title": "\n    zeux.io - Writing an efficient Vulkan renderer\n  ",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "data:;base64,iVBORw0KGgo="
-      }
-    }
-  },
-  {
     "id": 30143377,
     "title": "A Simple Transformer Implementation(PyTorch) Without Difficult Syntax",
     "url": "https://github.com/IpsumDominum/Pytorch-Simple-Transformer",
@@ -2098,15 +2193,18 @@
     "points": 7,
     "comment_count": 1,
     "hn_item": {
-      "by": "fangpenlin",
-      "descendants": 0,
-      "id": 30141215,
-      "kids": null,
-      "score": 18,
-      "time": 1643577545,
-      "title": "Show HN: BeanHub – A GitHub for Beancount",
+      "by": "oumua_don17",
+      "descendants": 4,
+      "id": 30122435,
+      "kids": [
+        30140765,
+        30140933
+      ],
+      "score": 24,
+      "time": 1643416395,
+      "title": "DDS: Build and library management tool for C, C++",
       "type": "story",
-      "url": "https://beanhub.io/"
+      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
     },
     "og_item": {
       "title": "GitHub - IpsumDominum/Pytorch-Simple-Transformer: A simple transformer implementation without difficult syntax and extra bells and whistles.",
@@ -2147,15 +2245,18 @@
     "points": 77,
     "comment_count": 7,
     "hn_item": {
-      "by": "fangpenlin",
-      "descendants": 0,
-      "id": 30141215,
-      "kids": null,
-      "score": 18,
-      "time": 1643577545,
-      "title": "Show HN: BeanHub – A GitHub for Beancount",
+      "by": "oumua_don17",
+      "descendants": 4,
+      "id": 30122435,
+      "kids": [
+        30140765,
+        30140933
+      ],
+      "score": 24,
+      "time": 1643416395,
+      "title": "DDS: Build and library management tool for C, C++",
       "type": "story",
-      "url": "https://beanhub.io/"
+      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
     },
     "og_item": {
       "title": " Nim tutorial for setting up a website. ",
@@ -2175,46 +2276,6 @@
     }
   },
   {
-    "id": 30142106,
-    "title": "Yoga and meditation do not quiet the ego but instead boost self-enhancement (2018)",
-    "url": "https://journals.sagepub.com/doi/abs/10.1177/0956797618764621",
-    "time": 1643583242,
-    "image": "",
-    "icon": "https://journals.sagepub.com/favicon.ico",
-    "publisher": "journals.sagepub.com",
-    "description": "",
-    "by": "FrojoS",
-    "points": 19,
-    "comment_count": 7,
-    "hn_item": {
-      "by": "fangpenlin",
-      "descendants": 0,
-      "id": 30141215,
-      "kids": null,
-      "score": 18,
-      "time": 1643577545,
-      "title": "Show HN: BeanHub – A GitHub for Beancount",
-      "type": "story",
-      "url": "https://beanhub.io/"
-    },
-    "og_item": {
-      "title": "Just a moment...",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30111033,
     "title": "Toxic black mold is growing in my brain",
     "url": "https://www.buzzfeednews.com/article/tysonbottenus/black-mold-growing-toxic-brain-vacation",
@@ -2227,15 +2288,18 @@
     "points": 187,
     "comment_count": 10,
     "hn_item": {
-      "by": "fangpenlin",
-      "descendants": 0,
-      "id": 30141215,
-      "kids": null,
-      "score": 18,
-      "time": 1643577545,
-      "title": "Show HN: BeanHub – A GitHub for Beancount",
+      "by": "oumua_don17",
+      "descendants": 4,
+      "id": 30122435,
+      "kids": [
+        30140765,
+        30140933
+      ],
+      "score": 24,
+      "time": 1643416395,
+      "title": "DDS: Build and library management tool for C, C++",
       "type": "story",
-      "url": "https://beanhub.io/"
+      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
     },
     "og_item": {
       "title": "Toxic Black Mold Is Growing On My Brain",
@@ -2264,6 +2328,49 @@
     }
   },
   {
+    "id": 30142106,
+    "title": "Yoga and meditation do not quiet the ego but instead boost self-enhancement (2018)",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/0956797618764621",
+    "time": 1643583242,
+    "image": "",
+    "icon": "https://journals.sagepub.com/favicon.ico",
+    "publisher": "journals.sagepub.com",
+    "description": "",
+    "by": "FrojoS",
+    "points": 19,
+    "comment_count": 8,
+    "hn_item": {
+      "by": "oumua_don17",
+      "descendants": 4,
+      "id": 30122435,
+      "kids": [
+        30140765,
+        30140933
+      ],
+      "score": 24,
+      "time": 1643416395,
+      "title": "DDS: Build and library management tool for C, C++",
+      "type": "story",
+      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
+    },
+    "og_item": {
+      "title": "Just a moment...",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30129565,
     "title": "Static-Let, or how I Learned to stop worrying and love Load-Time-Value",
     "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md",
@@ -2276,15 +2383,18 @@
     "points": 9,
     "comment_count": 2,
     "hn_item": {
-      "by": "fangpenlin",
-      "descendants": 0,
-      "id": 30141215,
-      "kids": null,
-      "score": 18,
-      "time": 1643577545,
-      "title": "Show HN: BeanHub – A GitHub for Beancount",
+      "by": "oumua_don17",
+      "descendants": 4,
+      "id": 30122435,
+      "kids": [
+        30140765,
+        30140933
+      ],
+      "score": 24,
+      "time": 1643416395,
+      "title": "DDS: Build and library management tool for C, C++",
       "type": "story",
-      "url": "https://beanhub.io/"
+      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
     },
     "og_item": {
       "title": "articles/static-let.md at main · phoe/articles",
@@ -2313,46 +2423,6 @@
     }
   },
   {
-    "id": 30138669,
-    "title": "Ask HN: Has anyone leveraged GDPR to overturn automated bans?",
-    "url": "https://news.ycombinator.com/item?id=30138669",
-    "time": 1643561257,
-    "image": "",
-    "icon": "https://news.ycombinator.com/favicon.ico",
-    "publisher": "Hacker News",
-    "description": "",
-    "by": "ndmrs",
-    "points": 136,
-    "comment_count": 12,
-    "hn_item": {
-      "by": "fangpenlin",
-      "descendants": 0,
-      "id": 30141215,
-      "kids": null,
-      "score": 18,
-      "time": 1643577545,
-      "title": "Show HN: BeanHub – A GitHub for Beancount",
-      "type": "story",
-      "url": "https://beanhub.io/"
-    },
-    "og_item": {
-      "title": "Ask HN: Has anyone leveraged GDPR to overturn automated bans? | Hacker News",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30122128,
     "title": "Sega quits arcade business after 50 years",
     "url": "https://www.eurogamer.net/articles/2022-01-28-sega-quits-japanese-arcade-business-after-50-years",
@@ -2365,15 +2435,18 @@
     "points": 227,
     "comment_count": 25,
     "hn_item": {
-      "by": "fangpenlin",
-      "descendants": 0,
-      "id": 30141215,
-      "kids": null,
-      "score": 18,
-      "time": 1643577545,
-      "title": "Show HN: BeanHub – A GitHub for Beancount",
+      "by": "oumua_don17",
+      "descendants": 4,
+      "id": 30122435,
+      "kids": [
+        30140765,
+        30140933
+      ],
+      "score": 24,
+      "time": 1643416395,
+      "title": "DDS: Build and library management tool for C, C++",
       "type": "story",
-      "url": "https://beanhub.io/"
+      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
     },
     "og_item": {
       "title": "Sega quits Japanese arcade business after 50 years",
@@ -2402,30 +2475,76 @@
     }
   },
   {
-    "id": 30139734,
-    "title": "Show the case against",
-    "url": "https://www.shubhro.com/2022/01/03/show-the-case-against/",
-    "time": 1643567644,
+    "id": 30138669,
+    "title": "Ask HN: Has anyone leveraged GDPR to overturn automated bans?",
+    "url": "https://news.ycombinator.com/item?id=30138669",
+    "time": 1643561257,
     "image": "",
-    "icon": "https://www.shubhro.com/favicon.ico",
-    "publisher": "shubhro.com",
+    "icon": "https://news.ycombinator.com/favicon.ico",
+    "publisher": "Hacker News",
     "description": "",
-    "by": "shbhrsaha",
-    "points": 35,
-    "comment_count": 5,
+    "by": "ndmrs",
+    "points": 136,
+    "comment_count": 12,
     "hn_item": {
-      "by": "fangpenlin",
-      "descendants": 0,
-      "id": 30141215,
-      "kids": null,
-      "score": 18,
-      "time": 1643577545,
-      "title": "Show HN: BeanHub – A GitHub for Beancount",
+      "by": "oumua_don17",
+      "descendants": 4,
+      "id": 30122435,
+      "kids": [
+        30140765,
+        30140933
+      ],
+      "score": 24,
+      "time": 1643416395,
+      "title": "DDS: Build and library management tool for C, C++",
       "type": "story",
-      "url": "https://beanhub.io/"
+      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
     },
     "og_item": {
-      "title": "Show the case against - shubhro.com",
+      "title": "Ask HN: Has anyone leveraged GDPR to overturn automated bans? | Hacker News",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30137681,
+    "title": "In defence of the boring web",
+    "url": "https://bastian.rieck.me/blog/posts/2022/boring/",
+    "time": 1643554351,
+    "image": "",
+    "icon": "https://bastian.rieck.me/favicon.ico",
+    "publisher": "bastian.rieck.me",
+    "description": "",
+    "by": "Topolomancer",
+    "points": 203,
+    "comment_count": 23,
+    "hn_item": {
+      "by": "oumua_don17",
+      "descendants": 4,
+      "id": 30122435,
+      "kids": [
+        30140765,
+        30140933
+      ],
+      "score": 24,
+      "time": 1643416395,
+      "title": "DDS: Build and library management tool for C, C++",
+      "type": "story",
+      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
+    },
+    "og_item": {
+      "title": "In Defence of the Boring Web",
       "type": "",
       "image": [],
       "url": "",
@@ -2442,44 +2561,38 @@
     }
   },
   {
-    "id": 30144041,
-    "title": "Autonomous Detection and Deterrence of Pigeons on Buildings by Drones",
-    "url": "https://ieeexplore.ieee.org/document/9656717",
-    "time": 1643598627,
-    "image": "https://ieeexplore.ieee.org/ielx7/6287639/9668973/9656717/graphical_abstract/access-gacovergraphic-3137031.jpg",
-    "icon": "https://ieeexplore.ieee.org/favicon.ico",
-    "publisher": "ieeexplore.ieee.org",
-    "description": "Pigeons may transmit diseases to humans and cause damages to buildings, monuments, and other infrastructure. Therefore, several control strategies have been developed, but they have been found to be either ineffective or harmful to animals and often depend on human operation. This study proposes …",
-    "by": "openknot",
-    "points": 3,
-    "comment_count": 0,
+    "id": 30139734,
+    "title": "Show the case against",
+    "url": "https://www.shubhro.com/2022/01/03/show-the-case-against/",
+    "time": 1643567644,
+    "image": "",
+    "icon": "https://www.shubhro.com/favicon.ico",
+    "publisher": "shubhro.com",
+    "description": "",
+    "by": "shbhrsaha",
+    "points": 35,
+    "comment_count": 5,
     "hn_item": {
-      "by": "fangpenlin",
-      "descendants": 0,
-      "id": 30141215,
-      "kids": null,
-      "score": 18,
-      "time": 1643577545,
-      "title": "Show HN: BeanHub – A GitHub for Beancount",
+      "by": "oumua_don17",
+      "descendants": 4,
+      "id": 30122435,
+      "kids": [
+        30140765,
+        30140933
+      ],
+      "score": 24,
+      "time": 1643416395,
+      "title": "DDS: Build and library management tool for C, C++",
       "type": "story",
-      "url": "https://beanhub.io/"
+      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
     },
     "og_item": {
-      "title": "Autonomous Detection and Deterrence of Pigeons on Buildings by Drones",
+      "title": "Show the case against - shubhro.com",
       "type": "",
-      "image": [
-        {
-          "url": "https://ieeexplore.ieee.org/ielx7/6287639/9668973/9656717/graphical_abstract/access-gacovergraphic-3137031.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
+      "image": [],
       "url": "",
       "audio": [],
-      "description": "Pigeons may transmit diseases to humans and cause damages to buildings, monuments, and other infrastructure. Therefore, several control strategies have been developed, but they have been found to be either ineffective or harmful to animals and often depend on human operation. This study proposes a system capable of autonomously detecting and deterring pigeons on building roofs using a drone. The presence and position of pigeons were detected in real time by a neural network using images taken by a video camera located on the roof. Moreover, a drone was utilized to deter the animals. Field experiments were conducted in a real-world urban setting to assess the proposed system by comparing the number of animals and their stay durations for over five days against the 21-day-trial experiment without the drone. During the five days of experiments, the drone was automatically deployed 55 times and was significantly effective in reducing the number of birds and their stay durations without causing any harm to them. In conclusion, this study has proven the effectiveness of this system in deterring birds, and this approach can be seen as a fully autonomous alternative to the already existing methods.",
+      "description": "",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
@@ -2503,15 +2616,18 @@
     "points": 143,
     "comment_count": 7,
     "hn_item": {
-      "by": "fangpenlin",
-      "descendants": 0,
-      "id": 30141215,
-      "kids": null,
-      "score": 18,
-      "time": 1643577545,
-      "title": "Show HN: BeanHub – A GitHub for Beancount",
+      "by": "oumua_don17",
+      "descendants": 4,
+      "id": 30122435,
+      "kids": [
+        30140765,
+        30140933
+      ],
+      "score": 24,
+      "time": 1643416395,
+      "title": "DDS: Build and library management tool for C, C++",
       "type": "story",
-      "url": "https://beanhub.io/"
+      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
     },
     "og_item": {
       "title": "[1398] A Padlock I’d Use: Abus Granit 37RK/80 (Pick \u0026 Gut)",
@@ -2561,15 +2677,18 @@
     "points": 258,
     "comment_count": 32,
     "hn_item": {
-      "by": "fangpenlin",
-      "descendants": 0,
-      "id": 30141215,
-      "kids": null,
-      "score": 18,
-      "time": 1643577545,
-      "title": "Show HN: BeanHub – A GitHub for Beancount",
+      "by": "oumua_don17",
+      "descendants": 4,
+      "id": 30122435,
+      "kids": [
+        30140765,
+        30140933
+      ],
+      "score": 24,
+      "time": 1643416395,
+      "title": "DDS: Build and library management tool for C, C++",
       "type": "story",
-      "url": "https://beanhub.io/"
+      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
     },
     "og_item": {
       "title": "John Locke’s recipe for Pancakes",
@@ -2598,6 +2717,58 @@
     }
   },
   {
+    "id": 30144041,
+    "title": "Autonomous Detection and Deterrence of Pigeons on Buildings by Drones",
+    "url": "https://ieeexplore.ieee.org/document/9656717",
+    "time": 1643598627,
+    "image": "https://ieeexplore.ieee.org/ielx7/6287639/9668973/9656717/graphical_abstract/access-gacovergraphic-3137031.jpg",
+    "icon": "https://ieeexplore.ieee.org/favicon.ico",
+    "publisher": "ieeexplore.ieee.org",
+    "description": "Pigeons may transmit diseases to humans and cause damages to buildings, monuments, and other infrastructure. Therefore, several control strategies have been developed, but they have been found to be either ineffective or harmful to animals and often depend on human operation. This study proposes …",
+    "by": "openknot",
+    "points": 3,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "oumua_don17",
+      "descendants": 4,
+      "id": 30122435,
+      "kids": [
+        30140765,
+        30140933
+      ],
+      "score": 24,
+      "time": 1643416395,
+      "title": "DDS: Build and library management tool for C, C++",
+      "type": "story",
+      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
+    },
+    "og_item": {
+      "title": "Autonomous Detection and Deterrence of Pigeons on Buildings by Drones",
+      "type": "",
+      "image": [
+        {
+          "url": "https://ieeexplore.ieee.org/ielx7/6287639/9668973/9656717/graphical_abstract/access-gacovergraphic-3137031.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "",
+      "audio": [],
+      "description": "Pigeons may transmit diseases to humans and cause damages to buildings, monuments, and other infrastructure. Therefore, several control strategies have been developed, but they have been found to be either ineffective or harmful to animals and often depend on human operation. This study proposes a system capable of autonomously detecting and deterring pigeons on building roofs using a drone. The presence and position of pigeons were detected in real time by a neural network using images taken by a video camera located on the roof. Moreover, a drone was utilized to deter the animals. Field experiments were conducted in a real-world urban setting to assess the proposed system by comparing the number of animals and their stay durations for over five days against the 21-day-trial experiment without the drone. During the five days of experiments, the drone was automatically deployed 55 times and was significantly effective in reducing the number of birds and their stay durations without causing any harm to them. In conclusion, this study has proven the effectiveness of this system in deterring birds, and this approach can be seen as a fully autonomous alternative to the already existing methods.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30111373,
     "title": "What is FORGE?",
     "url": "https://www.energy.gov/eere/geothermal/what-forge",
@@ -2610,15 +2781,18 @@
     "points": 64,
     "comment_count": 5,
     "hn_item": {
-      "by": "fangpenlin",
-      "descendants": 0,
-      "id": 30141215,
-      "kids": null,
-      "score": 18,
-      "time": 1643577545,
-      "title": "Show HN: BeanHub – A GitHub for Beancount",
+      "by": "oumua_don17",
+      "descendants": 4,
+      "id": 30122435,
+      "kids": [
+        30140765,
+        30140933
+      ],
+      "score": 24,
+      "time": 1643416395,
+      "title": "DDS: Build and library management tool for C, C++",
       "type": "story",
-      "url": "https://beanhub.io/"
+      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
     },
     "og_item": {
       "title": "What is FORGE?",
@@ -2638,46 +2812,6 @@
     }
   },
   {
-    "id": 30142896,
-    "title": "Decrypt an encrypted message to any plaintext",
-    "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts",
-    "time": 1643589180,
-    "image": "",
-    "icon": "https://www.go350.com/favicon-16x16.png",
-    "publisher": "go350.com",
-    "description": "a one-time pad implementation",
-    "by": "_wldu",
-    "points": 12,
-    "comment_count": 1,
-    "hn_item": {
-      "by": "fangpenlin",
-      "descendants": 0,
-      "id": 30141215,
-      "kids": null,
-      "score": 18,
-      "time": 1643577545,
-      "title": "Show HN: BeanHub – A GitHub for Beancount",
-      "type": "story",
-      "url": "https://beanhub.io/"
-    },
-    "og_item": {
-      "title": "Padder",
-      "type": "article",
-      "image": [],
-      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/",
-      "audio": [],
-      "description": "a one-time pad implementation",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon-16x16.png"
-      }
-    }
-  },
-  {
     "id": 30136350,
     "title": "The Game of War: Chess with Networks (2008)",
     "url": "https://www.cabinetmagazine.org/issues/29/galloway.php",
@@ -2687,18 +2821,21 @@
     "publisher": "cabinetmagazine.org",
     "description": "Chess with networks",
     "by": "bshepard",
-    "points": 24,
+    "points": 25,
     "comment_count": 2,
     "hn_item": {
-      "by": "fangpenlin",
-      "descendants": 0,
-      "id": 30141215,
-      "kids": null,
-      "score": 18,
-      "time": 1643577545,
-      "title": "Show HN: BeanHub – A GitHub for Beancount",
+      "by": "oumua_don17",
+      "descendants": 4,
+      "id": 30122435,
+      "kids": [
+        30140765,
+        30140933
+      ],
+      "score": 24,
+      "time": 1643416395,
+      "title": "DDS: Build and library management tool for C, C++",
       "type": "story",
-      "url": "https://beanhub.io/"
+      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
     },
     "og_item": {
       "title": "The Game of War: An Overview | Alexander R. Galloway",
@@ -2727,6 +2864,49 @@
     }
   },
   {
+    "id": 30142896,
+    "title": "Decrypt an encrypted message to any plaintext",
+    "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts",
+    "time": 1643589180,
+    "image": "",
+    "icon": "https://www.go350.com/favicon-16x16.png",
+    "publisher": "go350.com",
+    "description": "a one-time pad implementation",
+    "by": "_wldu",
+    "points": 12,
+    "comment_count": 1,
+    "hn_item": {
+      "by": "oumua_don17",
+      "descendants": 4,
+      "id": 30122435,
+      "kids": [
+        30140765,
+        30140933
+      ],
+      "score": 24,
+      "time": 1643416395,
+      "title": "DDS: Build and library management tool for C, C++",
+      "type": "story",
+      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
+    },
+    "og_item": {
+      "title": "Padder",
+      "type": "article",
+      "image": [],
+      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/",
+      "audio": [],
+      "description": "a one-time pad implementation",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon-16x16.png"
+      }
+    }
+  },
+  {
     "id": 30139643,
     "title": "Very Remote Lisp Debugging Story",
     "url": "https://susam.net/maze/very-remote-debugging.html",
@@ -2739,15 +2919,18 @@
     "points": 38,
     "comment_count": 4,
     "hn_item": {
-      "by": "fangpenlin",
-      "descendants": 0,
-      "id": 30141215,
-      "kids": null,
-      "score": 18,
-      "time": 1643577545,
-      "title": "Show HN: BeanHub – A GitHub for Beancount",
+      "by": "oumua_don17",
+      "descendants": 4,
+      "id": 30122435,
+      "kids": [
+        30140765,
+        30140933
+      ],
+      "score": 24,
+      "time": 1643416395,
+      "title": "DDS: Build and library management tool for C, C++",
       "type": "story",
-      "url": "https://beanhub.io/"
+      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
     },
     "og_item": {
       "title": "Very Remote Lisp Debugging Story - Susam's Maze",
@@ -2767,6 +2950,49 @@
     }
   },
   {
+    "id": 30128627,
+    "title": "Tech debt gets worse before it gets better",
+    "url": "https://jeremymikkola.com/posts/2022_01_29_tech_debt_gets_worse_before_it_gets_beffer.html",
+    "time": 1643479251,
+    "image": "",
+    "icon": "https://jeremymikkola.com/favicon.ico",
+    "publisher": "jeremymikkola.com",
+    "description": "",
+    "by": "piinbinary",
+    "points": 129,
+    "comment_count": 12,
+    "hn_item": {
+      "by": "oumua_don17",
+      "descendants": 4,
+      "id": 30122435,
+      "kids": [
+        30140765,
+        30140933
+      ],
+      "score": 24,
+      "time": 1643416395,
+      "title": "DDS: Build and library management tool for C, C++",
+      "type": "story",
+      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
+    },
+    "og_item": {
+      "title": "Jeremy Mikkola - Tech debt gets worse before it gets better",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30141784,
     "title": "I crowdfunded a novel using cryptocurrency",
     "url": "https://ellegriffin.substack.com/p/crypto-funded-nft-novel",
@@ -2777,17 +3003,20 @@
     "description": "This could be how books get funded in the future.",
     "by": "rmason",
     "points": 14,
-    "comment_count": 3,
+    "comment_count": 4,
     "hn_item": {
-      "by": "fangpenlin",
-      "descendants": 0,
-      "id": 30141215,
-      "kids": null,
-      "score": 18,
-      "time": 1643577545,
-      "title": "Show HN: BeanHub – A GitHub for Beancount",
+      "by": "oumua_don17",
+      "descendants": 4,
+      "id": 30122435,
+      "kids": [
+        30140765,
+        30140933
+      ],
+      "score": 24,
+      "time": 1643416395,
+      "title": "DDS: Build and library management tool for C, C++",
       "type": "story",
-      "url": "https://beanhub.io/"
+      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
     },
     "og_item": {
       "title": "I crowdfunded a novel using cryptocurrency ",
@@ -2816,95 +3045,6 @@
     }
   },
   {
-    "id": 30144892,
-    "title": "Kia’s new EV6 electric crossover goes straight to the head of the pack",
-    "url": "https://arstechnica.com/cars/2022/01/kias-new-ev6-electric-crossover-goes-straight-to-the-head-of-the-pack/",
-    "time": 1643607086,
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/01/Kia-EV6-1-760x380.jpg",
-    "icon": "https://cdn.arstechnica.net/wp-content/themes/ars/assets/img/material-ars-db41652381.png",
-    "publisher": "Ars Technica",
-    "description": "It's highly efficient, fun to drive, and loaded with equipment, too.",
-    "by": "feross",
-    "points": 3,
-    "comment_count": 1,
-    "hn_item": {
-      "by": "fangpenlin",
-      "descendants": 0,
-      "id": 30141215,
-      "kids": null,
-      "score": 18,
-      "time": 1643577545,
-      "title": "Show HN: BeanHub – A GitHub for Beancount",
-      "type": "story",
-      "url": "https://beanhub.io/"
-    },
-    "og_item": {
-      "title": "Kia’s new EV6 electric crossover goes straight to the head of the pack",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/01/Kia-EV6-1-760x380.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://arstechnica.com/cars/2022/01/kias-new-ev6-electric-crossover-goes-straight-to-the-head-of-the-pack/",
-      "audio": [],
-      "description": "It's highly efficient, fun to drive, and loaded with equipment, too.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Ars Technica",
-      "video": [],
-      "favicon": {
-        "url": "https://cdn.arstechnica.net/wp-content/themes/ars/assets/img/material-ars-db41652381.png"
-      }
-    }
-  },
-  {
-    "id": 30128627,
-    "title": "Tech debt gets worse before it gets better",
-    "url": "https://jeremymikkola.com/posts/2022_01_29_tech_debt_gets_worse_before_it_gets_beffer.html",
-    "time": 1643479251,
-    "image": "",
-    "icon": "https://jeremymikkola.com/favicon.ico",
-    "publisher": "jeremymikkola.com",
-    "description": "",
-    "by": "piinbinary",
-    "points": 129,
-    "comment_count": 12,
-    "hn_item": {
-      "by": "fangpenlin",
-      "descendants": 0,
-      "id": 30141215,
-      "kids": null,
-      "score": 18,
-      "time": 1643577545,
-      "title": "Show HN: BeanHub – A GitHub for Beancount",
-      "type": "story",
-      "url": "https://beanhub.io/"
-    },
-    "og_item": {
-      "title": "Jeremy Mikkola - Tech debt gets worse before it gets better",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30114787,
     "title": "The Society of the Spectacle",
     "url": "https://unredacted-word.pub/",
@@ -2917,15 +3057,18 @@
     "points": 94,
     "comment_count": 10,
     "hn_item": {
-      "by": "fangpenlin",
-      "descendants": 0,
-      "id": 30141215,
-      "kids": null,
-      "score": 18,
-      "time": 1643577545,
-      "title": "Show HN: BeanHub – A GitHub for Beancount",
+      "by": "oumua_don17",
+      "descendants": 4,
+      "id": 30122435,
+      "kids": [
+        30140765,
+        30140933
+      ],
+      "score": 24,
+      "time": 1643416395,
+      "title": "DDS: Build and library management tool for C, C++",
       "type": "story",
-      "url": "https://beanhub.io/"
+      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
     },
     "og_item": {
       "title": "Unredacted Word",
@@ -2954,46 +3097,6 @@
     }
   },
   {
-    "id": 30144516,
-    "title": "“Memory leaks are memory safe in Rust”",
-    "url": "https://doc.rust-lang.org/book/ch15-06-reference-cycles.html",
-    "time": 1643603628,
-    "image": "",
-    "icon": "https://doc.rust-lang.org/book/favicon.png",
-    "publisher": "doc.rust-lang.org",
-    "description": "",
-    "by": "DoctorOW",
-    "points": 5,
-    "comment_count": 1,
-    "hn_item": {
-      "by": "fangpenlin",
-      "descendants": 0,
-      "id": 30141215,
-      "kids": null,
-      "score": 18,
-      "time": 1643577545,
-      "title": "Show HN: BeanHub – A GitHub for Beancount",
-      "type": "story",
-      "url": "https://beanhub.io/"
-    },
-    "og_item": {
-      "title": "Reference Cycles Can Leak Memory - The Rust Programming Language",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "favicon.png"
-      }
-    }
-  },
-  {
     "id": 30125931,
     "title": "Fluid Simulation – Siggraph 2007 Course Notes [pdf]",
     "url": "https://www.cs.ubc.ca/~rbridson/fluidsimulation/fluids_notes.pdf",
@@ -3006,66 +3109,20 @@
     "points": 35,
     "comment_count": 4,
     "hn_item": {
-      "by": "fangpenlin",
-      "descendants": 0,
-      "id": 30141215,
-      "kids": null,
-      "score": 18,
-      "time": 1643577545,
-      "title": "Show HN: BeanHub – A GitHub for Beancount",
+      "by": "oumua_don17",
+      "descendants": 4,
+      "id": 30122435,
+      "kids": [
+        30140765,
+        30140933
+      ],
+      "score": 24,
+      "time": 1643416395,
+      "title": "DDS: Build and library management tool for C, C++",
       "type": "story",
-      "url": "https://beanhub.io/"
+      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
     },
     "og_item": null
-  },
-  {
-    "id": 30142351,
-    "title": "Completing a Creative Project",
-    "url": "https://www.sonyasupposedly.com/completing-a-creative-project/",
-    "time": 1643585100,
-    "image": "https://www.sonyasupposedly.com/content/images/2022/01/artdecoladies-1.jpg",
-    "icon": "https://www.sonyasupposedly.com/favicon.png",
-    "publisher": "Sonya Supposedly",
-    "description": "My undying thanks to members for funding the following realizations 💖 Btw, click here for the PDF version that I mailed in November, if you want it for some reason. How to complete a creative project: stick with it until you're done. Gee thanks, great advice, I know. But it's true!",
-    "by": "exolymph",
-    "points": 4,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "fangpenlin",
-      "descendants": 0,
-      "id": 30141215,
-      "kids": null,
-      "score": 18,
-      "time": 1643577545,
-      "title": "Show HN: BeanHub – A GitHub for Beancount",
-      "type": "story",
-      "url": "https://beanhub.io/"
-    },
-    "og_item": {
-      "title": "Completing a Creative Project",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://www.sonyasupposedly.com/content/images/2022/01/artdecoladies-1.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 2000,
-          "height": 1050,
-          "alt": ""
-        }
-      ],
-      "url": "https://www.sonyasupposedly.com/completing-a-creative-project/",
-      "audio": [],
-      "description": "My undying thanks to members for funding the following realizations 💖 Btw, click here for the PDF version that I mailed in November, if you want it for some reason. How to complete a creative project: stick with it until you're done. Gee thanks, great advice, I know. But it's true!",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Sonya Supposedly",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.png"
-      }
-    }
   },
   {
     "id": 30139142,
@@ -3080,15 +3137,18 @@
     "points": 99,
     "comment_count": 5,
     "hn_item": {
-      "by": "fangpenlin",
-      "descendants": 0,
-      "id": 30141215,
-      "kids": null,
-      "score": 18,
-      "time": 1643577545,
-      "title": "Show HN: BeanHub – A GitHub for Beancount",
+      "by": "oumua_don17",
+      "descendants": 4,
+      "id": 30122435,
+      "kids": [
+        30140765,
+        30140933
+      ],
+      "score": 24,
+      "time": 1643416395,
+      "title": "DDS: Build and library management tool for C, C++",
       "type": "story",
-      "url": "https://beanhub.io/"
+      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
     },
     "og_item": {
       "title": "All News - Steel Bank Common Lisp",
@@ -3120,18 +3180,168 @@
     "points": 18,
     "comment_count": 0,
     "hn_item": {
-      "by": "fangpenlin",
-      "descendants": 0,
-      "id": 30141215,
-      "kids": null,
-      "score": 18,
-      "time": 1643577545,
-      "title": "Show HN: BeanHub – A GitHub for Beancount",
+      "by": "oumua_don17",
+      "descendants": 4,
+      "id": 30122435,
+      "kids": [
+        30140765,
+        30140933
+      ],
+      "score": 24,
+      "time": 1643416395,
+      "title": "DDS: Build and library management tool for C, C++",
       "type": "story",
-      "url": "https://beanhub.io/"
+      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
     },
     "og_item": {
       "title": "\n    BeanHub\n    ",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30142351,
+    "title": "Completing a Creative Project",
+    "url": "https://www.sonyasupposedly.com/completing-a-creative-project/",
+    "time": 1643585100,
+    "image": "https://www.sonyasupposedly.com/content/images/2022/01/artdecoladies-1.jpg",
+    "icon": "https://www.sonyasupposedly.com/favicon.png",
+    "publisher": "Sonya Supposedly",
+    "description": "My undying thanks to members for funding the following realizations 💖 Btw, click here for the PDF version that I mailed in November, if you want it for some reason. How to complete a creative project: stick with it until you're done. Gee thanks, great advice, I know. But it's true!",
+    "by": "exolymph",
+    "points": 4,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "oumua_don17",
+      "descendants": 4,
+      "id": 30122435,
+      "kids": [
+        30140765,
+        30140933
+      ],
+      "score": 24,
+      "time": 1643416395,
+      "title": "DDS: Build and library management tool for C, C++",
+      "type": "story",
+      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
+    },
+    "og_item": {
+      "title": "Completing a Creative Project",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://www.sonyasupposedly.com/content/images/2022/01/artdecoladies-1.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 2000,
+          "height": 1050,
+          "alt": ""
+        }
+      ],
+      "url": "https://www.sonyasupposedly.com/completing-a-creative-project/",
+      "audio": [],
+      "description": "My undying thanks to members for funding the following realizations 💖 Btw, click here for the PDF version that I mailed in November, if you want it for some reason. How to complete a creative project: stick with it until you're done. Gee thanks, great advice, I know. But it's true!",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Sonya Supposedly",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.png"
+      }
+    }
+  },
+  {
+    "id": 30142494,
+    "title": "Scientists on alert over rising cases caused by Omicron cousin BA.2",
+    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/",
+    "time": 1643586052,
+    "image": "https://www.reuters.com/resizer/nJB_ZidKD76ip6VAQlGhKHf1JI8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PYPUULVDLFI5ZBML3UV35CE4TA.jpg",
+    "icon": "https://www.reuters.com/pf/resources/icons/favicon.ico?d=69",
+    "publisher": "Reuters",
+    "description": "The highly transmissible Omicron variant of the SARS-CoV-2 virus - the most common form of which is known as BA.1 - now accounts for nearly all of the coronavirus infections globally, although dramatic surges in COVID cases have already peaked in some countries.",
+    "by": "lsllc",
+    "points": 26,
+    "comment_count": 1,
+    "hn_item": {
+      "by": "oumua_don17",
+      "descendants": 4,
+      "id": 30122435,
+      "kids": [
+        30140765,
+        30140933
+      ],
+      "score": 24,
+      "time": 1643416395,
+      "title": "DDS: Build and library management tool for C, C++",
+      "type": "story",
+      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
+    },
+    "og_item": {
+      "title": "Explainer: Scientists on alert over rising cases caused by Omicron cousin BA.2",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://www.reuters.com/resizer/nJB_ZidKD76ip6VAQlGhKHf1JI8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PYPUULVDLFI5ZBML3UV35CE4TA.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/",
+      "audio": [],
+      "description": "The highly transmissible Omicron variant of the SARS-CoV-2 virus - the most common form of which is known as BA.1 - now accounts for nearly all of the coronavirus infections globally, although dramatic surges in COVID cases have already peaked in some countries.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Reuters",
+      "video": [],
+      "favicon": {
+        "url": "/pf/resources/icons/favicon.ico?d=69"
+      }
+    }
+  },
+  {
+    "id": 30122435,
+    "title": "DDS: Build and library management tool for C, C++",
+    "url": "https://vector-of-bool.github.io/docs/dds/index.html",
+    "time": 1643416395,
+    "image": "",
+    "icon": "https://vector-of-bool.github.io/favicon.ico",
+    "publisher": "vector-of-bool.github.io",
+    "description": "",
+    "by": "oumua_don17",
+    "points": 24,
+    "comment_count": 2,
+    "hn_item": {
+      "by": "oumua_don17",
+      "descendants": 4,
+      "id": 30122435,
+      "kids": [
+        30140765,
+        30140933
+      ],
+      "score": 24,
+      "time": 1643416395,
+      "title": "DDS: Build and library management tool for C, C++",
+      "type": "story",
+      "url": "https://vector-of-bool.github.io/docs/dds/index.html"
+    },
+    "og_item": {
+      "title": "DDS — dds 0.1.0-alpha.3 documentation",
       "type": "",
       "image": [],
       "url": "",
