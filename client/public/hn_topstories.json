@@ -9,8 +9,8 @@
     "publisher": "royalsociety.org",
     "description": "The Online Information Environment report discusses how to limit the harm of scientific misinformation online",
     "by": "steelstraw",
-    "points": 758,
-    "comment_count": 48,
+    "points": 768,
+    "comment_count": 50,
     "hn_item": {
       "by": "_wldu",
       "descendants": 2,
@@ -60,7 +60,7 @@
     "publisher": "two-wrongs.com",
     "description": "",
     "by": "Tomte",
-    "points": 13,
+    "points": 15,
     "comment_count": 1,
     "hn_item": {
       "by": "_wldu",
@@ -102,7 +102,7 @@
     "publisher": "lwn.net",
     "description": "",
     "by": "pabs3",
-    "points": 115,
+    "points": 117,
     "comment_count": 5,
     "hn_item": {
       "by": "_wldu",
@@ -144,7 +144,7 @@
     "publisher": "MathOverflow",
     "description": "The first thing to say is that this is not the same as the question about interesting mathematical mistakes. I am interested about the type of false beliefs that many intelligent people have while ...",
     "by": "gballan",
-    "points": 84,
+    "points": 87,
     "comment_count": 6,
     "hn_item": {
       "by": "_wldu",
@@ -237,8 +237,8 @@
     "publisher": "Medium",
     "description": "My journey on finding and reporting databases with sensitive data about Fortune-500 companies, Hospitals, Crypto platforms, Startups during…",
     "by": "boyter",
-    "points": 135,
-    "comment_count": 13,
+    "points": 137,
+    "comment_count": 14,
     "hn_item": {
       "by": "_wldu",
       "descendants": 2,
@@ -339,7 +339,7 @@
     "publisher": "blog.thomaspuppe.de",
     "description": "",
     "by": "indigodaddy",
-    "points": 28,
+    "points": 29,
     "comment_count": 8,
     "hn_item": {
       "by": "_wldu",
@@ -366,7 +366,7 @@
     "publisher": "mattferraro.dev",
     "description": "What does it mean to invert a shape?",
     "by": "mferraro89",
-    "points": 70,
+    "points": 71,
     "comment_count": 9,
     "hn_item": {
       "by": "_wldu",
@@ -417,7 +417,7 @@
     "publisher": "zillow.com",
     "description": "",
     "by": "otras",
-    "points": 267,
+    "points": 268,
     "comment_count": 34,
     "hn_item": {
       "by": "_wldu",
@@ -459,7 +459,7 @@
     "publisher": "EL PAÍS English Edition",
     "description": "Doctors in Belgium explain how they saved a bomb attack victim who had been struggling with one of the most virulent bacterial pathogens in the world",
     "by": "belter",
-    "points": 48,
+    "points": 50,
     "comment_count": 5,
     "hn_item": {
       "by": "_wldu",
@@ -501,6 +501,48 @@
     }
   },
   {
+    "id": 30146042,
+    "title": "Finnish diplomats’ phones infected with NSO Group Pegasus spyware",
+    "url": "https://www.bleepingcomputer.com/news/security/finnish-diplomats-phones-infected-with-nso-group-pegasus-spyware/",
+    "time": 1643620174,
+    "image": "",
+    "icon": "https://www.bleepingcomputer.com/favicon.ico",
+    "publisher": "bleepingcomputer.com",
+    "description": "",
+    "by": "beermonster",
+    "points": 18,
+    "comment_count": 2,
+    "hn_item": {
+      "by": "_wldu",
+      "descendants": 2,
+      "id": 30142896,
+      "kids": [
+        30144335
+      ],
+      "score": 14,
+      "time": 1643589180,
+      "title": "Decrypt an encrypted message to any plaintext",
+      "type": "story",
+      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts"
+    },
+    "og_item": {
+      "title": "Just a moment...",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30140835,
     "title": "Hardy, Ramanujan and Taxi No. 1729",
     "url": "https://johncarlosbaez.wordpress.com/2022/01/30/hardy-ramanujan-and-taxi-no-1729/",
@@ -510,7 +552,7 @@
     "publisher": "Azimuth",
     "description": "In his book Ramanujan: Twelve Lectures on Subjects Suggested by His Life and Work, G. H. Hardy tells this famous story: He could remember the idiosyncracies of numbers in an almost uncanny way. It …",
     "by": "johncarlosbaez",
-    "points": 96,
+    "points": 97,
     "comment_count": 8,
     "hn_item": {
       "by": "_wldu",
@@ -561,7 +603,7 @@
     "publisher": "blog.openresty.com",
     "description": "Transparent Container Tracing Efficient Stack Unwinding Analyzing Dead Processes (Core Dumps) Very Low Tracing Overhead Standard Ylang Libraries \u0026amp; Tools Network Filtering \u0026amp; Control The Ylang Compiler\u0026rsquo;s Implementation Operating System Support Contributions to Open-Source Communities",
     "by": "walterbell",
-    "points": 45,
+    "points": 46,
     "comment_count": 5,
     "hn_item": {
       "by": "_wldu",
@@ -590,48 +632,6 @@
       "video": [],
       "favicon": {
         "url": "/favicon-16x16.png"
-      }
-    }
-  },
-  {
-    "id": 30146042,
-    "title": "Finnish diplomats’ phones infected with NSO Group Pegasus spyware",
-    "url": "https://www.bleepingcomputer.com/news/security/finnish-diplomats-phones-infected-with-nso-group-pegasus-spyware/",
-    "time": 1643620174,
-    "image": "",
-    "icon": "https://www.bleepingcomputer.com/favicon.ico",
-    "publisher": "bleepingcomputer.com",
-    "description": "",
-    "by": "beermonster",
-    "points": 10,
-    "comment_count": 1,
-    "hn_item": {
-      "by": "_wldu",
-      "descendants": 2,
-      "id": 30142896,
-      "kids": [
-        30144335
-      ],
-      "score": 14,
-      "time": 1643589180,
-      "title": "Decrypt an encrypted message to any plaintext",
-      "type": "story",
-      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts"
-    },
-    "og_item": {
-      "title": "Just a moment...",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
       }
     }
   },
@@ -687,6 +687,48 @@
     }
   },
   {
+    "id": 30134367,
+    "title": "The case of the mysterious --help directory (2020)",
+    "url": "https://leahneukirchen.org/blog/archive/2020/05/the-case-of-the-mysterious-help-directory.html",
+    "time": 1643520785,
+    "image": "",
+    "icon": "https://leahneukirchen.org/favicon.ico",
+    "publisher": "leahneukirchen.org",
+    "description": "",
+    "by": "panic",
+    "points": 147,
+    "comment_count": 13,
+    "hn_item": {
+      "by": "_wldu",
+      "descendants": 2,
+      "id": 30142896,
+      "kids": [
+        30144335
+      ],
+      "score": 14,
+      "time": 1643589180,
+      "title": "Decrypt an encrypted message to any plaintext",
+      "type": "story",
+      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts"
+    },
+    "og_item": {
+      "title": "leah blogs: The case of the mysterious --help directory",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30143375,
     "title": "Lizard scale patterns described with antiferromagnetic model",
     "url": "https://physics.aps.org/articles/v15/s12",
@@ -738,48 +780,6 @@
     }
   },
   {
-    "id": 30134367,
-    "title": "The case of the mysterious --help directory (2020)",
-    "url": "https://leahneukirchen.org/blog/archive/2020/05/the-case-of-the-mysterious-help-directory.html",
-    "time": 1643520785,
-    "image": "",
-    "icon": "https://leahneukirchen.org/favicon.ico",
-    "publisher": "leahneukirchen.org",
-    "description": "",
-    "by": "panic",
-    "points": 147,
-    "comment_count": 13,
-    "hn_item": {
-      "by": "_wldu",
-      "descendants": 2,
-      "id": 30142896,
-      "kids": [
-        30144335
-      ],
-      "score": 14,
-      "time": 1643589180,
-      "title": "Decrypt an encrypted message to any plaintext",
-      "type": "story",
-      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts"
-    },
-    "og_item": {
-      "title": "leah blogs: The case of the mysterious --help directory",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30141278,
     "title": "The Story of Maxis Software (1999)",
     "url": "https://web.archive.org/web/19991012021220/http://gamespot.com/features/maxis/index.html",
@@ -789,7 +789,7 @@
     "publisher": "web.archive.org",
     "description": "",
     "by": "ecliptik",
-    "points": 105,
+    "points": 106,
     "comment_count": 9,
     "hn_item": {
       "by": "_wldu",
@@ -831,8 +831,8 @@
     "publisher": "luttig.substack.com",
     "description": "Understanding the behemoth in Redmond teaches us valuable lessons in cloud infrastructure, startup strategy, and the future of software.",
     "by": "SamvitJ",
-    "points": 305,
-    "comment_count": 54,
+    "points": 307,
+    "comment_count": 55,
     "hn_item": {
       "by": "_wldu",
       "descendants": 2,
@@ -882,7 +882,7 @@
     "publisher": "American Affairs Journal",
     "description": "Operation Warp Speed1 (OWS) was launched on May 15, 2020. A partnership between the Departments of Health and Human Services (HHS) and Defense (DoD), other agencies, and the private sector, its goal was to “accelerate the testing, supply, development, and distribution of safe and effective vacc…",
     "by": "gok",
-    "points": 112,
+    "points": 113,
     "comment_count": 9,
     "hn_item": {
       "by": "_wldu",
@@ -975,7 +975,7 @@
     "publisher": "ruoyusun.com",
     "description": "",
     "by": "insraq",
-    "points": 61,
+    "points": 63,
     "comment_count": 6,
     "hn_item": {
       "by": "_wldu",
@@ -1017,7 +1017,7 @@
     "publisher": "jenson.org",
     "description": "",
     "by": "radley",
-    "points": 759,
+    "points": 761,
     "comment_count": 99,
     "hn_item": {
       "by": "_wldu",
@@ -1143,17 +1143,17 @@
     }
   },
   {
-    "id": 30119800,
-    "title": "How the Hall Effect Still Reverberates",
-    "url": "https://spectrum.ieee.org/hall-effect-sensor",
-    "time": 1643401246,
-    "image": "https://spectrum.ieee.org/media-library/edwin-herbert-hall.png?id=29169021\u0026width=1200\u0026coordinates=0%2C466%2C0%2C466\u0026height=600",
-    "icon": "https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yNjU5NjY0OS9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTY1OTYwMjUwNn0.83ww7bkGqpGwDJ0lJUQ9t40jCxvzIiI09EEqwNcU8HE/img.png?width=32\u0026height=32",
-    "publisher": "IEEE Spectrum",
-    "description": "In 1879, a physicist set the stage for efficient space propulsion",
-    "by": "headalgorithm",
-    "points": 6,
-    "comment_count": 0,
+    "id": 30142105,
+    "title": "Seattle Telecommunications History Museum",
+    "url": "https://www.telcomhistory.org/connections-museum-seattle/",
+    "time": 1643583232,
+    "image": "",
+    "icon": "https://www.telcomhistory.org/favicon.ico",
+    "publisher": "telcomhistory.org",
+    "description": "",
+    "by": "basementcat",
+    "points": 56,
+    "comment_count": 9,
     "hn_item": {
       "by": "_wldu",
       "descendants": 2,
@@ -1168,28 +1168,19 @@
       "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts"
     },
     "og_item": {
-      "title": "How the Hall Effect Still Reverberates",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://spectrum.ieee.org/media-library/edwin-herbert-hall.png?id=29169021\u0026width=1200\u0026coordinates=0%2C466%2C0%2C466\u0026height=600",
-          "secure_url": "",
-          "type": "",
-          "width": 1200,
-          "height": 600,
-          "alt": ""
-        }
-      ],
-      "url": "https://spectrum.ieee.org/hall-effect-sensor",
+      "title": "403 Forbidden",
+      "type": "",
+      "image": [],
+      "url": "",
       "audio": [],
-      "description": "In 1879, a physicist set the stage for efficient space propulsion",
+      "description": "",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "IEEE Spectrum",
+      "site_name": "",
       "video": [],
       "favicon": {
-        "url": "https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yNjU5NjY0OS9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTY1OTYwMjUwNn0.83ww7bkGqpGwDJ0lJUQ9t40jCxvzIiI09EEqwNcU8HE/img.png?width=32\u0026height=32"
+        "url": "/favicon.ico"
       }
     }
   },
@@ -1238,48 +1229,6 @@
       "locale": "",
       "locale_alternate": [],
       "site_name": "BBC News",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30142105,
-    "title": "Seattle Telecommunications History Museum",
-    "url": "https://www.telcomhistory.org/connections-museum-seattle/",
-    "time": 1643583232,
-    "image": "",
-    "icon": "https://www.telcomhistory.org/favicon.ico",
-    "publisher": "telcomhistory.org",
-    "description": "",
-    "by": "basementcat",
-    "points": 55,
-    "comment_count": 9,
-    "hn_item": {
-      "by": "_wldu",
-      "descendants": 2,
-      "id": 30142896,
-      "kids": [
-        30144335
-      ],
-      "score": 14,
-      "time": 1643589180,
-      "title": "Decrypt an encrypted message to any plaintext",
-      "type": "story",
-      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts"
-    },
-    "og_item": {
-      "title": "403 Forbidden",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
       "video": [],
       "favicon": {
         "url": "/favicon.ico"
@@ -1338,17 +1287,17 @@
     }
   },
   {
-    "id": 30142558,
-    "title": "State of the Web: Static Site Generators",
-    "url": "https://byteofdev.com/posts/static-site-generators/",
-    "time": 1643586463,
-    "image": "https://ik.imagekit.io/serenity/ByteofDev/Blog_Heading_Images/State_of_the_Web_Static_Site_Generators",
-    "icon": "https://byteofdev.com/favicon.svg",
-    "publisher": "ByteofDev",
-    "description": "Static Site Generators have been changing quickly with new trends like Jamstack. Learn more about the background of static site generators, why people use them, and the current state of them, with information on modern SSGs like Eleventy, Next.js, SvelteKit, and Astro.",
-    "by": "AsyncBanana",
-    "points": 107,
-    "comment_count": 22,
+    "id": 30119800,
+    "title": "How the Hall Effect Still Reverberates",
+    "url": "https://spectrum.ieee.org/hall-effect-sensor",
+    "time": 1643401246,
+    "image": "https://spectrum.ieee.org/media-library/edwin-herbert-hall.png?id=29169021\u0026width=1200\u0026coordinates=0%2C466%2C0%2C466\u0026height=600",
+    "icon": "https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yNjU5NjY0OS9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTY1OTYwMjUwNn0.83ww7bkGqpGwDJ0lJUQ9t40jCxvzIiI09EEqwNcU8HE/img.png?width=32\u0026height=32",
+    "publisher": "IEEE Spectrum",
+    "description": "In 1879, a physicist set the stage for efficient space propulsion",
+    "by": "headalgorithm",
+    "points": 6,
+    "comment_count": 0,
     "hn_item": {
       "by": "_wldu",
       "descendants": 2,
@@ -1363,28 +1312,28 @@
       "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts"
     },
     "og_item": {
-      "title": "State of the Web: Static Site Generators",
+      "title": "How the Hall Effect Still Reverberates",
       "type": "article",
       "image": [
         {
-          "url": "https://ik.imagekit.io/serenity/ByteofDev/Blog_Heading_Images/State_of_the_Web_Static_Site_Generators",
+          "url": "https://spectrum.ieee.org/media-library/edwin-herbert-hall.png?id=29169021\u0026width=1200\u0026coordinates=0%2C466%2C0%2C466\u0026height=600",
           "secure_url": "",
           "type": "",
-          "width": 0,
-          "height": 0,
+          "width": 1200,
+          "height": 600,
           "alt": ""
         }
       ],
-      "url": "https://byteofdev.com/posts/static-site-generators/",
+      "url": "https://spectrum.ieee.org/hall-effect-sensor",
       "audio": [],
-      "description": "Static Site Generators have been changing quickly with new trends like Jamstack. Learn more about the background of static site generators, why people use them, and the current state of them, with information on modern SSGs like Eleventy, Next.js, SvelteKit, and Astro.",
+      "description": "In 1879, a physicist set the stage for efficient space propulsion",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "ByteofDev",
+      "site_name": "IEEE Spectrum",
       "video": [],
       "favicon": {
-        "url": "/favicon.svg"
+        "url": "https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yNjU5NjY0OS9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTY1OTYwMjUwNn0.83ww7bkGqpGwDJ0lJUQ9t40jCxvzIiI09EEqwNcU8HE/img.png?width=32\u0026height=32"
       }
     }
   },
@@ -1440,6 +1389,57 @@
     }
   },
   {
+    "id": 30142558,
+    "title": "State of the Web: Static Site Generators",
+    "url": "https://byteofdev.com/posts/static-site-generators/",
+    "time": 1643586463,
+    "image": "https://ik.imagekit.io/serenity/ByteofDev/Blog_Heading_Images/State_of_the_Web_Static_Site_Generators",
+    "icon": "https://byteofdev.com/favicon.svg",
+    "publisher": "ByteofDev",
+    "description": "Static Site Generators have been changing quickly with new trends like Jamstack. Learn more about the background of static site generators, why people use them, and the current state of them, with information on modern SSGs like Eleventy, Next.js, SvelteKit, and Astro.",
+    "by": "AsyncBanana",
+    "points": 109,
+    "comment_count": 23,
+    "hn_item": {
+      "by": "_wldu",
+      "descendants": 2,
+      "id": 30142896,
+      "kids": [
+        30144335
+      ],
+      "score": 14,
+      "time": 1643589180,
+      "title": "Decrypt an encrypted message to any plaintext",
+      "type": "story",
+      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts"
+    },
+    "og_item": {
+      "title": "State of the Web: Static Site Generators",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://ik.imagekit.io/serenity/ByteofDev/Blog_Heading_Images/State_of_the_Web_Static_Site_Generators",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://byteofdev.com/posts/static-site-generators/",
+      "audio": [],
+      "description": "Static Site Generators have been changing quickly with new trends like Jamstack. Learn more about the background of static site generators, why people use them, and the current state of them, with information on modern SSGs like Eleventy, Next.js, SvelteKit, and Astro.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "ByteofDev",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.svg"
+      }
+    }
+  },
+  {
     "id": 30141171,
     "title": "Deep symbolic regression for recurrent sequences",
     "url": "http://recur-env.eba-rm3fchmn.us-east-2.elasticbeanstalk.com/",
@@ -1478,57 +1478,6 @@
       "video": [],
       "favicon": {
         "url": "./favicon.png"
-      }
-    }
-  },
-  {
-    "id": 30144101,
-    "title": "Please Make a Dumb Car",
-    "url": "https://techcrunch.com/2022/01/29/please-make-a-dumb-car/",
-    "time": 1643599448,
-    "image": "https://techcrunch.com/wp-content/uploads/2022/01/dumb-car2.jpg?w=711",
-    "icon": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=192",
-    "publisher": "TechCrunch",
-    "description": "Today’s cars are dumb where they should be smart, and smart where they should be dumb. Enough already. Make a car that’s pretty much all dumb and watch it sell — because what automakers are giving people is so bad, they’ll pay more to have less of it. Cars now are like budget smar…",
-    "by": "wrycoder",
-    "points": 119,
-    "comment_count": 37,
-    "hn_item": {
-      "by": "_wldu",
-      "descendants": 2,
-      "id": 30142896,
-      "kids": [
-        30144335
-      ],
-      "score": 14,
-      "time": 1643589180,
-      "title": "Decrypt an encrypted message to any plaintext",
-      "type": "story",
-      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts"
-    },
-    "og_item": {
-      "title": "Please make a dumb car – TechCrunch",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/01/dumb-car2.jpg?w=711",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://social.techcrunch.com/2022/01/29/please-make-a-dumb-car/",
-      "audio": [],
-      "description": "Today’s cars are dumb where they should be smart, and smart where they should be dumb. Enough already. Make a car that’s pretty much all dumb and watch it sell — because what automakers are giving people is so bad, they’ll pay more to have less of it. Cars now are like budget smar…",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "TechCrunch",
-      "video": [],
-      "favicon": {
-        "url": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=192"
       }
     }
   },
@@ -1686,6 +1635,57 @@
     }
   },
   {
+    "id": 30144101,
+    "title": "Please Make a Dumb Car",
+    "url": "https://techcrunch.com/2022/01/29/please-make-a-dumb-car/",
+    "time": 1643599448,
+    "image": "https://techcrunch.com/wp-content/uploads/2022/01/dumb-car2.jpg?w=711",
+    "icon": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=192",
+    "publisher": "TechCrunch",
+    "description": "Today’s cars are dumb where they should be smart, and smart where they should be dumb. Enough already. Make a car that’s pretty much all dumb and watch it sell — because what automakers are giving people is so bad, they’ll pay more to have less of it. Cars now are like budget smar…",
+    "by": "wrycoder",
+    "points": 120,
+    "comment_count": 38,
+    "hn_item": {
+      "by": "_wldu",
+      "descendants": 2,
+      "id": 30142896,
+      "kids": [
+        30144335
+      ],
+      "score": 14,
+      "time": 1643589180,
+      "title": "Decrypt an encrypted message to any plaintext",
+      "type": "story",
+      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts"
+    },
+    "og_item": {
+      "title": "Please make a dumb car – TechCrunch",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/01/dumb-car2.jpg?w=711",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://social.techcrunch.com/2022/01/29/please-make-a-dumb-car/",
+      "audio": [],
+      "description": "Today’s cars are dumb where they should be smart, and smart where they should be dumb. Enough already. Make a car that’s pretty much all dumb and watch it sell — because what automakers are giving people is so bad, they’ll pay more to have less of it. Cars now are like budget smar…",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "TechCrunch",
+      "video": [],
+      "favicon": {
+        "url": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=192"
+      }
+    }
+  },
+  {
     "id": 30142247,
     "title": "Basic Cryptography – The Vigenere Cipher",
     "url": "https://eric.mann.blog/basic-cryptography-the-vigenere-cipher/",
@@ -1733,57 +1733,6 @@
       "video": [],
       "favicon": {
         "url": "https://i0.wp.com/eric.mann.blog/wp-content/uploads/2021/12/cropped-00100sPORTRAIT_00100_BURST20190126115324341_COVER-scaled-1.jpg?fit=192%2C192\u0026ssl=1"
-      }
-    }
-  },
-  {
-    "id": 30135190,
-    "title": "FunctionStomping – A new shellcode injection technique",
-    "url": "https://github.com/Idov31/FunctionStomping",
-    "time": 1643533222,
-    "image": "https://opengraph.githubassets.com/b42acdb7eed3d9da09860cc5accd7034ccc7a74640d1e04ce2d1a0a890800893/Idov31/FunctionStomping",
-    "icon": "https://github.githubassets.com/favicons/favicon.svg",
-    "publisher": "GitHub",
-    "description": "A new shellcode injection technique. Given as C++ header or standalone Rust program. - GitHub - Idov31/FunctionStomping: A new shellcode injection technique. Given as C++ header or standalone Rust ...",
-    "by": "maydemir",
-    "points": 33,
-    "comment_count": 3,
-    "hn_item": {
-      "by": "_wldu",
-      "descendants": 2,
-      "id": 30142896,
-      "kids": [
-        30144335
-      ],
-      "score": 14,
-      "time": 1643589180,
-      "title": "Decrypt an encrypted message to any plaintext",
-      "type": "story",
-      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts"
-    },
-    "og_item": {
-      "title": "GitHub - Idov31/FunctionStomping: A new shellcode injection technique. Given as C++ header or standalone Rust program.",
-      "type": "object",
-      "image": [
-        {
-          "url": "https://opengraph.githubassets.com/b42acdb7eed3d9da09860cc5accd7034ccc7a74640d1e04ce2d1a0a890800893/Idov31/FunctionStomping",
-          "secure_url": "",
-          "type": "",
-          "width": 1200,
-          "height": 600,
-          "alt": ""
-        }
-      ],
-      "url": "https://github.com/Idov31/FunctionStomping",
-      "audio": [],
-      "description": "A new shellcode injection technique. Given as C++ header or standalone Rust program. - GitHub - Idov31/FunctionStomping: A new shellcode injection technique. Given as C++ header or standalone Rust ...",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "GitHub",
-      "video": [],
-      "favicon": {
-        "url": "https://github.githubassets.com/favicons/favicon.svg"
       }
     }
   },
@@ -1881,17 +1830,17 @@
     }
   },
   {
-    "id": 30145872,
-    "title": "Ask HN: What does the GDPR penalty for loading fonts mean for website owners?",
-    "url": "https://news.ycombinator.com/item?id=30145872",
-    "time": 1643618616,
-    "image": "",
-    "icon": "https://news.ycombinator.com/favicon.ico",
-    "publisher": "Hacker News",
-    "description": "",
-    "by": "emschlr",
-    "points": 3,
-    "comment_count": 2,
+    "id": 30135190,
+    "title": "FunctionStomping – A new shellcode injection technique",
+    "url": "https://github.com/Idov31/FunctionStomping",
+    "time": 1643533222,
+    "image": "https://opengraph.githubassets.com/b42acdb7eed3d9da09860cc5accd7034ccc7a74640d1e04ce2d1a0a890800893/Idov31/FunctionStomping",
+    "icon": "https://github.githubassets.com/favicons/favicon.svg",
+    "publisher": "GitHub",
+    "description": "A new shellcode injection technique. Given as C++ header or standalone Rust program. - GitHub - Idov31/FunctionStomping: A new shellcode injection technique. Given as C++ header or standalone Rust ...",
+    "by": "maydemir",
+    "points": 33,
+    "comment_count": 3,
     "hn_item": {
       "by": "_wldu",
       "descendants": 2,
@@ -1906,19 +1855,28 @@
       "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts"
     },
     "og_item": {
-      "title": "Ask HN: What does the GDPR penalty for loading fonts mean for website owners? | Hacker News",
-      "type": "",
-      "image": [],
-      "url": "",
+      "title": "GitHub - Idov31/FunctionStomping: A new shellcode injection technique. Given as C++ header or standalone Rust program.",
+      "type": "object",
+      "image": [
+        {
+          "url": "https://opengraph.githubassets.com/b42acdb7eed3d9da09860cc5accd7034ccc7a74640d1e04ce2d1a0a890800893/Idov31/FunctionStomping",
+          "secure_url": "",
+          "type": "",
+          "width": 1200,
+          "height": 600,
+          "alt": ""
+        }
+      ],
+      "url": "https://github.com/Idov31/FunctionStomping",
       "audio": [],
-      "description": "",
+      "description": "A new shellcode injection technique. Given as C++ header or standalone Rust program. - GitHub - Idov31/FunctionStomping: A new shellcode injection technique. Given as C++ header or standalone Rust ...",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "",
+      "site_name": "GitHub",
       "video": [],
       "favicon": {
-        "url": "favicon.ico"
+        "url": "https://github.githubassets.com/favicons/favicon.svg"
       }
     }
   },
@@ -1974,6 +1932,48 @@
     }
   },
   {
+    "id": 30145872,
+    "title": "Ask HN: What does the GDPR penalty for loading fonts mean for website owners?",
+    "url": "https://news.ycombinator.com/item?id=30145872",
+    "time": 1643618616,
+    "image": "",
+    "icon": "https://news.ycombinator.com/favicon.ico",
+    "publisher": "Hacker News",
+    "description": "",
+    "by": "emschlr",
+    "points": 3,
+    "comment_count": 2,
+    "hn_item": {
+      "by": "_wldu",
+      "descendants": 2,
+      "id": 30142896,
+      "kids": [
+        30144335
+      ],
+      "score": 14,
+      "time": 1643589180,
+      "title": "Decrypt an encrypted message to any plaintext",
+      "type": "story",
+      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts"
+    },
+    "og_item": {
+      "title": "Ask HN: What does the GDPR penalty for loading fonts mean for website owners? | Hacker News",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30132612,
     "title": "John Locke’s recipe for Pancakes (2021)",
     "url": "https://rarecooking.com/2021/12/14/john-lockes-recipe-for-pancakes/",
@@ -2021,6 +2021,57 @@
       "video": [],
       "favicon": {
         "url": "https://s0.wp.com/i/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30143377,
+    "title": "A Simple Transformer Implementation(PyTorch) Without Difficult Syntax",
+    "url": "https://github.com/IpsumDominum/Pytorch-Simple-Transformer",
+    "time": 1643592608,
+    "image": "https://opengraph.githubassets.com/b421b6d5d40085e2845e5b47e87eacd709e7fc26447e8d24659e4a6ae6d8103e/IpsumDominum/Pytorch-Simple-Transformer",
+    "icon": "https://github.githubassets.com/favicons/favicon.svg",
+    "publisher": "GitHub",
+    "description": "A simple transformer implementation without difficult syntax and extra bells and whistles. - GitHub - IpsumDominum/Pytorch-Simple-Transformer: A simple transformer implementation without difficult ...",
+    "by": "IpsumDominum",
+    "points": 12,
+    "comment_count": 1,
+    "hn_item": {
+      "by": "_wldu",
+      "descendants": 2,
+      "id": 30142896,
+      "kids": [
+        30144335
+      ],
+      "score": 14,
+      "time": 1643589180,
+      "title": "Decrypt an encrypted message to any plaintext",
+      "type": "story",
+      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts"
+    },
+    "og_item": {
+      "title": "GitHub - IpsumDominum/Pytorch-Simple-Transformer: A simple transformer implementation without difficult syntax and extra bells and whistles.",
+      "type": "object",
+      "image": [
+        {
+          "url": "https://opengraph.githubassets.com/b421b6d5d40085e2845e5b47e87eacd709e7fc26447e8d24659e4a6ae6d8103e/IpsumDominum/Pytorch-Simple-Transformer",
+          "secure_url": "",
+          "type": "",
+          "width": 1200,
+          "height": 600,
+          "alt": ""
+        }
+      ],
+      "url": "https://github.com/IpsumDominum/Pytorch-Simple-Transformer",
+      "audio": [],
+      "description": "A simple transformer implementation without difficult syntax and extra bells and whistles. - GitHub - IpsumDominum/Pytorch-Simple-Transformer: A simple transformer implementation without difficult ...",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "GitHub",
+      "video": [],
+      "favicon": {
+        "url": "https://github.githubassets.com/favicons/favicon.svg"
       }
     }
   },
@@ -2466,57 +2517,6 @@
     }
   },
   {
-    "id": 30143377,
-    "title": "A Simple Transformer Implementation(PyTorch) Without Difficult Syntax",
-    "url": "https://github.com/IpsumDominum/Pytorch-Simple-Transformer",
-    "time": 1643592608,
-    "image": "https://opengraph.githubassets.com/5f1c9a5735bf88b70181ab50973433c0668aff12fc14bcca3a48de6e5e8c51c3/IpsumDominum/Pytorch-Simple-Transformer",
-    "icon": "https://github.githubassets.com/favicons/favicon.svg",
-    "publisher": "GitHub",
-    "description": "A simple transformer implementation without difficult syntax and extra bells and whistles. - GitHub - IpsumDominum/Pytorch-Simple-Transformer: A simple transformer implementation without difficult ...",
-    "by": "IpsumDominum",
-    "points": 10,
-    "comment_count": 1,
-    "hn_item": {
-      "by": "_wldu",
-      "descendants": 2,
-      "id": 30142896,
-      "kids": [
-        30144335
-      ],
-      "score": 14,
-      "time": 1643589180,
-      "title": "Decrypt an encrypted message to any plaintext",
-      "type": "story",
-      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts"
-    },
-    "og_item": {
-      "title": "GitHub - IpsumDominum/Pytorch-Simple-Transformer: A simple transformer implementation without difficult syntax and extra bells and whistles.",
-      "type": "object",
-      "image": [
-        {
-          "url": "https://opengraph.githubassets.com/5f1c9a5735bf88b70181ab50973433c0668aff12fc14bcca3a48de6e5e8c51c3/IpsumDominum/Pytorch-Simple-Transformer",
-          "secure_url": "",
-          "type": "",
-          "width": 1200,
-          "height": 600,
-          "alt": ""
-        }
-      ],
-      "url": "https://github.com/IpsumDominum/Pytorch-Simple-Transformer",
-      "audio": [],
-      "description": "A simple transformer implementation without difficult syntax and extra bells and whistles. - GitHub - IpsumDominum/Pytorch-Simple-Transformer: A simple transformer implementation without difficult ...",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "GitHub",
-      "video": [],
-      "favicon": {
-        "url": "https://github.githubassets.com/favicons/favicon.svg"
-      }
-    }
-  },
-  {
     "id": 30128627,
     "title": "Tech debt gets worse before it gets better",
     "url": "https://jeremymikkola.com/posts/2022_01_29_tech_debt_gets_worse_before_it_gets_beffer.html",
@@ -2601,48 +2601,6 @@
     }
   },
   {
-    "id": 30139643,
-    "title": "Very Remote Lisp Debugging Story",
-    "url": "https://susam.net/maze/very-remote-debugging.html",
-    "time": 1643567057,
-    "image": "",
-    "icon": "https://susam.net/maze/favicon.png",
-    "publisher": "susam.net",
-    "description": "",
-    "by": "susam",
-    "points": 42,
-    "comment_count": 4,
-    "hn_item": {
-      "by": "_wldu",
-      "descendants": 2,
-      "id": 30142896,
-      "kids": [
-        30144335
-      ],
-      "score": 14,
-      "time": 1643589180,
-      "title": "Decrypt an encrypted message to any plaintext",
-      "type": "story",
-      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts"
-    },
-    "og_item": {
-      "title": "Very Remote Lisp Debugging Story - Susam's Maze",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "favicon.png"
-      }
-    }
-  },
-  {
     "id": 30114787,
     "title": "The Society of the Spectacle",
     "url": "https://unredacted-word.pub/",
@@ -2690,6 +2648,48 @@
       "video": [],
       "favicon": {
         "url": "/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30139643,
+    "title": "Very Remote Lisp Debugging Story",
+    "url": "https://susam.net/maze/very-remote-debugging.html",
+    "time": 1643567057,
+    "image": "",
+    "icon": "https://susam.net/maze/favicon.png",
+    "publisher": "susam.net",
+    "description": "",
+    "by": "susam",
+    "points": 42,
+    "comment_count": 4,
+    "hn_item": {
+      "by": "_wldu",
+      "descendants": 2,
+      "id": 30142896,
+      "kids": [
+        30144335
+      ],
+      "score": 14,
+      "time": 1643589180,
+      "title": "Decrypt an encrypted message to any plaintext",
+      "type": "story",
+      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts"
+    },
+    "og_item": {
+      "title": "Very Remote Lisp Debugging Story - Susam's Maze",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "favicon.png"
       }
     }
   },
@@ -2745,48 +2745,6 @@
     }
   },
   {
-    "id": 30145394,
-    "title": "My WFH sedentary life (Sitting, lying down) is more than 11 hr?",
-    "url": "https://news.ycombinator.com/item?id=30145394",
-    "time": 1643613303,
-    "image": "",
-    "icon": "https://news.ycombinator.com/favicon.ico",
-    "publisher": "Hacker News",
-    "description": "",
-    "by": "cryptozeus",
-    "points": 4,
-    "comment_count": 3,
-    "hn_item": {
-      "by": "_wldu",
-      "descendants": 2,
-      "id": 30142896,
-      "kids": [
-        30144335
-      ],
-      "score": 14,
-      "time": 1643589180,
-      "title": "Decrypt an encrypted message to any plaintext",
-      "type": "story",
-      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts"
-    },
-    "og_item": {
-      "title": "My WFH sedentary life (Sitting, lying down) is more than 11 hr? | Hacker News",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30137864,
     "title": "Midnight Commander Tips and Tricks",
     "url": "http://www.softpanorama.org/OFM/MC/mc_tips.shtml",
@@ -2796,7 +2754,7 @@
     "publisher": "softpanorama.org",
     "description": "",
     "by": "ingve",
-    "points": 160,
+    "points": 161,
     "comment_count": 19,
     "hn_item": {
       "by": "_wldu",
@@ -2876,6 +2834,48 @@
       "video": [],
       "favicon": {
         "url": "/favicon-128.png"
+      }
+    }
+  },
+  {
+    "id": 30145394,
+    "title": "My WFH sedentary life (Sitting, lying down) is more than 11 hr?",
+    "url": "https://news.ycombinator.com/item?id=30145394",
+    "time": 1643613303,
+    "image": "",
+    "icon": "https://news.ycombinator.com/favicon.ico",
+    "publisher": "Hacker News",
+    "description": "",
+    "by": "cryptozeus",
+    "points": 4,
+    "comment_count": 4,
+    "hn_item": {
+      "by": "_wldu",
+      "descendants": 2,
+      "id": 30142896,
+      "kids": [
+        30144335
+      ],
+      "score": 14,
+      "time": 1643589180,
+      "title": "Decrypt an encrypted message to any plaintext",
+      "type": "story",
+      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts"
+    },
+    "og_item": {
+      "title": "My WFH sedentary life (Sitting, lying down) is more than 11 hr? | Hacker News",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "favicon.ico"
       }
     }
   },
@@ -3018,6 +3018,48 @@
     }
   },
   {
+    "id": 30128061,
+    "title": "Nuanced communication usually doesn't work at scale",
+    "url": "https://twitter.com/danluu/status/1487228574608211969",
+    "time": 1643476385,
+    "image": "",
+    "icon": "https://abs.twimg.com/favicons/twitter.2.ico",
+    "publisher": "Twitter",
+    "description": "",
+    "by": "tagolli",
+    "points": 692,
+    "comment_count": 70,
+    "hn_item": {
+      "by": "_wldu",
+      "descendants": 2,
+      "id": 30142896,
+      "kids": [
+        30144335
+      ],
+      "score": 14,
+      "time": 1643589180,
+      "title": "Decrypt an encrypted message to any plaintext",
+      "type": "story",
+      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts"
+    },
+    "og_item": {
+      "title": "",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Twitter",
+      "video": [],
+      "favicon": {
+        "url": "//abs.twimg.com/favicons/twitter.2.ico"
+      }
+    }
+  },
+  {
     "id": 30129565,
     "title": "Static-Let, or how I Learned to stop worrying and love Load-Time-Value",
     "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md",
@@ -3116,48 +3158,6 @@
       "video": [],
       "favicon": {
         "url": "https://lowleveldesign.files.wordpress.com/2019/01/cropped-site_logo-1.png?w=192"
-      }
-    }
-  },
-  {
-    "id": 30128061,
-    "title": "Nuanced communication usually doesn't work at scale",
-    "url": "https://twitter.com/danluu/status/1487228574608211969",
-    "time": 1643476385,
-    "image": "",
-    "icon": "https://abs.twimg.com/favicons/twitter.2.ico",
-    "publisher": "Twitter",
-    "description": "",
-    "by": "tagolli",
-    "points": 692,
-    "comment_count": 70,
-    "hn_item": {
-      "by": "_wldu",
-      "descendants": 2,
-      "id": 30142896,
-      "kids": [
-        30144335
-      ],
-      "score": 14,
-      "time": 1643589180,
-      "title": "Decrypt an encrypted message to any plaintext",
-      "type": "story",
-      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts"
-    },
-    "og_item": {
-      "title": "",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Twitter",
-      "video": [],
-      "favicon": {
-        "url": "//abs.twimg.com/favicons/twitter.2.ico"
       }
     }
   },
