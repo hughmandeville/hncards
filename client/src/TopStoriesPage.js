@@ -16,10 +16,10 @@ const TopStoriesPage = () => {
     hnURL = '/hn_topstories.json';
   }
 
-  const fetchIntervalInSeconds = 10;
+  const fetchIntervalInSeconds = 600; // 5 minutes
 
   const tick = () => {
-    console.log('timer: ', count < fetchIntervalInSeconds ? count + 1 : 0);
+    //console.log('timer: ', count < fetchIntervalInSeconds ? count + 1 : 0);
     setCount(prevState => (prevState < fetchIntervalInSeconds ? prevState + 1 : 0));
   };
 
@@ -31,7 +31,6 @@ const TopStoriesPage = () => {
   useEffect(() => {
     if (count === 0) {
       someRef.current = someRef.current + 1;
-      console.log('FETCH');
       setTimeout(() => {
         fetch(hnURL)
           .then(response => response.json())
