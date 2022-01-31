@@ -4,36 +4,44 @@
     "title": "Boyfriend Alert",
     "url": "https://github.com/jscd/Boyfriend-Alert",
     "time": 1643619852,
-    "image": "https://opengraph.githubassets.com/0e69416b8808fab06ccbfae55031d09724bd22f13872a7980fb33b15a56b5c54/jscd/Boyfriend-Alert",
+    "image": "https://opengraph.githubassets.com/933521682aa7f03e0761ec316d6c85cbffcb51650dd8952ef7fd4975726b0129/jscd/Boyfriend-Alert",
     "icon": "https://github.githubassets.com/favicons/favicon.svg",
     "publisher": "GitHub",
     "description": "A light based alert system. Contribute to jscd/Boyfriend-Alert development by creating an account on GitHub.",
     "by": "rgun",
-    "points": 109,
-    "comment_count": 22,
+    "points": 118,
+    "comment_count": 25,
     "hn_item": {
-      "by": "susam",
-      "descendants": 86,
-      "id": 30139142,
+      "by": "lowleveldesign",
+      "descendants": 60,
+      "id": 30128048,
       "kids": [
-        30139374,
-        30139359,
-        30139715,
-        30140207,
-        30139444
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30144489,
+        30145419,
+        30140903,
+        30140096
       ],
-      "score": 102,
-      "time": 1643564118,
-      "title": "SBCL: New in Version 2.2.1",
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
       "type": "story",
-      "url": "http://www.sbcl.org/all-news.html?2.2.1#2.2.1"
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
     },
     "og_item": {
       "title": "GitHub - jscd/Boyfriend-Alert: A light based alert system",
       "type": "object",
       "image": [
         {
-          "url": "https://opengraph.githubassets.com/0e69416b8808fab06ccbfae55031d09724bd22f13872a7980fb33b15a56b5c54/jscd/Boyfriend-Alert",
+          "url": "https://opengraph.githubassets.com/933521682aa7f03e0761ec316d6c85cbffcb51650dd8952ef7fd4975726b0129/jscd/Boyfriend-Alert",
           "secure_url": "",
           "type": "",
           "width": 1200,
@@ -64,24 +72,32 @@
     "publisher": "two-wrongs.com",
     "description": "",
     "by": "Tomte",
-    "points": 82,
+    "points": 84,
     "comment_count": 5,
     "hn_item": {
-      "by": "susam",
-      "descendants": 86,
-      "id": 30139142,
+      "by": "lowleveldesign",
+      "descendants": 60,
+      "id": 30128048,
       "kids": [
-        30139374,
-        30139359,
-        30139715,
-        30140207,
-        30139444
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30144489,
+        30145419,
+        30140903,
+        30140096
       ],
-      "score": 102,
-      "time": 1643564118,
-      "title": "SBCL: New in Version 2.2.1",
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
       "type": "story",
-      "url": "http://www.sbcl.org/all-news.html?2.2.1#2.2.1"
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
     },
     "og_item": {
       "title": "The AWK State Machine Parser Pattern",
@@ -101,107 +117,6 @@
     }
   },
   {
-    "id": 30144652,
-    "title": "Zero-copy network transmission with io_uring (2021)",
-    "url": "https://lwn.net/Articles/879724/",
-    "time": 1643605041,
-    "image": "",
-    "icon": "https://static.lwn.net/images/favicon.png",
-    "publisher": "lwn.net",
-    "description": "",
-    "by": "pabs3",
-    "points": 158,
-    "comment_count": 5,
-    "hn_item": {
-      "by": "susam",
-      "descendants": 86,
-      "id": 30139142,
-      "kids": [
-        30139374,
-        30139359,
-        30139715,
-        30140207,
-        30139444
-      ],
-      "score": 102,
-      "time": 1643564118,
-      "title": "SBCL: New in Version 2.2.1",
-      "type": "story",
-      "url": "http://www.sbcl.org/all-news.html?2.2.1#2.2.1"
-    },
-    "og_item": {
-      "title": "Zero-copy network transmission with io_uring [LWN.net]",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "https://static.lwn.net/images/favicon.png"
-      }
-    }
-  },
-  {
-    "id": 30146843,
-    "title": "1k-cycle lithium-sulfur battery could quintuple electric vehicle ranges",
-    "url": "https://news.umich.edu/1000-cycle-lithium-sulfur-battery-could-quintuple-electric-vehicle-ranges/",
-    "time": 1643628054,
-    "image": "https://news.umich.edu/wp-content/uploads/mc-image-cache/2022/01/1000-cycle-lithium-sulfur-battery-could-quintuple-electric-vehicle-ranges-LiS-Battery-Diagram.jpg",
-    "icon": "https://news.umich.edu/favicon.ico",
-    "publisher": "University of Michigan News",
-    "description": "A new biologically inspired battery membrane has enabled a battery with five times the capacity of the industry-standard lithium ion design to run for the thousand-plus cycles needed to power an electric car.\n\nA network of aramid nanofibers, recycled from Kevlar, can enable lithium-sulfur batterie",
-    "by": "maeln",
-    "points": 37,
-    "comment_count": 9,
-    "hn_item": {
-      "by": "susam",
-      "descendants": 86,
-      "id": 30139142,
-      "kids": [
-        30139374,
-        30139359,
-        30139715,
-        30140207,
-        30139444
-      ],
-      "score": 102,
-      "time": 1643564118,
-      "title": "SBCL: New in Version 2.2.1",
-      "type": "story",
-      "url": "http://www.sbcl.org/all-news.html?2.2.1#2.2.1"
-    },
-    "og_item": {
-      "title": "1,000-cycle lithium-sulfur battery could quintuple electric vehicle ranges",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://news.umich.edu/wp-content/uploads/mc-image-cache/2022/01/1000-cycle-lithium-sulfur-battery-could-quintuple-electric-vehicle-ranges-LiS-Battery-Diagram.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://news.umich.edu/1000-cycle-lithium-sulfur-battery-could-quintuple-electric-vehicle-ranges/",
-      "audio": [],
-      "description": "A new biologically inspired battery membrane has enabled a battery with five times the capacity of the industry-standard lithium ion design to run for the thousand-plus cycles needed to power an electric car.\n\nA network of aramid nanofibers, recycled from Kevlar, can enable lithium-sulfur batterie",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "University of Michigan News",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30144805,
     "title": "Examples of common false beliefs in mathematics",
     "url": "https://mathoverflow.net/questions/23478/examples-of-common-false-beliefs-in-mathematics",
@@ -211,24 +126,32 @@
     "publisher": "MathOverflow",
     "description": "The first thing to say is that this is not the same as the question about interesting mathematical mistakes. I am interested about the type of false beliefs that many intelligent people have while ...",
     "by": "gballan",
-    "points": 139,
+    "points": 145,
     "comment_count": 10,
     "hn_item": {
-      "by": "susam",
-      "descendants": 86,
-      "id": 30139142,
+      "by": "lowleveldesign",
+      "descendants": 60,
+      "id": 30128048,
       "kids": [
-        30139374,
-        30139359,
-        30139715,
-        30140207,
-        30139444
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30144489,
+        30145419,
+        30140903,
+        30140096
       ],
-      "score": 102,
-      "time": 1643564118,
-      "title": "SBCL: New in Version 2.2.1",
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
       "type": "story",
-      "url": "http://www.sbcl.org/all-news.html?2.2.1#2.2.1"
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
     },
     "og_item": {
       "title": "Examples of common false beliefs in mathematics",
@@ -257,6 +180,60 @@
     }
   },
   {
+    "id": 30144652,
+    "title": "Zero-copy network transmission with io_uring (2021)",
+    "url": "https://lwn.net/Articles/879724/",
+    "time": 1643605041,
+    "image": "",
+    "icon": "https://static.lwn.net/images/favicon.png",
+    "publisher": "lwn.net",
+    "description": "",
+    "by": "pabs3",
+    "points": 160,
+    "comment_count": 5,
+    "hn_item": {
+      "by": "lowleveldesign",
+      "descendants": 60,
+      "id": 30128048,
+      "kids": [
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30144489,
+        30145419,
+        30140903,
+        30140096
+      ],
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
+      "type": "story",
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
+    },
+    "og_item": {
+      "title": "Zero-copy network transmission with io_uring [LWN.net]",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "https://static.lwn.net/images/favicon.png"
+      }
+    }
+  },
+  {
     "id": 30124457,
     "title": "Chip shortages due to lack of investment in right fabs",
     "url": "https://www.theregister.com/2022/01/28/idc_chip_shortages/",
@@ -266,24 +243,32 @@
     "publisher": "theregister.com",
     "description": "",
     "by": "laktak",
-    "points": 132,
+    "points": 136,
     "comment_count": 10,
     "hn_item": {
-      "by": "susam",
-      "descendants": 86,
-      "id": 30139142,
+      "by": "lowleveldesign",
+      "descendants": 60,
+      "id": 30128048,
       "kids": [
-        30139374,
-        30139359,
-        30139715,
-        30140207,
-        30139444
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30144489,
+        30145419,
+        30140903,
+        30140096
       ],
-      "score": 102,
-      "time": 1643564118,
-      "title": "SBCL: New in Version 2.2.1",
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
       "type": "story",
-      "url": "http://www.sbcl.org/all-news.html?2.2.1#2.2.1"
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
     },
     "og_item": {
       "title": "",
@@ -312,24 +297,32 @@
     "publisher": "smallcultfollowing.com",
     "description": "",
     "by": "ingve",
-    "points": 56,
+    "points": 60,
     "comment_count": 4,
     "hn_item": {
-      "by": "susam",
-      "descendants": 86,
-      "id": 30139142,
+      "by": "lowleveldesign",
+      "descendants": 60,
+      "id": 30128048,
       "kids": [
-        30139374,
-        30139359,
-        30139715,
-        30140207,
-        30139444
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30144489,
+        30145419,
+        30140903,
+        30140096
       ],
-      "score": 102,
-      "time": 1643564118,
-      "title": "SBCL: New in Version 2.2.1",
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
       "type": "story",
-      "url": "http://www.sbcl.org/all-news.html?2.2.1#2.2.1"
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
     },
     "og_item": {
       "title": "Baby Steps",
@@ -358,24 +351,32 @@
     "publisher": "Medium",
     "description": "My journey on finding and reporting databases with sensitive data about Fortune-500 companies, Hospitals, Crypto platforms, Startups during…",
     "by": "boyter",
-    "points": 195,
+    "points": 199,
     "comment_count": 14,
     "hn_item": {
-      "by": "susam",
-      "descendants": 86,
-      "id": 30139142,
+      "by": "lowleveldesign",
+      "descendants": 60,
+      "id": 30128048,
       "kids": [
-        30139374,
-        30139359,
-        30139715,
-        30140207,
-        30139444
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30144489,
+        30145419,
+        30140903,
+        30140096
       ],
-      "score": 102,
-      "time": 1643564118,
-      "title": "SBCL: New in Version 2.2.1",
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
       "type": "story",
-      "url": "http://www.sbcl.org/all-news.html?2.2.1#2.2.1"
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
     },
     "og_item": {
       "title": "How I Discovered Thousands of Open Databases on AWS",
@@ -404,202 +405,6 @@
     }
   },
   {
-    "id": 30147052,
-    "title": "Convictional (YC W19) is hiring engineers to build the future of B2B trade Remote",
-    "url": "https://jobs.ashbyhq.com/convictional/91fa08f9-0850-4429-9000-19c1f5fe9ef3",
-    "time": 1643630467,
-    "image": "https://app.ashbyhq.com/api/images/org-theme-social/5e819c8e-a931-414f-84ae-c579d7d7ea47/376a64d4-3d4f-4f8b-bd99-41a684e11dff.png",
-    "icon": "https://cdn.ashbyprd.com/cdn_assets/59ceb46c57844decfb8e06e7d162ea66129b347e/favicon.png",
-    "publisher": "jobs.ashbyhq.com",
-    "description": "We’re Convictional. We are building a modern B2B trade network. \n\n \n\nEach year, trillions of dollars worth of B2B trade is transacted using Electronic Data Interchange (EDI). EDI is difficult for modern businesses to work with. Convictional is changing that. \n\n \n\nOur Supplier Enablement Pla…",
-    "by": "rogerkirkness",
-    "points": 1,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "susam",
-      "descendants": 86,
-      "id": 30139142,
-      "kids": [
-        30139374,
-        30139359,
-        30139715,
-        30140207,
-        30139444
-      ],
-      "score": 102,
-      "time": 1643564118,
-      "title": "SBCL: New in Version 2.2.1",
-      "type": "story",
-      "url": "http://www.sbcl.org/all-news.html?2.2.1#2.2.1"
-    },
-    "og_item": {
-      "title": "Software Engineer",
-      "type": "website",
-      "image": [
-        {
-          "url": "https://app.ashbyhq.com/api/images/org-theme-social/5e819c8e-a931-414f-84ae-c579d7d7ea47/376a64d4-3d4f-4f8b-bd99-41a684e11dff.png",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://jobs.ashbyhq.com/convictional/91fa08f9-0850-4429-9000-19c1f5fe9ef3",
-      "audio": [],
-      "description": "We’re Convictional. We are building a modern B2B trade network. \n\n \n\nEach year, trillions of dollars worth of B2B trade is transacted using Electronic Data Interchange (EDI). EDI is difficult for modern businesses to work with. Convictional is changing that. \n\n \n\nOur Supplier Enablement Platform enables retailers and marketplaces to onboard, integrate, and transact with all of their suppliers. Convictional's API-driven infrastructure is used by large retailers like Staples, Indigo, Harry Rosen, and brands like Caraway and Detox Market. We recently raised a Series A financing to scale our impact to even more companies.\n\n \n\nConvictional's platform is informed by thousands of hours of customer consultation and a deep appreciation for both the buyer and seller perspectives. We are continuing to learn about the massive value to be unlocked from all types of B2B trade, including marketplace, dropship and wholesale. We’re aiming at theoretical maximums, not feature-completeness, and intend to bring as many businesses along with us as we can.\n\n \n\nTaking a new approach to an old problem is nothing special. Our team, and how we engage with each other, is. We are proud to be building a home for kind nerds who want to impact global trade. Our team is strengthened when we take a learning-first approach and seek out opportunities to debate the best customer-focused solutions. We value self-awareness and feel compelled to fully explore the hard questions. \n\n \n\nWe are a fully distributed team with people located across Canada and the US. We encourage you to design your work schedule and environment so they’re optimal for you. We use email, not Slack. We default to no internal meetings and Deep Work Wednesdays. We expect you to go to coaching or therapy at least occasionally and adhere to 10% compound time. https://medium.com/accelerated-intelligence/why-successful-people-spend-10-hours-a-week-on-compound-time-79d64d8132a8\n\n \n\nWe are inspired every day by the opportunity to pioneer infrastructure that will move trillions of dollars worth of B2B trade. We welcome those who want to join us.\n\n\n\n\nAbout the role\nConvictional is looking to hire Software Engineers at various levels of seniority.\n\nIf you can develop and maintain features, enjoy challenges of reliability and scalability, and can be effective cross-functionally to deliver on commitments to customers, this is probably a good fit. If you like free beer, standups, and active management, this is not a good fit.\n\n\nOur engineers are systems thinkers and futurists who see opportunity everywhere. They are conscientious but still revel in taking intelligent risks. They are proficient in something other than engineering (e.g. technical writing, solutioning, product marketing) and have demonstrated commitment to learning and self-awareness.\n\n\n\nOur software engineers are working on EDI translation, API development, product-native onboarding, and building out our feature set. All engineers contribute to support interactions.\n\n\n\nExperience\nAs long as you have at least 2 years of professional experience as a software engineer (not including co-ops), we really don’t care how you’ve amassed it. You definitely don’t need to have a degree - our CEO barely finished high school - though we’ve found systems engineers tend to have an outsized impact. If you can write high quality code aimed at business users, we want to talk to you.\n\n\n\nDisclaimer\nIf this doesn’t sound like you, but you believe you have something to contribute, tell us why in an email. We will read it, and we will reply to you with thoughtful feedback about whether or not you may be a good fit for us.\n\nDrop us a line or share your resume at jobs@convictional.com.\n\n",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "https://cdn.ashbyprd.com/cdn_assets/59ceb46c57844decfb8e06e7d162ea66129b347e/favicon.png"
-      }
-    }
-  },
-  {
-    "id": 30147507,
-    "title": "VT100 Machine Emulator in JavaScript",
-    "url": "https://www.pcjs.org/machines/dec/vt100/",
-    "time": 1643634629,
-    "image": "https://www.pcjs.org/assets/img/logo-home.png",
-    "icon": "https://www.pcjs.org/assets/icons/favicon.ico",
-    "publisher": "pcjs.org",
-    "description": "Home of the original IBM PC emulator for browsers. PCjs offers a variety of online machine emulators written in JavaScript. Run DOS, Windows, OS/2 and other vintage PC applications in a web browser on your desktop computer, iPhone, or iPad. An assortment of microcomputers, minicomputers, terminal…",
-    "by": "DiabloD3",
-    "points": 3,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "susam",
-      "descendants": 86,
-      "id": 30139142,
-      "kids": [
-        30139374,
-        30139359,
-        30139715,
-        30140207,
-        30139444
-      ],
-      "score": 102,
-      "time": 1643564118,
-      "title": "SBCL: New in Version 2.2.1",
-      "type": "story",
-      "url": "http://www.sbcl.org/all-news.html?2.2.1#2.2.1"
-    },
-    "og_item": {
-      "title": "DEC VT100 Terminal",
-      "type": "",
-      "image": [
-        {
-          "url": "https://www.pcjs.org/assets/img/logo-home.png",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "",
-      "audio": [],
-      "description": "Home of the original IBM PC emulator for browsers. PCjs offers a variety of online machine emulators written in JavaScript. Run DOS, Windows, OS/2 and other vintage PC applications in a web browser on your desktop computer, iPhone, or iPad. An assortment of microcomputers, minicomputers, terminals, programmable calculators, and arcade machines are available, along with an archive of historical software and documentation.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/assets/icons/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30131926,
-    "title": "What is the inverse of a circle?",
-    "url": "https://mattferraro.dev/posts/inverse-of-a-circle",
-    "time": 1643500427,
-    "image": "https://www.mattferraro.dev/images/inverse-of-a-circle/circle_inverse.png",
-    "icon": "https://mattferraro.dev/favicon.ico",
-    "publisher": "mattferraro.dev",
-    "description": "What does it mean to invert a shape?",
-    "by": "mferraro89",
-    "points": 129,
-    "comment_count": 12,
-    "hn_item": {
-      "by": "susam",
-      "descendants": 86,
-      "id": 30139142,
-      "kids": [
-        30139374,
-        30139359,
-        30139715,
-        30140207,
-        30139444
-      ],
-      "score": 102,
-      "time": 1643564118,
-      "title": "SBCL: New in Version 2.2.1",
-      "type": "story",
-      "url": "http://www.sbcl.org/all-news.html?2.2.1#2.2.1"
-    },
-    "og_item": {
-      "title": "What is the Inverse of a Circle?",
-      "type": "",
-      "image": [
-        {
-          "url": "https://www.mattferraro.dev/images/inverse-of-a-circle/circle_inverse.png",
-          "secure_url": "",
-          "type": "",
-          "width": 1200,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "",
-      "audio": [],
-      "description": "What does it mean to invert a shape?",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30145237,
-    "title": "Generate Static Sites from Markdown Files with Caddy",
-    "url": "https://blog.thomaspuppe.de/static-sites-from-markdown-with-caddy-server",
-    "time": 1643611196,
-    "image": "",
-    "icon": "",
-    "publisher": "blog.thomaspuppe.de",
-    "description": "",
-    "by": "indigodaddy",
-    "points": 64,
-    "comment_count": 10,
-    "hn_item": {
-      "by": "susam",
-      "descendants": 86,
-      "id": 30139142,
-      "kids": [
-        30139374,
-        30139359,
-        30139715,
-        30140207,
-        30139444
-      ],
-      "score": 102,
-      "time": 1643564118,
-      "title": "SBCL: New in Version 2.2.1",
-      "type": "story",
-      "url": "http://www.sbcl.org/all-news.html?2.2.1#2.2.1"
-    },
-    "og_item": null
-  },
-  {
     "id": 30124927,
     "title": "Hiring for Conscientiousness",
     "url": "https://www.holloway.com/s/trh-hiring-for-conscientiousness",
@@ -609,24 +414,32 @@
     "publisher": "Holloway",
     "description": "Why startups should hire conscientious people—and how to find them",
     "by": "rognjen",
-    "points": 8,
-    "comment_count": 0,
+    "points": 10,
+    "comment_count": 1,
     "hn_item": {
-      "by": "susam",
-      "descendants": 86,
-      "id": 30139142,
+      "by": "lowleveldesign",
+      "descendants": 60,
+      "id": 30128048,
       "kids": [
-        30139374,
-        30139359,
-        30139715,
-        30140207,
-        30139444
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30144489,
+        30145419,
+        30140903,
+        30140096
       ],
-      "score": 102,
-      "time": 1643564118,
-      "title": "SBCL: New in Version 2.2.1",
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
       "type": "story",
-      "url": "http://www.sbcl.org/all-news.html?2.2.1#2.2.1"
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
     },
     "og_item": {
       "title": "Hiring for Conscientiousness — Holloway",
@@ -655,6 +468,297 @@
     }
   },
   {
+    "id": 30147052,
+    "title": "Convictional (YC W19) is hiring engineers to build the future of B2B trade Remote",
+    "url": "https://jobs.ashbyhq.com/convictional/91fa08f9-0850-4429-9000-19c1f5fe9ef3",
+    "time": 1643630467,
+    "image": "https://app.ashbyhq.com/api/images/org-theme-social/5e819c8e-a931-414f-84ae-c579d7d7ea47/376a64d4-3d4f-4f8b-bd99-41a684e11dff.png",
+    "icon": "https://cdn.ashbyprd.com/cdn_assets/59ceb46c57844decfb8e06e7d162ea66129b347e/favicon.png",
+    "publisher": "jobs.ashbyhq.com",
+    "description": "We’re Convictional. We are building a modern B2B trade network. \n\n \n\nEach year, trillions of dollars worth of B2B trade is transacted using Electronic Data Interchange (EDI). EDI is difficult for modern businesses to work with. Convictional is changing that. \n\n \n\nOur Supplier Enablement Pla…",
+    "by": "rogerkirkness",
+    "points": 1,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "lowleveldesign",
+      "descendants": 60,
+      "id": 30128048,
+      "kids": [
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30144489,
+        30145419,
+        30140903,
+        30140096
+      ],
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
+      "type": "story",
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
+    },
+    "og_item": {
+      "title": "Software Engineer",
+      "type": "website",
+      "image": [
+        {
+          "url": "https://app.ashbyhq.com/api/images/org-theme-social/5e819c8e-a931-414f-84ae-c579d7d7ea47/376a64d4-3d4f-4f8b-bd99-41a684e11dff.png",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://jobs.ashbyhq.com/convictional/91fa08f9-0850-4429-9000-19c1f5fe9ef3",
+      "audio": [],
+      "description": "We’re Convictional. We are building a modern B2B trade network. \n\n \n\nEach year, trillions of dollars worth of B2B trade is transacted using Electronic Data Interchange (EDI). EDI is difficult for modern businesses to work with. Convictional is changing that. \n\n \n\nOur Supplier Enablement Platform enables retailers and marketplaces to onboard, integrate, and transact with all of their suppliers. Convictional's API-driven infrastructure is used by large retailers like Staples, Indigo, Harry Rosen, and brands like Caraway and Detox Market. We recently raised a Series A financing to scale our impact to even more companies.\n\n \n\nConvictional's platform is informed by thousands of hours of customer consultation and a deep appreciation for both the buyer and seller perspectives. We are continuing to learn about the massive value to be unlocked from all types of B2B trade, including marketplace, dropship and wholesale. We’re aiming at theoretical maximums, not feature-completeness, and intend to bring as many businesses along with us as we can.\n\n \n\nTaking a new approach to an old problem is nothing special. Our team, and how we engage with each other, is. We are proud to be building a home for kind nerds who want to impact global trade. Our team is strengthened when we take a learning-first approach and seek out opportunities to debate the best customer-focused solutions. We value self-awareness and feel compelled to fully explore the hard questions. \n\n \n\nWe are a fully distributed team with people located across Canada and the US. We encourage you to design your work schedule and environment so they’re optimal for you. We use email, not Slack. We default to no internal meetings and Deep Work Wednesdays. We expect you to go to coaching or therapy at least occasionally and adhere to 10% compound time. https://medium.com/accelerated-intelligence/why-successful-people-spend-10-hours-a-week-on-compound-time-79d64d8132a8\n\n \n\nWe are inspired every day by the opportunity to pioneer infrastructure that will move trillions of dollars worth of B2B trade. We welcome those who want to join us.\n\n\n\n\nAbout the role\nConvictional is looking to hire Software Engineers at various levels of seniority.\n\nIf you can develop and maintain features, enjoy challenges of reliability and scalability, and can be effective cross-functionally to deliver on commitments to customers, this is probably a good fit. If you like free beer, standups, and active management, this is not a good fit.\n\n\nOur engineers are systems thinkers and futurists who see opportunity everywhere. They are conscientious but still revel in taking intelligent risks. They are proficient in something other than engineering (e.g. technical writing, solutioning, product marketing) and have demonstrated commitment to learning and self-awareness.\n\n\n\nOur software engineers are working on EDI translation, API development, product-native onboarding, and building out our feature set. All engineers contribute to support interactions.\n\n\n\nExperience\nAs long as you have at least 2 years of professional experience as a software engineer (not including co-ops), we really don’t care how you’ve amassed it. You definitely don’t need to have a degree - our CEO barely finished high school - though we’ve found systems engineers tend to have an outsized impact. If you can write high quality code aimed at business users, we want to talk to you.\n\n\n\nDisclaimer\nIf this doesn’t sound like you, but you believe you have something to contribute, tell us why in an email. We will read it, and we will reply to you with thoughtful feedback about whether or not you may be a good fit for us.\n\nDrop us a line or share your resume at jobs@convictional.com.\n\n",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "https://cdn.ashbyprd.com/cdn_assets/59ceb46c57844decfb8e06e7d162ea66129b347e/favicon.png"
+      }
+    }
+  },
+  {
+    "id": 30145237,
+    "title": "Generate Static Sites from Markdown Files with Caddy",
+    "url": "https://blog.thomaspuppe.de/static-sites-from-markdown-with-caddy-server",
+    "time": 1643611196,
+    "image": "",
+    "icon": "",
+    "publisher": "blog.thomaspuppe.de",
+    "description": "",
+    "by": "indigodaddy",
+    "points": 66,
+    "comment_count": 10,
+    "hn_item": {
+      "by": "lowleveldesign",
+      "descendants": 60,
+      "id": 30128048,
+      "kids": [
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30144489,
+        30145419,
+        30140903,
+        30140096
+      ],
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
+      "type": "story",
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
+    },
+    "og_item": null
+  },
+  {
+    "id": 30131926,
+    "title": "What is the inverse of a circle?",
+    "url": "https://mattferraro.dev/posts/inverse-of-a-circle",
+    "time": 1643500427,
+    "image": "https://www.mattferraro.dev/images/inverse-of-a-circle/circle_inverse.png",
+    "icon": "https://mattferraro.dev/favicon.ico",
+    "publisher": "mattferraro.dev",
+    "description": "What does it mean to invert a shape?",
+    "by": "mferraro89",
+    "points": 129,
+    "comment_count": 12,
+    "hn_item": {
+      "by": "lowleveldesign",
+      "descendants": 60,
+      "id": 30128048,
+      "kids": [
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30144489,
+        30145419,
+        30140903,
+        30140096
+      ],
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
+      "type": "story",
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
+    },
+    "og_item": {
+      "title": "What is the Inverse of a Circle?",
+      "type": "",
+      "image": [
+        {
+          "url": "https://www.mattferraro.dev/images/inverse-of-a-circle/circle_inverse.png",
+          "secure_url": "",
+          "type": "",
+          "width": 1200,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "",
+      "audio": [],
+      "description": "What does it mean to invert a shape?",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30147507,
+    "title": "VT100 Machine Emulator in JavaScript",
+    "url": "https://www.pcjs.org/machines/dec/vt100/",
+    "time": 1643634629,
+    "image": "https://www.pcjs.org/assets/img/logo-home.png",
+    "icon": "https://www.pcjs.org/assets/icons/favicon.ico",
+    "publisher": "pcjs.org",
+    "description": "Home of the original IBM PC emulator for browsers. PCjs offers a variety of online machine emulators written in JavaScript. Run DOS, Windows, OS/2 and other vintage PC applications in a web browser on your desktop computer, iPhone, or iPad. An assortment of microcomputers, minicomputers, terminal…",
+    "by": "DiabloD3",
+    "points": 3,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "lowleveldesign",
+      "descendants": 60,
+      "id": 30128048,
+      "kids": [
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30144489,
+        30145419,
+        30140903,
+        30140096
+      ],
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
+      "type": "story",
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
+    },
+    "og_item": {
+      "title": "DEC VT100 Terminal",
+      "type": "",
+      "image": [
+        {
+          "url": "https://www.pcjs.org/assets/img/logo-home.png",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "",
+      "audio": [],
+      "description": "Home of the original IBM PC emulator for browsers. PCjs offers a variety of online machine emulators written in JavaScript. Run DOS, Windows, OS/2 and other vintage PC applications in a web browser on your desktop computer, iPhone, or iPad. An assortment of microcomputers, minicomputers, terminals, programmable calculators, and arcade machines are available, along with an archive of historical software and documentation.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/assets/icons/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30146843,
+    "title": "1k-cycle lithium-sulfur battery could quintuple electric vehicle ranges",
+    "url": "https://news.umich.edu/1000-cycle-lithium-sulfur-battery-could-quintuple-electric-vehicle-ranges/",
+    "time": 1643628054,
+    "image": "https://news.umich.edu/wp-content/uploads/mc-image-cache/2022/01/1000-cycle-lithium-sulfur-battery-could-quintuple-electric-vehicle-ranges-LiS-Battery-Diagram.jpg",
+    "icon": "https://news.umich.edu/favicon.ico",
+    "publisher": "University of Michigan News",
+    "description": "A new biologically inspired battery membrane has enabled a battery with five times the capacity of the industry-standard lithium ion design to run for the thousand-plus cycles needed to power an electric car.\n\nA network of aramid nanofibers, recycled from Kevlar, can enable lithium-sulfur batterie",
+    "by": "maeln",
+    "points": 42,
+    "comment_count": 10,
+    "hn_item": {
+      "by": "lowleveldesign",
+      "descendants": 60,
+      "id": 30128048,
+      "kids": [
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30144489,
+        30145419,
+        30140903,
+        30140096
+      ],
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
+      "type": "story",
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
+    },
+    "og_item": {
+      "title": "1,000-cycle lithium-sulfur battery could quintuple electric vehicle ranges",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://news.umich.edu/wp-content/uploads/mc-image-cache/2022/01/1000-cycle-lithium-sulfur-battery-could-quintuple-electric-vehicle-ranges-LiS-Battery-Diagram.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://news.umich.edu/1000-cycle-lithium-sulfur-battery-could-quintuple-electric-vehicle-ranges/",
+      "audio": [],
+      "description": "A new biologically inspired battery membrane has enabled a battery with five times the capacity of the industry-standard lithium ion design to run for the thousand-plus cycles needed to power an electric car.\n\nA network of aramid nanofibers, recycled from Kevlar, can enable lithium-sulfur batterie",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "University of Michigan News",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30144108,
     "title": "Reimagining Chess with AlphaZero",
     "url": "https://cacm.acm.org/magazines/2022/2/258230-reimagining-chess-with-alphazero/fulltext",
@@ -664,24 +768,32 @@
     "publisher": "cacm.acm.org",
     "description": "AI is driving the next evolution of chess, giving players a glimpse into the game\u0026#39;s future.",
     "by": "joak",
-    "points": 121,
+    "points": 122,
     "comment_count": 16,
     "hn_item": {
-      "by": "susam",
-      "descendants": 86,
-      "id": 30139142,
+      "by": "lowleveldesign",
+      "descendants": 60,
+      "id": 30128048,
       "kids": [
-        30139374,
-        30139359,
-        30139715,
-        30140207,
-        30139444
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30144489,
+        30145419,
+        30140903,
+        30140096
       ],
-      "score": 102,
-      "time": 1643564118,
-      "title": "SBCL: New in Version 2.2.1",
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
       "type": "story",
-      "url": "http://www.sbcl.org/all-news.html?2.2.1#2.2.1"
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
     },
     "og_item": {
       "title": "Reimagining Chess with AlphaZero",
@@ -719,24 +831,32 @@
     "publisher": "bleepingcomputer.com",
     "description": "",
     "by": "beermonster",
-    "points": 100,
+    "points": 102,
     "comment_count": 7,
     "hn_item": {
-      "by": "susam",
-      "descendants": 86,
-      "id": 30139142,
+      "by": "lowleveldesign",
+      "descendants": 60,
+      "id": 30128048,
       "kids": [
-        30139374,
-        30139359,
-        30139715,
-        30140207,
-        30139444
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30144489,
+        30145419,
+        30140903,
+        30140096
       ],
-      "score": 102,
-      "time": 1643564118,
-      "title": "SBCL: New in Version 2.2.1",
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
       "type": "story",
-      "url": "http://www.sbcl.org/all-news.html?2.2.1#2.2.1"
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
     },
     "og_item": {
       "title": "Just a moment...",
@@ -768,21 +888,29 @@
     "points": 894,
     "comment_count": 58,
     "hn_item": {
-      "by": "susam",
-      "descendants": 86,
-      "id": 30139142,
+      "by": "lowleveldesign",
+      "descendants": 60,
+      "id": 30128048,
       "kids": [
-        30139374,
-        30139359,
-        30139715,
-        30140207,
-        30139444
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30144489,
+        30145419,
+        30140903,
+        30140096
       ],
-      "score": 102,
-      "time": 1643564118,
-      "title": "SBCL: New in Version 2.2.1",
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
       "type": "story",
-      "url": "http://www.sbcl.org/all-news.html?2.2.1#2.2.1"
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
     },
     "og_item": {
       "title": "Royal Society cautions against censorship of scientific misinformation online | Royal Society",
@@ -820,24 +948,32 @@
     "publisher": "zillow.com",
     "description": "",
     "by": "otras",
-    "points": 306,
+    "points": 308,
     "comment_count": 36,
     "hn_item": {
-      "by": "susam",
-      "descendants": 86,
-      "id": 30139142,
+      "by": "lowleveldesign",
+      "descendants": 60,
+      "id": 30128048,
       "kids": [
-        30139374,
-        30139359,
-        30139715,
-        30140207,
-        30139444
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30144489,
+        30145419,
+        30140903,
+        30140096
       ],
-      "score": 102,
-      "time": 1643564118,
-      "title": "SBCL: New in Version 2.2.1",
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
       "type": "story",
-      "url": "http://www.sbcl.org/all-news.html?2.2.1#2.2.1"
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
     },
     "og_item": {
       "title": "",
@@ -869,21 +1005,29 @@
     "points": 91,
     "comment_count": 9,
     "hn_item": {
-      "by": "susam",
-      "descendants": 86,
-      "id": 30139142,
+      "by": "lowleveldesign",
+      "descendants": 60,
+      "id": 30128048,
       "kids": [
-        30139374,
-        30139359,
-        30139715,
-        30140207,
-        30139444
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30144489,
+        30145419,
+        30140903,
+        30140096
       ],
-      "score": 102,
-      "time": 1643564118,
-      "title": "SBCL: New in Version 2.2.1",
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
       "type": "story",
-      "url": "http://www.sbcl.org/all-news.html?2.2.1#2.2.1"
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
     },
     "og_item": {
       "title": "How a virus helped a woman survive a dangerous antibiotic-resistant infection",
@@ -924,21 +1068,29 @@
     "points": 118,
     "comment_count": 9,
     "hn_item": {
-      "by": "susam",
-      "descendants": 86,
-      "id": 30139142,
+      "by": "lowleveldesign",
+      "descendants": 60,
+      "id": 30128048,
       "kids": [
-        30139374,
-        30139359,
-        30139715,
-        30140207,
-        30139444
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30144489,
+        30145419,
+        30140903,
+        30140096
       ],
-      "score": 102,
-      "time": 1643564118,
-      "title": "SBCL: New in Version 2.2.1",
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
       "type": "story",
-      "url": "http://www.sbcl.org/all-news.html?2.2.1#2.2.1"
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
     },
     "og_item": {
       "title": "Hardy, Ramanujan and Taxi No. 1729",
@@ -976,24 +1128,32 @@
     "publisher": "blog.openresty.com",
     "description": "Transparent Container Tracing Efficient Stack Unwinding Analyzing Dead Processes (Core Dumps) Very Low Tracing Overhead Standard Ylang Libraries \u0026amp; Tools Network Filtering \u0026amp; Control The Ylang Compiler\u0026rsquo;s Implementation Operating System Support Contributions to Open-Source Communities",
     "by": "walterbell",
-    "points": 61,
+    "points": 62,
     "comment_count": 7,
     "hn_item": {
-      "by": "susam",
-      "descendants": 86,
-      "id": 30139142,
+      "by": "lowleveldesign",
+      "descendants": 60,
+      "id": 30128048,
       "kids": [
-        30139374,
-        30139359,
-        30139715,
-        30140207,
-        30139444
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30144489,
+        30145419,
+        30140903,
+        30140096
       ],
-      "score": 102,
-      "time": 1643564118,
-      "title": "SBCL: New in Version 2.2.1",
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
       "type": "story",
-      "url": "http://www.sbcl.org/all-news.html?2.2.1#2.2.1"
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
     },
     "og_item": {
       "title": "Ylang: Universal Language for eBPF, Stap+, GDB, and More (Part 4) - OpenResty Official Blog",
@@ -1022,24 +1182,32 @@
     "publisher": "web.archive.org",
     "description": "",
     "by": "ecliptik",
-    "points": 125,
+    "points": 126,
     "comment_count": 11,
     "hn_item": {
-      "by": "susam",
-      "descendants": 86,
-      "id": 30139142,
+      "by": "lowleveldesign",
+      "descendants": 60,
+      "id": 30128048,
       "kids": [
-        30139374,
-        30139359,
-        30139715,
-        30140207,
-        30139444
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30144489,
+        30145419,
+        30140903,
+        30140096
       ],
-      "score": 102,
-      "time": 1643564118,
-      "title": "SBCL: New in Version 2.2.1",
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
       "type": "story",
-      "url": "http://www.sbcl.org/all-news.html?2.2.1#2.2.1"
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
     },
     "og_item": {
       "title": "GameSpot's SIMply Divine: The Story of Maxis Software",
@@ -1059,6 +1227,60 @@
     }
   },
   {
+    "id": 30147379,
+    "title": "“My dishwasher won’t start until I let it update its firmware over the WiFi”",
+    "url": "https://twitter.com/isislovecruft/status/1487947074901463040",
+    "time": 1643633680,
+    "image": "",
+    "icon": "https://abs.twimg.com/favicons/twitter.2.ico",
+    "publisher": "Twitter",
+    "description": "",
+    "by": "_Microft",
+    "points": 8,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "lowleveldesign",
+      "descendants": 60,
+      "id": 30128048,
+      "kids": [
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30144489,
+        30145419,
+        30140903,
+        30140096
+      ],
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
+      "type": "story",
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
+    },
+    "og_item": {
+      "title": "",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Twitter",
+      "video": [],
+      "favicon": {
+        "url": "//abs.twimg.com/favicons/twitter.2.ico"
+      }
+    }
+  },
+  {
     "id": 30141192,
     "title": "Don't forget Microsoft",
     "url": "https://luttig.substack.com/p/dont-forget-microsoft",
@@ -1068,24 +1290,32 @@
     "publisher": "luttig.substack.com",
     "description": "Understanding the behemoth in Redmond teaches us valuable lessons in cloud infrastructure, startup strategy, and the future of software.",
     "by": "SamvitJ",
-    "points": 363,
+    "points": 367,
     "comment_count": 62,
     "hn_item": {
-      "by": "susam",
-      "descendants": 86,
-      "id": 30139142,
+      "by": "lowleveldesign",
+      "descendants": 60,
+      "id": 30128048,
       "kids": [
-        30139374,
-        30139359,
-        30139715,
-        30140207,
-        30139444
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30144489,
+        30145419,
+        30140903,
+        30140096
       ],
-      "score": 102,
-      "time": 1643564118,
-      "title": "SBCL: New in Version 2.2.1",
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
       "type": "story",
-      "url": "http://www.sbcl.org/all-news.html?2.2.1#2.2.1"
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
     },
     "og_item": {
       "title": "Don’t forget Microsoft",
@@ -1126,21 +1356,29 @@
     "points": 40,
     "comment_count": 5,
     "hn_item": {
-      "by": "susam",
-      "descendants": 86,
-      "id": 30139142,
+      "by": "lowleveldesign",
+      "descendants": 60,
+      "id": 30128048,
       "kids": [
-        30139374,
-        30139359,
-        30139715,
-        30140207,
-        30139444
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30144489,
+        30145419,
+        30140903,
+        30140096
       ],
-      "score": 102,
-      "time": 1643564118,
-      "title": "SBCL: New in Version 2.2.1",
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
       "type": "story",
-      "url": "http://www.sbcl.org/all-news.html?2.2.1#2.2.1"
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
     },
     "og_item": {
       "title": "Mesmerizing Labor - JSTOR Daily",
@@ -1169,6 +1407,60 @@
     }
   },
   {
+    "id": 30131387,
+    "title": "Game performance optimization – A practical example from Industry Idle",
+    "url": "https://ruoyusun.com/2022/01/28/game-pref.html",
+    "time": 1643496513,
+    "image": "",
+    "icon": "https://ruoyusun.com/favicon-16x16.png",
+    "publisher": "ruoyusun.com",
+    "description": "",
+    "by": "insraq",
+    "points": 87,
+    "comment_count": 10,
+    "hn_item": {
+      "by": "lowleveldesign",
+      "descendants": 60,
+      "id": 30128048,
+      "kids": [
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30144489,
+        30145419,
+        30140903,
+        30140096
+      ],
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
+      "type": "story",
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
+    },
+    "og_item": {
+      "title": "Game Performance Optimization - A Practical Example From Industry Idle",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon-16x16.png"
+      }
+    }
+  },
+  {
     "id": 30141439,
     "title": "Operation Warp Speed: A new model for industrial policy",
     "url": "https://americanaffairsjournal.org/2021/05/inside-operation-warp-speed-a-new-model-for-industrial-policy/",
@@ -1181,21 +1473,29 @@
     "points": 131,
     "comment_count": 10,
     "hn_item": {
-      "by": "susam",
-      "descendants": 86,
-      "id": 30139142,
+      "by": "lowleveldesign",
+      "descendants": 60,
+      "id": 30128048,
       "kids": [
-        30139374,
-        30139359,
-        30139715,
-        30140207,
-        30139444
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30144489,
+        30145419,
+        30140903,
+        30140096
       ],
-      "score": 102,
-      "time": 1643564118,
-      "title": "SBCL: New in Version 2.2.1",
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
       "type": "story",
-      "url": "http://www.sbcl.org/all-news.html?2.2.1#2.2.1"
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
     },
     "og_item": {
       "title": "Inside Operation Warp Speed: A New Model for Industrial Policy - American Affairs Journal",
@@ -1224,52 +1524,6 @@
     }
   },
   {
-    "id": 30131387,
-    "title": "Game performance optimization – A practical example from Industry Idle",
-    "url": "https://ruoyusun.com/2022/01/28/game-pref.html",
-    "time": 1643496513,
-    "image": "",
-    "icon": "https://ruoyusun.com/favicon-16x16.png",
-    "publisher": "ruoyusun.com",
-    "description": "",
-    "by": "insraq",
-    "points": 86,
-    "comment_count": 10,
-    "hn_item": {
-      "by": "susam",
-      "descendants": 86,
-      "id": 30139142,
-      "kids": [
-        30139374,
-        30139359,
-        30139715,
-        30140207,
-        30139444
-      ],
-      "score": 102,
-      "time": 1643564118,
-      "title": "SBCL: New in Version 2.2.1",
-      "type": "story",
-      "url": "http://www.sbcl.org/all-news.html?2.2.1#2.2.1"
-    },
-    "og_item": {
-      "title": "Game Performance Optimization - A Practical Example From Industry Idle",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon-16x16.png"
-      }
-    }
-  },
-  {
     "id": 30117500,
     "title": "Plain Geology (1921)",
     "url": "https://pubs.usgs.gov/gip/plain.html",
@@ -1282,21 +1536,29 @@
     "points": 6,
     "comment_count": 1,
     "hn_item": {
-      "by": "susam",
-      "descendants": 86,
-      "id": 30139142,
+      "by": "lowleveldesign",
+      "descendants": 60,
+      "id": 30128048,
       "kids": [
-        30139374,
-        30139359,
-        30139715,
-        30140207,
-        30139444
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30144489,
+        30145419,
+        30140903,
+        30140096
       ],
-      "score": 102,
-      "time": 1643564118,
-      "title": "SBCL: New in Version 2.2.1",
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
       "type": "story",
-      "url": "http://www.sbcl.org/all-news.html?2.2.1#2.2.1"
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
     },
     "og_item": {
       "title": "Plain Geology",
@@ -1328,21 +1590,29 @@
     "points": 591,
     "comment_count": 38,
     "hn_item": {
-      "by": "susam",
-      "descendants": 86,
-      "id": 30139142,
+      "by": "lowleveldesign",
+      "descendants": 60,
+      "id": 30128048,
       "kids": [
-        30139374,
-        30139359,
-        30139715,
-        30140207,
-        30139444
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30144489,
+        30145419,
+        30140903,
+        30140096
       ],
-      "score": 102,
-      "time": 1643564118,
-      "title": "SBCL: New in Version 2.2.1",
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
       "type": "story",
-      "url": "http://www.sbcl.org/all-news.html?2.2.1#2.2.1"
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
     },
     "og_item": {
       "title": "Bike Tire | Fahrrad-Tools.de",
@@ -1362,61 +1632,6 @@
     }
   },
   {
-    "id": 30143375,
-    "title": "Lizard scale patterns described with antiferromagnetic model",
-    "url": "https://physics.aps.org/articles/v15/s12",
-    "time": 1643592578,
-    "image": "https://physics.aps.org/assets/604d524b-147e-4667-ad05-3d568e7114b0/e12_1_thumb.png",
-    "icon": "https://cdn.journals.aps.org/development/physics/images/icons/favicon.ico",
-    "publisher": "Physics",
-    "description": "The pattern of green and black scales on an ocellated lizard can be described with the two-parameter Ising model for antiferromagnetic systems.",
-    "by": "shusaku",
-    "points": 52,
-    "comment_count": 3,
-    "hn_item": {
-      "by": "susam",
-      "descendants": 86,
-      "id": 30139142,
-      "kids": [
-        30139374,
-        30139359,
-        30139715,
-        30140207,
-        30139444
-      ],
-      "score": 102,
-      "time": 1643564118,
-      "title": "SBCL: New in Version 2.2.1",
-      "type": "story",
-      "url": "http://www.sbcl.org/all-news.html?2.2.1#2.2.1"
-    },
-    "og_item": {
-      "title": "Lizard Scale Patterns Described with Antiferromagnetic Model",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://physics.aps.org/assets/604d524b-147e-4667-ad05-3d568e7114b0/e12_1_thumb.png",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://physics.aps.org/articles/v15/s12",
-      "audio": [],
-      "description": "The pattern of green and black scales on an ocellated lizard can be described with the two-parameter Ising model for antiferromagnetic systems.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Physics",
-      "video": [],
-      "favicon": {
-        "url": "//cdn.journals.aps.org/development/physics/images/icons/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30119800,
     "title": "How the Hall Effect Still Reverberates",
     "url": "https://spectrum.ieee.org/hall-effect-sensor",
@@ -1426,24 +1641,32 @@
     "publisher": "IEEE Spectrum",
     "description": "In 1879, a physicist set the stage for efficient space propulsion",
     "by": "headalgorithm",
-    "points": 13,
+    "points": 14,
     "comment_count": 0,
     "hn_item": {
-      "by": "susam",
-      "descendants": 86,
-      "id": 30139142,
+      "by": "lowleveldesign",
+      "descendants": 60,
+      "id": 30128048,
       "kids": [
-        30139374,
-        30139359,
-        30139715,
-        30140207,
-        30139444
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30144489,
+        30145419,
+        30140903,
+        30140096
       ],
-      "score": 102,
-      "time": 1643564118,
-      "title": "SBCL: New in Version 2.2.1",
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
       "type": "story",
-      "url": "http://www.sbcl.org/all-news.html?2.2.1#2.2.1"
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
     },
     "og_item": {
       "title": "How the Hall Effect Still Reverberates",
@@ -1472,6 +1695,132 @@
     }
   },
   {
+    "id": 30147547,
+    "title": "MNT Reform laptop has fully open hardware and software–for better or worse",
+    "url": "https://arstechnica.com/gadgets/2022/01/review-mnt-reform-laptop-has-fully-open-hardware-and-software-for-better-or-worse/",
+    "time": 1643634993,
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/01/IMG_0077-760x380.jpeg",
+    "icon": "https://cdn.arstechnica.net/wp-content/themes/ars/assets/img/material-ars-db41652381.png",
+    "publisher": "Ars Technica",
+    "description": "Slow ARM CPU almost single-handedly derails an intriguing laptop experiment.",
+    "by": "leephillips",
+    "points": 4,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "lowleveldesign",
+      "descendants": 60,
+      "id": 30128048,
+      "kids": [
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30144489,
+        30145419,
+        30140903,
+        30140096
+      ],
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
+      "type": "story",
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
+    },
+    "og_item": {
+      "title": "Review: MNT Reform laptop has fully open hardware and software—for better or worse",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/01/IMG_0077-760x380.jpeg",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://arstechnica.com/gadgets/2022/01/review-mnt-reform-laptop-has-fully-open-hardware-and-software-for-better-or-worse/",
+      "audio": [],
+      "description": "Slow ARM CPU almost single-handedly derails an intriguing laptop experiment.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Ars Technica",
+      "video": [],
+      "favicon": {
+        "url": "https://cdn.arstechnica.net/wp-content/themes/ars/assets/img/material-ars-db41652381.png"
+      }
+    }
+  },
+  {
+    "id": 30143375,
+    "title": "Lizard scale patterns described with antiferromagnetic model",
+    "url": "https://physics.aps.org/articles/v15/s12",
+    "time": 1643592578,
+    "image": "https://physics.aps.org/assets/604d524b-147e-4667-ad05-3d568e7114b0/e12_1_thumb.png",
+    "icon": "https://cdn.journals.aps.org/development/physics/images/icons/favicon.ico",
+    "publisher": "Physics",
+    "description": "The pattern of green and black scales on an ocellated lizard can be described with the two-parameter Ising model for antiferromagnetic systems.",
+    "by": "shusaku",
+    "points": 53,
+    "comment_count": 3,
+    "hn_item": {
+      "by": "lowleveldesign",
+      "descendants": 60,
+      "id": 30128048,
+      "kids": [
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30144489,
+        30145419,
+        30140903,
+        30140096
+      ],
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
+      "type": "story",
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
+    },
+    "og_item": {
+      "title": "Lizard Scale Patterns Described with Antiferromagnetic Model",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://physics.aps.org/assets/604d524b-147e-4667-ad05-3d568e7114b0/e12_1_thumb.png",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://physics.aps.org/articles/v15/s12",
+      "audio": [],
+      "description": "The pattern of green and black scales on an ocellated lizard can be described with the two-parameter Ising model for antiferromagnetic systems.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Physics",
+      "video": [],
+      "favicon": {
+        "url": "//cdn.journals.aps.org/development/physics/images/icons/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30140984,
     "title": "A UX designer walks into a Tesla Bar",
     "url": "https://jenson.org/tesla/",
@@ -1481,24 +1830,32 @@
     "publisher": "jenson.org",
     "description": "",
     "by": "radley",
-    "points": 834,
+    "points": 837,
     "comment_count": 107,
     "hn_item": {
-      "by": "susam",
-      "descendants": 86,
-      "id": 30139142,
+      "by": "lowleveldesign",
+      "descendants": 60,
+      "id": 30128048,
       "kids": [
-        30139374,
-        30139359,
-        30139715,
-        30140207,
-        30139444
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30144489,
+        30145419,
+        30140903,
+        30140096
       ],
-      "score": 102,
-      "time": 1643564118,
-      "title": "SBCL: New in Version 2.2.1",
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
       "type": "story",
-      "url": "http://www.sbcl.org/all-news.html?2.2.1#2.2.1"
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
     },
     "og_item": {
       "title": "A UX designer walks into a Tesla Bar – Scott Jenson",
@@ -1530,21 +1887,29 @@
     "points": 82,
     "comment_count": 4,
     "hn_item": {
-      "by": "susam",
-      "descendants": 86,
-      "id": 30139142,
+      "by": "lowleveldesign",
+      "descendants": 60,
+      "id": 30128048,
       "kids": [
-        30139374,
-        30139359,
-        30139715,
-        30140207,
-        30139444
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30144489,
+        30145419,
+        30140903,
+        30140096
       ],
-      "score": 102,
-      "time": 1643564118,
-      "title": "SBCL: New in Version 2.2.1",
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
       "type": "story",
-      "url": "http://www.sbcl.org/all-news.html?2.2.1#2.2.1"
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
     },
     "og_item": {
       "title": "A Billion Years of Time Are Mysteriously Missing. Scientists Think They Know Why.",
@@ -1573,61 +1938,6 @@
     }
   },
   {
-    "id": 30147547,
-    "title": "MNT Reform laptop has fully open hardware and software–for better or worse",
-    "url": "https://arstechnica.com/gadgets/2022/01/review-mnt-reform-laptop-has-fully-open-hardware-and-software-for-better-or-worse/",
-    "time": 1643634993,
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/01/IMG_0077-760x380.jpeg",
-    "icon": "https://cdn.arstechnica.net/wp-content/themes/ars/assets/img/material-ars-db41652381.png",
-    "publisher": "Ars Technica",
-    "description": "Slow ARM CPU almost single-handedly derails an intriguing laptop experiment.",
-    "by": "leephillips",
-    "points": 3,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "susam",
-      "descendants": 86,
-      "id": 30139142,
-      "kids": [
-        30139374,
-        30139359,
-        30139715,
-        30140207,
-        30139444
-      ],
-      "score": 102,
-      "time": 1643564118,
-      "title": "SBCL: New in Version 2.2.1",
-      "type": "story",
-      "url": "http://www.sbcl.org/all-news.html?2.2.1#2.2.1"
-    },
-    "og_item": {
-      "title": "Review: MNT Reform laptop has fully open hardware and software—for better or worse",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/01/IMG_0077-760x380.jpeg",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://arstechnica.com/gadgets/2022/01/review-mnt-reform-laptop-has-fully-open-hardware-and-software-for-better-or-worse/",
-      "audio": [],
-      "description": "Slow ARM CPU almost single-handedly derails an intriguing laptop experiment.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Ars Technica",
-      "video": [],
-      "favicon": {
-        "url": "https://cdn.arstechnica.net/wp-content/themes/ars/assets/img/material-ars-db41652381.png"
-      }
-    }
-  },
-  {
     "id": 30142105,
     "title": "Seattle Telecommunications History Museum",
     "url": "https://www.telcomhistory.org/connections-museum-seattle/",
@@ -1640,21 +1950,29 @@
     "points": 62,
     "comment_count": 10,
     "hn_item": {
-      "by": "susam",
-      "descendants": 86,
-      "id": 30139142,
+      "by": "lowleveldesign",
+      "descendants": 60,
+      "id": 30128048,
       "kids": [
-        30139374,
-        30139359,
-        30139715,
-        30140207,
-        30139444
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30144489,
+        30145419,
+        30140903,
+        30140096
       ],
-      "score": 102,
-      "time": 1643564118,
-      "title": "SBCL: New in Version 2.2.1",
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
       "type": "story",
-      "url": "http://www.sbcl.org/all-news.html?2.2.1#2.2.1"
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
     },
     "og_item": {
       "title": "403 Forbidden",
@@ -1674,61 +1992,6 @@
     }
   },
   {
-    "id": 30142558,
-    "title": "State of the Web: Static Site Generators",
-    "url": "https://byteofdev.com/posts/static-site-generators/",
-    "time": 1643586463,
-    "image": "https://ik.imagekit.io/serenity/ByteofDev/Blog_Heading_Images/State_of_the_Web_Static_Site_Generators",
-    "icon": "https://byteofdev.com/favicon.svg",
-    "publisher": "ByteofDev",
-    "description": "Static Site Generators have been changing quickly with new trends like Jamstack. Learn more about the background of static site generators, why people use them, and the current state of them, with information on modern SSGs like Eleventy, Next.js, SvelteKit, and Astro.",
-    "by": "AsyncBanana",
-    "points": 134,
-    "comment_count": 25,
-    "hn_item": {
-      "by": "susam",
-      "descendants": 86,
-      "id": 30139142,
-      "kids": [
-        30139374,
-        30139359,
-        30139715,
-        30140207,
-        30139444
-      ],
-      "score": 102,
-      "time": 1643564118,
-      "title": "SBCL: New in Version 2.2.1",
-      "type": "story",
-      "url": "http://www.sbcl.org/all-news.html?2.2.1#2.2.1"
-    },
-    "og_item": {
-      "title": "State of the Web: Static Site Generators",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://ik.imagekit.io/serenity/ByteofDev/Blog_Heading_Images/State_of_the_Web_Static_Site_Generators",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://byteofdev.com/posts/static-site-generators/",
-      "audio": [],
-      "description": "Static Site Generators have been changing quickly with new trends like Jamstack. Learn more about the background of static site generators, why people use them, and the current state of them, with information on modern SSGs like Eleventy, Next.js, SvelteKit, and Astro.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "ByteofDev",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.svg"
-      }
-    }
-  },
-  {
     "id": 30119285,
     "title": "Devious SQL: Message Queuing Using Native PostgreSQL",
     "url": "https://blog.crunchydata.com/blog/message-queuing-using-native-postgresql",
@@ -1741,21 +2004,29 @@
     "points": 128,
     "comment_count": 11,
     "hn_item": {
-      "by": "susam",
-      "descendants": 86,
-      "id": 30139142,
+      "by": "lowleveldesign",
+      "descendants": 60,
+      "id": 30128048,
       "kids": [
-        30139374,
-        30139359,
-        30139715,
-        30140207,
-        30139444
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30144489,
+        30145419,
+        30140903,
+        30140096
       ],
-      "score": 102,
-      "time": 1643564118,
-      "title": "SBCL: New in Version 2.2.1",
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
       "type": "story",
-      "url": "http://www.sbcl.org/all-news.html?2.2.1#2.2.1"
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
     },
     "og_item": {
       "title": "Devious SQL: Message Queuing Using Native PostgreSQL",
@@ -1784,6 +2055,123 @@
     }
   },
   {
+    "id": 30142558,
+    "title": "State of the Web: Static Site Generators",
+    "url": "https://byteofdev.com/posts/static-site-generators/",
+    "time": 1643586463,
+    "image": "https://ik.imagekit.io/serenity/ByteofDev/Blog_Heading_Images/State_of_the_Web_Static_Site_Generators",
+    "icon": "https://byteofdev.com/favicon.svg",
+    "publisher": "ByteofDev",
+    "description": "Static Site Generators have been changing quickly with new trends like Jamstack. Learn more about the background of static site generators, why people use them, and the current state of them, with information on modern SSGs like Eleventy, Next.js, SvelteKit, and Astro.",
+    "by": "AsyncBanana",
+    "points": 134,
+    "comment_count": 25,
+    "hn_item": {
+      "by": "lowleveldesign",
+      "descendants": 60,
+      "id": 30128048,
+      "kids": [
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30144489,
+        30145419,
+        30140903,
+        30140096
+      ],
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
+      "type": "story",
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
+    },
+    "og_item": {
+      "title": "State of the Web: Static Site Generators",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://ik.imagekit.io/serenity/ByteofDev/Blog_Heading_Images/State_of_the_Web_Static_Site_Generators",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://byteofdev.com/posts/static-site-generators/",
+      "audio": [],
+      "description": "Static Site Generators have been changing quickly with new trends like Jamstack. Learn more about the background of static site generators, why people use them, and the current state of them, with information on modern SSGs like Eleventy, Next.js, SvelteKit, and Astro.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "ByteofDev",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.svg"
+      }
+    }
+  },
+  {
+    "id": 30128193,
+    "title": "On Immersion",
+    "url": "https://blog.laurel.world/on-immersion/",
+    "time": 1643477006,
+    "image": "",
+    "icon": "https://blog.laurel.world/favicon.ico",
+    "publisher": "blog.laurel.world",
+    "description": "",
+    "by": "artmare",
+    "points": 54,
+    "comment_count": 1,
+    "hn_item": {
+      "by": "lowleveldesign",
+      "descendants": 60,
+      "id": 30128048,
+      "kids": [
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30144489,
+        30145419,
+        30140903,
+        30140096
+      ],
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
+      "type": "story",
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
+    },
+    "og_item": {
+      "title": "A couple years ago, I created this list: immersive: walking taking a shower sleeping teaching falling in love cinema life or death experience I was curious about these amazing parts of life that feel so meaningful — like portals, where time and space take on a totally different, enchanted feeling. I remember writing this list… – blog.laurel.world",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30123592,
     "title": "Assembling Accountability, from the Ground Up (2021)",
     "url": "https://points.datasociety.net/assembling-accountability-from-the-ground-up-4655c492d0d0?gi=833242955cfa",
@@ -1796,21 +2184,29 @@
     "points": 3,
     "comment_count": 0,
     "hn_item": {
-      "by": "susam",
-      "descendants": 86,
-      "id": 30139142,
+      "by": "lowleveldesign",
+      "descendants": 60,
+      "id": 30128048,
       "kids": [
-        30139374,
-        30139359,
-        30139715,
-        30140207,
-        30139444
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30144489,
+        30145419,
+        30140903,
+        30140096
       ],
-      "score": 102,
-      "time": 1643564118,
-      "title": "SBCL: New in Version 2.2.1",
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
       "type": "story",
-      "url": "http://www.sbcl.org/all-news.html?2.2.1#2.2.1"
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
     },
     "og_item": {
       "title": "Assembling Accountability, from the Ground Up",
@@ -1839,52 +2235,6 @@
     }
   },
   {
-    "id": 30128193,
-    "title": "On Immersion",
-    "url": "https://blog.laurel.world/on-immersion/",
-    "time": 1643477006,
-    "image": "",
-    "icon": "https://blog.laurel.world/favicon.ico",
-    "publisher": "blog.laurel.world",
-    "description": "",
-    "by": "artmare",
-    "points": 54,
-    "comment_count": 1,
-    "hn_item": {
-      "by": "susam",
-      "descendants": 86,
-      "id": 30139142,
-      "kids": [
-        30139374,
-        30139359,
-        30139715,
-        30140207,
-        30139444
-      ],
-      "score": 102,
-      "time": 1643564118,
-      "title": "SBCL: New in Version 2.2.1",
-      "type": "story",
-      "url": "http://www.sbcl.org/all-news.html?2.2.1#2.2.1"
-    },
-    "og_item": {
-      "title": "A couple years ago, I created this list: immersive: walking taking a shower sleeping teaching falling in love cinema life or death experience I was curious about these amazing parts of life that feel so meaningful — like portals, where time and space take on a totally different, enchanted feeling. I remember writing this list… – blog.laurel.world",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30141171,
     "title": "Deep symbolic regression for recurrent sequences",
     "url": "http://recur-env.eba-rm3fchmn.us-east-2.elasticbeanstalk.com/",
@@ -1897,21 +2247,29 @@
     "points": 65,
     "comment_count": 13,
     "hn_item": {
-      "by": "susam",
-      "descendants": 86,
-      "id": 30139142,
+      "by": "lowleveldesign",
+      "descendants": 60,
+      "id": 30128048,
       "kids": [
-        30139374,
-        30139359,
-        30139715,
-        30140207,
-        30139444
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30144489,
+        30145419,
+        30140903,
+        30140096
       ],
-      "score": 102,
-      "time": 1643564118,
-      "title": "SBCL: New in Version 2.2.1",
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
       "type": "story",
-      "url": "http://www.sbcl.org/all-news.html?2.2.1#2.2.1"
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
     },
     "og_item": {
       "title": "Streamlit",
@@ -1931,107 +2289,6 @@
     }
   },
   {
-    "id": 30146918,
-    "title": "Qubit appeals to the honour of thieves who lifted $80M of its digi-dollars",
-    "url": "https://www.theregister.com/2022/01/31/qubit_bug_bounty/",
-    "time": 1643628811,
-    "image": "",
-    "icon": "https://www.theregister.com/favicon.ico",
-    "publisher": "theregister.com",
-    "description": "",
-    "by": "pseudolus",
-    "points": 8,
-    "comment_count": 1,
-    "hn_item": {
-      "by": "susam",
-      "descendants": 86,
-      "id": 30139142,
-      "kids": [
-        30139374,
-        30139359,
-        30139715,
-        30140207,
-        30139444
-      ],
-      "score": 102,
-      "time": 1643564118,
-      "title": "SBCL: New in Version 2.2.1",
-      "type": "story",
-      "url": "http://www.sbcl.org/all-news.html?2.2.1#2.2.1"
-    },
-    "og_item": {
-      "title": "",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30147159,
-    "title": "How Facebook Is Morphing into Meta",
-    "url": "https://www.nytimes.com/2022/01/31/technology/facebook-meta-change.html",
-    "time": 1643631642,
-    "image": "https://static01.nyt.com/images/2022/01/29/business/29facebook-pivot/29facebook-pivot-facebookJumbo.jpg",
-    "icon": "https://www.nytimes.com/vi-assets/static-assets/favicon-d2483f10ef688e6f89e23806b9700298.ico",
-    "publisher": "The New York Times",
-    "description": "Shifting a 68,000-person social networking company toward the theoretical metaverse has caused internal disruption and uncertainty.",
-    "by": "mupuff1234",
-    "points": 6,
-    "comment_count": 4,
-    "hn_item": {
-      "by": "susam",
-      "descendants": 86,
-      "id": 30139142,
-      "kids": [
-        30139374,
-        30139359,
-        30139715,
-        30140207,
-        30139444
-      ],
-      "score": 102,
-      "time": 1643564118,
-      "title": "SBCL: New in Version 2.2.1",
-      "type": "story",
-      "url": "http://www.sbcl.org/all-news.html?2.2.1#2.2.1"
-    },
-    "og_item": {
-      "title": "How Facebook Is Morphing Into Meta",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://static01.nyt.com/images/2022/01/29/business/29facebook-pivot/29facebook-pivot-facebookJumbo.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://www.nytimes.com/2022/01/31/technology/facebook-meta-change.html",
-      "audio": [],
-      "description": "Shifting a 68,000-person social networking company toward the theoretical metaverse has caused internal disruption and uncertainty.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/vi-assets/static-assets/favicon-d2483f10ef688e6f89e23806b9700298.ico"
-      }
-    }
-  },
-  {
     "id": 30111033,
     "title": "Toxic black mold is growing in my brain",
     "url": "https://www.buzzfeednews.com/article/tysonbottenus/black-mold-growing-toxic-brain-vacation",
@@ -2044,21 +2301,29 @@
     "points": 215,
     "comment_count": 10,
     "hn_item": {
-      "by": "susam",
-      "descendants": 86,
-      "id": 30139142,
+      "by": "lowleveldesign",
+      "descendants": 60,
+      "id": 30128048,
       "kids": [
-        30139374,
-        30139359,
-        30139715,
-        30140207,
-        30139444
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30144489,
+        30145419,
+        30140903,
+        30140096
       ],
-      "score": 102,
-      "time": 1643564118,
-      "title": "SBCL: New in Version 2.2.1",
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
       "type": "story",
-      "url": "http://www.sbcl.org/all-news.html?2.2.1#2.2.1"
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
     },
     "og_item": {
       "title": "Toxic Black Mold Is Growing On My Brain",
@@ -2099,21 +2364,29 @@
     "points": 11,
     "comment_count": 3,
     "hn_item": {
-      "by": "susam",
-      "descendants": 86,
-      "id": 30139142,
+      "by": "lowleveldesign",
+      "descendants": 60,
+      "id": 30128048,
       "kids": [
-        30139374,
-        30139359,
-        30139715,
-        30140207,
-        30139444
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30144489,
+        30145419,
+        30140903,
+        30140096
       ],
-      "score": 102,
-      "time": 1643564118,
-      "title": "SBCL: New in Version 2.2.1",
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
       "type": "story",
-      "url": "http://www.sbcl.org/all-news.html?2.2.1#2.2.1"
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
     },
     "og_item": {
       "title": "Will Tokens Replace Equity?",
@@ -2142,6 +2415,60 @@
     }
   },
   {
+    "id": 30146918,
+    "title": "Qubit appeals to the honour of thieves who lifted $80M of its digi-dollars",
+    "url": "https://www.theregister.com/2022/01/31/qubit_bug_bounty/",
+    "time": 1643628811,
+    "image": "",
+    "icon": "https://www.theregister.com/favicon.ico",
+    "publisher": "theregister.com",
+    "description": "",
+    "by": "pseudolus",
+    "points": 8,
+    "comment_count": 1,
+    "hn_item": {
+      "by": "lowleveldesign",
+      "descendants": 60,
+      "id": 30128048,
+      "kids": [
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30144489,
+        30145419,
+        30140903,
+        30140096
+      ],
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
+      "type": "story",
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
+    },
+    "og_item": {
+      "title": "",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30132612,
     "title": "John Locke’s recipe for Pancakes (2021)",
     "url": "https://rarecooking.com/2021/12/14/john-lockes-recipe-for-pancakes/",
@@ -2154,21 +2481,29 @@
     "points": 267,
     "comment_count": 33,
     "hn_item": {
-      "by": "susam",
-      "descendants": 86,
-      "id": 30139142,
+      "by": "lowleveldesign",
+      "descendants": 60,
+      "id": 30128048,
       "kids": [
-        30139374,
-        30139359,
-        30139715,
-        30140207,
-        30139444
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30144489,
+        30145419,
+        30140903,
+        30140096
       ],
-      "score": 102,
-      "time": 1643564118,
-      "title": "SBCL: New in Version 2.2.1",
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
       "type": "story",
-      "url": "http://www.sbcl.org/all-news.html?2.2.1#2.2.1"
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
     },
     "og_item": {
       "title": "John Locke’s recipe for Pancakes",
@@ -2197,6 +2532,69 @@
     }
   },
   {
+    "id": 30147159,
+    "title": "How Facebook Is Morphing into Meta",
+    "url": "https://www.nytimes.com/2022/01/31/technology/facebook-meta-change.html",
+    "time": 1643631642,
+    "image": "https://static01.nyt.com/images/2022/01/29/business/29facebook-pivot/29facebook-pivot-facebookJumbo.jpg",
+    "icon": "https://www.nytimes.com/vi-assets/static-assets/favicon-d2483f10ef688e6f89e23806b9700298.ico",
+    "publisher": "The New York Times",
+    "description": "Shifting a 68,000-person social networking company toward the theoretical metaverse has caused internal disruption and uncertainty.",
+    "by": "mupuff1234",
+    "points": 6,
+    "comment_count": 4,
+    "hn_item": {
+      "by": "lowleveldesign",
+      "descendants": 60,
+      "id": 30128048,
+      "kids": [
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30144489,
+        30145419,
+        30140903,
+        30140096
+      ],
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
+      "type": "story",
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
+    },
+    "og_item": {
+      "title": "How Facebook Is Morphing Into Meta",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://static01.nyt.com/images/2022/01/29/business/29facebook-pivot/29facebook-pivot-facebookJumbo.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://www.nytimes.com/2022/01/31/technology/facebook-meta-change.html",
+      "audio": [],
+      "description": "Shifting a 68,000-person social networking company toward the theoretical metaverse has caused internal disruption and uncertainty.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/vi-assets/static-assets/favicon-d2483f10ef688e6f89e23806b9700298.ico"
+      }
+    }
+  },
+  {
     "id": 30138533,
     "title": "Hypercard Simulator",
     "url": "https://hypercardsimulator.com/",
@@ -2209,21 +2607,29 @@
     "points": 219,
     "comment_count": 14,
     "hn_item": {
-      "by": "susam",
-      "descendants": 86,
-      "id": 30139142,
+      "by": "lowleveldesign",
+      "descendants": 60,
+      "id": 30128048,
       "kids": [
-        30139374,
-        30139359,
-        30139715,
-        30140207,
-        30139444
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30144489,
+        30145419,
+        30140903,
+        30140096
       ],
-      "score": 102,
-      "time": 1643564118,
-      "title": "SBCL: New in Version 2.2.1",
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
       "type": "story",
-      "url": "http://www.sbcl.org/all-news.html?2.2.1#2.2.1"
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
     },
     "og_item": {
       "title": "HyperCardSimulator",
@@ -2255,21 +2661,29 @@
     "points": 36,
     "comment_count": 7,
     "hn_item": {
-      "by": "susam",
-      "descendants": 86,
-      "id": 30139142,
+      "by": "lowleveldesign",
+      "descendants": 60,
+      "id": 30128048,
       "kids": [
-        30139374,
-        30139359,
-        30139715,
-        30140207,
-        30139444
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30144489,
+        30145419,
+        30140903,
+        30140096
       ],
-      "score": 102,
-      "time": 1643564118,
-      "title": "SBCL: New in Version 2.2.1",
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
       "type": "story",
-      "url": "http://www.sbcl.org/all-news.html?2.2.1#2.2.1"
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
     },
     "og_item": {
       "title": "Basic cryptography - the Vigenere cipher - Eric Mann's Blog",
@@ -2310,21 +2724,29 @@
     "points": 35,
     "comment_count": 3,
     "hn_item": {
-      "by": "susam",
-      "descendants": 86,
-      "id": 30139142,
+      "by": "lowleveldesign",
+      "descendants": 60,
+      "id": 30128048,
       "kids": [
-        30139374,
-        30139359,
-        30139715,
-        30140207,
-        30139444
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30144489,
+        30145419,
+        30140903,
+        30140096
       ],
-      "score": 102,
-      "time": 1643564118,
-      "title": "SBCL: New in Version 2.2.1",
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
       "type": "story",
-      "url": "http://www.sbcl.org/all-news.html?2.2.1#2.2.1"
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
     },
     "og_item": {
       "title": "GitHub - Idov31/FunctionStomping: A new shellcode injection technique. Given as C++ header or standalone Rust program.",
@@ -2365,21 +2787,29 @@
     "points": 147,
     "comment_count": 7,
     "hn_item": {
-      "by": "susam",
-      "descendants": 86,
-      "id": 30139142,
+      "by": "lowleveldesign",
+      "descendants": 60,
+      "id": 30128048,
       "kids": [
-        30139374,
-        30139359,
-        30139715,
-        30140207,
-        30139444
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30144489,
+        30145419,
+        30140903,
+        30140096
       ],
-      "score": 102,
-      "time": 1643564118,
-      "title": "SBCL: New in Version 2.2.1",
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
       "type": "story",
-      "url": "http://www.sbcl.org/all-news.html?2.2.1#2.2.1"
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
     },
     "og_item": {
       "title": "[1398] A Padlock I’d Use: Abus Granit 37RK/80 (Pick \u0026 Gut)",
@@ -2426,24 +2856,32 @@
     "publisher": "Eurogamer.net",
     "description": "",
     "by": "atombender",
-    "points": 237,
+    "points": 238,
     "comment_count": 26,
     "hn_item": {
-      "by": "susam",
-      "descendants": 86,
-      "id": 30139142,
+      "by": "lowleveldesign",
+      "descendants": 60,
+      "id": 30128048,
       "kids": [
-        30139374,
-        30139359,
-        30139715,
-        30140207,
-        30139444
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30144489,
+        30145419,
+        30140903,
+        30140096
       ],
-      "score": 102,
-      "time": 1643564118,
-      "title": "SBCL: New in Version 2.2.1",
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
       "type": "story",
-      "url": "http://www.sbcl.org/all-news.html?2.2.1#2.2.1"
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
     },
     "og_item": {
       "title": "Sega quits Japanese arcade business after 50 years",
@@ -2484,21 +2922,29 @@
     "points": 158,
     "comment_count": 13,
     "hn_item": {
-      "by": "susam",
-      "descendants": 86,
-      "id": 30139142,
+      "by": "lowleveldesign",
+      "descendants": 60,
+      "id": 30128048,
       "kids": [
-        30139374,
-        30139359,
-        30139715,
-        30140207,
-        30139444
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30144489,
+        30145419,
+        30140903,
+        30140096
       ],
-      "score": 102,
-      "time": 1643564118,
-      "title": "SBCL: New in Version 2.2.1",
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
       "type": "story",
-      "url": "http://www.sbcl.org/all-news.html?2.2.1#2.2.1"
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
     },
     "og_item": {
       "title": "leah blogs: The case of the mysterious --help directory",
@@ -2518,52 +2964,6 @@
     }
   },
   {
-    "id": 30143170,
-    "title": "How long has _ existed?",
-    "url": "https://howoldisit.glitch.me",
-    "time": 1643591138,
-    "image": "",
-    "icon": "https://howoldisit.glitch.me/code.ico",
-    "publisher": "howoldisit.glitch.me",
-    "description": "",
-    "by": "zdw",
-    "points": 18,
-    "comment_count": 3,
-    "hn_item": {
-      "by": "susam",
-      "descendants": 86,
-      "id": 30139142,
-      "kids": [
-        30139374,
-        30139359,
-        30139715,
-        30140207,
-        30139444
-      ],
-      "score": 102,
-      "time": 1643564118,
-      "title": "SBCL: New in Version 2.2.1",
-      "type": "story",
-      "url": "http://www.sbcl.org/all-news.html?2.2.1#2.2.1"
-    },
-    "og_item": {
-      "title": "You want HOW MANY years experience?!",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/code.ico"
-      }
-    }
-  },
-  {
     "id": 30138434,
     "title": "Beancount: Double-entry accounting from text files",
     "url": "https://github.com/beancount/beancount",
@@ -2576,21 +2976,29 @@
     "points": 206,
     "comment_count": 22,
     "hn_item": {
-      "by": "susam",
-      "descendants": 86,
-      "id": 30139142,
+      "by": "lowleveldesign",
+      "descendants": 60,
+      "id": 30128048,
       "kids": [
-        30139374,
-        30139359,
-        30139715,
-        30140207,
-        30139444
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30144489,
+        30145419,
+        30140903,
+        30140096
       ],
-      "score": 102,
-      "time": 1643564118,
-      "title": "SBCL: New in Version 2.2.1",
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
       "type": "story",
-      "url": "http://www.sbcl.org/all-news.html?2.2.1#2.2.1"
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
     },
     "og_item": {
       "title": "GitHub - beancount/beancount: Beancount: Double-Entry Accounting from Text Files.",
@@ -2619,6 +3027,60 @@
     }
   },
   {
+    "id": 30143170,
+    "title": "How long has _ existed?",
+    "url": "https://howoldisit.glitch.me",
+    "time": 1643591138,
+    "image": "",
+    "icon": "https://howoldisit.glitch.me/code.ico",
+    "publisher": "howoldisit.glitch.me",
+    "description": "",
+    "by": "zdw",
+    "points": 18,
+    "comment_count": 4,
+    "hn_item": {
+      "by": "lowleveldesign",
+      "descendants": 60,
+      "id": 30128048,
+      "kids": [
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30144489,
+        30145419,
+        30140903,
+        30140096
+      ],
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
+      "type": "story",
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
+    },
+    "og_item": {
+      "title": "You want HOW MANY years experience?!",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/code.ico"
+      }
+    }
+  },
+  {
     "id": 30142106,
     "title": "Yoga and meditation do not quiet the ego but instead boost self-enhancement (2018)",
     "url": "https://journals.sagepub.com/doi/abs/10.1177/0956797618764621",
@@ -2631,24 +3093,86 @@
     "points": 32,
     "comment_count": 11,
     "hn_item": {
-      "by": "susam",
-      "descendants": 86,
-      "id": 30139142,
+      "by": "lowleveldesign",
+      "descendants": 60,
+      "id": 30128048,
       "kids": [
-        30139374,
-        30139359,
-        30139715,
-        30140207,
-        30139444
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30144489,
+        30145419,
+        30140903,
+        30140096
       ],
-      "score": 102,
-      "time": 1643564118,
-      "title": "SBCL: New in Version 2.2.1",
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
       "type": "story",
-      "url": "http://www.sbcl.org/all-news.html?2.2.1#2.2.1"
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
     },
     "og_item": {
       "title": "Just a moment...",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30137681,
+    "title": "In defence of the boring web",
+    "url": "https://bastian.rieck.me/blog/posts/2022/boring/",
+    "time": 1643554351,
+    "image": "",
+    "icon": "https://bastian.rieck.me/favicon.ico",
+    "publisher": "bastian.rieck.me",
+    "description": "",
+    "by": "Topolomancer",
+    "points": 215,
+    "comment_count": 26,
+    "hn_item": {
+      "by": "lowleveldesign",
+      "descendants": 60,
+      "id": 30128048,
+      "kids": [
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30144489,
+        30145419,
+        30140903,
+        30140096
+      ],
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
+      "type": "story",
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
+    },
+    "og_item": {
+      "title": "In Defence of the Boring Web",
       "type": "",
       "image": [],
       "url": "",
@@ -2674,24 +3198,32 @@
     "publisher": "subconscious.substack.com",
     "description": "What if your notes could self-organize—from scratch notes, to draft, to finished creative work—through a stream-of-consciousness process—like dreaming? Years ago, I was part of a user study that aimed to understand how creators create. We interviewed authors, artists, students, influencers,…",
     "by": "fagnerbrack",
-    "points": 24,
+    "points": 25,
     "comment_count": 3,
     "hn_item": {
-      "by": "susam",
-      "descendants": 86,
-      "id": 30139142,
+      "by": "lowleveldesign",
+      "descendants": 60,
+      "id": 30128048,
       "kids": [
-        30139374,
-        30139359,
-        30139715,
-        30140207,
-        30139444
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30144489,
+        30145419,
+        30140903,
+        30140096
       ],
-      "score": 102,
-      "time": 1643564118,
-      "title": "SBCL: New in Version 2.2.1",
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
       "type": "story",
-      "url": "http://www.sbcl.org/all-news.html?2.2.1#2.2.1"
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
     },
     "og_item": {
       "title": "Unconscious R\u0026D",
@@ -2720,52 +3252,6 @@
     }
   },
   {
-    "id": 30137681,
-    "title": "In defence of the boring web",
-    "url": "https://bastian.rieck.me/blog/posts/2022/boring/",
-    "time": 1643554351,
-    "image": "",
-    "icon": "https://bastian.rieck.me/favicon.ico",
-    "publisher": "bastian.rieck.me",
-    "description": "",
-    "by": "Topolomancer",
-    "points": 215,
-    "comment_count": 26,
-    "hn_item": {
-      "by": "susam",
-      "descendants": 86,
-      "id": 30139142,
-      "kids": [
-        30139374,
-        30139359,
-        30139715,
-        30140207,
-        30139444
-      ],
-      "score": 102,
-      "time": 1643564118,
-      "title": "SBCL: New in Version 2.2.1",
-      "type": "story",
-      "url": "http://www.sbcl.org/all-news.html?2.2.1#2.2.1"
-    },
-    "og_item": {
-      "title": "In Defence of the Boring Web",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30131847,
     "title": "Mix and Match Mental Models",
     "url": "https://lethain.com/mental-models-mix-match/",
@@ -2778,21 +3264,29 @@
     "points": 38,
     "comment_count": 0,
     "hn_item": {
-      "by": "susam",
-      "descendants": 86,
-      "id": 30139142,
+      "by": "lowleveldesign",
+      "descendants": 60,
+      "id": 30128048,
       "kids": [
-        30139374,
-        30139359,
-        30139715,
-        30140207,
-        30139444
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30144489,
+        30145419,
+        30140903,
+        30140096
       ],
-      "score": 102,
-      "time": 1643564118,
-      "title": "SBCL: New in Version 2.2.1",
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
       "type": "story",
-      "url": "http://www.sbcl.org/all-news.html?2.2.1#2.2.1"
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
     },
     "og_item": {
       "title": "Mix and match mental models.",
@@ -2821,52 +3315,6 @@
     }
   },
   {
-    "id": 30146516,
-    "title": "Ask HN: GitHub and Bitbucket end support for password auth for CLI - Now what?",
-    "url": "https://news.ycombinator.com/item?id=30146516",
-    "time": 1643624617,
-    "image": "",
-    "icon": "https://news.ycombinator.com/favicon.ico",
-    "publisher": "Hacker News",
-    "description": "",
-    "by": "weezee",
-    "points": 5,
-    "comment_count": 4,
-    "hn_item": {
-      "by": "susam",
-      "descendants": 86,
-      "id": 30139142,
-      "kids": [
-        30139374,
-        30139359,
-        30139715,
-        30140207,
-        30139444
-      ],
-      "score": 102,
-      "time": 1643564118,
-      "title": "SBCL: New in Version 2.2.1",
-      "type": "story",
-      "url": "http://www.sbcl.org/all-news.html?2.2.1#2.2.1"
-    },
-    "og_item": {
-      "title": "Ask HN: GitHub and Bitbucket end support for password auth for CLI - Now what? | Hacker News",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30143377,
     "title": "A Simple Transformer Implementation(PyTorch) Without Difficult Syntax",
     "url": "https://github.com/IpsumDominum/Pytorch-Simple-Transformer",
@@ -2876,24 +3324,32 @@
     "publisher": "GitHub",
     "description": "A simple transformer implementation without difficult syntax and extra bells and whistles. - GitHub - IpsumDominum/Pytorch-Simple-Transformer: A simple transformer implementation without difficult ...",
     "by": "IpsumDominum",
-    "points": 16,
+    "points": 17,
     "comment_count": 1,
     "hn_item": {
-      "by": "susam",
-      "descendants": 86,
-      "id": 30139142,
+      "by": "lowleveldesign",
+      "descendants": 60,
+      "id": 30128048,
       "kids": [
-        30139374,
-        30139359,
-        30139715,
-        30140207,
-        30139444
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30144489,
+        30145419,
+        30140903,
+        30140096
       ],
-      "score": 102,
-      "time": 1643564118,
-      "title": "SBCL: New in Version 2.2.1",
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
       "type": "story",
-      "url": "http://www.sbcl.org/all-news.html?2.2.1#2.2.1"
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
     },
     "og_item": {
       "title": "GitHub - IpsumDominum/Pytorch-Simple-Transformer: A simple transformer implementation without difficult syntax and extra bells and whistles.",
@@ -2922,6 +3378,60 @@
     }
   },
   {
+    "id": 30146516,
+    "title": "Ask HN: GitHub and Bitbucket end support for password auth for CLI - Now what?",
+    "url": "https://news.ycombinator.com/item?id=30146516",
+    "time": 1643624617,
+    "image": "",
+    "icon": "https://news.ycombinator.com/favicon.ico",
+    "publisher": "Hacker News",
+    "description": "",
+    "by": "weezee",
+    "points": 5,
+    "comment_count": 4,
+    "hn_item": {
+      "by": "lowleveldesign",
+      "descendants": 60,
+      "id": 30128048,
+      "kids": [
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30144489,
+        30145419,
+        30140903,
+        30140096
+      ],
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
+      "type": "story",
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
+    },
+    "og_item": {
+      "title": "Ask HN: GitHub and Bitbucket end support for password auth for CLI - Now what? | Hacker News",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30139734,
     "title": "Show the case against",
     "url": "https://www.shubhro.com/2022/01/03/show-the-case-against/",
@@ -2934,21 +3444,29 @@
     "points": 39,
     "comment_count": 6,
     "hn_item": {
-      "by": "susam",
-      "descendants": 86,
-      "id": 30139142,
+      "by": "lowleveldesign",
+      "descendants": 60,
+      "id": 30128048,
       "kids": [
-        30139374,
-        30139359,
-        30139715,
-        30140207,
-        30139444
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30144489,
+        30145419,
+        30140903,
+        30140096
       ],
-      "score": 102,
-      "time": 1643564118,
-      "title": "SBCL: New in Version 2.2.1",
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
       "type": "story",
-      "url": "http://www.sbcl.org/all-news.html?2.2.1#2.2.1"
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
     },
     "og_item": {
       "title": "Show the case against - shubhro.com",
@@ -2980,21 +3498,29 @@
     "points": 43,
     "comment_count": 5,
     "hn_item": {
-      "by": "susam",
-      "descendants": 86,
-      "id": 30139142,
+      "by": "lowleveldesign",
+      "descendants": 60,
+      "id": 30128048,
       "kids": [
-        30139374,
-        30139359,
-        30139715,
-        30140207,
-        30139444
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30144489,
+        30145419,
+        30140903,
+        30140096
       ],
-      "score": 102,
-      "time": 1643564118,
-      "title": "SBCL: New in Version 2.2.1",
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
       "type": "story",
-      "url": "http://www.sbcl.org/all-news.html?2.2.1#2.2.1"
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
     },
     "og_item": {
       "title": "Very Remote Lisp Debugging Story - Susam's Maze",
@@ -3023,24 +3549,32 @@
     "publisher": "softpanorama.org",
     "description": "",
     "by": "ingve",
-    "points": 162,
+    "points": 163,
     "comment_count": 19,
     "hn_item": {
-      "by": "susam",
-      "descendants": 86,
-      "id": 30139142,
+      "by": "lowleveldesign",
+      "descendants": 60,
+      "id": 30128048,
       "kids": [
-        30139374,
-        30139359,
-        30139715,
-        30140207,
-        30139444
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30144489,
+        30145419,
+        30140903,
+        30140096
       ],
-      "score": 102,
-      "time": 1643564118,
-      "title": "SBCL: New in Version 2.2.1",
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
       "type": "story",
-      "url": "http://www.sbcl.org/all-news.html?2.2.1#2.2.1"
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
     },
     "og_item": {
       "title": "Midnight Commander Tips and Tricks",
@@ -3060,61 +3594,6 @@
     }
   },
   {
-    "id": 30140270,
-    "title": "When the algorithm is your boss",
-    "url": "https://tribunemag.co.uk/2022/01/amazon-algorithm-human-resource-management-tech-worker-surveillance",
-    "time": 1643570984,
-    "image": "https://images.jacobinmag.com/wp-content/uploads/sites/4/2022/01/26134053/GettyImages-454598586.jpg",
-    "icon": "https://tribunemag.co.uk/static/img/logo/logo-favicon.png",
-    "publisher": "tribunemag.co.uk",
-    "description": "At workplaces like Amazon, algorithms have become the worst kind of boss – one who watches you constantly, makes impossible demands and then sacks you without explanation.",
-    "by": "jrepinc",
-    "points": 105,
-    "comment_count": 14,
-    "hn_item": {
-      "by": "susam",
-      "descendants": 86,
-      "id": 30139142,
-      "kids": [
-        30139374,
-        30139359,
-        30139715,
-        30140207,
-        30139444
-      ],
-      "score": 102,
-      "time": 1643564118,
-      "title": "SBCL: New in Version 2.2.1",
-      "type": "story",
-      "url": "http://www.sbcl.org/all-news.html?2.2.1#2.2.1"
-    },
-    "og_item": {
-      "title": "When the Algorithm Is Your Boss",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://images.jacobinmag.com/wp-content/uploads/sites/4/2022/01/26134053/GettyImages-454598586.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://tribunemag.co.uk/2022/01/amazon-algorithm-human-resource-management-tech-worker-surveillance",
-      "audio": [],
-      "description": "At workplaces like Amazon, algorithms have become the worst kind of boss – one who watches you constantly, makes impossible demands and then sacks you without explanation.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/static/img/logo/logo-favicon.png"
-      }
-    }
-  },
-  {
     "id": 30128061,
     "title": "Nuanced communication usually doesn't work at scale",
     "url": "https://twitter.com/danluu/status/1487228574608211969",
@@ -3127,21 +3606,29 @@
     "points": 696,
     "comment_count": 70,
     "hn_item": {
-      "by": "susam",
-      "descendants": 86,
-      "id": 30139142,
+      "by": "lowleveldesign",
+      "descendants": 60,
+      "id": 30128048,
       "kids": [
-        30139374,
-        30139359,
-        30139715,
-        30140207,
-        30139444
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30144489,
+        30145419,
+        30140903,
+        30140096
       ],
-      "score": 102,
-      "time": 1643564118,
-      "title": "SBCL: New in Version 2.2.1",
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
       "type": "story",
-      "url": "http://www.sbcl.org/all-news.html?2.2.1#2.2.1"
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
     },
     "og_item": {
       "title": "",
@@ -3173,21 +3660,29 @@
     "points": 59,
     "comment_count": 6,
     "hn_item": {
-      "by": "susam",
-      "descendants": 86,
-      "id": 30139142,
+      "by": "lowleveldesign",
+      "descendants": 60,
+      "id": 30128048,
       "kids": [
-        30139374,
-        30139359,
-        30139715,
-        30140207,
-        30139444
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30144489,
+        30145419,
+        30140903,
+        30140096
       ],
-      "score": 102,
-      "time": 1643564118,
-      "title": "SBCL: New in Version 2.2.1",
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
       "type": "story",
-      "url": "http://www.sbcl.org/all-news.html?2.2.1#2.2.1"
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
     },
     "og_item": {
       "title": "How Amiga 500 RAM Probably Works | How Things Probably Work",
@@ -3225,6 +3720,69 @@
     }
   },
   {
+    "id": 30140270,
+    "title": "When the algorithm is your boss",
+    "url": "https://tribunemag.co.uk/2022/01/amazon-algorithm-human-resource-management-tech-worker-surveillance",
+    "time": 1643570984,
+    "image": "https://images.jacobinmag.com/wp-content/uploads/sites/4/2022/01/26134053/GettyImages-454598586.jpg",
+    "icon": "https://tribunemag.co.uk/static/img/logo/logo-favicon.png",
+    "publisher": "tribunemag.co.uk",
+    "description": "At workplaces like Amazon, algorithms have become the worst kind of boss – one who watches you constantly, makes impossible demands and then sacks you without explanation.",
+    "by": "jrepinc",
+    "points": 105,
+    "comment_count": 14,
+    "hn_item": {
+      "by": "lowleveldesign",
+      "descendants": 60,
+      "id": 30128048,
+      "kids": [
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30144489,
+        30145419,
+        30140903,
+        30140096
+      ],
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
+      "type": "story",
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
+    },
+    "og_item": {
+      "title": "When the Algorithm Is Your Boss",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://images.jacobinmag.com/wp-content/uploads/sites/4/2022/01/26134053/GettyImages-454598586.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://tribunemag.co.uk/2022/01/amazon-algorithm-human-resource-management-tech-worker-surveillance",
+      "audio": [],
+      "description": "At workplaces like Amazon, algorithms have become the worst kind of boss – one who watches you constantly, makes impossible demands and then sacks you without explanation.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/static/img/logo/logo-favicon.png"
+      }
+    }
+  },
+  {
     "id": 30125931,
     "title": "Fluid Simulation – Siggraph 2007 Course Notes [pdf]",
     "url": "https://www.cs.ubc.ca/~rbridson/fluidsimulation/fluids_notes.pdf",
@@ -3237,21 +3795,29 @@
     "points": 40,
     "comment_count": 6,
     "hn_item": {
-      "by": "susam",
-      "descendants": 86,
-      "id": 30139142,
+      "by": "lowleveldesign",
+      "descendants": 60,
+      "id": 30128048,
       "kids": [
-        30139374,
-        30139359,
-        30139715,
-        30140207,
-        30139444
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30144489,
+        30145419,
+        30140903,
+        30140096
       ],
-      "score": 102,
-      "time": 1643564118,
-      "title": "SBCL: New in Version 2.2.1",
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
       "type": "story",
-      "url": "http://www.sbcl.org/all-news.html?2.2.1#2.2.1"
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
     },
     "og_item": null
   },
@@ -3268,21 +3834,29 @@
     "points": 26,
     "comment_count": 2,
     "hn_item": {
-      "by": "susam",
-      "descendants": 86,
-      "id": 30139142,
+      "by": "lowleveldesign",
+      "descendants": 60,
+      "id": 30128048,
       "kids": [
-        30139374,
-        30139359,
-        30139715,
-        30140207,
-        30139444
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30144489,
+        30145419,
+        30140903,
+        30140096
       ],
-      "score": 102,
-      "time": 1643564118,
-      "title": "SBCL: New in Version 2.2.1",
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
       "type": "story",
-      "url": "http://www.sbcl.org/all-news.html?2.2.1#2.2.1"
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
     },
     "og_item": {
       "title": "The Game of War: An Overview | Alexander R. Galloway",
@@ -3311,61 +3885,6 @@
     }
   },
   {
-    "id": 30115520,
-    "title": "Pearls Before Breakfast (2007)",
-    "url": "https://www.washingtonpost.com/lifestyle/magazine/pearls-before-breakfast-can-one-of-the-nations-great-musicians-cut-through-the-fog-of-a-dc-rush-hour-lets-find-out/2014/09/23/8a6d46da-4331-11e4-b47c-f5889e061e5f_story.html",
-    "time": 1643382593,
-    "image": "https://www.washingtonpost.com/pbox.php?url=https://www.washingtonpost.com/pb/resources/img/twp-social-share.png\u0026w=1484\u0026op=resize\u0026opt=1\u0026filter=antialias\u0026t=20170517",
-    "icon": "https://www.washingtonpost.com/favicon.ico",
-    "publisher": "Washington Post",
-    "description": "Joshua Bell is one of the world’s greatest violinists. His instrument of choice is a multimillion-dollar Stradivarius. If he played it for spare change, incognito, outside a bustling Metro stop in Washington, would anyone notice?",
-    "by": "Tomte",
-    "points": 13,
-    "comment_count": 8,
-    "hn_item": {
-      "by": "susam",
-      "descendants": 86,
-      "id": 30139142,
-      "kids": [
-        30139374,
-        30139359,
-        30139715,
-        30140207,
-        30139444
-      ],
-      "score": 102,
-      "time": 1643564118,
-      "title": "SBCL: New in Version 2.2.1",
-      "type": "story",
-      "url": "http://www.sbcl.org/all-news.html?2.2.1#2.2.1"
-    },
-    "og_item": {
-      "title": "Pearls Before Breakfast: Can one of the nation’s great musicians cut through the fog of a D.C. rush hour? Let’s find out.",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://www.washingtonpost.com/pbox.php?url=https://www.washingtonpost.com/pb/resources/img/twp-social-share.png\u0026w=1484\u0026op=resize\u0026opt=1\u0026filter=antialias\u0026t=20170517",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://www.washingtonpost.com/lifestyle/magazine/pearls-before-breakfast-can-one-of-the-nations-great-musicians-cut-through-the-fog-of-a-dc-rush-hour-lets-find-out/2014/09/23/8a6d46da-4331-11e4-b47c-f5889e061e5f_story.html",
-      "audio": [],
-      "description": "Joshua Bell is one of the world’s greatest violinists. His instrument of choice is a multimillion-dollar Stradivarius. If he played it for spare change, incognito, outside a bustling Metro stop in Washington, would anyone notice?",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Washington Post",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30128379,
     "title": "Controlling RGB LEDs with only powerlines: Anatomy of a Christmas light string",
     "url": "https://cpldcpu.wordpress.com/2022/01/23/controlling-rgb-leds-with-only-the-powerlines-anatomy-of-a-christmas-light-string/",
@@ -3378,21 +3897,29 @@
     "points": 148,
     "comment_count": 7,
     "hn_item": {
-      "by": "susam",
-      "descendants": 86,
-      "id": 30139142,
+      "by": "lowleveldesign",
+      "descendants": 60,
+      "id": 30128048,
       "kids": [
-        30139374,
-        30139359,
-        30139715,
-        30140207,
-        30139444
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30144489,
+        30145419,
+        30140903,
+        30140096
       ],
-      "score": 102,
-      "time": 1643564118,
-      "title": "SBCL: New in Version 2.2.1",
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
       "type": "story",
-      "url": "http://www.sbcl.org/all-news.html?2.2.1#2.2.1"
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
     },
     "og_item": {
       "title": "Controlling RGB LEDs With Only the Powerlines: Anatomy of a Christmas Light String",
@@ -3421,6 +3948,69 @@
     }
   },
   {
+    "id": 30115520,
+    "title": "Pearls Before Breakfast (2007)",
+    "url": "https://www.washingtonpost.com/lifestyle/magazine/pearls-before-breakfast-can-one-of-the-nations-great-musicians-cut-through-the-fog-of-a-dc-rush-hour-lets-find-out/2014/09/23/8a6d46da-4331-11e4-b47c-f5889e061e5f_story.html",
+    "time": 1643382593,
+    "image": "https://www.washingtonpost.com/pbox.php?url=https://www.washingtonpost.com/pb/resources/img/twp-social-share.png\u0026w=1484\u0026op=resize\u0026opt=1\u0026filter=antialias\u0026t=20170517",
+    "icon": "https://www.washingtonpost.com/favicon.ico",
+    "publisher": "Washington Post",
+    "description": "Joshua Bell is one of the world’s greatest violinists. His instrument of choice is a multimillion-dollar Stradivarius. If he played it for spare change, incognito, outside a bustling Metro stop in Washington, would anyone notice?",
+    "by": "Tomte",
+    "points": 13,
+    "comment_count": 8,
+    "hn_item": {
+      "by": "lowleveldesign",
+      "descendants": 60,
+      "id": 30128048,
+      "kids": [
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30144489,
+        30145419,
+        30140903,
+        30140096
+      ],
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
+      "type": "story",
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
+    },
+    "og_item": {
+      "title": "Pearls Before Breakfast: Can one of the nation’s great musicians cut through the fog of a D.C. rush hour? Let’s find out.",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://www.washingtonpost.com/pbox.php?url=https://www.washingtonpost.com/pb/resources/img/twp-social-share.png\u0026w=1484\u0026op=resize\u0026opt=1\u0026filter=antialias\u0026t=20170517",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://www.washingtonpost.com/lifestyle/magazine/pearls-before-breakfast-can-one-of-the-nations-great-musicians-cut-through-the-fog-of-a-dc-rush-hour-lets-find-out/2014/09/23/8a6d46da-4331-11e4-b47c-f5889e061e5f_story.html",
+      "audio": [],
+      "description": "Joshua Bell is one of the world’s greatest violinists. His instrument of choice is a multimillion-dollar Stradivarius. If he played it for spare change, incognito, outside a bustling Metro stop in Washington, would anyone notice?",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Washington Post",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30110679,
     "title": "Bringing Ancient Pottery to Life",
     "url": "https://news.harvard.edu/gazette/story/2021/09/harvard-ceramics-program-recreates-art-museums-pieces/",
@@ -3433,21 +4023,29 @@
     "points": 15,
     "comment_count": 1,
     "hn_item": {
-      "by": "susam",
-      "descendants": 86,
-      "id": 30139142,
+      "by": "lowleveldesign",
+      "descendants": 60,
+      "id": 30128048,
       "kids": [
-        30139374,
-        30139359,
-        30139715,
-        30140207,
-        30139444
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30144489,
+        30145419,
+        30140903,
+        30140096
       ],
-      "score": 102,
-      "time": 1643564118,
-      "title": "SBCL: New in Version 2.2.1",
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
       "type": "story",
-      "url": "http://www.sbcl.org/all-news.html?2.2.1#2.2.1"
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
     },
     "og_item": {
       "title": "Harvard ceramics program recreates Art Museums’ pieces",
@@ -3488,21 +4086,29 @@
     "points": 82,
     "comment_count": 13,
     "hn_item": {
-      "by": "susam",
-      "descendants": 86,
-      "id": 30139142,
+      "by": "lowleveldesign",
+      "descendants": 60,
+      "id": 30128048,
       "kids": [
-        30139374,
-        30139359,
-        30139715,
-        30140207,
-        30139444
+        30141402,
+        30141034,
+        30141162,
+        30140452,
+        30141094,
+        30143338,
+        30144500,
+        30144278,
+        30144460,
+        30144489,
+        30145419,
+        30140903,
+        30140096
       ],
-      "score": 102,
-      "time": 1643564118,
-      "title": "SBCL: New in Version 2.2.1",
+      "score": 82,
+      "time": 1643476281,
+      "title": "COM+ Revisited",
       "type": "story",
-      "url": "http://www.sbcl.org/all-news.html?2.2.1#2.2.1"
+      "url": "https://lowleveldesign.org/2022/01/17/com-revisited/"
     },
     "og_item": {
       "title": "COM+ revisited",
@@ -3527,52 +4133,6 @@
       "video": [],
       "favicon": {
         "url": "https://lowleveldesign.files.wordpress.com/2019/01/cropped-site_logo-1.png?w=192"
-      }
-    }
-  },
-  {
-    "id": 30139142,
-    "title": "SBCL: New in Version 2.2.1",
-    "url": "http://www.sbcl.org/all-news.html?2.2.1#2.2.1",
-    "time": 1643564118,
-    "image": "",
-    "icon": "",
-    "publisher": "sbcl.org",
-    "description": "",
-    "by": "susam",
-    "points": 102,
-    "comment_count": 5,
-    "hn_item": {
-      "by": "susam",
-      "descendants": 86,
-      "id": 30139142,
-      "kids": [
-        30139374,
-        30139359,
-        30139715,
-        30140207,
-        30139444
-      ],
-      "score": 102,
-      "time": 1643564118,
-      "title": "SBCL: New in Version 2.2.1",
-      "type": "story",
-      "url": "http://www.sbcl.org/all-news.html?2.2.1#2.2.1"
-    },
-    "og_item": {
-      "title": "All News - Steel Bank Common Lisp",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
       }
     }
   }
