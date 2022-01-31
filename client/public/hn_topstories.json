@@ -9,11 +9,11 @@
     "publisher": "royalsociety.org",
     "description": "The Online Information Environment report discusses how to limit the harm of scientific misinformation online",
     "by": "steelstraw",
-    "points": 670,
+    "points": 683,
     "comment_count": 43,
     "hn_item": {
       "by": "camnora",
-      "descendants": 24,
+      "descendants": 25,
       "id": 30138468,
       "kids": [
         30140217,
@@ -58,7 +58,7 @@
   },
   {
     "id": 30144652,
-    "title": "Zero-copy network transmission with io_uring",
+    "title": "Zero-copy network transmission with io_uring (2021)",
     "url": "https://lwn.net/Articles/879724/",
     "time": 1643605041,
     "image": "",
@@ -66,11 +66,11 @@
     "publisher": "lwn.net",
     "description": "",
     "by": "pabs3",
-    "points": 73,
-    "comment_count": 4,
+    "points": 81,
+    "comment_count": 5,
     "hn_item": {
       "by": "camnora",
-      "descendants": 24,
+      "descendants": 25,
       "id": 30138468,
       "kids": [
         30140217,
@@ -114,11 +114,11 @@
     "publisher": "MathOverflow",
     "description": "The first thing to say is that this is not the same as the question about interesting mathematical mistakes. I am interested about the type of false beliefs that many intelligent people have while ...",
     "by": "gballan",
-    "points": 54,
+    "points": 55,
     "comment_count": 4,
     "hn_item": {
       "by": "camnora",
-      "descendants": 24,
+      "descendants": 25,
       "id": 30138468,
       "kids": [
         30140217,
@@ -171,11 +171,11 @@
     "publisher": "theregister.com",
     "description": "",
     "by": "laktak",
-    "points": 65,
+    "points": 67,
     "comment_count": 6,
     "hn_item": {
       "by": "camnora",
-      "descendants": 24,
+      "descendants": 25,
       "id": 30138468,
       "kids": [
         30140217,
@@ -219,11 +219,11 @@
     "publisher": "Medium",
     "description": "My journey on finding and reporting databases with sensitive data about Fortune-500 companies, Hospitals, Crypto platforms, Startups during…",
     "by": "boyter",
-    "points": 98,
+    "points": 104,
     "comment_count": 12,
     "hn_item": {
       "by": "camnora",
-      "descendants": 24,
+      "descendants": 25,
       "id": 30138468,
       "kids": [
         30140217,
@@ -276,11 +276,11 @@
     "publisher": "cacm.acm.org",
     "description": "AI is driving the next evolution of chess, giving players a glimpse into the game\u0026#39;s future.",
     "by": "joak",
-    "points": 78,
+    "points": 79,
     "comment_count": 9,
     "hn_item": {
       "by": "camnora",
-      "descendants": 24,
+      "descendants": 25,
       "id": 30138468,
       "kids": [
         30140217,
@@ -333,11 +333,11 @@
     "publisher": "zillow.com",
     "description": "",
     "by": "otras",
-    "points": 248,
+    "points": 250,
     "comment_count": 33,
     "hn_item": {
       "by": "camnora",
-      "descendants": 24,
+      "descendants": 25,
       "id": 30138468,
       "kids": [
         30140217,
@@ -381,11 +381,11 @@
     "publisher": "mattferraro.dev",
     "description": "What does it mean to invert a shape?",
     "by": "mferraro89",
-    "points": 49,
+    "points": 50,
     "comment_count": 7,
     "hn_item": {
       "by": "camnora",
-      "descendants": 24,
+      "descendants": 25,
       "id": 30138468,
       "kids": [
         30140217,
@@ -438,11 +438,11 @@
     "publisher": "blog.thomaspuppe.de",
     "description": "",
     "by": "indigodaddy",
-    "points": 9,
-    "comment_count": 1,
+    "points": 12,
+    "comment_count": 2,
     "hn_item": {
       "by": "camnora",
-      "descendants": 24,
+      "descendants": 25,
       "id": 30138468,
       "kids": [
         30140217,
@@ -471,11 +471,11 @@
     "publisher": "Azimuth",
     "description": "In his book Ramanujan: Twelve Lectures on Subjects Suggested by His Life and Work, G. H. Hardy tells this famous story: He could remember the idiosyncracies of numbers in an almost uncanny way. It …",
     "by": "johncarlosbaez",
-    "points": 85,
+    "points": 87,
     "comment_count": 7,
     "hn_item": {
       "by": "camnora",
-      "descendants": 24,
+      "descendants": 25,
       "id": 30138468,
       "kids": [
         30140217,
@@ -528,11 +528,11 @@
     "publisher": "JSTOR Daily",
     "description": "The man who introduced mesmerism to the US was a slave-owner from Guadeloupe, where planters were experimenting with “magnetizing” their enslaved people.",
     "by": "onychomys",
-    "points": 30,
+    "points": 31,
     "comment_count": 3,
     "hn_item": {
       "by": "camnora",
-      "descendants": 24,
+      "descendants": 25,
       "id": 30138468,
       "kids": [
         30140217,
@@ -576,54 +576,6 @@
     }
   },
   {
-    "id": 30143587,
-    "title": "Ylang: Universal Language for eBPF, Stap+, GDB, and More (2021)",
-    "url": "https://blog.openresty.com/en/ylang-intro-part4/",
-    "time": 1643594248,
-    "image": "",
-    "icon": "https://blog.openresty.com/favicon-16x16.png",
-    "publisher": "blog.openresty.com",
-    "description": "Transparent Container Tracing Efficient Stack Unwinding Analyzing Dead Processes (Core Dumps) Very Low Tracing Overhead Standard Ylang Libraries \u0026amp; Tools Network Filtering \u0026amp; Control The Ylang Compiler\u0026rsquo;s Implementation Operating System Support Contributions to Open-Source Communities",
-    "by": "walterbell",
-    "points": 37,
-    "comment_count": 4,
-    "hn_item": {
-      "by": "camnora",
-      "descendants": 24,
-      "id": 30138468,
-      "kids": [
-        30140217,
-        30139229,
-        30138770,
-        30139945,
-        30139640,
-        30139547,
-        30140997
-      ],
-      "score": 102,
-      "time": 1643559712,
-      "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
-      "type": "story",
-      "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
-    },
-    "og_item": {
-      "title": "Ylang: Universal Language for eBPF, Stap+, GDB, and More (Part 4) - OpenResty Official Blog",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": " Transparent Container Tracing Efficient Stack Unwinding Analyzing Dead Processes (Core Dumps) Very Low Tracing Overhead Standard Ylang Libraries \u0026amp; Tools Network Filtering \u0026amp; Control The Ylang Compiler\u0026rsquo;s Implementation Operating System Support Contributions to Open-Source Communities  ",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon-16x16.png"
-      }
-    }
-  },
-  {
     "id": 30114617,
     "title": "A virus helped a woman survive a dangerous antibiotic-resistant infection",
     "url": "https://english.elpais.com/usa/2022-01-27/how-a-virus-helped-a-woman-survive-a-dangerous-antibiotic-resistant-infection.html",
@@ -633,11 +585,11 @@
     "publisher": "EL PAÍS English Edition",
     "description": "Doctors in Belgium explain how they saved a bomb attack victim who had been struggling with one of the most virulent bacterial pathogens in the world",
     "by": "belter",
-    "points": 12,
+    "points": 16,
     "comment_count": 1,
     "hn_item": {
       "by": "camnora",
-      "descendants": 24,
+      "descendants": 25,
       "id": 30138468,
       "kids": [
         30140217,
@@ -690,11 +642,11 @@
     "publisher": "leahneukirchen.org",
     "description": "",
     "by": "panic",
-    "points": 143,
+    "points": 144,
     "comment_count": 11,
     "hn_item": {
       "by": "camnora",
-      "descendants": 24,
+      "descendants": 25,
       "id": 30138468,
       "kids": [
         30140217,
@@ -729,6 +681,54 @@
     }
   },
   {
+    "id": 30143587,
+    "title": "Ylang: Universal Language for eBPF, Stap+, GDB, and More (2021)",
+    "url": "https://blog.openresty.com/en/ylang-intro-part4/",
+    "time": 1643594248,
+    "image": "",
+    "icon": "https://blog.openresty.com/favicon-16x16.png",
+    "publisher": "blog.openresty.com",
+    "description": "Transparent Container Tracing Efficient Stack Unwinding Analyzing Dead Processes (Core Dumps) Very Low Tracing Overhead Standard Ylang Libraries \u0026amp; Tools Network Filtering \u0026amp; Control The Ylang Compiler\u0026rsquo;s Implementation Operating System Support Contributions to Open-Source Communities",
+    "by": "walterbell",
+    "points": 37,
+    "comment_count": 4,
+    "hn_item": {
+      "by": "camnora",
+      "descendants": 25,
+      "id": 30138468,
+      "kids": [
+        30140217,
+        30139229,
+        30138770,
+        30139945,
+        30139640,
+        30139547,
+        30140997
+      ],
+      "score": 102,
+      "time": 1643559712,
+      "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
+      "type": "story",
+      "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
+    },
+    "og_item": {
+      "title": "Ylang: Universal Language for eBPF, Stap+, GDB, and More (Part 4) - OpenResty Official Blog",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": " Transparent Container Tracing Efficient Stack Unwinding Analyzing Dead Processes (Core Dumps) Very Low Tracing Overhead Standard Ylang Libraries \u0026amp; Tools Network Filtering \u0026amp; Control The Ylang Compiler\u0026rsquo;s Implementation Operating System Support Contributions to Open-Source Communities  ",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon-16x16.png"
+      }
+    }
+  },
+  {
     "id": 30141278,
     "title": "The Story of Maxis Software (1999)",
     "url": "https://web.archive.org/web/19991012021220/http://gamespot.com/features/maxis/index.html",
@@ -742,7 +742,7 @@
     "comment_count": 9,
     "hn_item": {
       "by": "camnora",
-      "descendants": 24,
+      "descendants": 25,
       "id": 30138468,
       "kids": [
         30140217,
@@ -786,11 +786,11 @@
     "publisher": "Physics",
     "description": "The pattern of green and black scales on an ocellated lizard can be described with the two-parameter Ising model for antiferromagnetic systems.",
     "by": "shusaku",
-    "points": 39,
+    "points": 40,
     "comment_count": 3,
     "hn_item": {
       "by": "camnora",
-      "descendants": 24,
+      "descendants": 25,
       "id": 30138468,
       "kids": [
         30140217,
@@ -834,63 +834,6 @@
     }
   },
   {
-    "id": 30142558,
-    "title": "State of the Web: Static Site Generators",
-    "url": "https://byteofdev.com/posts/static-site-generators/",
-    "time": 1643586463,
-    "image": "https://ik.imagekit.io/serenity/ByteofDev/Blog_Heading_Images/State_of_the_Web_Static_Site_Generators",
-    "icon": "https://byteofdev.com/favicon.svg",
-    "publisher": "ByteofDev",
-    "description": "Static Site Generators have been changing quickly with new trends like Jamstack. Learn more about the background of static site generators, why people use them, and the current state of them, with information on modern SSGs like Eleventy, Next.js, SvelteKit, and Astro.",
-    "by": "AsyncBanana",
-    "points": 94,
-    "comment_count": 14,
-    "hn_item": {
-      "by": "camnora",
-      "descendants": 24,
-      "id": 30138468,
-      "kids": [
-        30140217,
-        30139229,
-        30138770,
-        30139945,
-        30139640,
-        30139547,
-        30140997
-      ],
-      "score": 102,
-      "time": 1643559712,
-      "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
-      "type": "story",
-      "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
-    },
-    "og_item": {
-      "title": "State of the Web: Static Site Generators",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://ik.imagekit.io/serenity/ByteofDev/Blog_Heading_Images/State_of_the_Web_Static_Site_Generators",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://byteofdev.com/posts/static-site-generators/",
-      "audio": [],
-      "description": "Static Site Generators have been changing quickly with new trends like Jamstack. Learn more about the background of static site generators, why people use them, and the current state of them, with information on modern SSGs like Eleventy, Next.js, SvelteKit, and Astro.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "ByteofDev",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.svg"
-      }
-    }
-  },
-  {
     "id": 30141192,
     "title": "Don't forget Microsoft",
     "url": "https://luttig.substack.com/p/dont-forget-microsoft",
@@ -900,11 +843,11 @@
     "publisher": "luttig.substack.com",
     "description": "Understanding the behemoth in Redmond teaches us valuable lessons in cloud infrastructure, startup strategy, and the future of software.",
     "by": "SamvitJ",
-    "points": 282,
+    "points": 286,
     "comment_count": 50,
     "hn_item": {
       "by": "camnora",
-      "descendants": 24,
+      "descendants": 25,
       "id": 30138468,
       "kids": [
         30140217,
@@ -948,6 +891,63 @@
     }
   },
   {
+    "id": 30142558,
+    "title": "State of the Web: Static Site Generators",
+    "url": "https://byteofdev.com/posts/static-site-generators/",
+    "time": 1643586463,
+    "image": "https://ik.imagekit.io/serenity/ByteofDev/Blog_Heading_Images/State_of_the_Web_Static_Site_Generators",
+    "icon": "https://byteofdev.com/favicon.svg",
+    "publisher": "ByteofDev",
+    "description": "Static Site Generators have been changing quickly with new trends like Jamstack. Learn more about the background of static site generators, why people use them, and the current state of them, with information on modern SSGs like Eleventy, Next.js, SvelteKit, and Astro.",
+    "by": "AsyncBanana",
+    "points": 96,
+    "comment_count": 14,
+    "hn_item": {
+      "by": "camnora",
+      "descendants": 25,
+      "id": 30138468,
+      "kids": [
+        30140217,
+        30139229,
+        30138770,
+        30139945,
+        30139640,
+        30139547,
+        30140997
+      ],
+      "score": 102,
+      "time": 1643559712,
+      "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
+      "type": "story",
+      "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
+    },
+    "og_item": {
+      "title": "State of the Web: Static Site Generators",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://ik.imagekit.io/serenity/ByteofDev/Blog_Heading_Images/State_of_the_Web_Static_Site_Generators",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://byteofdev.com/posts/static-site-generators/",
+      "audio": [],
+      "description": "Static Site Generators have been changing quickly with new trends like Jamstack. Learn more about the background of static site generators, why people use them, and the current state of them, with information on modern SSGs like Eleventy, Next.js, SvelteKit, and Astro.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "ByteofDev",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.svg"
+      }
+    }
+  },
+  {
     "id": 30141439,
     "title": "Operation Warp Speed: A new model for industrial policy",
     "url": "https://americanaffairsjournal.org/2021/05/inside-operation-warp-speed-a-new-model-for-industrial-policy/",
@@ -961,7 +961,7 @@
     "comment_count": 9,
     "hn_item": {
       "by": "camnora",
-      "descendants": 24,
+      "descendants": 25,
       "id": 30138468,
       "kids": [
         30140217,
@@ -1014,11 +1014,11 @@
     "publisher": "fahrrad-tools.de",
     "description": "Which tire fits my bike? Tires are always flat and now buy a tire with puncture protection? Find the right tire now!",
     "by": "moasda",
-    "points": 564,
+    "points": 565,
     "comment_count": 37,
     "hn_item": {
       "by": "camnora",
-      "descendants": 24,
+      "descendants": 25,
       "id": 30138468,
       "kids": [
         30140217,
@@ -1053,102 +1053,6 @@
     }
   },
   {
-    "id": 30131387,
-    "title": "Game performance optimization – A practical example from Industry Idle",
-    "url": "https://ruoyusun.com/2022/01/28/game-pref.html",
-    "time": 1643496513,
-    "image": "",
-    "icon": "https://ruoyusun.com/favicon-16x16.png",
-    "publisher": "ruoyusun.com",
-    "description": "",
-    "by": "insraq",
-    "points": 56,
-    "comment_count": 4,
-    "hn_item": {
-      "by": "camnora",
-      "descendants": 24,
-      "id": 30138468,
-      "kids": [
-        30140217,
-        30139229,
-        30138770,
-        30139945,
-        30139640,
-        30139547,
-        30140997
-      ],
-      "score": 102,
-      "time": 1643559712,
-      "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
-      "type": "story",
-      "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
-    },
-    "og_item": {
-      "title": "Game Performance Optimization - A Practical Example From Industry Idle",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon-16x16.png"
-      }
-    }
-  },
-  {
-    "id": 30140984,
-    "title": "A UX designer walks into a Tesla Bar",
-    "url": "https://jenson.org/tesla/",
-    "time": 1643576121,
-    "image": "",
-    "icon": "https://jenson.org/wp-content/uploads/2015/09/out-200x200.png",
-    "publisher": "jenson.org",
-    "description": "",
-    "by": "radley",
-    "points": 727,
-    "comment_count": 95,
-    "hn_item": {
-      "by": "camnora",
-      "descendants": 24,
-      "id": 30138468,
-      "kids": [
-        30140217,
-        30139229,
-        30138770,
-        30139945,
-        30139640,
-        30139547,
-        30140997
-      ],
-      "score": 102,
-      "time": 1643559712,
-      "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
-      "type": "story",
-      "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
-    },
-    "og_item": {
-      "title": "A UX designer walks into a Tesla Bar – Scott Jenson",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "https://jenson.org/wp-content/uploads/2015/09/out-200x200.png"
-      }
-    }
-  },
-  {
     "id": 30128193,
     "title": "On Immersion",
     "url": "https://blog.laurel.world/on-immersion/",
@@ -1158,11 +1062,11 @@
     "publisher": "blog.laurel.world",
     "description": "",
     "by": "artmare",
-    "points": 38,
+    "points": 39,
     "comment_count": 0,
     "hn_item": {
       "by": "camnora",
-      "descendants": 24,
+      "descendants": 25,
       "id": 30138468,
       "kids": [
         30140217,
@@ -1197,6 +1101,102 @@
     }
   },
   {
+    "id": 30140984,
+    "title": "A UX designer walks into a Tesla Bar",
+    "url": "https://jenson.org/tesla/",
+    "time": 1643576121,
+    "image": "",
+    "icon": "https://jenson.org/wp-content/uploads/2015/09/out-200x200.png",
+    "publisher": "jenson.org",
+    "description": "",
+    "by": "radley",
+    "points": 735,
+    "comment_count": 96,
+    "hn_item": {
+      "by": "camnora",
+      "descendants": 25,
+      "id": 30138468,
+      "kids": [
+        30140217,
+        30139229,
+        30138770,
+        30139945,
+        30139640,
+        30139547,
+        30140997
+      ],
+      "score": 102,
+      "time": 1643559712,
+      "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
+      "type": "story",
+      "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
+    },
+    "og_item": {
+      "title": "A UX designer walks into a Tesla Bar – Scott Jenson",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "https://jenson.org/wp-content/uploads/2015/09/out-200x200.png"
+      }
+    }
+  },
+  {
+    "id": 30131387,
+    "title": "Game performance optimization – A practical example from Industry Idle",
+    "url": "https://ruoyusun.com/2022/01/28/game-pref.html",
+    "time": 1643496513,
+    "image": "",
+    "icon": "https://ruoyusun.com/favicon-16x16.png",
+    "publisher": "ruoyusun.com",
+    "description": "",
+    "by": "insraq",
+    "points": 57,
+    "comment_count": 4,
+    "hn_item": {
+      "by": "camnora",
+      "descendants": 25,
+      "id": 30138468,
+      "kids": [
+        30140217,
+        30139229,
+        30138770,
+        30139945,
+        30139640,
+        30139547,
+        30140997
+      ],
+      "score": 102,
+      "time": 1643559712,
+      "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
+      "type": "story",
+      "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
+    },
+    "og_item": {
+      "title": "Game Performance Optimization - A Practical Example From Industry Idle",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon-16x16.png"
+      }
+    }
+  },
+  {
     "id": 30140464,
     "title": "The Great Unconformity: Research points to glaciers being the culprit",
     "url": "https://www.vice.com/en/article/wxdzzb/a-billion-years-of-time-are-mysteriously-missing-scientists-think-they-know-why",
@@ -1206,11 +1206,11 @@
     "publisher": "Vice",
     "description": "The Great Unconformity has baffled geologists for a century. New research points to glaciers being the culprit.",
     "by": "cbkeller",
-    "points": 76,
+    "points": 77,
     "comment_count": 4,
     "hn_item": {
       "by": "camnora",
-      "descendants": 24,
+      "descendants": 25,
       "id": 30138468,
       "kids": [
         30140217,
@@ -1267,7 +1267,7 @@
     "comment_count": 9,
     "hn_item": {
       "by": "camnora",
-      "descendants": 24,
+      "descendants": 25,
       "id": 30138468,
       "kids": [
         30140217,
@@ -1311,11 +1311,11 @@
     "publisher": "BBC News",
     "description": "The bottle Joanna Buchan dropped in the sea at Peterhead when she was eight has washed up in Norway.",
     "by": "LinuxBender",
-    "points": 102,
+    "points": 103,
     "comment_count": 11,
     "hn_item": {
       "by": "camnora",
-      "descendants": 24,
+      "descendants": 25,
       "id": 30138468,
       "kids": [
         30140217,
@@ -1368,11 +1368,11 @@
     "publisher": "tribunemag.co.uk",
     "description": "At workplaces like Amazon, algorithms have become the worst kind of boss – one who watches you constantly, makes impossible demands and then sacks you without explanation.",
     "by": "jrepinc",
-    "points": 90,
+    "points": 91,
     "comment_count": 13,
     "hn_item": {
       "by": "camnora",
-      "descendants": 24,
+      "descendants": 25,
       "id": 30138468,
       "kids": [
         30140217,
@@ -1429,7 +1429,7 @@
     "comment_count": 0,
     "hn_item": {
       "by": "camnora",
-      "descendants": 24,
+      "descendants": 25,
       "id": 30138468,
       "kids": [
         30140217,
@@ -1482,11 +1482,11 @@
     "publisher": "TechCrunch",
     "description": "Today’s cars are dumb where they should be smart, and smart where they should be dumb. Enough already. Make a car that’s pretty much all dumb and watch it sell — because what automakers are giving people is so bad, they’ll pay more to have less of it. Cars now are like budget smar…",
     "by": "wrycoder",
-    "points": 72,
-    "comment_count": 16,
+    "points": 76,
+    "comment_count": 17,
     "hn_item": {
       "by": "camnora",
-      "descendants": 24,
+      "descendants": 25,
       "id": 30138468,
       "kids": [
         30140217,
@@ -1543,7 +1543,7 @@
     "comment_count": 13,
     "hn_item": {
       "by": "camnora",
-      "descendants": 24,
+      "descendants": 25,
       "id": 30138468,
       "kids": [
         30140217,
@@ -1591,7 +1591,7 @@
     "comment_count": 13,
     "hn_item": {
       "by": "camnora",
-      "descendants": 24,
+      "descendants": 25,
       "id": 30138468,
       "kids": [
         30140217,
@@ -1648,7 +1648,7 @@
     "comment_count": 41,
     "hn_item": {
       "by": "camnora",
-      "descendants": 24,
+      "descendants": 25,
       "id": 30138468,
       "kids": [
         30140217,
@@ -1701,11 +1701,11 @@
     "publisher": "blog.crunchydata.com",
     "description": "An interesting question came up on the #postgresql IRC channel about how to use native PostgreSQL features to handle some sort of queuing behavior. While the specific usage was related to handling serialization of specific events to some external broker, the specifics are less important than the …",
     "by": "Scramblejams",
-    "points": 119,
+    "points": 120,
     "comment_count": 9,
     "hn_item": {
       "by": "camnora",
-      "descendants": 24,
+      "descendants": 25,
       "id": 30138468,
       "kids": [
         30140217,
@@ -1749,20 +1749,20 @@
     }
   },
   {
-    "id": 30142247,
-    "title": "Basic Cryptography – The Vigenere Cipher",
-    "url": "https://eric.mann.blog/basic-cryptography-the-vigenere-cipher/",
-    "time": 1643584323,
-    "image": "https://i0.wp.com/eric.mann.blog/wp-content/uploads/2022/01/fig-29-01-2022_17-52-02.jpg?fit=1500%2C900\u0026ssl=1",
-    "icon": "https://i0.wp.com/eric.mann.blog/wp-content/uploads/2021/12/cropped-00100sPORTRAIT_00100_BURST20190126115324341_COVER-scaled-1.jpg?fit=192%2C192\u0026ssl=1",
-    "publisher": "Eric Mann's Blog",
-    "description": "The Vigenere cipher is more complicated that the Caesar cipher but based on the same idea. It uses a running key to keep your message secure.",
-    "by": "eamann",
-    "points": 30,
-    "comment_count": 6,
+    "id": 30144673,
+    "title": "Will Tokens Replace Equity?",
+    "url": "https://every.to/napkin-math/will-tokens-replace-equity",
+    "time": 1643605204,
+    "image": "https://d24ovhgu8s7341.cloudfront.net/uploads/post/cover/2019/Screen_Shot_2022-01-27_at_1.43.25_PM.png",
+    "icon": "https://every.to/favicon.ico",
+    "publisher": "every.to",
+    "description": "The Weird Future Ahead",
+    "by": "enigmatic02",
+    "points": 5,
+    "comment_count": 1,
     "hn_item": {
       "by": "camnora",
-      "descendants": 24,
+      "descendants": 25,
       "id": 30138468,
       "kids": [
         30140217,
@@ -1780,28 +1780,28 @@
       "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
     },
     "og_item": {
-      "title": "Basic cryptography - the Vigenere cipher - Eric Mann's Blog",
-      "type": "article",
+      "title": "Will Tokens Replace Equity?",
+      "type": "",
       "image": [
         {
-          "url": "https://i0.wp.com/eric.mann.blog/wp-content/uploads/2022/01/fig-29-01-2022_17-52-02.jpg?fit=1500%2C900\u0026ssl=1",
+          "url": "https://d24ovhgu8s7341.cloudfront.net/uploads/post/cover/2019/Screen_Shot_2022-01-27_at_1.43.25_PM.png",
           "secure_url": "",
           "type": "",
-          "width": 1500,
-          "height": 900,
+          "width": 0,
+          "height": 0,
           "alt": ""
         }
       ],
-      "url": "https://eric.mann.blog/basic-cryptography-the-vigenere-cipher/",
+      "url": "https://every.to/napkin-math/will-tokens-replace-equity",
       "audio": [],
-      "description": "The Vigenere cipher is more complicated that the Caesar cipher but based on the same idea. It uses a running key to keep your message secure.",
+      "description": "The Weird Future Ahead ",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "Eric Mann's Blog",
+      "site_name": "",
       "video": [],
       "favicon": {
-        "url": "https://i0.wp.com/eric.mann.blog/wp-content/uploads/2021/12/cropped-00100sPORTRAIT_00100_BURST20190126115324341_COVER-scaled-1.jpg?fit=192%2C192\u0026ssl=1"
+        "url": "/favicon.ico"
       }
     }
   },
@@ -1819,7 +1819,7 @@
     "comment_count": 3,
     "hn_item": {
       "by": "camnora",
-      "descendants": 24,
+      "descendants": 25,
       "id": 30138468,
       "kids": [
         30140217,
@@ -1863,20 +1863,20 @@
     }
   },
   {
-    "id": 30142918,
-    "title": "Unconscious R\u0026D (2021)",
-    "url": "https://subconscious.substack.com/p/unconscious-r-and-d",
-    "time": 1643589336,
-    "image": "https://cdn.substack.com/image/fetch/w_1200,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F80b4a51a-7687-453c-b94b-a0c33b1399c7_1668x1668.jpeg",
-    "icon": "https://cdn.substack.com/icons/substack/favicon-32x32.png",
-    "publisher": "subconscious.substack.com",
-    "description": "What if your notes could self-organize—from scratch notes, to draft, to finished creative work—through a stream-of-consciousness process—like dreaming? Years ago, I was part of a user study that aimed to understand how creators create. We interviewed authors, artists, students, influencers,…",
-    "by": "fagnerbrack",
-    "points": 22,
-    "comment_count": 3,
+    "id": 30142247,
+    "title": "Basic Cryptography – The Vigenere Cipher",
+    "url": "https://eric.mann.blog/basic-cryptography-the-vigenere-cipher/",
+    "time": 1643584323,
+    "image": "https://i0.wp.com/eric.mann.blog/wp-content/uploads/2022/01/fig-29-01-2022_17-52-02.jpg?fit=1500%2C900\u0026ssl=1",
+    "icon": "https://i0.wp.com/eric.mann.blog/wp-content/uploads/2021/12/cropped-00100sPORTRAIT_00100_BURST20190126115324341_COVER-scaled-1.jpg?fit=192%2C192\u0026ssl=1",
+    "publisher": "Eric Mann's Blog",
+    "description": "The Vigenere cipher is more complicated that the Caesar cipher but based on the same idea. It uses a running key to keep your message secure.",
+    "by": "eamann",
+    "points": 30,
+    "comment_count": 6,
     "hn_item": {
       "by": "camnora",
-      "descendants": 24,
+      "descendants": 25,
       "id": 30138468,
       "kids": [
         30140217,
@@ -1894,28 +1894,28 @@
       "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
     },
     "og_item": {
-      "title": "Unconscious R\u0026D",
+      "title": "Basic cryptography - the Vigenere cipher - Eric Mann's Blog",
       "type": "article",
       "image": [
         {
-          "url": "https://cdn.substack.com/image/fetch/w_1200,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F80b4a51a-7687-453c-b94b-a0c33b1399c7_1668x1668.jpeg",
+          "url": "https://i0.wp.com/eric.mann.blog/wp-content/uploads/2022/01/fig-29-01-2022_17-52-02.jpg?fit=1500%2C900\u0026ssl=1",
           "secure_url": "",
           "type": "",
-          "width": 0,
-          "height": 0,
+          "width": 1500,
+          "height": 900,
           "alt": ""
         }
       ],
-      "url": "https://subconscious.substack.com/p/unconscious-r-and-d",
+      "url": "https://eric.mann.blog/basic-cryptography-the-vigenere-cipher/",
       "audio": [],
-      "description": "What if your notes could self-organize—from scratch notes, to draft, to finished creative work—through a stream-of-consciousness process—like dreaming? Years ago, I was part of a user study that aimed to understand how creators create. We interviewed authors, artists, students, influencers, and discovered a recurrent meta-pattern in the creative processes that emerged across disciplines and tools...",
+      "description": "The Vigenere cipher is more complicated that the Caesar cipher but based on the same idea. It uses a running key to keep your message secure.",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "",
+      "site_name": "Eric Mann's Blog",
       "video": [],
       "favicon": {
-        "url": "https://cdn.substack.com/icons/substack/favicon-32x32.png"
+        "url": "https://i0.wp.com/eric.mann.blog/wp-content/uploads/2021/12/cropped-00100sPORTRAIT_00100_BURST20190126115324341_COVER-scaled-1.jpg?fit=192%2C192\u0026ssl=1"
       }
     }
   },
@@ -1933,7 +1933,7 @@
     "comment_count": 7,
     "hn_item": {
       "by": "camnora",
-      "descendants": 24,
+      "descendants": 25,
       "id": 30138468,
       "kids": [
         30140217,
@@ -1977,6 +1977,63 @@
     }
   },
   {
+    "id": 30142918,
+    "title": "Unconscious R\u0026D (2021)",
+    "url": "https://subconscious.substack.com/p/unconscious-r-and-d",
+    "time": 1643589336,
+    "image": "https://cdn.substack.com/image/fetch/w_1200,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F80b4a51a-7687-453c-b94b-a0c33b1399c7_1668x1668.jpeg",
+    "icon": "https://cdn.substack.com/icons/substack/favicon-32x32.png",
+    "publisher": "subconscious.substack.com",
+    "description": "What if your notes could self-organize—from scratch notes, to draft, to finished creative work—through a stream-of-consciousness process—like dreaming? Years ago, I was part of a user study that aimed to understand how creators create. We interviewed authors, artists, students, influencers,…",
+    "by": "fagnerbrack",
+    "points": 22,
+    "comment_count": 3,
+    "hn_item": {
+      "by": "camnora",
+      "descendants": 25,
+      "id": 30138468,
+      "kids": [
+        30140217,
+        30139229,
+        30138770,
+        30139945,
+        30139640,
+        30139547,
+        30140997
+      ],
+      "score": 102,
+      "time": 1643559712,
+      "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
+      "type": "story",
+      "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
+    },
+    "og_item": {
+      "title": "Unconscious R\u0026D",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://cdn.substack.com/image/fetch/w_1200,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F80b4a51a-7687-453c-b94b-a0c33b1399c7_1668x1668.jpeg",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://subconscious.substack.com/p/unconscious-r-and-d",
+      "audio": [],
+      "description": "What if your notes could self-organize—from scratch notes, to draft, to finished creative work—through a stream-of-consciousness process—like dreaming? Years ago, I was part of a user study that aimed to understand how creators create. We interviewed authors, artists, students, influencers, and discovered a recurrent meta-pattern in the creative processes that emerged across disciplines and tools...",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "https://cdn.substack.com/icons/substack/favicon-32x32.png"
+      }
+    }
+  },
+  {
     "id": 30138533,
     "title": "Hypercard Simulator",
     "url": "https://hypercardsimulator.com/",
@@ -1990,7 +2047,7 @@
     "comment_count": 14,
     "hn_item": {
       "by": "camnora",
-      "descendants": 24,
+      "descendants": 25,
       "id": 30138468,
       "kids": [
         30140217,
@@ -2038,7 +2095,7 @@
     "comment_count": 10,
     "hn_item": {
       "by": "camnora",
-      "descendants": 24,
+      "descendants": 25,
       "id": 30138468,
       "kids": [
         30140217,
@@ -2082,63 +2139,6 @@
     }
   },
   {
-    "id": 30115520,
-    "title": "Pearls Before Breakfast (2007)",
-    "url": "https://www.washingtonpost.com/lifestyle/magazine/pearls-before-breakfast-can-one-of-the-nations-great-musicians-cut-through-the-fog-of-a-dc-rush-hour-lets-find-out/2014/09/23/8a6d46da-4331-11e4-b47c-f5889e061e5f_story.html",
-    "time": 1643382593,
-    "image": "https://www.washingtonpost.com/pbox.php?url=https://www.washingtonpost.com/pb/resources/img/twp-social-share.png\u0026w=1484\u0026op=resize\u0026opt=1\u0026filter=antialias\u0026t=20170517",
-    "icon": "https://www.washingtonpost.com/favicon.ico",
-    "publisher": "Washington Post",
-    "description": "Joshua Bell is one of the world’s greatest violinists. His instrument of choice is a multimillion-dollar Stradivarius. If he played it for spare change, incognito, outside a bustling Metro stop in Washington, would anyone notice?",
-    "by": "Tomte",
-    "points": 12,
-    "comment_count": 8,
-    "hn_item": {
-      "by": "camnora",
-      "descendants": 24,
-      "id": 30138468,
-      "kids": [
-        30140217,
-        30139229,
-        30138770,
-        30139945,
-        30139640,
-        30139547,
-        30140997
-      ],
-      "score": 102,
-      "time": 1643559712,
-      "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
-      "type": "story",
-      "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
-    },
-    "og_item": {
-      "title": "Pearls Before Breakfast: Can one of the nation’s great musicians cut through the fog of a D.C. rush hour? Let’s find out.",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://www.washingtonpost.com/pbox.php?url=https://www.washingtonpost.com/pb/resources/img/twp-social-share.png\u0026w=1484\u0026op=resize\u0026opt=1\u0026filter=antialias\u0026t=20170517",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://www.washingtonpost.com/lifestyle/magazine/pearls-before-breakfast-can-one-of-the-nations-great-musicians-cut-through-the-fog-of-a-dc-rush-hour-lets-find-out/2014/09/23/8a6d46da-4331-11e4-b47c-f5889e061e5f_story.html",
-      "audio": [],
-      "description": "Joshua Bell is one of the world’s greatest violinists. His instrument of choice is a multimillion-dollar Stradivarius. If he played it for spare change, incognito, outside a bustling Metro stop in Washington, would anyone notice?",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Washington Post",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30131847,
     "title": "Mix and Match Mental Models",
     "url": "https://lethain.com/mental-models-mix-match/",
@@ -2152,7 +2152,7 @@
     "comment_count": 0,
     "hn_item": {
       "by": "camnora",
-      "descendants": 24,
+      "descendants": 25,
       "id": 30138468,
       "kids": [
         30140217,
@@ -2196,6 +2196,63 @@
     }
   },
   {
+    "id": 30115520,
+    "title": "Pearls Before Breakfast (2007)",
+    "url": "https://www.washingtonpost.com/lifestyle/magazine/pearls-before-breakfast-can-one-of-the-nations-great-musicians-cut-through-the-fog-of-a-dc-rush-hour-lets-find-out/2014/09/23/8a6d46da-4331-11e4-b47c-f5889e061e5f_story.html",
+    "time": 1643382593,
+    "image": "https://www.washingtonpost.com/pbox.php?url=https://www.washingtonpost.com/pb/resources/img/twp-social-share.png\u0026w=1484\u0026op=resize\u0026opt=1\u0026filter=antialias\u0026t=20170517",
+    "icon": "https://www.washingtonpost.com/favicon.ico",
+    "publisher": "Washington Post",
+    "description": "Joshua Bell is one of the world’s greatest violinists. His instrument of choice is a multimillion-dollar Stradivarius. If he played it for spare change, incognito, outside a bustling Metro stop in Washington, would anyone notice?",
+    "by": "Tomte",
+    "points": 12,
+    "comment_count": 8,
+    "hn_item": {
+      "by": "camnora",
+      "descendants": 25,
+      "id": 30138468,
+      "kids": [
+        30140217,
+        30139229,
+        30138770,
+        30139945,
+        30139640,
+        30139547,
+        30140997
+      ],
+      "score": 102,
+      "time": 1643559712,
+      "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
+      "type": "story",
+      "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
+    },
+    "og_item": {
+      "title": "Pearls Before Breakfast: Can one of the nation’s great musicians cut through the fog of a D.C. rush hour? Let’s find out.",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://www.washingtonpost.com/pbox.php?url=https://www.washingtonpost.com/pb/resources/img/twp-social-share.png\u0026w=1484\u0026op=resize\u0026opt=1\u0026filter=antialias\u0026t=20170517",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://www.washingtonpost.com/lifestyle/magazine/pearls-before-breakfast-can-one-of-the-nations-great-musicians-cut-through-the-fog-of-a-dc-rush-hour-lets-find-out/2014/09/23/8a6d46da-4331-11e4-b47c-f5889e061e5f_story.html",
+      "audio": [],
+      "description": "Joshua Bell is one of the world’s greatest violinists. His instrument of choice is a multimillion-dollar Stradivarius. If he played it for spare change, incognito, outside a bustling Metro stop in Washington, would anyone notice?",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Washington Post",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30142106,
     "title": "Yoga and meditation do not quiet the ego but instead boost self-enhancement (2018)",
     "url": "https://journals.sagepub.com/doi/abs/10.1177/0956797618764621",
@@ -2209,7 +2266,7 @@
     "comment_count": 8,
     "hn_item": {
       "by": "camnora",
-      "descendants": 24,
+      "descendants": 25,
       "id": 30138468,
       "kids": [
         30140217,
@@ -2244,6 +2301,63 @@
     }
   },
   {
+    "id": 30143377,
+    "title": "A Simple Transformer Implementation(PyTorch) Without Difficult Syntax",
+    "url": "https://github.com/IpsumDominum/Pytorch-Simple-Transformer",
+    "time": 1643592608,
+    "image": "https://opengraph.githubassets.com/a6a0f18e050ef8520d18eb7b37ebab168aeaf369d33f630e29136dd51468facf/IpsumDominum/Pytorch-Simple-Transformer",
+    "icon": "https://github.githubassets.com/favicons/favicon.svg",
+    "publisher": "GitHub",
+    "description": "A simple transformer implementation without difficult syntax and extra bells and whistles. - GitHub - IpsumDominum/Pytorch-Simple-Transformer: A simple transformer implementation without difficult ...",
+    "by": "IpsumDominum",
+    "points": 10,
+    "comment_count": 1,
+    "hn_item": {
+      "by": "camnora",
+      "descendants": 25,
+      "id": 30138468,
+      "kids": [
+        30140217,
+        30139229,
+        30138770,
+        30139945,
+        30139640,
+        30139547,
+        30140997
+      ],
+      "score": 102,
+      "time": 1643559712,
+      "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
+      "type": "story",
+      "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
+    },
+    "og_item": {
+      "title": "GitHub - IpsumDominum/Pytorch-Simple-Transformer: A simple transformer implementation without difficult syntax and extra bells and whistles.",
+      "type": "object",
+      "image": [
+        {
+          "url": "https://opengraph.githubassets.com/a6a0f18e050ef8520d18eb7b37ebab168aeaf369d33f630e29136dd51468facf/IpsumDominum/Pytorch-Simple-Transformer",
+          "secure_url": "",
+          "type": "",
+          "width": 1200,
+          "height": 600,
+          "alt": ""
+        }
+      ],
+      "url": "https://github.com/IpsumDominum/Pytorch-Simple-Transformer",
+      "audio": [],
+      "description": "A simple transformer implementation without difficult syntax and extra bells and whistles. - GitHub - IpsumDominum/Pytorch-Simple-Transformer: A simple transformer implementation without difficult ...",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "GitHub",
+      "video": [],
+      "favicon": {
+        "url": "https://github.githubassets.com/favicons/favicon.svg"
+      }
+    }
+  },
+  {
     "id": 30132612,
     "title": "John Locke’s recipe for Pancakes (2021)",
     "url": "https://rarecooking.com/2021/12/14/john-lockes-recipe-for-pancakes/",
@@ -2257,7 +2371,7 @@
     "comment_count": 32,
     "hn_item": {
       "by": "camnora",
-      "descendants": 24,
+      "descendants": 25,
       "id": 30138468,
       "kids": [
         30140217,
@@ -2314,7 +2428,7 @@
     "comment_count": 22,
     "hn_item": {
       "by": "camnora",
-      "descendants": 24,
+      "descendants": 25,
       "id": 30138468,
       "kids": [
         30140217,
@@ -2367,11 +2481,11 @@
     "publisher": "Eurogamer.net",
     "description": "",
     "by": "atombender",
-    "points": 229,
+    "points": 230,
     "comment_count": 25,
     "hn_item": {
       "by": "camnora",
-      "descendants": 24,
+      "descendants": 25,
       "id": 30138468,
       "kids": [
         30140217,
@@ -2415,20 +2529,20 @@
     }
   },
   {
-    "id": 30144673,
-    "title": "Will Tokens Replace Equity?",
-    "url": "https://every.to/napkin-math/will-tokens-replace-equity",
-    "time": 1643605204,
-    "image": "https://d24ovhgu8s7341.cloudfront.net/uploads/post/cover/2019/Screen_Shot_2022-01-27_at_1.43.25_PM.png",
-    "icon": "https://every.to/favicon.ico",
-    "publisher": "every.to",
-    "description": "The Weird Future Ahead",
-    "by": "enigmatic02",
-    "points": 4,
-    "comment_count": 0,
+    "id": 30116262,
+    "title": "A Padlock I’d Use [video]",
+    "url": "https://www.youtube.com/watch?v=HrV86GqlY8o",
+    "time": 1643385483,
+    "image": "https://i.ytimg.com/vi/HrV86GqlY8o/hqdefault.jpg",
+    "icon": "https://www.youtube.com/s/desktop/ca9cd554/img/favicon_144x144.png",
+    "publisher": "YouTube",
+    "description": "https://www.CovertInstruments.com",
+    "by": "CraigJPerry",
+    "points": 145,
+    "comment_count": 7,
     "hn_item": {
       "by": "camnora",
-      "descendants": 24,
+      "descendants": 25,
       "id": 30138468,
       "kids": [
         30140217,
@@ -2446,28 +2560,37 @@
       "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
     },
     "og_item": {
-      "title": "Will Tokens Replace Equity?",
-      "type": "",
+      "title": "[1398] A Padlock I’d Use: Abus Granit 37RK/80 (Pick \u0026 Gut)",
+      "type": "video.other",
       "image": [
         {
-          "url": "https://d24ovhgu8s7341.cloudfront.net/uploads/post/cover/2019/Screen_Shot_2022-01-27_at_1.43.25_PM.png",
+          "url": "https://i.ytimg.com/vi/HrV86GqlY8o/hqdefault.jpg",
           "secure_url": "",
           "type": "",
-          "width": 0,
-          "height": 0,
+          "width": 480,
+          "height": 360,
           "alt": ""
         }
       ],
-      "url": "https://every.to/napkin-math/will-tokens-replace-equity",
+      "url": "https://www.youtube.com/watch?v=HrV86GqlY8o",
       "audio": [],
-      "description": "The Weird Future Ahead ",
+      "description": "https://www.CovertInstruments.com",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "",
-      "video": [],
+      "site_name": "YouTube",
+      "video": [
+        {
+          "url": "https://www.youtube.com/embed/HrV86GqlY8o",
+          "secure_url": "https://www.youtube.com/embed/HrV86GqlY8o",
+          "type": "text/html",
+          "width": 1280,
+          "height": 720,
+          "duration": 0
+        }
+      ],
       "favicon": {
-        "url": "/favicon.ico"
+        "url": "https://www.youtube.com/s/desktop/ca9cd554/img/favicon_144x144.png"
       }
     }
   },
@@ -2485,7 +2608,7 @@
     "comment_count": 2,
     "hn_item": {
       "by": "camnora",
-      "descendants": 24,
+      "descendants": 25,
       "id": 30138468,
       "kids": [
         30140217,
@@ -2542,7 +2665,7 @@
     "comment_count": 1,
     "hn_item": {
       "by": "camnora",
-      "descendants": 24,
+      "descendants": 25,
       "id": 30138468,
       "kids": [
         30140217,
@@ -2577,72 +2700,6 @@
     }
   },
   {
-    "id": 30116262,
-    "title": "A Padlock I’d Use [video]",
-    "url": "https://www.youtube.com/watch?v=HrV86GqlY8o",
-    "time": 1643385483,
-    "image": "https://i.ytimg.com/vi/HrV86GqlY8o/hqdefault.jpg",
-    "icon": "https://www.youtube.com/s/desktop/ca9cd554/img/favicon_144x144.png",
-    "publisher": "YouTube",
-    "description": "https://www.CovertInstruments.com",
-    "by": "CraigJPerry",
-    "points": 144,
-    "comment_count": 7,
-    "hn_item": {
-      "by": "camnora",
-      "descendants": 24,
-      "id": 30138468,
-      "kids": [
-        30140217,
-        30139229,
-        30138770,
-        30139945,
-        30139640,
-        30139547,
-        30140997
-      ],
-      "score": 102,
-      "time": 1643559712,
-      "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
-      "type": "story",
-      "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
-    },
-    "og_item": {
-      "title": "[1398] A Padlock I’d Use: Abus Granit 37RK/80 (Pick \u0026 Gut)",
-      "type": "video.other",
-      "image": [
-        {
-          "url": "https://i.ytimg.com/vi/HrV86GqlY8o/hqdefault.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 480,
-          "height": 360,
-          "alt": ""
-        }
-      ],
-      "url": "https://www.youtube.com/watch?v=HrV86GqlY8o",
-      "audio": [],
-      "description": "https://www.CovertInstruments.com",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "YouTube",
-      "video": [
-        {
-          "url": "https://www.youtube.com/embed/HrV86GqlY8o",
-          "secure_url": "https://www.youtube.com/embed/HrV86GqlY8o",
-          "type": "text/html",
-          "width": 1280,
-          "height": 720,
-          "duration": 0
-        }
-      ],
-      "favicon": {
-        "url": "https://www.youtube.com/s/desktop/ca9cd554/img/favicon_144x144.png"
-      }
-    }
-  },
-  {
     "id": 30137681,
     "title": "In defence of the boring web",
     "url": "https://bastian.rieck.me/blog/posts/2022/boring/",
@@ -2656,7 +2713,7 @@
     "comment_count": 24,
     "hn_item": {
       "by": "camnora",
-      "descendants": 24,
+      "descendants": 25,
       "id": 30138468,
       "kids": [
         30140217,
@@ -2691,63 +2748,6 @@
     }
   },
   {
-    "id": 30143377,
-    "title": "A Simple Transformer Implementation(PyTorch) Without Difficult Syntax",
-    "url": "https://github.com/IpsumDominum/Pytorch-Simple-Transformer",
-    "time": 1643592608,
-    "image": "https://opengraph.githubassets.com/a6a0f18e050ef8520d18eb7b37ebab168aeaf369d33f630e29136dd51468facf/IpsumDominum/Pytorch-Simple-Transformer",
-    "icon": "https://github.githubassets.com/favicons/favicon.svg",
-    "publisher": "GitHub",
-    "description": "A simple transformer implementation without difficult syntax and extra bells and whistles. - GitHub - IpsumDominum/Pytorch-Simple-Transformer: A simple transformer implementation without difficult ...",
-    "by": "IpsumDominum",
-    "points": 9,
-    "comment_count": 1,
-    "hn_item": {
-      "by": "camnora",
-      "descendants": 24,
-      "id": 30138468,
-      "kids": [
-        30140217,
-        30139229,
-        30138770,
-        30139945,
-        30139640,
-        30139547,
-        30140997
-      ],
-      "score": 102,
-      "time": 1643559712,
-      "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
-      "type": "story",
-      "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
-    },
-    "og_item": {
-      "title": "GitHub - IpsumDominum/Pytorch-Simple-Transformer: A simple transformer implementation without difficult syntax and extra bells and whistles.",
-      "type": "object",
-      "image": [
-        {
-          "url": "https://opengraph.githubassets.com/a6a0f18e050ef8520d18eb7b37ebab168aeaf369d33f630e29136dd51468facf/IpsumDominum/Pytorch-Simple-Transformer",
-          "secure_url": "",
-          "type": "",
-          "width": 1200,
-          "height": 600,
-          "alt": ""
-        }
-      ],
-      "url": "https://github.com/IpsumDominum/Pytorch-Simple-Transformer",
-      "audio": [],
-      "description": "A simple transformer implementation without difficult syntax and extra bells and whistles. - GitHub - IpsumDominum/Pytorch-Simple-Transformer: A simple transformer implementation without difficult ...",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "GitHub",
-      "video": [],
-      "favicon": {
-        "url": "https://github.githubassets.com/favicons/favicon.svg"
-      }
-    }
-  },
-  {
     "id": 30110679,
     "title": "Bringing Ancient Pottery to Life",
     "url": "https://news.harvard.edu/gazette/story/2021/09/harvard-ceramics-program-recreates-art-museums-pieces/",
@@ -2761,7 +2761,7 @@
     "comment_count": 1,
     "hn_item": {
       "by": "camnora",
-      "descendants": 24,
+      "descendants": 25,
       "id": 30138468,
       "kids": [
         30140217,
@@ -2818,7 +2818,7 @@
     "comment_count": 5,
     "hn_item": {
       "by": "camnora",
-      "descendants": 24,
+      "descendants": 25,
       "id": 30138468,
       "kids": [
         30140217,
@@ -2853,6 +2853,159 @@
     }
   },
   {
+    "id": 30128627,
+    "title": "Tech debt gets worse before it gets better",
+    "url": "https://jeremymikkola.com/posts/2022_01_29_tech_debt_gets_worse_before_it_gets_beffer.html",
+    "time": 1643479251,
+    "image": "",
+    "icon": "https://jeremymikkola.com/favicon.ico",
+    "publisher": "jeremymikkola.com",
+    "description": "",
+    "by": "piinbinary",
+    "points": 132,
+    "comment_count": 12,
+    "hn_item": {
+      "by": "camnora",
+      "descendants": 25,
+      "id": 30138468,
+      "kids": [
+        30140217,
+        30139229,
+        30138770,
+        30139945,
+        30139640,
+        30139547,
+        30140997
+      ],
+      "score": 102,
+      "time": 1643559712,
+      "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
+      "type": "story",
+      "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
+    },
+    "og_item": {
+      "title": "Jeremy Mikkola - Tech debt gets worse before it gets better",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30139643,
+    "title": "Very Remote Lisp Debugging Story",
+    "url": "https://susam.net/maze/very-remote-debugging.html",
+    "time": 1643567057,
+    "image": "",
+    "icon": "https://susam.net/maze/favicon.png",
+    "publisher": "susam.net",
+    "description": "",
+    "by": "susam",
+    "points": 40,
+    "comment_count": 4,
+    "hn_item": {
+      "by": "camnora",
+      "descendants": 25,
+      "id": 30138468,
+      "kids": [
+        30140217,
+        30139229,
+        30138770,
+        30139945,
+        30139640,
+        30139547,
+        30140997
+      ],
+      "score": 102,
+      "time": 1643559712,
+      "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
+      "type": "story",
+      "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
+    },
+    "og_item": {
+      "title": "Very Remote Lisp Debugging Story - Susam's Maze",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "favicon.png"
+      }
+    }
+  },
+  {
+    "id": 30142351,
+    "title": "Completing a Creative Project",
+    "url": "https://www.sonyasupposedly.com/completing-a-creative-project/",
+    "time": 1643585100,
+    "image": "https://www.sonyasupposedly.com/content/images/2022/01/artdecoladies-1.jpg",
+    "icon": "https://www.sonyasupposedly.com/favicon.png",
+    "publisher": "Sonya Supposedly",
+    "description": "My undying thanks to members for funding the following realizations 💖 Btw, click here for the PDF version that I mailed in November, if you want it for some reason. How to complete a creative project: stick with it until you're done. Gee thanks, great advice, I know. But it's true!",
+    "by": "exolymph",
+    "points": 6,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "camnora",
+      "descendants": 25,
+      "id": 30138468,
+      "kids": [
+        30140217,
+        30139229,
+        30138770,
+        30139945,
+        30139640,
+        30139547,
+        30140997
+      ],
+      "score": 102,
+      "time": 1643559712,
+      "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
+      "type": "story",
+      "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
+    },
+    "og_item": {
+      "title": "Completing a Creative Project",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://www.sonyasupposedly.com/content/images/2022/01/artdecoladies-1.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 2000,
+          "height": 1050,
+          "alt": ""
+        }
+      ],
+      "url": "https://www.sonyasupposedly.com/completing-a-creative-project/",
+      "audio": [],
+      "description": "My undying thanks to members for funding the following realizations 💖 Btw, click here for the PDF version that I mailed in November, if you want it for some reason. How to complete a creative project: stick with it until you're done. Gee thanks, great advice, I know. But it's true!",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Sonya Supposedly",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.png"
+      }
+    }
+  },
+  {
     "id": 30129565,
     "title": "Static-Let, or how I Learned to stop worrying and love Load-Time-Value",
     "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md",
@@ -2866,7 +3019,7 @@
     "comment_count": 2,
     "hn_item": {
       "by": "camnora",
-      "descendants": 24,
+      "descendants": 25,
       "id": 30138468,
       "kids": [
         30140217,
@@ -2910,159 +3063,6 @@
     }
   },
   {
-    "id": 30139643,
-    "title": "Very Remote Lisp Debugging Story",
-    "url": "https://susam.net/maze/very-remote-debugging.html",
-    "time": 1643567057,
-    "image": "",
-    "icon": "https://susam.net/maze/favicon.png",
-    "publisher": "susam.net",
-    "description": "",
-    "by": "susam",
-    "points": 40,
-    "comment_count": 4,
-    "hn_item": {
-      "by": "camnora",
-      "descendants": 24,
-      "id": 30138468,
-      "kids": [
-        30140217,
-        30139229,
-        30138770,
-        30139945,
-        30139640,
-        30139547,
-        30140997
-      ],
-      "score": 102,
-      "time": 1643559712,
-      "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
-      "type": "story",
-      "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
-    },
-    "og_item": {
-      "title": "Very Remote Lisp Debugging Story - Susam's Maze",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "favicon.png"
-      }
-    }
-  },
-  {
-    "id": 30128627,
-    "title": "Tech debt gets worse before it gets better",
-    "url": "https://jeremymikkola.com/posts/2022_01_29_tech_debt_gets_worse_before_it_gets_beffer.html",
-    "time": 1643479251,
-    "image": "",
-    "icon": "https://jeremymikkola.com/favicon.ico",
-    "publisher": "jeremymikkola.com",
-    "description": "",
-    "by": "piinbinary",
-    "points": 132,
-    "comment_count": 12,
-    "hn_item": {
-      "by": "camnora",
-      "descendants": 24,
-      "id": 30138468,
-      "kids": [
-        30140217,
-        30139229,
-        30138770,
-        30139945,
-        30139640,
-        30139547,
-        30140997
-      ],
-      "score": 102,
-      "time": 1643559712,
-      "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
-      "type": "story",
-      "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
-    },
-    "og_item": {
-      "title": "Jeremy Mikkola - Tech debt gets worse before it gets better",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30136350,
-    "title": "The Game of War: Chess with Networks (2008)",
-    "url": "https://www.cabinetmagazine.org/issues/29/galloway.php",
-    "time": 1643544263,
-    "image": "https://cabinetmagazine.org/issues/29/cabinet_029_galloway_alexander_r_facebook.jpg",
-    "icon": "https://www.cabinetmagazine.org/favicon-128.png",
-    "publisher": "cabinetmagazine.org",
-    "description": "Chess with networks",
-    "by": "bshepard",
-    "points": 25,
-    "comment_count": 2,
-    "hn_item": {
-      "by": "camnora",
-      "descendants": 24,
-      "id": 30138468,
-      "kids": [
-        30140217,
-        30139229,
-        30138770,
-        30139945,
-        30139640,
-        30139547,
-        30140997
-      ],
-      "score": 102,
-      "time": 1643559712,
-      "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
-      "type": "story",
-      "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
-    },
-    "og_item": {
-      "title": "The Game of War: An Overview | Alexander R. Galloway",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://cabinetmagazine.org/issues/29/cabinet_029_galloway_alexander_r_facebook.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 52,
-          "height": 80,
-          "alt": ""
-        }
-      ],
-      "url": "https://cabinetmagazine.org/issues/29/galloway.php",
-      "audio": [],
-      "description": "Chess with networks",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon-128.png"
-      }
-    }
-  },
-  {
     "id": 30114787,
     "title": "The Society of the Spectacle",
     "url": "https://unredacted-word.pub/",
@@ -3072,11 +3072,11 @@
     "publisher": "unredacted-word.pub",
     "description": "Unredacted Word: publisher of words, code \u0026 data. Our new edition of The Society of the Spectacle is out now 💥.",
     "by": "raldu",
-    "points": 94,
+    "points": 95,
     "comment_count": 10,
     "hn_item": {
       "by": "camnora",
-      "descendants": 24,
+      "descendants": 25,
       "id": 30138468,
       "kids": [
         30140217,
@@ -3120,6 +3120,111 @@
     }
   },
   {
+    "id": 30136350,
+    "title": "The Game of War: Chess with Networks (2008)",
+    "url": "https://www.cabinetmagazine.org/issues/29/galloway.php",
+    "time": 1643544263,
+    "image": "https://cabinetmagazine.org/issues/29/cabinet_029_galloway_alexander_r_facebook.jpg",
+    "icon": "https://www.cabinetmagazine.org/favicon-128.png",
+    "publisher": "cabinetmagazine.org",
+    "description": "Chess with networks",
+    "by": "bshepard",
+    "points": 25,
+    "comment_count": 2,
+    "hn_item": {
+      "by": "camnora",
+      "descendants": 25,
+      "id": 30138468,
+      "kids": [
+        30140217,
+        30139229,
+        30138770,
+        30139945,
+        30139640,
+        30139547,
+        30140997
+      ],
+      "score": 102,
+      "time": 1643559712,
+      "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
+      "type": "story",
+      "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
+    },
+    "og_item": {
+      "title": "The Game of War: An Overview | Alexander R. Galloway",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://cabinetmagazine.org/issues/29/cabinet_029_galloway_alexander_r_facebook.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 52,
+          "height": 80,
+          "alt": ""
+        }
+      ],
+      "url": "https://cabinetmagazine.org/issues/29/galloway.php",
+      "audio": [],
+      "description": "Chess with networks",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon-128.png"
+      }
+    }
+  },
+  {
+    "id": 30137864,
+    "title": "Midnight Commander Tips and Tricks",
+    "url": "http://www.softpanorama.org/OFM/MC/mc_tips.shtml",
+    "time": 1643555741,
+    "image": "",
+    "icon": "",
+    "publisher": "softpanorama.org",
+    "description": "",
+    "by": "ingve",
+    "points": 158,
+    "comment_count": 19,
+    "hn_item": {
+      "by": "camnora",
+      "descendants": 25,
+      "id": 30138468,
+      "kids": [
+        30140217,
+        30139229,
+        30138770,
+        30139945,
+        30139640,
+        30139547,
+        30140997
+      ],
+      "score": 102,
+      "time": 1643559712,
+      "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
+      "type": "story",
+      "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
+    },
+    "og_item": {
+      "title": "Midnight Commander Tips and Tricks",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30142974,
     "title": "Don’t Buy Samsung Smartphones",
     "url": "https://befinitiv.wordpress.com/2022/01/30/dont-buy-samsung-smartphones/",
@@ -3129,11 +3234,11 @@
     "publisher": "befinitiv",
     "description": "TLDR: Bought a Samsung S21 5G, it broke 3 times within warranty time, Samsung gave up repairing it and leaves me with a broken 700€ phone. Last year my old phone broke and I replaced it with the Sa…",
     "by": "zdw",
-    "points": 9,
-    "comment_count": 3,
+    "points": 10,
+    "comment_count": 5,
     "hn_item": {
       "by": "camnora",
-      "descendants": 24,
+      "descendants": 25,
       "id": 30138468,
       "kids": [
         30140217,
@@ -3177,20 +3282,20 @@
     }
   },
   {
-    "id": 30137864,
-    "title": "Midnight Commander Tips and Tricks",
-    "url": "http://www.softpanorama.org/OFM/MC/mc_tips.shtml",
-    "time": 1643555741,
-    "image": "",
-    "icon": "",
-    "publisher": "softpanorama.org",
-    "description": "",
-    "by": "ingve",
-    "points": 158,
-    "comment_count": 19,
+    "id": 30145208,
+    "title": "The Moral Calculations of a Billionaire",
+    "url": "https://www.washingtonpost.com/nation/2022/01/30/moral-calculations-billionaire/",
+    "time": 1643610788,
+    "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PGU65MD5MMI6ZDGIW2LFMS5HSY.jpg\u0026w=1440",
+    "icon": "https://www.washingtonpost.com/wp-stat/assets/favicons/touch-icon-iphone.png",
+    "publisher": "Washington Post",
+    "description": "After the best year in history to be among the super-rich, one of America’s 745 billionaires wonders: “What’s enough? What’s the answer?”",
+    "by": "cmod",
+    "points": 7,
+    "comment_count": 0,
     "hn_item": {
       "by": "camnora",
-      "descendants": 24,
+      "descendants": 25,
       "id": 30138468,
       "kids": [
         30140217,
@@ -3208,19 +3313,28 @@
       "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
     },
     "og_item": {
-      "title": "Midnight Commander Tips and Tricks",
-      "type": "",
-      "image": [],
-      "url": "",
+      "title": "The moral calculations of a billionaire",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PGU65MD5MMI6ZDGIW2LFMS5HSY.jpg\u0026w=1440",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://www.washingtonpost.com/nation/2022/01/30/moral-calculations-billionaire/",
       "audio": [],
-      "description": "",
+      "description": "After the best year in history to be among the super-rich, one of America’s 745 billionaires wonders: “What’s enough? What’s the answer?”",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "",
+      "site_name": "Washington Post",
       "video": [],
       "favicon": {
-        "url": "/favicon.ico"
+        "url": "https://www.washingtonpost.com/wp-stat/assets/favicons/touch-icon-iphone.png"
       }
     }
   },
@@ -3238,7 +3352,7 @@
     "comment_count": 5,
     "hn_item": {
       "by": "camnora",
-      "descendants": 24,
+      "descendants": 25,
       "id": 30138468,
       "kids": [
         30140217,
@@ -3258,20 +3372,20 @@
     "og_item": null
   },
   {
-    "id": 30144892,
-    "title": "Kia’s new EV6 electric crossover goes straight to the head of the pack",
-    "url": "https://arstechnica.com/cars/2022/01/kias-new-ev6-electric-crossover-goes-straight-to-the-head-of-the-pack/",
-    "time": 1643607086,
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/01/Kia-EV6-1-760x380.jpg",
-    "icon": "https://cdn.arstechnica.net/wp-content/themes/ars/assets/img/material-ars-db41652381.png",
-    "publisher": "Ars Technica",
-    "description": "It's highly efficient, fun to drive, and loaded with equipment, too.",
-    "by": "feross",
-    "points": 11,
+    "id": 30141784,
+    "title": "I crowdfunded a novel using cryptocurrency",
+    "url": "https://ellegriffin.substack.com/p/crypto-funded-nft-novel",
+    "time": 1643581215,
+    "image": "https://cdn.substack.com/image/fetch/w_1200,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafd428d3-200b-473c-81ba-d0fe3d371b74_1000x700.png",
+    "icon": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/6d33229e-dadd-4d42-81b0-60daf1fbc7ef/favicon-48x48.png",
+    "publisher": "ellegriffin.substack.com",
+    "description": "This could be how books get funded in the future.",
+    "by": "rmason",
+    "points": 16,
     "comment_count": 4,
     "hn_item": {
       "by": "camnora",
-      "descendants": 24,
+      "descendants": 25,
       "id": 30138468,
       "kids": [
         30140217,
@@ -3289,11 +3403,11 @@
       "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
     },
     "og_item": {
-      "title": "Kia’s new EV6 electric crossover goes straight to the head of the pack",
+      "title": "I crowdfunded a novel using cryptocurrency ",
       "type": "article",
       "image": [
         {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/01/Kia-EV6-1-760x380.jpg",
+          "url": "https://cdn.substack.com/image/fetch/w_1200,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafd428d3-200b-473c-81ba-d0fe3d371b74_1000x700.png",
           "secure_url": "",
           "type": "",
           "width": 0,
@@ -3301,16 +3415,16 @@
           "alt": ""
         }
       ],
-      "url": "https://arstechnica.com/cars/2022/01/kias-new-ev6-electric-crossover-goes-straight-to-the-head-of-the-pack/",
+      "url": "https://ellegriffin.substack.com/p/crypto-funded-nft-novel",
       "audio": [],
-      "description": "It's highly efficient, fun to drive, and loaded with equipment, too.",
+      "description": "This could be how books get funded in the future.",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "Ars Technica",
+      "site_name": "",
       "video": [],
       "favicon": {
-        "url": "https://cdn.arstechnica.net/wp-content/themes/ars/assets/img/material-ars-db41652381.png"
+        "url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/6d33229e-dadd-4d42-81b0-60daf1fbc7ef/favicon-48x48.png"
       }
     }
   },
@@ -3328,7 +3442,7 @@
     "comment_count": 6,
     "hn_item": {
       "by": "camnora",
-      "descendants": 24,
+      "descendants": 25,
       "id": 30138468,
       "kids": [
         30140217,
@@ -3394,7 +3508,7 @@
     "comment_count": 5,
     "hn_item": {
       "by": "camnora",
-      "descendants": 24,
+      "descendants": 25,
       "id": 30138468,
       "kids": [
         30140217,
@@ -3429,134 +3543,20 @@
     }
   },
   {
-    "id": 30145241,
-    "title": "Spotify Announces Addition of Content Warnings",
-    "url": "https://deadline.com/2022/01/spotify-content-warnings-joe-rogan-covid-19-misinformation-1234922739/",
-    "time": 1643611221,
-    "image": "https://deadline.com/wp-content/uploads/2020/07/spotify.jpg?w=1024",
-    "icon": "https://deadline.com/wp-content/uploads/2019/04/cropped-icon-512x512.png?w=192",
-    "publisher": "Deadline",
-    "description": "Spotify subscribers will notice a new content warning airing ahead of any podcast episodes discussing Covid-19, CEO Daniel Ek announced on Sunday. The news arrives on the heels of Neil Young removi…",
-    "by": "awb",
-    "points": 4,
-    "comment_count": 1,
-    "hn_item": {
-      "by": "camnora",
-      "descendants": 24,
-      "id": 30138468,
-      "kids": [
-        30140217,
-        30139229,
-        30138770,
-        30139945,
-        30139640,
-        30139547,
-        30140997
-      ],
-      "score": 102,
-      "time": 1643559712,
-      "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
-      "type": "story",
-      "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
-    },
-    "og_item": {
-      "title": "Spotify Announces Addition Of Content Warnings In Response To Joe Rogan Covid-19 Misinformation Criticism",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://deadline.com/wp-content/uploads/2020/07/spotify.jpg?w=1024",
-          "secure_url": "",
-          "type": "",
-          "width": 1024,
-          "height": 535,
-          "alt": ""
-        }
-      ],
-      "url": "https://deadline.com/2022/01/spotify-content-warnings-joe-rogan-covid-19-misinformation-1234922739/",
-      "audio": [],
-      "description": "Spotify subscribers will notice a new content warning airing ahead of any podcast episodes discussing Covid-19, CEO Daniel Ek announced on Sunday. The news arrives on the heels of Neil Young removi…",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Deadline",
-      "video": [],
-      "favicon": {
-        "url": "https://deadline.com/wp-content/uploads/2019/04/cropped-icon-512x512.png?w=192"
-      }
-    }
-  },
-  {
-    "id": 30142351,
-    "title": "Completing a Creative Project",
-    "url": "https://www.sonyasupposedly.com/completing-a-creative-project/",
-    "time": 1643585100,
-    "image": "https://www.sonyasupposedly.com/content/images/2022/01/artdecoladies-1.jpg",
-    "icon": "https://www.sonyasupposedly.com/favicon.png",
-    "publisher": "Sonya Supposedly",
-    "description": "My undying thanks to members for funding the following realizations 💖 Btw, click here for the PDF version that I mailed in November, if you want it for some reason. How to complete a creative project: stick with it until you're done. Gee thanks, great advice, I know. But it's true!",
-    "by": "exolymph",
-    "points": 5,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "camnora",
-      "descendants": 24,
-      "id": 30138468,
-      "kids": [
-        30140217,
-        30139229,
-        30138770,
-        30139945,
-        30139640,
-        30139547,
-        30140997
-      ],
-      "score": 102,
-      "time": 1643559712,
-      "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
-      "type": "story",
-      "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
-    },
-    "og_item": {
-      "title": "Completing a Creative Project",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://www.sonyasupposedly.com/content/images/2022/01/artdecoladies-1.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 2000,
-          "height": 1050,
-          "alt": ""
-        }
-      ],
-      "url": "https://www.sonyasupposedly.com/completing-a-creative-project/",
-      "audio": [],
-      "description": "My undying thanks to members for funding the following realizations 💖 Btw, click here for the PDF version that I mailed in November, if you want it for some reason. How to complete a creative project: stick with it until you're done. Gee thanks, great advice, I know. But it's true!",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Sonya Supposedly",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.png"
-      }
-    }
-  },
-  {
-    "id": 30141784,
-    "title": "I crowdfunded a novel using cryptocurrency",
-    "url": "https://ellegriffin.substack.com/p/crypto-funded-nft-novel",
-    "time": 1643581215,
-    "image": "https://cdn.substack.com/image/fetch/w_1200,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafd428d3-200b-473c-81ba-d0fe3d371b74_1000x700.png",
-    "icon": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/6d33229e-dadd-4d42-81b0-60daf1fbc7ef/favicon-48x48.png",
-    "publisher": "ellegriffin.substack.com",
-    "description": "This could be how books get funded in the future.",
-    "by": "rmason",
-    "points": 15,
+    "id": 30144892,
+    "title": "Kia’s new EV6 electric crossover goes straight to the head of the pack",
+    "url": "https://arstechnica.com/cars/2022/01/kias-new-ev6-electric-crossover-goes-straight-to-the-head-of-the-pack/",
+    "time": 1643607086,
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/01/Kia-EV6-1-760x380.jpg",
+    "icon": "https://cdn.arstechnica.net/wp-content/themes/ars/assets/img/material-ars-db41652381.png",
+    "publisher": "Ars Technica",
+    "description": "It's highly efficient, fun to drive, and loaded with equipment, too.",
+    "by": "feross",
+    "points": 11,
     "comment_count": 4,
     "hn_item": {
       "by": "camnora",
-      "descendants": 24,
+      "descendants": 25,
       "id": 30138468,
       "kids": [
         30140217,
@@ -3574,11 +3574,11 @@
       "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
     },
     "og_item": {
-      "title": "I crowdfunded a novel using cryptocurrency ",
+      "title": "Kia’s new EV6 electric crossover goes straight to the head of the pack",
       "type": "article",
       "image": [
         {
-          "url": "https://cdn.substack.com/image/fetch/w_1200,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafd428d3-200b-473c-81ba-d0fe3d371b74_1000x700.png",
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/01/Kia-EV6-1-760x380.jpg",
           "secure_url": "",
           "type": "",
           "width": 0,
@@ -3586,64 +3586,16 @@
           "alt": ""
         }
       ],
-      "url": "https://ellegriffin.substack.com/p/crypto-funded-nft-novel",
+      "url": "https://arstechnica.com/cars/2022/01/kias-new-ev6-electric-crossover-goes-straight-to-the-head-of-the-pack/",
       "audio": [],
-      "description": "This could be how books get funded in the future.",
+      "description": "It's highly efficient, fun to drive, and loaded with equipment, too.",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "",
+      "site_name": "Ars Technica",
       "video": [],
       "favicon": {
-        "url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/6d33229e-dadd-4d42-81b0-60daf1fbc7ef/favicon-48x48.png"
-      }
-    }
-  },
-  {
-    "id": 30142896,
-    "title": "Decrypt an encrypted message to any plaintext",
-    "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts",
-    "time": 1643589180,
-    "image": "",
-    "icon": "https://www.go350.com/favicon-16x16.png",
-    "publisher": "go350.com",
-    "description": "a one-time pad implementation",
-    "by": "_wldu",
-    "points": 13,
-    "comment_count": 1,
-    "hn_item": {
-      "by": "camnora",
-      "descendants": 24,
-      "id": 30138468,
-      "kids": [
-        30140217,
-        30139229,
-        30138770,
-        30139945,
-        30139640,
-        30139547,
-        30140997
-      ],
-      "score": 102,
-      "time": 1643559712,
-      "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
-      "type": "story",
-      "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
-    },
-    "og_item": {
-      "title": "Padder",
-      "type": "article",
-      "image": [],
-      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/",
-      "audio": [],
-      "description": "a one-time pad implementation",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon-16x16.png"
+        "url": "https://cdn.arstechnica.net/wp-content/themes/ars/assets/img/material-ars-db41652381.png"
       }
     }
   },
@@ -3661,7 +3613,7 @@
     "comment_count": 2,
     "hn_item": {
       "by": "camnora",
-      "descendants": 24,
+      "descendants": 25,
       "id": 30138468,
       "kids": [
         30140217,
@@ -3696,6 +3648,54 @@
     }
   },
   {
+    "id": 30142896,
+    "title": "Decrypt an encrypted message to any plaintext",
+    "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts",
+    "time": 1643589180,
+    "image": "",
+    "icon": "https://www.go350.com/favicon-16x16.png",
+    "publisher": "go350.com",
+    "description": "a one-time pad implementation",
+    "by": "_wldu",
+    "points": 13,
+    "comment_count": 1,
+    "hn_item": {
+      "by": "camnora",
+      "descendants": 25,
+      "id": 30138468,
+      "kids": [
+        30140217,
+        30139229,
+        30138770,
+        30139945,
+        30139640,
+        30139547,
+        30140997
+      ],
+      "score": 102,
+      "time": 1643559712,
+      "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
+      "type": "story",
+      "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
+    },
+    "og_item": {
+      "title": "Padder",
+      "type": "article",
+      "image": [],
+      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/",
+      "audio": [],
+      "description": "a one-time pad implementation",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon-16x16.png"
+      }
+    }
+  },
+  {
     "id": 30138468,
     "title": "On the criteria to be used in decomposing systems into modules (1972) [pdf]",
     "url": "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf",
@@ -3709,7 +3709,7 @@
     "comment_count": 7,
     "hn_item": {
       "by": "camnora",
-      "descendants": 24,
+      "descendants": 25,
       "id": 30138468,
       "kids": [
         30140217,
