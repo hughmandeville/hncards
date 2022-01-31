@@ -38,7 +38,7 @@ const Card = ({ item }) => {
       {description && <div className="desc">{description}</div>}
       <div className="card-footer">
         by <a href={'https://news.ycombinator.com/user?id=' + by}>{by}</a>{' '}
-        <div className="dot">&bull;</div> {points} pts{' '}
+        <div className="dot">&bull;</div> <a href={'https://news.ycombinator.com/item?id=' + id}>{points} pts</a>{' '}
         {comment_count > 0 && <Comments comment_count={comment_count} id={id} />}
       </div>
     </div>
