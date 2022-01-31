@@ -5,3 +5,9 @@
   justify-content: center;
   align-items: flex-start;
 }
+
+.loading {
+  margin: 100px auto;
+  font-size: 24px;
+  color: #616161;
+}
