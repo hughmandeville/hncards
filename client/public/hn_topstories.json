@@ -9,8 +9,8 @@
     "publisher": "zillow.com",
     "description": "",
     "by": "otras",
-    "points": 92,
-    "comment_count": 15,
+    "points": 101,
+    "comment_count": 18,
     "hn_item": {
       "by": "fangpenlin",
       "descendants": 0,
@@ -49,7 +49,7 @@
     "publisher": "royalsociety.org",
     "description": "The Online Information Environment report discusses how to limit the harm of scientific misinformation online",
     "by": "steelstraw",
-    "points": 492,
+    "points": 500,
     "comment_count": 40,
     "hn_item": {
       "by": "fangpenlin",
@@ -98,7 +98,7 @@
     "publisher": "cacm.acm.org",
     "description": "AI is driving the next evolution of chess, giving players a glimpse into the game\u0026#39;s future.",
     "by": "joak",
-    "points": 34,
+    "points": 36,
     "comment_count": 4,
     "hn_item": {
       "by": "fangpenlin",
@@ -147,7 +147,7 @@
     "publisher": "JSTOR Daily",
     "description": "The man who introduced mesmerism to the US was a slave-owner from Guadeloupe, where planters were experimenting with “magnetizing” their enslaved people.",
     "by": "onychomys",
-    "points": 23,
+    "points": 25,
     "comment_count": 3,
     "hn_item": {
       "by": "fangpenlin",
@@ -196,7 +196,7 @@
     "publisher": "fahrrad-tools.de",
     "description": "Which tire fits my bike? Tires are always flat and now buy a tire with puncture protection? Find the right tire now!",
     "by": "moasda",
-    "points": 539,
+    "points": 543,
     "comment_count": 36,
     "hn_item": {
       "by": "fangpenlin",
@@ -236,7 +236,7 @@
     "publisher": "Medium",
     "description": "My journey on finding and reporting databases with sensitive data about Fortune-500 companies, Hospitals, Crypto platforms, Startups during…",
     "by": "boyter",
-    "points": 25,
+    "points": 28,
     "comment_count": 5,
     "hn_item": {
       "by": "fangpenlin",
@@ -285,7 +285,7 @@
     "publisher": "Azimuth",
     "description": "In his book Ramanujan: Twelve Lectures on Subjects Suggested by His Life and Work, G. H. Hardy tells this famous story: He could remember the idiosyncracies of numbers in an almost uncanny way. It …",
     "by": "johncarlosbaez",
-    "points": 63,
+    "points": 64,
     "comment_count": 6,
     "hn_item": {
       "by": "fangpenlin",
@@ -325,17 +325,17 @@
     }
   },
   {
-    "id": 30142558,
-    "title": "State of the Web: Static Site Generators",
-    "url": "https://byteofdev.com/posts/static-site-generators/",
-    "time": 1643586463,
-    "image": "https://ik.imagekit.io/serenity/ByteofDev/Blog_Heading_Images/State_of_the_Web_Static_Site_Generators",
-    "icon": "https://byteofdev.com/favicon.svg",
-    "publisher": "ByteofDev",
-    "description": "Static Site Generators have been changing quickly with new trends like Jamstack. Learn more about the background of static site generators, why people use them, and the current state of them, with information on modern SSGs like Eleventy, Next.js, SvelteKit, and Astro.",
-    "by": "AsyncBanana",
-    "points": 58,
-    "comment_count": 8,
+    "id": 30124457,
+    "title": "Chip shortages due to lack of investment in right fabs",
+    "url": "https://www.theregister.com/2022/01/28/idc_chip_shortages/",
+    "time": 1643440457,
+    "image": "",
+    "icon": "https://www.theregister.com/favicon.ico",
+    "publisher": "theregister.com",
+    "description": "",
+    "by": "laktak",
+    "points": 8,
+    "comment_count": 0,
     "hn_item": {
       "by": "fangpenlin",
       "descendants": 0,
@@ -348,28 +348,19 @@
       "url": "https://beanhub.io/"
     },
     "og_item": {
-      "title": "State of the Web: Static Site Generators",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://ik.imagekit.io/serenity/ByteofDev/Blog_Heading_Images/State_of_the_Web_Static_Site_Generators",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://byteofdev.com/posts/static-site-generators/",
+      "title": "",
+      "type": "",
+      "image": [],
+      "url": "",
       "audio": [],
-      "description": "Static Site Generators have been changing quickly with new trends like Jamstack. Learn more about the background of static site generators, why people use them, and the current state of them, with information on modern SSGs like Eleventy, Next.js, SvelteKit, and Astro.",
+      "description": "",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "ByteofDev",
+      "site_name": "",
       "video": [],
       "favicon": {
-        "url": "/favicon.svg"
+        "url": "/favicon.ico"
       }
     }
   },
@@ -383,7 +374,7 @@
     "publisher": "blog.openresty.com",
     "description": "Transparent Container Tracing Efficient Stack Unwinding Analyzing Dead Processes (Core Dumps) Very Low Tracing Overhead Standard Ylang Libraries \u0026amp; Tools Network Filtering \u0026amp; Control The Ylang Compiler\u0026rsquo;s Implementation Operating System Support Contributions to Open-Source Communities",
     "by": "walterbell",
-    "points": 23,
+    "points": 24,
     "comment_count": 2,
     "hn_item": {
       "by": "fangpenlin",
@@ -423,7 +414,7 @@
     "publisher": "Physics",
     "description": "The pattern of green and black scales on an ocellated lizard can be described with the two-parameter Ising model for antiferromagnetic systems.",
     "by": "shusaku",
-    "points": 26,
+    "points": 27,
     "comment_count": 3,
     "hn_item": {
       "by": "fangpenlin",
@@ -472,7 +463,7 @@
     "publisher": "hypercardsimulator.com",
     "description": "",
     "by": "alexmingoia",
-    "points": 202,
+    "points": 203,
     "comment_count": 14,
     "hn_item": {
       "by": "fangpenlin",
@@ -512,7 +503,7 @@
     "publisher": "web.archive.org",
     "description": "",
     "by": "ecliptik",
-    "points": 84,
+    "points": 86,
     "comment_count": 8,
     "hn_item": {
       "by": "fangpenlin",
@@ -543,17 +534,17 @@
     }
   },
   {
-    "id": 30124457,
-    "title": "Chip shortages due to lack of investment in right fabs",
-    "url": "https://www.theregister.com/2022/01/28/idc_chip_shortages/",
-    "time": 1643440457,
-    "image": "",
-    "icon": "https://www.theregister.com/favicon.ico",
-    "publisher": "theregister.com",
-    "description": "",
-    "by": "laktak",
-    "points": 5,
-    "comment_count": 0,
+    "id": 30142558,
+    "title": "State of the Web: Static Site Generators",
+    "url": "https://byteofdev.com/posts/static-site-generators/",
+    "time": 1643586463,
+    "image": "https://ik.imagekit.io/serenity/ByteofDev/Blog_Heading_Images/State_of_the_Web_Static_Site_Generators",
+    "icon": "https://byteofdev.com/favicon.svg",
+    "publisher": "ByteofDev",
+    "description": "Static Site Generators have been changing quickly with new trends like Jamstack. Learn more about the background of static site generators, why people use them, and the current state of them, with information on modern SSGs like Eleventy, Next.js, SvelteKit, and Astro.",
+    "by": "AsyncBanana",
+    "points": 60,
+    "comment_count": 10,
     "hn_item": {
       "by": "fangpenlin",
       "descendants": 0,
@@ -566,19 +557,28 @@
       "url": "https://beanhub.io/"
     },
     "og_item": {
-      "title": "",
-      "type": "",
-      "image": [],
-      "url": "",
+      "title": "State of the Web: Static Site Generators",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://ik.imagekit.io/serenity/ByteofDev/Blog_Heading_Images/State_of_the_Web_Static_Site_Generators",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://byteofdev.com/posts/static-site-generators/",
       "audio": [],
-      "description": "",
+      "description": "Static Site Generators have been changing quickly with new trends like Jamstack. Learn more about the background of static site generators, why people use them, and the current state of them, with information on modern SSGs like Eleventy, Next.js, SvelteKit, and Astro.",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "",
+      "site_name": "ByteofDev",
       "video": [],
       "favicon": {
-        "url": "/favicon.ico"
+        "url": "/favicon.svg"
       }
     }
   },
@@ -632,7 +632,7 @@
     "publisher": "American Affairs Journal",
     "description": "Operation Warp Speed1 (OWS) was launched on May 15, 2020. A partnership between the Departments of Health and Human Services (HHS) and Defense (DoD), other agencies, and the private sector, its goal was to “accelerate the testing, supply, development, and distribution of safe and effective vacc…",
     "by": "gok",
-    "points": 90,
+    "points": 92,
     "comment_count": 5,
     "hn_item": {
       "by": "fangpenlin",
@@ -681,8 +681,8 @@
     "publisher": "Washington Post",
     "description": "Rising rents are also expected to be a driving force in inflation this year and have been an ongoing policy challenge for the Biden administration.",
     "by": "MilnerRoute",
-    "points": 36,
-    "comment_count": 6,
+    "points": 42,
+    "comment_count": 7,
     "hn_item": {
       "by": "fangpenlin",
       "descendants": 0,
@@ -730,8 +730,8 @@
     "publisher": "luttig.substack.com",
     "description": "Understanding the behemoth in Redmond teaches us valuable lessons in cloud infrastructure, startup strategy, and the future of software.",
     "by": "SamvitJ",
-    "points": 216,
-    "comment_count": 46,
+    "points": 218,
+    "comment_count": 47,
     "hn_item": {
       "by": "fangpenlin",
       "descendants": 0,
@@ -828,7 +828,7 @@
     "publisher": "jenson.org",
     "description": "",
     "by": "radley",
-    "points": 633,
+    "points": 643,
     "comment_count": 92,
     "hn_item": {
       "by": "fangpenlin",
@@ -908,17 +908,17 @@
     }
   },
   {
-    "id": 30137681,
-    "title": "In defence of the boring web",
-    "url": "https://bastian.rieck.me/blog/posts/2022/boring/",
-    "time": 1643554351,
+    "id": 30128193,
+    "title": "On Immersion",
+    "url": "https://blog.laurel.world/on-immersion/",
+    "time": 1643477006,
     "image": "",
-    "icon": "https://bastian.rieck.me/favicon.ico",
-    "publisher": "bastian.rieck.me",
+    "icon": "https://blog.laurel.world/favicon.ico",
+    "publisher": "blog.laurel.world",
     "description": "",
-    "by": "Topolomancer",
-    "points": 193,
-    "comment_count": 22,
+    "by": "artmare",
+    "points": 23,
+    "comment_count": 0,
     "hn_item": {
       "by": "fangpenlin",
       "descendants": 0,
@@ -931,7 +931,7 @@
       "url": "https://beanhub.io/"
     },
     "og_item": {
-      "title": "In Defence of the Boring Web",
+      "title": "A couple years ago, I created this list: immersive: walking taking a shower sleeping teaching falling in love cinema life or death experience I was curious about these amazing parts of life that feel so meaningful — like portals, where time and space take on a totally different, enchanted feeling. I remember writing this list… – blog.laurel.world",
       "type": "",
       "image": [],
       "url": "",
@@ -997,17 +997,17 @@
     }
   },
   {
-    "id": 30128193,
-    "title": "On Immersion",
-    "url": "https://blog.laurel.world/on-immersion/",
-    "time": 1643477006,
+    "id": 30137681,
+    "title": "In defence of the boring web",
+    "url": "https://bastian.rieck.me/blog/posts/2022/boring/",
+    "time": 1643554351,
     "image": "",
-    "icon": "https://blog.laurel.world/favicon.ico",
-    "publisher": "blog.laurel.world",
+    "icon": "https://bastian.rieck.me/favicon.ico",
+    "publisher": "bastian.rieck.me",
     "description": "",
-    "by": "artmare",
-    "points": 22,
-    "comment_count": 0,
+    "by": "Topolomancer",
+    "points": 195,
+    "comment_count": 23,
     "hn_item": {
       "by": "fangpenlin",
       "descendants": 0,
@@ -1020,7 +1020,7 @@
       "url": "https://beanhub.io/"
     },
     "og_item": {
-      "title": "A couple years ago, I created this list: immersive: walking taking a shower sleeping teaching falling in love cinema life or death experience I was curious about these amazing parts of life that feel so meaningful — like portals, where time and space take on a totally different, enchanted feeling. I remember writing this list… – blog.laurel.world",
+      "title": "In Defence of the Boring Web",
       "type": "",
       "image": [],
       "url": "",
@@ -1037,46 +1037,6 @@
     }
   },
   {
-    "id": 30131387,
-    "title": "Game performance optimization – A practical example from Industry Idle",
-    "url": "https://ruoyusun.com/2022/01/28/game-pref.html",
-    "time": 1643496513,
-    "image": "",
-    "icon": "https://ruoyusun.com/favicon-16x16.png",
-    "publisher": "ruoyusun.com",
-    "description": "",
-    "by": "insraq",
-    "points": 40,
-    "comment_count": 4,
-    "hn_item": {
-      "by": "fangpenlin",
-      "descendants": 0,
-      "id": 30141215,
-      "kids": null,
-      "score": 16,
-      "time": 1643577545,
-      "title": "Show HN: BeanHub – A GitHub for Beancount",
-      "type": "story",
-      "url": "https://beanhub.io/"
-    },
-    "og_item": {
-      "title": "Game Performance Optimization - A Practical Example From Industry Idle",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon-16x16.png"
-      }
-    }
-  },
-  {
     "id": 30142105,
     "title": "Seattle Telecommunications History Museum",
     "url": "https://www.telcomhistory.org/connections-museum-seattle/",
@@ -1086,7 +1046,7 @@
     "publisher": "telcomhistory.org",
     "description": "",
     "by": "basementcat",
-    "points": 38,
+    "points": 41,
     "comment_count": 7,
     "hn_item": {
       "by": "fangpenlin",
@@ -1113,6 +1073,46 @@
       "video": [],
       "favicon": {
         "url": "/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30131387,
+    "title": "Game performance optimization – A practical example from Industry Idle",
+    "url": "https://ruoyusun.com/2022/01/28/game-pref.html",
+    "time": 1643496513,
+    "image": "",
+    "icon": "https://ruoyusun.com/favicon-16x16.png",
+    "publisher": "ruoyusun.com",
+    "description": "",
+    "by": "insraq",
+    "points": 41,
+    "comment_count": 4,
+    "hn_item": {
+      "by": "fangpenlin",
+      "descendants": 0,
+      "id": 30141215,
+      "kids": null,
+      "score": 16,
+      "time": 1643577545,
+      "title": "Show HN: BeanHub – A GitHub for Beancount",
+      "type": "story",
+      "url": "https://beanhub.io/"
+    },
+    "og_item": {
+      "title": "Game Performance Optimization - A Practical Example From Industry Idle",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon-16x16.png"
       }
     }
   },
@@ -1175,7 +1175,7 @@
     "publisher": "BBC News",
     "description": "The bottle Joanna Buchan dropped in the sea at Peterhead when she was eight has washed up in Norway.",
     "by": "LinuxBender",
-    "points": 88,
+    "points": 89,
     "comment_count": 9,
     "hn_item": {
       "by": "fangpenlin",
@@ -1304,7 +1304,7 @@
     "publisher": "lowleveldesign.org",
     "description": "More than ten years ago (how time flies!), when I published the basic sample of a COM+ server and client, I thought that I wouldn’t be touching this subject again. But here we are, in 2022, a…",
     "by": "lowleveldesign",
-    "points": 72,
+    "points": 74,
     "comment_count": 12,
     "hn_item": {
       "by": "fangpenlin",
@@ -1353,7 +1353,7 @@
     "publisher": "win.tue.nl",
     "description": "",
     "by": "camnora",
-    "points": 98,
+    "points": 99,
     "comment_count": 7,
     "hn_item": {
       "by": "fangpenlin",
@@ -1369,6 +1369,55 @@
     "og_item": null
   },
   {
+    "id": 30115520,
+    "title": "Pearls Before Breakfast (2007)",
+    "url": "https://www.washingtonpost.com/lifestyle/magazine/pearls-before-breakfast-can-one-of-the-nations-great-musicians-cut-through-the-fog-of-a-dc-rush-hour-lets-find-out/2014/09/23/8a6d46da-4331-11e4-b47c-f5889e061e5f_story.html",
+    "time": 1643382593,
+    "image": "https://www.washingtonpost.com/pbox.php?url=https://www.washingtonpost.com/pb/resources/img/twp-social-share.png\u0026w=1484\u0026op=resize\u0026opt=1\u0026filter=antialias\u0026t=20170517",
+    "icon": "https://www.washingtonpost.com/favicon.ico",
+    "publisher": "Washington Post",
+    "description": "Joshua Bell is one of the world’s greatest violinists. His instrument of choice is a multimillion-dollar Stradivarius. If he played it for spare change, incognito, outside a bustling Metro stop in Washington, would anyone notice?",
+    "by": "Tomte",
+    "points": 11,
+    "comment_count": 6,
+    "hn_item": {
+      "by": "fangpenlin",
+      "descendants": 0,
+      "id": 30141215,
+      "kids": null,
+      "score": 16,
+      "time": 1643577545,
+      "title": "Show HN: BeanHub – A GitHub for Beancount",
+      "type": "story",
+      "url": "https://beanhub.io/"
+    },
+    "og_item": {
+      "title": "Pearls Before Breakfast: Can one of the nation’s great musicians cut through the fog of a D.C. rush hour? Let’s find out.",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://www.washingtonpost.com/pbox.php?url=https://www.washingtonpost.com/pb/resources/img/twp-social-share.png\u0026w=1484\u0026op=resize\u0026opt=1\u0026filter=antialias\u0026t=20170517",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://www.washingtonpost.com/lifestyle/magazine/pearls-before-breakfast-can-one-of-the-nations-great-musicians-cut-through-the-fog-of-a-dc-rush-hour-lets-find-out/2014/09/23/8a6d46da-4331-11e4-b47c-f5889e061e5f_story.html",
+      "audio": [],
+      "description": "Joshua Bell is one of the world’s greatest violinists. His instrument of choice is a multimillion-dollar Stradivarius. If he played it for spare change, incognito, outside a bustling Metro stop in Washington, would anyone notice?",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Washington Post",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30142918,
     "title": "Unconscious R\u0026D (2021)",
     "url": "https://subconscious.substack.com/p/unconscious-r-and-d",
@@ -1379,7 +1428,7 @@
     "description": "What if your notes could self-organize—from scratch notes, to draft, to finished creative work—through a stream-of-consciousness process—like dreaming? Years ago, I was part of a user study that aimed to understand how creators create. We interviewed authors, artists, students, influencers,…",
     "by": "fagnerbrack",
     "points": 18,
-    "comment_count": 2,
+    "comment_count": 3,
     "hn_item": {
       "by": "fangpenlin",
       "descendants": 0,
@@ -1516,17 +1565,17 @@
     }
   },
   {
-    "id": 30135190,
-    "title": "FunctionStomping – A new shellcode injection technique",
-    "url": "https://github.com/Idov31/FunctionStomping",
-    "time": 1643533222,
-    "image": "https://opengraph.githubassets.com/3e5ae622099eb47e710f07856f4be2a647ec35c3a4b33fa21790d61fb0b8b380/Idov31/FunctionStomping",
-    "icon": "https://github.githubassets.com/favicons/favicon.svg",
-    "publisher": "GitHub",
-    "description": "A new shellcode injection technique. Given as C++ header or standalone Rust program. - GitHub - Idov31/FunctionStomping: A new shellcode injection technique. Given as C++ header or standalone Rust ...",
-    "by": "maydemir",
-    "points": 32,
-    "comment_count": 2,
+    "id": 30144101,
+    "title": "Please Make a Dumb Car",
+    "url": "https://techcrunch.com/2022/01/29/please-make-a-dumb-car/",
+    "time": 1643599448,
+    "image": "https://techcrunch.com/wp-content/uploads/2022/01/dumb-car2.jpg?w=711",
+    "icon": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=192",
+    "publisher": "TechCrunch",
+    "description": "Today’s cars are dumb where they should be smart, and smart where they should be dumb. Enough already. Make a car that’s pretty much all dumb and watch it sell — because what automakers are giving people is so bad, they’ll pay more to have less of it. Cars now are like budget smar…",
+    "by": "wrycoder",
+    "points": 22,
+    "comment_count": 3,
     "hn_item": {
       "by": "fangpenlin",
       "descendants": 0,
@@ -1539,60 +1588,11 @@
       "url": "https://beanhub.io/"
     },
     "og_item": {
-      "title": "GitHub - Idov31/FunctionStomping: A new shellcode injection technique. Given as C++ header or standalone Rust program.",
-      "type": "object",
-      "image": [
-        {
-          "url": "https://opengraph.githubassets.com/3e5ae622099eb47e710f07856f4be2a647ec35c3a4b33fa21790d61fb0b8b380/Idov31/FunctionStomping",
-          "secure_url": "",
-          "type": "",
-          "width": 1200,
-          "height": 600,
-          "alt": ""
-        }
-      ],
-      "url": "https://github.com/Idov31/FunctionStomping",
-      "audio": [],
-      "description": "A new shellcode injection technique. Given as C++ header or standalone Rust program. - GitHub - Idov31/FunctionStomping: A new shellcode injection technique. Given as C++ header or standalone Rust ...",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "GitHub",
-      "video": [],
-      "favicon": {
-        "url": "https://github.githubassets.com/favicons/favicon.svg"
-      }
-    }
-  },
-  {
-    "id": 30115520,
-    "title": "Pearls Before Breakfast (2007)",
-    "url": "https://www.washingtonpost.com/lifestyle/magazine/pearls-before-breakfast-can-one-of-the-nations-great-musicians-cut-through-the-fog-of-a-dc-rush-hour-lets-find-out/2014/09/23/8a6d46da-4331-11e4-b47c-f5889e061e5f_story.html",
-    "time": 1643382593,
-    "image": "https://www.washingtonpost.com/pbox.php?url=https://www.washingtonpost.com/pb/resources/img/twp-social-share.png\u0026w=1484\u0026op=resize\u0026opt=1\u0026filter=antialias\u0026t=20170517",
-    "icon": "https://www.washingtonpost.com/favicon.ico",
-    "publisher": "Washington Post",
-    "description": "Joshua Bell is one of the world’s greatest violinists. His instrument of choice is a multimillion-dollar Stradivarius. If he played it for spare change, incognito, outside a bustling Metro stop in Washington, would anyone notice?",
-    "by": "Tomte",
-    "points": 10,
-    "comment_count": 6,
-    "hn_item": {
-      "by": "fangpenlin",
-      "descendants": 0,
-      "id": 30141215,
-      "kids": null,
-      "score": 16,
-      "time": 1643577545,
-      "title": "Show HN: BeanHub – A GitHub for Beancount",
-      "type": "story",
-      "url": "https://beanhub.io/"
-    },
-    "og_item": {
-      "title": "Pearls Before Breakfast: Can one of the nation’s great musicians cut through the fog of a D.C. rush hour? Let’s find out.",
+      "title": "Please make a dumb car – TechCrunch",
       "type": "article",
       "image": [
         {
-          "url": "https://www.washingtonpost.com/pbox.php?url=https://www.washingtonpost.com/pb/resources/img/twp-social-share.png\u0026w=1484\u0026op=resize\u0026opt=1\u0026filter=antialias\u0026t=20170517",
+          "url": "https://techcrunch.com/wp-content/uploads/2022/01/dumb-car2.jpg?w=711",
           "secure_url": "",
           "type": "",
           "width": 0,
@@ -1600,16 +1600,16 @@
           "alt": ""
         }
       ],
-      "url": "https://www.washingtonpost.com/lifestyle/magazine/pearls-before-breakfast-can-one-of-the-nations-great-musicians-cut-through-the-fog-of-a-dc-rush-hour-lets-find-out/2014/09/23/8a6d46da-4331-11e4-b47c-f5889e061e5f_story.html",
+      "url": "https://social.techcrunch.com/2022/01/29/please-make-a-dumb-car/",
       "audio": [],
-      "description": "Joshua Bell is one of the world’s greatest violinists. His instrument of choice is a multimillion-dollar Stradivarius. If he played it for spare change, incognito, outside a bustling Metro stop in Washington, would anyone notice?",
+      "description": "Today’s cars are dumb where they should be smart, and smart where they should be dumb. Enough already. Make a car that’s pretty much all dumb and watch it sell — because what automakers are giving people is so bad, they’ll pay more to have less of it. Cars now are like budget smar…",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "Washington Post",
+      "site_name": "TechCrunch",
       "video": [],
       "favicon": {
-        "url": "/favicon.ico"
+        "url": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=192"
       }
     }
   },
@@ -1663,17 +1663,17 @@
     }
   },
   {
-    "id": 30144101,
-    "title": "Please Make a Dumb Car",
-    "url": "https://techcrunch.com/2022/01/29/please-make-a-dumb-car/",
-    "time": 1643599448,
-    "image": "https://techcrunch.com/wp-content/uploads/2022/01/dumb-car2.jpg?w=711",
-    "icon": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=192",
-    "publisher": "TechCrunch",
-    "description": "Today’s cars are dumb where they should be smart, and smart where they should be dumb. Enough already. Make a car that’s pretty much all dumb and watch it sell — because what automakers are giving people is so bad, they’ll pay more to have less of it. Cars now are like budget smar…",
-    "by": "wrycoder",
-    "points": 19,
-    "comment_count": 3,
+    "id": 30135190,
+    "title": "FunctionStomping – A new shellcode injection technique",
+    "url": "https://github.com/Idov31/FunctionStomping",
+    "time": 1643533222,
+    "image": "https://opengraph.githubassets.com/3e5ae622099eb47e710f07856f4be2a647ec35c3a4b33fa21790d61fb0b8b380/Idov31/FunctionStomping",
+    "icon": "https://github.githubassets.com/favicons/favicon.svg",
+    "publisher": "GitHub",
+    "description": "A new shellcode injection technique. Given as C++ header or standalone Rust program. - GitHub - Idov31/FunctionStomping: A new shellcode injection technique. Given as C++ header or standalone Rust ...",
+    "by": "maydemir",
+    "points": 32,
+    "comment_count": 2,
     "hn_item": {
       "by": "fangpenlin",
       "descendants": 0,
@@ -1686,28 +1686,28 @@
       "url": "https://beanhub.io/"
     },
     "og_item": {
-      "title": "Please make a dumb car – TechCrunch",
-      "type": "article",
+      "title": "GitHub - Idov31/FunctionStomping: A new shellcode injection technique. Given as C++ header or standalone Rust program.",
+      "type": "object",
       "image": [
         {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/01/dumb-car2.jpg?w=711",
+          "url": "https://opengraph.githubassets.com/3e5ae622099eb47e710f07856f4be2a647ec35c3a4b33fa21790d61fb0b8b380/Idov31/FunctionStomping",
           "secure_url": "",
           "type": "",
-          "width": 0,
-          "height": 0,
+          "width": 1200,
+          "height": 600,
           "alt": ""
         }
       ],
-      "url": "https://social.techcrunch.com/2022/01/29/please-make-a-dumb-car/",
+      "url": "https://github.com/Idov31/FunctionStomping",
       "audio": [],
-      "description": "Today’s cars are dumb where they should be smart, and smart where they should be dumb. Enough already. Make a car that’s pretty much all dumb and watch it sell — because what automakers are giving people is so bad, they’ll pay more to have less of it. Cars now are like budget smar…",
+      "description": "A new shellcode injection technique. Given as C++ header or standalone Rust program. - GitHub - Idov31/FunctionStomping: A new shellcode injection technique. Given as C++ header or standalone Rust ...",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "TechCrunch",
+      "site_name": "GitHub",
       "video": [],
       "favicon": {
-        "url": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=192"
+        "url": "https://github.githubassets.com/favicons/favicon.svg"
       }
     }
   },
@@ -1761,55 +1761,6 @@
     }
   },
   {
-    "id": 30129565,
-    "title": "Static-Let, or how I Learned to stop worrying and love Load-Time-Value",
-    "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md",
-    "time": 1643484611,
-    "image": "https://opengraph.githubassets.com/ea544d0bb229911171eaeb56aeac2f73687bc3e4eb5ff0b1c01769be3a010e5c/phoe/articles",
-    "icon": "https://github.githubassets.com/favicons/favicon.svg",
-    "publisher": "GitHub",
-    "description": "An assorted gathering of the Lisp posts and articles I make. - articles/static-let.md at main · phoe/articles",
-    "by": "phoe-krk",
-    "points": 7,
-    "comment_count": 2,
-    "hn_item": {
-      "by": "fangpenlin",
-      "descendants": 0,
-      "id": 30141215,
-      "kids": null,
-      "score": 16,
-      "time": 1643577545,
-      "title": "Show HN: BeanHub – A GitHub for Beancount",
-      "type": "story",
-      "url": "https://beanhub.io/"
-    },
-    "og_item": {
-      "title": "articles/static-let.md at main · phoe/articles",
-      "type": "object",
-      "image": [
-        {
-          "url": "https://opengraph.githubassets.com/ea544d0bb229911171eaeb56aeac2f73687bc3e4eb5ff0b1c01769be3a010e5c/phoe/articles",
-          "secure_url": "",
-          "type": "",
-          "width": 1200,
-          "height": 600,
-          "alt": ""
-        }
-      ],
-      "url": "https://github.com/phoe/articles",
-      "audio": [],
-      "description": "An assorted gathering of the Lisp posts and articles I make. - articles/static-let.md at main · phoe/articles",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "GitHub",
-      "video": [],
-      "favicon": {
-        "url": "https://github.githubassets.com/favicons/favicon.svg"
-      }
-    }
-  },
-  {
     "id": 30117131,
     "title": "How to excel in tech without learning to code",
     "url": "https://future.a16z.com/excel-in-tech-without-learning-to-code/",
@@ -1859,6 +1810,55 @@
     }
   },
   {
+    "id": 30129565,
+    "title": "Static-Let, or how I Learned to stop worrying and love Load-Time-Value",
+    "url": "https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md",
+    "time": 1643484611,
+    "image": "https://opengraph.githubassets.com/ea544d0bb229911171eaeb56aeac2f73687bc3e4eb5ff0b1c01769be3a010e5c/phoe/articles",
+    "icon": "https://github.githubassets.com/favicons/favicon.svg",
+    "publisher": "GitHub",
+    "description": "An assorted gathering of the Lisp posts and articles I make. - articles/static-let.md at main · phoe/articles",
+    "by": "phoe-krk",
+    "points": 7,
+    "comment_count": 2,
+    "hn_item": {
+      "by": "fangpenlin",
+      "descendants": 0,
+      "id": 30141215,
+      "kids": null,
+      "score": 16,
+      "time": 1643577545,
+      "title": "Show HN: BeanHub – A GitHub for Beancount",
+      "type": "story",
+      "url": "https://beanhub.io/"
+    },
+    "og_item": {
+      "title": "articles/static-let.md at main · phoe/articles",
+      "type": "object",
+      "image": [
+        {
+          "url": "https://opengraph.githubassets.com/ea544d0bb229911171eaeb56aeac2f73687bc3e4eb5ff0b1c01769be3a010e5c/phoe/articles",
+          "secure_url": "",
+          "type": "",
+          "width": 1200,
+          "height": 600,
+          "alt": ""
+        }
+      ],
+      "url": "https://github.com/phoe/articles",
+      "audio": [],
+      "description": "An assorted gathering of the Lisp posts and articles I make. - articles/static-let.md at main · phoe/articles",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "GitHub",
+      "video": [],
+      "favicon": {
+        "url": "https://github.githubassets.com/favicons/favicon.svg"
+      }
+    }
+  },
+  {
     "id": 30138420,
     "title": "Autonomous battery-powered rail cars",
     "url": "https://arstechnica.com/cars/2022/01/moving-more-with-less-freight-startup-bets-on-autonomous-electric-rail-cars/",
@@ -1868,7 +1868,7 @@
     "publisher": "Ars Technica",
     "description": "Advances in batteries, autonomy could extend the reach of freight railroads.",
     "by": "vanburen",
-    "points": 76,
+    "points": 77,
     "comment_count": 17,
     "hn_item": {
       "by": "fangpenlin",
@@ -1917,7 +1917,7 @@
     "publisher": "Harvard Gazette",
     "description": "Zoom pottery class enlists Harvard Art Museums experts to help re-create treasures from the collection.",
     "by": "prismatic",
-    "points": 13,
+    "points": 14,
     "comment_count": 1,
     "hn_item": {
       "by": "fangpenlin",
@@ -1966,7 +1966,7 @@
     "publisher": "lethain.com",
     "description": "A few days ago, I got to have a delightful chat with Katie Wilde, digging into a question that we’ve both found difficult to answer: what distinguishes managers perceived to have good judgment from those perceived to have bad judgment? In exploring that question, the topic of mental models came…",
     "by": "wavelander",
-    "points": 31,
+    "points": 32,
     "comment_count": 0,
     "hn_item": {
       "by": "fangpenlin",
@@ -2055,6 +2055,86 @@
     }
   },
   {
+    "id": 30144516,
+    "title": "“Memory leaks are memory safe in Rust”",
+    "url": "https://doc.rust-lang.org/book/ch15-06-reference-cycles.html",
+    "time": 1643603628,
+    "image": "",
+    "icon": "https://doc.rust-lang.org/book/favicon.png",
+    "publisher": "doc.rust-lang.org",
+    "description": "",
+    "by": "DoctorOW",
+    "points": 5,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "fangpenlin",
+      "descendants": 0,
+      "id": 30141215,
+      "kids": null,
+      "score": 16,
+      "time": 1643577545,
+      "title": "Show HN: BeanHub – A GitHub for Beancount",
+      "type": "story",
+      "url": "https://beanhub.io/"
+    },
+    "og_item": {
+      "title": "Reference Cycles Can Leak Memory - The Rust Programming Language",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "favicon.png"
+      }
+    }
+  },
+  {
+    "id": 30120857,
+    "title": "Writing an efficient Vulkan renderer (2020)",
+    "url": "https://zeux.io/2020/02/27/writing-an-efficient-vulkan-renderer/",
+    "time": 1643406697,
+    "image": "",
+    "icon": "https://zeux.io/2020/02/27/writing-an-efficient-vulkan-renderer/data:;base64,iVBORw0KGgo=",
+    "publisher": "zeux.io",
+    "description": "",
+    "by": "nabla9",
+    "points": 75,
+    "comment_count": 5,
+    "hn_item": {
+      "by": "fangpenlin",
+      "descendants": 0,
+      "id": 30141215,
+      "kids": null,
+      "score": 16,
+      "time": 1643577545,
+      "title": "Show HN: BeanHub – A GitHub for Beancount",
+      "type": "story",
+      "url": "https://beanhub.io/"
+    },
+    "og_item": {
+      "title": "\n    zeux.io - Writing an efficient Vulkan renderer\n  ",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "data:;base64,iVBORw0KGgo="
+      }
+    }
+  },
+  {
     "id": 30143377,
     "title": "A Simple Transformer Implementation(PyTorch) Without Difficult Syntax",
     "url": "https://github.com/IpsumDominum/Pytorch-Simple-Transformer",
@@ -2104,17 +2184,17 @@
     }
   },
   {
-    "id": 30120857,
-    "title": "Writing an efficient Vulkan renderer (2020)",
-    "url": "https://zeux.io/2020/02/27/writing-an-efficient-vulkan-renderer/",
-    "time": 1643406697,
+    "id": 30138277,
+    "title": "Set up a website with Nim (2019)",
+    "url": "https://ttj.dk/blog/2019/01/20/setup-a-website-with-nim",
+    "time": 1643558464,
     "image": "",
-    "icon": "https://zeux.io/2020/02/27/writing-an-efficient-vulkan-renderer/data:;base64,iVBORw0KGgo=",
-    "publisher": "zeux.io",
-    "description": "",
-    "by": "nabla9",
-    "points": 75,
-    "comment_count": 5,
+    "icon": "https://ttj.dk/images/favicon-ttj.png",
+    "publisher": "ttj.dk",
+    "description": "This small tutorial will help you create a website with Nim. We'll use libraries from the standard library and some externals from Nim-users. You will learn to create a small webserver with an admin user who has access to the secret area.",
+    "by": "melissalobos",
+    "points": 77,
+    "comment_count": 7,
     "hn_item": {
       "by": "fangpenlin",
       "descendants": 0,
@@ -2127,19 +2207,19 @@
       "url": "https://beanhub.io/"
     },
     "og_item": {
-      "title": "\n    zeux.io - Writing an efficient Vulkan renderer\n  ",
+      "title": " Nim tutorial for setting up a website. ",
       "type": "",
       "image": [],
       "url": "",
       "audio": [],
-      "description": "",
+      "description": "This small tutorial will help you create a website with Nim. We'll use libraries from the standard library and some externals from Nim-users. You will learn to create a small webserver with an admin user who has access to the secret area.",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
       "site_name": "",
       "video": [],
       "favicon": {
-        "url": "data:;base64,iVBORw0KGgo="
+        "url": "/images/favicon-ttj.png"
       }
     }
   },
@@ -2180,86 +2260,6 @@
       "video": [],
       "favicon": {
         "url": "/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30138277,
-    "title": "Set up a website with Nim (2019)",
-    "url": "https://ttj.dk/blog/2019/01/20/setup-a-website-with-nim",
-    "time": 1643558464,
-    "image": "",
-    "icon": "https://ttj.dk/images/favicon-ttj.png",
-    "publisher": "ttj.dk",
-    "description": "This small tutorial will help you create a website with Nim. We'll use libraries from the standard library and some externals from Nim-users. You will learn to create a small webserver with an admin user who has access to the secret area.",
-    "by": "melissalobos",
-    "points": 75,
-    "comment_count": 7,
-    "hn_item": {
-      "by": "fangpenlin",
-      "descendants": 0,
-      "id": 30141215,
-      "kids": null,
-      "score": 16,
-      "time": 1643577545,
-      "title": "Show HN: BeanHub – A GitHub for Beancount",
-      "type": "story",
-      "url": "https://beanhub.io/"
-    },
-    "og_item": {
-      "title": " Nim tutorial for setting up a website. ",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "This small tutorial will help you create a website with Nim. We'll use libraries from the standard library and some externals from Nim-users. You will learn to create a small webserver with an admin user who has access to the secret area.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/images/favicon-ttj.png"
-      }
-    }
-  },
-  {
-    "id": 30144516,
-    "title": "“Memory leaks are memory safe in Rust”",
-    "url": "https://doc.rust-lang.org/book/ch15-06-reference-cycles.html",
-    "time": 1643603628,
-    "image": "",
-    "icon": "https://doc.rust-lang.org/book/favicon.png",
-    "publisher": "doc.rust-lang.org",
-    "description": "",
-    "by": "DoctorOW",
-    "points": 4,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "fangpenlin",
-      "descendants": 0,
-      "id": 30141215,
-      "kids": null,
-      "score": 16,
-      "time": 1643577545,
-      "title": "Show HN: BeanHub – A GitHub for Beancount",
-      "type": "story",
-      "url": "https://beanhub.io/"
-    },
-    "og_item": {
-      "title": "Reference Cycles Can Leak Memory - The Rust Programming Language",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "favicon.png"
       }
     }
   },
@@ -2313,6 +2313,46 @@
     }
   },
   {
+    "id": 30142896,
+    "title": "Decrypt an encrypted message to any plaintext",
+    "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts",
+    "time": 1643589180,
+    "image": "",
+    "icon": "https://www.go350.com/favicon-16x16.png",
+    "publisher": "go350.com",
+    "description": "a one-time pad implementation",
+    "by": "_wldu",
+    "points": 12,
+    "comment_count": 1,
+    "hn_item": {
+      "by": "fangpenlin",
+      "descendants": 0,
+      "id": 30141215,
+      "kids": null,
+      "score": 16,
+      "time": 1643577545,
+      "title": "Show HN: BeanHub – A GitHub for Beancount",
+      "type": "story",
+      "url": "https://beanhub.io/"
+    },
+    "og_item": {
+      "title": "Padder",
+      "type": "article",
+      "image": [],
+      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/",
+      "audio": [],
+      "description": "a one-time pad implementation",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon-16x16.png"
+      }
+    }
+  },
+  {
     "id": 30139734,
     "title": "Show the case against",
     "url": "https://www.shubhro.com/2022/01/03/show-the-case-against/",
@@ -2349,55 +2389,6 @@
       "video": [],
       "favicon": {
         "url": "/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30142351,
-    "title": "Completing a Creative Project",
-    "url": "https://www.sonyasupposedly.com/completing-a-creative-project/",
-    "time": 1643585100,
-    "image": "https://www.sonyasupposedly.com/content/images/2022/01/artdecoladies-1.jpg",
-    "icon": "https://www.sonyasupposedly.com/favicon.png",
-    "publisher": "Sonya Supposedly",
-    "description": "My undying thanks to members for funding the following realizations 💖 Btw, click here for the PDF version that I mailed in November, if you want it for some reason. How to complete a creative project: stick with it until you're done. Gee thanks, great advice, I know. But it's true!",
-    "by": "exolymph",
-    "points": 4,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "fangpenlin",
-      "descendants": 0,
-      "id": 30141215,
-      "kids": null,
-      "score": 16,
-      "time": 1643577545,
-      "title": "Show HN: BeanHub – A GitHub for Beancount",
-      "type": "story",
-      "url": "https://beanhub.io/"
-    },
-    "og_item": {
-      "title": "Completing a Creative Project",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://www.sonyasupposedly.com/content/images/2022/01/artdecoladies-1.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 2000,
-          "height": 1050,
-          "alt": ""
-        }
-      ],
-      "url": "https://www.sonyasupposedly.com/completing-a-creative-project/",
-      "audio": [],
-      "description": "My undying thanks to members for funding the following realizations 💖 Btw, click here for the PDF version that I mailed in November, if you want it for some reason. How to complete a creative project: stick with it until you're done. Gee thanks, great advice, I know. But it's true!",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Sonya Supposedly",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.png"
       }
     }
   },
@@ -2451,7 +2442,7 @@
     "publisher": "Eurogamer.net",
     "description": "",
     "by": "atombender",
-    "points": 223,
+    "points": 224,
     "comment_count": 25,
     "hn_item": {
       "by": "fangpenlin",
@@ -2487,6 +2478,55 @@
       "video": [],
       "favicon": {
         "url": "https://www.eurogamer.net/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30142351,
+    "title": "Completing a Creative Project",
+    "url": "https://www.sonyasupposedly.com/completing-a-creative-project/",
+    "time": 1643585100,
+    "image": "https://www.sonyasupposedly.com/content/images/2022/01/artdecoladies-1.jpg",
+    "icon": "https://www.sonyasupposedly.com/favicon.png",
+    "publisher": "Sonya Supposedly",
+    "description": "My undying thanks to members for funding the following realizations 💖 Btw, click here for the PDF version that I mailed in November, if you want it for some reason. How to complete a creative project: stick with it until you're done. Gee thanks, great advice, I know. But it's true!",
+    "by": "exolymph",
+    "points": 4,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "fangpenlin",
+      "descendants": 0,
+      "id": 30141215,
+      "kids": null,
+      "score": 16,
+      "time": 1643577545,
+      "title": "Show HN: BeanHub – A GitHub for Beancount",
+      "type": "story",
+      "url": "https://beanhub.io/"
+    },
+    "og_item": {
+      "title": "Completing a Creative Project",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://www.sonyasupposedly.com/content/images/2022/01/artdecoladies-1.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 2000,
+          "height": 1050,
+          "alt": ""
+        }
+      ],
+      "url": "https://www.sonyasupposedly.com/completing-a-creative-project/",
+      "audio": [],
+      "description": "My undying thanks to members for funding the following realizations 💖 Btw, click here for the PDF version that I mailed in November, if you want it for some reason. How to complete a creative project: stick with it until you're done. Gee thanks, great advice, I know. But it's true!",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Sonya Supposedly",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.png"
       }
     }
   },
@@ -2647,17 +2687,17 @@
     }
   },
   {
-    "id": 30142896,
-    "title": "Decrypt an encrypted message to any plaintext",
-    "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts",
-    "time": 1643589180,
-    "image": "",
-    "icon": "https://www.go350.com/favicon-16x16.png",
-    "publisher": "go350.com",
-    "description": "a one-time pad implementation",
-    "by": "_wldu",
-    "points": 11,
-    "comment_count": 1,
+    "id": 30141784,
+    "title": "I crowdfunded a novel using cryptocurrency",
+    "url": "https://ellegriffin.substack.com/p/crypto-funded-nft-novel",
+    "time": 1643581215,
+    "image": "https://cdn.substack.com/image/fetch/w_1200,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafd428d3-200b-473c-81ba-d0fe3d371b74_1000x700.png",
+    "icon": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/6d33229e-dadd-4d42-81b0-60daf1fbc7ef/favicon-48x48.png",
+    "publisher": "ellegriffin.substack.com",
+    "description": "This could be how books get funded in the future.",
+    "by": "rmason",
+    "points": 13,
+    "comment_count": 3,
     "hn_item": {
       "by": "fangpenlin",
       "descendants": 0,
@@ -2670,19 +2710,28 @@
       "url": "https://beanhub.io/"
     },
     "og_item": {
-      "title": "Padder",
+      "title": "I crowdfunded a novel using cryptocurrency ",
       "type": "article",
-      "image": [],
-      "url": "https://www.go350.com/posts/padder-a-one-time-pad-implementation/",
+      "image": [
+        {
+          "url": "https://cdn.substack.com/image/fetch/w_1200,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafd428d3-200b-473c-81ba-d0fe3d371b74_1000x700.png",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://ellegriffin.substack.com/p/crypto-funded-nft-novel",
       "audio": [],
-      "description": "a one-time pad implementation",
+      "description": "This could be how books get funded in the future.",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
       "site_name": "",
       "video": [],
       "favicon": {
-        "url": "/favicon-16x16.png"
+        "url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/6d33229e-dadd-4d42-81b0-60daf1fbc7ef/favicon-48x48.png"
       }
     }
   },
@@ -2856,55 +2905,6 @@
     }
   },
   {
-    "id": 30141784,
-    "title": "I crowdfunded a novel using cryptocurrency",
-    "url": "https://ellegriffin.substack.com/p/crypto-funded-nft-novel",
-    "time": 1643581215,
-    "image": "https://cdn.substack.com/image/fetch/w_1200,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafd428d3-200b-473c-81ba-d0fe3d371b74_1000x700.png",
-    "icon": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/6d33229e-dadd-4d42-81b0-60daf1fbc7ef/favicon-48x48.png",
-    "publisher": "ellegriffin.substack.com",
-    "description": "This could be how books get funded in the future.",
-    "by": "rmason",
-    "points": 10,
-    "comment_count": 3,
-    "hn_item": {
-      "by": "fangpenlin",
-      "descendants": 0,
-      "id": 30141215,
-      "kids": null,
-      "score": 16,
-      "time": 1643577545,
-      "title": "Show HN: BeanHub – A GitHub for Beancount",
-      "type": "story",
-      "url": "https://beanhub.io/"
-    },
-    "og_item": {
-      "title": "I crowdfunded a novel using cryptocurrency ",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://cdn.substack.com/image/fetch/w_1200,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafd428d3-200b-473c-81ba-d0fe3d371b74_1000x700.png",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://ellegriffin.substack.com/p/crypto-funded-nft-novel",
-      "audio": [],
-      "description": "This could be how books get funded in the future.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/6d33229e-dadd-4d42-81b0-60daf1fbc7ef/favicon-48x48.png"
-      }
-    }
-  },
-  {
     "id": 30125931,
     "title": "Fluid Simulation – Siggraph 2007 Course Notes [pdf]",
     "url": "https://www.cs.ubc.ca/~rbridson/fluidsimulation/fluids_notes.pdf",
@@ -2928,46 +2928,6 @@
       "url": "https://beanhub.io/"
     },
     "og_item": null
-  },
-  {
-    "id": 30139142,
-    "title": "SBCL: New in Version 2.2.1",
-    "url": "http://www.sbcl.org/all-news.html?2.2.1#2.2.1",
-    "time": 1643564118,
-    "image": "",
-    "icon": "",
-    "publisher": "sbcl.org",
-    "description": "",
-    "by": "susam",
-    "points": 98,
-    "comment_count": 5,
-    "hn_item": {
-      "by": "fangpenlin",
-      "descendants": 0,
-      "id": 30141215,
-      "kids": null,
-      "score": 16,
-      "time": 1643577545,
-      "title": "Show HN: BeanHub – A GitHub for Beancount",
-      "type": "story",
-      "url": "https://beanhub.io/"
-    },
-    "og_item": {
-      "title": "All News - Steel Bank Common Lisp",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
   },
   {
     "id": 30128627,
@@ -3059,6 +3019,46 @@
     }
   },
   {
+    "id": 30139142,
+    "title": "SBCL: New in Version 2.2.1",
+    "url": "http://www.sbcl.org/all-news.html?2.2.1#2.2.1",
+    "time": 1643564118,
+    "image": "",
+    "icon": "",
+    "publisher": "sbcl.org",
+    "description": "",
+    "by": "susam",
+    "points": 98,
+    "comment_count": 5,
+    "hn_item": {
+      "by": "fangpenlin",
+      "descendants": 0,
+      "id": 30141215,
+      "kids": null,
+      "score": 16,
+      "time": 1643577545,
+      "title": "Show HN: BeanHub – A GitHub for Beancount",
+      "type": "story",
+      "url": "https://beanhub.io/"
+    },
+    "og_item": {
+      "title": "All News - Steel Bank Common Lisp",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30122435,
     "title": "DDS: Build and library management tool for C, C++",
     "url": "https://vector-of-bool.github.io/docs/dds/index.html",
@@ -3068,7 +3068,7 @@
     "publisher": "vector-of-bool.github.io",
     "description": "",
     "by": "oumua_don17",
-    "points": 23,
+    "points": 24,
     "comment_count": 2,
     "hn_item": {
       "by": "fangpenlin",
