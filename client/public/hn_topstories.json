@@ -9,20 +9,23 @@
     "publisher": "jamessevedge.com",
     "description": "I was listening to the Tim Ferriss Show podcast episode #532 with Sheila Heen (Harvard Negotiation Project, co-author of Difficult Conversations: How To Discuss What Matters Most) and a specific story she told during the conversation really resonated with me. Below is the excerpt of that story in…",
     "by": "aseattledev1234",
-    "points": 220,
-    "comment_count": 44,
+    "points": 226,
+    "comment_count": 45,
     "hn_item": {
-      "by": "rg111",
-      "descendants": 1,
-      "id": 30153326,
+      "by": "JumpCrisscross",
+      "descendants": 5,
+      "id": 30156803,
       "kids": [
-        30153891
+        30157111,
+        30157012,
+        30157543,
+        30157117
       ],
-      "score": 19,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
+      "score": 18,
+      "time": 1643674361,
+      "title": "Bolt’s CEO Resigns Two Weeks After Securing $11B Valuation",
       "type": "story",
-      "url": "https://ar5iv.org/"
+      "url": "https://www.bloomberg.com/news/articles/2022-01-31/bolt-ceo-resigns-two-weeks-after-securing-11-billion-valuation"
     },
     "og_item": {
       "title": "Red Light Green Light",
@@ -51,20 +54,23 @@
     "publisher": "lsd.gnunet.org",
     "description": "This document contains the GNU Name System (GNS) technical\n      specification.\n      GNS is a decentralized and censorship-resistant name\n      system that provides a privacy-enhancing alternative to the Domain\n      Name System (DNS).\n       \n       \n      This document defines t…",
     "by": "simonpure",
-    "points": 143,
-    "comment_count": 51,
+    "points": 144,
+    "comment_count": 53,
     "hn_item": {
-      "by": "rg111",
-      "descendants": 1,
-      "id": 30153326,
+      "by": "JumpCrisscross",
+      "descendants": 5,
+      "id": 30156803,
       "kids": [
-        30153891
+        30157111,
+        30157012,
+        30157543,
+        30157117
       ],
-      "score": 19,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
+      "score": 18,
+      "time": 1643674361,
+      "title": "Bolt’s CEO Resigns Two Weeks After Securing $11B Valuation",
       "type": "story",
-      "url": "https://ar5iv.org/"
+      "url": "https://www.bloomberg.com/news/articles/2022-01-31/bolt-ceo-resigns-two-weeks-after-securing-11-billion-valuation"
     },
     "og_item": {
       "title": "The GNU Name System",
@@ -93,20 +99,23 @@
     "publisher": "Yggdrasil Network",
     "description": "End-to-end encrypted IPv6 networking to connect worlds",
     "by": "jesprenj",
-    "points": 55,
-    "comment_count": 7,
+    "points": 57,
+    "comment_count": 8,
     "hn_item": {
-      "by": "rg111",
-      "descendants": 1,
-      "id": 30153326,
+      "by": "JumpCrisscross",
+      "descendants": 5,
+      "id": 30156803,
       "kids": [
-        30153891
+        30157111,
+        30157012,
+        30157543,
+        30157117
       ],
-      "score": 19,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
+      "score": 18,
+      "time": 1643674361,
+      "title": "Bolt’s CEO Resigns Two Weeks After Securing $11B Valuation",
       "type": "story",
-      "url": "https://ar5iv.org/"
+      "url": "https://www.bloomberg.com/news/articles/2022-01-31/bolt-ceo-resigns-two-weeks-after-securing-11-billion-valuation"
     },
     "og_item": {
       "title": "Yggdrasil Network",
@@ -130,59 +139,35 @@
     "title": "The Sixth Mass Extinction: fact, fiction or speculation?",
     "url": "https://onlinelibrary.wiley.com/doi/full/10.1111/brv.12816",
     "time": 1643677372,
-    "image": "",
-    "icon": "",
-    "publisher": "onlinelibrary.wiley.com",
-    "description": "",
+    "image": "https://onlinelibrary.wiley.com/cms/asset/dfefab7a-07e9-4940-a9be-4195a69f313f/brv.v97.1.cover.jpg",
+    "icon": "https://onlinelibrary.wiley.com/favicon.ico",
+    "publisher": "Wiley Online Library",
+    "description": "There have been five Mass Extinction events in the history of Earth's biodiversity, all caused by dramatic but natural phenomena. It has been claimed that the Sixth Mass Extinction may be underway, t...",
     "by": "khaled_ismaeel",
-    "points": 22,
-    "comment_count": 3,
+    "points": 25,
+    "comment_count": 4,
     "hn_item": {
-      "by": "rg111",
-      "descendants": 1,
-      "id": 30153326,
+      "by": "JumpCrisscross",
+      "descendants": 5,
+      "id": 30156803,
       "kids": [
-        30153891
+        30157111,
+        30157012,
+        30157543,
+        30157117
       ],
-      "score": 19,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
+      "score": 18,
+      "time": 1643674361,
+      "title": "Bolt’s CEO Resigns Two Weeks After Securing $11B Valuation",
       "type": "story",
-      "url": "https://ar5iv.org/"
-    },
-    "og_item": null
-  },
-  {
-    "id": 30154781,
-    "title": "The New York Times buys Wordle",
-    "url": "https://www.nytimes.com/2022/01/31/business/media/new-york-times-wordle.html",
-    "time": 1643664880,
-    "image": "https://static01.nyt.com/images/2022/01/31/business/31tk/31tk-facebookJumbo.jpg",
-    "icon": "https://www.nytimes.com/vi-assets/static-assets/favicon-d2483f10ef688e6f89e23806b9700298.ico",
-    "publisher": "The New York Times",
-    "description": "The word game, released in October, has millions of daily users.",
-    "by": "lucis",
-    "points": 618,
-    "comment_count": 411,
-    "hn_item": {
-      "by": "rg111",
-      "descendants": 1,
-      "id": 30153326,
-      "kids": [
-        30153891
-      ],
-      "score": 19,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
-      "type": "story",
-      "url": "https://ar5iv.org/"
+      "url": "https://www.bloomberg.com/news/articles/2022-01-31/bolt-ceo-resigns-two-weeks-after-securing-11-billion-valuation"
     },
     "og_item": {
-      "title": "The New York Times Buys Wordle",
-      "type": "article",
+      "title": "The Sixth Mass Extinction: fact, fiction or speculation?",
+      "type": "Article",
       "image": [
         {
-          "url": "https://static01.nyt.com/images/2022/01/31/business/31tk/31tk-facebookJumbo.jpg",
+          "url": "https://onlinelibrary.wiley.com/cms/asset/dfefab7a-07e9-4940-a9be-4195a69f313f/brv.v97.1.cover.jpg",
           "secure_url": "",
           "type": "",
           "width": 0,
@@ -190,16 +175,16 @@
           "alt": ""
         }
       ],
-      "url": "https://www.nytimes.com/2022/01/31/business/media/new-york-times-wordle.html",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1111/brv.12816",
       "audio": [],
-      "description": "The word game, released in October, has millions of daily users.",
+      "description": "There have been five Mass Extinction events in the history of Earth's biodiversity, all caused by dramatic but natural phenomena. It has been claimed that the Sixth Mass Extinction may be underway, t...",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "",
+      "site_name": "Wiley Online Library",
       "video": [],
       "favicon": {
-        "url": "/vi-assets/static-assets/favicon-d2483f10ef688e6f89e23806b9700298.ico"
+        "url": "/favicon.ico"
       }
     }
   },
@@ -213,20 +198,23 @@
     "publisher": "GitHub",
     "description": "Easily manage wine prefixes in a new way. Run Windows software and games on Linux - GitHub - bottlesdevs/Bottles: Easily manage wine prefixes in a new way. Run Windows software and games on Linux",
     "by": "maydemir",
-    "points": 42,
-    "comment_count": 13,
+    "points": 44,
+    "comment_count": 14,
     "hn_item": {
-      "by": "rg111",
-      "descendants": 1,
-      "id": 30153326,
+      "by": "JumpCrisscross",
+      "descendants": 5,
+      "id": 30156803,
       "kids": [
-        30153891
+        30157111,
+        30157012,
+        30157543,
+        30157117
       ],
-      "score": 19,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
+      "score": 18,
+      "time": 1643674361,
+      "title": "Bolt’s CEO Resigns Two Weeks After Securing $11B Valuation",
       "type": "story",
-      "url": "https://ar5iv.org/"
+      "url": "https://www.bloomberg.com/news/articles/2022-01-31/bolt-ceo-resigns-two-weeks-after-securing-11-billion-valuation"
     },
     "og_item": {
       "title": "GitHub - bottlesdevs/Bottles: Easily manage wine prefixes in a new way. Run Windows software and games on Linux",
@@ -255,6 +243,60 @@
     }
   },
   {
+    "id": 30154781,
+    "title": "The New York Times buys Wordle",
+    "url": "https://www.nytimes.com/2022/01/31/business/media/new-york-times-wordle.html",
+    "time": 1643664880,
+    "image": "https://static01.nyt.com/images/2022/01/31/business/31tk/31tk-facebookJumbo.jpg",
+    "icon": "https://www.nytimes.com/vi-assets/static-assets/favicon-d2483f10ef688e6f89e23806b9700298.ico",
+    "publisher": "The New York Times",
+    "description": "The word game, released in October, has millions of daily users.",
+    "by": "lucis",
+    "points": 625,
+    "comment_count": 416,
+    "hn_item": {
+      "by": "JumpCrisscross",
+      "descendants": 5,
+      "id": 30156803,
+      "kids": [
+        30157111,
+        30157012,
+        30157543,
+        30157117
+      ],
+      "score": 18,
+      "time": 1643674361,
+      "title": "Bolt’s CEO Resigns Two Weeks After Securing $11B Valuation",
+      "type": "story",
+      "url": "https://www.bloomberg.com/news/articles/2022-01-31/bolt-ceo-resigns-two-weeks-after-securing-11-billion-valuation"
+    },
+    "og_item": {
+      "title": "The New York Times Buys Wordle",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://static01.nyt.com/images/2022/01/31/business/31tk/31tk-facebookJumbo.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://www.nytimes.com/2022/01/31/business/media/new-york-times-wordle.html",
+      "audio": [],
+      "description": "The word game, released in October, has millions of daily users.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/vi-assets/static-assets/favicon-d2483f10ef688e6f89e23806b9700298.ico"
+      }
+    }
+  },
+  {
     "id": 30156048,
     "title": "SimpleDB: A Basic RDBMS Built from Scratch",
     "url": "https://www.awelm.com/posts/simple-db/",
@@ -267,17 +309,20 @@
     "points": 72,
     "comment_count": 15,
     "hn_item": {
-      "by": "rg111",
-      "descendants": 1,
-      "id": 30153326,
+      "by": "JumpCrisscross",
+      "descendants": 5,
+      "id": 30156803,
       "kids": [
-        30153891
+        30157111,
+        30157012,
+        30157543,
+        30157117
       ],
-      "score": 19,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
+      "score": 18,
+      "time": 1643674361,
+      "title": "Bolt’s CEO Resigns Two Weeks After Securing $11B Valuation",
       "type": "story",
-      "url": "https://ar5iv.org/"
+      "url": "https://www.bloomberg.com/news/articles/2022-01-31/bolt-ceo-resigns-two-weeks-after-securing-11-billion-valuation"
     },
     "og_item": {
       "title": "SimpleDB: A Basic RDBMS Built From Scratch",
@@ -286,48 +331,6 @@
       "url": "https://www.awelm.com/posts/simple-db/",
       "audio": [],
       "description": "My databases class at UCLA wasn’t very challenging so I never truly understood the internals of databases. This always bothered me so I vowed to build a simple database from scratch to learn the fundamentals.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30157307,
-    "title": "Crisis Text Line, from my perspective",
-    "url": "http://www.zephoria.org/thoughts/archives/2022/01/31/crisis-text-line-from-my-perspective.html",
-    "time": 1643677665,
-    "image": "",
-    "icon": "",
-    "publisher": "zephoria.org",
-    "description": "",
-    "by": "jbegley",
-    "points": 18,
-    "comment_count": 1,
-    "hn_item": {
-      "by": "rg111",
-      "descendants": 1,
-      "id": 30153326,
-      "kids": [
-        30153891
-      ],
-      "score": 19,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
-      "type": "story",
-      "url": "https://ar5iv.org/"
-    },
-    "og_item": {
-      "title": "Crisis Text Line, from my perspective￼ | danah boyd | apophenia",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
@@ -348,20 +351,23 @@
     "publisher": "It's All Greek To Me",
     "description": "Every so often a news article will make the rounds of the internet – or, for that matter, a paper will be published in an academic journal – presenting a new ‘decipherment’ …",
     "by": "bigbillheck",
-    "points": 36,
+    "points": 39,
     "comment_count": 4,
     "hn_item": {
-      "by": "rg111",
-      "descendants": 1,
-      "id": 30153326,
+      "by": "JumpCrisscross",
+      "descendants": 5,
+      "id": 30156803,
       "kids": [
-        30153891
+        30157111,
+        30157012,
+        30157543,
+        30157117
       ],
-      "score": 19,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
+      "score": 18,
+      "time": 1643674361,
+      "title": "Bolt’s CEO Resigns Two Weeks After Securing $11B Valuation",
       "type": "story",
-      "url": "https://ar5iv.org/"
+      "url": "https://www.bloomberg.com/news/articles/2022-01-31/bolt-ceo-resigns-two-weeks-after-securing-11-billion-valuation"
     },
     "og_item": {
       "title": "A very short introduction to the undeciphered Aegean writing systems",
@@ -399,20 +405,23 @@
     "publisher": "them.",
     "description": "We could be getting even closer to stopping the spread of HIV/AIDS.",
     "by": "grawprog",
-    "points": 816,
-    "comment_count": 353,
+    "points": 819,
+    "comment_count": 354,
     "hn_item": {
-      "by": "rg111",
-      "descendants": 1,
-      "id": 30153326,
+      "by": "JumpCrisscross",
+      "descendants": 5,
+      "id": 30156803,
       "kids": [
-        30153891
+        30157111,
+        30157012,
+        30157543,
+        30157117
       ],
-      "score": 19,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
+      "score": 18,
+      "time": 1643674361,
+      "title": "Bolt’s CEO Resigns Two Weeks After Securing $11B Valuation",
       "type": "story",
-      "url": "https://ar5iv.org/"
+      "url": "https://www.bloomberg.com/news/articles/2022-01-31/bolt-ceo-resigns-two-weeks-after-securing-11-billion-valuation"
     },
     "og_item": {
       "title": "Moderna’s HIV Vaccine Has Officially Begun Human Trials",
@@ -450,20 +459,23 @@
     "publisher": "pivotal.substack.com",
     "description": "How data businesses start, and how they keep going, and growing, and growing.",
     "by": "BOOSTERHIDROGEN",
-    "points": 8,
+    "points": 10,
     "comment_count": 0,
     "hn_item": {
-      "by": "rg111",
-      "descendants": 1,
-      "id": 30153326,
+      "by": "JumpCrisscross",
+      "descendants": 5,
+      "id": 30156803,
       "kids": [
-        30153891
+        30157111,
+        30157012,
+        30157543,
+        30157117
       ],
-      "score": 19,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
+      "score": 18,
+      "time": 1643674361,
+      "title": "Bolt’s CEO Resigns Two Weeks After Securing $11B Valuation",
       "type": "story",
-      "url": "https://ar5iv.org/"
+      "url": "https://www.bloomberg.com/news/articles/2022-01-31/bolt-ceo-resigns-two-weeks-after-securing-11-billion-valuation"
     },
     "og_item": {
       "title": "The Economics of Data Businesses",
@@ -501,20 +513,23 @@
     "publisher": "Nature",
     "description": "Several teams hope to use pulsars in the Milky Way to detect ripples in space-time made by distant supermassive black holes.",
     "by": "pseudolus",
-    "points": 54,
+    "points": 56,
     "comment_count": 10,
     "hn_item": {
-      "by": "rg111",
-      "descendants": 1,
-      "id": 30153326,
+      "by": "JumpCrisscross",
+      "descendants": 5,
+      "id": 30156803,
       "kids": [
-        30153891
+        30157111,
+        30157012,
+        30157543,
+        30157117
       ],
-      "score": 19,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
+      "score": 18,
+      "time": 1643674361,
+      "title": "Bolt’s CEO Resigns Two Weeks After Securing $11B Valuation",
       "type": "story",
-      "url": "https://ar5iv.org/"
+      "url": "https://www.bloomberg.com/news/articles/2022-01-31/bolt-ceo-resigns-two-weeks-after-securing-11-billion-valuation"
     },
     "og_item": {
       "title": "Astronomers close in on new way to detect gravitational waves",
@@ -552,20 +567,23 @@
     "publisher": "magistrate.khanna.law",
     "description": "",
     "by": "hkhanna",
-    "points": 227,
+    "points": 230,
     "comment_count": 89,
     "hn_item": {
-      "by": "rg111",
-      "descendants": 1,
-      "id": 30153326,
+      "by": "JumpCrisscross",
+      "descendants": 5,
+      "id": 30156803,
       "kids": [
-        30153891
+        30157111,
+        30157012,
+        30157543,
+        30157117
       ],
-      "score": 19,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
+      "score": 18,
+      "time": 1643674361,
+      "title": "Bolt’s CEO Resigns Two Weeks After Securing $11B Valuation",
       "type": "story",
-      "url": "https://ar5iv.org/"
+      "url": "https://www.bloomberg.com/news/articles/2022-01-31/bolt-ceo-resigns-two-weeks-after-securing-11-billion-valuation"
     },
     "og_item": {
       "title": "Plain text legal contracts for developers - Magistrate",
@@ -585,201 +603,6 @@
     }
   },
   {
-    "id": 30129631,
-    "title": "Request bodies in GET requests",
-    "url": "https://evertpot.com/get-request-bodies/",
-    "time": 1643485054,
-    "image": "https://evertpot.com/assets/cover/flower.png",
-    "icon": "https://evertpot.com/assets/img/flower-icon.png",
-    "publisher": "evertpot.com",
-    "description": "",
-    "by": "treve",
-    "points": 157,
-    "comment_count": 109,
-    "hn_item": {
-      "by": "rg111",
-      "descendants": 1,
-      "id": 30153326,
-      "kids": [
-        30153891
-      ],
-      "score": 19,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
-      "type": "story",
-      "url": "https://ar5iv.org/"
-    },
-    "og_item": {
-      "title": "Request bodies in GET requests",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://evertpot.com/assets/cover/flower.png",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/assets/img/flower-icon.png"
-      }
-    }
-  },
-  {
-    "id": 30136835,
-    "title": "New engine could save internal combustion from the scrap heap",
-    "url": "https://www.motor1.com/news/563664/new-omega-combustion-engine-design/",
-    "time": 1643547924,
-    "image": "https://cdn.motor1.com/images/mgl/6ZpjWX/s1/omega-1-engine.jpg",
-    "icon": "https://www.motor1.com/favicon.ico",
-    "publisher": "Motor1.com",
-    "description": "A new engine technology could reinvent the internal combustion engine for the future, capable of better efficiency and fewer emissions.",
-    "by": "bobajeff",
-    "points": 55,
-    "comment_count": 52,
-    "hn_item": {
-      "by": "rg111",
-      "descendants": 1,
-      "id": 30153326,
-      "kids": [
-        30153891
-      ],
-      "score": 19,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
-      "type": "story",
-      "url": "https://ar5iv.org/"
-    },
-    "og_item": {
-      "title": "This New Engine Could Save Internal Combustion From The Scrap Heap",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://cdn.motor1.com/images/mgl/6ZpjWX/s1/omega-1-engine.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 1920,
-          "height": 1080,
-          "alt": ""
-        }
-      ],
-      "url": "https://www.motor1.com/news/563664/new-omega-combustion-engine-design/",
-      "audio": [],
-      "description": "A new engine technology could reinvent the internal combustion engine for the future, capable of better efficiency and fewer emissions. ",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Motor1.com",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30155295,
-    "title": "Pay attention to WebAssembly",
-    "url": "https://harshal.sheth.io/2022/01/31/webassembly.html",
-    "time": 1643666927,
-    "image": "",
-    "icon": "https://harshal.sheth.io/favicon.ico",
-    "publisher": "Harshal Sheth",
-    "description": "WebAssembly is at an inflection point. Over the next few years, I expect to see increased adoption of WebAssembly across the tech sphere, from containerization to plugin systems to serverless computing platforms. The following is a discussion of what WebAssembly is, what makes it a relevant techn…",
-    "by": "hsheth2",
-    "points": 155,
-    "comment_count": 97,
-    "hn_item": {
-      "by": "rg111",
-      "descendants": 1,
-      "id": 30153326,
-      "kids": [
-        30153891
-      ],
-      "score": 19,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
-      "type": "story",
-      "url": "https://ar5iv.org/"
-    },
-    "og_item": {
-      "title": "Pay attention to WebAssembly",
-      "type": "article",
-      "image": [],
-      "url": "https://harshal.sheth.io/2022/01/31/webassembly.html",
-      "audio": [],
-      "description": "WebAssembly is at an inflection point. Over the next few years, I expect to see increased adoption of WebAssembly across the tech sphere, from containerization to plugin systems to serverless computing platforms. The following is a discussion of what WebAssembly is, what makes it a relevant technology, and where it’s being used today. I’ll also describe some potentially high-impact applications and make some predictions about its future.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Harshal Sheth",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30154265,
-    "title": "Smarking (YC W15) Is Hiring Head of Eng to digitize $655B parking industry",
-    "url": "https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567",
-    "time": 1643662823,
-    "image": "https://lever-client-logos.s3.amazonaws.com/dba6daed-b0b4-4edb-ae1e-e6866ce0411c-1466127457510.png",
-    "icon": "https://jobs.lever.co/favicon.ico",
-    "publisher": "jobs.lever.co",
-    "description": "Smarking is a leading provider of enterprise software and data technology solutions for the massively overlooked $655B global parking industry. This is an excellent position for a highly capable software engineer who's ready to take on bigger responsibilities, team wide leadership, and a leap of …",
-    "by": "sangwen",
-    "points": 1,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "rg111",
-      "descendants": 1,
-      "id": 30153326,
-      "kids": [
-        30153891
-      ],
-      "score": 19,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
-      "type": "story",
-      "url": "https://ar5iv.org/"
-    },
-    "og_item": {
-      "title": "Smarking - Head of Engineering",
-      "type": "",
-      "image": [
-        {
-          "url": "https://lever-client-logos.s3.amazonaws.com/dba6daed-b0b4-4edb-ae1e-e6866ce0411c-1466127457510.png",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 200,
-          "alt": ""
-        }
-      ],
-      "url": "https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567",
-      "audio": [],
-      "description": "Smarking is a leading provider of enterprise software and data technology solutions for the massively overlooked $655B global parking industry. This is an excellent position for a highly capable software engineer who's ready to take on bigger responsibilities, team wide leadership, and a leap of faith, to not only continue shipping codes and building amazing products and systems, but also lead and build a team of solid engineers to help scale cutting edge tech solutions from ground up for a massive and overlooked market . The Head of Engineering will report to the CEO directly, and join the management team to provide engineering leadership company wide.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30156923,
     "title": "Man found guilty of ‘grossly offensive’ tweet",
     "url": "https://news.stv.tv/west-central/man-found-guilty-of-grossly-offensive-captain-tom-tweet",
@@ -789,20 +612,23 @@
     "publisher": "STV News",
     "description": "Joseph Kelly found guilty of ‘grossly offensive’ message about Captain Sir Tom Moore.",
     "by": "leephillips",
-    "points": 107,
-    "comment_count": 100,
+    "points": 113,
+    "comment_count": 108,
     "hn_item": {
-      "by": "rg111",
-      "descendants": 1,
-      "id": 30153326,
+      "by": "JumpCrisscross",
+      "descendants": 5,
+      "id": 30156803,
       "kids": [
-        30153891
+        30157111,
+        30157012,
+        30157543,
+        30157117
       ],
-      "score": 19,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
+      "score": 18,
+      "time": 1643674361,
+      "title": "Bolt’s CEO Resigns Two Weeks After Securing $11B Valuation",
       "type": "story",
-      "url": "https://ar5iv.org/"
+      "url": "https://www.bloomberg.com/news/articles/2022-01-31/bolt-ceo-resigns-two-weeks-after-securing-11-billion-valuation"
     },
     "og_item": {
       "title": "Man found guilty of ‘grossly offensive’ Captain Tom tweet",
@@ -831,6 +657,105 @@
     }
   },
   {
+    "id": 30129631,
+    "title": "Request bodies in GET requests",
+    "url": "https://evertpot.com/get-request-bodies/",
+    "time": 1643485054,
+    "image": "https://evertpot.com/assets/cover/flower.png",
+    "icon": "https://evertpot.com/assets/img/flower-icon.png",
+    "publisher": "evertpot.com",
+    "description": "",
+    "by": "treve",
+    "points": 158,
+    "comment_count": 109,
+    "hn_item": {
+      "by": "JumpCrisscross",
+      "descendants": 5,
+      "id": 30156803,
+      "kids": [
+        30157111,
+        30157012,
+        30157543,
+        30157117
+      ],
+      "score": 18,
+      "time": 1643674361,
+      "title": "Bolt’s CEO Resigns Two Weeks After Securing $11B Valuation",
+      "type": "story",
+      "url": "https://www.bloomberg.com/news/articles/2022-01-31/bolt-ceo-resigns-two-weeks-after-securing-11-billion-valuation"
+    },
+    "og_item": {
+      "title": "Request bodies in GET requests",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://evertpot.com/assets/cover/flower.png",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/assets/img/flower-icon.png"
+      }
+    }
+  },
+  {
+    "id": 30157307,
+    "title": "Crisis Text Line, from my perspective",
+    "url": "http://www.zephoria.org/thoughts/archives/2022/01/31/crisis-text-line-from-my-perspective.html",
+    "time": 1643677665,
+    "image": "",
+    "icon": "",
+    "publisher": "zephoria.org",
+    "description": "",
+    "by": "jbegley",
+    "points": 21,
+    "comment_count": 2,
+    "hn_item": {
+      "by": "JumpCrisscross",
+      "descendants": 5,
+      "id": 30156803,
+      "kids": [
+        30157111,
+        30157012,
+        30157543,
+        30157117
+      ],
+      "score": 18,
+      "time": 1643674361,
+      "title": "Bolt’s CEO Resigns Two Weeks After Securing $11B Valuation",
+      "type": "story",
+      "url": "https://www.bloomberg.com/news/articles/2022-01-31/bolt-ceo-resigns-two-weeks-after-securing-11-billion-valuation"
+    },
+    "og_item": {
+      "title": "Crisis Text Line, from my perspective￼ | danah boyd | apophenia",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30156479,
     "title": "Fifth Browser",
     "url": "https://github.com/clbr/fifth",
@@ -840,20 +765,23 @@
     "publisher": "GitHub",
     "description": "Fifth is a Linux-exclusive browser that carries the best features from Opera, as well as a few unique features that are likely to please Linux power users. It\u0026#39;s based on a custom Webkit port to...",
     "by": "app4soft",
-    "points": 20,
+    "points": 23,
     "comment_count": 4,
     "hn_item": {
-      "by": "rg111",
-      "descendants": 1,
-      "id": 30153326,
+      "by": "JumpCrisscross",
+      "descendants": 5,
+      "id": 30156803,
       "kids": [
-        30153891
+        30157111,
+        30157012,
+        30157543,
+        30157117
       ],
-      "score": 19,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
+      "score": 18,
+      "time": 1643674361,
+      "title": "Bolt’s CEO Resigns Two Weeks After Securing $11B Valuation",
       "type": "story",
-      "url": "https://ar5iv.org/"
+      "url": "https://www.bloomberg.com/news/articles/2022-01-31/bolt-ceo-resigns-two-weeks-after-securing-11-billion-valuation"
     },
     "og_item": {
       "title": "GitHub - clbr/fifth: Fifth is a Linux-exclusive browser that carries the best features from Opera, as well as a few unique features that are likely to please Linux power users. It's based on a custom Webkit port to FLTK and comes licensed under the GPLv3.",
@@ -882,53 +810,101 @@
     }
   },
   {
-    "id": 30150018,
-    "title": "Pyflow – Visual and modular block programming in Python",
-    "url": "https://github.com/Bycelium/PyFlow",
-    "time": 1643647446,
-    "image": "https://opengraph.githubassets.com/7ba5063b695f3a94607653f83bbdbe091801dbdf73a71077bfe4be418f4d853c/Bycelium/PyFlow",
-    "icon": "https://github.githubassets.com/favicons/favicon.svg",
-    "publisher": "GitHub",
-    "description": "An open-source tool for visual and modular block programing in python - GitHub - Bycelium/PyFlow: An open-source tool for visual and modular block programing in python",
-    "by": "amai",
-    "points": 171,
-    "comment_count": 79,
+    "id": 30154265,
+    "title": "Smarking (YC W15) Is Hiring Head of Eng to digitize $655B parking industry",
+    "url": "https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567",
+    "time": 1643662823,
+    "image": "https://lever-client-logos.s3.amazonaws.com/dba6daed-b0b4-4edb-ae1e-e6866ce0411c-1466127457510.png",
+    "icon": "https://jobs.lever.co/favicon.ico",
+    "publisher": "jobs.lever.co",
+    "description": "Smarking is a leading provider of enterprise software and data technology solutions for the massively overlooked $655B global parking industry. This is an excellent position for a highly capable software engineer who's ready to take on bigger responsibilities, team wide leadership, and a leap of …",
+    "by": "sangwen",
+    "points": 1,
+    "comment_count": 0,
     "hn_item": {
-      "by": "rg111",
-      "descendants": 1,
-      "id": 30153326,
+      "by": "JumpCrisscross",
+      "descendants": 5,
+      "id": 30156803,
       "kids": [
-        30153891
+        30157111,
+        30157012,
+        30157543,
+        30157117
       ],
-      "score": 19,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
+      "score": 18,
+      "time": 1643674361,
+      "title": "Bolt’s CEO Resigns Two Weeks After Securing $11B Valuation",
       "type": "story",
-      "url": "https://ar5iv.org/"
+      "url": "https://www.bloomberg.com/news/articles/2022-01-31/bolt-ceo-resigns-two-weeks-after-securing-11-billion-valuation"
     },
     "og_item": {
-      "title": "GitHub - Bycelium/PyFlow: An open-source tool for visual and modular block programing in python",
-      "type": "object",
+      "title": "Smarking - Head of Engineering",
+      "type": "",
       "image": [
         {
-          "url": "https://opengraph.githubassets.com/7ba5063b695f3a94607653f83bbdbe091801dbdf73a71077bfe4be418f4d853c/Bycelium/PyFlow",
+          "url": "https://lever-client-logos.s3.amazonaws.com/dba6daed-b0b4-4edb-ae1e-e6866ce0411c-1466127457510.png",
           "secure_url": "",
           "type": "",
-          "width": 1200,
-          "height": 600,
+          "width": 0,
+          "height": 200,
           "alt": ""
         }
       ],
-      "url": "https://github.com/Bycelium/PyFlow",
+      "url": "https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567",
       "audio": [],
-      "description": "An open-source tool for visual and modular block programing in python - GitHub - Bycelium/PyFlow: An open-source tool for visual and modular block programing in python",
+      "description": "Smarking is a leading provider of enterprise software and data technology solutions for the massively overlooked $655B global parking industry. This is an excellent position for a highly capable software engineer who's ready to take on bigger responsibilities, team wide leadership, and a leap of faith, to not only continue shipping codes and building amazing products and systems, but also lead and build a team of solid engineers to help scale cutting edge tech solutions from ground up for a massive and overlooked market . The Head of Engineering will report to the CEO directly, and join the management team to provide engineering leadership company wide.",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "GitHub",
+      "site_name": "",
       "video": [],
       "favicon": {
-        "url": "https://github.githubassets.com/favicons/favicon.svg"
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30155295,
+    "title": "Pay attention to WebAssembly",
+    "url": "https://harshal.sheth.io/2022/01/31/webassembly.html",
+    "time": 1643666927,
+    "image": "",
+    "icon": "https://harshal.sheth.io/favicon.ico",
+    "publisher": "Harshal Sheth",
+    "description": "WebAssembly is at an inflection point. Over the next few years, I expect to see increased adoption of WebAssembly across the tech sphere, from containerization to plugin systems to serverless computing platforms. The following is a discussion of what WebAssembly is, what makes it a relevant techn…",
+    "by": "hsheth2",
+    "points": 155,
+    "comment_count": 101,
+    "hn_item": {
+      "by": "JumpCrisscross",
+      "descendants": 5,
+      "id": 30156803,
+      "kids": [
+        30157111,
+        30157012,
+        30157543,
+        30157117
+      ],
+      "score": 18,
+      "time": 1643674361,
+      "title": "Bolt’s CEO Resigns Two Weeks After Securing $11B Valuation",
+      "type": "story",
+      "url": "https://www.bloomberg.com/news/articles/2022-01-31/bolt-ceo-resigns-two-weeks-after-securing-11-billion-valuation"
+    },
+    "og_item": {
+      "title": "Pay attention to WebAssembly",
+      "type": "article",
+      "image": [],
+      "url": "https://harshal.sheth.io/2022/01/31/webassembly.html",
+      "audio": [],
+      "description": "WebAssembly is at an inflection point. Over the next few years, I expect to see increased adoption of WebAssembly across the tech sphere, from containerization to plugin systems to serverless computing platforms. The following is a discussion of what WebAssembly is, what makes it a relevant technology, and where it’s being used today. I’ll also describe some potentially high-impact applications and make some predictions about its future.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Harshal Sheth",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
       }
     }
   },
@@ -942,20 +918,23 @@
     "publisher": "Atlas Obscura",
     "description": "Layers of meaning surround the names of nearly every dish.",
     "by": "wyrm",
-    "points": 10,
+    "points": 11,
     "comment_count": 0,
     "hn_item": {
-      "by": "rg111",
-      "descendants": 1,
-      "id": 30153326,
+      "by": "JumpCrisscross",
+      "descendants": 5,
+      "id": 30156803,
       "kids": [
-        30153891
+        30157111,
+        30157012,
+        30157543,
+        30157117
       ],
-      "score": 19,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
+      "score": 18,
+      "time": 1643674361,
+      "title": "Bolt’s CEO Resigns Two Weeks After Securing $11B Valuation",
       "type": "story",
-      "url": "https://ar5iv.org/"
+      "url": "https://www.bloomberg.com/news/articles/2022-01-31/bolt-ceo-resigns-two-weeks-after-securing-11-billion-valuation"
     },
     "og_item": {
       "title": "The Wondrous Wordplay of Lunar New Year Food",
@@ -984,6 +963,114 @@
     }
   },
   {
+    "id": 30150018,
+    "title": "Pyflow – Visual and modular block programming in Python",
+    "url": "https://github.com/Bycelium/PyFlow",
+    "time": 1643647446,
+    "image": "https://opengraph.githubassets.com/7ba5063b695f3a94607653f83bbdbe091801dbdf73a71077bfe4be418f4d853c/Bycelium/PyFlow",
+    "icon": "https://github.githubassets.com/favicons/favicon.svg",
+    "publisher": "GitHub",
+    "description": "An open-source tool for visual and modular block programing in python - GitHub - Bycelium/PyFlow: An open-source tool for visual and modular block programing in python",
+    "by": "amai",
+    "points": 171,
+    "comment_count": 79,
+    "hn_item": {
+      "by": "JumpCrisscross",
+      "descendants": 5,
+      "id": 30156803,
+      "kids": [
+        30157111,
+        30157012,
+        30157543,
+        30157117
+      ],
+      "score": 18,
+      "time": 1643674361,
+      "title": "Bolt’s CEO Resigns Two Weeks After Securing $11B Valuation",
+      "type": "story",
+      "url": "https://www.bloomberg.com/news/articles/2022-01-31/bolt-ceo-resigns-two-weeks-after-securing-11-billion-valuation"
+    },
+    "og_item": {
+      "title": "GitHub - Bycelium/PyFlow: An open-source tool for visual and modular block programing in python",
+      "type": "object",
+      "image": [
+        {
+          "url": "https://opengraph.githubassets.com/7ba5063b695f3a94607653f83bbdbe091801dbdf73a71077bfe4be418f4d853c/Bycelium/PyFlow",
+          "secure_url": "",
+          "type": "",
+          "width": 1200,
+          "height": 600,
+          "alt": ""
+        }
+      ],
+      "url": "https://github.com/Bycelium/PyFlow",
+      "audio": [],
+      "description": "An open-source tool for visual and modular block programing in python - GitHub - Bycelium/PyFlow: An open-source tool for visual and modular block programing in python",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "GitHub",
+      "video": [],
+      "favicon": {
+        "url": "https://github.githubassets.com/favicons/favicon.svg"
+      }
+    }
+  },
+  {
+    "id": 30136835,
+    "title": "New engine could save internal combustion from the scrap heap",
+    "url": "https://www.motor1.com/news/563664/new-omega-combustion-engine-design/",
+    "time": 1643547924,
+    "image": "https://cdn.motor1.com/images/mgl/6ZpjWX/s1/omega-1-engine.jpg",
+    "icon": "https://www.motor1.com/favicon.ico",
+    "publisher": "Motor1.com",
+    "description": "A new engine technology could reinvent the internal combustion engine for the future, capable of better efficiency and fewer emissions.",
+    "by": "bobajeff",
+    "points": 57,
+    "comment_count": 56,
+    "hn_item": {
+      "by": "JumpCrisscross",
+      "descendants": 5,
+      "id": 30156803,
+      "kids": [
+        30157111,
+        30157012,
+        30157543,
+        30157117
+      ],
+      "score": 18,
+      "time": 1643674361,
+      "title": "Bolt’s CEO Resigns Two Weeks After Securing $11B Valuation",
+      "type": "story",
+      "url": "https://www.bloomberg.com/news/articles/2022-01-31/bolt-ceo-resigns-two-weeks-after-securing-11-billion-valuation"
+    },
+    "og_item": {
+      "title": "This New Engine Could Save Internal Combustion From The Scrap Heap",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://cdn.motor1.com/images/mgl/6ZpjWX/s1/omega-1-engine.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 1920,
+          "height": 1080,
+          "alt": ""
+        }
+      ],
+      "url": "https://www.motor1.com/news/563664/new-omega-combustion-engine-design/",
+      "audio": [],
+      "description": "A new engine technology could reinvent the internal combustion engine for the future, capable of better efficiency and fewer emissions. ",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Motor1.com",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30150343,
     "title": "The new hire who showed up is not the same person we interviewed",
     "url": "https://www.askamanager.org/2022/01/the-new-hire-who-showed-up-is-not-the-same-person-we-interviewed.html",
@@ -993,20 +1080,23 @@
     "publisher": "Ask a Manager",
     "description": "A reader writes: This is a situation currently unfolding at my husband's office so I’m a very amused bystander and thought I’d get your opinion on this",
     "by": "amadeuspzs",
-    "points": 761,
-    "comment_count": 467,
+    "points": 766,
+    "comment_count": 469,
     "hn_item": {
-      "by": "rg111",
-      "descendants": 1,
-      "id": 30153326,
+      "by": "JumpCrisscross",
+      "descendants": 5,
+      "id": 30156803,
       "kids": [
-        30153891
+        30157111,
+        30157012,
+        30157543,
+        30157117
       ],
-      "score": 19,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
+      "score": 18,
+      "time": 1643674361,
+      "title": "Bolt’s CEO Resigns Two Weeks After Securing $11B Valuation",
       "type": "story",
-      "url": "https://ar5iv.org/"
+      "url": "https://www.bloomberg.com/news/articles/2022-01-31/bolt-ceo-resigns-two-weeks-after-securing-11-billion-valuation"
     },
     "og_item": {
       "title": "the new hire who showed up is not the same person we interviewed",
@@ -1035,44 +1125,56 @@
     }
   },
   {
-    "id": 30152268,
-    "title": "The unreasonable effectiveness of one-on-ones",
-    "url": "https://www.benkuhn.net/11/",
-    "time": 1643654866,
-    "image": "",
-    "icon": "https://www.benkuhn.net/favicon.ico",
-    "publisher": "benkuhn.net",
-    "description": "When I started dating my partner, I quickly noticed that grad school was making her very sad.\nThis was shortly after I’d started leading an engineering team at Wave, and so the “obvious” hypothesis to me was that the management (okay, “management”) one gets in graduate school is totally…",
-    "by": "sebg",
-    "points": 146,
-    "comment_count": 138,
+    "id": 30157426,
+    "title": "The Death of Wordle",
+    "url": "https://reeshill.net/posts/death-of-wordle/",
+    "time": 1643678552,
+    "image": "https://reeshill.net/img/death-of-wordle/stats.jpg",
+    "icon": "https://reeshill.net/favicon-128.png",
+    "publisher": "reeshill.net",
+    "description": "So The New York Times just bought Worldle. This is not surprising, but it\u0026rsquo;s definitely disappointing. Wordle is an uncommonly successful small project in a Web dominated by large corporate platforms, and its acquisition only leads us further in that direction.",
+    "by": "333c",
+    "points": 8,
+    "comment_count": 3,
     "hn_item": {
-      "by": "rg111",
-      "descendants": 1,
-      "id": 30153326,
+      "by": "JumpCrisscross",
+      "descendants": 5,
+      "id": 30156803,
       "kids": [
-        30153891
+        30157111,
+        30157012,
+        30157543,
+        30157117
       ],
-      "score": 19,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
+      "score": 18,
+      "time": 1643674361,
+      "title": "Bolt’s CEO Resigns Two Weeks After Securing $11B Valuation",
       "type": "story",
-      "url": "https://ar5iv.org/"
+      "url": "https://www.bloomberg.com/news/articles/2022-01-31/bolt-ceo-resigns-two-weeks-after-securing-11-billion-valuation"
     },
     "og_item": {
-      "title": "The unreasonable effectiveness of one-on-ones",
-      "type": "",
-      "image": [],
-      "url": "https://www.benkuhn.net/11/",
+      "title": "The Death of Wordle",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://reeshill.net/img/death-of-wordle/stats.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://reeshill.net/posts/death-of-wordle/",
       "audio": [],
-      "description": "When I started dating my partner, I quickly noticed that grad school was making her very sad.\nThis was shortly after I’d started leading an engineering team at Wave, and so the “obvious” hypothesis to me was that the management (okay, “management”) one gets in graduate school is totally ineffective.\nMost graduate students, including Eve, start school right after college, i.e., without much clue about how to effectively do self-directed work.",
+      "description": "So The New York Times just bought Worldle. This is not surprising, but it\u0026rsquo;s definitely disappointing. Wordle is an uncommonly successful small project in a Web dominated by large corporate platforms, and its acquisition only leads us further in that direction.",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "benkuhn.net",
+      "site_name": "",
       "video": [],
       "favicon": {
-        "url": "/favicon.ico"
+        "url": "https://reeshill.net/favicon-128.png"
       }
     }
   },
@@ -1089,17 +1191,20 @@
     "points": 28,
     "comment_count": 7,
     "hn_item": {
-      "by": "rg111",
-      "descendants": 1,
-      "id": 30153326,
+      "by": "JumpCrisscross",
+      "descendants": 5,
+      "id": 30156803,
       "kids": [
-        30153891
+        30157111,
+        30157012,
+        30157543,
+        30157117
       ],
-      "score": 19,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
+      "score": 18,
+      "time": 1643674361,
+      "title": "Bolt’s CEO Resigns Two Weeks After Securing $11B Valuation",
       "type": "story",
-      "url": "https://ar5iv.org/"
+      "url": "https://www.bloomberg.com/news/articles/2022-01-31/bolt-ceo-resigns-two-weeks-after-securing-11-billion-valuation"
     },
     "og_item": {
       "title": "Building a Cross-Platform Web \u0026 Mobile App from the Ground Up | Ambrook",
@@ -1128,57 +1233,6 @@
     }
   },
   {
-    "id": 30143099,
-    "title": "Alien Aqueducts: The Maps of Martian Canals (2021)",
-    "url": "https://publicdomainreview.org/collection/martian-canal-maps/",
-    "time": 1643590669,
-    "image": "https://the-public-domain-review.imgix.net/collections/martian-canal-maps/marsasabodeoflif00lowe_0192-feature.jpg",
-    "icon": "https://publicdomainreview.org/favicon-16x16.png",
-    "publisher": "The Public Domain Review",
-    "description": "Observing the visible features of Martian landscapes, Giovanni Schiaparelli began seeing things almost immediately — shapes that resembled dim lines, crisscrossing the extraterrestrial desert.",
-    "by": "benbreen",
-    "points": 8,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "rg111",
-      "descendants": 1,
-      "id": 30153326,
-      "kids": [
-        30153891
-      ],
-      "score": 19,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
-      "type": "story",
-      "url": "https://ar5iv.org/"
-    },
-    "og_item": {
-      "title": "Alien Aqueducts: The Maps of Martian Canals",
-      "type": "website",
-      "image": [
-        {
-          "url": "https://the-public-domain-review.imgix.net/collections/martian-canal-maps/marsasabodeoflif00lowe_0192-feature.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://publicdomainreview.org/collection/martian-canal-maps/",
-      "audio": [],
-      "description": "Observing the visible features of Martian landscapes, Giovanni Schiaparelli began seeing things almost immediately — shapes that resembled dim lines, crisscrossing the extraterrestrial desert. \n",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "The Public Domain Review",
-      "video": [],
-      "favicon": {
-        "url": "/favicon-16x16.png"
-      }
-    }
-  },
-  {
     "id": 30150495,
     "title": "Yemen's bifurcated monetary system",
     "url": "http://jpkoning.blogspot.com/2022/01/yemens-bifurcated-monetary-system.html",
@@ -1191,17 +1245,20 @@
     "points": 112,
     "comment_count": 70,
     "hn_item": {
-      "by": "rg111",
-      "descendants": 1,
-      "id": 30153326,
+      "by": "JumpCrisscross",
+      "descendants": 5,
+      "id": 30156803,
       "kids": [
-        30153891
+        30157111,
+        30157012,
+        30157543,
+        30157117
       ],
-      "score": 19,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
+      "score": 18,
+      "time": 1643674361,
+      "title": "Bolt’s CEO Resigns Two Weeks After Securing $11B Valuation",
       "type": "story",
-      "url": "https://ar5iv.org/"
+      "url": "https://www.bloomberg.com/news/articles/2022-01-31/bolt-ceo-resigns-two-weeks-after-securing-11-billion-valuation"
     },
     "og_item": {
       "title": "Yemen's bifurcated monetary system",
@@ -1230,6 +1287,60 @@
     }
   },
   {
+    "id": 30143099,
+    "title": "Alien Aqueducts: The Maps of Martian Canals (2021)",
+    "url": "https://publicdomainreview.org/collection/martian-canal-maps/",
+    "time": 1643590669,
+    "image": "https://the-public-domain-review.imgix.net/collections/martian-canal-maps/marsasabodeoflif00lowe_0192-feature.jpg",
+    "icon": "https://publicdomainreview.org/favicon-16x16.png",
+    "publisher": "The Public Domain Review",
+    "description": "Observing the visible features of Martian landscapes, Giovanni Schiaparelli began seeing things almost immediately — shapes that resembled dim lines, crisscrossing the extraterrestrial desert.",
+    "by": "benbreen",
+    "points": 9,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "JumpCrisscross",
+      "descendants": 5,
+      "id": 30156803,
+      "kids": [
+        30157111,
+        30157012,
+        30157543,
+        30157117
+      ],
+      "score": 18,
+      "time": 1643674361,
+      "title": "Bolt’s CEO Resigns Two Weeks After Securing $11B Valuation",
+      "type": "story",
+      "url": "https://www.bloomberg.com/news/articles/2022-01-31/bolt-ceo-resigns-two-weeks-after-securing-11-billion-valuation"
+    },
+    "og_item": {
+      "title": "Alien Aqueducts: The Maps of Martian Canals",
+      "type": "website",
+      "image": [
+        {
+          "url": "https://the-public-domain-review.imgix.net/collections/martian-canal-maps/marsasabodeoflif00lowe_0192-feature.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://publicdomainreview.org/collection/martian-canal-maps/",
+      "audio": [],
+      "description": "Observing the visible features of Martian landscapes, Giovanni Schiaparelli began seeing things almost immediately — shapes that resembled dim lines, crisscrossing the extraterrestrial desert. \n",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "The Public Domain Review",
+      "video": [],
+      "favicon": {
+        "url": "/favicon-16x16.png"
+      }
+    }
+  },
+  {
     "id": 30148364,
     "title": "The rising human cost of sports betting",
     "url": "https://www.nytimes.com/2022/01/31/sports/football/super-bowl-sports-betting.html",
@@ -1239,20 +1350,23 @@
     "publisher": "The New York Times",
     "description": "The ends of the college and pro football seasons were already a perilous time for people recovering from a gambling addiction. Then came the onslaught of ads for legal sports betting.",
     "by": "jbegley",
-    "points": 161,
-    "comment_count": 248,
+    "points": 162,
+    "comment_count": 249,
     "hn_item": {
-      "by": "rg111",
-      "descendants": 1,
-      "id": 30153326,
+      "by": "JumpCrisscross",
+      "descendants": 5,
+      "id": 30156803,
       "kids": [
-        30153891
+        30157111,
+        30157012,
+        30157543,
+        30157117
       ],
-      "score": 19,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
+      "score": 18,
+      "time": 1643674361,
+      "title": "Bolt’s CEO Resigns Two Weeks After Securing $11B Valuation",
       "type": "story",
-      "url": "https://ar5iv.org/"
+      "url": "https://www.bloomberg.com/news/articles/2022-01-31/bolt-ceo-resigns-two-weeks-after-securing-11-billion-valuation"
     },
     "og_item": {
       "title": "The Rising Human Cost of Sports Betting",
@@ -1281,6 +1395,51 @@
     }
   },
   {
+    "id": 30152268,
+    "title": "The unreasonable effectiveness of one-on-ones",
+    "url": "https://www.benkuhn.net/11/",
+    "time": 1643654866,
+    "image": "",
+    "icon": "https://www.benkuhn.net/favicon.ico",
+    "publisher": "benkuhn.net",
+    "description": "When I started dating my partner, I quickly noticed that grad school was making her very sad.\nThis was shortly after I’d started leading an engineering team at Wave, and so the “obvious” hypothesis to me was that the management (okay, “management”) one gets in graduate school is totally…",
+    "by": "sebg",
+    "points": 147,
+    "comment_count": 142,
+    "hn_item": {
+      "by": "JumpCrisscross",
+      "descendants": 5,
+      "id": 30156803,
+      "kids": [
+        30157111,
+        30157012,
+        30157543,
+        30157117
+      ],
+      "score": 18,
+      "time": 1643674361,
+      "title": "Bolt’s CEO Resigns Two Weeks After Securing $11B Valuation",
+      "type": "story",
+      "url": "https://www.bloomberg.com/news/articles/2022-01-31/bolt-ceo-resigns-two-weeks-after-securing-11-billion-valuation"
+    },
+    "og_item": {
+      "title": "The unreasonable effectiveness of one-on-ones",
+      "type": "",
+      "image": [],
+      "url": "https://www.benkuhn.net/11/",
+      "audio": [],
+      "description": "When I started dating my partner, I quickly noticed that grad school was making her very sad.\nThis was shortly after I’d started leading an engineering team at Wave, and so the “obvious” hypothesis to me was that the management (okay, “management”) one gets in graduate school is totally ineffective.\nMost graduate students, including Eve, start school right after college, i.e., without much clue about how to effectively do self-directed work.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "benkuhn.net",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30149844,
     "title": "Giant Pyrosome",
     "url": "https://oceana.org/marine-life/giant-pyrosome/",
@@ -1290,20 +1449,23 @@
     "publisher": "Oceana",
     "description": "Giant Pyrosomes are bioluminescent (light producing), giving rise to the common name, which comes from the Greek for fire (“pyro”) and body (“soma”). The light produced by Giant Pyrosomes is particularly bright and long lasting and is beautiful to witness. Because the individual tunicat…",
     "by": "integrale",
-    "points": 124,
+    "points": 125,
     "comment_count": 31,
     "hn_item": {
-      "by": "rg111",
-      "descendants": 1,
-      "id": 30153326,
+      "by": "JumpCrisscross",
+      "descendants": 5,
+      "id": 30156803,
       "kids": [
-        30153891
+        30157111,
+        30157012,
+        30157543,
+        30157117
       ],
-      "score": 19,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
+      "score": 18,
+      "time": 1643674361,
+      "title": "Bolt’s CEO Resigns Two Weeks After Securing $11B Valuation",
       "type": "story",
-      "url": "https://ar5iv.org/"
+      "url": "https://www.bloomberg.com/news/articles/2022-01-31/bolt-ceo-resigns-two-weeks-after-securing-11-billion-valuation"
     },
     "og_item": {
       "title": "Giant Pyrosome",
@@ -1342,19 +1504,22 @@
     "description": "",
     "by": "geerlingguy",
     "points": 105,
-    "comment_count": 89,
+    "comment_count": 91,
     "hn_item": {
-      "by": "rg111",
-      "descendants": 1,
-      "id": 30153326,
+      "by": "JumpCrisscross",
+      "descendants": 5,
+      "id": 30156803,
       "kids": [
-        30153891
+        30157111,
+        30157012,
+        30157543,
+        30157117
       ],
-      "score": 19,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
+      "score": 18,
+      "time": 1643674361,
+      "title": "Bolt’s CEO Resigns Two Weeks After Securing $11B Valuation",
       "type": "story",
-      "url": "https://ar5iv.org/"
+      "url": "https://www.bloomberg.com/news/articles/2022-01-31/bolt-ceo-resigns-two-weeks-after-securing-11-billion-valuation"
     },
     "og_item": {
       "title": "It's dire: Raspberry Pi availability tracker is launched | Jeff Geerling",
@@ -1374,53 +1539,47 @@
     }
   },
   {
-    "id": 30157426,
-    "title": "The Death of Wordle",
-    "url": "https://reeshill.net/posts/death-of-wordle/",
-    "time": 1643678552,
-    "image": "https://reeshill.net/img/death-of-wordle/stats.jpg",
-    "icon": "https://reeshill.net/favicon-128.png",
-    "publisher": "reeshill.net",
-    "description": "So The New York Times just bought Worldle. This is not surprising, but it\u0026rsquo;s definitely disappointing. Wordle is an uncommonly successful small project in a Web dominated by large corporate platforms, and its acquisition only leads us further in that direction.",
-    "by": "333c",
-    "points": 5,
-    "comment_count": 3,
+    "id": 30152113,
+    "title": "What is VWRAP? (Linden's ten year old open Virtual World protocol)",
+    "url": "https://meadhbh.hamrick.rocks/v2/technical/vwrap/index.html",
+    "time": 1643654368,
+    "image": "",
+    "icon": "https://meadhbh.hamrick.rocks/favicon.ico",
+    "publisher": "meadhbh.hamrick.rocks",
+    "description": "An overview of the IETF's Virtual Worlds Agent Region Protocol and it's development.",
+    "by": "dingosity",
+    "points": 55,
+    "comment_count": 48,
     "hn_item": {
-      "by": "rg111",
-      "descendants": 1,
-      "id": 30153326,
+      "by": "JumpCrisscross",
+      "descendants": 5,
+      "id": 30156803,
       "kids": [
-        30153891
+        30157111,
+        30157012,
+        30157543,
+        30157117
       ],
-      "score": 19,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
+      "score": 18,
+      "time": 1643674361,
+      "title": "Bolt’s CEO Resigns Two Weeks After Securing $11B Valuation",
       "type": "story",
-      "url": "https://ar5iv.org/"
+      "url": "https://www.bloomberg.com/news/articles/2022-01-31/bolt-ceo-resigns-two-weeks-after-securing-11-billion-valuation"
     },
     "og_item": {
-      "title": "The Death of Wordle",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://reeshill.net/img/death-of-wordle/stats.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://reeshill.net/posts/death-of-wordle/",
+      "title": "What is VWRAP?",
+      "type": "",
+      "image": [],
+      "url": "",
       "audio": [],
-      "description": "So The New York Times just bought Worldle. This is not surprising, but it\u0026rsquo;s definitely disappointing. Wordle is an uncommonly successful small project in a Web dominated by large corporate platforms, and its acquisition only leads us further in that direction.",
+      "description": "An overview of the IETF's Virtual Worlds Agent Region Protocol and it's development.",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
       "site_name": "",
       "video": [],
       "favicon": {
-        "url": "https://reeshill.net/favicon-128.png"
+        "url": "/favicon.ico"
       }
     }
   },
@@ -1437,17 +1596,20 @@
     "points": 67,
     "comment_count": 29,
     "hn_item": {
-      "by": "rg111",
-      "descendants": 1,
-      "id": 30153326,
+      "by": "JumpCrisscross",
+      "descendants": 5,
+      "id": 30156803,
       "kids": [
-        30153891
+        30157111,
+        30157012,
+        30157543,
+        30157117
       ],
-      "score": 19,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
+      "score": 18,
+      "time": 1643674361,
+      "title": "Bolt’s CEO Resigns Two Weeks After Securing $11B Valuation",
       "type": "story",
-      "url": "https://ar5iv.org/"
+      "url": "https://www.bloomberg.com/news/articles/2022-01-31/bolt-ceo-resigns-two-weeks-after-securing-11-billion-valuation"
     },
     "og_item": {
       "title": "Colin Woodbury",
@@ -1477,19 +1639,22 @@
     "description": "Called preprint servers, these free sites allow the public to read such studies before their formal publication. They are shifting how people approach new research, experts say.",
     "by": "bookofjoe",
     "points": 31,
-    "comment_count": 12,
+    "comment_count": 13,
     "hn_item": {
-      "by": "rg111",
-      "descendants": 1,
-      "id": 30153326,
+      "by": "JumpCrisscross",
+      "descendants": 5,
+      "id": 30156803,
       "kids": [
-        30153891
+        30157111,
+        30157012,
+        30157543,
+        30157117
       ],
-      "score": 19,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
+      "score": 18,
+      "time": 1643674361,
+      "title": "Bolt’s CEO Resigns Two Weeks After Securing $11B Valuation",
       "type": "story",
-      "url": "https://ar5iv.org/"
+      "url": "https://www.bloomberg.com/news/articles/2022-01-31/bolt-ceo-resigns-two-weeks-after-securing-11-billion-valuation"
     },
     "og_item": {
       "title": "Online archives where scientists post their research spark information revolution",
@@ -1518,48 +1683,6 @@
     }
   },
   {
-    "id": 30152113,
-    "title": "What is VWRAP? (Linden's ten year old open Virtual World protocol)",
-    "url": "https://meadhbh.hamrick.rocks/v2/technical/vwrap/index.html",
-    "time": 1643654368,
-    "image": "",
-    "icon": "https://meadhbh.hamrick.rocks/favicon.ico",
-    "publisher": "meadhbh.hamrick.rocks",
-    "description": "An overview of the IETF's Virtual Worlds Agent Region Protocol and it's development.",
-    "by": "dingosity",
-    "points": 54,
-    "comment_count": 48,
-    "hn_item": {
-      "by": "rg111",
-      "descendants": 1,
-      "id": 30153326,
-      "kids": [
-        30153891
-      ],
-      "score": 19,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
-      "type": "story",
-      "url": "https://ar5iv.org/"
-    },
-    "og_item": {
-      "title": "What is VWRAP?",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "An overview of the IETF's Virtual Worlds Agent Region Protocol and it's development.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30137127,
     "title": "Reducing the Size of Large PDFs",
     "url": "https://leancrew.com/all-this/2022/01/reducing-the-size-of-large-pdfs/",
@@ -1572,17 +1695,20 @@
     "points": 76,
     "comment_count": 18,
     "hn_item": {
-      "by": "rg111",
-      "descendants": 1,
-      "id": 30153326,
+      "by": "JumpCrisscross",
+      "descendants": 5,
+      "id": 30156803,
       "kids": [
-        30153891
+        30157111,
+        30157012,
+        30157543,
+        30157117
       ],
-      "score": 19,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
+      "score": 18,
+      "time": 1643674361,
+      "title": "Bolt’s CEO Resigns Two Weeks After Securing $11B Valuation",
       "type": "story",
-      "url": "https://ar5iv.org/"
+      "url": "https://www.bloomberg.com/news/articles/2022-01-31/bolt-ceo-resigns-two-weeks-after-securing-11-billion-valuation"
     },
     "og_item": {
       "title": "Reducing the size of large PDFs - All this",
@@ -1602,57 +1728,6 @@
     }
   },
   {
-    "id": 30157398,
-    "title": "How do I work around Vercel's 4KB Environment Variables limit?",
-    "url": "https://vercel.com/support/articles/how-do-i-workaround-vercel-s-4-kb-environment-variables-limit",
-    "time": 1643678346,
-    "image": "https://og-image.vercel.app/How%20do%20I%20work%20around%20Vercel's%204KB%20Environment%20Variables%20limit%3F.png?theme=light\u0026md=1\u0026fontSize=75px\u0026images=https%3A%2F%2Fassets.vercel.com%2Fimage%2Fupload%2Ffront%2Fassets%2Fdesign%2Fzeit-black-triangle.svg",
-    "icon": "https://assets.vercel.com/image/upload/front/favicon/vercel/favicon.ico",
-    "publisher": "Vercel Documentation",
-    "description": "The maximum allowed size of Environment Variables for a Deployment is 4KB and cannot be increased. This article provides a workaround by encrypting the required key-value pairs in a file and storing the encryption keys.",
-    "by": "vortexo",
-    "points": 4,
-    "comment_count": 2,
-    "hn_item": {
-      "by": "rg111",
-      "descendants": 1,
-      "id": 30153326,
-      "kids": [
-        30153891
-      ],
-      "score": 19,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
-      "type": "story",
-      "url": "https://ar5iv.org/"
-    },
-    "og_item": {
-      "title": "How do I work around Vercel's 4KB Environment Variables limit?",
-      "type": "website",
-      "image": [
-        {
-          "url": "https://og-image.vercel.app/How%20do%20I%20work%20around%20Vercel's%204KB%20Environment%20Variables%20limit%3F.png?theme=light\u0026md=1\u0026fontSize=75px\u0026images=https%3A%2F%2Fassets.vercel.com%2Fimage%2Fupload%2Ffront%2Fassets%2Fdesign%2Fzeit-black-triangle.svg",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://vercel.com/support/articles/how-do-i-workaround-vercel-s-4-kb-environment-variables-limit",
-      "audio": [],
-      "description": "The maximum allowed size of Environment Variables for a Deployment is 4KB and cannot be increased. This article provides a workaround by encrypting the required key-value pairs in a file and storing the encryption keys.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Vercel Documentation",
-      "video": [],
-      "favicon": {
-        "url": "https://assets.vercel.com/image/upload/front/favicon/vercel/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30153493,
     "title": "Observing HTTP/2 Traffic Is Hard, but eBPF Can Help",
     "url": "https://blog.px.dev/ebpf-http2-tracing/",
@@ -1665,17 +1740,20 @@
     "points": 62,
     "comment_count": 3,
     "hn_item": {
-      "by": "rg111",
-      "descendants": 1,
-      "id": 30153326,
+      "by": "JumpCrisscross",
+      "descendants": 5,
+      "id": 30156803,
       "kids": [
-        30153891
+        30157111,
+        30157012,
+        30157543,
+        30157117
       ],
-      "score": 19,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
+      "score": 18,
+      "time": 1643674361,
+      "title": "Bolt’s CEO Resigns Two Weeks After Securing $11B Valuation",
       "type": "story",
-      "url": "https://ar5iv.org/"
+      "url": "https://www.bloomberg.com/news/articles/2022-01-31/bolt-ceo-resigns-two-weeks-after-securing-11-billion-valuation"
     },
     "og_item": {
       "title": "Observing HTTP/2 Traffic is Hard, but eBPF Can Help",
@@ -1704,6 +1782,60 @@
     }
   },
   {
+    "id": 30157398,
+    "title": "How do I work around Vercel's 4KB Environment Variables limit?",
+    "url": "https://vercel.com/support/articles/how-do-i-workaround-vercel-s-4-kb-environment-variables-limit",
+    "time": 1643678346,
+    "image": "https://og-image.vercel.app/How%20do%20I%20work%20around%20Vercel's%204KB%20Environment%20Variables%20limit%3F.png?theme=light\u0026md=1\u0026fontSize=75px\u0026images=https%3A%2F%2Fassets.vercel.com%2Fimage%2Fupload%2Ffront%2Fassets%2Fdesign%2Fzeit-black-triangle.svg",
+    "icon": "https://assets.vercel.com/image/upload/front/favicon/vercel/favicon.ico",
+    "publisher": "Vercel Documentation",
+    "description": "The maximum allowed size of Environment Variables for a Deployment is 4KB and cannot be increased. This article provides a workaround by encrypting the required key-value pairs in a file and storing the encryption keys.",
+    "by": "vortexo",
+    "points": 4,
+    "comment_count": 2,
+    "hn_item": {
+      "by": "JumpCrisscross",
+      "descendants": 5,
+      "id": 30156803,
+      "kids": [
+        30157111,
+        30157012,
+        30157543,
+        30157117
+      ],
+      "score": 18,
+      "time": 1643674361,
+      "title": "Bolt’s CEO Resigns Two Weeks After Securing $11B Valuation",
+      "type": "story",
+      "url": "https://www.bloomberg.com/news/articles/2022-01-31/bolt-ceo-resigns-two-weeks-after-securing-11-billion-valuation"
+    },
+    "og_item": {
+      "title": "How do I work around Vercel's 4KB Environment Variables limit?",
+      "type": "website",
+      "image": [
+        {
+          "url": "https://og-image.vercel.app/How%20do%20I%20work%20around%20Vercel's%204KB%20Environment%20Variables%20limit%3F.png?theme=light\u0026md=1\u0026fontSize=75px\u0026images=https%3A%2F%2Fassets.vercel.com%2Fimage%2Fupload%2Ffront%2Fassets%2Fdesign%2Fzeit-black-triangle.svg",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://vercel.com/support/articles/how-do-i-workaround-vercel-s-4-kb-environment-variables-limit",
+      "audio": [],
+      "description": "The maximum allowed size of Environment Variables for a Deployment is 4KB and cannot be increased. This article provides a workaround by encrypting the required key-value pairs in a file and storing the encryption keys.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Vercel Documentation",
+      "video": [],
+      "favicon": {
+        "url": "https://assets.vercel.com/image/upload/front/favicon/vercel/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30150219,
     "title": "Show HN: Rich-CLI – A CLI toolbox for highlighting, Markdown, JSON and rich text",
     "url": "https://github.com/Textualize/rich-cli",
@@ -1713,20 +1845,23 @@
     "publisher": "GitHub",
     "description": "Rich-cli is a command line toolbox for fancy output in the terminal - GitHub - Textualize/rich-cli: Rich-cli is a command line toolbox for fancy output in the terminal",
     "by": "willm",
-    "points": 100,
+    "points": 101,
     "comment_count": 27,
     "hn_item": {
-      "by": "rg111",
-      "descendants": 1,
-      "id": 30153326,
+      "by": "JumpCrisscross",
+      "descendants": 5,
+      "id": 30156803,
       "kids": [
-        30153891
+        30157111,
+        30157012,
+        30157543,
+        30157117
       ],
-      "score": 19,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
+      "score": 18,
+      "time": 1643674361,
+      "title": "Bolt’s CEO Resigns Two Weeks After Securing $11B Valuation",
       "type": "story",
-      "url": "https://ar5iv.org/"
+      "url": "https://www.bloomberg.com/news/articles/2022-01-31/bolt-ceo-resigns-two-weeks-after-securing-11-billion-valuation"
     },
     "og_item": {
       "title": "GitHub - Textualize/rich-cli: Rich-cli is a command line toolbox for fancy output in the terminal",
@@ -1764,20 +1899,23 @@
     "publisher": "CNBC",
     "description": "Sony has agreed to acquire Bungie in a $3.6 billion deal, continuing January's torrid pace of video game consolidation",
     "by": "daveaiello",
-    "points": 276,
+    "points": 277,
     "comment_count": 237,
     "hn_item": {
-      "by": "rg111",
-      "descendants": 1,
-      "id": 30153326,
+      "by": "JumpCrisscross",
+      "descendants": 5,
+      "id": 30156803,
       "kids": [
-        30153891
+        30157111,
+        30157012,
+        30157543,
+        30157117
       ],
-      "score": 19,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
+      "score": 18,
+      "time": 1643674361,
+      "title": "Bolt’s CEO Resigns Two Weeks After Securing $11B Valuation",
       "type": "story",
-      "url": "https://ar5iv.org/"
+      "url": "https://www.bloomberg.com/news/articles/2022-01-31/bolt-ceo-resigns-two-weeks-after-securing-11-billion-valuation"
     },
     "og_item": {
       "title": "Sony to buy video game maker Bungie in $3.6 billion deal as industry consolidation heats up",
@@ -1806,57 +1944,6 @@
     }
   },
   {
-    "id": 30156979,
-    "title": "Show HN: Colab-xterm – Open a terminal in colab, including the free tier",
-    "url": "https://github.com/InfuseAI/colab-xterm",
-    "time": 1643675448,
-    "image": "https://repository-images.githubusercontent.com/453922569/80c5fe9d-97bc-478d-8190-39687aad800b",
-    "icon": "https://github.githubassets.com/favicons/favicon.svg",
-    "publisher": "GitHub",
-    "description": "Open a terminal in colab, including the free tier. - GitHub - InfuseAI/colab-xterm: Open a terminal in colab, including the free tier.",
-    "by": "popcornylu",
-    "points": 12,
-    "comment_count": 2,
-    "hn_item": {
-      "by": "rg111",
-      "descendants": 1,
-      "id": 30153326,
-      "kids": [
-        30153891
-      ],
-      "score": 19,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
-      "type": "story",
-      "url": "https://ar5iv.org/"
-    },
-    "og_item": {
-      "title": "GitHub - InfuseAI/colab-xterm: Open a terminal in colab, including the free tier.",
-      "type": "object",
-      "image": [
-        {
-          "url": "https://repository-images.githubusercontent.com/453922569/80c5fe9d-97bc-478d-8190-39687aad800b",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://github.com/InfuseAI/colab-xterm",
-      "audio": [],
-      "description": "Open a terminal in colab, including the free tier. - GitHub - InfuseAI/colab-xterm: Open a terminal in colab, including the free tier.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "GitHub",
-      "video": [],
-      "favicon": {
-        "url": "https://github.githubassets.com/favicons/favicon.svg"
-      }
-    }
-  },
-  {
     "id": 30149864,
     "title": "How to approach and prioritize technical debt",
     "url": "https://leadership.garden/tips-on-prioritizing-tech-debt/",
@@ -1869,17 +1956,20 @@
     "points": 79,
     "comment_count": 40,
     "hn_item": {
-      "by": "rg111",
-      "descendants": 1,
-      "id": 30153326,
+      "by": "JumpCrisscross",
+      "descendants": 5,
+      "id": 30156803,
       "kids": [
-        30153891
+        30157111,
+        30157012,
+        30157543,
+        30157117
       ],
-      "score": 19,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
+      "score": 18,
+      "time": 1643674361,
+      "title": "Bolt’s CEO Resigns Two Weeks After Securing $11B Valuation",
       "type": "story",
-      "url": "https://ar5iv.org/"
+      "url": "https://www.bloomberg.com/news/articles/2022-01-31/bolt-ceo-resigns-two-weeks-after-securing-11-billion-valuation"
     },
     "og_item": {
       "title": "Please Wait... | Cloudflare",
@@ -1911,17 +2001,20 @@
     "points": 38,
     "comment_count": 55,
     "hn_item": {
-      "by": "rg111",
-      "descendants": 1,
-      "id": 30153326,
+      "by": "JumpCrisscross",
+      "descendants": 5,
+      "id": 30156803,
       "kids": [
-        30153891
+        30157111,
+        30157012,
+        30157543,
+        30157117
       ],
-      "score": 19,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
+      "score": 18,
+      "time": 1643674361,
+      "title": "Bolt’s CEO Resigns Two Weeks After Securing $11B Valuation",
       "type": "story",
-      "url": "https://ar5iv.org/"
+      "url": "https://www.bloomberg.com/news/articles/2022-01-31/bolt-ceo-resigns-two-weeks-after-securing-11-billion-valuation"
     },
     "og_item": {
       "title": "Why Henry III's gold penny failed",
@@ -1950,6 +2043,114 @@
     }
   },
   {
+    "id": 30156979,
+    "title": "Show HN: Colab-xterm – Open a terminal in colab, including the free tier",
+    "url": "https://github.com/InfuseAI/colab-xterm",
+    "time": 1643675448,
+    "image": "https://repository-images.githubusercontent.com/453922569/80c5fe9d-97bc-478d-8190-39687aad800b",
+    "icon": "https://github.githubassets.com/favicons/favicon.svg",
+    "publisher": "GitHub",
+    "description": "Open a terminal in colab, including the free tier. - GitHub - InfuseAI/colab-xterm: Open a terminal in colab, including the free tier.",
+    "by": "popcornylu",
+    "points": 12,
+    "comment_count": 2,
+    "hn_item": {
+      "by": "JumpCrisscross",
+      "descendants": 5,
+      "id": 30156803,
+      "kids": [
+        30157111,
+        30157012,
+        30157543,
+        30157117
+      ],
+      "score": 18,
+      "time": 1643674361,
+      "title": "Bolt’s CEO Resigns Two Weeks After Securing $11B Valuation",
+      "type": "story",
+      "url": "https://www.bloomberg.com/news/articles/2022-01-31/bolt-ceo-resigns-two-weeks-after-securing-11-billion-valuation"
+    },
+    "og_item": {
+      "title": "GitHub - InfuseAI/colab-xterm: Open a terminal in colab, including the free tier.",
+      "type": "object",
+      "image": [
+        {
+          "url": "https://repository-images.githubusercontent.com/453922569/80c5fe9d-97bc-478d-8190-39687aad800b",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://github.com/InfuseAI/colab-xterm",
+      "audio": [],
+      "description": "Open a terminal in colab, including the free tier. - GitHub - InfuseAI/colab-xterm: Open a terminal in colab, including the free tier.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "GitHub",
+      "video": [],
+      "favicon": {
+        "url": "https://github.githubassets.com/favicons/favicon.svg"
+      }
+    }
+  },
+  {
+    "id": 30157064,
+    "title": "Where did Omicron come from? Three key theories",
+    "url": "https://www.nature.com/articles/d41586-022-00215-2",
+    "time": 1643676138,
+    "image": "https://media.nature.com/lw1024/magazine-assets/d41586-022-00215-2/d41586-022-00215-2_20071876.jpg",
+    "icon": "https://www.nature.com/static/images/favicons/nature/favicon.ico",
+    "publisher": "Nature",
+    "description": "The highly transmissible variant emerged with a host of unusual mutations. Now scientists are trying to work out how it evolved.",
+    "by": "pseudolus",
+    "points": 17,
+    "comment_count": 10,
+    "hn_item": {
+      "by": "JumpCrisscross",
+      "descendants": 5,
+      "id": 30156803,
+      "kids": [
+        30157111,
+        30157012,
+        30157543,
+        30157117
+      ],
+      "score": 18,
+      "time": 1643674361,
+      "title": "Bolt’s CEO Resigns Two Weeks After Securing $11B Valuation",
+      "type": "story",
+      "url": "https://www.bloomberg.com/news/articles/2022-01-31/bolt-ceo-resigns-two-weeks-after-securing-11-billion-valuation"
+    },
+    "og_item": {
+      "title": "Where did Omicron come from? Three key theories",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://media.nature.com/lw1024/magazine-assets/d41586-022-00215-2/d41586-022-00215-2_20071876.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://www.nature.com/articles/d41586-022-00215-2",
+      "audio": [],
+      "description": "The highly transmissible variant emerged with a host of unusual mutations. Now scientists are trying to work out how it evolved.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/static/images/favicons/nature/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30156182,
     "title": "Porsche Taycan breaks the Guinness World Records for coast-to-coast charging",
     "url": "https://newsroom.porsche.com/en_US/2022/products/porsche-taycan-coast-to-coast-charging-guinness-world-record-wayne-gerdes-27225.html",
@@ -1962,17 +2163,20 @@
     "points": 13,
     "comment_count": 4,
     "hn_item": {
-      "by": "rg111",
-      "descendants": 1,
-      "id": 30153326,
+      "by": "JumpCrisscross",
+      "descendants": 5,
+      "id": 30156803,
       "kids": [
-        30153891
+        30157111,
+        30157012,
+        30157543,
+        30157117
       ],
-      "score": 19,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
+      "score": 18,
+      "time": 1643674361,
+      "title": "Bolt’s CEO Resigns Two Weeks After Securing $11B Valuation",
       "type": "story",
-      "url": "https://ar5iv.org/"
+      "url": "https://www.bloomberg.com/news/articles/2022-01-31/bolt-ceo-resigns-two-weeks-after-securing-11-billion-valuation"
     },
     "og_item": {
       "title": "Porsche Taycan breaks the Guinness World Records title for coast-to-coast charging",
@@ -2013,17 +2217,20 @@
     "points": 55,
     "comment_count": 18,
     "hn_item": {
-      "by": "rg111",
-      "descendants": 1,
-      "id": 30153326,
+      "by": "JumpCrisscross",
+      "descendants": 5,
+      "id": 30156803,
       "kids": [
-        30153891
+        30157111,
+        30157012,
+        30157543,
+        30157117
       ],
-      "score": 19,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
+      "score": 18,
+      "time": 1643674361,
+      "title": "Bolt’s CEO Resigns Two Weeks After Securing $11B Valuation",
       "type": "story",
-      "url": "https://ar5iv.org/"
+      "url": "https://www.bloomberg.com/news/articles/2022-01-31/bolt-ceo-resigns-two-weeks-after-securing-11-billion-valuation"
     },
     "og_item": {
       "title": "A couple renovating a 115-year-old building discovered two 60-foot-long hidden murals",
@@ -2061,20 +2268,23 @@
     "publisher": "imlefthanded.com",
     "description": "",
     "by": "decrypt",
-    "points": 649,
-    "comment_count": 721,
+    "points": 651,
+    "comment_count": 722,
     "hn_item": {
-      "by": "rg111",
-      "descendants": 1,
-      "id": 30153326,
+      "by": "JumpCrisscross",
+      "descendants": 5,
+      "id": 30156803,
       "kids": [
-        30153891
+        30157111,
+        30157012,
+        30157543,
+        30157117
       ],
-      "score": 19,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
+      "score": 18,
+      "time": 1643674361,
+      "title": "Bolt’s CEO Resigns Two Weeks After Securing $11B Valuation",
       "type": "story",
-      "url": "https://ar5iv.org/"
+      "url": "https://www.bloomberg.com/news/articles/2022-01-31/bolt-ceo-resigns-two-weeks-after-securing-11-billion-valuation"
     },
     "og_item": {
       "title": "Just a moment...",
@@ -2094,57 +2304,6 @@
     }
   },
   {
-    "id": 30157064,
-    "title": "Where did Omicron come from? Three key theories",
-    "url": "https://www.nature.com/articles/d41586-022-00215-2",
-    "time": 1643676138,
-    "image": "https://media.nature.com/lw1024/magazine-assets/d41586-022-00215-2/d41586-022-00215-2_20071876.jpg",
-    "icon": "https://www.nature.com/static/images/favicons/nature/favicon.ico",
-    "publisher": "Nature",
-    "description": "The highly transmissible variant emerged with a host of unusual mutations. Now scientists are trying to work out how it evolved.",
-    "by": "pseudolus",
-    "points": 15,
-    "comment_count": 6,
-    "hn_item": {
-      "by": "rg111",
-      "descendants": 1,
-      "id": 30153326,
-      "kids": [
-        30153891
-      ],
-      "score": 19,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
-      "type": "story",
-      "url": "https://ar5iv.org/"
-    },
-    "og_item": {
-      "title": "Where did Omicron come from? Three key theories",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://media.nature.com/lw1024/magazine-assets/d41586-022-00215-2/d41586-022-00215-2_20071876.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://www.nature.com/articles/d41586-022-00215-2",
-      "audio": [],
-      "description": "The highly transmissible variant emerged with a host of unusual mutations. Now scientists are trying to work out how it evolved.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/static/images/favicons/nature/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30137254,
     "title": "Autodocumenting Makefiles",
     "url": "https://daniel.feldroy.com/posts/autodocumenting-makefiles",
@@ -2157,17 +2316,20 @@
     "points": 60,
     "comment_count": 32,
     "hn_item": {
-      "by": "rg111",
-      "descendants": 1,
-      "id": 30153326,
+      "by": "JumpCrisscross",
+      "descendants": 5,
+      "id": 30156803,
       "kids": [
-        30153891
+        30157111,
+        30157012,
+        30157543,
+        30157117
       ],
-      "score": 19,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
+      "score": 18,
+      "time": 1643674361,
+      "title": "Bolt’s CEO Resigns Two Weeks After Securing $11B Valuation",
       "type": "story",
-      "url": "https://ar5iv.org/"
+      "url": "https://www.bloomberg.com/news/articles/2022-01-31/bolt-ceo-resigns-two-weeks-after-securing-11-billion-valuation"
     },
     "og_item": {
       "title": "Autodocumenting Makefiles",
@@ -2208,17 +2370,20 @@
     "points": 76,
     "comment_count": 21,
     "hn_item": {
-      "by": "rg111",
-      "descendants": 1,
-      "id": 30153326,
+      "by": "JumpCrisscross",
+      "descendants": 5,
+      "id": 30156803,
       "kids": [
-        30153891
+        30157111,
+        30157012,
+        30157543,
+        30157117
       ],
-      "score": 19,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
+      "score": 18,
+      "time": 1643674361,
+      "title": "Bolt’s CEO Resigns Two Weeks After Securing $11B Valuation",
       "type": "story",
-      "url": "https://ar5iv.org/"
+      "url": "https://www.bloomberg.com/news/articles/2022-01-31/bolt-ceo-resigns-two-weeks-after-securing-11-billion-valuation"
     },
     "og_item": {
       "title": "GitHub - hypernumbers/learn_elisp_the_hard_way: A book about learning eLisp for customising Emacs the hard way - see the Gist https://gist.github.com/754568",
@@ -2247,48 +2412,6 @@
     }
   },
   {
-    "id": 30156185,
-    "title": "NLnet Funded Projects",
-    "url": "https://nlnet.nl/project/",
-    "time": 1643670896,
-    "image": "",
-    "icon": "https://nlnet.nl/favicon3.ico",
-    "publisher": "nlnet.nl",
-    "description": "",
-    "by": "1vuio0pswjnm7",
-    "points": 6,
-    "comment_count": 1,
-    "hn_item": {
-      "by": "rg111",
-      "descendants": 1,
-      "id": 30153326,
-      "kids": [
-        30153891
-      ],
-      "score": 19,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
-      "type": "story",
-      "url": "https://ar5iv.org/"
-    },
-    "og_item": {
-      "title": "NLnet; All projects",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon3.ico"
-      }
-    }
-  },
-  {
     "id": 30141788,
     "title": "Fuck That Gator (2017)",
     "url": "https://www.buzzfeed.com/golianopoulos/fuck-that-gator",
@@ -2301,17 +2424,20 @@
     "points": 28,
     "comment_count": 7,
     "hn_item": {
-      "by": "rg111",
-      "descendants": 1,
-      "id": 30153326,
+      "by": "JumpCrisscross",
+      "descendants": 5,
+      "id": 30156803,
       "kids": [
-        30153891
+        30157111,
+        30157012,
+        30157543,
+        30157117
       ],
-      "score": 19,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
+      "score": 18,
+      "time": 1643674361,
+      "title": "Bolt’s CEO Resigns Two Weeks After Securing $11B Valuation",
       "type": "story",
-      "url": "https://ar5iv.org/"
+      "url": "https://www.bloomberg.com/news/articles/2022-01-31/bolt-ceo-resigns-two-weeks-after-securing-11-billion-valuation"
     },
     "og_item": {
       "title": "Tommie Woodward's Internet-Famous Last Words",
@@ -2352,17 +2478,20 @@
     "points": 125,
     "comment_count": 61,
     "hn_item": {
-      "by": "rg111",
-      "descendants": 1,
-      "id": 30153326,
+      "by": "JumpCrisscross",
+      "descendants": 5,
+      "id": 30156803,
       "kids": [
-        30153891
+        30157111,
+        30157012,
+        30157543,
+        30157117
       ],
-      "score": 19,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
+      "score": 18,
+      "time": 1643674361,
+      "title": "Bolt’s CEO Resigns Two Weeks After Securing $11B Valuation",
       "type": "story",
-      "url": "https://ar5iv.org/"
+      "url": "https://www.bloomberg.com/news/articles/2022-01-31/bolt-ceo-resigns-two-weeks-after-securing-11-billion-valuation"
     },
     "og_item": {
       "title": "Socrates on the Blessing of Being Refuted - Antigone",
@@ -2391,6 +2520,51 @@
     }
   },
   {
+    "id": 30156185,
+    "title": "NLnet Funded Projects",
+    "url": "https://nlnet.nl/project/",
+    "time": 1643670896,
+    "image": "",
+    "icon": "https://nlnet.nl/favicon3.ico",
+    "publisher": "nlnet.nl",
+    "description": "",
+    "by": "1vuio0pswjnm7",
+    "points": 6,
+    "comment_count": 1,
+    "hn_item": {
+      "by": "JumpCrisscross",
+      "descendants": 5,
+      "id": 30156803,
+      "kids": [
+        30157111,
+        30157012,
+        30157543,
+        30157117
+      ],
+      "score": 18,
+      "time": 1643674361,
+      "title": "Bolt’s CEO Resigns Two Weeks After Securing $11B Valuation",
+      "type": "story",
+      "url": "https://www.bloomberg.com/news/articles/2022-01-31/bolt-ceo-resigns-two-weeks-after-securing-11-billion-valuation"
+    },
+    "og_item": {
+      "title": "NLnet; All projects",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon3.ico"
+      }
+    }
+  },
+  {
     "id": 30144101,
     "title": "Please make a dumb car",
     "url": "https://techcrunch.com/2022/01/29/please-make-a-dumb-car/",
@@ -2400,20 +2574,23 @@
     "publisher": "TechCrunch",
     "description": "Today’s cars are dumb where they should be smart, and smart where they should be dumb. Enough already. Make a car that’s pretty much all dumb and watch it sell — because what automakers are giving people is so bad, they’ll pay more to have less of it. Cars now are like budget smar…",
     "by": "wrycoder",
-    "points": 489,
-    "comment_count": 570,
+    "points": 491,
+    "comment_count": 571,
     "hn_item": {
-      "by": "rg111",
-      "descendants": 1,
-      "id": 30153326,
+      "by": "JumpCrisscross",
+      "descendants": 5,
+      "id": 30156803,
       "kids": [
-        30153891
+        30157111,
+        30157012,
+        30157543,
+        30157117
       ],
-      "score": 19,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
+      "score": 18,
+      "time": 1643674361,
+      "title": "Bolt’s CEO Resigns Two Weeks After Securing $11B Valuation",
       "type": "story",
-      "url": "https://ar5iv.org/"
+      "url": "https://www.bloomberg.com/news/articles/2022-01-31/bolt-ceo-resigns-two-weeks-after-securing-11-billion-valuation"
     },
     "og_item": {
       "title": "Please make a dumb car – TechCrunch",
@@ -2454,17 +2631,20 @@
     "points": 137,
     "comment_count": 96,
     "hn_item": {
-      "by": "rg111",
-      "descendants": 1,
-      "id": 30153326,
+      "by": "JumpCrisscross",
+      "descendants": 5,
+      "id": 30156803,
       "kids": [
-        30153891
+        30157111,
+        30157012,
+        30157543,
+        30157117
       ],
-      "score": 19,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
+      "score": 18,
+      "time": 1643674361,
+      "title": "Bolt’s CEO Resigns Two Weeks After Securing $11B Valuation",
       "type": "story",
-      "url": "https://ar5iv.org/"
+      "url": "https://www.bloomberg.com/news/articles/2022-01-31/bolt-ceo-resigns-two-weeks-after-securing-11-billion-valuation"
     },
     "og_item": {
       "title": "Gains I’m seeing from my second brain tool",
@@ -2484,53 +2664,11 @@
     }
   },
   {
-    "id": 30157233,
-    "title": "Reddit Enhancement Suite is now in maintenance mode",
-    "url": "https://old.reddit.com/r/RESAnnouncements/comments/sh83gx/announcement_life_of_reddit_enhancement_suite/",
-    "time": 1643677164,
-    "image": "",
-    "icon": "https://old.reddit.com/favicon.ico",
-    "publisher": "old.reddit.com",
-    "description": "",
-    "by": "goplayoutside",
-    "points": 14,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "rg111",
-      "descendants": 1,
-      "id": 30153326,
-      "kids": [
-        30153891
-      ],
-      "score": 19,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
-      "type": "story",
-      "url": "https://ar5iv.org/"
-    },
-    "og_item": {
-      "title": "Too Many Requests",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30152714,
     "title": "HVM: A Parallel Functional Runtime",
     "url": "https://github.com/Kindelia/HVM",
     "time": 1643656542,
-    "image": "https://opengraph.githubassets.com/24231285446b82f6d64869a5dcb9d635a91b5484edc5746934c54fc627062dfe/Kindelia/HVM",
+    "image": "https://opengraph.githubassets.com/7c60cf8566d4ab3a71f308b4a79d25ac42a0a8ffbdd271571f971d52cb14b8a5/Kindelia/HVM",
     "icon": "https://github.githubassets.com/favicons/favicon.svg",
     "publisher": "GitHub",
     "description": "A massively parallel, optimal functional runtime in Rust - GitHub - Kindelia/HVM: A massively parallel, optimal functional runtime in Rust",
@@ -2538,24 +2676,27 @@
     "points": 46,
     "comment_count": 6,
     "hn_item": {
-      "by": "rg111",
-      "descendants": 1,
-      "id": 30153326,
+      "by": "JumpCrisscross",
+      "descendants": 5,
+      "id": 30156803,
       "kids": [
-        30153891
+        30157111,
+        30157012,
+        30157543,
+        30157117
       ],
-      "score": 19,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
+      "score": 18,
+      "time": 1643674361,
+      "title": "Bolt’s CEO Resigns Two Weeks After Securing $11B Valuation",
       "type": "story",
-      "url": "https://ar5iv.org/"
+      "url": "https://www.bloomberg.com/news/articles/2022-01-31/bolt-ceo-resigns-two-weeks-after-securing-11-billion-valuation"
     },
     "og_item": {
       "title": "GitHub - Kindelia/HVM: A massively parallel, optimal functional runtime in Rust",
       "type": "object",
       "image": [
         {
-          "url": "https://opengraph.githubassets.com/24231285446b82f6d64869a5dcb9d635a91b5484edc5746934c54fc627062dfe/Kindelia/HVM",
+          "url": "https://opengraph.githubassets.com/7c60cf8566d4ab3a71f308b4a79d25ac42a0a8ffbdd271571f971d52cb14b8a5/Kindelia/HVM",
           "secure_url": "",
           "type": "",
           "width": 1200,
@@ -2586,20 +2727,23 @@
     "publisher": "Twitter",
     "description": "",
     "by": "ipsum2",
-    "points": 110,
+    "points": 111,
     "comment_count": 143,
     "hn_item": {
-      "by": "rg111",
-      "descendants": 1,
-      "id": 30153326,
+      "by": "JumpCrisscross",
+      "descendants": 5,
+      "id": 30156803,
       "kids": [
-        30153891
+        30157111,
+        30157012,
+        30157543,
+        30157117
       ],
-      "score": 19,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
+      "score": 18,
+      "time": 1643674361,
+      "title": "Bolt’s CEO Resigns Two Weeks After Securing $11B Valuation",
       "type": "story",
-      "url": "https://ar5iv.org/"
+      "url": "https://www.bloomberg.com/news/articles/2022-01-31/bolt-ceo-resigns-two-weeks-after-securing-11-billion-valuation"
     },
     "og_item": {
       "title": "",
@@ -2619,6 +2763,51 @@
     }
   },
   {
+    "id": 30157233,
+    "title": "Reddit Enhancement Suite is now in maintenance mode",
+    "url": "https://old.reddit.com/r/RESAnnouncements/comments/sh83gx/announcement_life_of_reddit_enhancement_suite/",
+    "time": 1643677164,
+    "image": "",
+    "icon": "https://old.reddit.com/favicon.ico",
+    "publisher": "old.reddit.com",
+    "description": "",
+    "by": "goplayoutside",
+    "points": 14,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "JumpCrisscross",
+      "descendants": 5,
+      "id": 30156803,
+      "kids": [
+        30157111,
+        30157012,
+        30157543,
+        30157117
+      ],
+      "score": 18,
+      "time": 1643674361,
+      "title": "Bolt’s CEO Resigns Two Weeks After Securing $11B Valuation",
+      "type": "story",
+      "url": "https://www.bloomberg.com/news/articles/2022-01-31/bolt-ceo-resigns-two-weeks-after-securing-11-billion-valuation"
+    },
+    "og_item": {
+      "title": "Too Many Requests",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30154188,
     "title": "Regexes Are Cool and Good",
     "url": "https://buttondown.email/hillelwayne/archive/regexes-are-cool-and-good/",
@@ -2631,17 +2820,20 @@
     "points": 14,
     "comment_count": 0,
     "hn_item": {
-      "by": "rg111",
-      "descendants": 1,
-      "id": 30153326,
+      "by": "JumpCrisscross",
+      "descendants": 5,
+      "id": 30156803,
       "kids": [
-        30153891
+        30157111,
+        30157012,
+        30157543,
+        30157117
       ],
-      "score": 19,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
+      "score": 18,
+      "time": 1643674361,
+      "title": "Bolt’s CEO Resigns Two Weeks After Securing $11B Valuation",
       "type": "story",
-      "url": "https://ar5iv.org/"
+      "url": "https://www.bloomberg.com/news/articles/2022-01-31/bolt-ceo-resigns-two-weeks-after-securing-11-billion-valuation"
     },
     "og_item": {
       "title": "Regexes are Cool and Good • Buttondown",
@@ -2673,17 +2865,20 @@
     "points": 157,
     "comment_count": 101,
     "hn_item": {
-      "by": "rg111",
-      "descendants": 1,
-      "id": 30153326,
+      "by": "JumpCrisscross",
+      "descendants": 5,
+      "id": 30156803,
       "kids": [
-        30153891
+        30157111,
+        30157012,
+        30157543,
+        30157117
       ],
-      "score": 19,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
+      "score": 18,
+      "time": 1643674361,
+      "title": "Bolt’s CEO Resigns Two Weeks After Securing $11B Valuation",
       "type": "story",
-      "url": "https://ar5iv.org/"
+      "url": "https://www.bloomberg.com/news/articles/2022-01-31/bolt-ceo-resigns-two-weeks-after-securing-11-billion-valuation"
     },
     "og_item": {
       "title": "The Boring Technology Checklist - Begin",
@@ -2703,57 +2898,6 @@
     }
   },
   {
-    "id": 30146843,
-    "title": "1k-cycle lithium-sulfur battery could increase electric vehicle ranges",
-    "url": "https://news.umich.edu/1000-cycle-lithium-sulfur-battery-could-quintuple-electric-vehicle-ranges/",
-    "time": 1643628054,
-    "image": "https://news.umich.edu/wp-content/uploads/mc-image-cache/2022/01/1000-cycle-lithium-sulfur-battery-could-quintuple-electric-vehicle-ranges-LiS-Battery-Diagram.jpg",
-    "icon": "https://news.umich.edu/favicon.ico",
-    "publisher": "University of Michigan News",
-    "description": "A new biologically inspired battery membrane has enabled a battery with five times the capacity of the industry-standard lithium ion design to run for the thousand-plus cycles needed to power an electric car.\n\nA network of aramid nanofibers, recycled from Kevlar, can enable lithium-sulfur batterie",
-    "by": "maeln",
-    "points": 76,
-    "comment_count": 171,
-    "hn_item": {
-      "by": "rg111",
-      "descendants": 1,
-      "id": 30153326,
-      "kids": [
-        30153891
-      ],
-      "score": 19,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
-      "type": "story",
-      "url": "https://ar5iv.org/"
-    },
-    "og_item": {
-      "title": "1,000-cycle lithium-sulfur battery could quintuple electric vehicle ranges",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://news.umich.edu/wp-content/uploads/mc-image-cache/2022/01/1000-cycle-lithium-sulfur-battery-could-quintuple-electric-vehicle-ranges-LiS-Battery-Diagram.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://news.umich.edu/1000-cycle-lithium-sulfur-battery-could-quintuple-electric-vehicle-ranges/",
-      "audio": [],
-      "description": "A new biologically inspired battery membrane has enabled a battery with five times the capacity of the industry-standard lithium ion design to run for the thousand-plus cycles needed to power an electric car.\n\nA network of aramid nanofibers, recycled from Kevlar, can enable lithium-sulfur batterie",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "University of Michigan News",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30149099,
     "title": "Google critiqued the practice of displaying ads above search results",
     "url": "https://twitter.com/krebs_adrian/status/1488173888068542466",
@@ -2766,17 +2910,20 @@
     "points": 305,
     "comment_count": 139,
     "hn_item": {
-      "by": "rg111",
-      "descendants": 1,
-      "id": 30153326,
+      "by": "JumpCrisscross",
+      "descendants": 5,
+      "id": 30156803,
       "kids": [
-        30153891
+        30157111,
+        30157012,
+        30157543,
+        30157117
       ],
-      "score": 19,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
+      "score": 18,
+      "time": 1643674361,
+      "title": "Bolt’s CEO Resigns Two Weeks After Securing $11B Valuation",
       "type": "story",
-      "url": "https://ar5iv.org/"
+      "url": "https://www.bloomberg.com/news/articles/2022-01-31/bolt-ceo-resigns-two-weeks-after-securing-11-billion-valuation"
     },
     "og_item": {
       "title": "",
@@ -2805,20 +2952,23 @@
     "publisher": "UMass Chan Medical School",
     "description": "UMass Chan Medical School researchers are embarking on a clinical trial of an mRNA vaccine by Moderna against the Epstein-Barr virus (EBV), a common cause of infectious mononucleosis. Katherine Luzuriaga, MD, is principal investigator for the study at UMass Chan.",
     "by": "drewcon",
-    "points": 28,
+    "points": 29,
     "comment_count": 3,
     "hn_item": {
-      "by": "rg111",
-      "descendants": 1,
-      "id": 30153326,
+      "by": "JumpCrisscross",
+      "descendants": 5,
+      "id": 30156803,
       "kids": [
-        30153891
+        30157111,
+        30157012,
+        30157543,
+        30157117
       ],
-      "score": 19,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
+      "score": 18,
+      "time": 1643674361,
+      "title": "Bolt’s CEO Resigns Two Weeks After Securing $11B Valuation",
       "type": "story",
-      "url": "https://ar5iv.org/"
+      "url": "https://www.bloomberg.com/news/articles/2022-01-31/bolt-ceo-resigns-two-weeks-after-securing-11-billion-valuation"
     },
     "og_item": {
       "title": "Phase I clinical trial of Moderna mRNA vaccine for Epstein-Barr virus starting at UMass Chan",
@@ -2859,17 +3009,20 @@
     "points": 14,
     "comment_count": 1,
     "hn_item": {
-      "by": "rg111",
-      "descendants": 1,
-      "id": 30153326,
+      "by": "JumpCrisscross",
+      "descendants": 5,
+      "id": 30156803,
       "kids": [
-        30153891
+        30157111,
+        30157012,
+        30157543,
+        30157117
       ],
-      "score": 19,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
+      "score": 18,
+      "time": 1643674361,
+      "title": "Bolt’s CEO Resigns Two Weeks After Securing $11B Valuation",
       "type": "story",
-      "url": "https://ar5iv.org/"
+      "url": "https://www.bloomberg.com/news/articles/2022-01-31/bolt-ceo-resigns-two-weeks-after-securing-11-billion-valuation"
     },
     "og_item": {
       "title": "Writing better release notes",
@@ -2898,125 +3051,53 @@
     }
   },
   {
-    "id": 30156564,
-    "title": "LTT's “AdBlockers are piracy” is a tone deaf remark",
-    "url": "https://news.ycombinator.com/item?id=30156564",
-    "time": 1643672930,
-    "image": "",
-    "icon": "https://news.ycombinator.com/favicon.ico",
-    "publisher": "Hacker News",
-    "description": "",
-    "by": "movedx",
-    "points": 20,
-    "comment_count": 14,
-    "hn_item": {
-      "by": "rg111",
-      "descendants": 1,
-      "id": 30153326,
-      "kids": [
-        30153891
-      ],
-      "score": 19,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
-      "type": "story",
-      "url": "https://ar5iv.org/"
-    },
-    "og_item": {
-      "title": "LTT's “AdBlockers are piracy” is a tone deaf remark | Hacker News",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30157464,
-    "title": "Ask HN: Google Play prevents continuous delivery",
-    "url": "https://news.ycombinator.com/item?id=30157464",
-    "time": 1643678852,
-    "image": "",
-    "icon": "https://news.ycombinator.com/favicon.ico",
-    "publisher": "Hacker News",
-    "description": "",
-    "by": "quambene",
-    "points": 4,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "rg111",
-      "descendants": 1,
-      "id": 30153326,
-      "kids": [
-        30153891
-      ],
-      "score": 19,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
-      "type": "story",
-      "url": "https://ar5iv.org/"
-    },
-    "og_item": {
-      "title": "Ask HN: Google Play prevents continuous delivery | Hacker News",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30146965,
-    "title": "The tonsillar evacuation hypothesis of yawning behaviour (1994)",
-    "url": "http://baillement.com/dossier/tonsillar_hypothesis.html",
-    "time": 1643629279,
-    "image": "",
-    "icon": "",
-    "publisher": "baillement.com",
-    "description": "Pourquoi baillons-nous? la neurophysiologie et les pathologies du baillement, la phylogenese, l'histoire, pourquoi le baillement est contagieux?",
-    "by": "primroot",
-    "points": 9,
+    "id": 30153326,
+    "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
+    "url": "https://ar5iv.org/",
+    "time": 1643658897,
+    "image": "https://ar5iv.org/assets/ar5iv_card.png",
+    "icon": "https://ar5iv.org/favicon.ico",
+    "publisher": "ar5iv",
+    "description": "ar5iv offers a modern web view for arXiv's preprints. An open community resource, on a quest to a full collection of high-quality documents.",
+    "by": "rg111",
+    "points": 21,
     "comment_count": 1,
     "hn_item": {
-      "by": "rg111",
-      "descendants": 1,
-      "id": 30153326,
+      "by": "JumpCrisscross",
+      "descendants": 5,
+      "id": 30156803,
       "kids": [
-        30153891
+        30157111,
+        30157012,
+        30157543,
+        30157117
       ],
-      "score": 19,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
+      "score": 18,
+      "time": 1643674361,
+      "title": "Bolt’s CEO Resigns Two Weeks After Securing $11B Valuation",
       "type": "story",
-      "url": "https://ar5iv.org/"
+      "url": "https://www.bloomberg.com/news/articles/2022-01-31/bolt-ceo-resigns-two-weeks-after-securing-11-billion-valuation"
     },
     "og_item": {
-      "title": "tonsillar_hypothesis",
+      "title": "ar5iv – Articles from arXiv.org as responsive HTML5 web documents",
       "type": "",
-      "image": [],
-      "url": "",
+      "image": [
+        {
+          "url": "https://ar5iv.org/assets/ar5iv_card.png",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://ar5iv.org",
       "audio": [],
-      "description": "Pourquoi baillons-nous? la neurophysiologie et les pathologies du baillement, la phylogenese, l'histoire, pourquoi le baillement est contagieux?",
+      "description": "ar5iv offers a modern web view for arXiv's preprints. An open community resource, on a quest to a full collection of high-quality documents.",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "",
+      "site_name": "ar5iv",
       "video": [],
       "favicon": {
         "url": "/favicon.ico"
@@ -3036,17 +3117,20 @@
     "points": 70,
     "comment_count": 10,
     "hn_item": {
-      "by": "rg111",
-      "descendants": 1,
-      "id": 30153326,
+      "by": "JumpCrisscross",
+      "descendants": 5,
+      "id": 30156803,
       "kids": [
-        30153891
+        30157111,
+        30157012,
+        30157543,
+        30157117
       ],
-      "score": 19,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
+      "score": 18,
+      "time": 1643674361,
+      "title": "Bolt’s CEO Resigns Two Weeks After Securing $11B Valuation",
       "type": "story",
-      "url": "https://ar5iv.org/"
+      "url": "https://www.bloomberg.com/news/articles/2022-01-31/bolt-ceo-resigns-two-weeks-after-securing-11-billion-valuation"
     },
     "og_item": {
       "title": "Textual for Windows",
@@ -3075,6 +3159,96 @@
     }
   },
   {
+    "id": 30156564,
+    "title": "LTT's “AdBlockers are piracy” is a tone deaf remark",
+    "url": "https://news.ycombinator.com/item?id=30156564",
+    "time": 1643672930,
+    "image": "",
+    "icon": "https://news.ycombinator.com/favicon.ico",
+    "publisher": "Hacker News",
+    "description": "",
+    "by": "movedx",
+    "points": 20,
+    "comment_count": 14,
+    "hn_item": {
+      "by": "JumpCrisscross",
+      "descendants": 5,
+      "id": 30156803,
+      "kids": [
+        30157111,
+        30157012,
+        30157543,
+        30157117
+      ],
+      "score": 18,
+      "time": 1643674361,
+      "title": "Bolt’s CEO Resigns Two Weeks After Securing $11B Valuation",
+      "type": "story",
+      "url": "https://www.bloomberg.com/news/articles/2022-01-31/bolt-ceo-resigns-two-weeks-after-securing-11-billion-valuation"
+    },
+    "og_item": {
+      "title": "LTT's “AdBlockers are piracy” is a tone deaf remark | Hacker News",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30146965,
+    "title": "The tonsillar evacuation hypothesis of yawning behaviour (1994)",
+    "url": "http://baillement.com/dossier/tonsillar_hypothesis.html",
+    "time": 1643629279,
+    "image": "",
+    "icon": "",
+    "publisher": "baillement.com",
+    "description": "Pourquoi baillons-nous? la neurophysiologie et les pathologies du baillement, la phylogenese, l'histoire, pourquoi le baillement est contagieux?",
+    "by": "primroot",
+    "points": 9,
+    "comment_count": 1,
+    "hn_item": {
+      "by": "JumpCrisscross",
+      "descendants": 5,
+      "id": 30156803,
+      "kids": [
+        30157111,
+        30157012,
+        30157543,
+        30157117
+      ],
+      "score": 18,
+      "time": 1643674361,
+      "title": "Bolt’s CEO Resigns Two Weeks After Securing $11B Valuation",
+      "type": "story",
+      "url": "https://www.bloomberg.com/news/articles/2022-01-31/bolt-ceo-resigns-two-weeks-after-securing-11-billion-valuation"
+    },
+    "og_item": {
+      "title": "tonsillar_hypothesis",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "Pourquoi baillons-nous? la neurophysiologie et les pathologies du baillement, la phylogenese, l'histoire, pourquoi le baillement est contagieux?",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30147507,
     "title": "VT100 Machine Emulator in JavaScript",
     "url": "https://www.pcjs.org/machines/dec/vt100/",
@@ -3087,17 +3261,20 @@
     "points": 73,
     "comment_count": 28,
     "hn_item": {
-      "by": "rg111",
-      "descendants": 1,
-      "id": 30153326,
+      "by": "JumpCrisscross",
+      "descendants": 5,
+      "id": 30156803,
       "kids": [
-        30153891
+        30157111,
+        30157012,
+        30157543,
+        30157117
       ],
-      "score": 19,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
+      "score": 18,
+      "time": 1643674361,
+      "title": "Bolt’s CEO Resigns Two Weeks After Securing $11B Valuation",
       "type": "story",
-      "url": "https://ar5iv.org/"
+      "url": "https://www.bloomberg.com/news/articles/2022-01-31/bolt-ceo-resigns-two-weeks-after-securing-11-billion-valuation"
     },
     "og_item": {
       "title": "DEC VT100 Terminal",
@@ -3126,53 +3303,47 @@
     }
   },
   {
-    "id": 30156191,
-    "title": "The next generation of terminal ergonomics: autocomplete",
-    "url": "https://github.com/withfig/autocomplete",
-    "time": 1643670925,
-    "image": "https://repository-images.githubusercontent.com/299482335/73b47831-7f71-40e1-8b61-40eaa4555bb0",
-    "icon": "https://github.githubassets.com/favicons/favicon.svg",
-    "publisher": "GitHub",
-    "description": "Fig adds autocomplete to your terminal. Contribute to withfig/autocomplete development by creating an account on GitHub.",
-    "by": "The_rationalist",
-    "points": 6,
+    "id": 30157464,
+    "title": "Ask HN: Google Play prevents continuous delivery",
+    "url": "https://news.ycombinator.com/item?id=30157464",
+    "time": 1643678852,
+    "image": "",
+    "icon": "https://news.ycombinator.com/favicon.ico",
+    "publisher": "Hacker News",
+    "description": "",
+    "by": "quambene",
+    "points": 4,
     "comment_count": 0,
     "hn_item": {
-      "by": "rg111",
-      "descendants": 1,
-      "id": 30153326,
+      "by": "JumpCrisscross",
+      "descendants": 5,
+      "id": 30156803,
       "kids": [
-        30153891
+        30157111,
+        30157012,
+        30157543,
+        30157117
       ],
-      "score": 19,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
+      "score": 18,
+      "time": 1643674361,
+      "title": "Bolt’s CEO Resigns Two Weeks After Securing $11B Valuation",
       "type": "story",
-      "url": "https://ar5iv.org/"
+      "url": "https://www.bloomberg.com/news/articles/2022-01-31/bolt-ceo-resigns-two-weeks-after-securing-11-billion-valuation"
     },
     "og_item": {
-      "title": "GitHub - withfig/autocomplete: Fig adds autocomplete to your terminal.",
-      "type": "object",
-      "image": [
-        {
-          "url": "https://repository-images.githubusercontent.com/299482335/73b47831-7f71-40e1-8b61-40eaa4555bb0",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://github.com/withfig/autocomplete",
+      "title": "Ask HN: Google Play prevents continuous delivery | Hacker News",
+      "type": "",
+      "image": [],
+      "url": "",
       "audio": [],
-      "description": "Fig adds autocomplete to your terminal. Contribute to withfig/autocomplete development by creating an account on GitHub.",
+      "description": "",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "GitHub",
+      "site_name": "",
       "video": [],
       "favicon": {
-        "url": "https://github.githubassets.com/favicons/favicon.svg"
+        "url": "favicon.ico"
       }
     }
   },
@@ -3189,17 +3360,20 @@
     "points": 226,
     "comment_count": 170,
     "hn_item": {
-      "by": "rg111",
-      "descendants": 1,
-      "id": 30153326,
+      "by": "JumpCrisscross",
+      "descendants": 5,
+      "id": 30156803,
       "kids": [
-        30153891
+        30157111,
+        30157012,
+        30157543,
+        30157117
       ],
-      "score": 19,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
+      "score": 18,
+      "time": 1643674361,
+      "title": "Bolt’s CEO Resigns Two Weeks After Securing $11B Valuation",
       "type": "story",
-      "url": "https://ar5iv.org/"
+      "url": "https://www.bloomberg.com/news/articles/2022-01-31/bolt-ceo-resigns-two-weeks-after-securing-11-billion-valuation"
     },
     "og_item": {
       "title": "GitHub - jscd/Boyfriend-Alert: A light based alert system",
@@ -3228,6 +3402,60 @@
     }
   },
   {
+    "id": 30156191,
+    "title": "The next generation of terminal ergonomics: autocomplete",
+    "url": "https://github.com/withfig/autocomplete",
+    "time": 1643670925,
+    "image": "https://repository-images.githubusercontent.com/299482335/73b47831-7f71-40e1-8b61-40eaa4555bb0",
+    "icon": "https://github.githubassets.com/favicons/favicon.svg",
+    "publisher": "GitHub",
+    "description": "Fig adds autocomplete to your terminal. Contribute to withfig/autocomplete development by creating an account on GitHub.",
+    "by": "The_rationalist",
+    "points": 6,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "JumpCrisscross",
+      "descendants": 5,
+      "id": 30156803,
+      "kids": [
+        30157111,
+        30157012,
+        30157543,
+        30157117
+      ],
+      "score": 18,
+      "time": 1643674361,
+      "title": "Bolt’s CEO Resigns Two Weeks After Securing $11B Valuation",
+      "type": "story",
+      "url": "https://www.bloomberg.com/news/articles/2022-01-31/bolt-ceo-resigns-two-weeks-after-securing-11-billion-valuation"
+    },
+    "og_item": {
+      "title": "GitHub - withfig/autocomplete: Fig adds autocomplete to your terminal.",
+      "type": "object",
+      "image": [
+        {
+          "url": "https://repository-images.githubusercontent.com/299482335/73b47831-7f71-40e1-8b61-40eaa4555bb0",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://github.com/withfig/autocomplete",
+      "audio": [],
+      "description": "Fig adds autocomplete to your terminal. Contribute to withfig/autocomplete development by creating an account on GitHub.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "GitHub",
+      "video": [],
+      "favicon": {
+        "url": "https://github.githubassets.com/favicons/favicon.svg"
+      }
+    }
+  },
+  {
     "id": 30147755,
     "title": "Polar bears move into abandoned Arctic weather station",
     "url": "https://www.theguardian.com/world/2022/jan/31/polar-bears-move-into-abandoned-arctic-weather-station-photo-essay",
@@ -3240,17 +3468,20 @@
     "points": 204,
     "comment_count": 47,
     "hn_item": {
-      "by": "rg111",
-      "descendants": 1,
-      "id": 30153326,
+      "by": "JumpCrisscross",
+      "descendants": 5,
+      "id": 30156803,
       "kids": [
-        30153891
+        30157111,
+        30157012,
+        30157543,
+        30157117
       ],
-      "score": 19,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
+      "score": 18,
+      "time": 1643674361,
+      "title": "Bolt’s CEO Resigns Two Weeks After Securing $11B Valuation",
       "type": "story",
-      "url": "https://ar5iv.org/"
+      "url": "https://www.bloomberg.com/news/articles/2022-01-31/bolt-ceo-resigns-two-weeks-after-securing-11-billion-valuation"
     },
     "og_item": {
       "title": "Polar bears move into abandoned Arctic weather station – photo essay",
@@ -3279,50 +3510,44 @@
     }
   },
   {
-    "id": 30153326,
-    "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
-    "url": "https://ar5iv.org/",
-    "time": 1643658897,
-    "image": "https://ar5iv.org/assets/ar5iv_card.png",
-    "icon": "https://ar5iv.org/favicon.ico",
-    "publisher": "ar5iv",
-    "description": "ar5iv offers a modern web view for arXiv's preprints. An open community resource, on a quest to a full collection of high-quality documents.",
-    "by": "rg111",
-    "points": 19,
-    "comment_count": 1,
+    "id": 30156803,
+    "title": "Bolt’s CEO Resigns Two Weeks After Securing $11B Valuation",
+    "url": "https://www.bloomberg.com/news/articles/2022-01-31/bolt-ceo-resigns-two-weeks-after-securing-11-billion-valuation",
+    "time": 1643674361,
+    "image": "",
+    "icon": "https://assets.bwbx.io/s3/javelin/public/hub/images/favicon-black-63fe5249d3.png",
+    "publisher": "Bloomberg",
+    "description": "",
+    "by": "JumpCrisscross",
+    "points": 18,
+    "comment_count": 5,
     "hn_item": {
-      "by": "rg111",
-      "descendants": 1,
-      "id": 30153326,
+      "by": "JumpCrisscross",
+      "descendants": 5,
+      "id": 30156803,
       "kids": [
-        30153891
+        30157111,
+        30157012,
+        30157543,
+        30157117
       ],
-      "score": 19,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
+      "score": 18,
+      "time": 1643674361,
+      "title": "Bolt’s CEO Resigns Two Weeks After Securing $11B Valuation",
       "type": "story",
-      "url": "https://ar5iv.org/"
+      "url": "https://www.bloomberg.com/news/articles/2022-01-31/bolt-ceo-resigns-two-weeks-after-securing-11-billion-valuation"
     },
     "og_item": {
-      "title": "ar5iv – Articles from arXiv.org as responsive HTML5 web documents",
+      "title": "Bloomberg - Are you a robot?",
       "type": "",
-      "image": [
-        {
-          "url": "https://ar5iv.org/assets/ar5iv_card.png",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://ar5iv.org",
+      "image": [],
+      "url": "",
       "audio": [],
-      "description": "ar5iv offers a modern web view for arXiv's preprints. An open community resource, on a quest to a full collection of high-quality documents.",
+      "description": "",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "ar5iv",
+      "site_name": "",
       "video": [],
       "favicon": {
         "url": "/favicon.ico"
