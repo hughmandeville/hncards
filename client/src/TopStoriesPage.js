@@ -69,8 +69,8 @@ const TopStoriesPage = () => {
         )}
       </div>
       <div id="footer">
-        <a href="https://hncards.com/">hncards.com</a> is an unofficial alternative{' '}
-        <a href="https://news.ycombinator.com/">Hacker News</a> UI.
+        <a href="https://hncards.com/">hncards.com</a> is an unofficial card based UI for{' '}
+        <a href="https://news.ycombinator.com/">Hacker News</a>.
       </div>
     </div>
   );
