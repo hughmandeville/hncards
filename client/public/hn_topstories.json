@@ -9,8 +9,8 @@
     "publisher": "jamessevedge.com",
     "description": "I was listening to the Tim Ferriss Show podcast episode #532 with Sheila Heen (Harvard Negotiation Project, co-author of Difficult Conversations: How To Discuss What Matters Most) and a specific story she told during the conversation really resonated with me. Below is the excerpt of that story in…",
     "by": "aseattledev1234",
-    "points": 271,
-    "comment_count": 49,
+    "points": 280,
+    "comment_count": 50,
     "hn_item": {
       "by": "yasoob",
       "descendants": 3,
@@ -51,8 +51,8 @@
     "publisher": "onlinelibrary.wiley.com",
     "description": "",
     "by": "khaled_ismaeel",
-    "points": 39,
-    "comment_count": 26,
+    "points": 41,
+    "comment_count": 32,
     "hn_item": {
       "by": "yasoob",
       "descendants": 3,
@@ -69,57 +69,6 @@
     "og_item": null
   },
   {
-    "id": 30157571,
-    "title": "The Economics of Data Businesses",
-    "url": "https://pivotal.substack.com/p/economics-of-data-biz",
-    "time": 1643679717,
-    "image": "https://cdn.substack.com/image/fetch/w_1200,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F327acaff-a3e7-4699-9073-09f64dc1456c_2492x1245.jpeg",
-    "icon": "https://cdn.substack.com/icons/substack/favicon-32x32.png",
-    "publisher": "pivotal.substack.com",
-    "description": "How data businesses start, and how they keep going, and growing, and growing.",
-    "by": "BOOSTERHIDROGEN",
-    "points": 23,
-    "comment_count": 1,
-    "hn_item": {
-      "by": "yasoob",
-      "descendants": 3,
-      "id": 30150995,
-      "kids": [
-        30151478
-      ],
-      "score": 22,
-      "time": 1643650734,
-      "title": "Show HN: Practical Python Projects book now free to read online",
-      "type": "story",
-      "url": "https://practicalpython.yasoob.me/toc.html"
-    },
-    "og_item": {
-      "title": "The Economics of Data Businesses",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://cdn.substack.com/image/fetch/w_1200,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F327acaff-a3e7-4699-9073-09f64dc1456c_2492x1245.jpeg",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://pivotal.substack.com/p/economics-of-data-biz",
-      "audio": [],
-      "description": "How data businesses start, and how they keep going, and growing, and growing.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "https://cdn.substack.com/icons/substack/favicon-32x32.png"
-      }
-    }
-  },
-  {
     "id": 30154830,
     "title": "The GNU Name System",
     "url": "https://lsd.gnunet.org/lsd0001/",
@@ -129,8 +78,8 @@
     "publisher": "lsd.gnunet.org",
     "description": "This document contains the GNU Name System (GNS) technical\n      specification.\n      GNS is a decentralized and censorship-resistant name\n      system that provides a privacy-enhancing alternative to the Domain\n      Name System (DNS).\n       \n       \n      This document defines t…",
     "by": "simonpure",
-    "points": 156,
-    "comment_count": 55,
+    "points": 161,
+    "comment_count": 56,
     "hn_item": {
       "by": "yasoob",
       "descendants": 3,
@@ -171,8 +120,8 @@
     "publisher": "Yggdrasil Network",
     "description": "End-to-end encrypted IPv6 networking to connect worlds",
     "by": "jesprenj",
-    "points": 67,
-    "comment_count": 13,
+    "points": 71,
+    "comment_count": 16,
     "hn_item": {
       "by": "yasoob",
       "descendants": 3,
@@ -204,99 +153,6 @@
     }
   },
   {
-    "id": 30158223,
-    "title": "Generally Intelligent (YC S17) Is Hiring Systems Engineers (Remote, SF)",
-    "url": "https://news.ycombinator.com/item?id=30158223",
-    "time": 1643685552,
-    "image": "",
-    "icon": "https://news.ycombinator.com/favicon.ico",
-    "publisher": "Hacker News",
-    "description": "",
-    "by": "kanjun",
-    "points": 1,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "yasoob",
-      "descendants": 3,
-      "id": 30150995,
-      "kids": [
-        30151478
-      ],
-      "score": 22,
-      "time": 1643650734,
-      "title": "Show HN: Practical Python Projects book now free to read online",
-      "type": "story",
-      "url": "https://practicalpython.yasoob.me/toc.html"
-    },
-    "og_item": {
-      "title": "Generally Intelligent (YC S17) Is Hiring Systems Engineers (Remote, SF) | Hacker News",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30157426,
-    "title": "The Death of Wordle",
-    "url": "https://reeshill.net/posts/death-of-wordle/",
-    "time": 1643678552,
-    "image": "https://reeshill.net/img/death-of-wordle/stats.jpg",
-    "icon": "https://reeshill.net/favicon-128.png",
-    "publisher": "reeshill.net",
-    "description": "So The New York Times just bought Worldle. This is not surprising, but it\u0026rsquo;s definitely disappointing. Wordle is an uncommonly successful small project in a Web dominated by large corporate platforms, and its acquisition only leads us further in that direction.",
-    "by": "333c",
-    "points": 29,
-    "comment_count": 12,
-    "hn_item": {
-      "by": "yasoob",
-      "descendants": 3,
-      "id": 30150995,
-      "kids": [
-        30151478
-      ],
-      "score": 22,
-      "time": 1643650734,
-      "title": "Show HN: Practical Python Projects book now free to read online",
-      "type": "story",
-      "url": "https://practicalpython.yasoob.me/toc.html"
-    },
-    "og_item": {
-      "title": "The Death of Wordle",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://reeshill.net/img/death-of-wordle/stats.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://reeshill.net/posts/death-of-wordle/",
-      "audio": [],
-      "description": "So The New York Times just bought Worldle. This is not surprising, but it\u0026rsquo;s definitely disappointing. Wordle is an uncommonly successful small project in a Web dominated by large corporate platforms, and its acquisition only leads us further in that direction.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "https://reeshill.net/favicon-128.png"
-      }
-    }
-  },
-  {
     "id": 30156683,
     "title": "Bottles – Run Windows software and games on Linux",
     "url": "https://github.com/bottlesdevs/Bottles",
@@ -306,8 +162,8 @@
     "publisher": "GitHub",
     "description": "Easily manage wine prefixes in a new way. Run Windows software and games on Linux - GitHub - bottlesdevs/Bottles: Easily manage wine prefixes in a new way. Run Windows software and games on Linux",
     "by": "maydemir",
-    "points": 54,
-    "comment_count": 15,
+    "points": 55,
+    "comment_count": 16,
     "hn_item": {
       "by": "yasoob",
       "descendants": 3,
@@ -357,8 +213,8 @@
     "publisher": "The New York Times",
     "description": "The word game, released in October, has millions of daily users.",
     "by": "lucis",
-    "points": 648,
-    "comment_count": 426,
+    "points": 653,
+    "comment_count": 427,
     "hn_item": {
       "by": "yasoob",
       "descendants": 3,
@@ -399,17 +255,17 @@
     }
   },
   {
-    "id": 30156048,
-    "title": "SimpleDB: A Basic RDBMS Built from Scratch",
-    "url": "https://www.awelm.com/posts/simple-db/",
-    "time": 1643670213,
+    "id": 30158223,
+    "title": "Generally Intelligent (YC S17) Is Hiring Systems Engineers (Remote, SF)",
+    "url": "https://news.ycombinator.com/item?id=30158223",
+    "time": 1643685552,
     "image": "",
-    "icon": "https://www.awelm.com/favicon.ico",
-    "publisher": "awelm.com",
-    "description": "My databases class at UCLA wasn’t very challenging so I never truly understood the internals of databases. This always bothered me so I vowed to build a simple database from scratch to learn the fundamentals.",
-    "by": "hackthesystem",
-    "points": 77,
-    "comment_count": 16,
+    "icon": "https://news.ycombinator.com/favicon.ico",
+    "publisher": "Hacker News",
+    "description": "",
+    "by": "kanjun",
+    "points": 1,
+    "comment_count": 0,
     "hn_item": {
       "by": "yasoob",
       "descendants": 3,
@@ -424,19 +280,19 @@
       "url": "https://practicalpython.yasoob.me/toc.html"
     },
     "og_item": {
-      "title": "SimpleDB: A Basic RDBMS Built From Scratch",
-      "type": "article",
+      "title": "Generally Intelligent (YC S17) Is Hiring Systems Engineers (Remote, SF) | Hacker News",
+      "type": "",
       "image": [],
-      "url": "https://www.awelm.com/posts/simple-db/",
+      "url": "",
       "audio": [],
-      "description": "My databases class at UCLA wasn’t very challenging so I never truly understood the internals of databases. This always bothered me so I vowed to build a simple database from scratch to learn the fundamentals.",
+      "description": "",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
       "site_name": "",
       "video": [],
       "favicon": {
-        "url": "/favicon.ico"
+        "url": "favicon.ico"
       }
     }
   },
@@ -450,8 +306,8 @@
     "publisher": "It's All Greek To Me",
     "description": "Every so often a news article will make the rounds of the internet – or, for that matter, a paper will be published in an academic journal – presenting a new ‘decipherment’ …",
     "by": "bigbillheck",
-    "points": 45,
-    "comment_count": 6,
+    "points": 49,
+    "comment_count": 7,
     "hn_item": {
       "by": "yasoob",
       "descendants": 3,
@@ -492,6 +348,48 @@
     }
   },
   {
+    "id": 30156048,
+    "title": "SimpleDB: A Basic RDBMS Built from Scratch",
+    "url": "https://www.awelm.com/posts/simple-db/",
+    "time": 1643670213,
+    "image": "",
+    "icon": "https://www.awelm.com/favicon.ico",
+    "publisher": "awelm.com",
+    "description": "My databases class at UCLA wasn’t very challenging so I never truly understood the internals of databases. This always bothered me so I vowed to build a simple database from scratch to learn the fundamentals.",
+    "by": "hackthesystem",
+    "points": 79,
+    "comment_count": 16,
+    "hn_item": {
+      "by": "yasoob",
+      "descendants": 3,
+      "id": 30150995,
+      "kids": [
+        30151478
+      ],
+      "score": 22,
+      "time": 1643650734,
+      "title": "Show HN: Practical Python Projects book now free to read online",
+      "type": "story",
+      "url": "https://practicalpython.yasoob.me/toc.html"
+    },
+    "og_item": {
+      "title": "SimpleDB: A Basic RDBMS Built From Scratch",
+      "type": "article",
+      "image": [],
+      "url": "https://www.awelm.com/posts/simple-db/",
+      "audio": [],
+      "description": "My databases class at UCLA wasn’t very challenging so I never truly understood the internals of databases. This always bothered me so I vowed to build a simple database from scratch to learn the fundamentals.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30150586,
     "title": "Moderna’s HIV vaccine has officially begun human trials",
     "url": "https://www.them.us/story/hiv-aids-vaccine-human-trials-moderna",
@@ -501,8 +399,8 @@
     "publisher": "them.",
     "description": "We could be getting even closer to stopping the spread of HIV/AIDS.",
     "by": "grawprog",
-    "points": 838,
-    "comment_count": 360,
+    "points": 842,
+    "comment_count": 366,
     "hn_item": {
       "by": "yasoob",
       "descendants": 3,
@@ -552,8 +450,8 @@
     "publisher": "STV News",
     "description": "Joseph Kelly found guilty of ‘grossly offensive’ message about Captain Sir Tom Moore.",
     "by": "leephillips",
-    "points": 142,
-    "comment_count": 133,
+    "points": 147,
+    "comment_count": 136,
     "hn_item": {
       "by": "yasoob",
       "descendants": 3,
@@ -594,6 +492,57 @@
     }
   },
   {
+    "id": 30157571,
+    "title": "The Economics of Data Businesses",
+    "url": "https://pivotal.substack.com/p/economics-of-data-biz",
+    "time": 1643679717,
+    "image": "https://cdn.substack.com/image/fetch/w_1200,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F327acaff-a3e7-4699-9073-09f64dc1456c_2492x1245.jpeg",
+    "icon": "https://cdn.substack.com/icons/substack/favicon-32x32.png",
+    "publisher": "pivotal.substack.com",
+    "description": "How data businesses start, and how they keep going, and growing, and growing.",
+    "by": "BOOSTERHIDROGEN",
+    "points": 26,
+    "comment_count": 1,
+    "hn_item": {
+      "by": "yasoob",
+      "descendants": 3,
+      "id": 30150995,
+      "kids": [
+        30151478
+      ],
+      "score": 22,
+      "time": 1643650734,
+      "title": "Show HN: Practical Python Projects book now free to read online",
+      "type": "story",
+      "url": "https://practicalpython.yasoob.me/toc.html"
+    },
+    "og_item": {
+      "title": "The Economics of Data Businesses",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://cdn.substack.com/image/fetch/w_1200,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F327acaff-a3e7-4699-9073-09f64dc1456c_2492x1245.jpeg",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://pivotal.substack.com/p/economics-of-data-biz",
+      "audio": [],
+      "description": "How data businesses start, and how they keep going, and growing, and growing.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "https://cdn.substack.com/icons/substack/favicon-32x32.png"
+      }
+    }
+  },
+  {
     "id": 30149370,
     "title": "Show HN: Magistrate – Plaintext legal contracts for developers",
     "url": "https://magistrate.khanna.law/",
@@ -603,8 +552,8 @@
     "publisher": "magistrate.khanna.law",
     "description": "",
     "by": "hkhanna",
-    "points": 232,
-    "comment_count": 90,
+    "points": 235,
+    "comment_count": 89,
     "hn_item": {
       "by": "yasoob",
       "descendants": 3,
@@ -645,8 +594,8 @@
     "publisher": "evertpot.com",
     "description": "",
     "by": "treve",
-    "points": 164,
-    "comment_count": 118,
+    "points": 165,
+    "comment_count": 121,
     "hn_item": {
       "by": "yasoob",
       "descendants": 3,
@@ -687,59 +636,17 @@
     }
   },
   {
-    "id": 30135651,
-    "title": "Ask HN: Programming and dyslexia",
-    "url": "https://news.ycombinator.com/item?id=30135651",
-    "time": 1643538790,
-    "image": "",
-    "icon": "https://news.ycombinator.com/favicon.ico",
-    "publisher": "Hacker News",
-    "description": "",
-    "by": "erikbye",
-    "points": 9,
-    "comment_count": 7,
-    "hn_item": {
-      "by": "yasoob",
-      "descendants": 3,
-      "id": 30150995,
-      "kids": [
-        30151478
-      ],
-      "score": 22,
-      "time": 1643650734,
-      "title": "Show HN: Practical Python Projects book now free to read online",
-      "type": "story",
-      "url": "https://practicalpython.yasoob.me/toc.html"
-    },
-    "og_item": {
-      "title": "Ask HN: Programming and dyslexia | Hacker News",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30156479,
     "title": "Fifth Browser",
     "url": "https://github.com/clbr/fifth",
     "time": 1643672513,
-    "image": "https://opengraph.githubassets.com/bc6a6e66b4932db4278bfe29a71d142822bc0574f2974c9766e5ec000a384f28/clbr/fifth",
+    "image": "https://opengraph.githubassets.com/d82cff66cbb34e1e45494253ceb2b30fb59e397f04ca885db5a67bbb9c44f178/clbr/fifth",
     "icon": "https://github.githubassets.com/favicons/favicon.svg",
     "publisher": "GitHub",
     "description": "Fifth is a Linux-exclusive browser that carries the best features from Opera, as well as a few unique features that are likely to please Linux power users. It\u0026#39;s based on a custom Webkit port to...",
     "by": "app4soft",
-    "points": 27,
-    "comment_count": 6,
+    "points": 31,
+    "comment_count": 8,
     "hn_item": {
       "by": "yasoob",
       "descendants": 3,
@@ -758,7 +665,7 @@
       "type": "object",
       "image": [
         {
-          "url": "https://opengraph.githubassets.com/bc6a6e66b4932db4278bfe29a71d142822bc0574f2974c9766e5ec000a384f28/clbr/fifth",
+          "url": "https://opengraph.githubassets.com/d82cff66cbb34e1e45494253ceb2b30fb59e397f04ca885db5a67bbb9c44f178/clbr/fifth",
           "secure_url": "",
           "type": "",
           "width": 1200,
@@ -789,7 +696,7 @@
     "publisher": "Nature",
     "description": "Several teams hope to use pulsars in the Milky Way to detect ripples in space-time made by distant supermassive black holes.",
     "by": "pseudolus",
-    "points": 58,
+    "points": 59,
     "comment_count": 11,
     "hn_item": {
       "by": "yasoob",
@@ -831,6 +738,48 @@
     }
   },
   {
+    "id": 30135651,
+    "title": "Ask HN: Programming and dyslexia",
+    "url": "https://news.ycombinator.com/item?id=30135651",
+    "time": 1643538790,
+    "image": "",
+    "icon": "https://news.ycombinator.com/favicon.ico",
+    "publisher": "Hacker News",
+    "description": "",
+    "by": "erikbye",
+    "points": 14,
+    "comment_count": 9,
+    "hn_item": {
+      "by": "yasoob",
+      "descendants": 3,
+      "id": 30150995,
+      "kids": [
+        30151478
+      ],
+      "score": 22,
+      "time": 1643650734,
+      "title": "Show HN: Practical Python Projects book now free to read online",
+      "type": "story",
+      "url": "https://practicalpython.yasoob.me/toc.html"
+    },
+    "og_item": {
+      "title": "Ask HN: Programming and dyslexia | Hacker News",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30157307,
     "title": "Crisis Text Line, from my perspective",
     "url": "http://www.zephoria.org/thoughts/archives/2022/01/31/crisis-text-line-from-my-perspective.html",
@@ -840,7 +789,7 @@
     "publisher": "zephoria.org",
     "description": "",
     "by": "jbegley",
-    "points": 25,
+    "points": 26,
     "comment_count": 4,
     "hn_item": {
       "by": "yasoob",
@@ -882,7 +831,7 @@
     "publisher": "Harshal Sheth",
     "description": "WebAssembly is at an inflection point. Over the next few years, I expect to see increased adoption of WebAssembly across the tech sphere, from containerization to plugin systems to serverless computing platforms. The following is a discussion of what WebAssembly is, what makes it a relevant techn…",
     "by": "hsheth2",
-    "points": 164,
+    "points": 166,
     "comment_count": 108,
     "hn_item": {
       "by": "yasoob",
@@ -919,12 +868,12 @@
     "title": "Pyflow – Visual and modular block programming in Python",
     "url": "https://github.com/Bycelium/PyFlow",
     "time": 1643647446,
-    "image": "https://opengraph.githubassets.com/7183d24c2cdd981caca4d878d5422ddd37b7889759fd888667eae64f1d00eb3c/Bycelium/PyFlow",
+    "image": "https://opengraph.githubassets.com/4f8a8cf5801c93c725690bb672ee52cfc5be4530147f9c1fc7542c1ca423c5cf/Bycelium/PyFlow",
     "icon": "https://github.githubassets.com/favicons/favicon.svg",
     "publisher": "GitHub",
     "description": "An open-source tool for visual and modular block programing in python - GitHub - Bycelium/PyFlow: An open-source tool for visual and modular block programing in python",
     "by": "amai",
-    "points": 175,
+    "points": 177,
     "comment_count": 80,
     "hn_item": {
       "by": "yasoob",
@@ -944,7 +893,7 @@
       "type": "object",
       "image": [
         {
-          "url": "https://opengraph.githubassets.com/7183d24c2cdd981caca4d878d5422ddd37b7889759fd888667eae64f1d00eb3c/Bycelium/PyFlow",
+          "url": "https://opengraph.githubassets.com/4f8a8cf5801c93c725690bb672ee52cfc5be4530147f9c1fc7542c1ca423c5cf/Bycelium/PyFlow",
           "secure_url": "",
           "type": "",
           "width": 1200,
@@ -975,8 +924,8 @@
     "publisher": "Ask a Manager",
     "description": "A reader writes: This is a situation currently unfolding at my husband's office so I’m a very amused bystander and thought I’d get your opinion on this",
     "by": "amadeuspzs",
-    "points": 780,
-    "comment_count": 478,
+    "points": 787,
+    "comment_count": 481,
     "hn_item": {
       "by": "yasoob",
       "descendants": 3,
@@ -1068,57 +1017,6 @@
     }
   },
   {
-    "id": 30136835,
-    "title": "New engine could save internal combustion from the scrap heap",
-    "url": "https://www.motor1.com/news/563664/new-omega-combustion-engine-design/",
-    "time": 1643547924,
-    "image": "https://cdn.motor1.com/images/mgl/6ZpjWX/s1/omega-1-engine.jpg",
-    "icon": "https://www.motor1.com/favicon.ico",
-    "publisher": "Motor1.com",
-    "description": "A new engine technology could reinvent the internal combustion engine for the future, capable of better efficiency and fewer emissions.",
-    "by": "bobajeff",
-    "points": 60,
-    "comment_count": 63,
-    "hn_item": {
-      "by": "yasoob",
-      "descendants": 3,
-      "id": 30150995,
-      "kids": [
-        30151478
-      ],
-      "score": 22,
-      "time": 1643650734,
-      "title": "Show HN: Practical Python Projects book now free to read online",
-      "type": "story",
-      "url": "https://practicalpython.yasoob.me/toc.html"
-    },
-    "og_item": {
-      "title": "This New Engine Could Save Internal Combustion From The Scrap Heap",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://cdn.motor1.com/images/mgl/6ZpjWX/s1/omega-1-engine.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 1920,
-          "height": 1080,
-          "alt": ""
-        }
-      ],
-      "url": "https://www.motor1.com/news/563664/new-omega-combustion-engine-design/",
-      "audio": [],
-      "description": "A new engine technology could reinvent the internal combustion engine for the future, capable of better efficiency and fewer emissions. ",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Motor1.com",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30152268,
     "title": "The unreasonable effectiveness of one-on-ones",
     "url": "https://www.benkuhn.net/11/",
@@ -1128,8 +1026,8 @@
     "publisher": "benkuhn.net",
     "description": "When I started dating my partner, I quickly noticed that grad school was making her very sad.\nThis was shortly after I’d started leading an engineering team at Wave, and so the “obvious” hypothesis to me was that the management (okay, “management”) one gets in graduate school is totally…",
     "by": "sebg",
-    "points": 151,
-    "comment_count": 143,
+    "points": 152,
+    "comment_count": 144,
     "hn_item": {
       "by": "yasoob",
       "descendants": 3,
@@ -1161,57 +1059,6 @@
     }
   },
   {
-    "id": 30156929,
-    "title": "Building a Cross-Platform Web and Mobile App from the Ground Up",
-    "url": "https://ambrook.com/blog/building-a-cross-platform-web-and-mobile-app-from-the-ground-up",
-    "time": 1643675060,
-    "image": "https://cdn.sanity.io/images/h6kk644c/production/90b5917ccea0609ca2fd9e399caef9c19cde237e-2000x1050.png",
-    "icon": "https://ambrook.com/img/favicon/favicon-196x196.png",
-    "publisher": "Ambrook",
-    "description": "\"Why can't we just write this code once and have it just work across Web, Android and iOS?\" As a mobile engineer who has spent both a significant portion of his career copying the exact same product from iOS to Android, I’ve asked myself this question many times..",
-    "by": "mfburnett",
-    "points": 36,
-    "comment_count": 8,
-    "hn_item": {
-      "by": "yasoob",
-      "descendants": 3,
-      "id": 30150995,
-      "kids": [
-        30151478
-      ],
-      "score": 22,
-      "time": 1643650734,
-      "title": "Show HN: Practical Python Projects book now free to read online",
-      "type": "story",
-      "url": "https://practicalpython.yasoob.me/toc.html"
-    },
-    "og_item": {
-      "title": "Building a Cross-Platform Web \u0026 Mobile App from the Ground Up | Ambrook",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://cdn.sanity.io/images/h6kk644c/production/90b5917ccea0609ca2fd9e399caef9c19cde237e-2000x1050.png",
-          "secure_url": "",
-          "type": "",
-          "width": 2000,
-          "height": 1050,
-          "alt": ""
-        }
-      ],
-      "url": "https://ambrook.com/blog/building-a-cross-platform-web-and-mobile-app-from-the-ground-up",
-      "audio": [],
-      "description": "\"Why can't we just write this code once and have it just work across Web, Android and iOS?\" As a mobile engineer who has spent both a significant portion of his career copying the exact same product from iOS to Android, I’ve asked myself this question many times..",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Ambrook",
-      "video": [],
-      "favicon": {
-        "url": "/img/favicon/favicon-196x196.png"
-      }
-    }
-  },
-  {
     "id": 30148364,
     "title": "The rising human cost of sports betting",
     "url": "https://www.nytimes.com/2022/01/31/sports/football/super-bowl-sports-betting.html",
@@ -1221,8 +1068,8 @@
     "publisher": "The New York Times",
     "description": "The ends of the college and pro football seasons were already a perilous time for people recovering from a gambling addiction. Then came the onslaught of ads for legal sports betting.",
     "by": "jbegley",
-    "points": 163,
-    "comment_count": 255,
+    "points": 164,
+    "comment_count": 258,
     "hn_item": {
       "by": "yasoob",
       "descendants": 3,
@@ -1263,17 +1110,17 @@
     }
   },
   {
-    "id": 30157263,
-    "title": "The Wondrous Wordplay of Lunar New Year Food",
-    "url": "https://www.atlasobscura.com/articles/lunar-new-year-food",
-    "time": 1643677350,
-    "image": "https://img.atlasobscura.com/y55R1GbfLm5fb3JiBA1TIOCjs12SGnJBY7qQHKGJC9s/rt:fit/w:600/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy81YTIzODNmYzUy/YTk5NjQwZjhfdGFu/Z3l1YW4uanBlZw.jpg",
-    "icon": "https://s3.amazonaws.com/atlas-dev/misc/icons/favicon.ico",
-    "publisher": "Atlas Obscura",
-    "description": "Layers of meaning surround the names of nearly every dish.",
-    "by": "wyrm",
-    "points": 11,
-    "comment_count": 0,
+    "id": 30156929,
+    "title": "Building a Cross-Platform Web and Mobile App from the Ground Up",
+    "url": "https://ambrook.com/blog/building-a-cross-platform-web-and-mobile-app-from-the-ground-up",
+    "time": 1643675060,
+    "image": "https://cdn.sanity.io/images/h6kk644c/production/90b5917ccea0609ca2fd9e399caef9c19cde237e-2000x1050.png",
+    "icon": "https://ambrook.com/img/favicon/favicon-196x196.png",
+    "publisher": "Ambrook",
+    "description": "\"Why can't we just write this code once and have it just work across Web, Android and iOS?\" As a mobile engineer who has spent both a significant portion of his career copying the exact same product from iOS to Android, I’ve asked myself this question many times..",
+    "by": "mfburnett",
+    "points": 39,
+    "comment_count": 10,
     "hn_item": {
       "by": "yasoob",
       "descendants": 3,
@@ -1288,28 +1135,79 @@
       "url": "https://practicalpython.yasoob.me/toc.html"
     },
     "og_item": {
-      "title": "The Wondrous Wordplay of Lunar New Year Food",
+      "title": "Building a Cross-Platform Web \u0026 Mobile App from the Ground Up | Ambrook",
       "type": "article",
       "image": [
         {
-          "url": "https://img.atlasobscura.com/y55R1GbfLm5fb3JiBA1TIOCjs12SGnJBY7qQHKGJC9s/rt:fit/w:600/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy81YTIzODNmYzUy/YTk5NjQwZjhfdGFu/Z3l1YW4uanBlZw.jpg",
+          "url": "https://cdn.sanity.io/images/h6kk644c/production/90b5917ccea0609ca2fd9e399caef9c19cde237e-2000x1050.png",
           "secure_url": "",
           "type": "",
-          "width": 0,
-          "height": 0,
+          "width": 2000,
+          "height": 1050,
           "alt": ""
         }
       ],
-      "url": "http://www.atlasobscura.com/articles/lunar-new-year-food",
+      "url": "https://ambrook.com/blog/building-a-cross-platform-web-and-mobile-app-from-the-ground-up",
       "audio": [],
-      "description": "Layers of meaning surround the names of nearly every dish.",
+      "description": "\"Why can't we just write this code once and have it just work across Web, Android and iOS?\" As a mobile engineer who has spent both a significant portion of his career copying the exact same product from iOS to Android, I’ve asked myself this question many times..",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "Atlas Obscura",
+      "site_name": "Ambrook",
       "video": [],
       "favicon": {
-        "url": "https://s3.amazonaws.com/atlas-dev/misc/icons/favicon.ico"
+        "url": "/img/favicon/favicon-196x196.png"
+      }
+    }
+  },
+  {
+    "id": 30136835,
+    "title": "New engine could save internal combustion from the scrap heap",
+    "url": "https://www.motor1.com/news/563664/new-omega-combustion-engine-design/",
+    "time": 1643547924,
+    "image": "https://cdn.motor1.com/images/mgl/6ZpjWX/s1/omega-1-engine.jpg",
+    "icon": "https://www.motor1.com/favicon.ico",
+    "publisher": "Motor1.com",
+    "description": "A new engine technology could reinvent the internal combustion engine for the future, capable of better efficiency and fewer emissions.",
+    "by": "bobajeff",
+    "points": 62,
+    "comment_count": 64,
+    "hn_item": {
+      "by": "yasoob",
+      "descendants": 3,
+      "id": 30150995,
+      "kids": [
+        30151478
+      ],
+      "score": 22,
+      "time": 1643650734,
+      "title": "Show HN: Practical Python Projects book now free to read online",
+      "type": "story",
+      "url": "https://practicalpython.yasoob.me/toc.html"
+    },
+    "og_item": {
+      "title": "This New Engine Could Save Internal Combustion From The Scrap Heap",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://cdn.motor1.com/images/mgl/6ZpjWX/s1/omega-1-engine.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 1920,
+          "height": 1080,
+          "alt": ""
+        }
+      ],
+      "url": "https://www.motor1.com/news/563664/new-omega-combustion-engine-design/",
+      "audio": [],
+      "description": "A new engine technology could reinvent the internal combustion engine for the future, capable of better efficiency and fewer emissions. ",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Motor1.com",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
       }
     }
   },
@@ -1361,6 +1259,57 @@
       "video": [],
       "favicon": {
         "url": "https://oceana.org/wp-content/uploads/sites/18/2021/05/cropped-cropped-Oceana_Icon_2Blue_RGB-01-192x192.png"
+      }
+    }
+  },
+  {
+    "id": 30157263,
+    "title": "The Wondrous Wordplay of Lunar New Year Food",
+    "url": "https://www.atlasobscura.com/articles/lunar-new-year-food",
+    "time": 1643677350,
+    "image": "https://img.atlasobscura.com/y55R1GbfLm5fb3JiBA1TIOCjs12SGnJBY7qQHKGJC9s/rt:fit/w:600/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy81YTIzODNmYzUy/YTk5NjQwZjhfdGFu/Z3l1YW4uanBlZw.jpg",
+    "icon": "https://s3.amazonaws.com/atlas-dev/misc/icons/favicon.ico",
+    "publisher": "Atlas Obscura",
+    "description": "Layers of meaning surround the names of nearly every dish.",
+    "by": "wyrm",
+    "points": 11,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "yasoob",
+      "descendants": 3,
+      "id": 30150995,
+      "kids": [
+        30151478
+      ],
+      "score": 22,
+      "time": 1643650734,
+      "title": "Show HN: Practical Python Projects book now free to read online",
+      "type": "story",
+      "url": "https://practicalpython.yasoob.me/toc.html"
+    },
+    "og_item": {
+      "title": "The Wondrous Wordplay of Lunar New Year Food",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://img.atlasobscura.com/y55R1GbfLm5fb3JiBA1TIOCjs12SGnJBY7qQHKGJC9s/rt:fit/w:600/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy81YTIzODNmYzUy/YTk5NjQwZjhfdGFu/Z3l1YW4uanBlZw.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "http://www.atlasobscura.com/articles/lunar-new-year-food",
+      "audio": [],
+      "description": "Layers of meaning surround the names of nearly every dish.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Atlas Obscura",
+      "video": [],
+      "favicon": {
+        "url": "https://s3.amazonaws.com/atlas-dev/misc/icons/favicon.ico"
       }
     }
   },
@@ -1425,7 +1374,7 @@
     "publisher": "jeffgeerling.com",
     "description": "",
     "by": "geerlingguy",
-    "points": 109,
+    "points": 110,
     "comment_count": 91,
     "hn_item": {
       "by": "yasoob",
@@ -1584,6 +1533,57 @@
     }
   },
   {
+    "id": 30157925,
+    "title": "Why does my diet soda taste off? Aspartame hydrolysis",
+    "url": "https://foodscienceinstitute.com/2022/01/31/why-does-my-diet-soda-taste-off/",
+    "time": 1643682884,
+    "image": "https://foodscienceinstitute.files.wordpress.com/2022/01/coke-box.jpg?w=1200",
+    "icon": "https://s0.wp.com/i/favicon.ico",
+    "publisher": "Food Science Institute",
+    "description": "If you’ve ever been given a can of Diet Coke or Diet Pepsi and it tastes a little off, or way off, you probably just toss it out. Why does this happen and what can you do about it? Many diet soft d…",
+    "by": "stvnitt",
+    "points": 3,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "yasoob",
+      "descendants": 3,
+      "id": 30150995,
+      "kids": [
+        30151478
+      ],
+      "score": 22,
+      "time": 1643650734,
+      "title": "Show HN: Practical Python Projects book now free to read online",
+      "type": "story",
+      "url": "https://practicalpython.yasoob.me/toc.html"
+    },
+    "og_item": {
+      "title": "Why does my diet soda taste ‘off’?",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://foodscienceinstitute.files.wordpress.com/2022/01/coke-box.jpg?w=1200",
+          "secure_url": "",
+          "type": "",
+          "width": 1200,
+          "height": 886,
+          "alt": ""
+        }
+      ],
+      "url": "https://foodscienceinstitute.com/2022/01/31/why-does-my-diet-soda-taste-off/",
+      "audio": [],
+      "description": "If you’ve ever been given a can of Diet Coke or Diet Pepsi and it tastes a little off, or way off, you probably just toss it out. Why does this happen and what can you do about it? Many diet soft d…",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Food Science Institute",
+      "video": [],
+      "favicon": {
+        "url": "https://s0.wp.com/i/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30153493,
     "title": "Observing HTTP/2 Traffic Is Hard, but eBPF Can Help",
     "url": "https://blog.px.dev/ebpf-http2-tracing/",
@@ -1695,7 +1695,7 @@
     "publisher": "GitHub",
     "description": "Rich-cli is a command line toolbox for fancy output in the terminal - GitHub - Textualize/rich-cli: Rich-cli is a command line toolbox for fancy output in the terminal",
     "by": "willm",
-    "points": 101,
+    "points": 102,
     "comment_count": 27,
     "hn_item": {
       "by": "yasoob",
@@ -1789,7 +1789,7 @@
     "description": "Sony has agreed to acquire Bungie in a $3.6 billion deal, continuing January's torrid pace of video game consolidation",
     "by": "daveaiello",
     "points": 279,
-    "comment_count": 240,
+    "comment_count": 241,
     "hn_item": {
       "by": "yasoob",
       "descendants": 3,
@@ -1891,7 +1891,7 @@
     "description": "The highly transmissible variant emerged with a host of unusual mutations. Now scientists are trying to work out how it evolved.",
     "by": "pseudolus",
     "points": 22,
-    "comment_count": 14,
+    "comment_count": 15,
     "hn_item": {
       "by": "yasoob",
       "descendants": 3,
@@ -2034,57 +2034,6 @@
     }
   },
   {
-    "id": 30157398,
-    "title": "How do I work around Vercel's 4KB Environment Variables limit?",
-    "url": "https://vercel.com/support/articles/how-do-i-workaround-vercel-s-4-kb-environment-variables-limit",
-    "time": 1643678346,
-    "image": "https://og-image.vercel.app/How%20do%20I%20work%20around%20Vercel's%204KB%20Environment%20Variables%20limit%3F.png?theme=light\u0026md=1\u0026fontSize=75px\u0026images=https%3A%2F%2Fassets.vercel.com%2Fimage%2Fupload%2Ffront%2Fassets%2Fdesign%2Fzeit-black-triangle.svg",
-    "icon": "https://assets.vercel.com/image/upload/front/favicon/vercel/favicon.ico",
-    "publisher": "Vercel Documentation",
-    "description": "The maximum allowed size of Environment Variables for a Deployment is 4KB and cannot be increased. This article provides a workaround by encrypting the required key-value pairs in a file and storing the encryption keys.",
-    "by": "vortexo",
-    "points": 4,
-    "comment_count": 2,
-    "hn_item": {
-      "by": "yasoob",
-      "descendants": 3,
-      "id": 30150995,
-      "kids": [
-        30151478
-      ],
-      "score": 22,
-      "time": 1643650734,
-      "title": "Show HN: Practical Python Projects book now free to read online",
-      "type": "story",
-      "url": "https://practicalpython.yasoob.me/toc.html"
-    },
-    "og_item": {
-      "title": "How do I work around Vercel's 4KB Environment Variables limit?",
-      "type": "website",
-      "image": [
-        {
-          "url": "https://og-image.vercel.app/How%20do%20I%20work%20around%20Vercel's%204KB%20Environment%20Variables%20limit%3F.png?theme=light\u0026md=1\u0026fontSize=75px\u0026images=https%3A%2F%2Fassets.vercel.com%2Fimage%2Fupload%2Ffront%2Fassets%2Fdesign%2Fzeit-black-triangle.svg",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://vercel.com/support/articles/how-do-i-workaround-vercel-s-4-kb-environment-variables-limit",
-      "audio": [],
-      "description": "The maximum allowed size of Environment Variables for a Deployment is 4KB and cannot be increased. This article provides a workaround by encrypting the required key-value pairs in a file and storing the encryption keys.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Vercel Documentation",
-      "video": [],
-      "favicon": {
-        "url": "https://assets.vercel.com/image/upload/front/favicon/vercel/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30149800,
     "title": "Adblocking people and non-adblocking people experience a different web",
     "url": "https://imlefthanded.com/2022/adblocking-people-and-non-adblocking-people-experience-a-totally-different-web/",
@@ -2095,7 +2044,7 @@
     "description": "",
     "by": "decrypt",
     "points": 652,
-    "comment_count": 725,
+    "comment_count": 726,
     "hn_item": {
       "by": "yasoob",
       "descendants": 3,
@@ -2174,6 +2123,57 @@
       "video": [],
       "favicon": {
         "url": "/favicon/favicon-16x16.png"
+      }
+    }
+  },
+  {
+    "id": 30157398,
+    "title": "How do I work around Vercel's 4KB Environment Variables limit?",
+    "url": "https://vercel.com/support/articles/how-do-i-workaround-vercel-s-4-kb-environment-variables-limit",
+    "time": 1643678346,
+    "image": "https://og-image.vercel.app/How%20do%20I%20work%20around%20Vercel's%204KB%20Environment%20Variables%20limit%3F.png?theme=light\u0026md=1\u0026fontSize=75px\u0026images=https%3A%2F%2Fassets.vercel.com%2Fimage%2Fupload%2Ffront%2Fassets%2Fdesign%2Fzeit-black-triangle.svg",
+    "icon": "https://assets.vercel.com/image/upload/front/favicon/vercel/favicon.ico",
+    "publisher": "Vercel Documentation",
+    "description": "The maximum allowed size of Environment Variables for a Deployment is 4KB and cannot be increased. This article provides a workaround by encrypting the required key-value pairs in a file and storing the encryption keys.",
+    "by": "vortexo",
+    "points": 4,
+    "comment_count": 2,
+    "hn_item": {
+      "by": "yasoob",
+      "descendants": 3,
+      "id": 30150995,
+      "kids": [
+        30151478
+      ],
+      "score": 22,
+      "time": 1643650734,
+      "title": "Show HN: Practical Python Projects book now free to read online",
+      "type": "story",
+      "url": "https://practicalpython.yasoob.me/toc.html"
+    },
+    "og_item": {
+      "title": "How do I work around Vercel's 4KB Environment Variables limit?",
+      "type": "website",
+      "image": [
+        {
+          "url": "https://og-image.vercel.app/How%20do%20I%20work%20around%20Vercel's%204KB%20Environment%20Variables%20limit%3F.png?theme=light\u0026md=1\u0026fontSize=75px\u0026images=https%3A%2F%2Fassets.vercel.com%2Fimage%2Fupload%2Ffront%2Fassets%2Fdesign%2Fzeit-black-triangle.svg",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://vercel.com/support/articles/how-do-i-workaround-vercel-s-4-kb-environment-variables-limit",
+      "audio": [],
+      "description": "The maximum allowed size of Environment Variables for a Deployment is 4KB and cannot be increased. This article provides a workaround by encrypting the required key-value pairs in a file and storing the encryption keys.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Vercel Documentation",
+      "video": [],
+      "favicon": {
+        "url": "https://assets.vercel.com/image/upload/front/favicon/vercel/favicon.ico"
       }
     }
   },
@@ -2280,17 +2280,17 @@
     }
   },
   {
-    "id": 30141788,
-    "title": "Fuck That Gator (2017)",
-    "url": "https://www.buzzfeed.com/golianopoulos/fuck-that-gator",
-    "time": 1643581238,
-    "image": "https://img.buzzfeed.com/buzzfeed-static/static/2017-02/6/1/social_promotion/buzzfeed-prod-cron-01/facebook-social-promotion-25393-1486361110-1.jpg?crop=921:612;0,0%26downsize=1250:*",
-    "icon": "https://www.buzzfeed.com/static-assets/bf-bpage-ui/_next/static/images/favicon-496b7cee633e6a7dca162654e1bb39c9.ico",
-    "publisher": "BuzzFeed",
-    "description": "Tommie Woodward yelled, \"Fuck that gator!\" just before he was killed by one in Texas, and his death instantly became a national joke. For his family, grieving means having to rescue the person from the punchline.",
-    "by": "blending",
-    "points": 29,
-    "comment_count": 7,
+    "id": 30157426,
+    "title": "The Death of Wordle",
+    "url": "https://reeshill.net/posts/death-of-wordle/",
+    "time": 1643678552,
+    "image": "https://reeshill.net/img/death-of-wordle/stats.jpg",
+    "icon": "https://reeshill.net/favicon-128.png",
+    "publisher": "reeshill.net",
+    "description": "So The New York Times just bought Worldle. This is not surprising, but it\u0026rsquo;s definitely disappointing. Wordle is an uncommonly successful small project in a Web dominated by large corporate platforms, and its acquisition only leads us further in that direction.",
+    "by": "333c",
+    "points": 33,
+    "comment_count": 20,
     "hn_item": {
       "by": "yasoob",
       "descendants": 3,
@@ -2305,11 +2305,11 @@
       "url": "https://practicalpython.yasoob.me/toc.html"
     },
     "og_item": {
-      "title": "Tommie Woodward's Internet-Famous Last Words",
+      "title": "The Death of Wordle",
       "type": "article",
       "image": [
         {
-          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2017-02/6/1/social_promotion/buzzfeed-prod-cron-01/facebook-social-promotion-25393-1486361110-1.jpg?crop=921:612;0,0%26downsize=1250:*",
+          "url": "https://reeshill.net/img/death-of-wordle/stats.jpg",
           "secure_url": "",
           "type": "",
           "width": 0,
@@ -2317,16 +2317,16 @@
           "alt": ""
         }
       ],
-      "url": "https://www.buzzfeed.com/golianopoulos/fuck-that-gator",
+      "url": "https://reeshill.net/posts/death-of-wordle/",
       "audio": [],
-      "description": "Tommie Woodward yelled, \"Fuck that gator!\" just before he was killed by one in Texas, and his death instantly became a national joke. For his family, grieving means having to rescue the person from the punchline.",
+      "description": "So The New York Times just bought Worldle. This is not surprising, but it\u0026rsquo;s definitely disappointing. Wordle is an uncommonly successful small project in a Web dominated by large corporate platforms, and its acquisition only leads us further in that direction.",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "BuzzFeed",
+      "site_name": "",
       "video": [],
       "favicon": {
-        "url": "/static-assets/bf-bpage-ui/_next/static/images/favicon-496b7cee633e6a7dca162654e1bb39c9.ico"
+        "url": "https://reeshill.net/favicon-128.png"
       }
     }
   },
@@ -2340,8 +2340,8 @@
     "publisher": "TechCrunch",
     "description": "Today’s cars are dumb where they should be smart, and smart where they should be dumb. Enough already. Make a car that’s pretty much all dumb and watch it sell — because what automakers are giving people is so bad, they’ll pay more to have less of it. Cars now are like budget smar…",
     "by": "wrycoder",
-    "points": 495,
-    "comment_count": 572,
+    "points": 496,
+    "comment_count": 573,
     "hn_item": {
       "by": "yasoob",
       "descendants": 3,
@@ -2433,11 +2433,62 @@
     }
   },
   {
+    "id": 30141788,
+    "title": "Fuck That Gator (2017)",
+    "url": "https://www.buzzfeed.com/golianopoulos/fuck-that-gator",
+    "time": 1643581238,
+    "image": "https://img.buzzfeed.com/buzzfeed-static/static/2017-02/6/1/social_promotion/buzzfeed-prod-cron-01/facebook-social-promotion-25393-1486361110-1.jpg?crop=921:612;0,0%26downsize=1250:*",
+    "icon": "https://www.buzzfeed.com/static-assets/bf-bpage-ui/_next/static/images/favicon-496b7cee633e6a7dca162654e1bb39c9.ico",
+    "publisher": "BuzzFeed",
+    "description": "Tommie Woodward yelled, \"Fuck that gator!\" just before he was killed by one in Texas, and his death instantly became a national joke. For his family, grieving means having to rescue the person from the punchline.",
+    "by": "blending",
+    "points": 29,
+    "comment_count": 7,
+    "hn_item": {
+      "by": "yasoob",
+      "descendants": 3,
+      "id": 30150995,
+      "kids": [
+        30151478
+      ],
+      "score": 22,
+      "time": 1643650734,
+      "title": "Show HN: Practical Python Projects book now free to read online",
+      "type": "story",
+      "url": "https://practicalpython.yasoob.me/toc.html"
+    },
+    "og_item": {
+      "title": "Tommie Woodward's Internet-Famous Last Words",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2017-02/6/1/social_promotion/buzzfeed-prod-cron-01/facebook-social-promotion-25393-1486361110-1.jpg?crop=921:612;0,0%26downsize=1250:*",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://www.buzzfeed.com/golianopoulos/fuck-that-gator",
+      "audio": [],
+      "description": "Tommie Woodward yelled, \"Fuck that gator!\" just before he was killed by one in Texas, and his death instantly became a national joke. For his family, grieving means having to rescue the person from the punchline.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "BuzzFeed",
+      "video": [],
+      "favicon": {
+        "url": "/static-assets/bf-bpage-ui/_next/static/images/favicon-496b7cee633e6a7dca162654e1bb39c9.ico"
+      }
+    }
+  },
+  {
     "id": 30152714,
     "title": "HVM: A Parallel Functional Runtime",
     "url": "https://github.com/Kindelia/HVM",
     "time": 1643656542,
-    "image": "https://opengraph.githubassets.com/c0d8ec25e5dd9fcb84df90d386192aa5e5f3ed72a9a8371883924b6c6c814c5c/Kindelia/HVM",
+    "image": "https://opengraph.githubassets.com/48d84a5e631f5c751b9a68fd43b2265e8b28b8cc7e642d3333b834d40a58ac1a/Kindelia/HVM",
     "icon": "https://github.githubassets.com/favicons/favicon.svg",
     "publisher": "GitHub",
     "description": "A massively parallel, optimal functional runtime in Rust - GitHub - Kindelia/HVM: A massively parallel, optimal functional runtime in Rust",
@@ -2462,7 +2513,7 @@
       "type": "object",
       "image": [
         {
-          "url": "https://opengraph.githubassets.com/c0d8ec25e5dd9fcb84df90d386192aa5e5f3ed72a9a8371883924b6c6c814c5c/Kindelia/HVM",
+          "url": "https://opengraph.githubassets.com/48d84a5e631f5c751b9a68fd43b2265e8b28b8cc7e642d3333b834d40a58ac1a/Kindelia/HVM",
           "secure_url": "",
           "type": "",
           "width": 1200,
@@ -2480,6 +2531,48 @@
       "video": [],
       "favicon": {
         "url": "https://github.githubassets.com/favicons/favicon.svg"
+      }
+    }
+  },
+  {
+    "id": 30157233,
+    "title": "Reddit Enhancement Suite is now in maintenance mode",
+    "url": "https://old.reddit.com/r/RESAnnouncements/comments/sh83gx/announcement_life_of_reddit_enhancement_suite/",
+    "time": 1643677164,
+    "image": "",
+    "icon": "https://old.reddit.com/favicon.ico",
+    "publisher": "old.reddit.com",
+    "description": "",
+    "by": "goplayoutside",
+    "points": 20,
+    "comment_count": 2,
+    "hn_item": {
+      "by": "yasoob",
+      "descendants": 3,
+      "id": 30150995,
+      "kids": [
+        30151478
+      ],
+      "score": 22,
+      "time": 1643650734,
+      "title": "Show HN: Practical Python Projects book now free to read online",
+      "type": "story",
+      "url": "https://practicalpython.yasoob.me/toc.html"
+    },
+    "og_item": {
+      "title": "Too Many Requests",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
       }
     }
   },
@@ -2564,48 +2657,6 @@
       "video": [],
       "favicon": {
         "url": "/favicon3.ico"
-      }
-    }
-  },
-  {
-    "id": 30157233,
-    "title": "Reddit Enhancement Suite is now in maintenance mode",
-    "url": "https://old.reddit.com/r/RESAnnouncements/comments/sh83gx/announcement_life_of_reddit_enhancement_suite/",
-    "time": 1643677164,
-    "image": "",
-    "icon": "https://old.reddit.com/favicon.ico",
-    "publisher": "old.reddit.com",
-    "description": "",
-    "by": "goplayoutside",
-    "points": 18,
-    "comment_count": 2,
-    "hn_item": {
-      "by": "yasoob",
-      "descendants": 3,
-      "id": 30150995,
-      "kids": [
-        30151478
-      ],
-      "score": 22,
-      "time": 1643650734,
-      "title": "Show HN: Practical Python Projects book now free to read online",
-      "type": "story",
-      "url": "https://practicalpython.yasoob.me/toc.html"
-    },
-    "og_item": {
-      "title": "Too Many Requests",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
       }
     }
   },
@@ -2745,7 +2796,7 @@
     "publisher": "buttondown.email",
     "description": "Some people, when confronted with a problem, think “I know, I’ll use regular expressions.” Then they solve their problem, hooray! Regexes are great! I use...",
     "by": "azhenley",
-    "points": 15,
+    "points": 16,
     "comment_count": 1,
     "hn_item": {
       "by": "yasoob",
@@ -2788,7 +2839,7 @@
     "description": "ar5iv offers a modern web view for arXiv's preprints. An open community resource, on a quest to a full collection of high-quality documents.",
     "by": "rg111",
     "points": 24,
-    "comment_count": 1,
+    "comment_count": 2,
     "hn_item": {
       "by": "yasoob",
       "descendants": 3,
@@ -2880,57 +2931,6 @@
     }
   },
   {
-    "id": 30154492,
-    "title": "Phase I clinical trial of Moderna mRNA vaccine for Epstein-Barr virus starting",
-    "url": "https://www.umassmed.edu/news/news-archives/2022/01/phase-i-clinical-trial-of-moderna-mrna-vaccine-for-epstein-barr-virus-starting-at-umass-chan/",
-    "time": 1643663771,
-    "image": "https://www.umassmed.edu/globalassets/umassmednow/top-story/luzuriage-katherine-blue-660.jpg",
-    "icon": "https://www.umassmed.edu/globalassets/12/favicon/umass-favicon.ico",
-    "publisher": "UMass Chan Medical School",
-    "description": "UMass Chan Medical School researchers are embarking on a clinical trial of an mRNA vaccine by Moderna against the Epstein-Barr virus (EBV), a common cause of infectious mononucleosis. Katherine Luzuriaga, MD, is principal investigator for the study at UMass Chan.",
-    "by": "drewcon",
-    "points": 30,
-    "comment_count": 4,
-    "hn_item": {
-      "by": "yasoob",
-      "descendants": 3,
-      "id": 30150995,
-      "kids": [
-        30151478
-      ],
-      "score": 22,
-      "time": 1643650734,
-      "title": "Show HN: Practical Python Projects book now free to read online",
-      "type": "story",
-      "url": "https://practicalpython.yasoob.me/toc.html"
-    },
-    "og_item": {
-      "title": "Phase I clinical trial of Moderna mRNA vaccine for Epstein-Barr virus starting at UMass Chan",
-      "type": "website",
-      "image": [
-        {
-          "url": "https://www.umassmed.edu/globalassets/umassmednow/top-story/luzuriage-katherine-blue-660.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://www.umassmed.edu/news/news-archives/2022/01/phase-i-clinical-trial-of-moderna-mrna-vaccine-for-epstein-barr-virus-starting-at-umass-chan/",
-      "audio": [],
-      "description": "UMass Chan Medical School researchers are embarking on a clinical trial of an mRNA vaccine by Moderna against the Epstein-Barr virus (EBV), a common cause of infectious mononucleosis. Katherine Luzuriaga, MD, is principal investigator for the study at UMass Chan. ",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "UMass Chan Medical School",
-      "video": [],
-      "favicon": {
-        "url": "/globalassets/12/favicon/umass-favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30147507,
     "title": "VT100 Machine Emulator in JavaScript",
     "url": "https://www.pcjs.org/machines/dec/vt100/",
@@ -2978,57 +2978,6 @@
       "video": [],
       "favicon": {
         "url": "/assets/icons/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30154442,
-    "title": "Writing Better Release Notes",
-    "url": "https://simonwillison.net/2022/Jan/31/release-notes/",
-    "time": 1643663582,
-    "image": "https://avatars0.githubusercontent.com/u/9599?v=4\u0026s=200",
-    "icon": "https://simonwillison.net/favicon.ico",
-    "publisher": "simonwillison.net",
-    "description": "Release notes are an important part of the open source process. I’ve been thinking about these a lot recently, and I’ve assembled some thoughts on how to do a better …",
-    "by": "BerislavLopac",
-    "points": 14,
-    "comment_count": 1,
-    "hn_item": {
-      "by": "yasoob",
-      "descendants": 3,
-      "id": 30150995,
-      "kids": [
-        30151478
-      ],
-      "score": 22,
-      "time": 1643650734,
-      "title": "Show HN: Practical Python Projects book now free to read online",
-      "type": "story",
-      "url": "https://practicalpython.yasoob.me/toc.html"
-    },
-    "og_item": {
-      "title": "Writing better release notes",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://avatars0.githubusercontent.com/u/9599?v=4\u0026s=200",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "http://simonwillison.net/2022/Jan/31/release-notes/",
-      "audio": [],
-      "description": "Release notes are an important part of the open source process. I’ve been thinking about these a lot recently, and I’ve assembled some thoughts on how to do a better …",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
       }
     }
   },
@@ -3084,6 +3033,108 @@
     }
   },
   {
+    "id": 30154492,
+    "title": "Phase I clinical trial of Moderna mRNA vaccine for Epstein-Barr virus starting",
+    "url": "https://www.umassmed.edu/news/news-archives/2022/01/phase-i-clinical-trial-of-moderna-mrna-vaccine-for-epstein-barr-virus-starting-at-umass-chan/",
+    "time": 1643663771,
+    "image": "https://www.umassmed.edu/globalassets/umassmednow/top-story/luzuriage-katherine-blue-660.jpg",
+    "icon": "https://www.umassmed.edu/globalassets/12/favicon/umass-favicon.ico",
+    "publisher": "UMass Chan Medical School",
+    "description": "UMass Chan Medical School researchers are embarking on a clinical trial of an mRNA vaccine by Moderna against the Epstein-Barr virus (EBV), a common cause of infectious mononucleosis. Katherine Luzuriaga, MD, is principal investigator for the study at UMass Chan.",
+    "by": "drewcon",
+    "points": 30,
+    "comment_count": 4,
+    "hn_item": {
+      "by": "yasoob",
+      "descendants": 3,
+      "id": 30150995,
+      "kids": [
+        30151478
+      ],
+      "score": 22,
+      "time": 1643650734,
+      "title": "Show HN: Practical Python Projects book now free to read online",
+      "type": "story",
+      "url": "https://practicalpython.yasoob.me/toc.html"
+    },
+    "og_item": {
+      "title": "Phase I clinical trial of Moderna mRNA vaccine for Epstein-Barr virus starting at UMass Chan",
+      "type": "website",
+      "image": [
+        {
+          "url": "https://www.umassmed.edu/globalassets/umassmednow/top-story/luzuriage-katherine-blue-660.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://www.umassmed.edu/news/news-archives/2022/01/phase-i-clinical-trial-of-moderna-mrna-vaccine-for-epstein-barr-virus-starting-at-umass-chan/",
+      "audio": [],
+      "description": "UMass Chan Medical School researchers are embarking on a clinical trial of an mRNA vaccine by Moderna against the Epstein-Barr virus (EBV), a common cause of infectious mononucleosis. Katherine Luzuriaga, MD, is principal investigator for the study at UMass Chan. ",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "UMass Chan Medical School",
+      "video": [],
+      "favicon": {
+        "url": "/globalassets/12/favicon/umass-favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30154442,
+    "title": "Writing Better Release Notes",
+    "url": "https://simonwillison.net/2022/Jan/31/release-notes/",
+    "time": 1643663582,
+    "image": "https://avatars0.githubusercontent.com/u/9599?v=4\u0026s=200",
+    "icon": "https://simonwillison.net/favicon.ico",
+    "publisher": "simonwillison.net",
+    "description": "Release notes are an important part of the open source process. I’ve been thinking about these a lot recently, and I’ve assembled some thoughts on how to do a better …",
+    "by": "BerislavLopac",
+    "points": 14,
+    "comment_count": 1,
+    "hn_item": {
+      "by": "yasoob",
+      "descendants": 3,
+      "id": 30150995,
+      "kids": [
+        30151478
+      ],
+      "score": 22,
+      "time": 1643650734,
+      "title": "Show HN: Practical Python Projects book now free to read online",
+      "type": "story",
+      "url": "https://practicalpython.yasoob.me/toc.html"
+    },
+    "og_item": {
+      "title": "Writing better release notes",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://avatars0.githubusercontent.com/u/9599?v=4\u0026s=200",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "http://simonwillison.net/2022/Jan/31/release-notes/",
+      "audio": [],
+      "description": "Release notes are an important part of the open source process. I’ve been thinking about these a lot recently, and I’ve assembled some thoughts on how to do a better …",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30156564,
     "title": "LTT's “AdBlockers are piracy” is a tone deaf remark",
     "url": "https://news.ycombinator.com/item?id=30156564",
@@ -3122,90 +3173,6 @@
       "video": [],
       "favicon": {
         "url": "favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30157464,
-    "title": "Ask HN: Google Play prevents continuous delivery",
-    "url": "https://news.ycombinator.com/item?id=30157464",
-    "time": 1643678852,
-    "image": "",
-    "icon": "https://news.ycombinator.com/favicon.ico",
-    "publisher": "Hacker News",
-    "description": "",
-    "by": "quambene",
-    "points": 5,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "yasoob",
-      "descendants": 3,
-      "id": 30150995,
-      "kids": [
-        30151478
-      ],
-      "score": 22,
-      "time": 1643650734,
-      "title": "Show HN: Practical Python Projects book now free to read online",
-      "type": "story",
-      "url": "https://practicalpython.yasoob.me/toc.html"
-    },
-    "og_item": {
-      "title": "Ask HN: Google Play prevents continuous delivery | Hacker News",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30146965,
-    "title": "The tonsillar evacuation hypothesis of yawning behaviour (1994)",
-    "url": "http://baillement.com/dossier/tonsillar_hypothesis.html",
-    "time": 1643629279,
-    "image": "",
-    "icon": "",
-    "publisher": "baillement.com",
-    "description": "Pourquoi baillons-nous? la neurophysiologie et les pathologies du baillement, la phylogenese, l'histoire, pourquoi le baillement est contagieux?",
-    "by": "primroot",
-    "points": 9,
-    "comment_count": 1,
-    "hn_item": {
-      "by": "yasoob",
-      "descendants": 3,
-      "id": 30150995,
-      "kids": [
-        30151478
-      ],
-      "score": 22,
-      "time": 1643650734,
-      "title": "Show HN: Practical Python Projects book now free to read online",
-      "type": "story",
-      "url": "https://practicalpython.yasoob.me/toc.html"
-    },
-    "og_item": {
-      "title": "tonsillar_hypothesis",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "Pourquoi baillons-nous? la neurophysiologie et les pathologies du baillement, la phylogenese, l'histoire, pourquoi le baillement est contagieux?",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
       }
     }
   },
@@ -3257,6 +3224,48 @@
       "video": [],
       "favicon": {
         "url": "https://static.guim.co.uk/images/favicon-32x32.ico"
+      }
+    }
+  },
+  {
+    "id": 30146965,
+    "title": "The tonsillar evacuation hypothesis of yawning behaviour (1994)",
+    "url": "http://baillement.com/dossier/tonsillar_hypothesis.html",
+    "time": 1643629279,
+    "image": "",
+    "icon": "",
+    "publisher": "baillement.com",
+    "description": "Pourquoi baillons-nous? la neurophysiologie et les pathologies du baillement, la phylogenese, l'histoire, pourquoi le baillement est contagieux?",
+    "by": "primroot",
+    "points": 9,
+    "comment_count": 1,
+    "hn_item": {
+      "by": "yasoob",
+      "descendants": 3,
+      "id": 30150995,
+      "kids": [
+        30151478
+      ],
+      "score": 22,
+      "time": 1643650734,
+      "title": "Show HN: Practical Python Projects book now free to read online",
+      "type": "story",
+      "url": "https://practicalpython.yasoob.me/toc.html"
+    },
+    "og_item": {
+      "title": "tonsillar_hypothesis",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "Pourquoi baillons-nous? la neurophysiologie et les pathologies du baillement, la phylogenese, l'histoire, pourquoi le baillement est contagieux?",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
       }
     }
   },
