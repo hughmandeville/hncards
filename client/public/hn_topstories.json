@@ -9,20 +9,18 @@
     "publisher": "jamessevedge.com",
     "description": "I was listening to the Tim Ferriss Show podcast episode #532 with Sheila Heen (Harvard Negotiation Project, co-author of Difficult Conversations: How To Discuss What Matters Most) and a specific story she told during the conversation really resonated with me. Below is the excerpt of that story in…",
     "by": "aseattledev1234",
-    "points": 74,
-    "comment_count": 11,
+    "points": 85,
+    "comment_count": 15,
     "hn_item": {
-      "by": "muterad_murilax",
-      "descendants": 1,
-      "id": 30152833,
-      "kids": [
-        30155264
-      ],
-      "score": 11,
-      "time": 1643656955,
-      "title": "AOSC OS/Retro: A Linux Distro for 486 and PPC Macs",
+      "by": "fernandopj",
+      "descendants": 0,
+      "id": 30154328,
+      "kids": null,
+      "score": 4,
+      "time": 1643663097,
+      "title": "Termo – Portuguese Wordle",
       "type": "story",
-      "url": "https://lunduke.substack.com/p/aosc-osretro-a-linux-distro-for-486"
+      "url": "https://term.ooo"
     },
     "og_item": {
       "title": "Red Light Green Light",
@@ -51,20 +49,18 @@
     "publisher": "lsd.gnunet.org",
     "description": "This document contains the GNU Name System (GNS) technical\n      specification.\n      GNS is a decentralized and censorship-resistant name\n      system that provides a privacy-enhancing alternative to the Domain\n      Name System (DNS).\n       \n       \n      This document defines t…",
     "by": "simonpure",
-    "points": 106,
-    "comment_count": 44,
+    "points": 112,
+    "comment_count": 45,
     "hn_item": {
-      "by": "muterad_murilax",
-      "descendants": 1,
-      "id": 30152833,
-      "kids": [
-        30155264
-      ],
-      "score": 11,
-      "time": 1643656955,
-      "title": "AOSC OS/Retro: A Linux Distro for 486 and PPC Macs",
+      "by": "fernandopj",
+      "descendants": 0,
+      "id": 30154328,
+      "kids": null,
+      "score": 4,
+      "time": 1643663097,
+      "title": "Termo – Portuguese Wordle",
       "type": "story",
-      "url": "https://lunduke.substack.com/p/aosc-osretro-a-linux-distro-for-486"
+      "url": "https://term.ooo"
     },
     "og_item": {
       "title": "The GNU Name System",
@@ -93,20 +89,18 @@
     "publisher": "The New York Times",
     "description": "The word game, released in October, has millions of daily users.",
     "by": "lucis",
-    "points": 492,
-    "comment_count": 347,
+    "points": 505,
+    "comment_count": 352,
     "hn_item": {
-      "by": "muterad_murilax",
-      "descendants": 1,
-      "id": 30152833,
-      "kids": [
-        30155264
-      ],
-      "score": 11,
-      "time": 1643656955,
-      "title": "AOSC OS/Retro: A Linux Distro for 486 and PPC Macs",
+      "by": "fernandopj",
+      "descendants": 0,
+      "id": 30154328,
+      "kids": null,
+      "score": 4,
+      "time": 1643663097,
+      "title": "Termo – Portuguese Wordle",
       "type": "story",
-      "url": "https://lunduke.substack.com/p/aosc-osretro-a-linux-distro-for-486"
+      "url": "https://term.ooo"
     },
     "og_item": {
       "title": "The New York Times Buys Wordle",
@@ -144,20 +138,18 @@
     "publisher": "GitHub",
     "description": "Easily manage wine prefixes in a new way. Run Windows software and games on Linux - GitHub - bottlesdevs/Bottles: Easily manage wine prefixes in a new way. Run Windows software and games on Linux",
     "by": "maydemir",
-    "points": 12,
+    "points": 15,
     "comment_count": 1,
     "hn_item": {
-      "by": "muterad_murilax",
-      "descendants": 1,
-      "id": 30152833,
-      "kids": [
-        30155264
-      ],
-      "score": 11,
-      "time": 1643656955,
-      "title": "AOSC OS/Retro: A Linux Distro for 486 and PPC Macs",
+      "by": "fernandopj",
+      "descendants": 0,
+      "id": 30154328,
+      "kids": null,
+      "score": 4,
+      "time": 1643663097,
+      "title": "Termo – Portuguese Wordle",
       "type": "story",
-      "url": "https://lunduke.substack.com/p/aosc-osretro-a-linux-distro-for-486"
+      "url": "https://term.ooo"
     },
     "og_item": {
       "title": "GitHub - bottlesdevs/Bottles: Easily manage wine prefixes in a new way. Run Windows software and games on Linux",
@@ -186,6 +178,86 @@
     }
   },
   {
+    "id": 30156551,
+    "title": "Yggdrasil P2P mesh E2EE IPv6 network",
+    "url": "https://yggdrasil-network.github.io/",
+    "time": 1643672889,
+    "image": "",
+    "icon": "https://yggdrasil-network.github.io/favicon.ico",
+    "publisher": "Yggdrasil Network",
+    "description": "End-to-end encrypted IPv6 networking to connect worlds",
+    "by": "jesprenj",
+    "points": 18,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "fernandopj",
+      "descendants": 0,
+      "id": 30154328,
+      "kids": null,
+      "score": 4,
+      "time": 1643663097,
+      "title": "Termo – Portuguese Wordle",
+      "type": "story",
+      "url": "https://term.ooo"
+    },
+    "og_item": {
+      "title": "Yggdrasil Network",
+      "type": "",
+      "image": [],
+      "url": "https://yggdrasil-network.github.io/",
+      "audio": [],
+      "description": "End-to-end encrypted IPv6 networking to connect worlds",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Yggdrasil Network",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30156048,
+    "title": "SimpleDB: A Basic RDBMS Built from Scratch",
+    "url": "https://www.awelm.com/posts/simple-db/",
+    "time": 1643670213,
+    "image": "",
+    "icon": "https://www.awelm.com/favicon.ico",
+    "publisher": "awelm.com",
+    "description": "My databases class at UCLA wasn’t very challenging so I never truly understood the internals of databases. This always bothered me so I vowed to build a simple database from scratch to learn the fundamentals.",
+    "by": "hackthesystem",
+    "points": 38,
+    "comment_count": 11,
+    "hn_item": {
+      "by": "fernandopj",
+      "descendants": 0,
+      "id": 30154328,
+      "kids": null,
+      "score": 4,
+      "time": 1643663097,
+      "title": "Termo – Portuguese Wordle",
+      "type": "story",
+      "url": "https://term.ooo"
+    },
+    "og_item": {
+      "title": "SimpleDB: A Basic RDBMS Built From Scratch",
+      "type": "article",
+      "image": [],
+      "url": "https://www.awelm.com/posts/simple-db/",
+      "audio": [],
+      "description": "My databases class at UCLA wasn’t very challenging so I never truly understood the internals of databases. This always bothered me so I vowed to build a simple database from scratch to learn the fundamentals.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30150586,
     "title": "Moderna’s HIV vaccine has officially begun human trials",
     "url": "https://www.them.us/story/hiv-aids-vaccine-human-trials-moderna",
@@ -195,20 +267,18 @@
     "publisher": "them.",
     "description": "We could be getting even closer to stopping the spread of HIV/AIDS.",
     "by": "grawprog",
-    "points": 735,
-    "comment_count": 300,
+    "points": 744,
+    "comment_count": 304,
     "hn_item": {
-      "by": "muterad_murilax",
-      "descendants": 1,
-      "id": 30152833,
-      "kids": [
-        30155264
-      ],
-      "score": 11,
-      "time": 1643656955,
-      "title": "AOSC OS/Retro: A Linux Distro for 486 and PPC Macs",
+      "by": "fernandopj",
+      "descendants": 0,
+      "id": 30154328,
+      "kids": null,
+      "score": 4,
+      "time": 1643663097,
+      "title": "Termo – Portuguese Wordle",
       "type": "story",
-      "url": "https://lunduke.substack.com/p/aosc-osretro-a-linux-distro-for-486"
+      "url": "https://term.ooo"
     },
     "og_item": {
       "title": "Moderna’s HIV Vaccine Has Officially Begun Human Trials",
@@ -237,41 +307,39 @@
     }
   },
   {
-    "id": 30156048,
-    "title": "SimpleDB: A Basic RDBMS Built from Scratch",
-    "url": "https://www.awelm.com/posts/simple-db/",
-    "time": 1643670213,
+    "id": 30155295,
+    "title": "Pay attention to WebAssembly",
+    "url": "https://harshal.sheth.io/2022/01/31/webassembly.html",
+    "time": 1643666927,
     "image": "",
-    "icon": "https://www.awelm.com/favicon.ico",
-    "publisher": "awelm.com",
-    "description": "My databases class at UCLA wasn’t very challenging so I never truly understood the internals of databases. This always bothered me so I vowed to build a simple database from scratch to learn the fundamentals.",
-    "by": "hackthesystem",
-    "points": 34,
-    "comment_count": 11,
+    "icon": "https://harshal.sheth.io/favicon.ico",
+    "publisher": "Harshal Sheth",
+    "description": "\u003c!—–",
+    "by": "hsheth2",
+    "points": 105,
+    "comment_count": 62,
     "hn_item": {
-      "by": "muterad_murilax",
-      "descendants": 1,
-      "id": 30152833,
-      "kids": [
-        30155264
-      ],
-      "score": 11,
-      "time": 1643656955,
-      "title": "AOSC OS/Retro: A Linux Distro for 486 and PPC Macs",
+      "by": "fernandopj",
+      "descendants": 0,
+      "id": 30154328,
+      "kids": null,
+      "score": 4,
+      "time": 1643663097,
+      "title": "Termo – Portuguese Wordle",
       "type": "story",
-      "url": "https://lunduke.substack.com/p/aosc-osretro-a-linux-distro-for-486"
+      "url": "https://term.ooo"
     },
     "og_item": {
-      "title": "SimpleDB: A Basic RDBMS Built From Scratch",
+      "title": "Pay attention to WebAssembly",
       "type": "article",
       "image": [],
-      "url": "https://www.awelm.com/posts/simple-db/",
+      "url": "https://harshal.sheth.io/2022/01/31/webassembly.html",
       "audio": [],
-      "description": "My databases class at UCLA wasn’t very challenging so I never truly understood the internals of databases. This always bothered me so I vowed to build a simple database from scratch to learn the fundamentals.",
+      "description": "\u003c!—–",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "",
+      "site_name": "Harshal Sheth",
       "video": [],
       "favicon": {
         "url": "/favicon.ico"
@@ -291,17 +359,15 @@
     "points": 35,
     "comment_count": 3,
     "hn_item": {
-      "by": "muterad_murilax",
-      "descendants": 1,
-      "id": 30152833,
-      "kids": [
-        30155264
-      ],
-      "score": 11,
-      "time": 1643656955,
-      "title": "AOSC OS/Retro: A Linux Distro for 486 and PPC Macs",
+      "by": "fernandopj",
+      "descendants": 0,
+      "id": 30154328,
+      "kids": null,
+      "score": 4,
+      "time": 1643663097,
+      "title": "Termo – Portuguese Wordle",
       "type": "story",
-      "url": "https://lunduke.substack.com/p/aosc-osretro-a-linux-distro-for-486"
+      "url": "https://term.ooo"
     },
     "og_item": {
       "title": "Astronomers close in on new way to detect gravitational waves",
@@ -330,90 +396,6 @@
     }
   },
   {
-    "id": 30156551,
-    "title": "Yggdrasil P2P mesh E2EE IPv6 network",
-    "url": "https://yggdrasil-network.github.io/",
-    "time": 1643672889,
-    "image": "",
-    "icon": "https://yggdrasil-network.github.io/favicon.ico",
-    "publisher": "Yggdrasil Network",
-    "description": "End-to-end encrypted IPv6 networking to connect worlds",
-    "by": "jesprenj",
-    "points": 10,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "muterad_murilax",
-      "descendants": 1,
-      "id": 30152833,
-      "kids": [
-        30155264
-      ],
-      "score": 11,
-      "time": 1643656955,
-      "title": "AOSC OS/Retro: A Linux Distro for 486 and PPC Macs",
-      "type": "story",
-      "url": "https://lunduke.substack.com/p/aosc-osretro-a-linux-distro-for-486"
-    },
-    "og_item": {
-      "title": "Yggdrasil Network",
-      "type": "",
-      "image": [],
-      "url": "https://yggdrasil-network.github.io/",
-      "audio": [],
-      "description": "End-to-end encrypted IPv6 networking to connect worlds",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Yggdrasil Network",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30155295,
-    "title": "Pay attention to WebAssembly",
-    "url": "https://harshal.sheth.io/2022/01/31/webassembly.html",
-    "time": 1643666927,
-    "image": "",
-    "icon": "https://harshal.sheth.io/favicon.ico",
-    "publisher": "Harshal Sheth",
-    "description": "\u003c!—–",
-    "by": "hsheth2",
-    "points": 94,
-    "comment_count": 55,
-    "hn_item": {
-      "by": "muterad_murilax",
-      "descendants": 1,
-      "id": 30152833,
-      "kids": [
-        30155264
-      ],
-      "score": 11,
-      "time": 1643656955,
-      "title": "AOSC OS/Retro: A Linux Distro for 486 and PPC Macs",
-      "type": "story",
-      "url": "https://lunduke.substack.com/p/aosc-osretro-a-linux-distro-for-486"
-    },
-    "og_item": {
-      "title": "Pay attention to WebAssembly",
-      "type": "article",
-      "image": [],
-      "url": "https://harshal.sheth.io/2022/01/31/webassembly.html",
-      "audio": [],
-      "description": "\u003c!—–",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Harshal Sheth",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30149370,
     "title": "Show HN: Magistrate – Plaintext legal contracts for developers",
     "url": "https://magistrate.khanna.law/",
@@ -423,20 +405,18 @@
     "publisher": "magistrate.khanna.law",
     "description": "",
     "by": "hkhanna",
-    "points": 212,
-    "comment_count": 82,
+    "points": 214,
+    "comment_count": 83,
     "hn_item": {
-      "by": "muterad_murilax",
-      "descendants": 1,
-      "id": 30152833,
-      "kids": [
-        30155264
-      ],
-      "score": 11,
-      "time": 1643656955,
-      "title": "AOSC OS/Retro: A Linux Distro for 486 and PPC Macs",
+      "by": "fernandopj",
+      "descendants": 0,
+      "id": 30154328,
+      "kids": null,
+      "score": 4,
+      "time": 1643663097,
+      "title": "Termo – Portuguese Wordle",
       "type": "story",
-      "url": "https://lunduke.substack.com/p/aosc-osretro-a-linux-distro-for-486"
+      "url": "https://term.ooo"
     },
     "og_item": {
       "title": "Plain text legal contracts for developers - Magistrate",
@@ -456,57 +436,6 @@
     }
   },
   {
-    "id": 30156572,
-    "title": "A short introduction to the undeciphered Aegean writing systems",
-    "url": "https://itsallgreektoanna.wordpress.com/2019/01/29/a-very-short-introduction-to-the-undeciphered-aegean-writing-systems/",
-    "time": 1643672984,
-    "image": "https://itsallgreektoanna.files.wordpress.com/2019/01/p1050258-2.jpg",
-    "icon": "https://itsallgreektoanna.files.wordpress.com/2018/09/cropped-south-facade-4-cropped1.jpg?w=192",
-    "publisher": "It's All Greek To Me",
-    "description": "Every so often a news article will make the rounds of the internet – or, for that matter, a paper will be published in an academic journal – presenting a new ‘decipherment’ …",
-    "by": "bigbillheck",
-    "points": 8,
-    "comment_count": 1,
-    "hn_item": {
-      "by": "muterad_murilax",
-      "descendants": 1,
-      "id": 30152833,
-      "kids": [
-        30155264
-      ],
-      "score": 11,
-      "time": 1643656955,
-      "title": "AOSC OS/Retro: A Linux Distro for 486 and PPC Macs",
-      "type": "story",
-      "url": "https://lunduke.substack.com/p/aosc-osretro-a-linux-distro-for-486"
-    },
-    "og_item": {
-      "title": "A very short introduction to the undeciphered Aegean writing systems",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://itsallgreektoanna.files.wordpress.com/2019/01/p1050258-2.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 589,
-          "height": 1447,
-          "alt": ""
-        }
-      ],
-      "url": "https://itsallgreektoanna.wordpress.com/2019/01/29/a-very-short-introduction-to-the-undeciphered-aegean-writing-systems/",
-      "audio": [],
-      "description": "Every so often a news article will make the rounds of the internet – or, for that matter, a paper will be published in an academic journal – presenting a new ‘decipherment’ …",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "It's All Greek To Me",
-      "video": [],
-      "favicon": {
-        "url": "https://itsallgreektoanna.files.wordpress.com/2018/09/cropped-south-facade-4-cropped1.jpg?w=192"
-      }
-    }
-  },
-  {
     "id": 30129631,
     "title": "Request bodies in GET requests",
     "url": "https://evertpot.com/get-request-bodies/",
@@ -516,20 +445,18 @@
     "publisher": "evertpot.com",
     "description": "",
     "by": "treve",
-    "points": 129,
+    "points": 131,
     "comment_count": 106,
     "hn_item": {
-      "by": "muterad_murilax",
-      "descendants": 1,
-      "id": 30152833,
-      "kids": [
-        30155264
-      ],
-      "score": 11,
-      "time": 1643656955,
-      "title": "AOSC OS/Retro: A Linux Distro for 486 and PPC Macs",
+      "by": "fernandopj",
+      "descendants": 0,
+      "id": 30154328,
+      "kids": null,
+      "score": 4,
+      "time": 1643663097,
+      "title": "Termo – Portuguese Wordle",
       "type": "story",
-      "url": "https://lunduke.substack.com/p/aosc-osretro-a-linux-distro-for-486"
+      "url": "https://term.ooo"
     },
     "og_item": {
       "title": "Request bodies in GET requests",
@@ -558,6 +485,55 @@
     }
   },
   {
+    "id": 30156572,
+    "title": "A short introduction to the undeciphered Aegean writing systems",
+    "url": "https://itsallgreektoanna.wordpress.com/2019/01/29/a-very-short-introduction-to-the-undeciphered-aegean-writing-systems/",
+    "time": 1643672984,
+    "image": "https://itsallgreektoanna.files.wordpress.com/2019/01/p1050258-2.jpg",
+    "icon": "https://itsallgreektoanna.files.wordpress.com/2018/09/cropped-south-facade-4-cropped1.jpg?w=192",
+    "publisher": "It's All Greek To Me",
+    "description": "Every so often a news article will make the rounds of the internet – or, for that matter, a paper will be published in an academic journal – presenting a new ‘decipherment’ …",
+    "by": "bigbillheck",
+    "points": 10,
+    "comment_count": 2,
+    "hn_item": {
+      "by": "fernandopj",
+      "descendants": 0,
+      "id": 30154328,
+      "kids": null,
+      "score": 4,
+      "time": 1643663097,
+      "title": "Termo – Portuguese Wordle",
+      "type": "story",
+      "url": "https://term.ooo"
+    },
+    "og_item": {
+      "title": "A very short introduction to the undeciphered Aegean writing systems",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://itsallgreektoanna.files.wordpress.com/2019/01/p1050258-2.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 589,
+          "height": 1447,
+          "alt": ""
+        }
+      ],
+      "url": "https://itsallgreektoanna.wordpress.com/2019/01/29/a-very-short-introduction-to-the-undeciphered-aegean-writing-systems/",
+      "audio": [],
+      "description": "Every so often a news article will make the rounds of the internet – or, for that matter, a paper will be published in an academic journal – presenting a new ‘decipherment’ …",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "It's All Greek To Me",
+      "video": [],
+      "favicon": {
+        "url": "https://itsallgreektoanna.files.wordpress.com/2018/09/cropped-south-facade-4-cropped1.jpg?w=192"
+      }
+    }
+  },
+  {
     "id": 30154265,
     "title": "Smarking (YC W15) Is Hiring Head of Eng to digitize $655B parking industry",
     "url": "https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567",
@@ -570,17 +546,15 @@
     "points": 1,
     "comment_count": 0,
     "hn_item": {
-      "by": "muterad_murilax",
-      "descendants": 1,
-      "id": 30152833,
-      "kids": [
-        30155264
-      ],
-      "score": 11,
-      "time": 1643656955,
-      "title": "AOSC OS/Retro: A Linux Distro for 486 and PPC Macs",
+      "by": "fernandopj",
+      "descendants": 0,
+      "id": 30154328,
+      "kids": null,
+      "score": 4,
+      "time": 1643663097,
+      "title": "Termo – Portuguese Wordle",
       "type": "story",
-      "url": "https://lunduke.substack.com/p/aosc-osretro-a-linux-distro-for-486"
+      "url": "https://term.ooo"
     },
     "og_item": {
       "title": "Smarking - Head of Engineering",
@@ -609,78 +583,34 @@
     }
   },
   {
-    "id": 30152268,
-    "title": "The unreasonable effectiveness of one-on-ones",
-    "url": "https://www.benkuhn.net/11/",
-    "time": 1643654866,
-    "image": "",
-    "icon": "https://www.benkuhn.net/favicon.ico",
-    "publisher": "benkuhn.net",
-    "description": "When I started dating my partner, I quickly noticed that grad school was making her very sad.\nThis was shortly after I’d started leading an engineering team at Wave, and so the “obvious” hypothesis to me was that the management (okay, “management”) one gets in graduate school is totally…",
-    "by": "sebg",
-    "points": 121,
-    "comment_count": 117,
-    "hn_item": {
-      "by": "muterad_murilax",
-      "descendants": 1,
-      "id": 30152833,
-      "kids": [
-        30155264
-      ],
-      "score": 11,
-      "time": 1643656955,
-      "title": "AOSC OS/Retro: A Linux Distro for 486 and PPC Macs",
-      "type": "story",
-      "url": "https://lunduke.substack.com/p/aosc-osretro-a-linux-distro-for-486"
-    },
-    "og_item": {
-      "title": "The unreasonable effectiveness of one-on-ones",
-      "type": "",
-      "image": [],
-      "url": "https://www.benkuhn.net/11/",
-      "audio": [],
-      "description": "When I started dating my partner, I quickly noticed that grad school was making her very sad.\nThis was shortly after I’d started leading an engineering team at Wave, and so the “obvious” hypothesis to me was that the management (okay, “management”) one gets in graduate school is totally ineffective.\nMost graduate students, including Eve, start school right after college, i.e., without much clue about how to effectively do self-directed work.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "benkuhn.net",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30150018,
     "title": "Pyflow – Visual and modular block programming in Python",
     "url": "https://github.com/Bycelium/PyFlow",
     "time": 1643647446,
-    "image": "https://opengraph.githubassets.com/e6f7f1fa76bcd5d7d208ea4fa9f478b1354b478a92fba189efb298829ce58e8a/Bycelium/PyFlow",
+    "image": "https://opengraph.githubassets.com/2dd52660ef74b681e5d0bb91af6c307df236deb2c83542bc95073f1cdfe7b1df/Bycelium/PyFlow",
     "icon": "https://github.githubassets.com/favicons/favicon.svg",
     "publisher": "GitHub",
     "description": "An open-source tool for visual and modular block programing in python - GitHub - Bycelium/PyFlow: An open-source tool for visual and modular block programing in python",
     "by": "amai",
-    "points": 155,
+    "points": 157,
     "comment_count": 77,
     "hn_item": {
-      "by": "muterad_murilax",
-      "descendants": 1,
-      "id": 30152833,
-      "kids": [
-        30155264
-      ],
-      "score": 11,
-      "time": 1643656955,
-      "title": "AOSC OS/Retro: A Linux Distro for 486 and PPC Macs",
+      "by": "fernandopj",
+      "descendants": 0,
+      "id": 30154328,
+      "kids": null,
+      "score": 4,
+      "time": 1643663097,
+      "title": "Termo – Portuguese Wordle",
       "type": "story",
-      "url": "https://lunduke.substack.com/p/aosc-osretro-a-linux-distro-for-486"
+      "url": "https://term.ooo"
     },
     "og_item": {
       "title": "GitHub - Bycelium/PyFlow: An open-source tool for visual and modular block programing in python",
       "type": "object",
       "image": [
         {
-          "url": "https://opengraph.githubassets.com/e6f7f1fa76bcd5d7d208ea4fa9f478b1354b478a92fba189efb298829ce58e8a/Bycelium/PyFlow",
+          "url": "https://opengraph.githubassets.com/2dd52660ef74b681e5d0bb91af6c307df236deb2c83542bc95073f1cdfe7b1df/Bycelium/PyFlow",
           "secure_url": "",
           "type": "",
           "width": 1200,
@@ -702,6 +632,46 @@
     }
   },
   {
+    "id": 30152268,
+    "title": "The unreasonable effectiveness of one-on-ones",
+    "url": "https://www.benkuhn.net/11/",
+    "time": 1643654866,
+    "image": "",
+    "icon": "https://www.benkuhn.net/favicon.ico",
+    "publisher": "benkuhn.net",
+    "description": "When I started dating my partner, I quickly noticed that grad school was making her very sad.\nThis was shortly after I’d started leading an engineering team at Wave, and so the “obvious” hypothesis to me was that the management (okay, “management”) one gets in graduate school is totally…",
+    "by": "sebg",
+    "points": 121,
+    "comment_count": 120,
+    "hn_item": {
+      "by": "fernandopj",
+      "descendants": 0,
+      "id": 30154328,
+      "kids": null,
+      "score": 4,
+      "time": 1643663097,
+      "title": "Termo – Portuguese Wordle",
+      "type": "story",
+      "url": "https://term.ooo"
+    },
+    "og_item": {
+      "title": "The unreasonable effectiveness of one-on-ones",
+      "type": "",
+      "image": [],
+      "url": "https://www.benkuhn.net/11/",
+      "audio": [],
+      "description": "When I started dating my partner, I quickly noticed that grad school was making her very sad.\nThis was shortly after I’d started leading an engineering team at Wave, and so the “obvious” hypothesis to me was that the management (okay, “management”) one gets in graduate school is totally ineffective.\nMost graduate students, including Eve, start school right after college, i.e., without much clue about how to effectively do self-directed work.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "benkuhn.net",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30150343,
     "title": "The new hire who showed up is not the same person we interviewed",
     "url": "https://www.askamanager.org/2022/01/the-new-hire-who-showed-up-is-not-the-same-person-we-interviewed.html",
@@ -711,20 +681,18 @@
     "publisher": "Ask a Manager",
     "description": "A reader writes: This is a situation currently unfolding at my husband's office so I’m a very amused bystander and thought I’d get your opinion on this",
     "by": "amadeuspzs",
-    "points": 700,
-    "comment_count": 415,
+    "points": 706,
+    "comment_count": 419,
     "hn_item": {
-      "by": "muterad_murilax",
-      "descendants": 1,
-      "id": 30152833,
-      "kids": [
-        30155264
-      ],
-      "score": 11,
-      "time": 1643656955,
-      "title": "AOSC OS/Retro: A Linux Distro for 486 and PPC Macs",
+      "by": "fernandopj",
+      "descendants": 0,
+      "id": 30154328,
+      "kids": null,
+      "score": 4,
+      "time": 1643663097,
+      "title": "Termo – Portuguese Wordle",
       "type": "story",
-      "url": "https://lunduke.substack.com/p/aosc-osretro-a-linux-distro-for-486"
+      "url": "https://term.ooo"
     },
     "og_item": {
       "title": "the new hire who showed up is not the same person we interviewed",
@@ -762,20 +730,18 @@
     "publisher": "jeffgeerling.com",
     "description": "",
     "by": "geerlingguy",
-    "points": 89,
-    "comment_count": 67,
+    "points": 92,
+    "comment_count": 74,
     "hn_item": {
-      "by": "muterad_murilax",
-      "descendants": 1,
-      "id": 30152833,
-      "kids": [
-        30155264
-      ],
-      "score": 11,
-      "time": 1643656955,
-      "title": "AOSC OS/Retro: A Linux Distro for 486 and PPC Macs",
+      "by": "fernandopj",
+      "descendants": 0,
+      "id": 30154328,
+      "kids": null,
+      "score": 4,
+      "time": 1643663097,
+      "title": "Termo – Portuguese Wordle",
       "type": "story",
-      "url": "https://lunduke.substack.com/p/aosc-osretro-a-linux-distro-for-486"
+      "url": "https://term.ooo"
     },
     "og_item": {
       "title": "It's dire: Raspberry Pi availability tracker is launched | Jeff Geerling",
@@ -804,20 +770,18 @@
     "publisher": "jpkoning.blogspot.com",
     "description": "Over the last five years Yemen has stumbled into a unique monetary situation. I initially wrote about Yemen's odd currency status two years ...",
     "by": "rwmj",
-    "points": 96,
+    "points": 97,
     "comment_count": 63,
     "hn_item": {
-      "by": "muterad_murilax",
-      "descendants": 1,
-      "id": 30152833,
-      "kids": [
-        30155264
-      ],
-      "score": 11,
-      "time": 1643656955,
-      "title": "AOSC OS/Retro: A Linux Distro for 486 and PPC Macs",
+      "by": "fernandopj",
+      "descendants": 0,
+      "id": 30154328,
+      "kids": null,
+      "score": 4,
+      "time": 1643663097,
+      "title": "Termo – Portuguese Wordle",
       "type": "story",
-      "url": "https://lunduke.substack.com/p/aosc-osretro-a-linux-distro-for-486"
+      "url": "https://term.ooo"
     },
     "og_item": {
       "title": "Yemen's bifurcated monetary system",
@@ -858,17 +822,15 @@
     "points": 120,
     "comment_count": 31,
     "hn_item": {
-      "by": "muterad_murilax",
-      "descendants": 1,
-      "id": 30152833,
-      "kids": [
-        30155264
-      ],
-      "score": 11,
-      "time": 1643656955,
-      "title": "AOSC OS/Retro: A Linux Distro for 486 and PPC Macs",
+      "by": "fernandopj",
+      "descendants": 0,
+      "id": 30154328,
+      "kids": null,
+      "score": 4,
+      "time": 1643663097,
+      "title": "Termo – Portuguese Wordle",
       "type": "story",
-      "url": "https://lunduke.substack.com/p/aosc-osretro-a-linux-distro-for-486"
+      "url": "https://term.ooo"
     },
     "og_item": {
       "title": "Giant Pyrosome",
@@ -906,20 +868,18 @@
     "publisher": "The New York Times",
     "description": "The ends of the college and pro football seasons were already a perilous time for people recovering from a gambling addiction. Then came the onslaught of ads for legal sports betting.",
     "by": "jbegley",
-    "points": 140,
-    "comment_count": 213,
+    "points": 143,
+    "comment_count": 217,
     "hn_item": {
-      "by": "muterad_murilax",
-      "descendants": 1,
-      "id": 30152833,
-      "kids": [
-        30155264
-      ],
-      "score": 11,
-      "time": 1643656955,
-      "title": "AOSC OS/Retro: A Linux Distro for 486 and PPC Macs",
+      "by": "fernandopj",
+      "descendants": 0,
+      "id": 30154328,
+      "kids": null,
+      "score": 4,
+      "time": 1643663097,
+      "title": "Termo – Portuguese Wordle",
       "type": "story",
-      "url": "https://lunduke.substack.com/p/aosc-osretro-a-linux-distro-for-486"
+      "url": "https://term.ooo"
     },
     "og_item": {
       "title": "The Rising Human Cost of Sports Betting",
@@ -948,6 +908,55 @@
     }
   },
   {
+    "id": 30156979,
+    "title": "Show HN: Colab-xterm – Open a terminal in colab, including the free tier",
+    "url": "https://github.com/InfuseAI/colab-xterm",
+    "time": 1643675448,
+    "image": "https://repository-images.githubusercontent.com/453922569/80c5fe9d-97bc-478d-8190-39687aad800b",
+    "icon": "https://github.githubassets.com/favicons/favicon.svg",
+    "publisher": "GitHub",
+    "description": "Open a terminal in colab, including the free tier. - GitHub - InfuseAI/colab-xterm: Open a terminal in colab, including the free tier.",
+    "by": "popcornylu",
+    "points": 4,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "fernandopj",
+      "descendants": 0,
+      "id": 30154328,
+      "kids": null,
+      "score": 4,
+      "time": 1643663097,
+      "title": "Termo – Portuguese Wordle",
+      "type": "story",
+      "url": "https://term.ooo"
+    },
+    "og_item": {
+      "title": "GitHub - InfuseAI/colab-xterm: Open a terminal in colab, including the free tier.",
+      "type": "object",
+      "image": [
+        {
+          "url": "https://repository-images.githubusercontent.com/453922569/80c5fe9d-97bc-478d-8190-39687aad800b",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://github.com/InfuseAI/colab-xterm",
+      "audio": [],
+      "description": "Open a terminal in colab, including the free tier. - GitHub - InfuseAI/colab-xterm: Open a terminal in colab, including the free tier.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "GitHub",
+      "video": [],
+      "favicon": {
+        "url": "https://github.githubassets.com/favicons/favicon.svg"
+      }
+    }
+  },
+  {
     "id": 30129857,
     "title": "Online archives where scientists post research spark information revolution",
     "url": "https://www.washingtonpost.com/health/preprint-peer-review-studies/2022/01/28/3cdfb46e-4d53-11ec-b73b-a00d6e559a6e_story.html",
@@ -958,19 +967,17 @@
     "description": "Called preprint servers, these free sites allow the public to read such studies before their formal publication. They are shifting how people approach new research, experts say.",
     "by": "bookofjoe",
     "points": 24,
-    "comment_count": 6,
+    "comment_count": 9,
     "hn_item": {
-      "by": "muterad_murilax",
-      "descendants": 1,
-      "id": 30152833,
-      "kids": [
-        30155264
-      ],
-      "score": 11,
-      "time": 1643656955,
-      "title": "AOSC OS/Retro: A Linux Distro for 486 and PPC Macs",
+      "by": "fernandopj",
+      "descendants": 0,
+      "id": 30154328,
+      "kids": null,
+      "score": 4,
+      "time": 1643663097,
+      "title": "Termo – Portuguese Wordle",
       "type": "story",
-      "url": "https://lunduke.substack.com/p/aosc-osretro-a-linux-distro-for-486"
+      "url": "https://term.ooo"
     },
     "og_item": {
       "title": "Online archives where scientists post their research spark information revolution",
@@ -1008,20 +1015,18 @@
     "publisher": "meadhbh.hamrick.rocks",
     "description": "An overview of the IETF's Virtual Worlds Agent Region Protocol and it's development.",
     "by": "dingosity",
-    "points": 48,
-    "comment_count": 42,
+    "points": 49,
+    "comment_count": 43,
     "hn_item": {
-      "by": "muterad_murilax",
-      "descendants": 1,
-      "id": 30152833,
-      "kids": [
-        30155264
-      ],
-      "score": 11,
-      "time": 1643656955,
-      "title": "AOSC OS/Retro: A Linux Distro for 486 and PPC Macs",
+      "by": "fernandopj",
+      "descendants": 0,
+      "id": 30154328,
+      "kids": null,
+      "score": 4,
+      "time": 1643663097,
+      "title": "Termo – Portuguese Wordle",
       "type": "story",
-      "url": "https://lunduke.substack.com/p/aosc-osretro-a-linux-distro-for-486"
+      "url": "https://term.ooo"
     },
     "og_item": {
       "title": "What is VWRAP?",
@@ -1053,17 +1058,15 @@
     "points": 67,
     "comment_count": 17,
     "hn_item": {
-      "by": "muterad_murilax",
-      "descendants": 1,
-      "id": 30152833,
-      "kids": [
-        30155264
-      ],
-      "score": 11,
-      "time": 1643656955,
-      "title": "AOSC OS/Retro: A Linux Distro for 486 and PPC Macs",
+      "by": "fernandopj",
+      "descendants": 0,
+      "id": 30154328,
+      "kids": null,
+      "score": 4,
+      "time": 1643663097,
+      "title": "Termo – Portuguese Wordle",
       "type": "story",
-      "url": "https://lunduke.substack.com/p/aosc-osretro-a-linux-distro-for-486"
+      "url": "https://term.ooo"
     },
     "og_item": {
       "title": "Reducing the size of large PDFs - All this",
@@ -1083,6 +1086,46 @@
     }
   },
   {
+    "id": 30152930,
+    "title": "Software Development Languages: Haskell",
+    "url": "https://www.fosskers.ca/en/blog/haskell-software-dev",
+    "time": 1643657291,
+    "image": "",
+    "icon": "https://www.fosskers.ca/assets/images/favicon-32x32.png",
+    "publisher": "fosskers.ca",
+    "description": "",
+    "by": "colingw",
+    "points": 51,
+    "comment_count": 24,
+    "hn_item": {
+      "by": "fernandopj",
+      "descendants": 0,
+      "id": 30154328,
+      "kids": null,
+      "score": 4,
+      "time": 1643663097,
+      "title": "Termo – Portuguese Wordle",
+      "type": "story",
+      "url": "https://term.ooo"
+    },
+    "og_item": {
+      "title": "Colin Woodbury",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/assets/images/favicon-32x32.png"
+      }
+    }
+  },
+  {
     "id": 30153493,
     "title": "Observing HTTP/2 Traffic Is Hard, but eBPF Can Help",
     "url": "https://blog.px.dev/ebpf-http2-tracing/",
@@ -1092,20 +1135,18 @@
     "publisher": "Pixie Labs Blog",
     "description": "In today's world full of microservices, gaining observability into the messages sent between services is critical to understanding and troubleshooting issues…",
     "by": "nserrino",
-    "points": 50,
+    "points": 52,
     "comment_count": 3,
     "hn_item": {
-      "by": "muterad_murilax",
-      "descendants": 1,
-      "id": 30152833,
-      "kids": [
-        30155264
-      ],
-      "score": 11,
-      "time": 1643656955,
-      "title": "AOSC OS/Retro: A Linux Distro for 486 and PPC Macs",
+      "by": "fernandopj",
+      "descendants": 0,
+      "id": 30154328,
+      "kids": null,
+      "score": 4,
+      "time": 1643663097,
+      "title": "Termo – Portuguese Wordle",
       "type": "story",
-      "url": "https://lunduke.substack.com/p/aosc-osretro-a-linux-distro-for-486"
+      "url": "https://term.ooo"
     },
     "og_item": {
       "title": "Observing HTTP/2 Traffic is Hard, but eBPF Can Help",
@@ -1134,48 +1175,6 @@
     }
   },
   {
-    "id": 30152930,
-    "title": "Software Development Languages: Haskell",
-    "url": "https://www.fosskers.ca/en/blog/haskell-software-dev",
-    "time": 1643657291,
-    "image": "",
-    "icon": "https://www.fosskers.ca/assets/images/favicon-32x32.png",
-    "publisher": "fosskers.ca",
-    "description": "",
-    "by": "colingw",
-    "points": 47,
-    "comment_count": 21,
-    "hn_item": {
-      "by": "muterad_murilax",
-      "descendants": 1,
-      "id": 30152833,
-      "kids": [
-        30155264
-      ],
-      "score": 11,
-      "time": 1643656955,
-      "title": "AOSC OS/Retro: A Linux Distro for 486 and PPC Macs",
-      "type": "story",
-      "url": "https://lunduke.substack.com/p/aosc-osretro-a-linux-distro-for-486"
-    },
-    "og_item": {
-      "title": "Colin Woodbury",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/assets/images/favicon-32x32.png"
-      }
-    }
-  },
-  {
     "id": 30153547,
     "title": "Why Henry III's gold penny failed",
     "url": "http://jpkoning.blogspot.com/2022/01/why-henry-iiis-gold-penny-failed.html",
@@ -1188,17 +1187,15 @@
     "points": 34,
     "comment_count": 54,
     "hn_item": {
-      "by": "muterad_murilax",
-      "descendants": 1,
-      "id": 30152833,
-      "kids": [
-        30155264
-      ],
-      "score": 11,
-      "time": 1643656955,
-      "title": "AOSC OS/Retro: A Linux Distro for 486 and PPC Macs",
+      "by": "fernandopj",
+      "descendants": 0,
+      "id": 30154328,
+      "kids": null,
+      "score": 4,
+      "time": 1643663097,
+      "title": "Termo – Portuguese Wordle",
       "type": "story",
-      "url": "https://lunduke.substack.com/p/aosc-osretro-a-linux-distro-for-486"
+      "url": "https://term.ooo"
     },
     "og_item": {
       "title": "Why Henry III's gold penny failed",
@@ -1227,57 +1224,6 @@
     }
   },
   {
-    "id": 30151580,
-    "title": "Sony to buy video game maker Bungie in $3.6B deal",
-    "url": "https://www.cnbc.com/2022/01/31/sony-to-buy-video-game-maker-bungie-in-3point6-billion-deal.html",
-    "time": 1643652527,
-    "image": "https://image.cnbcfm.com/api/v1/image/107008952-1643653079291-gettyimages-868750574-98242287.jpeg?v=1643653125",
-    "icon": "https://www.cnbc.com/favicon.ico",
-    "publisher": "CNBC",
-    "description": "Sony has agreed to acquire Bungie in a $3.6 billion deal, continuing January's torrid pace of video game consolidation",
-    "by": "daveaiello",
-    "points": 261,
-    "comment_count": 226,
-    "hn_item": {
-      "by": "muterad_murilax",
-      "descendants": 1,
-      "id": 30152833,
-      "kids": [
-        30155264
-      ],
-      "score": 11,
-      "time": 1643656955,
-      "title": "AOSC OS/Retro: A Linux Distro for 486 and PPC Macs",
-      "type": "story",
-      "url": "https://lunduke.substack.com/p/aosc-osretro-a-linux-distro-for-486"
-    },
-    "og_item": {
-      "title": "Sony to buy video game maker Bungie in $3.6 billion deal as industry consolidation heats up",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107008952-1643653079291-gettyimages-868750574-98242287.jpeg?v=1643653125",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://www.cnbc.com/2022/01/31/sony-to-buy-video-game-maker-bungie-in-3point6-billion-deal.html",
-      "audio": [],
-      "description": "Sony has agreed to acquire Bungie in a $3.6 billion deal, continuing January's torrid pace of video game consolidation",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "CNBC",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30150219,
     "title": "Show HN: Rich-CLI – A CLI toolbox for highlighting, Markdown, JSON and rich text",
     "url": "https://github.com/Textualize/rich-cli",
@@ -1287,20 +1233,18 @@
     "publisher": "GitHub",
     "description": "Rich-cli is a command line toolbox for fancy output in the terminal - GitHub - Textualize/rich-cli: Rich-cli is a command line toolbox for fancy output in the terminal",
     "by": "willm",
-    "points": 89,
+    "points": 92,
     "comment_count": 27,
     "hn_item": {
-      "by": "muterad_murilax",
-      "descendants": 1,
-      "id": 30152833,
-      "kids": [
-        30155264
-      ],
-      "score": 11,
-      "time": 1643656955,
-      "title": "AOSC OS/Retro: A Linux Distro for 486 and PPC Macs",
+      "by": "fernandopj",
+      "descendants": 0,
+      "id": 30154328,
+      "kids": null,
+      "score": 4,
+      "time": 1643663097,
+      "title": "Termo – Portuguese Wordle",
       "type": "story",
-      "url": "https://lunduke.substack.com/p/aosc-osretro-a-linux-distro-for-486"
+      "url": "https://term.ooo"
     },
     "og_item": {
       "title": "GitHub - Textualize/rich-cli: Rich-cli is a command line toolbox for fancy output in the terminal",
@@ -1329,6 +1273,55 @@
     }
   },
   {
+    "id": 30151580,
+    "title": "Sony to buy video game maker Bungie in $3.6B deal",
+    "url": "https://www.cnbc.com/2022/01/31/sony-to-buy-video-game-maker-bungie-in-3point6-billion-deal.html",
+    "time": 1643652527,
+    "image": "https://image.cnbcfm.com/api/v1/image/107008952-1643653079291-gettyimages-868750574-98242287.jpeg?v=1643653125",
+    "icon": "https://www.cnbc.com/favicon.ico",
+    "publisher": "CNBC",
+    "description": "Sony has agreed to acquire Bungie in a $3.6 billion deal, continuing January's torrid pace of video game consolidation",
+    "by": "daveaiello",
+    "points": 262,
+    "comment_count": 228,
+    "hn_item": {
+      "by": "fernandopj",
+      "descendants": 0,
+      "id": 30154328,
+      "kids": null,
+      "score": 4,
+      "time": 1643663097,
+      "title": "Termo – Portuguese Wordle",
+      "type": "story",
+      "url": "https://term.ooo"
+    },
+    "og_item": {
+      "title": "Sony to buy video game maker Bungie in $3.6 billion deal as industry consolidation heats up",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107008952-1643653079291-gettyimages-868750574-98242287.jpeg?v=1643653125",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://www.cnbc.com/2022/01/31/sony-to-buy-video-game-maker-bungie-in-3point6-billion-deal.html",
+      "audio": [],
+      "description": "Sony has agreed to acquire Bungie in a $3.6 billion deal, continuing January's torrid pace of video game consolidation",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "CNBC",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30129652,
     "title": "Two 60-foot-long murals discovered behind walls of 115-year-old building",
     "url": "https://www.cnn.com/style/article/couple-discover-murals-during-renovation-trnd/index.html",
@@ -1338,20 +1331,18 @@
     "publisher": "CNN",
     "description": "What started out as a couple's renovation project to convert a historic building into a bar has turned into an effort to restore decades-old artwork in a small Washington town.",
     "by": "wglb",
-    "points": 53,
+    "points": 54,
     "comment_count": 13,
     "hn_item": {
-      "by": "muterad_murilax",
-      "descendants": 1,
-      "id": 30152833,
-      "kids": [
-        30155264
-      ],
-      "score": 11,
-      "time": 1643656955,
-      "title": "AOSC OS/Retro: A Linux Distro for 486 and PPC Macs",
+      "by": "fernandopj",
+      "descendants": 0,
+      "id": 30154328,
+      "kids": null,
+      "score": 4,
+      "time": 1643663097,
+      "title": "Termo – Portuguese Wordle",
       "type": "story",
-      "url": "https://lunduke.substack.com/p/aosc-osretro-a-linux-distro-for-486"
+      "url": "https://term.ooo"
     },
     "og_item": {
       "title": "A couple renovating a 115-year-old building discovered two 60-foot-long hidden murals",
@@ -1389,20 +1380,18 @@
     "publisher": "leadership.garden",
     "description": "",
     "by": "ochronus",
-    "points": 70,
+    "points": 72,
     "comment_count": 38,
     "hn_item": {
-      "by": "muterad_murilax",
-      "descendants": 1,
-      "id": 30152833,
-      "kids": [
-        30155264
-      ],
-      "score": 11,
-      "time": 1643656955,
-      "title": "AOSC OS/Retro: A Linux Distro for 486 and PPC Macs",
+      "by": "fernandopj",
+      "descendants": 0,
+      "id": 30154328,
+      "kids": null,
+      "score": 4,
+      "time": 1643663097,
+      "title": "Termo – Portuguese Wordle",
       "type": "story",
-      "url": "https://lunduke.substack.com/p/aosc-osretro-a-linux-distro-for-486"
+      "url": "https://term.ooo"
     },
     "og_item": {
       "title": "Please Wait... | Cloudflare",
@@ -1431,20 +1420,18 @@
     "publisher": "imlefthanded.com",
     "description": "",
     "by": "decrypt",
-    "points": 639,
+    "points": 641,
     "comment_count": 699,
     "hn_item": {
-      "by": "muterad_murilax",
-      "descendants": 1,
-      "id": 30152833,
-      "kids": [
-        30155264
-      ],
-      "score": 11,
-      "time": 1643656955,
-      "title": "AOSC OS/Retro: A Linux Distro for 486 and PPC Macs",
+      "by": "fernandopj",
+      "descendants": 0,
+      "id": 30154328,
+      "kids": null,
+      "score": 4,
+      "time": 1643663097,
+      "title": "Termo – Portuguese Wordle",
       "type": "story",
-      "url": "https://lunduke.substack.com/p/aosc-osretro-a-linux-distro-for-486"
+      "url": "https://term.ooo"
     },
     "og_item": {
       "title": "Just a moment...",
@@ -1476,17 +1463,15 @@
     "points": 57,
     "comment_count": 32,
     "hn_item": {
-      "by": "muterad_murilax",
-      "descendants": 1,
-      "id": 30152833,
-      "kids": [
-        30155264
-      ],
-      "score": 11,
-      "time": 1643656955,
-      "title": "AOSC OS/Retro: A Linux Distro for 486 and PPC Macs",
+      "by": "fernandopj",
+      "descendants": 0,
+      "id": 30154328,
+      "kids": null,
+      "score": 4,
+      "time": 1643663097,
+      "title": "Termo – Portuguese Wordle",
       "type": "story",
-      "url": "https://lunduke.substack.com/p/aosc-osretro-a-linux-distro-for-486"
+      "url": "https://term.ooo"
     },
     "og_item": {
       "title": "Autodocumenting Makefiles",
@@ -1524,20 +1509,18 @@
     "publisher": "GitHub",
     "description": "A book about learning eLisp for customising Emacs the hard way - see the Gist https://gist.github.com/754568 - GitHub - hypernumbers/learn_elisp_the_hard_way: A book about learning eLisp for custom...",
     "by": "AndroidKitKat",
-    "points": 72,
+    "points": 73,
     "comment_count": 21,
     "hn_item": {
-      "by": "muterad_murilax",
-      "descendants": 1,
-      "id": 30152833,
-      "kids": [
-        30155264
-      ],
-      "score": 11,
-      "time": 1643656955,
-      "title": "AOSC OS/Retro: A Linux Distro for 486 and PPC Macs",
+      "by": "fernandopj",
+      "descendants": 0,
+      "id": 30154328,
+      "kids": null,
+      "score": 4,
+      "time": 1643663097,
+      "title": "Termo – Portuguese Wordle",
       "type": "story",
-      "url": "https://lunduke.substack.com/p/aosc-osretro-a-linux-distro-for-486"
+      "url": "https://term.ooo"
     },
     "og_item": {
       "title": "GitHub - hypernumbers/learn_elisp_the_hard_way: A book about learning eLisp for customising Emacs the hard way - see the Gist https://gist.github.com/754568",
@@ -1578,17 +1561,15 @@
     "points": 27,
     "comment_count": 5,
     "hn_item": {
-      "by": "muterad_murilax",
-      "descendants": 1,
-      "id": 30152833,
-      "kids": [
-        30155264
-      ],
-      "score": 11,
-      "time": 1643656955,
-      "title": "AOSC OS/Retro: A Linux Distro for 486 and PPC Macs",
+      "by": "fernandopj",
+      "descendants": 0,
+      "id": 30154328,
+      "kids": null,
+      "score": 4,
+      "time": 1643663097,
+      "title": "Termo – Portuguese Wordle",
       "type": "story",
-      "url": "https://lunduke.substack.com/p/aosc-osretro-a-linux-distro-for-486"
+      "url": "https://term.ooo"
     },
     "og_item": {
       "title": "Tommie Woodward's Internet-Famous Last Words",
@@ -1629,17 +1610,15 @@
     "points": 131,
     "comment_count": 96,
     "hn_item": {
-      "by": "muterad_murilax",
-      "descendants": 1,
-      "id": 30152833,
-      "kids": [
-        30155264
-      ],
-      "score": 11,
-      "time": 1643656955,
-      "title": "AOSC OS/Retro: A Linux Distro for 486 and PPC Macs",
+      "by": "fernandopj",
+      "descendants": 0,
+      "id": 30154328,
+      "kids": null,
+      "score": 4,
+      "time": 1643663097,
+      "title": "Termo – Portuguese Wordle",
       "type": "story",
-      "url": "https://lunduke.substack.com/p/aosc-osretro-a-linux-distro-for-486"
+      "url": "https://term.ooo"
     },
     "og_item": {
       "title": "Gains I’m seeing from my second brain tool",
@@ -1659,6 +1638,55 @@
     }
   },
   {
+    "id": 30152714,
+    "title": "HVM: A Parallel Functional Runtime",
+    "url": "https://github.com/Kindelia/HVM",
+    "time": 1643656542,
+    "image": "https://opengraph.githubassets.com/5c61a37ef79ded04e9b1d4c6c2f30bd41f258a321047743b3c44985aa2767c01/Kindelia/HVM",
+    "icon": "https://github.githubassets.com/favicons/favicon.svg",
+    "publisher": "GitHub",
+    "description": "A massively parallel, optimal functional runtime in Rust - GitHub - Kindelia/HVM: A massively parallel, optimal functional runtime in Rust",
+    "by": "LightMachine",
+    "points": 36,
+    "comment_count": 4,
+    "hn_item": {
+      "by": "fernandopj",
+      "descendants": 0,
+      "id": 30154328,
+      "kids": null,
+      "score": 4,
+      "time": 1643663097,
+      "title": "Termo – Portuguese Wordle",
+      "type": "story",
+      "url": "https://term.ooo"
+    },
+    "og_item": {
+      "title": "GitHub - Kindelia/HVM: A massively parallel, optimal functional runtime in Rust",
+      "type": "object",
+      "image": [
+        {
+          "url": "https://opengraph.githubassets.com/5c61a37ef79ded04e9b1d4c6c2f30bd41f258a321047743b3c44985aa2767c01/Kindelia/HVM",
+          "secure_url": "",
+          "type": "",
+          "width": 1200,
+          "height": 600,
+          "alt": ""
+        }
+      ],
+      "url": "https://github.com/Kindelia/HVM",
+      "audio": [],
+      "description": "A massively parallel, optimal functional runtime in Rust - GitHub - Kindelia/HVM: A massively parallel, optimal functional runtime in Rust",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "GitHub",
+      "video": [],
+      "favicon": {
+        "url": "https://github.githubassets.com/favicons/favicon.svg"
+      }
+    }
+  },
+  {
     "id": 30136479,
     "title": "Socrates on the blessing of being refuted",
     "url": "https://antigonejournal.com/2022/01/socrates-being-refuted/",
@@ -1671,17 +1699,15 @@
     "points": 123,
     "comment_count": 60,
     "hn_item": {
-      "by": "muterad_murilax",
-      "descendants": 1,
-      "id": 30152833,
-      "kids": [
-        30155264
-      ],
-      "score": 11,
-      "time": 1643656955,
-      "title": "AOSC OS/Retro: A Linux Distro for 486 and PPC Macs",
+      "by": "fernandopj",
+      "descendants": 0,
+      "id": 30154328,
+      "kids": null,
+      "score": 4,
+      "time": 1643663097,
+      "title": "Termo – Portuguese Wordle",
       "type": "story",
-      "url": "https://lunduke.substack.com/p/aosc-osretro-a-linux-distro-for-486"
+      "url": "https://term.ooo"
     },
     "og_item": {
       "title": "Socrates on the Blessing of Being Refuted - Antigone",
@@ -1710,141 +1736,6 @@
     }
   },
   {
-    "id": 30151021,
-    "title": "YouTube ranks “wholesome and funny” comments higher?",
-    "url": "https://twitter.com/patrickc/status/1487982804784726018",
-    "time": 1643650806,
-    "image": "",
-    "icon": "https://abs.twimg.com/favicons/twitter.2.ico",
-    "publisher": "Twitter",
-    "description": "",
-    "by": "ipsum2",
-    "points": 105,
-    "comment_count": 137,
-    "hn_item": {
-      "by": "muterad_murilax",
-      "descendants": 1,
-      "id": 30152833,
-      "kids": [
-        30155264
-      ],
-      "score": 11,
-      "time": 1643656955,
-      "title": "AOSC OS/Retro: A Linux Distro for 486 and PPC Macs",
-      "type": "story",
-      "url": "https://lunduke.substack.com/p/aosc-osretro-a-linux-distro-for-486"
-    },
-    "og_item": {
-      "title": "",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Twitter",
-      "video": [],
-      "favicon": {
-        "url": "//abs.twimg.com/favicons/twitter.2.ico"
-      }
-    }
-  },
-  {
-    "id": 30152714,
-    "title": "HVM: A Parallel Functional Runtime",
-    "url": "https://github.com/Kindelia/HVM",
-    "time": 1643656542,
-    "image": "https://opengraph.githubassets.com/0e13d15ef9a355146aac84f0b8055446b85aacdf22b5f03569fe176e2c9de7b3/Kindelia/HVM",
-    "icon": "https://github.githubassets.com/favicons/favicon.svg",
-    "publisher": "GitHub",
-    "description": "A massively parallel, optimal functional runtime in Rust - GitHub - Kindelia/HVM: A massively parallel, optimal functional runtime in Rust",
-    "by": "LightMachine",
-    "points": 34,
-    "comment_count": 4,
-    "hn_item": {
-      "by": "muterad_murilax",
-      "descendants": 1,
-      "id": 30152833,
-      "kids": [
-        30155264
-      ],
-      "score": 11,
-      "time": 1643656955,
-      "title": "AOSC OS/Retro: A Linux Distro for 486 and PPC Macs",
-      "type": "story",
-      "url": "https://lunduke.substack.com/p/aosc-osretro-a-linux-distro-for-486"
-    },
-    "og_item": {
-      "title": "GitHub - Kindelia/HVM: A massively parallel, optimal functional runtime in Rust",
-      "type": "object",
-      "image": [
-        {
-          "url": "https://opengraph.githubassets.com/0e13d15ef9a355146aac84f0b8055446b85aacdf22b5f03569fe176e2c9de7b3/Kindelia/HVM",
-          "secure_url": "",
-          "type": "",
-          "width": 1200,
-          "height": 600,
-          "alt": ""
-        }
-      ],
-      "url": "https://github.com/Kindelia/HVM",
-      "audio": [],
-      "description": "A massively parallel, optimal functional runtime in Rust - GitHub - Kindelia/HVM: A massively parallel, optimal functional runtime in Rust",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "GitHub",
-      "video": [],
-      "favicon": {
-        "url": "https://github.githubassets.com/favicons/favicon.svg"
-      }
-    }
-  },
-  {
-    "id": 30146052,
-    "title": "The Awk state machine parser pattern (2018)",
-    "url": "https://two-wrongs.com/awk-state-machine-parser-pattern.html",
-    "time": 1643620307,
-    "image": "",
-    "icon": "https://two-wrongs.com/favicon.ico",
-    "publisher": "two-wrongs.com",
-    "description": "",
-    "by": "Tomte",
-    "points": 158,
-    "comment_count": 26,
-    "hn_item": {
-      "by": "muterad_murilax",
-      "descendants": 1,
-      "id": 30152833,
-      "kids": [
-        30155264
-      ],
-      "score": 11,
-      "time": 1643656955,
-      "title": "AOSC OS/Retro: A Linux Distro for 486 and PPC Macs",
-      "type": "story",
-      "url": "https://lunduke.substack.com/p/aosc-osretro-a-linux-distro-for-486"
-    },
-    "og_item": {
-      "title": "The AWK State Machine Parser Pattern",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30154442,
     "title": "Writing Better Release Notes",
     "url": "https://simonwillison.net/2022/Jan/31/release-notes/",
@@ -1854,20 +1745,18 @@
     "publisher": "simonwillison.net",
     "description": "Release notes are an important part of the open source process. I’ve been thinking about these a lot recently, and I’ve assembled some thoughts on how to do a better …",
     "by": "BerislavLopac",
-    "points": 9,
-    "comment_count": 0,
+    "points": 10,
+    "comment_count": 1,
     "hn_item": {
-      "by": "muterad_murilax",
-      "descendants": 1,
-      "id": 30152833,
-      "kids": [
-        30155264
-      ],
-      "score": 11,
-      "time": 1643656955,
-      "title": "AOSC OS/Retro: A Linux Distro for 486 and PPC Macs",
+      "by": "fernandopj",
+      "descendants": 0,
+      "id": 30154328,
+      "kids": null,
+      "score": 4,
+      "time": 1643663097,
+      "title": "Termo – Portuguese Wordle",
       "type": "story",
-      "url": "https://lunduke.substack.com/p/aosc-osretro-a-linux-distro-for-486"
+      "url": "https://term.ooo"
     },
     "og_item": {
       "title": "Writing better release notes",
@@ -1896,32 +1785,30 @@
     }
   },
   {
-    "id": 30156185,
-    "title": "NLnet Funded Projects",
-    "url": "https://nlnet.nl/project/",
-    "time": 1643670896,
+    "id": 30151021,
+    "title": "YouTube ranks “wholesome and funny” comments higher?",
+    "url": "https://twitter.com/patrickc/status/1487982804784726018",
+    "time": 1643650806,
     "image": "",
-    "icon": "https://nlnet.nl/favicon3.ico",
-    "publisher": "nlnet.nl",
+    "icon": "https://abs.twimg.com/favicons/twitter.2.ico",
+    "publisher": "Twitter",
     "description": "",
-    "by": "1vuio0pswjnm7",
-    "points": 3,
-    "comment_count": 1,
+    "by": "ipsum2",
+    "points": 105,
+    "comment_count": 137,
     "hn_item": {
-      "by": "muterad_murilax",
-      "descendants": 1,
-      "id": 30152833,
-      "kids": [
-        30155264
-      ],
-      "score": 11,
-      "time": 1643656955,
-      "title": "AOSC OS/Retro: A Linux Distro for 486 and PPC Macs",
+      "by": "fernandopj",
+      "descendants": 0,
+      "id": 30154328,
+      "kids": null,
+      "score": 4,
+      "time": 1643663097,
+      "title": "Termo – Portuguese Wordle",
       "type": "story",
-      "url": "https://lunduke.substack.com/p/aosc-osretro-a-linux-distro-for-486"
+      "url": "https://term.ooo"
     },
     "og_item": {
-      "title": "NLnet; All projects",
+      "title": "",
       "type": "",
       "image": [],
       "url": "",
@@ -1930,10 +1817,10 @@
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "",
+      "site_name": "Twitter",
       "video": [],
       "favicon": {
-        "url": "/favicon3.ico"
+        "url": "//abs.twimg.com/favicons/twitter.2.ico"
       }
     }
   },
@@ -1947,20 +1834,18 @@
     "publisher": "TechCrunch",
     "description": "Today’s cars are dumb where they should be smart, and smart where they should be dumb. Enough already. Make a car that’s pretty much all dumb and watch it sell — because what automakers are giving people is so bad, they’ll pay more to have less of it. Cars now are like budget smar…",
     "by": "wrycoder",
-    "points": 472,
-    "comment_count": 559,
+    "points": 474,
+    "comment_count": 561,
     "hn_item": {
-      "by": "muterad_murilax",
-      "descendants": 1,
-      "id": 30152833,
-      "kids": [
-        30155264
-      ],
-      "score": 11,
-      "time": 1643656955,
-      "title": "AOSC OS/Retro: A Linux Distro for 486 and PPC Macs",
+      "by": "fernandopj",
+      "descendants": 0,
+      "id": 30154328,
+      "kids": null,
+      "score": 4,
+      "time": 1643663097,
+      "title": "Termo – Portuguese Wordle",
       "type": "story",
-      "url": "https://lunduke.substack.com/p/aosc-osretro-a-linux-distro-for-486"
+      "url": "https://term.ooo"
     },
     "og_item": {
       "title": "Please make a dumb car – TechCrunch",
@@ -1998,20 +1883,18 @@
     "publisher": "UMass Chan Medical School",
     "description": "UMass Chan Medical School researchers are embarking on a clinical trial of an mRNA vaccine by Moderna against the Epstein-Barr virus (EBV), a common cause of infectious mononucleosis. Katherine Luzuriaga, MD, is principal investigator for the study at UMass Chan.",
     "by": "drewcon",
-    "points": 21,
+    "points": 22,
     "comment_count": 3,
     "hn_item": {
-      "by": "muterad_murilax",
-      "descendants": 1,
-      "id": 30152833,
-      "kids": [
-        30155264
-      ],
-      "score": 11,
-      "time": 1643656955,
-      "title": "AOSC OS/Retro: A Linux Distro for 486 and PPC Macs",
+      "by": "fernandopj",
+      "descendants": 0,
+      "id": 30154328,
+      "kids": null,
+      "score": 4,
+      "time": 1643663097,
+      "title": "Termo – Portuguese Wordle",
       "type": "story",
-      "url": "https://lunduke.substack.com/p/aosc-osretro-a-linux-distro-for-486"
+      "url": "https://term.ooo"
     },
     "og_item": {
       "title": "Phase I clinical trial of Moderna mRNA vaccine for Epstein-Barr virus starting at UMass Chan",
@@ -2052,17 +1935,15 @@
     "points": 152,
     "comment_count": 97,
     "hn_item": {
-      "by": "muterad_murilax",
-      "descendants": 1,
-      "id": 30152833,
-      "kids": [
-        30155264
-      ],
-      "score": 11,
-      "time": 1643656955,
-      "title": "AOSC OS/Retro: A Linux Distro for 486 and PPC Macs",
+      "by": "fernandopj",
+      "descendants": 0,
+      "id": 30154328,
+      "kids": null,
+      "score": 4,
+      "time": 1643663097,
+      "title": "Termo – Portuguese Wordle",
       "type": "story",
-      "url": "https://lunduke.substack.com/p/aosc-osretro-a-linux-distro-for-486"
+      "url": "https://term.ooo"
     },
     "og_item": {
       "title": "The Boring Technology Checklist - Begin",
@@ -2082,6 +1963,46 @@
     }
   },
   {
+    "id": 30156185,
+    "title": "NLnet Funded Projects",
+    "url": "https://nlnet.nl/project/",
+    "time": 1643670896,
+    "image": "",
+    "icon": "https://nlnet.nl/favicon3.ico",
+    "publisher": "nlnet.nl",
+    "description": "",
+    "by": "1vuio0pswjnm7",
+    "points": 3,
+    "comment_count": 1,
+    "hn_item": {
+      "by": "fernandopj",
+      "descendants": 0,
+      "id": 30154328,
+      "kids": null,
+      "score": 4,
+      "time": 1643663097,
+      "title": "Termo – Portuguese Wordle",
+      "type": "story",
+      "url": "https://term.ooo"
+    },
+    "og_item": {
+      "title": "NLnet; All projects",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon3.ico"
+      }
+    }
+  },
+  {
     "id": 30149099,
     "title": "Google critiqued the practice of displaying ads above search results",
     "url": "https://twitter.com/krebs_adrian/status/1488173888068542466",
@@ -2094,17 +2015,15 @@
     "points": 296,
     "comment_count": 139,
     "hn_item": {
-      "by": "muterad_murilax",
-      "descendants": 1,
-      "id": 30152833,
-      "kids": [
-        30155264
-      ],
-      "score": 11,
-      "time": 1643656955,
-      "title": "AOSC OS/Retro: A Linux Distro for 486 and PPC Macs",
+      "by": "fernandopj",
+      "descendants": 0,
+      "id": 30154328,
+      "kids": null,
+      "score": 4,
+      "time": 1643663097,
+      "title": "Termo – Portuguese Wordle",
       "type": "story",
-      "url": "https://lunduke.substack.com/p/aosc-osretro-a-linux-distro-for-486"
+      "url": "https://term.ooo"
     },
     "og_item": {
       "title": "",
@@ -2124,57 +2043,6 @@
     }
   },
   {
-    "id": 30154070,
-    "title": "Realtime Inequality",
-    "url": "https://realtimeinequality.org/",
-    "time": 1643662001,
-    "image": "https://realtimeinequality.org/rti-twitter.jpg",
-    "icon": "https://realtimeinequality.org/favicon.ico",
-    "publisher": "realtimeinequality.org",
-    "description": "Visualizing income and wealth inequality in the U.S. in real time.",
-    "by": "jbegley",
-    "points": 11,
-    "comment_count": 1,
-    "hn_item": {
-      "by": "muterad_murilax",
-      "descendants": 1,
-      "id": 30152833,
-      "kids": [
-        30155264
-      ],
-      "score": 11,
-      "time": 1643656955,
-      "title": "AOSC OS/Retro: A Linux Distro for 486 and PPC Macs",
-      "type": "story",
-      "url": "https://lunduke.substack.com/p/aosc-osretro-a-linux-distro-for-486"
-    },
-    "og_item": {
-      "title": "Realtime Inequality",
-      "type": "website",
-      "image": [
-        {
-          "url": "https://realtimeinequality.org/rti-twitter.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "",
-      "audio": [],
-      "description": "Visualizing income and wealth inequality in the U.S. in real time.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30146843,
     "title": "1k-cycle lithium-sulfur battery could increase electric vehicle ranges",
     "url": "https://news.umich.edu/1000-cycle-lithium-sulfur-battery-could-quintuple-electric-vehicle-ranges/",
@@ -2185,19 +2053,17 @@
     "description": "A new biologically inspired battery membrane has enabled a battery with five times the capacity of the industry-standard lithium ion design to run for the thousand-plus cycles needed to power an electric car.\n\nA network of aramid nanofibers, recycled from Kevlar, can enable lithium-sulfur batterie",
     "by": "maeln",
     "points": 74,
-    "comment_count": 167,
+    "comment_count": 168,
     "hn_item": {
-      "by": "muterad_murilax",
-      "descendants": 1,
-      "id": 30152833,
-      "kids": [
-        30155264
-      ],
-      "score": 11,
-      "time": 1643656955,
-      "title": "AOSC OS/Retro: A Linux Distro for 486 and PPC Macs",
+      "by": "fernandopj",
+      "descendants": 0,
+      "id": 30154328,
+      "kids": null,
+      "score": 4,
+      "time": 1643663097,
+      "title": "Termo – Portuguese Wordle",
       "type": "story",
-      "url": "https://lunduke.substack.com/p/aosc-osretro-a-linux-distro-for-486"
+      "url": "https://term.ooo"
     },
     "og_item": {
       "title": "1,000-cycle lithium-sulfur battery could quintuple electric vehicle ranges",
@@ -2226,6 +2092,202 @@
     }
   },
   {
+    "id": 30154070,
+    "title": "Realtime Inequality",
+    "url": "https://realtimeinequality.org/",
+    "time": 1643662001,
+    "image": "https://realtimeinequality.org/rti-twitter.jpg",
+    "icon": "https://realtimeinequality.org/favicon.ico",
+    "publisher": "realtimeinequality.org",
+    "description": "Visualizing income and wealth inequality in the U.S. in real time.",
+    "by": "jbegley",
+    "points": 11,
+    "comment_count": 1,
+    "hn_item": {
+      "by": "fernandopj",
+      "descendants": 0,
+      "id": 30154328,
+      "kids": null,
+      "score": 4,
+      "time": 1643663097,
+      "title": "Termo – Portuguese Wordle",
+      "type": "story",
+      "url": "https://term.ooo"
+    },
+    "og_item": {
+      "title": "Realtime Inequality",
+      "type": "website",
+      "image": [
+        {
+          "url": "https://realtimeinequality.org/rti-twitter.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "",
+      "audio": [],
+      "description": "Visualizing income and wealth inequality in the U.S. in real time.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30153326,
+    "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
+    "url": "https://ar5iv.org/",
+    "time": 1643658897,
+    "image": "https://ar5iv.org/assets/ar5iv_card.png",
+    "icon": "https://ar5iv.org/favicon.ico",
+    "publisher": "ar5iv",
+    "description": "ar5iv offers a modern web view for arXiv's preprints. An open community resource, on a quest to a full collection of high-quality documents.",
+    "by": "rg111",
+    "points": 15,
+    "comment_count": 1,
+    "hn_item": {
+      "by": "fernandopj",
+      "descendants": 0,
+      "id": 30154328,
+      "kids": null,
+      "score": 4,
+      "time": 1643663097,
+      "title": "Termo – Portuguese Wordle",
+      "type": "story",
+      "url": "https://term.ooo"
+    },
+    "og_item": {
+      "title": "ar5iv – Articles from arXiv.org as responsive HTML5 web documents",
+      "type": "",
+      "image": [
+        {
+          "url": "https://ar5iv.org/assets/ar5iv_card.png",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://ar5iv.org",
+      "audio": [],
+      "description": "ar5iv offers a modern web view for arXiv's preprints. An open community resource, on a quest to a full collection of high-quality documents.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "ar5iv",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30147213,
+    "title": "Textual for Windows (Python package for TUIs)",
+    "url": "https://www.willmcgugan.com/blog/tech/post/textual-for-windows/",
+    "time": 1643632067,
+    "image": "https://media.moyaproject.com/willmcgugan/uploads/thumbnails/techblog/9f8c0466-8285-11ec-97a9-f23c91845b44.png/9f8c0466-8285-11ec-97a9-f23c91845b44png.og.preview.2.jpeg",
+    "icon": "https://www.willmcgugan.com/favicon.ico",
+    "publisher": "Will McGugan Tech",
+    "description": "Textual adds Windows support I've just released v0.1.15 of Textual, with Windows support. The Windows support is somewhat experimental, but so far seems solid. You will get best results on the new Windows Terminal. On the classic command prompt you might find a reduced color palette. This works o…",
+    "by": "RojerGS",
+    "points": 70,
+    "comment_count": 10,
+    "hn_item": {
+      "by": "fernandopj",
+      "descendants": 0,
+      "id": 30154328,
+      "kids": null,
+      "score": 4,
+      "time": 1643663097,
+      "title": "Termo – Portuguese Wordle",
+      "type": "story",
+      "url": "https://term.ooo"
+    },
+    "og_item": {
+      "title": "Textual for Windows",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://media.moyaproject.com/willmcgugan/uploads/thumbnails/techblog/9f8c0466-8285-11ec-97a9-f23c91845b44.png/9f8c0466-8285-11ec-97a9-f23c91845b44png.og.preview.2.jpeg",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://www.willmcgugan.com/blog/tech/post/textual-for-windows/",
+      "audio": [],
+      "description": "Textual adds Windows support I've just released v0.1.15 of Textual, with Windows support. The Windows support is somewhat experimental, but so far seems solid. You will get best results on the new Windows Terminal. On the classic command prompt you might find a reduced color palette. This works on […]",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Will McGugan Tech",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30147507,
+    "title": "VT100 Machine Emulator in JavaScript",
+    "url": "https://www.pcjs.org/machines/dec/vt100/",
+    "time": 1643634629,
+    "image": "https://www.pcjs.org/assets/img/logo-home.png",
+    "icon": "https://www.pcjs.org/assets/icons/favicon.ico",
+    "publisher": "pcjs.org",
+    "description": "Home of the original IBM PC emulator for browsers. PCjs offers a variety of online machine emulators written in JavaScript. Run DOS, Windows, OS/2 and other vintage PC applications in a web browser on your desktop computer, iPhone, or iPad. An assortment of microcomputers, minicomputers, terminal…",
+    "by": "DiabloD3",
+    "points": 72,
+    "comment_count": 28,
+    "hn_item": {
+      "by": "fernandopj",
+      "descendants": 0,
+      "id": 30154328,
+      "kids": null,
+      "score": 4,
+      "time": 1643663097,
+      "title": "Termo – Portuguese Wordle",
+      "type": "story",
+      "url": "https://term.ooo"
+    },
+    "og_item": {
+      "title": "DEC VT100 Terminal",
+      "type": "",
+      "image": [
+        {
+          "url": "https://www.pcjs.org/assets/img/logo-home.png",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "",
+      "audio": [],
+      "description": "Home of the original IBM PC emulator for browsers. PCjs offers a variety of online machine emulators written in JavaScript. Run DOS, Windows, OS/2 and other vintage PC applications in a web browser on your desktop computer, iPhone, or iPad. An assortment of microcomputers, minicomputers, terminals, programmable calculators, and arcade machines are available, along with an archive of historical software and documentation.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/assets/icons/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30147004,
     "title": "A Medieval Book That Opens Six Different Ways (2018)",
     "url": "https://www.openculture.com/2018/10/medieval-book-opens-six-different-ways-revealing-six-different-books-one.html",
@@ -2238,17 +2300,15 @@
     "points": 5,
     "comment_count": 0,
     "hn_item": {
-      "by": "muterad_murilax",
-      "descendants": 1,
-      "id": 30152833,
-      "kids": [
-        30155264
-      ],
-      "score": 11,
-      "time": 1643656955,
-      "title": "AOSC OS/Retro: A Linux Distro for 486 and PPC Macs",
+      "by": "fernandopj",
+      "descendants": 0,
+      "id": 30154328,
+      "kids": null,
+      "score": 4,
+      "time": 1643663097,
+      "title": "Termo – Portuguese Wordle",
       "type": "story",
-      "url": "https://lunduke.substack.com/p/aosc-osretro-a-linux-distro-for-486"
+      "url": "https://term.ooo"
     },
     "og_item": {
       "title": "A Medieval Book That Opens Six Different Ways, Revealing Six Different Books in One",
@@ -2289,17 +2349,15 @@
     "points": 6,
     "comment_count": 1,
     "hn_item": {
-      "by": "muterad_murilax",
-      "descendants": 1,
-      "id": 30152833,
-      "kids": [
-        30155264
-      ],
-      "score": 11,
-      "time": 1643656955,
-      "title": "AOSC OS/Retro: A Linux Distro for 486 and PPC Macs",
+      "by": "fernandopj",
+      "descendants": 0,
+      "id": 30154328,
+      "kids": null,
+      "score": 4,
+      "time": 1643663097,
+      "title": "Termo – Portuguese Wordle",
       "type": "story",
-      "url": "https://lunduke.substack.com/p/aosc-osretro-a-linux-distro-for-486"
+      "url": "https://term.ooo"
     },
     "og_item": {
       "title": "tonsillar_hypothesis",
@@ -2319,243 +2377,6 @@
     }
   },
   {
-    "id": 30147213,
-    "title": "Textual for Windows (Python package for TUIs)",
-    "url": "https://www.willmcgugan.com/blog/tech/post/textual-for-windows/",
-    "time": 1643632067,
-    "image": "https://media.moyaproject.com/willmcgugan/uploads/thumbnails/techblog/9f8c0466-8285-11ec-97a9-f23c91845b44.png/9f8c0466-8285-11ec-97a9-f23c91845b44png.og.preview.2.jpeg",
-    "icon": "https://www.willmcgugan.com/favicon.ico",
-    "publisher": "Will McGugan Tech",
-    "description": "Textual adds Windows support I've just released v0.1.15 of Textual, with Windows support. The Windows support is somewhat experimental, but so far seems solid. You will get best results on the new Windows Terminal. On the classic command prompt you might find a reduced color palette. This works o…",
-    "by": "RojerGS",
-    "points": 70,
-    "comment_count": 10,
-    "hn_item": {
-      "by": "muterad_murilax",
-      "descendants": 1,
-      "id": 30152833,
-      "kids": [
-        30155264
-      ],
-      "score": 11,
-      "time": 1643656955,
-      "title": "AOSC OS/Retro: A Linux Distro for 486 and PPC Macs",
-      "type": "story",
-      "url": "https://lunduke.substack.com/p/aosc-osretro-a-linux-distro-for-486"
-    },
-    "og_item": {
-      "title": "Textual for Windows",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://media.moyaproject.com/willmcgugan/uploads/thumbnails/techblog/9f8c0466-8285-11ec-97a9-f23c91845b44.png/9f8c0466-8285-11ec-97a9-f23c91845b44png.og.preview.2.jpeg",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://www.willmcgugan.com/blog/tech/post/textual-for-windows/",
-      "audio": [],
-      "description": "Textual adds Windows support I've just released v0.1.15 of Textual, with Windows support. The Windows support is somewhat experimental, but so far seems solid. You will get best results on the new Windows Terminal. On the classic command prompt you might find a reduced color palette. This works on […]",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Will McGugan Tech",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30153326,
-    "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
-    "url": "https://ar5iv.org/",
-    "time": 1643658897,
-    "image": "https://ar5iv.org/assets/ar5iv_card.png",
-    "icon": "https://ar5iv.org/favicon.ico",
-    "publisher": "ar5iv",
-    "description": "ar5iv offers a modern web view for arXiv's preprints. An open community resource, on a quest to a full collection of high-quality documents.",
-    "by": "rg111",
-    "points": 13,
-    "comment_count": 1,
-    "hn_item": {
-      "by": "muterad_murilax",
-      "descendants": 1,
-      "id": 30152833,
-      "kids": [
-        30155264
-      ],
-      "score": 11,
-      "time": 1643656955,
-      "title": "AOSC OS/Retro: A Linux Distro for 486 and PPC Macs",
-      "type": "story",
-      "url": "https://lunduke.substack.com/p/aosc-osretro-a-linux-distro-for-486"
-    },
-    "og_item": {
-      "title": "ar5iv – Articles from arXiv.org as responsive HTML5 web documents",
-      "type": "",
-      "image": [
-        {
-          "url": "https://ar5iv.org/assets/ar5iv_card.png",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://ar5iv.org",
-      "audio": [],
-      "description": "ar5iv offers a modern web view for arXiv's preprints. An open community resource, on a quest to a full collection of high-quality documents.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "ar5iv",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30156564,
-    "title": "LTT's “AdBlockers are piracy” is a tone deaf remark",
-    "url": "https://news.ycombinator.com/item?id=30156564",
-    "time": 1643672930,
-    "image": "",
-    "icon": "https://news.ycombinator.com/favicon.ico",
-    "publisher": "Hacker News",
-    "description": "",
-    "by": "movedx",
-    "points": 9,
-    "comment_count": 4,
-    "hn_item": {
-      "by": "muterad_murilax",
-      "descendants": 1,
-      "id": 30152833,
-      "kids": [
-        30155264
-      ],
-      "score": 11,
-      "time": 1643656955,
-      "title": "AOSC OS/Retro: A Linux Distro for 486 and PPC Macs",
-      "type": "story",
-      "url": "https://lunduke.substack.com/p/aosc-osretro-a-linux-distro-for-486"
-    },
-    "og_item": {
-      "title": "LTT's “AdBlockers are piracy” is a tone deaf remark | Hacker News",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30147507,
-    "title": "VT100 Machine Emulator in JavaScript",
-    "url": "https://www.pcjs.org/machines/dec/vt100/",
-    "time": 1643634629,
-    "image": "https://www.pcjs.org/assets/img/logo-home.png",
-    "icon": "https://www.pcjs.org/assets/icons/favicon.ico",
-    "publisher": "pcjs.org",
-    "description": "Home of the original IBM PC emulator for browsers. PCjs offers a variety of online machine emulators written in JavaScript. Run DOS, Windows, OS/2 and other vintage PC applications in a web browser on your desktop computer, iPhone, or iPad. An assortment of microcomputers, minicomputers, terminal…",
-    "by": "DiabloD3",
-    "points": 72,
-    "comment_count": 28,
-    "hn_item": {
-      "by": "muterad_murilax",
-      "descendants": 1,
-      "id": 30152833,
-      "kids": [
-        30155264
-      ],
-      "score": 11,
-      "time": 1643656955,
-      "title": "AOSC OS/Retro: A Linux Distro for 486 and PPC Macs",
-      "type": "story",
-      "url": "https://lunduke.substack.com/p/aosc-osretro-a-linux-distro-for-486"
-    },
-    "og_item": {
-      "title": "DEC VT100 Terminal",
-      "type": "",
-      "image": [
-        {
-          "url": "https://www.pcjs.org/assets/img/logo-home.png",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "",
-      "audio": [],
-      "description": "Home of the original IBM PC emulator for browsers. PCjs offers a variety of online machine emulators written in JavaScript. Run DOS, Windows, OS/2 and other vintage PC applications in a web browser on your desktop computer, iPhone, or iPad. An assortment of microcomputers, minicomputers, terminals, programmable calculators, and arcade machines are available, along with an archive of historical software and documentation.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/assets/icons/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30153624,
-    "title": "DockerHub Active Incident",
-    "url": "https://status.docker.com/pages/history/533c6539221ae15e3f000031",
-    "time": 1643660098,
-    "image": "",
-    "icon": "https://image.status.io/PYCmnvEWUfEF.ico",
-    "publisher": "status.docker.com",
-    "description": "Current system status. View active incidents or upcoming maintenances. Subscribe to receive status notifications.",
-    "by": "mkl95",
-    "points": 10,
-    "comment_count": 3,
-    "hn_item": {
-      "by": "muterad_murilax",
-      "descendants": 1,
-      "id": 30152833,
-      "kids": [
-        30155264
-      ],
-      "score": 11,
-      "time": 1643656955,
-      "title": "AOSC OS/Retro: A Linux Distro for 486 and PPC Macs",
-      "type": "story",
-      "url": "https://lunduke.substack.com/p/aosc-osretro-a-linux-distro-for-486"
-    },
-    "og_item": {
-      "title": "Docker system status real-time view",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "Current system status. View active incidents or upcoming maintenances. Subscribe to receive status notifications.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "//image.status.io/PYCmnvEWUfEF.ico"
-      }
-    }
-  },
-  {
     "id": 30150995,
     "title": "Show HN: Practical Python Projects book now free to read online",
     "url": "https://practicalpython.yasoob.me/toc.html",
@@ -2568,17 +2389,15 @@
     "points": 18,
     "comment_count": 3,
     "hn_item": {
-      "by": "muterad_murilax",
-      "descendants": 1,
-      "id": 30152833,
-      "kids": [
-        30155264
-      ],
-      "score": 11,
-      "time": 1643656955,
-      "title": "AOSC OS/Retro: A Linux Distro for 486 and PPC Macs",
+      "by": "fernandopj",
+      "descendants": 0,
+      "id": 30154328,
+      "kids": null,
+      "score": 4,
+      "time": 1643663097,
+      "title": "Termo – Portuguese Wordle",
       "type": "story",
-      "url": "https://lunduke.substack.com/p/aosc-osretro-a-linux-distro-for-486"
+      "url": "https://term.ooo"
     },
     "og_item": {
       "title": "Table of Contents - Practical Python Projects",
@@ -2598,6 +2417,86 @@
     }
   },
   {
+    "id": 30153624,
+    "title": "DockerHub Active Incident",
+    "url": "https://status.docker.com/pages/history/533c6539221ae15e3f000031",
+    "time": 1643660098,
+    "image": "",
+    "icon": "https://image.status.io/PYCmnvEWUfEF.ico",
+    "publisher": "status.docker.com",
+    "description": "Current system status. View active incidents or upcoming maintenances. Subscribe to receive status notifications.",
+    "by": "mkl95",
+    "points": 10,
+    "comment_count": 3,
+    "hn_item": {
+      "by": "fernandopj",
+      "descendants": 0,
+      "id": 30154328,
+      "kids": null,
+      "score": 4,
+      "time": 1643663097,
+      "title": "Termo – Portuguese Wordle",
+      "type": "story",
+      "url": "https://term.ooo"
+    },
+    "og_item": {
+      "title": "Docker system status real-time view",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "Current system status. View active incidents or upcoming maintenances. Subscribe to receive status notifications.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "//image.status.io/PYCmnvEWUfEF.ico"
+      }
+    }
+  },
+  {
+    "id": 30156564,
+    "title": "LTT's “AdBlockers are piracy” is a tone deaf remark",
+    "url": "https://news.ycombinator.com/item?id=30156564",
+    "time": 1643672930,
+    "image": "",
+    "icon": "https://news.ycombinator.com/favicon.ico",
+    "publisher": "Hacker News",
+    "description": "",
+    "by": "movedx",
+    "points": 9,
+    "comment_count": 4,
+    "hn_item": {
+      "by": "fernandopj",
+      "descendants": 0,
+      "id": 30154328,
+      "kids": null,
+      "score": 4,
+      "time": 1643663097,
+      "title": "Termo – Portuguese Wordle",
+      "type": "story",
+      "url": "https://term.ooo"
+    },
+    "og_item": {
+      "title": "LTT's “AdBlockers are piracy” is a tone deaf remark | Hacker News",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30147755,
     "title": "Polar bears move into abandoned Arctic weather station",
     "url": "https://www.theguardian.com/world/2022/jan/31/polar-bears-move-into-abandoned-arctic-weather-station-photo-essay",
@@ -2607,20 +2506,18 @@
     "publisher": "the Guardian",
     "description": "Photographer Dmitry Kokh discovered polar bears living in an abandoned weather station in Kolyuchin in the Chukotka Autonomous Okrug of Russia",
     "by": "sofixa",
-    "points": 197,
-    "comment_count": 46,
+    "points": 198,
+    "comment_count": 47,
     "hn_item": {
-      "by": "muterad_murilax",
-      "descendants": 1,
-      "id": 30152833,
-      "kids": [
-        30155264
-      ],
-      "score": 11,
-      "time": 1643656955,
-      "title": "AOSC OS/Retro: A Linux Distro for 486 and PPC Macs",
+      "by": "fernandopj",
+      "descendants": 0,
+      "id": 30154328,
+      "kids": null,
+      "score": 4,
+      "time": 1643663097,
+      "title": "Termo – Portuguese Wordle",
       "type": "story",
-      "url": "https://lunduke.substack.com/p/aosc-osretro-a-linux-distro-for-486"
+      "url": "https://term.ooo"
     },
     "og_item": {
       "title": "Polar bears move into abandoned Arctic weather station – photo essay",
@@ -2653,32 +2550,30 @@
     "title": "Boyfriend-alert – A light based alert system",
     "url": "https://github.com/jscd/Boyfriend-Alert",
     "time": 1643619852,
-    "image": "https://opengraph.githubassets.com/022ff423fd7793855f08c5d278a57831126e2eac859d95c7c33235b269dddd88/jscd/Boyfriend-Alert",
+    "image": "https://opengraph.githubassets.com/9669002f25a53a364e9f7a257e736972b2280b4870821035752e70a36e1f3752/jscd/Boyfriend-Alert",
     "icon": "https://github.githubassets.com/favicons/favicon.svg",
     "publisher": "GitHub",
     "description": "A light based alert system. Contribute to jscd/Boyfriend-Alert development by creating an account on GitHub.",
     "by": "rgun",
     "points": 225,
-    "comment_count": 168,
+    "comment_count": 169,
     "hn_item": {
-      "by": "muterad_murilax",
-      "descendants": 1,
-      "id": 30152833,
-      "kids": [
-        30155264
-      ],
-      "score": 11,
-      "time": 1643656955,
-      "title": "AOSC OS/Retro: A Linux Distro for 486 and PPC Macs",
+      "by": "fernandopj",
+      "descendants": 0,
+      "id": 30154328,
+      "kids": null,
+      "score": 4,
+      "time": 1643663097,
+      "title": "Termo – Portuguese Wordle",
       "type": "story",
-      "url": "https://lunduke.substack.com/p/aosc-osretro-a-linux-distro-for-486"
+      "url": "https://term.ooo"
     },
     "og_item": {
       "title": "GitHub - jscd/Boyfriend-Alert: A light based alert system",
       "type": "object",
       "image": [
         {
-          "url": "https://opengraph.githubassets.com/022ff423fd7793855f08c5d278a57831126e2eac859d95c7c33235b269dddd88/jscd/Boyfriend-Alert",
+          "url": "https://opengraph.githubassets.com/9669002f25a53a364e9f7a257e736972b2280b4870821035752e70a36e1f3752/jscd/Boyfriend-Alert",
           "secure_url": "",
           "type": "",
           "width": 1200,
@@ -2689,6 +2584,104 @@
       "url": "https://github.com/jscd/Boyfriend-Alert",
       "audio": [],
       "description": "A light based alert system. Contribute to jscd/Boyfriend-Alert development by creating an account on GitHub.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "GitHub",
+      "video": [],
+      "favicon": {
+        "url": "https://github.githubassets.com/favicons/favicon.svg"
+      }
+    }
+  },
+  {
+    "id": 30152168,
+    "title": "Sony Buys Bungie",
+    "url": "https://blog.playstation.com/2022/01/31/bungie-is-joining-playstation/",
+    "time": 1643654556,
+    "image": "https://blog.playstation.com/tachyon/2022/01/8f2d141dbfa9c1dd61befc2de0a92266b3e9a9d0.jpg",
+    "icon": "https://blog.playstation.com/tachyon/2019/03/cropped-pslogo.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD\u0026X-Amz-Security-Token=IQoJb3JpZ2luX2VjEAEaCXVzLWVhc3QtMSJIMEYCIQCcwRDpPpa5CmLHzCg1%2FCauOpOR94HXxSwHPDt2mh7a7wIhAKvl%2B8x8ggHuuVWb8i%2FRkmrVTd8d%2F1ofWh1j3384lTf9Kv0DCDkQABoMNTc3NDE4ODE4NDEzIgz7%2FqeFlQS8YsZdOVgq2gN7lTLEbCzySIUo%2FeFmO%2BNFM3YvDvmHBPmr32IcgdfddsL%2BuH3%2FJTrPdRhGUOfXqVXk6sTX4igiICRr3gfBpOJsUbIKQCPC1T4xSCtDY6eeq29cSsRpAAUVi7JiSjwF1izhULJrE0Ez2KC1ARxToLiPtscDuZrwCvcMQlxTHq3gbe8L2JtuKM%2FyaoQSPQGdXefZT5jszCz5uQkFNZizd4V90Usu7ewgKNIESA%2FbxItXSpcXMdkkH0we12%2FuDDHqzWryHUgvDKvrN7ZfTACPPsge1cLjjbQKqEhszfr48aD%2FID5hOYWcrrVGAfUFIVgbmtXsrq93MuLmmlC69J%2BfPP0twVttfwqmgygNGZ%2BLxLbCdscNs9gkMqMlET0p4AC7fpg4B22TqLKVmmt9ewgWne50tuAbkaKX8a%2FEzBsOc2WofJgyl4o226R%2Bc%2Fgktdeye0aj%2FPSRsVVcAa9DPCdO6vqnOw%2FnBKgN0i53aMYnNJSXlTUYCP27bSalKmM4S3lURG7L9Scoc%2BZVD%2Bzy60w0V4vrIVej%2FXwP5qwKyQsP4aUum5qZ4BDT5KUywje%2BHM9sXH6kpcOh2oKZgD9hERjConVRcYmo5VGUrfjvKIyCr0JZ2VEW3%2FI40nl99N0wrPLhjwY6pAFIqs6W%2FJIa%2FTisJ1xthi62SVQiTwKufxav4lqMv%2FqA%2F0PiVjcRvo2EDFIaq3VE5vN16fAda9KZ7QWmq5196ugqz6yjrSozONOQg2UTgHq8SYT6%2BFDt3TxKAtv2n%2BBsOAvfYZwVqDY%2BXgNj%2FK5SkSDKqF6E4ekNn5D4xYkq6lR0x6jWf7Tq9TRSP9lX3C2sPn2rYCQxUtHCPkwfiyeXH7In2TdQyQ%3D%3D\u0026X-Amz-Algorithm=AWS4-HMAC-SHA256\u0026X-Amz-Credential=ASIAYM4GX6NWUV2PP3XV%2F20220201%2Fus-east-1%2Fs3%2Faws4_request\u0026X-Amz-Date=20220201T004401Z\u0026X-Amz-SignedHeaders=host\u0026X-Amz-Expires=900\u0026X-Amz-Signature=6acf8613de9f649576afb8e987357ea35f6e8031f933d1aadb673d3dc8fe4604\u0026fit=192%2C192",
+    "publisher": "PlayStation.Blog",
+    "description": "Legendary developer to join PlayStation as independent, multi-platform studio and publisher.",
+    "by": "zdw",
+    "points": 13,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "fernandopj",
+      "descendants": 0,
+      "id": 30154328,
+      "kids": null,
+      "score": 4,
+      "time": 1643663097,
+      "title": "Termo – Portuguese Wordle",
+      "type": "story",
+      "url": "https://term.ooo"
+    },
+    "og_item": {
+      "title": "Bungie is Joining PlayStation",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://blog.playstation.com/tachyon/2022/01/8f2d141dbfa9c1dd61befc2de0a92266b3e9a9d0.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://blog.playstation.com/2022/01/31/bungie-is-joining-playstation/",
+      "audio": [],
+      "description": "Legendary developer to join PlayStation as independent, multi-platform studio and publisher.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "PlayStation.Blog",
+      "video": [],
+      "favicon": {
+        "url": "https://blog.playstation.com/tachyon/2019/03/cropped-pslogo.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD\u0026X-Amz-Security-Token=IQoJb3JpZ2luX2VjEAEaCXVzLWVhc3QtMSJIMEYCIQCcwRDpPpa5CmLHzCg1%2FCauOpOR94HXxSwHPDt2mh7a7wIhAKvl%2B8x8ggHuuVWb8i%2FRkmrVTd8d%2F1ofWh1j3384lTf9Kv0DCDkQABoMNTc3NDE4ODE4NDEzIgz7%2FqeFlQS8YsZdOVgq2gN7lTLEbCzySIUo%2FeFmO%2BNFM3YvDvmHBPmr32IcgdfddsL%2BuH3%2FJTrPdRhGUOfXqVXk6sTX4igiICRr3gfBpOJsUbIKQCPC1T4xSCtDY6eeq29cSsRpAAUVi7JiSjwF1izhULJrE0Ez2KC1ARxToLiPtscDuZrwCvcMQlxTHq3gbe8L2JtuKM%2FyaoQSPQGdXefZT5jszCz5uQkFNZizd4V90Usu7ewgKNIESA%2FbxItXSpcXMdkkH0we12%2FuDDHqzWryHUgvDKvrN7ZfTACPPsge1cLjjbQKqEhszfr48aD%2FID5hOYWcrrVGAfUFIVgbmtXsrq93MuLmmlC69J%2BfPP0twVttfwqmgygNGZ%2BLxLbCdscNs9gkMqMlET0p4AC7fpg4B22TqLKVmmt9ewgWne50tuAbkaKX8a%2FEzBsOc2WofJgyl4o226R%2Bc%2Fgktdeye0aj%2FPSRsVVcAa9DPCdO6vqnOw%2FnBKgN0i53aMYnNJSXlTUYCP27bSalKmM4S3lURG7L9Scoc%2BZVD%2Bzy60w0V4vrIVej%2FXwP5qwKyQsP4aUum5qZ4BDT5KUywje%2BHM9sXH6kpcOh2oKZgD9hERjConVRcYmo5VGUrfjvKIyCr0JZ2VEW3%2FI40nl99N0wrPLhjwY6pAFIqs6W%2FJIa%2FTisJ1xthi62SVQiTwKufxav4lqMv%2FqA%2F0PiVjcRvo2EDFIaq3VE5vN16fAda9KZ7QWmq5196ugqz6yjrSozONOQg2UTgHq8SYT6%2BFDt3TxKAtv2n%2BBsOAvfYZwVqDY%2BXgNj%2FK5SkSDKqF6E4ekNn5D4xYkq6lR0x6jWf7Tq9TRSP9lX3C2sPn2rYCQxUtHCPkwfiyeXH7In2TdQyQ%3D%3D\u0026X-Amz-Algorithm=AWS4-HMAC-SHA256\u0026X-Amz-Credential=ASIAYM4GX6NWUV2PP3XV%2F20220201%2Fus-east-1%2Fs3%2Faws4_request\u0026X-Amz-Date=20220201T004401Z\u0026X-Amz-SignedHeaders=host\u0026X-Amz-Expires=900\u0026X-Amz-Signature=6acf8613de9f649576afb8e987357ea35f6e8031f933d1aadb673d3dc8fe4604\u0026fit=192%2C192"
+      }
+    }
+  },
+  {
+    "id": 30156826,
+    "title": "Simple Inkscape Scripting 3.0",
+    "url": "https://github.com/spakin/SimpInkScr/releases/tag/v3.0.0",
+    "time": 1643674472,
+    "image": "https://opengraph.githubassets.com/88206475694768c24b43fabb6424a462299e6e3242e60a55e14d36e6faaab672/spakin/SimpInkScr/releases/tag/v3.0.0",
+    "icon": "https://github.githubassets.com/favicons/favicon.svg",
+    "publisher": "GitHub",
+    "description": "This is a long overdue, major release of Simple Inkscape Scripting.  It includes a large number of changes, a few of which are breaking changes and may require modifications to existing scripts.\n\n\n...",
+    "by": "app4soft",
+    "points": 3,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "fernandopj",
+      "descendants": 0,
+      "id": 30154328,
+      "kids": null,
+      "score": 4,
+      "time": 1643663097,
+      "title": "Termo – Portuguese Wordle",
+      "type": "story",
+      "url": "https://term.ooo"
+    },
+    "og_item": {
+      "title": "Release Simple Inkscape Scripting v3.0.0 · spakin/SimpInkScr",
+      "type": "object",
+      "image": [
+        {
+          "url": "https://opengraph.githubassets.com/88206475694768c24b43fabb6424a462299e6e3242e60a55e14d36e6faaab672/spakin/SimpInkScr/releases/tag/v3.0.0",
+          "secure_url": "",
+          "type": "",
+          "width": 1200,
+          "height": 600,
+          "alt": ""
+        }
+      ],
+      "url": "/spakin/SimpInkScr/releases/tag/v3.0.0",
+      "audio": [],
+      "description": "This is a long overdue, major release of Simple Inkscape Scripting.  It includes a large number of changes, a few of which are breaking changes and may require modifications to existing scripts.\n\n\n...",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
@@ -2712,17 +2705,15 @@
     "points": 33,
     "comment_count": 22,
     "hn_item": {
-      "by": "muterad_murilax",
-      "descendants": 1,
-      "id": 30152833,
-      "kids": [
-        30155264
-      ],
-      "score": 11,
-      "time": 1643656955,
-      "title": "AOSC OS/Retro: A Linux Distro for 486 and PPC Macs",
+      "by": "fernandopj",
+      "descendants": 0,
+      "id": 30154328,
+      "kids": null,
+      "score": 4,
+      "time": 1643663097,
+      "title": "Termo – Portuguese Wordle",
       "type": "story",
-      "url": "https://lunduke.substack.com/p/aosc-osretro-a-linux-distro-for-486"
+      "url": "https://term.ooo"
     },
     "og_item": {
       "title": "Wordle Español- Juego de adivinar una palabra por día",
@@ -2761,19 +2752,17 @@
     "description": "Find out if your site needs HTTPS.",
     "by": "WallyFunk",
     "points": 81,
-    "comment_count": 115,
+    "comment_count": 116,
     "hn_item": {
-      "by": "muterad_murilax",
-      "descendants": 1,
-      "id": 30152833,
-      "kids": [
-        30155264
-      ],
-      "score": 11,
-      "time": 1643656955,
-      "title": "AOSC OS/Retro: A Linux Distro for 486 and PPC Macs",
+      "by": "fernandopj",
+      "descendants": 0,
+      "id": 30154328,
+      "kids": null,
+      "score": 4,
+      "time": 1643663097,
+      "title": "Termo – Portuguese Wordle",
       "type": "story",
-      "url": "https://lunduke.substack.com/p/aosc-osretro-a-linux-distro-for-486"
+      "url": "https://term.ooo"
     },
     "og_item": {
       "title": "Does my site need HTTPS?",
@@ -2793,57 +2782,6 @@
     }
   },
   {
-    "id": 30152168,
-    "title": "Sony Buys Bungie",
-    "url": "https://blog.playstation.com/2022/01/31/bungie-is-joining-playstation/",
-    "time": 1643654556,
-    "image": "https://blog.playstation.com/tachyon/2022/01/8f2d141dbfa9c1dd61befc2de0a92266b3e9a9d0.jpg",
-    "icon": "https://blog.playstation.com/tachyon/2019/03/cropped-pslogo.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD\u0026X-Amz-Security-Token=IQoJb3JpZ2luX2VjEAEaCXVzLWVhc3QtMSJIMEYCIQCGImL5kAql1cN9AF32VQZPqkaSpc4xcxOUgO0Y%2FMtmyAIhAKrLLnAS67acyRI945SAdHNYgpmoc3a7lP2FebErF9tGKv0DCDkQABoMNTc3NDE4ODE4NDEzIgxo4%2Bc66HJz%2FMNhU%2BEq2gObgSuwBOHMPJFPpDvAev2qi9hp1lmF9X2F9wIyJkLrpVbob6Of9Yn%2BAKffMgRCbSd8KE%2BOui8HLKajCHdOTFs%2F81NIuTrfJBhydcjJ7f8dudpTLiPmmOzlWYFBMb3hMmWS%2BuMjyriDLK5FjCYoBz5R5n41Ay7SreJ4P99hKtkhoKJSMnN75zgqJ%2BwHPQdD2rhqsIdEgQHazsi8K8Q8Dg%2FtKrc%2FNzyb3PeY1qiLZs47sOp5%2FmJsVLpC4ucola46Paa8wuHr%2BP4HIOfh%2BUrMLLGG8014JZ%2BF%2FlpmVw2TNQHlHrcYd7Ez%2FJmvrBJoKog1bKrq46JVsSHgBFuih5sZ8Uy4sUjMH7Xhrahz0CDyPwQaHvUpzUf1Bl9EbQrymhpyu%2FcB3nL1k5PxnZNDUdqjNnRibaTa0JHygHaIWsLLuSTAcJKw9oVwGtVy2km6xYWJc5iDn0O1aZukbvunHktSglWtJ4qnjQyuZTG9MA45dzM526Lr7i%2FRXzDTNuzq9MrR4cb62AfVHPsNi89xSkPtd6LPMVnXgLxFWTMhVMNe7SPSo4hHnWLn%2B4LW6FB%2F48DthJzB4fjFIB%2FioXDgPEcve2QskyPWKhbG%2BV7vic5an3XAucFQR4u7omnyKhswhfbhjwY6pAEtycRSWIZc8H0G%2BIW1Xf2Cgu14bYLYV1GJ%2BJHUj5%2BLYlkI0eqEFgAEii73IrwSQKKWOmxFINnQNz%2BYwxV1y8HDmjQx2eLyTNQkYlQheS2qJg9GZFWL5i1YngXvzQpiYqkIZDnaGr10zlcDteNL2MnVALxFvEL%2FYPUMU5s7xj9ldIrmV7v4%2Boe4w1Weaazv35%2BYiLTIaUcWcJICPtgeVgsiDEGJVw%3D%3D\u0026X-Amz-Algorithm=AWS4-HMAC-SHA256\u0026X-Amz-Credential=ASIAYM4GX6NWXYY6RG5B%2F20220201%2Fus-east-1%2Fs3%2Faws4_request\u0026X-Amz-Date=20220201T003401Z\u0026X-Amz-SignedHeaders=host\u0026X-Amz-Expires=900\u0026X-Amz-Signature=ca2a6a78cb12ff4979179137e5dcf721ac93ad5ed743b89b2fff6f19b355919c\u0026fit=192%2C192",
-    "publisher": "PlayStation.Blog",
-    "description": "Legendary developer to join PlayStation as independent, multi-platform studio and publisher.",
-    "by": "zdw",
-    "points": 12,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "muterad_murilax",
-      "descendants": 1,
-      "id": 30152833,
-      "kids": [
-        30155264
-      ],
-      "score": 11,
-      "time": 1643656955,
-      "title": "AOSC OS/Retro: A Linux Distro for 486 and PPC Macs",
-      "type": "story",
-      "url": "https://lunduke.substack.com/p/aosc-osretro-a-linux-distro-for-486"
-    },
-    "og_item": {
-      "title": "Bungie is Joining PlayStation",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://blog.playstation.com/tachyon/2022/01/8f2d141dbfa9c1dd61befc2de0a92266b3e9a9d0.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://blog.playstation.com/2022/01/31/bungie-is-joining-playstation/",
-      "audio": [],
-      "description": "Legendary developer to join PlayStation as independent, multi-platform studio and publisher.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "PlayStation.Blog",
-      "video": [],
-      "favicon": {
-        "url": "https://blog.playstation.com/tachyon/2019/03/cropped-pslogo.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD\u0026X-Amz-Security-Token=IQoJb3JpZ2luX2VjEAEaCXVzLWVhc3QtMSJIMEYCIQCGImL5kAql1cN9AF32VQZPqkaSpc4xcxOUgO0Y%2FMtmyAIhAKrLLnAS67acyRI945SAdHNYgpmoc3a7lP2FebErF9tGKv0DCDkQABoMNTc3NDE4ODE4NDEzIgxo4%2Bc66HJz%2FMNhU%2BEq2gObgSuwBOHMPJFPpDvAev2qi9hp1lmF9X2F9wIyJkLrpVbob6Of9Yn%2BAKffMgRCbSd8KE%2BOui8HLKajCHdOTFs%2F81NIuTrfJBhydcjJ7f8dudpTLiPmmOzlWYFBMb3hMmWS%2BuMjyriDLK5FjCYoBz5R5n41Ay7SreJ4P99hKtkhoKJSMnN75zgqJ%2BwHPQdD2rhqsIdEgQHazsi8K8Q8Dg%2FtKrc%2FNzyb3PeY1qiLZs47sOp5%2FmJsVLpC4ucola46Paa8wuHr%2BP4HIOfh%2BUrMLLGG8014JZ%2BF%2FlpmVw2TNQHlHrcYd7Ez%2FJmvrBJoKog1bKrq46JVsSHgBFuih5sZ8Uy4sUjMH7Xhrahz0CDyPwQaHvUpzUf1Bl9EbQrymhpyu%2FcB3nL1k5PxnZNDUdqjNnRibaTa0JHygHaIWsLLuSTAcJKw9oVwGtVy2km6xYWJc5iDn0O1aZukbvunHktSglWtJ4qnjQyuZTG9MA45dzM526Lr7i%2FRXzDTNuzq9MrR4cb62AfVHPsNi89xSkPtd6LPMVnXgLxFWTMhVMNe7SPSo4hHnWLn%2B4LW6FB%2F48DthJzB4fjFIB%2FioXDgPEcve2QskyPWKhbG%2BV7vic5an3XAucFQR4u7omnyKhswhfbhjwY6pAEtycRSWIZc8H0G%2BIW1Xf2Cgu14bYLYV1GJ%2BJHUj5%2BLYlkI0eqEFgAEii73IrwSQKKWOmxFINnQNz%2BYwxV1y8HDmjQx2eLyTNQkYlQheS2qJg9GZFWL5i1YngXvzQpiYqkIZDnaGr10zlcDteNL2MnVALxFvEL%2FYPUMU5s7xj9ldIrmV7v4%2Boe4w1Weaazv35%2BYiLTIaUcWcJICPtgeVgsiDEGJVw%3D%3D\u0026X-Amz-Algorithm=AWS4-HMAC-SHA256\u0026X-Amz-Credential=ASIAYM4GX6NWXYY6RG5B%2F20220201%2Fus-east-1%2Fs3%2Faws4_request\u0026X-Amz-Date=20220201T003401Z\u0026X-Amz-SignedHeaders=host\u0026X-Amz-Expires=900\u0026X-Amz-Signature=ca2a6a78cb12ff4979179137e5dcf721ac93ad5ed743b89b2fff6f19b355919c\u0026fit=192%2C192"
-      }
-    }
-  },
-  {
     "id": 30151779,
     "title": "Sony is buying Bungie, the developer of Destiny and original creator of Halo",
     "url": "https://www.theverge.com/22910846/sony-bungie-acquisition-playstation-destiny-halo",
@@ -2853,20 +2791,18 @@
     "publisher": "The Verge",
     "description": "Another huge acquisition in the gaming industry",
     "by": "KoftaBob",
-    "points": 74,
+    "points": 75,
     "comment_count": 41,
     "hn_item": {
-      "by": "muterad_murilax",
-      "descendants": 1,
-      "id": 30152833,
-      "kids": [
-        30155264
-      ],
-      "score": 11,
-      "time": 1643656955,
-      "title": "AOSC OS/Retro: A Linux Distro for 486 and PPC Macs",
+      "by": "fernandopj",
+      "descendants": 0,
+      "id": 30154328,
+      "kids": null,
+      "score": 4,
+      "time": 1643663097,
+      "title": "Termo – Portuguese Wordle",
       "type": "story",
-      "url": "https://lunduke.substack.com/p/aosc-osretro-a-linux-distro-for-486"
+      "url": "https://term.ooo"
     },
     "og_item": {
       "title": "Sony is buying Bungie, the developer of Destiny and original creator of Halo",
@@ -2895,6 +2831,86 @@
     }
   },
   {
+    "id": 30146042,
+    "title": "Finnish diplomats’ phones infected with NSO Group Pegasus spyware",
+    "url": "https://www.bleepingcomputer.com/news/security/finnish-diplomats-phones-infected-with-nso-group-pegasus-spyware/",
+    "time": 1643620174,
+    "image": "",
+    "icon": "https://www.bleepingcomputer.com/favicon.ico",
+    "publisher": "bleepingcomputer.com",
+    "description": "",
+    "by": "beermonster",
+    "points": 207,
+    "comment_count": 100,
+    "hn_item": {
+      "by": "fernandopj",
+      "descendants": 0,
+      "id": 30154328,
+      "kids": null,
+      "score": 4,
+      "time": 1643663097,
+      "title": "Termo – Portuguese Wordle",
+      "type": "story",
+      "url": "https://term.ooo"
+    },
+    "og_item": {
+      "title": "Just a moment...",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30150990,
+    "title": "How to recommend books, or, stop recommending SICP",
+    "url": "https://notes.eatonphil.com/recommending-a-book.html",
+    "time": 1643650719,
+    "image": "",
+    "icon": "https://notes.eatonphil.com/favicon.ico",
+    "publisher": "notes.eatonphil.com",
+    "description": "How to recommend books, or, stop recommending SICP",
+    "by": "eatonphil",
+    "points": 14,
+    "comment_count": 14,
+    "hn_item": {
+      "by": "fernandopj",
+      "descendants": 0,
+      "id": 30154328,
+      "kids": null,
+      "score": 4,
+      "time": 1643663097,
+      "title": "Termo – Portuguese Wordle",
+      "type": "story",
+      "url": "https://term.ooo"
+    },
+    "og_item": {
+      "title": "How to recommend books, or, stop recommending SICP | notes.eatonphil.com",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "How to recommend books, or, stop recommending SICP",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30154613,
     "title": "Mullvad: Pay with Cash",
     "url": "https://mullvad.net/en/account/#/payment/cash",
@@ -2907,17 +2923,15 @@
     "points": 4,
     "comment_count": 2,
     "hn_item": {
-      "by": "muterad_murilax",
-      "descendants": 1,
-      "id": 30152833,
-      "kids": [
-        30155264
-      ],
-      "score": 11,
-      "time": 1643656955,
-      "title": "AOSC OS/Retro: A Linux Distro for 486 and PPC Macs",
+      "by": "fernandopj",
+      "descendants": 0,
+      "id": 30154328,
+      "kids": null,
+      "score": 4,
+      "time": 1643663097,
+      "title": "Termo – Portuguese Wordle",
       "type": "story",
-      "url": "https://lunduke.substack.com/p/aosc-osretro-a-linux-distro-for-486"
+      "url": "https://term.ooo"
     },
     "og_item": {
       "title": "My account | Mullvad VPN",
@@ -2946,90 +2960,6 @@
     }
   },
   {
-    "id": 30150990,
-    "title": "How to recommend books, or, stop recommending SICP",
-    "url": "https://notes.eatonphil.com/recommending-a-book.html",
-    "time": 1643650719,
-    "image": "",
-    "icon": "https://notes.eatonphil.com/favicon.ico",
-    "publisher": "notes.eatonphil.com",
-    "description": "How to recommend books, or, stop recommending SICP",
-    "by": "eatonphil",
-    "points": 14,
-    "comment_count": 14,
-    "hn_item": {
-      "by": "muterad_murilax",
-      "descendants": 1,
-      "id": 30152833,
-      "kids": [
-        30155264
-      ],
-      "score": 11,
-      "time": 1643656955,
-      "title": "AOSC OS/Retro: A Linux Distro for 486 and PPC Macs",
-      "type": "story",
-      "url": "https://lunduke.substack.com/p/aosc-osretro-a-linux-distro-for-486"
-    },
-    "og_item": {
-      "title": "How to recommend books, or, stop recommending SICP | notes.eatonphil.com",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "How to recommend books, or, stop recommending SICP",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30146042,
-    "title": "Finnish diplomats’ phones infected with NSO Group Pegasus spyware",
-    "url": "https://www.bleepingcomputer.com/news/security/finnish-diplomats-phones-infected-with-nso-group-pegasus-spyware/",
-    "time": 1643620174,
-    "image": "",
-    "icon": "https://www.bleepingcomputer.com/favicon.ico",
-    "publisher": "bleepingcomputer.com",
-    "description": "",
-    "by": "beermonster",
-    "points": 207,
-    "comment_count": 100,
-    "hn_item": {
-      "by": "muterad_murilax",
-      "descendants": 1,
-      "id": 30152833,
-      "kids": [
-        30155264
-      ],
-      "score": 11,
-      "time": 1643656955,
-      "title": "AOSC OS/Retro: A Linux Distro for 486 and PPC Macs",
-      "type": "story",
-      "url": "https://lunduke.substack.com/p/aosc-osretro-a-linux-distro-for-486"
-    },
-    "og_item": {
-      "title": "Just a moment...",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30148272,
     "title": "Citrix to be acquired for $16.5B, will be merged with Tibco",
     "url": "https://techcrunch.com/2022/01/31/citrix-to-be-acquired-by-vista-and-evergreen-elliott-in-a-16-5b-all-cash-deal-will-be-merged-with-tibco-to-create-saas-powerhouse/",
@@ -3042,17 +2972,15 @@
     "points": 90,
     "comment_count": 70,
     "hn_item": {
-      "by": "muterad_murilax",
-      "descendants": 1,
-      "id": 30152833,
-      "kids": [
-        30155264
-      ],
-      "score": 11,
-      "time": 1643656955,
-      "title": "AOSC OS/Retro: A Linux Distro for 486 and PPC Macs",
+      "by": "fernandopj",
+      "descendants": 0,
+      "id": 30154328,
+      "kids": null,
+      "score": 4,
+      "time": 1643663097,
+      "title": "Termo – Portuguese Wordle",
       "type": "story",
-      "url": "https://lunduke.substack.com/p/aosc-osretro-a-linux-distro-for-486"
+      "url": "https://term.ooo"
     },
     "og_item": {
       "title": "Citrix to be acquired by Vista and Evergreen/Elliott in a $16.5B all-cash deal, will be merged with Tibco to create SaaS powerhouse – TechCrunch",
@@ -3093,17 +3021,15 @@
     "points": 34,
     "comment_count": 4,
     "hn_item": {
-      "by": "muterad_murilax",
-      "descendants": 1,
-      "id": 30152833,
-      "kids": [
-        30155264
-      ],
-      "score": 11,
-      "time": 1643656955,
-      "title": "AOSC OS/Retro: A Linux Distro for 486 and PPC Macs",
+      "by": "fernandopj",
+      "descendants": 0,
+      "id": 30154328,
+      "kids": null,
+      "score": 4,
+      "time": 1643663097,
+      "title": "Termo – Portuguese Wordle",
       "type": "story",
-      "url": "https://lunduke.substack.com/p/aosc-osretro-a-linux-distro-for-486"
+      "url": "https://term.ooo"
     },
     "og_item": {
       "title": "How the Hall Effect Still Reverberates",
@@ -3132,6 +3058,46 @@
     }
   },
   {
+    "id": 30156803,
+    "title": "Bolt’s CEO Resigns Two Weeks After Securing $11B Valuation",
+    "url": "https://www.bloomberg.com/news/articles/2022-01-31/bolt-ceo-resigns-two-weeks-after-securing-11-billion-valuation",
+    "time": 1643674361,
+    "image": "",
+    "icon": "https://assets.bwbx.io/s3/javelin/public/hub/images/favicon-black-63fe5249d3.png",
+    "publisher": "Bloomberg",
+    "description": "",
+    "by": "JumpCrisscross",
+    "points": 7,
+    "comment_count": 1,
+    "hn_item": {
+      "by": "fernandopj",
+      "descendants": 0,
+      "id": 30154328,
+      "kids": null,
+      "score": 4,
+      "time": 1643663097,
+      "title": "Termo – Portuguese Wordle",
+      "type": "story",
+      "url": "https://term.ooo"
+    },
+    "og_item": {
+      "title": "Bloomberg - Are you a robot?",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30145237,
     "title": "Generate static sites from Markdown files with Caddy (2018)",
     "url": "https://blog.thomaspuppe.de/static-sites-from-markdown-with-caddy-server",
@@ -3141,20 +3107,18 @@
     "publisher": "blog.thomaspuppe.de",
     "description": "",
     "by": "indigodaddy",
-    "points": 97,
+    "points": 98,
     "comment_count": 27,
     "hn_item": {
-      "by": "muterad_murilax",
-      "descendants": 1,
-      "id": 30152833,
-      "kids": [
-        30155264
-      ],
-      "score": 11,
-      "time": 1643656955,
-      "title": "AOSC OS/Retro: A Linux Distro for 486 and PPC Macs",
+      "by": "fernandopj",
+      "descendants": 0,
+      "id": 30154328,
+      "kids": null,
+      "score": 4,
+      "time": 1643663097,
+      "title": "Termo – Portuguese Wordle",
       "type": "story",
-      "url": "https://lunduke.substack.com/p/aosc-osretro-a-linux-distro-for-486"
+      "url": "https://term.ooo"
     },
     "og_item": null
   },
@@ -3171,17 +3135,15 @@
     "points": 4,
     "comment_count": 0,
     "hn_item": {
-      "by": "muterad_murilax",
-      "descendants": 1,
-      "id": 30152833,
-      "kids": [
-        30155264
-      ],
-      "score": 11,
-      "time": 1643656955,
-      "title": "AOSC OS/Retro: A Linux Distro for 486 and PPC Macs",
+      "by": "fernandopj",
+      "descendants": 0,
+      "id": 30154328,
+      "kids": null,
+      "score": 4,
+      "time": 1643663097,
+      "title": "Termo – Portuguese Wordle",
       "type": "story",
-      "url": "https://lunduke.substack.com/p/aosc-osretro-a-linux-distro-for-486"
+      "url": "https://term.ooo"
     },
     "og_item": {
       "title": "Termo",
@@ -3197,99 +3159,6 @@
       "video": [],
       "favicon": {
         "url": "icon.png"
-      }
-    }
-  },
-  {
-    "id": 30153653,
-    "title": "Go 1.18 Beta 2",
-    "url": "https://go.dev/blog/go1.18beta2",
-    "time": 1643660229,
-    "image": "",
-    "icon": "https://go.dev/favicon.ico",
-    "publisher": "go.dev",
-    "description": "Go is an open source programming language that makes it easy to build simple, reliable, and efficient software.",
-    "by": "0xedb",
-    "points": 19,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "muterad_murilax",
-      "descendants": 1,
-      "id": 30152833,
-      "kids": [
-        30155264
-      ],
-      "score": 11,
-      "time": 1643656955,
-      "title": "AOSC OS/Retro: A Linux Distro for 486 and PPC Macs",
-      "type": "story",
-      "url": "https://lunduke.substack.com/p/aosc-osretro-a-linux-distro-for-486"
-    },
-    "og_item": {
-      "title": "Announcing Go 1.18 Beta 2 - The Go Programming Language",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "Go is an open source programming language that makes it easy to build simple, reliable, and efficient software.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30152833,
-    "title": "AOSC OS/Retro: A Linux Distro for 486 and PPC Macs",
-    "url": "https://lunduke.substack.com/p/aosc-osretro-a-linux-distro-for-486",
-    "time": 1643656955,
-    "image": "https://cdn.substack.com/image/fetch/w_1200,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2dc13a08-0486-4b54-a1ba-8cd51b5bc742_2048x1536.jpeg",
-    "icon": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/a3acf02d-cfe4-43eb-9567-1006db4b5e78/favicon-48x48.png",
-    "publisher": "lunduke.substack.com",
-    "description": "... as well as ARM powered HP Jornadas and other \"retro\" hardware.",
-    "by": "muterad_murilax",
-    "points": 11,
-    "comment_count": 1,
-    "hn_item": {
-      "by": "muterad_murilax",
-      "descendants": 1,
-      "id": 30152833,
-      "kids": [
-        30155264
-      ],
-      "score": 11,
-      "time": 1643656955,
-      "title": "AOSC OS/Retro: A Linux Distro for 486 and PPC Macs",
-      "type": "story",
-      "url": "https://lunduke.substack.com/p/aosc-osretro-a-linux-distro-for-486"
-    },
-    "og_item": {
-      "title": "AOSC OS/Retro: A Linux Distro for 486 \u0026 PPC Macs",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://cdn.substack.com/image/fetch/w_1200,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2dc13a08-0486-4b54-a1ba-8cd51b5bc742_2048x1536.jpeg",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://lunduke.substack.com/p/aosc-osretro-a-linux-distro-for-486",
-      "audio": [],
-      "description": "... as well as ARM powered HP Jornadas and other \"retro\" hardware.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/a3acf02d-cfe4-43eb-9567-1006db4b5e78/favicon-48x48.png"
       }
     }
   }
