@@ -30,18 +30,16 @@ const TopStoriesPage = () => {
   useEffect(() => {
     if (count === 0) {
       someRef.current = someRef.current + 1;
-      setTimeout(() => {
-        fetch(hnURL)
-          .then(response => response.json())
-          .then(items => {
-            console.log('Fetched Hacker News data: ', items);
-            setItems(items);
-          })
-          .catch(error => {
-            console.log('Error fetching Hacker News data: ', error);
-            setError(error);
-          });
-      }, 1000);
+      fetch(hnURL)
+        .then(response => response.json())
+        .then(items => {
+          console.log('Fetched Hacker News data: ', items);
+          setItems(items);
+        })
+        .catch(error => {
+          console.log('Error fetching Hacker News data: ', error);
+          setError(error);
+        });
     }
   }, [count, hnURL]);
 
