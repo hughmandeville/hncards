@@ -46,7 +46,7 @@ make hn-ts-get
 ## Misc. Links
 
 - [Facebook Sharing Debugger](https://developers.facebook.com/tools/debug/)
-- [Google Analytics](https://analytics.google.com/analytics/web/#/p301425740/reports/reportinghub)
+- [Google Analytics](https://analytics.google.com/analytics/web/)
 - [Hacker News API](https://github.com/HackerNews/API)
 - [Material Design Colors](https://material.io/design/color/the-color-system.html)
 - [Open Graph](https://ogp.me/)
