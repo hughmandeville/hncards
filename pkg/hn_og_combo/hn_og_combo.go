@@ -8,7 +8,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/hughmandeville/hnui/pkg/github"
+	"github.com/hughmandeville/hnui/pkg/gcs"
 	hn "github.com/hughmandeville/hnui/pkg/hackernews"
 	"github.com/otiai10/opengraph/v2"
 )
@@ -29,13 +29,8 @@ type Item struct {
 	OGItem       *opengraph.OpenGraph `json:"og_item"`
 }
 
-// Get top stories from Hacker News with Open Graph data and save to GitHub.
-func SaveTopStoriesToGH(ghToken string, numStories int, verbose bool) (err error) {
-	if ghToken == "" {
-		err = fmt.Errorf("ghToken is empty")
-		return
-	}
-	filePath := "client/public/hn_topstories.json"
+// Get top stories from Hacker News with Open Graph data and save to GCS.
+func SaveTopStoriesToGCS(numStories int, verbose bool) (err error) {
 	items, err := GetTopStories(numStories, verbose)
 	if err != nil {
 		return
@@ -49,12 +44,8 @@ func SaveTopStoriesToGH(ghToken string, numStories int, verbose bool) (err error
 		return
 	}
 
-	ghc := github.NewGitHubController(ghToken, "main", "hughmandeville", "hnui")
-	_, sha, err := ghc.GetFile(filePath)
-	if err != nil {
-		return
-	}
-	err = ghc.PutFile(filePath, data, sha)
+	client := gcs.NewGCSClient("hncards")
+	err = client.Store(data, "hn_topstories.json")
 	return
 }
 
