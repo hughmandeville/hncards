@@ -1,0 +1,14 @@
+[
+  {
+    "origin": ["https://hncards.com"],
+    "method": ["GET", "OPTIONS"],
+    "responseHeader": [
+      "Accept",
+      "Content-Type",
+      "X-Forwarded-For",
+      "X-Prototype-Version",
+      "X-Requested-With"
+    ],
+    "maxAgeSeconds": 60
+  }
+]
