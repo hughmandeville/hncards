@@ -8,7 +8,7 @@
 
 This project consists of a Go script to get the [Hacker News](https://news.ycombinator.com/) top stories and [Open Graph](https://ogp.me/) data and a React App hosted in GitHub Pages to display it.
 
-The Go script gets the top stories from the [Hacker News API](https://github.com/HackerNews/API) and adds some Open Graph fields (image, icon, title, and description). It calls the [GitHub API](https://docs.github.com/en/rest) to upload the data file ([hn_topstories.json](client/public/hn_topstories.json)) to GitHub.
+The Go script gets the top stories from the [Hacker News API](https://github.com/HackerNews/API) and adds some Open Graph fields (image, icon, title, and description). It uploads the data file ([hn_topstories.json](https://storage.googleapis.com/hncards/hn_topstories.json)) to [GCS](https://console.cloud.google.com/storage/browser/_details/hncards/hn_topstories.json?project=hncards).
 
 ## GitHub Pages
 
@@ -18,6 +18,15 @@ Run `make gh-deploy` to deploy the React app to GitHub Pages.
 
 ```sh
 make gh-deploy
+```
+
++## GCS
+
+The `gsutil` command was used to [enable CORS on the GCS bucket](https://cloud.google.com/storage/docs/configuring-cors#gsutil).
+
+```sh
+cd pkg/gcs/
+gsutil cors set gcs-cors.json gs://hncards
 ```
 
 ## Running Locally
