@@ -76,7 +76,7 @@ hn-ts-get:
 	@go run cmd/get_hn/get_hn.go -out file -verbose
 
 .PHONY: hn-ts-upload
-## hn-ts-upload: Upload Hacker News Top Stories JSON to GitHub.
+## hn-ts-upload: Upload Hacker News Top Stories JSON to GCS.
 hn-ts-upload:
 	@go run cmd/get_hn/get_hn.go -out github -verbose
 
