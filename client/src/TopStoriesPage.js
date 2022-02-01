@@ -10,8 +10,7 @@ const TopStoriesPage = () => {
   const [count, setCount] = React.useState(0);
   const someRef = useRef(0);
 
-  let hnURL =
-    'https://raw.githubusercontent.com/hughmandeville/hnui/main/client/public/hn_topstories.json';
+  let hnURL = 'https://storage.googleapis.com/hncards/hn_topstories.json';
   if (window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1') {
     hnURL = '/hn_topstories.json';
   }
