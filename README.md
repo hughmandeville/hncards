@@ -1,6 +1,6 @@
 # Hacker News Cards: An Alternative UI
 
-<https://hncards.com/> is an unofficial alternative web UI for [Hacker News](https://news.ycombinator.com/).
+<https://hncards.com/> is an unofficial alternative web UI for [Hacker News](https://news.ycombinator.com/) that displays stories as cards.
 
 [![Hacker News](hncards-ss.png)](https://hncards.com/)
 
@@ -20,7 +20,7 @@ Run `make gh-deploy` to deploy the React app to GitHub Pages.
 make gh-deploy
 ```
 
-+## GCS
+## GCS
 
 The `gsutil` command was used to [enable CORS on the GCS bucket](https://cloud.google.com/storage/docs/configuring-cors#gsutil).
 
