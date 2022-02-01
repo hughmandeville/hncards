@@ -9,21 +9,28 @@
     "publisher": "jamessevedge.com",
     "description": "I was listening to the Tim Ferriss Show podcast episode #532 with Sheila Heen (Harvard Negotiation Project, co-author of Difficult Conversations: How To Discuss What Matters Most) and a specific story she told during the conversation really resonated with me and I have been thinking alot about it…",
     "by": "aseattledev1234",
-    "points": 322,
-    "comment_count": 61,
+    "points": 330,
+    "comment_count": 62,
     "hn_item": {
-      "by": "rg111",
-      "descendants": 2,
-      "id": 30153326,
+      "by": "DiabloD3",
+      "descendants": 28,
+      "id": 30147507,
       "kids": [
-        30153891,
-        30158299
+        30148360,
+        30150693,
+        30149075,
+        30149590,
+        30148309,
+        30154454,
+        30148247,
+        30147747,
+        30150917
       ],
-      "score": 27,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
+      "score": 73,
+      "time": 1643634629,
+      "title": "VT100 Machine Emulator in JavaScript",
       "type": "story",
-      "url": "https://ar5iv.org/"
+      "url": "https://www.pcjs.org/machines/dec/vt100/"
     },
     "og_item": {
       "title": "Red Light Green Light",
@@ -32,58 +39,6 @@
       "url": "https://jamessevedge.com/articles/red-light-green-light/",
       "audio": [],
       "description": "I was listening to the Tim Ferriss Show podcast episode #532 with Sheila Heen (Harvard Negotiation Project, co-author of Difficult Conversations: How To Discuss What Matters Most) and a specific story she told during the conversation really resonated with me and I have been thinking alot about it since I heard it. Below is the excerpt of that story in her own words.\n It reminds me, I sometimes tell this story about my eldest son.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30158391,
-    "title": "Free Wordle",
-    "url": "https://wordle.nyc/",
-    "time": 1643687115,
-    "image": "https://wordle.nyc/wordle-1200.png",
-    "icon": "https://wordle.nyc/favicon.ico",
-    "publisher": "wordle.nyc",
-    "description": "A free version of Wordle.",
-    "by": "jbegley",
-    "points": 15,
-    "comment_count": 3,
-    "hn_item": {
-      "by": "rg111",
-      "descendants": 2,
-      "id": 30153326,
-      "kids": [
-        30153891,
-        30158299
-      ],
-      "score": 27,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
-      "type": "story",
-      "url": "https://ar5iv.org/"
-    },
-    "og_item": {
-      "title": "Wordle",
-      "type": "website",
-      "image": [
-        {
-          "url": "https://wordle.nyc/wordle-1200.png",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://wordle.nyc/",
-      "audio": [],
-      "description": "A free version of Wordle.",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
@@ -104,21 +59,28 @@
     "publisher": "lsd.gnunet.org",
     "description": "This document contains the GNU Name System (GNS) technical\n      specification.\n      GNS is a decentralized and censorship-resistant name\n      system that provides a privacy-enhancing alternative to the Domain\n      Name System (DNS).\n       \n       \n      This document defines t…",
     "by": "simonpure",
-    "points": 176,
+    "points": 178,
     "comment_count": 65,
     "hn_item": {
-      "by": "rg111",
-      "descendants": 2,
-      "id": 30153326,
+      "by": "DiabloD3",
+      "descendants": 28,
+      "id": 30147507,
       "kids": [
-        30153891,
-        30158299
+        30148360,
+        30150693,
+        30149075,
+        30149590,
+        30148309,
+        30154454,
+        30148247,
+        30147747,
+        30150917
       ],
-      "score": 27,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
+      "score": 73,
+      "time": 1643634629,
+      "title": "VT100 Machine Emulator in JavaScript",
       "type": "story",
-      "url": "https://ar5iv.org/"
+      "url": "https://www.pcjs.org/machines/dec/vt100/"
     },
     "og_item": {
       "title": "The GNU Name System",
@@ -147,21 +109,28 @@
     "publisher": "duckduckgo.com",
     "description": "DuckDuckGo Email Protection. A private email relay to protect your personal communications and ban trackers from your inbox. Coming soon.",
     "by": "donutshop",
-    "points": 19,
-    "comment_count": 3,
+    "points": 26,
+    "comment_count": 5,
     "hn_item": {
-      "by": "rg111",
-      "descendants": 2,
-      "id": 30153326,
+      "by": "DiabloD3",
+      "descendants": 28,
+      "id": 30147507,
       "kids": [
-        30153891,
-        30158299
+        30148360,
+        30150693,
+        30149075,
+        30149590,
+        30148309,
+        30154454,
+        30148247,
+        30147747,
+        30150917
       ],
-      "score": 27,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
+      "score": 73,
+      "time": 1643634629,
+      "title": "VT100 Machine Emulator in JavaScript",
       "type": "story",
-      "url": "https://ar5iv.org/"
+      "url": "https://www.pcjs.org/machines/dec/vt100/"
     },
     "og_item": {
       "title": "DuckDuckGo Email Protection",
@@ -190,21 +159,28 @@
     "publisher": "Yggdrasil Network",
     "description": "End-to-end encrypted IPv6 networking to connect worlds",
     "by": "jesprenj",
-    "points": 85,
+    "points": 86,
     "comment_count": 17,
     "hn_item": {
-      "by": "rg111",
-      "descendants": 2,
-      "id": 30153326,
+      "by": "DiabloD3",
+      "descendants": 28,
+      "id": 30147507,
       "kids": [
-        30153891,
-        30158299
+        30148360,
+        30150693,
+        30149075,
+        30149590,
+        30148309,
+        30154454,
+        30148247,
+        30147747,
+        30150917
       ],
-      "score": 27,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
+      "score": 73,
+      "time": 1643634629,
+      "title": "VT100 Machine Emulator in JavaScript",
       "type": "story",
-      "url": "https://ar5iv.org/"
+      "url": "https://www.pcjs.org/machines/dec/vt100/"
     },
     "og_item": {
       "title": "Yggdrasil Network",
@@ -233,21 +209,28 @@
     "publisher": "GitHub",
     "description": "Easily manage wine prefixes in a new way. Run Windows software and games on Linux - GitHub - bottlesdevs/Bottles: Easily manage wine prefixes in a new way. Run Windows software and games on Linux",
     "by": "maydemir",
-    "points": 69,
+    "points": 71,
     "comment_count": 19,
     "hn_item": {
-      "by": "rg111",
-      "descendants": 2,
-      "id": 30153326,
+      "by": "DiabloD3",
+      "descendants": 28,
+      "id": 30147507,
       "kids": [
-        30153891,
-        30158299
+        30148360,
+        30150693,
+        30149075,
+        30149590,
+        30148309,
+        30154454,
+        30148247,
+        30147747,
+        30150917
       ],
-      "score": 27,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
+      "score": 73,
+      "time": 1643634629,
+      "title": "VT100 Machine Emulator in JavaScript",
       "type": "story",
-      "url": "https://ar5iv.org/"
+      "url": "https://www.pcjs.org/machines/dec/vt100/"
     },
     "og_item": {
       "title": "GitHub - bottlesdevs/Bottles: Easily manage wine prefixes in a new way. Run Windows software and games on Linux",
@@ -288,18 +271,25 @@
     "points": 61,
     "comment_count": 10,
     "hn_item": {
-      "by": "rg111",
-      "descendants": 2,
-      "id": 30153326,
+      "by": "DiabloD3",
+      "descendants": 28,
+      "id": 30147507,
       "kids": [
-        30153891,
-        30158299
+        30148360,
+        30150693,
+        30149075,
+        30149590,
+        30148309,
+        30154454,
+        30148247,
+        30147747,
+        30150917
       ],
-      "score": 27,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
+      "score": 73,
+      "time": 1643634629,
+      "title": "VT100 Machine Emulator in JavaScript",
       "type": "story",
-      "url": "https://ar5iv.org/"
+      "url": "https://www.pcjs.org/machines/dec/vt100/"
     },
     "og_item": {
       "title": "A very short introduction to the undeciphered Aegean writing systems",
@@ -328,6 +318,56 @@
     }
   },
   {
+    "id": 30156048,
+    "title": "SimpleDB: A Basic RDBMS Built from Scratch",
+    "url": "https://www.awelm.com/posts/simple-db/",
+    "time": 1643670213,
+    "image": "",
+    "icon": "https://www.awelm.com/favicon.ico",
+    "publisher": "awelm.com",
+    "description": "My databases class at UCLA wasn’t very challenging so I never truly understood the internals of databases. This always bothered me so I vowed to build a simple database from scratch to learn the fundamentals.",
+    "by": "hackthesystem",
+    "points": 97,
+    "comment_count": 19,
+    "hn_item": {
+      "by": "DiabloD3",
+      "descendants": 28,
+      "id": 30147507,
+      "kids": [
+        30148360,
+        30150693,
+        30149075,
+        30149590,
+        30148309,
+        30154454,
+        30148247,
+        30147747,
+        30150917
+      ],
+      "score": 73,
+      "time": 1643634629,
+      "title": "VT100 Machine Emulator in JavaScript",
+      "type": "story",
+      "url": "https://www.pcjs.org/machines/dec/vt100/"
+    },
+    "og_item": {
+      "title": "SimpleDB: A Basic RDBMS Built From Scratch",
+      "type": "article",
+      "image": [],
+      "url": "https://www.awelm.com/posts/simple-db/",
+      "audio": [],
+      "description": "My databases class at UCLA wasn’t very challenging so I never truly understood the internals of databases. This always bothered me so I vowed to build a simple database from scratch to learn the fundamentals.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30154781,
     "title": "The New York Times buys Wordle",
     "url": "https://www.nytimes.com/2022/01/31/business/media/new-york-times-wordle.html",
@@ -337,21 +377,28 @@
     "publisher": "The New York Times",
     "description": "The word game, released in October, has millions of daily users.",
     "by": "lucis",
-    "points": 685,
-    "comment_count": 448,
+    "points": 687,
+    "comment_count": 449,
     "hn_item": {
-      "by": "rg111",
-      "descendants": 2,
-      "id": 30153326,
+      "by": "DiabloD3",
+      "descendants": 28,
+      "id": 30147507,
       "kids": [
-        30153891,
-        30158299
+        30148360,
+        30150693,
+        30149075,
+        30149590,
+        30148309,
+        30154454,
+        30148247,
+        30147747,
+        30150917
       ],
-      "score": 27,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
+      "score": 73,
+      "time": 1643634629,
+      "title": "VT100 Machine Emulator in JavaScript",
       "type": "story",
-      "url": "https://ar5iv.org/"
+      "url": "https://www.pcjs.org/machines/dec/vt100/"
     },
     "og_item": {
       "title": "The New York Times Buys Wordle",
@@ -392,18 +439,25 @@
     "points": 1,
     "comment_count": 0,
     "hn_item": {
-      "by": "rg111",
-      "descendants": 2,
-      "id": 30153326,
+      "by": "DiabloD3",
+      "descendants": 28,
+      "id": 30147507,
       "kids": [
-        30153891,
-        30158299
+        30148360,
+        30150693,
+        30149075,
+        30149590,
+        30148309,
+        30154454,
+        30148247,
+        30147747,
+        30150917
       ],
-      "score": 27,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
+      "score": 73,
+      "time": 1643634629,
+      "title": "VT100 Machine Emulator in JavaScript",
       "type": "story",
-      "url": "https://ar5iv.org/"
+      "url": "https://www.pcjs.org/machines/dec/vt100/"
     },
     "og_item": {
       "title": "Generally Intelligent (YC S17) Is Hiring Systems Engineers (Remote, SF) | Hacker News",
@@ -423,49 +477,6 @@
     }
   },
   {
-    "id": 30156048,
-    "title": "SimpleDB: A Basic RDBMS Built from Scratch",
-    "url": "https://www.awelm.com/posts/simple-db/",
-    "time": 1643670213,
-    "image": "",
-    "icon": "https://www.awelm.com/favicon.ico",
-    "publisher": "awelm.com",
-    "description": "My databases class at UCLA wasn’t very challenging so I never truly understood the internals of databases. This always bothered me so I vowed to build a simple database from scratch to learn the fundamentals.",
-    "by": "hackthesystem",
-    "points": 95,
-    "comment_count": 19,
-    "hn_item": {
-      "by": "rg111",
-      "descendants": 2,
-      "id": 30153326,
-      "kids": [
-        30153891,
-        30158299
-      ],
-      "score": 27,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
-      "type": "story",
-      "url": "https://ar5iv.org/"
-    },
-    "og_item": {
-      "title": "SimpleDB: A Basic RDBMS Built From Scratch",
-      "type": "article",
-      "image": [],
-      "url": "https://www.awelm.com/posts/simple-db/",
-      "audio": [],
-      "description": "My databases class at UCLA wasn’t very challenging so I never truly understood the internals of databases. This always bothered me so I vowed to build a simple database from scratch to learn the fundamentals.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30150586,
     "title": "Moderna’s HIV vaccine has officially begun human trials",
     "url": "https://www.them.us/story/hiv-aids-vaccine-human-trials-moderna",
@@ -475,21 +486,28 @@
     "publisher": "them.",
     "description": "We could be getting even closer to stopping the spread of HIV/AIDS.",
     "by": "grawprog",
-    "points": 855,
-    "comment_count": 381,
+    "points": 860,
+    "comment_count": 384,
     "hn_item": {
-      "by": "rg111",
-      "descendants": 2,
-      "id": 30153326,
+      "by": "DiabloD3",
+      "descendants": 28,
+      "id": 30147507,
       "kids": [
-        30153891,
-        30158299
+        30148360,
+        30150693,
+        30149075,
+        30149590,
+        30148309,
+        30154454,
+        30148247,
+        30147747,
+        30150917
       ],
-      "score": 27,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
+      "score": 73,
+      "time": 1643634629,
+      "title": "VT100 Machine Emulator in JavaScript",
       "type": "story",
-      "url": "https://ar5iv.org/"
+      "url": "https://www.pcjs.org/machines/dec/vt100/"
     },
     "og_item": {
       "title": "Moderna’s HIV Vaccine Has Officially Begun Human Trials",
@@ -527,21 +545,28 @@
     "publisher": "Food Science Institute",
     "description": "If you’ve ever been given a can of Diet Coke or Diet Pepsi and it tastes a little off, or way off, you probably just toss it out. Why does this happen and what can you do about it? Many diet soft d…",
     "by": "stvnitt",
-    "points": 16,
-    "comment_count": 4,
+    "points": 18,
+    "comment_count": 6,
     "hn_item": {
-      "by": "rg111",
-      "descendants": 2,
-      "id": 30153326,
+      "by": "DiabloD3",
+      "descendants": 28,
+      "id": 30147507,
       "kids": [
-        30153891,
-        30158299
+        30148360,
+        30150693,
+        30149075,
+        30149590,
+        30148309,
+        30154454,
+        30148247,
+        30147747,
+        30150917
       ],
-      "score": 27,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
+      "score": 73,
+      "time": 1643634629,
+      "title": "VT100 Machine Emulator in JavaScript",
       "type": "story",
-      "url": "https://ar5iv.org/"
+      "url": "https://www.pcjs.org/machines/dec/vt100/"
     },
     "og_item": {
       "title": "Why does my diet soda taste ‘off’?",
@@ -570,58 +595,6 @@
     }
   },
   {
-    "id": 30157571,
-    "title": "The Economics of Data Businesses",
-    "url": "https://pivotal.substack.com/p/economics-of-data-biz",
-    "time": 1643679717,
-    "image": "https://cdn.substack.com/image/fetch/w_1200,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F327acaff-a3e7-4699-9073-09f64dc1456c_2492x1245.jpeg",
-    "icon": "https://cdn.substack.com/icons/substack/favicon-32x32.png",
-    "publisher": "pivotal.substack.com",
-    "description": "How data businesses start, and how they keep going, and growing, and growing.",
-    "by": "BOOSTERHIDROGEN",
-    "points": 32,
-    "comment_count": 3,
-    "hn_item": {
-      "by": "rg111",
-      "descendants": 2,
-      "id": 30153326,
-      "kids": [
-        30153891,
-        30158299
-      ],
-      "score": 27,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
-      "type": "story",
-      "url": "https://ar5iv.org/"
-    },
-    "og_item": {
-      "title": "The Economics of Data Businesses",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://cdn.substack.com/image/fetch/w_1200,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F327acaff-a3e7-4699-9073-09f64dc1456c_2492x1245.jpeg",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://pivotal.substack.com/p/economics-of-data-biz",
-      "audio": [],
-      "description": "How data businesses start, and how they keep going, and growing, and growing.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "https://cdn.substack.com/icons/substack/favicon-32x32.png"
-      }
-    }
-  },
-  {
     "id": 30157910,
     "title": "Koenigsegg's Tiny Electric Motor Makes 335 HP and 443 LB-FT of Torque",
     "url": "https://www.roadandtrack.com/news/a38940998/koenigsegg-quark-electric-motor/",
@@ -631,21 +604,28 @@
     "publisher": "Road \u0026 Track",
     "description": "Dubbed the Quark, the motor weighs just 63 pounds.",
     "by": "RickJWagner",
-    "points": 18,
-    "comment_count": 3,
+    "points": 22,
+    "comment_count": 4,
     "hn_item": {
-      "by": "rg111",
-      "descendants": 2,
-      "id": 30153326,
+      "by": "DiabloD3",
+      "descendants": 28,
+      "id": 30147507,
       "kids": [
-        30153891,
-        30158299
+        30148360,
+        30150693,
+        30149075,
+        30149590,
+        30148309,
+        30154454,
+        30148247,
+        30147747,
+        30150917
       ],
-      "score": 27,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
+      "score": 73,
+      "time": 1643634629,
+      "title": "VT100 Machine Emulator in JavaScript",
       "type": "story",
-      "url": "https://ar5iv.org/"
+      "url": "https://www.pcjs.org/machines/dec/vt100/"
     },
     "og_item": {
       "title": "Koenigsegg's Tiny Electric Motor Makes 335 HP and 443 LB-FT of Torque",
@@ -674,6 +654,65 @@
     }
   },
   {
+    "id": 30157571,
+    "title": "The Economics of Data Businesses",
+    "url": "https://pivotal.substack.com/p/economics-of-data-biz",
+    "time": 1643679717,
+    "image": "https://cdn.substack.com/image/fetch/w_1200,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F327acaff-a3e7-4699-9073-09f64dc1456c_2492x1245.jpeg",
+    "icon": "https://cdn.substack.com/icons/substack/favicon-32x32.png",
+    "publisher": "pivotal.substack.com",
+    "description": "How data businesses start, and how they keep going, and growing, and growing.",
+    "by": "BOOSTERHIDROGEN",
+    "points": 32,
+    "comment_count": 3,
+    "hn_item": {
+      "by": "DiabloD3",
+      "descendants": 28,
+      "id": 30147507,
+      "kids": [
+        30148360,
+        30150693,
+        30149075,
+        30149590,
+        30148309,
+        30154454,
+        30148247,
+        30147747,
+        30150917
+      ],
+      "score": 73,
+      "time": 1643634629,
+      "title": "VT100 Machine Emulator in JavaScript",
+      "type": "story",
+      "url": "https://www.pcjs.org/machines/dec/vt100/"
+    },
+    "og_item": {
+      "title": "The Economics of Data Businesses",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://cdn.substack.com/image/fetch/w_1200,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F327acaff-a3e7-4699-9073-09f64dc1456c_2492x1245.jpeg",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://pivotal.substack.com/p/economics-of-data-biz",
+      "audio": [],
+      "description": "How data businesses start, and how they keep going, and growing, and growing.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "https://cdn.substack.com/icons/substack/favicon-32x32.png"
+      }
+    }
+  },
+  {
     "id": 30149370,
     "title": "Show HN: Magistrate – Plaintext legal contracts for developers",
     "url": "https://magistrate.khanna.law/",
@@ -686,18 +725,25 @@
     "points": 239,
     "comment_count": 89,
     "hn_item": {
-      "by": "rg111",
-      "descendants": 2,
-      "id": 30153326,
+      "by": "DiabloD3",
+      "descendants": 28,
+      "id": 30147507,
       "kids": [
-        30153891,
-        30158299
+        30148360,
+        30150693,
+        30149075,
+        30149590,
+        30148309,
+        30154454,
+        30148247,
+        30147747,
+        30150917
       ],
-      "score": 27,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
+      "score": 73,
+      "time": 1643634629,
+      "title": "VT100 Machine Emulator in JavaScript",
       "type": "story",
-      "url": "https://ar5iv.org/"
+      "url": "https://www.pcjs.org/machines/dec/vt100/"
     },
     "og_item": {
       "title": "Plain text legal contracts for developers - Magistrate",
@@ -717,58 +763,6 @@
     }
   },
   {
-    "id": 30156923,
-    "title": "Man found guilty of ‘grossly offensive’ tweet",
-    "url": "https://news.stv.tv/west-central/man-found-guilty-of-grossly-offensive-captain-tom-tweet",
-    "time": 1643675014,
-    "image": "https://news.stv.tv/wp-content/uploads/2022/01/f4ba389811c975c20ce999ad900546e5-social-default.jpg",
-    "icon": "https://news.stv.tv/wp-content/themes/stvnews/static/images/favicons/favicon.svg",
-    "publisher": "STV News",
-    "description": "Joseph Kelly found guilty of ‘grossly offensive’ message about Captain Sir Tom Moore.",
-    "by": "leephillips",
-    "points": 174,
-    "comment_count": 176,
-    "hn_item": {
-      "by": "rg111",
-      "descendants": 2,
-      "id": 30153326,
-      "kids": [
-        30153891,
-        30158299
-      ],
-      "score": 27,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
-      "type": "story",
-      "url": "https://ar5iv.org/"
-    },
-    "og_item": {
-      "title": "Man found guilty of ‘grossly offensive’ Captain Tom tweet",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://news.stv.tv/wp-content/uploads/2022/01/f4ba389811c975c20ce999ad900546e5-social-default.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 1024,
-          "height": 576,
-          "alt": ""
-        }
-      ],
-      "url": "https://news.stv.tv/west-central/man-found-guilty-of-grossly-offensive-captain-tom-tweet",
-      "audio": [],
-      "description": "Joseph Kelly found guilty of ‘grossly offensive’ message about Captain Sir Tom Moore.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "STV News",
-      "video": [],
-      "favicon": {
-        "url": "https://news.stv.tv/wp-content/themes/stvnews/static/images/favicons/favicon.svg"
-      }
-    }
-  },
-  {
     "id": 30129631,
     "title": "Request bodies in GET requests",
     "url": "https://evertpot.com/get-request-bodies/",
@@ -778,21 +772,28 @@
     "publisher": "evertpot.com",
     "description": "",
     "by": "treve",
-    "points": 172,
-    "comment_count": 123,
+    "points": 174,
+    "comment_count": 124,
     "hn_item": {
-      "by": "rg111",
-      "descendants": 2,
-      "id": 30153326,
+      "by": "DiabloD3",
+      "descendants": 28,
+      "id": 30147507,
       "kids": [
-        30153891,
-        30158299
+        30148360,
+        30150693,
+        30149075,
+        30149590,
+        30148309,
+        30154454,
+        30148247,
+        30147747,
+        30150917
       ],
-      "score": 27,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
+      "score": 73,
+      "time": 1643634629,
+      "title": "VT100 Machine Emulator in JavaScript",
       "type": "story",
-      "url": "https://ar5iv.org/"
+      "url": "https://www.pcjs.org/machines/dec/vt100/"
     },
     "og_item": {
       "title": "Request bodies in GET requests",
@@ -821,77 +822,6 @@
     }
   },
   {
-    "id": 30157269,
-    "title": "The Sixth Mass Extinction: fact, fiction or speculation?",
-    "url": "https://onlinelibrary.wiley.com/doi/full/10.1111/brv.12816",
-    "time": 1643677372,
-    "image": "",
-    "icon": "",
-    "publisher": "onlinelibrary.wiley.com",
-    "description": "",
-    "by": "khaled_ismaeel",
-    "points": 48,
-    "comment_count": 55,
-    "hn_item": {
-      "by": "rg111",
-      "descendants": 2,
-      "id": 30153326,
-      "kids": [
-        30153891,
-        30158299
-      ],
-      "score": 27,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
-      "type": "story",
-      "url": "https://ar5iv.org/"
-    },
-    "og_item": null
-  },
-  {
-    "id": 30135651,
-    "title": "Ask HN: Programming and dyslexia",
-    "url": "https://news.ycombinator.com/item?id=30135651",
-    "time": 1643538790,
-    "image": "",
-    "icon": "https://news.ycombinator.com/favicon.ico",
-    "publisher": "Hacker News",
-    "description": "",
-    "by": "erikbye",
-    "points": 19,
-    "comment_count": 16,
-    "hn_item": {
-      "by": "rg111",
-      "descendants": 2,
-      "id": 30153326,
-      "kids": [
-        30153891,
-        30158299
-      ],
-      "score": 27,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
-      "type": "story",
-      "url": "https://ar5iv.org/"
-    },
-    "og_item": {
-      "title": "Ask HN: Programming and dyslexia | Hacker News",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30118910,
     "title": "Astronomers close in on new way to detect gravitational waves",
     "url": "https://www.nature.com/articles/d41586-022-00170-y",
@@ -904,18 +834,25 @@
     "points": 65,
     "comment_count": 12,
     "hn_item": {
-      "by": "rg111",
-      "descendants": 2,
-      "id": 30153326,
+      "by": "DiabloD3",
+      "descendants": 28,
+      "id": 30147507,
       "kids": [
-        30153891,
-        30158299
+        30148360,
+        30150693,
+        30149075,
+        30149590,
+        30148309,
+        30154454,
+        30148247,
+        30147747,
+        30150917
       ],
-      "score": 27,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
+      "score": 73,
+      "time": 1643634629,
+      "title": "VT100 Machine Emulator in JavaScript",
       "type": "story",
-      "url": "https://ar5iv.org/"
+      "url": "https://www.pcjs.org/machines/dec/vt100/"
     },
     "og_item": {
       "title": "Astronomers close in on new way to detect gravitational waves",
@@ -944,37 +881,153 @@
     }
   },
   {
+    "id": 30135651,
+    "title": "Ask HN: Programming and dyslexia",
+    "url": "https://news.ycombinator.com/item?id=30135651",
+    "time": 1643538790,
+    "image": "",
+    "icon": "https://news.ycombinator.com/favicon.ico",
+    "publisher": "Hacker News",
+    "description": "",
+    "by": "erikbye",
+    "points": 20,
+    "comment_count": 18,
+    "hn_item": {
+      "by": "DiabloD3",
+      "descendants": 28,
+      "id": 30147507,
+      "kids": [
+        30148360,
+        30150693,
+        30149075,
+        30149590,
+        30148309,
+        30154454,
+        30148247,
+        30147747,
+        30150917
+      ],
+      "score": 73,
+      "time": 1643634629,
+      "title": "VT100 Machine Emulator in JavaScript",
+      "type": "story",
+      "url": "https://www.pcjs.org/machines/dec/vt100/"
+    },
+    "og_item": {
+      "title": "Ask HN: Programming and dyslexia | Hacker News",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30156923,
+    "title": "Man found guilty of ‘grossly offensive’ tweet",
+    "url": "https://news.stv.tv/west-central/man-found-guilty-of-grossly-offensive-captain-tom-tweet",
+    "time": 1643675014,
+    "image": "https://news.stv.tv/wp-content/uploads/2022/01/f4ba389811c975c20ce999ad900546e5-social-default.jpg",
+    "icon": "https://news.stv.tv/wp-content/themes/stvnews/static/images/favicons/favicon.svg",
+    "publisher": "STV News",
+    "description": "Joseph Kelly found guilty of ‘grossly offensive’ message about Captain Sir Tom Moore.",
+    "by": "leephillips",
+    "points": 177,
+    "comment_count": 183,
+    "hn_item": {
+      "by": "DiabloD3",
+      "descendants": 28,
+      "id": 30147507,
+      "kids": [
+        30148360,
+        30150693,
+        30149075,
+        30149590,
+        30148309,
+        30154454,
+        30148247,
+        30147747,
+        30150917
+      ],
+      "score": 73,
+      "time": 1643634629,
+      "title": "VT100 Machine Emulator in JavaScript",
+      "type": "story",
+      "url": "https://www.pcjs.org/machines/dec/vt100/"
+    },
+    "og_item": {
+      "title": "Man found guilty of ‘grossly offensive’ Captain Tom tweet",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://news.stv.tv/wp-content/uploads/2022/01/f4ba389811c975c20ce999ad900546e5-social-default.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 1024,
+          "height": 576,
+          "alt": ""
+        }
+      ],
+      "url": "https://news.stv.tv/west-central/man-found-guilty-of-grossly-offensive-captain-tom-tweet",
+      "audio": [],
+      "description": "Joseph Kelly found guilty of ‘grossly offensive’ message about Captain Sir Tom Moore.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "STV News",
+      "video": [],
+      "favicon": {
+        "url": "https://news.stv.tv/wp-content/themes/stvnews/static/images/favicons/favicon.svg"
+      }
+    }
+  },
+  {
     "id": 30150018,
     "title": "Pyflow – Visual and modular block programming in Python",
     "url": "https://github.com/Bycelium/PyFlow",
     "time": 1643647446,
-    "image": "https://opengraph.githubassets.com/8675b81c81b848b1ff3aac04a71d16877f9c7c5f99d522f9a77d4c940e62608a/Bycelium/PyFlow",
+    "image": "https://opengraph.githubassets.com/dbab0fe5b50ee72dec255142df68d95bdc610b31838ad975ab38628d3c68f1c2/Bycelium/PyFlow",
     "icon": "https://github.githubassets.com/favicons/favicon.svg",
     "publisher": "GitHub",
     "description": "An open-source tool for visual and modular block programing in python - GitHub - Bycelium/PyFlow: An open-source tool for visual and modular block programing in python",
     "by": "amai",
-    "points": 182,
+    "points": 183,
     "comment_count": 80,
     "hn_item": {
-      "by": "rg111",
-      "descendants": 2,
-      "id": 30153326,
+      "by": "DiabloD3",
+      "descendants": 28,
+      "id": 30147507,
       "kids": [
-        30153891,
-        30158299
+        30148360,
+        30150693,
+        30149075,
+        30149590,
+        30148309,
+        30154454,
+        30148247,
+        30147747,
+        30150917
       ],
-      "score": 27,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
+      "score": 73,
+      "time": 1643634629,
+      "title": "VT100 Machine Emulator in JavaScript",
       "type": "story",
-      "url": "https://ar5iv.org/"
+      "url": "https://www.pcjs.org/machines/dec/vt100/"
     },
     "og_item": {
       "title": "GitHub - Bycelium/PyFlow: An open-source tool for visual and modular block programing in python",
       "type": "object",
       "image": [
         {
-          "url": "https://opengraph.githubassets.com/8675b81c81b848b1ff3aac04a71d16877f9c7c5f99d522f9a77d4c940e62608a/Bycelium/PyFlow",
+          "url": "https://opengraph.githubassets.com/dbab0fe5b50ee72dec255142df68d95bdc610b31838ad975ab38628d3c68f1c2/Bycelium/PyFlow",
           "secure_url": "",
           "type": "",
           "width": 1200,
@@ -1005,21 +1058,28 @@
     "publisher": "Harshal Sheth",
     "description": "WebAssembly is at an inflection point. Over the next few years, I expect to see increased adoption of WebAssembly across the tech sphere, from containerization to plugin systems to serverless computing platforms. The following is a discussion of what WebAssembly is, what makes it a relevant techn…",
     "by": "hsheth2",
-    "points": 182,
-    "comment_count": 119,
+    "points": 184,
+    "comment_count": 120,
     "hn_item": {
-      "by": "rg111",
-      "descendants": 2,
-      "id": 30153326,
+      "by": "DiabloD3",
+      "descendants": 28,
+      "id": 30147507,
       "kids": [
-        30153891,
-        30158299
+        30148360,
+        30150693,
+        30149075,
+        30149590,
+        30148309,
+        30154454,
+        30148247,
+        30147747,
+        30150917
       ],
-      "score": 27,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
+      "score": 73,
+      "time": 1643634629,
+      "title": "VT100 Machine Emulator in JavaScript",
       "type": "story",
-      "url": "https://ar5iv.org/"
+      "url": "https://www.pcjs.org/machines/dec/vt100/"
     },
     "og_item": {
       "title": "Pay attention to WebAssembly",
@@ -1039,6 +1099,65 @@
     }
   },
   {
+    "id": 30158269,
+    "title": "How to Mislead with Facts",
+    "url": "https://consilienceproject.org/how-to-mislead-with-facts/",
+    "time": 1643685952,
+    "image": "https://consilienceproject.org/content/images/2022/01/Mislead-with-Facts_1_Header-1.jpg",
+    "icon": "https://consilienceproject.org/favicon.png",
+    "publisher": "The Consilience Project",
+    "description": "When is telling the truth a means of deception?",
+    "by": "denial",
+    "points": 7,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "DiabloD3",
+      "descendants": 28,
+      "id": 30147507,
+      "kids": [
+        30148360,
+        30150693,
+        30149075,
+        30149590,
+        30148309,
+        30154454,
+        30148247,
+        30147747,
+        30150917
+      ],
+      "score": 73,
+      "time": 1643634629,
+      "title": "VT100 Machine Emulator in JavaScript",
+      "type": "story",
+      "url": "https://www.pcjs.org/machines/dec/vt100/"
+    },
+    "og_item": {
+      "title": "How to Mislead with Facts",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://consilienceproject.org/content/images/2022/01/Mislead-with-Facts_1_Header-1.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 1280,
+          "height": 720,
+          "alt": ""
+        }
+      ],
+      "url": "https://consilienceproject.org/how-to-mislead-with-facts/",
+      "audio": [],
+      "description": "When is telling the truth a means of deception?",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "The Consilience Project",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.png"
+      }
+    }
+  },
+  {
     "id": 30152268,
     "title": "The unreasonable effectiveness of one-on-ones",
     "url": "https://www.benkuhn.net/11/",
@@ -1051,18 +1170,25 @@
     "points": 157,
     "comment_count": 146,
     "hn_item": {
-      "by": "rg111",
-      "descendants": 2,
-      "id": 30153326,
+      "by": "DiabloD3",
+      "descendants": 28,
+      "id": 30147507,
       "kids": [
-        30153891,
-        30158299
+        30148360,
+        30150693,
+        30149075,
+        30149590,
+        30148309,
+        30154454,
+        30148247,
+        30147747,
+        30150917
       ],
-      "score": 27,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
+      "score": 73,
+      "time": 1643634629,
+      "title": "VT100 Machine Emulator in JavaScript",
       "type": "story",
-      "url": "https://ar5iv.org/"
+      "url": "https://www.pcjs.org/machines/dec/vt100/"
     },
     "og_item": {
       "title": "The unreasonable effectiveness of one-on-ones",
@@ -1082,38 +1208,54 @@
     }
   },
   {
-    "id": 30157307,
-    "title": "Crisis Text Line, from my perspective",
-    "url": "http://www.zephoria.org/thoughts/archives/2022/01/31/crisis-text-line-from-my-perspective.html",
-    "time": 1643677665,
-    "image": "",
-    "icon": "",
-    "publisher": "zephoria.org",
-    "description": "",
+    "id": 30158391,
+    "title": "Free Wordle",
+    "url": "https://wordle.nyc/",
+    "time": 1643687115,
+    "image": "https://wordle.nyc/wordle-1200.png",
+    "icon": "https://wordle.nyc/favicon.ico",
+    "publisher": "wordle.nyc",
+    "description": "A free version of Wordle.",
     "by": "jbegley",
-    "points": 29,
-    "comment_count": 7,
+    "points": 20,
+    "comment_count": 10,
     "hn_item": {
-      "by": "rg111",
-      "descendants": 2,
-      "id": 30153326,
+      "by": "DiabloD3",
+      "descendants": 28,
+      "id": 30147507,
       "kids": [
-        30153891,
-        30158299
+        30148360,
+        30150693,
+        30149075,
+        30149590,
+        30148309,
+        30154454,
+        30148247,
+        30147747,
+        30150917
       ],
-      "score": 27,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
+      "score": 73,
+      "time": 1643634629,
+      "title": "VT100 Machine Emulator in JavaScript",
       "type": "story",
-      "url": "https://ar5iv.org/"
+      "url": "https://www.pcjs.org/machines/dec/vt100/"
     },
     "og_item": {
-      "title": "Crisis Text Line, from my perspective￼ | danah boyd | apophenia",
-      "type": "",
-      "image": [],
-      "url": "",
+      "title": "Wordle",
+      "type": "website",
+      "image": [
+        {
+          "url": "https://wordle.nyc/wordle-1200.png",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://wordle.nyc/",
       "audio": [],
-      "description": "",
+      "description": "A free version of Wordle.",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
@@ -1134,21 +1276,28 @@
     "publisher": "Ask a Manager",
     "description": "A reader writes: This is a situation currently unfolding at my husband's office so I’m a very amused bystander and thought I’d get your opinion on this",
     "by": "amadeuspzs",
-    "points": 813,
-    "comment_count": 487,
+    "points": 816,
+    "comment_count": 493,
     "hn_item": {
-      "by": "rg111",
-      "descendants": 2,
-      "id": 30153326,
+      "by": "DiabloD3",
+      "descendants": 28,
+      "id": 30147507,
       "kids": [
-        30153891,
-        30158299
+        30148360,
+        30150693,
+        30149075,
+        30149590,
+        30148309,
+        30154454,
+        30148247,
+        30147747,
+        30150917
       ],
-      "score": 27,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
+      "score": 73,
+      "time": 1643634629,
+      "title": "VT100 Machine Emulator in JavaScript",
       "type": "story",
-      "url": "https://ar5iv.org/"
+      "url": "https://www.pcjs.org/machines/dec/vt100/"
     },
     "og_item": {
       "title": "the new hire who showed up is not the same person we interviewed",
@@ -1177,6 +1326,56 @@
     }
   },
   {
+    "id": 30157307,
+    "title": "Crisis Text Line, from my perspective",
+    "url": "http://www.zephoria.org/thoughts/archives/2022/01/31/crisis-text-line-from-my-perspective.html",
+    "time": 1643677665,
+    "image": "",
+    "icon": "",
+    "publisher": "zephoria.org",
+    "description": "",
+    "by": "jbegley",
+    "points": 29,
+    "comment_count": 7,
+    "hn_item": {
+      "by": "DiabloD3",
+      "descendants": 28,
+      "id": 30147507,
+      "kids": [
+        30148360,
+        30150693,
+        30149075,
+        30149590,
+        30148309,
+        30154454,
+        30148247,
+        30147747,
+        30150917
+      ],
+      "score": 73,
+      "time": 1643634629,
+      "title": "VT100 Machine Emulator in JavaScript",
+      "type": "story",
+      "url": "https://www.pcjs.org/machines/dec/vt100/"
+    },
+    "og_item": {
+      "title": "Crisis Text Line, from my perspective￼ | danah boyd | apophenia",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30150495,
     "title": "Yemen's bifurcated monetary system",
     "url": "http://jpkoning.blogspot.com/2022/01/yemens-bifurcated-monetary-system.html",
@@ -1189,18 +1388,25 @@
     "points": 127,
     "comment_count": 74,
     "hn_item": {
-      "by": "rg111",
-      "descendants": 2,
-      "id": 30153326,
+      "by": "DiabloD3",
+      "descendants": 28,
+      "id": 30147507,
       "kids": [
-        30153891,
-        30158299
+        30148360,
+        30150693,
+        30149075,
+        30149590,
+        30148309,
+        30154454,
+        30148247,
+        30147747,
+        30150917
       ],
-      "score": 27,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
+      "score": 73,
+      "time": 1643634629,
+      "title": "VT100 Machine Emulator in JavaScript",
       "type": "story",
-      "url": "https://ar5iv.org/"
+      "url": "https://www.pcjs.org/machines/dec/vt100/"
     },
     "og_item": {
       "title": "Yemen's bifurcated monetary system",
@@ -1229,6 +1435,65 @@
     }
   },
   {
+    "id": 30156929,
+    "title": "Building a Cross-Platform Web and Mobile App from the Ground Up",
+    "url": "https://ambrook.com/blog/building-a-cross-platform-web-and-mobile-app-from-the-ground-up",
+    "time": 1643675060,
+    "image": "https://cdn.sanity.io/images/h6kk644c/production/90b5917ccea0609ca2fd9e399caef9c19cde237e-2000x1050.png",
+    "icon": "https://ambrook.com/img/favicon/favicon-196x196.png",
+    "publisher": "Ambrook",
+    "description": "\"Why can't we just write this code once and have it just work across Web, Android and iOS?\" As a mobile engineer who has spent both a significant portion of his career copying the exact same product from iOS to Android, I’ve asked myself this question many times..",
+    "by": "mfburnett",
+    "points": 49,
+    "comment_count": 10,
+    "hn_item": {
+      "by": "DiabloD3",
+      "descendants": 28,
+      "id": 30147507,
+      "kids": [
+        30148360,
+        30150693,
+        30149075,
+        30149590,
+        30148309,
+        30154454,
+        30148247,
+        30147747,
+        30150917
+      ],
+      "score": 73,
+      "time": 1643634629,
+      "title": "VT100 Machine Emulator in JavaScript",
+      "type": "story",
+      "url": "https://www.pcjs.org/machines/dec/vt100/"
+    },
+    "og_item": {
+      "title": "Building a Cross-Platform Web \u0026 Mobile App from the Ground Up | Ambrook",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://cdn.sanity.io/images/h6kk644c/production/90b5917ccea0609ca2fd9e399caef9c19cde237e-2000x1050.png",
+          "secure_url": "",
+          "type": "",
+          "width": 2000,
+          "height": 1050,
+          "alt": ""
+        }
+      ],
+      "url": "https://ambrook.com/blog/building-a-cross-platform-web-and-mobile-app-from-the-ground-up",
+      "audio": [],
+      "description": "\"Why can't we just write this code once and have it just work across Web, Android and iOS?\" As a mobile engineer who has spent both a significant portion of his career copying the exact same product from iOS to Android, I’ve asked myself this question many times..",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Ambrook",
+      "video": [],
+      "favicon": {
+        "url": "/img/favicon/favicon-196x196.png"
+      }
+    }
+  },
+  {
     "id": 30156479,
     "title": "Fifth Browser",
     "url": "https://github.com/clbr/fifth",
@@ -1239,20 +1504,27 @@
     "description": "Fifth is a Linux-exclusive browser that carries the best features from Opera, as well as a few unique features that are likely to please Linux power users. It\u0026#39;s based on a custom Webkit port to...",
     "by": "app4soft",
     "points": 38,
-    "comment_count": 11,
+    "comment_count": 12,
     "hn_item": {
-      "by": "rg111",
-      "descendants": 2,
-      "id": 30153326,
+      "by": "DiabloD3",
+      "descendants": 28,
+      "id": 30147507,
       "kids": [
-        30153891,
-        30158299
+        30148360,
+        30150693,
+        30149075,
+        30149590,
+        30148309,
+        30154454,
+        30148247,
+        30147747,
+        30150917
       ],
-      "score": 27,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
+      "score": 73,
+      "time": 1643634629,
+      "title": "VT100 Machine Emulator in JavaScript",
       "type": "story",
-      "url": "https://ar5iv.org/"
+      "url": "https://www.pcjs.org/machines/dec/vt100/"
     },
     "og_item": {
       "title": "GitHub - clbr/fifth: Fifth is a Linux-exclusive browser that carries the best features from Opera, as well as a few unique features that are likely to please Linux power users. It's based on a custom Webkit port to FLTK and comes licensed under the GPLv3.",
@@ -1290,21 +1562,28 @@
     "publisher": "The New York Times",
     "description": "The ends of the college and pro football seasons were already a perilous time for people recovering from a gambling addiction. Then came the onslaught of ads for legal sports betting.",
     "by": "jbegley",
-    "points": 169,
-    "comment_count": 264,
+    "points": 171,
+    "comment_count": 269,
     "hn_item": {
-      "by": "rg111",
-      "descendants": 2,
-      "id": 30153326,
+      "by": "DiabloD3",
+      "descendants": 28,
+      "id": 30147507,
       "kids": [
-        30153891,
-        30158299
+        30148360,
+        30150693,
+        30149075,
+        30149590,
+        30148309,
+        30154454,
+        30148247,
+        30147747,
+        30150917
       ],
-      "score": 27,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
+      "score": 73,
+      "time": 1643634629,
+      "title": "VT100 Machine Emulator in JavaScript",
       "type": "story",
-      "url": "https://ar5iv.org/"
+      "url": "https://www.pcjs.org/machines/dec/vt100/"
     },
     "og_item": {
       "title": "The Rising Human Cost of Sports Betting",
@@ -1333,110 +1612,6 @@
     }
   },
   {
-    "id": 30156929,
-    "title": "Building a Cross-Platform Web and Mobile App from the Ground Up",
-    "url": "https://ambrook.com/blog/building-a-cross-platform-web-and-mobile-app-from-the-ground-up",
-    "time": 1643675060,
-    "image": "https://cdn.sanity.io/images/h6kk644c/production/90b5917ccea0609ca2fd9e399caef9c19cde237e-2000x1050.png",
-    "icon": "https://ambrook.com/img/favicon/favicon-196x196.png",
-    "publisher": "Ambrook",
-    "description": "\"Why can't we just write this code once and have it just work across Web, Android and iOS?\" As a mobile engineer who has spent both a significant portion of his career copying the exact same product from iOS to Android, I’ve asked myself this question many times..",
-    "by": "mfburnett",
-    "points": 45,
-    "comment_count": 10,
-    "hn_item": {
-      "by": "rg111",
-      "descendants": 2,
-      "id": 30153326,
-      "kids": [
-        30153891,
-        30158299
-      ],
-      "score": 27,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
-      "type": "story",
-      "url": "https://ar5iv.org/"
-    },
-    "og_item": {
-      "title": "Building a Cross-Platform Web \u0026 Mobile App from the Ground Up | Ambrook",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://cdn.sanity.io/images/h6kk644c/production/90b5917ccea0609ca2fd9e399caef9c19cde237e-2000x1050.png",
-          "secure_url": "",
-          "type": "",
-          "width": 2000,
-          "height": 1050,
-          "alt": ""
-        }
-      ],
-      "url": "https://ambrook.com/blog/building-a-cross-platform-web-and-mobile-app-from-the-ground-up",
-      "audio": [],
-      "description": "\"Why can't we just write this code once and have it just work across Web, Android and iOS?\" As a mobile engineer who has spent both a significant portion of his career copying the exact same product from iOS to Android, I’ve asked myself this question many times..",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Ambrook",
-      "video": [],
-      "favicon": {
-        "url": "/img/favicon/favicon-196x196.png"
-      }
-    }
-  },
-  {
-    "id": 30157263,
-    "title": "The Wondrous Wordplay of Lunar New Year Food",
-    "url": "https://www.atlasobscura.com/articles/lunar-new-year-food",
-    "time": 1643677350,
-    "image": "https://img.atlasobscura.com/y55R1GbfLm5fb3JiBA1TIOCjs12SGnJBY7qQHKGJC9s/rt:fit/w:600/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy81YTIzODNmYzUy/YTk5NjQwZjhfdGFu/Z3l1YW4uanBlZw.jpg",
-    "icon": "https://s3.amazonaws.com/atlas-dev/misc/icons/favicon.ico",
-    "publisher": "Atlas Obscura",
-    "description": "Layers of meaning surround the names of nearly every dish.",
-    "by": "wyrm",
-    "points": 15,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "rg111",
-      "descendants": 2,
-      "id": 30153326,
-      "kids": [
-        30153891,
-        30158299
-      ],
-      "score": 27,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
-      "type": "story",
-      "url": "https://ar5iv.org/"
-    },
-    "og_item": {
-      "title": "The Wondrous Wordplay of Lunar New Year Food",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://img.atlasobscura.com/y55R1GbfLm5fb3JiBA1TIOCjs12SGnJBY7qQHKGJC9s/rt:fit/w:600/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy81YTIzODNmYzUy/YTk5NjQwZjhfdGFu/Z3l1YW4uanBlZw.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "http://www.atlasobscura.com/articles/lunar-new-year-food",
-      "audio": [],
-      "description": "Layers of meaning surround the names of nearly every dish.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Atlas Obscura",
-      "video": [],
-      "favicon": {
-        "url": "https://s3.amazonaws.com/atlas-dev/misc/icons/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30149844,
     "title": "Giant Pyrosome",
     "url": "https://oceana.org/marine-life/giant-pyrosome/",
@@ -1449,18 +1624,25 @@
     "points": 133,
     "comment_count": 33,
     "hn_item": {
-      "by": "rg111",
-      "descendants": 2,
-      "id": 30153326,
+      "by": "DiabloD3",
+      "descendants": 28,
+      "id": 30147507,
       "kids": [
-        30153891,
-        30158299
+        30148360,
+        30150693,
+        30149075,
+        30149590,
+        30148309,
+        30154454,
+        30148247,
+        30147747,
+        30150917
       ],
-      "score": 27,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
+      "score": 73,
+      "time": 1643634629,
+      "title": "VT100 Machine Emulator in JavaScript",
       "type": "story",
-      "url": "https://ar5iv.org/"
+      "url": "https://www.pcjs.org/machines/dec/vt100/"
     },
     "og_item": {
       "title": "Giant Pyrosome",
@@ -1489,6 +1671,174 @@
     }
   },
   {
+    "id": 30157263,
+    "title": "The Wondrous Wordplay of Lunar New Year Food",
+    "url": "https://www.atlasobscura.com/articles/lunar-new-year-food",
+    "time": 1643677350,
+    "image": "https://img.atlasobscura.com/y55R1GbfLm5fb3JiBA1TIOCjs12SGnJBY7qQHKGJC9s/rt:fit/w:600/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy81YTIzODNmYzUy/YTk5NjQwZjhfdGFu/Z3l1YW4uanBlZw.jpg",
+    "icon": "https://s3.amazonaws.com/atlas-dev/misc/icons/favicon.ico",
+    "publisher": "Atlas Obscura",
+    "description": "Layers of meaning surround the names of nearly every dish.",
+    "by": "wyrm",
+    "points": 15,
+    "comment_count": 0,
+    "hn_item": {
+      "by": "DiabloD3",
+      "descendants": 28,
+      "id": 30147507,
+      "kids": [
+        30148360,
+        30150693,
+        30149075,
+        30149590,
+        30148309,
+        30154454,
+        30148247,
+        30147747,
+        30150917
+      ],
+      "score": 73,
+      "time": 1643634629,
+      "title": "VT100 Machine Emulator in JavaScript",
+      "type": "story",
+      "url": "https://www.pcjs.org/machines/dec/vt100/"
+    },
+    "og_item": {
+      "title": "The Wondrous Wordplay of Lunar New Year Food",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://img.atlasobscura.com/y55R1GbfLm5fb3JiBA1TIOCjs12SGnJBY7qQHKGJC9s/rt:fit/w:600/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy81YTIzODNmYzUy/YTk5NjQwZjhfdGFu/Z3l1YW4uanBlZw.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "http://www.atlasobscura.com/articles/lunar-new-year-food",
+      "audio": [],
+      "description": "Layers of meaning surround the names of nearly every dish.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Atlas Obscura",
+      "video": [],
+      "favicon": {
+        "url": "https://s3.amazonaws.com/atlas-dev/misc/icons/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30158032,
+    "title": "Tar Considered Harmful (in the context of containers)",
+    "url": "https://www.cyphar.com/blog/post/20190121-ociv2-images-i-tar",
+    "time": 1643683763,
+    "image": "",
+    "icon": "https://www.cyphar.com/favicon.ico",
+    "publisher": "cyphar.com",
+    "description": "A semi-coherent rant about how tar is not suited for container images, and what properties we'd want in an OCIv2 image format (which will be presented in a follow-up).",
+    "by": "pcr910303",
+    "points": 8,
+    "comment_count": 1,
+    "hn_item": {
+      "by": "DiabloD3",
+      "descendants": 28,
+      "id": 30147507,
+      "kids": [
+        30148360,
+        30150693,
+        30149075,
+        30149590,
+        30148309,
+        30154454,
+        30148247,
+        30147747,
+        30150917
+      ],
+      "score": 73,
+      "time": 1643634629,
+      "title": "VT100 Machine Emulator in JavaScript",
+      "type": "story",
+      "url": "https://www.pcjs.org/machines/dec/vt100/"
+    },
+    "og_item": {
+      "title": "The Road to OCIv2 Images: What's Wrong with Tar? | Cyphar",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "A semi-coherent rant about how tar is not suited for container images, and what properties we'd want in an OCIv2 image format (which will be presented in a follow-up).",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30157269,
+    "title": "The Sixth Mass Extinction: fact, fiction or speculation?",
+    "url": "https://onlinelibrary.wiley.com/doi/full/10.1111/brv.12816",
+    "time": 1643677372,
+    "image": "https://onlinelibrary.wiley.com/cms/asset/dfefab7a-07e9-4940-a9be-4195a69f313f/brv.v97.1.cover.jpg",
+    "icon": "https://onlinelibrary.wiley.com/favicon.ico",
+    "publisher": "Wiley Online Library",
+    "description": "There have been five Mass Extinction events in the history of Earth's biodiversity, all caused by dramatic but natural phenomena. It has been claimed that the Sixth Mass Extinction may be underway, t...",
+    "by": "khaled_ismaeel",
+    "points": 48,
+    "comment_count": 59,
+    "hn_item": {
+      "by": "DiabloD3",
+      "descendants": 28,
+      "id": 30147507,
+      "kids": [
+        30148360,
+        30150693,
+        30149075,
+        30149590,
+        30148309,
+        30154454,
+        30148247,
+        30147747,
+        30150917
+      ],
+      "score": 73,
+      "time": 1643634629,
+      "title": "VT100 Machine Emulator in JavaScript",
+      "type": "story",
+      "url": "https://www.pcjs.org/machines/dec/vt100/"
+    },
+    "og_item": {
+      "title": "The Sixth Mass Extinction: fact, fiction or speculation?",
+      "type": "Article",
+      "image": [
+        {
+          "url": "https://onlinelibrary.wiley.com/cms/asset/dfefab7a-07e9-4940-a9be-4195a69f313f/brv.v97.1.cover.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://onlinelibrary.wiley.com/doi/10.1111/brv.12816",
+      "audio": [],
+      "description": "There have been five Mass Extinction events in the history of Earth's biodiversity, all caused by dramatic but natural phenomena. It has been claimed that the Sixth Mass Extinction may be underway, t...",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Wiley Online Library",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30125765,
     "title": "TeXMe Demo: Self-Rendering Markdown and MathJax Documents",
     "url": "https://susam.github.io/texme/examples/demo.html",
@@ -1501,18 +1851,25 @@
     "points": 6,
     "comment_count": 0,
     "hn_item": {
-      "by": "rg111",
-      "descendants": 2,
-      "id": 30153326,
+      "by": "DiabloD3",
+      "descendants": 28,
+      "id": 30147507,
       "kids": [
-        30153891,
-        30158299
+        30148360,
+        30150693,
+        30149075,
+        30149590,
+        30148309,
+        30154454,
+        30148247,
+        30147747,
+        30150917
       ],
-      "score": 27,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
+      "score": 73,
+      "time": 1643634629,
+      "title": "VT100 Machine Emulator in JavaScript",
       "type": "story",
-      "url": "https://ar5iv.org/"
+      "url": "https://www.pcjs.org/machines/dec/vt100/"
     },
     "og_item": {
       "title": "",
@@ -1532,58 +1889,6 @@
     }
   },
   {
-    "id": 30136835,
-    "title": "New engine could save internal combustion from the scrap heap",
-    "url": "https://www.motor1.com/news/563664/new-omega-combustion-engine-design/",
-    "time": 1643547924,
-    "image": "https://cdn.motor1.com/images/mgl/6ZpjWX/s1/omega-1-engine.jpg",
-    "icon": "https://www.motor1.com/favicon.ico",
-    "publisher": "Motor1.com",
-    "description": "A new engine technology could reinvent the internal combustion engine for the future, capable of better efficiency and fewer emissions.",
-    "by": "bobajeff",
-    "points": 69,
-    "comment_count": 75,
-    "hn_item": {
-      "by": "rg111",
-      "descendants": 2,
-      "id": 30153326,
-      "kids": [
-        30153891,
-        30158299
-      ],
-      "score": 27,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
-      "type": "story",
-      "url": "https://ar5iv.org/"
-    },
-    "og_item": {
-      "title": "This New Engine Could Save Internal Combustion From The Scrap Heap",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://cdn.motor1.com/images/mgl/6ZpjWX/s1/omega-1-engine.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 1920,
-          "height": 1080,
-          "alt": ""
-        }
-      ],
-      "url": "https://www.motor1.com/news/563664/new-omega-combustion-engine-design/",
-      "audio": [],
-      "description": "A new engine technology could reinvent the internal combustion engine for the future, capable of better efficiency and fewer emissions. ",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Motor1.com",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30154141,
     "title": "It's dire: Raspberry Pi availability tracker",
     "url": "https://www.jeffgeerling.com/blog/2022/its-dire-raspberry-pi-availability-tracker-launched",
@@ -1596,18 +1901,25 @@
     "points": 122,
     "comment_count": 92,
     "hn_item": {
-      "by": "rg111",
-      "descendants": 2,
-      "id": 30153326,
+      "by": "DiabloD3",
+      "descendants": 28,
+      "id": 30147507,
       "kids": [
-        30153891,
-        30158299
+        30148360,
+        30150693,
+        30149075,
+        30149590,
+        30148309,
+        30154454,
+        30148247,
+        30147747,
+        30150917
       ],
-      "score": 27,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
+      "score": 73,
+      "time": 1643634629,
+      "title": "VT100 Machine Emulator in JavaScript",
       "type": "story",
-      "url": "https://ar5iv.org/"
+      "url": "https://www.pcjs.org/machines/dec/vt100/"
     },
     "og_item": {
       "title": "It's dire: Raspberry Pi availability tracker is launched | Jeff Geerling",
@@ -1636,21 +1948,28 @@
     "publisher": "meadhbh.hamrick.rocks",
     "description": "An overview of the IETF's Virtual Worlds Agent Region Protocol and it's development.",
     "by": "dingosity",
-    "points": 60,
+    "points": 61,
     "comment_count": 51,
     "hn_item": {
-      "by": "rg111",
-      "descendants": 2,
-      "id": 30153326,
+      "by": "DiabloD3",
+      "descendants": 28,
+      "id": 30147507,
       "kids": [
-        30153891,
-        30158299
+        30148360,
+        30150693,
+        30149075,
+        30149590,
+        30148309,
+        30154454,
+        30148247,
+        30147747,
+        30150917
       ],
-      "score": 27,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
+      "score": 73,
+      "time": 1643634629,
+      "title": "VT100 Machine Emulator in JavaScript",
       "type": "story",
-      "url": "https://ar5iv.org/"
+      "url": "https://www.pcjs.org/machines/dec/vt100/"
     },
     "og_item": {
       "title": "What is VWRAP?",
@@ -1670,6 +1989,115 @@
     }
   },
   {
+    "id": 30136835,
+    "title": "New engine could save internal combustion from the scrap heap",
+    "url": "https://www.motor1.com/news/563664/new-omega-combustion-engine-design/",
+    "time": 1643547924,
+    "image": "https://cdn.motor1.com/images/mgl/6ZpjWX/s1/omega-1-engine.jpg",
+    "icon": "https://www.motor1.com/favicon.ico",
+    "publisher": "Motor1.com",
+    "description": "A new engine technology could reinvent the internal combustion engine for the future, capable of better efficiency and fewer emissions.",
+    "by": "bobajeff",
+    "points": 69,
+    "comment_count": 77,
+    "hn_item": {
+      "by": "DiabloD3",
+      "descendants": 28,
+      "id": 30147507,
+      "kids": [
+        30148360,
+        30150693,
+        30149075,
+        30149590,
+        30148309,
+        30154454,
+        30148247,
+        30147747,
+        30150917
+      ],
+      "score": 73,
+      "time": 1643634629,
+      "title": "VT100 Machine Emulator in JavaScript",
+      "type": "story",
+      "url": "https://www.pcjs.org/machines/dec/vt100/"
+    },
+    "og_item": {
+      "title": "This New Engine Could Save Internal Combustion From The Scrap Heap",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://cdn.motor1.com/images/mgl/6ZpjWX/s1/omega-1-engine.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 1920,
+          "height": 1080,
+          "alt": ""
+        }
+      ],
+      "url": "https://www.motor1.com/news/563664/new-omega-combustion-engine-design/",
+      "audio": [],
+      "description": "A new engine technology could reinvent the internal combustion engine for the future, capable of better efficiency and fewer emissions. ",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Motor1.com",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30137127,
+    "title": "Reducing the Size of Large PDFs",
+    "url": "https://leancrew.com/all-this/2022/01/reducing-the-size-of-large-pdfs/",
+    "time": 1643550336,
+    "image": "",
+    "icon": "https://leancrew.com/all-this/2022/01/reducing-the-size-of-large-pdfs/../../../resources/snowman-200.png",
+    "publisher": "leancrew.com",
+    "description": "",
+    "by": "ingve",
+    "points": 87,
+    "comment_count": 19,
+    "hn_item": {
+      "by": "DiabloD3",
+      "descendants": 28,
+      "id": 30147507,
+      "kids": [
+        30148360,
+        30150693,
+        30149075,
+        30149590,
+        30148309,
+        30154454,
+        30148247,
+        30147747,
+        30150917
+      ],
+      "score": 73,
+      "time": 1643634629,
+      "title": "VT100 Machine Emulator in JavaScript",
+      "type": "story",
+      "url": "https://www.pcjs.org/machines/dec/vt100/"
+    },
+    "og_item": {
+      "title": "Reducing the size of large PDFs - All this",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "../../../resources/snowman-200.png"
+      }
+    }
+  },
+  {
     "id": 30143099,
     "title": "Alien Aqueducts: The Maps of Martian Canals (2021)",
     "url": "https://publicdomainreview.org/collection/martian-canal-maps/",
@@ -1682,18 +2110,25 @@
     "points": 12,
     "comment_count": 0,
     "hn_item": {
-      "by": "rg111",
-      "descendants": 2,
-      "id": 30153326,
+      "by": "DiabloD3",
+      "descendants": 28,
+      "id": 30147507,
       "kids": [
-        30153891,
-        30158299
+        30148360,
+        30150693,
+        30149075,
+        30149590,
+        30148309,
+        30154454,
+        30148247,
+        30147747,
+        30150917
       ],
-      "score": 27,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
+      "score": 73,
+      "time": 1643634629,
+      "title": "VT100 Machine Emulator in JavaScript",
       "type": "story",
-      "url": "https://ar5iv.org/"
+      "url": "https://www.pcjs.org/machines/dec/vt100/"
     },
     "og_item": {
       "title": "Alien Aqueducts: The Maps of Martian Canals",
@@ -1722,33 +2157,40 @@
     }
   },
   {
-    "id": 30137127,
-    "title": "Reducing the Size of Large PDFs",
-    "url": "https://leancrew.com/all-this/2022/01/reducing-the-size-of-large-pdfs/",
-    "time": 1643550336,
+    "id": 30152930,
+    "title": "Software Development Languages: Haskell",
+    "url": "https://www.fosskers.ca/en/blog/haskell-software-dev",
+    "time": 1643657291,
     "image": "",
-    "icon": "https://leancrew.com/all-this/2022/01/reducing-the-size-of-large-pdfs/../../../resources/snowman-200.png",
-    "publisher": "leancrew.com",
+    "icon": "https://www.fosskers.ca/assets/images/favicon-32x32.png",
+    "publisher": "fosskers.ca",
     "description": "",
-    "by": "ingve",
-    "points": 86,
-    "comment_count": 19,
+    "by": "colingw",
+    "points": 74,
+    "comment_count": 30,
     "hn_item": {
-      "by": "rg111",
-      "descendants": 2,
-      "id": 30153326,
+      "by": "DiabloD3",
+      "descendants": 28,
+      "id": 30147507,
       "kids": [
-        30153891,
-        30158299
+        30148360,
+        30150693,
+        30149075,
+        30149590,
+        30148309,
+        30154454,
+        30148247,
+        30147747,
+        30150917
       ],
-      "score": 27,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
+      "score": 73,
+      "time": 1643634629,
+      "title": "VT100 Machine Emulator in JavaScript",
       "type": "story",
-      "url": "https://ar5iv.org/"
+      "url": "https://www.pcjs.org/machines/dec/vt100/"
     },
     "og_item": {
-      "title": "Reducing the size of large PDFs - All this",
+      "title": "Colin Woodbury",
       "type": "",
       "image": [],
       "url": "",
@@ -1760,50 +2202,7 @@
       "site_name": "",
       "video": [],
       "favicon": {
-        "url": "../../../resources/snowman-200.png"
-      }
-    }
-  },
-  {
-    "id": 30158032,
-    "title": "Tar Considered Harmful (in the context of containers)",
-    "url": "https://www.cyphar.com/blog/post/20190121-ociv2-images-i-tar",
-    "time": 1643683763,
-    "image": "",
-    "icon": "https://www.cyphar.com/favicon.ico",
-    "publisher": "cyphar.com",
-    "description": "A semi-coherent rant about how tar is not suited for container images, and what properties we'd want in an OCIv2 image format (which will be presented in a follow-up).",
-    "by": "pcr910303",
-    "points": 5,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "rg111",
-      "descendants": 2,
-      "id": 30153326,
-      "kids": [
-        30153891,
-        30158299
-      ],
-      "score": 27,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
-      "type": "story",
-      "url": "https://ar5iv.org/"
-    },
-    "og_item": {
-      "title": "The Road to OCIv2 Images: What's Wrong with Tar? | Cyphar",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "A semi-coherent rant about how tar is not suited for container images, and what properties we'd want in an OCIv2 image format (which will be presented in a follow-up).",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
+        "url": "/assets/images/favicon-32x32.png"
       }
     }
   },
@@ -1817,21 +2216,28 @@
     "publisher": "GitHub",
     "description": "Rich-cli is a command line toolbox for fancy output in the terminal - GitHub - Textualize/rich-cli: Rich-cli is a command line toolbox for fancy output in the terminal",
     "by": "willm",
-    "points": 106,
+    "points": 107,
     "comment_count": 27,
     "hn_item": {
-      "by": "rg111",
-      "descendants": 2,
-      "id": 30153326,
+      "by": "DiabloD3",
+      "descendants": 28,
+      "id": 30147507,
       "kids": [
-        30153891,
-        30158299
+        30148360,
+        30150693,
+        30149075,
+        30149590,
+        30148309,
+        30154454,
+        30148247,
+        30147747,
+        30150917
       ],
-      "score": 27,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
+      "score": 73,
+      "time": 1643634629,
+      "title": "VT100 Machine Emulator in JavaScript",
       "type": "story",
-      "url": "https://ar5iv.org/"
+      "url": "https://www.pcjs.org/machines/dec/vt100/"
     },
     "og_item": {
       "title": "GitHub - Textualize/rich-cli: Rich-cli is a command line toolbox for fancy output in the terminal",
@@ -1860,49 +2266,6 @@
     }
   },
   {
-    "id": 30152930,
-    "title": "Software Development Languages: Haskell",
-    "url": "https://www.fosskers.ca/en/blog/haskell-software-dev",
-    "time": 1643657291,
-    "image": "",
-    "icon": "https://www.fosskers.ca/assets/images/favicon-32x32.png",
-    "publisher": "fosskers.ca",
-    "description": "",
-    "by": "colingw",
-    "points": 73,
-    "comment_count": 30,
-    "hn_item": {
-      "by": "rg111",
-      "descendants": 2,
-      "id": 30153326,
-      "kids": [
-        30153891,
-        30158299
-      ],
-      "score": 27,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
-      "type": "story",
-      "url": "https://ar5iv.org/"
-    },
-    "og_item": {
-      "title": "Colin Woodbury",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/assets/images/favicon-32x32.png"
-      }
-    }
-  },
-  {
     "id": 30153493,
     "title": "Observing HTTP/2 Traffic Is Hard, but eBPF Can Help",
     "url": "https://blog.px.dev/ebpf-http2-tracing/",
@@ -1912,21 +2275,28 @@
     "publisher": "Pixie Labs Blog",
     "description": "In today's world full of microservices, gaining observability into the messages sent between services is critical to understanding and troubleshooting issues…",
     "by": "nserrino",
-    "points": 67,
+    "points": 68,
     "comment_count": 3,
     "hn_item": {
-      "by": "rg111",
-      "descendants": 2,
-      "id": 30153326,
+      "by": "DiabloD3",
+      "descendants": 28,
+      "id": 30147507,
       "kids": [
-        30153891,
-        30158299
+        30148360,
+        30150693,
+        30149075,
+        30149590,
+        30148309,
+        30154454,
+        30148247,
+        30147747,
+        30150917
       ],
-      "score": 27,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
+      "score": 73,
+      "time": 1643634629,
+      "title": "VT100 Machine Emulator in JavaScript",
       "type": "story",
-      "url": "https://ar5iv.org/"
+      "url": "https://www.pcjs.org/machines/dec/vt100/"
     },
     "og_item": {
       "title": "Observing HTTP/2 Traffic is Hard, but eBPF Can Help",
@@ -1955,6 +2325,56 @@
     }
   },
   {
+    "id": 30149864,
+    "title": "How to approach and prioritize technical debt",
+    "url": "https://leadership.garden/tips-on-prioritizing-tech-debt/",
+    "time": 1643646689,
+    "image": "",
+    "icon": "https://leadership.garden/favicon.ico",
+    "publisher": "leadership.garden",
+    "description": "",
+    "by": "ochronus",
+    "points": 87,
+    "comment_count": 41,
+    "hn_item": {
+      "by": "DiabloD3",
+      "descendants": 28,
+      "id": 30147507,
+      "kids": [
+        30148360,
+        30150693,
+        30149075,
+        30149590,
+        30148309,
+        30154454,
+        30148247,
+        30147747,
+        30150917
+      ],
+      "score": 73,
+      "time": 1643634629,
+      "title": "VT100 Machine Emulator in JavaScript",
+      "type": "story",
+      "url": "https://www.pcjs.org/machines/dec/vt100/"
+    },
+    "og_item": {
+      "title": "Please Wait... | Cloudflare",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30129857,
     "title": "Online archives where scientists post research spark information revolution",
     "url": "https://www.washingtonpost.com/health/preprint-peer-review-studies/2022/01/28/3cdfb46e-4d53-11ec-b73b-a00d6e559a6e_story.html",
@@ -1967,18 +2387,25 @@
     "points": 32,
     "comment_count": 16,
     "hn_item": {
-      "by": "rg111",
-      "descendants": 2,
-      "id": 30153326,
+      "by": "DiabloD3",
+      "descendants": 28,
+      "id": 30147507,
       "kids": [
-        30153891,
-        30158299
+        30148360,
+        30150693,
+        30149075,
+        30149590,
+        30148309,
+        30154454,
+        30148247,
+        30147747,
+        30150917
       ],
-      "score": 27,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
+      "score": 73,
+      "time": 1643634629,
+      "title": "VT100 Machine Emulator in JavaScript",
       "type": "story",
-      "url": "https://ar5iv.org/"
+      "url": "https://www.pcjs.org/machines/dec/vt100/"
     },
     "og_item": {
       "title": "Online archives where scientists post their research spark information revolution",
@@ -2007,49 +2434,6 @@
     }
   },
   {
-    "id": 30149864,
-    "title": "How to approach and prioritize technical debt",
-    "url": "https://leadership.garden/tips-on-prioritizing-tech-debt/",
-    "time": 1643646689,
-    "image": "",
-    "icon": "https://leadership.garden/favicon.ico",
-    "publisher": "leadership.garden",
-    "description": "",
-    "by": "ochronus",
-    "points": 87,
-    "comment_count": 41,
-    "hn_item": {
-      "by": "rg111",
-      "descendants": 2,
-      "id": 30153326,
-      "kids": [
-        30153891,
-        30158299
-      ],
-      "score": 27,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
-      "type": "story",
-      "url": "https://ar5iv.org/"
-    },
-    "og_item": {
-      "title": "Please Wait... | Cloudflare",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30158180,
     "title": "How to Prevent Blackouts by Packetizing the Power Grid",
     "url": "https://spectrum.ieee.org/packetized-power-grid",
@@ -2062,18 +2446,25 @@
     "points": 4,
     "comment_count": 0,
     "hn_item": {
-      "by": "rg111",
-      "descendants": 2,
-      "id": 30153326,
+      "by": "DiabloD3",
+      "descendants": 28,
+      "id": 30147507,
       "kids": [
-        30153891,
-        30158299
+        30148360,
+        30150693,
+        30149075,
+        30149590,
+        30148309,
+        30154454,
+        30148247,
+        30147747,
+        30150917
       ],
-      "score": 27,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
+      "score": 73,
+      "time": 1643634629,
+      "title": "VT100 Machine Emulator in JavaScript",
       "type": "story",
-      "url": "https://ar5iv.org/"
+      "url": "https://www.pcjs.org/machines/dec/vt100/"
     },
     "og_item": {
       "title": "How to Prevent Blackouts by Packetizing the Power Grid",
@@ -2111,21 +2502,28 @@
     "publisher": "CNBC",
     "description": "Sony has agreed to acquire Bungie in a $3.6 billion deal, continuing January's torrid pace of video game consolidation",
     "by": "daveaiello",
-    "points": 284,
+    "points": 286,
     "comment_count": 244,
     "hn_item": {
-      "by": "rg111",
-      "descendants": 2,
-      "id": 30153326,
+      "by": "DiabloD3",
+      "descendants": 28,
+      "id": 30147507,
       "kids": [
-        30153891,
-        30158299
+        30148360,
+        30150693,
+        30149075,
+        30149590,
+        30148309,
+        30154454,
+        30148247,
+        30147747,
+        30150917
       ],
-      "score": 27,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
+      "score": 73,
+      "time": 1643634629,
+      "title": "VT100 Machine Emulator in JavaScript",
       "type": "story",
-      "url": "https://ar5iv.org/"
+      "url": "https://www.pcjs.org/machines/dec/vt100/"
     },
     "og_item": {
       "title": "Sony to buy video game maker Bungie in $3.6 billion deal as industry consolidation heats up",
@@ -2154,58 +2552,6 @@
     }
   },
   {
-    "id": 30156182,
-    "title": "Porsche Taycan breaks the Guinness World Records for coast-to-coast charging",
-    "url": "https://newsroom.porsche.com/en_US/2022/products/porsche-taycan-coast-to-coast-charging-guinness-world-record-wayne-gerdes-27225.html",
-    "time": 1643670888,
-    "image": "https://newsroom.porsche.com/.imaging/mte/porsche-templating-theme/teaser_700x395/dam/US-local/Press-Releases/2022/January-2022/20210128-Charging-Record/Taycan_Charging_Record-15.jpg/jcr:content/Taycan_Charging_Record-15.jpg",
-    "icon": "https://newsroom.porsche.com/dam/jcr:d87b8d2f-bf14-4132-8e7f-7c63e8a3bc6b/porsche_crest.ico",
-    "publisher": "Porsche Newsroom",
-    "description": "Achievement officially recognized by Guinness World Records™ –Taycan spends a total of less than 2.5 hours charging on a cross-country drive",
-    "by": "brg1007",
-    "points": 17,
-    "comment_count": 12,
-    "hn_item": {
-      "by": "rg111",
-      "descendants": 2,
-      "id": 30153326,
-      "kids": [
-        30153891,
-        30158299
-      ],
-      "score": 27,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
-      "type": "story",
-      "url": "https://ar5iv.org/"
-    },
-    "og_item": {
-      "title": "Porsche Taycan breaks the Guinness World Records title for coast-to-coast charging",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://newsroom.porsche.com/.imaging/mte/porsche-templating-theme/teaser_700x395/dam/US-local/Press-Releases/2022/January-2022/20210128-Charging-Record/Taycan_Charging_Record-15.jpg/jcr:content/Taycan_Charging_Record-15.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://newsroom.porsche.com/en_US/2022/products/porsche-taycan-coast-to-coast-charging-guinness-world-record-wayne-gerdes-27225.html",
-      "audio": [],
-      "description": "Achievement officially recognized by Guinness World Records™ –Taycan spends a total of less than 2.5 hours charging on a cross-country drive",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Porsche Newsroom",
-      "video": [],
-      "favicon": {
-        "url": "/dam/jcr:d87b8d2f-bf14-4132-8e7f-7c63e8a3bc6b/porsche_crest.ico"
-      }
-    }
-  },
-  {
     "id": 30153547,
     "title": "Why Henry III's gold penny failed",
     "url": "http://jpkoning.blogspot.com/2022/01/why-henry-iiis-gold-penny-failed.html",
@@ -2218,18 +2564,25 @@
     "points": 40,
     "comment_count": 56,
     "hn_item": {
-      "by": "rg111",
-      "descendants": 2,
-      "id": 30153326,
+      "by": "DiabloD3",
+      "descendants": 28,
+      "id": 30147507,
       "kids": [
-        30153891,
-        30158299
+        30148360,
+        30150693,
+        30149075,
+        30149590,
+        30148309,
+        30154454,
+        30148247,
+        30147747,
+        30150917
       ],
-      "score": 27,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
+      "score": 73,
+      "time": 1643634629,
+      "title": "VT100 Machine Emulator in JavaScript",
       "type": "story",
-      "url": "https://ar5iv.org/"
+      "url": "https://www.pcjs.org/machines/dec/vt100/"
     },
     "og_item": {
       "title": "Why Henry III's gold penny failed",
@@ -2258,6 +2611,124 @@
     }
   },
   {
+    "id": 30156182,
+    "title": "Porsche Taycan breaks the Guinness World Records for coast-to-coast charging",
+    "url": "https://newsroom.porsche.com/en_US/2022/products/porsche-taycan-coast-to-coast-charging-guinness-world-record-wayne-gerdes-27225.html",
+    "time": 1643670888,
+    "image": "https://newsroom.porsche.com/.imaging/mte/porsche-templating-theme/teaser_700x395/dam/US-local/Press-Releases/2022/January-2022/20210128-Charging-Record/Taycan_Charging_Record-15.jpg/jcr:content/Taycan_Charging_Record-15.jpg",
+    "icon": "https://newsroom.porsche.com/dam/jcr:d87b8d2f-bf14-4132-8e7f-7c63e8a3bc6b/porsche_crest.ico",
+    "publisher": "Porsche Newsroom",
+    "description": "Achievement officially recognized by Guinness World Records™ –Taycan spends a total of less than 2.5 hours charging on a cross-country drive",
+    "by": "brg1007",
+    "points": 17,
+    "comment_count": 12,
+    "hn_item": {
+      "by": "DiabloD3",
+      "descendants": 28,
+      "id": 30147507,
+      "kids": [
+        30148360,
+        30150693,
+        30149075,
+        30149590,
+        30148309,
+        30154454,
+        30148247,
+        30147747,
+        30150917
+      ],
+      "score": 73,
+      "time": 1643634629,
+      "title": "VT100 Machine Emulator in JavaScript",
+      "type": "story",
+      "url": "https://www.pcjs.org/machines/dec/vt100/"
+    },
+    "og_item": {
+      "title": "Porsche Taycan breaks the Guinness World Records title for coast-to-coast charging",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://newsroom.porsche.com/.imaging/mte/porsche-templating-theme/teaser_700x395/dam/US-local/Press-Releases/2022/January-2022/20210128-Charging-Record/Taycan_Charging_Record-15.jpg/jcr:content/Taycan_Charging_Record-15.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://newsroom.porsche.com/en_US/2022/products/porsche-taycan-coast-to-coast-charging-guinness-world-record-wayne-gerdes-27225.html",
+      "audio": [],
+      "description": "Achievement officially recognized by Guinness World Records™ –Taycan spends a total of less than 2.5 hours charging on a cross-country drive",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Porsche Newsroom",
+      "video": [],
+      "favicon": {
+        "url": "/dam/jcr:d87b8d2f-bf14-4132-8e7f-7c63e8a3bc6b/porsche_crest.ico"
+      }
+    }
+  },
+  {
+    "id": 30137254,
+    "title": "Autodocumenting Makefiles",
+    "url": "https://daniel.feldroy.com/posts/autodocumenting-makefiles",
+    "time": 1643551305,
+    "image": "https://daniel.feldroy.com/images/autodocumenting-makefiles.png",
+    "icon": "https://daniel.feldroy.com/favicon/favicon-16x16.png",
+    "publisher": "Daniel Roy Greenfeld",
+    "description": "Make Your Makefiles Make Your Day!",
+    "by": "JNRowe",
+    "points": 65,
+    "comment_count": 35,
+    "hn_item": {
+      "by": "DiabloD3",
+      "descendants": 28,
+      "id": 30147507,
+      "kids": [
+        30148360,
+        30150693,
+        30149075,
+        30149590,
+        30148309,
+        30154454,
+        30148247,
+        30147747,
+        30150917
+      ],
+      "score": 73,
+      "time": 1643634629,
+      "title": "VT100 Machine Emulator in JavaScript",
+      "type": "story",
+      "url": "https://www.pcjs.org/machines/dec/vt100/"
+    },
+    "og_item": {
+      "title": "Autodocumenting Makefiles",
+      "type": "website",
+      "image": [
+        {
+          "url": "https://daniel.feldroy.com/images/autodocumenting-makefiles.png",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://daniel.feldroy.com/posts/autodocumenting-makefiles",
+      "audio": [],
+      "description": "Make Your Makefiles Make Your Day!",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Daniel Roy Greenfeld",
+      "video": [],
+      "favicon": {
+        "url": "/favicon/favicon-16x16.png"
+      }
+    }
+  },
+  {
     "id": 30129652,
     "title": "Two 60-foot-long murals discovered behind walls of 115-year-old building",
     "url": "https://www.cnn.com/style/article/couple-discover-murals-during-renovation-trnd/index.html",
@@ -2268,20 +2739,27 @@
     "description": "What started out as a couple's renovation project to convert a historic building into a bar has turned into an effort to restore decades-old artwork in a small Washington town.",
     "by": "wglb",
     "points": 57,
-    "comment_count": 19,
+    "comment_count": 20,
     "hn_item": {
-      "by": "rg111",
-      "descendants": 2,
-      "id": 30153326,
+      "by": "DiabloD3",
+      "descendants": 28,
+      "id": 30147507,
       "kids": [
-        30153891,
-        30158299
+        30148360,
+        30150693,
+        30149075,
+        30149590,
+        30148309,
+        30154454,
+        30148247,
+        30147747,
+        30150917
       ],
-      "score": 27,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
+      "score": 73,
+      "time": 1643634629,
+      "title": "VT100 Machine Emulator in JavaScript",
       "type": "story",
-      "url": "https://ar5iv.org/"
+      "url": "https://www.pcjs.org/machines/dec/vt100/"
     },
     "og_item": {
       "title": "A couple renovating a 115-year-old building discovered two 60-foot-long hidden murals",
@@ -2320,20 +2798,27 @@
     "description": "",
     "by": "decrypt",
     "points": 657,
-    "comment_count": 730,
+    "comment_count": 731,
     "hn_item": {
-      "by": "rg111",
-      "descendants": 2,
-      "id": 30153326,
+      "by": "DiabloD3",
+      "descendants": 28,
+      "id": 30147507,
       "kids": [
-        30153891,
-        30158299
+        30148360,
+        30150693,
+        30149075,
+        30149590,
+        30148309,
+        30154454,
+        30148247,
+        30147747,
+        30150917
       ],
-      "score": 27,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
+      "score": 73,
+      "time": 1643634629,
+      "title": "VT100 Machine Emulator in JavaScript",
       "type": "story",
-      "url": "https://ar5iv.org/"
+      "url": "https://www.pcjs.org/machines/dec/vt100/"
     },
     "og_item": {
       "title": "Just a moment...",
@@ -2353,110 +2838,6 @@
     }
   },
   {
-    "id": 30137254,
-    "title": "Autodocumenting Makefiles",
-    "url": "https://daniel.feldroy.com/posts/autodocumenting-makefiles",
-    "time": 1643551305,
-    "image": "https://daniel.feldroy.com/images/autodocumenting-makefiles.png",
-    "icon": "https://daniel.feldroy.com/favicon/favicon-16x16.png",
-    "publisher": "Daniel Roy Greenfeld",
-    "description": "Make Your Makefiles Make Your Day!",
-    "by": "JNRowe",
-    "points": 64,
-    "comment_count": 35,
-    "hn_item": {
-      "by": "rg111",
-      "descendants": 2,
-      "id": 30153326,
-      "kids": [
-        30153891,
-        30158299
-      ],
-      "score": 27,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
-      "type": "story",
-      "url": "https://ar5iv.org/"
-    },
-    "og_item": {
-      "title": "Autodocumenting Makefiles",
-      "type": "website",
-      "image": [
-        {
-          "url": "https://daniel.feldroy.com/images/autodocumenting-makefiles.png",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://daniel.feldroy.com/posts/autodocumenting-makefiles",
-      "audio": [],
-      "description": "Make Your Makefiles Make Your Day!",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Daniel Roy Greenfeld",
-      "video": [],
-      "favicon": {
-        "url": "/favicon/favicon-16x16.png"
-      }
-    }
-  },
-  {
-    "id": 30157398,
-    "title": "How do I work around Vercel's 4KB Environment Variables limit?",
-    "url": "https://vercel.com/support/articles/how-do-i-workaround-vercel-s-4-kb-environment-variables-limit",
-    "time": 1643678346,
-    "image": "https://og-image.vercel.app/How%20do%20I%20work%20around%20Vercel's%204KB%20Environment%20Variables%20limit%3F.png?theme=light\u0026md=1\u0026fontSize=75px\u0026images=https%3A%2F%2Fassets.vercel.com%2Fimage%2Fupload%2Ffront%2Fassets%2Fdesign%2Fzeit-black-triangle.svg",
-    "icon": "https://assets.vercel.com/image/upload/front/favicon/vercel/favicon.ico",
-    "publisher": "Vercel Documentation",
-    "description": "The maximum allowed size of Environment Variables for a Deployment is 4KB and cannot be increased. This article provides a workaround by encrypting the required key-value pairs in a file and storing the encryption keys.",
-    "by": "vortexo",
-    "points": 5,
-    "comment_count": 2,
-    "hn_item": {
-      "by": "rg111",
-      "descendants": 2,
-      "id": 30153326,
-      "kids": [
-        30153891,
-        30158299
-      ],
-      "score": 27,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
-      "type": "story",
-      "url": "https://ar5iv.org/"
-    },
-    "og_item": {
-      "title": "How do I work around Vercel's 4KB Environment Variables limit?",
-      "type": "website",
-      "image": [
-        {
-          "url": "https://og-image.vercel.app/How%20do%20I%20work%20around%20Vercel's%204KB%20Environment%20Variables%20limit%3F.png?theme=light\u0026md=1\u0026fontSize=75px\u0026images=https%3A%2F%2Fassets.vercel.com%2Fimage%2Fupload%2Ffront%2Fassets%2Fdesign%2Fzeit-black-triangle.svg",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://vercel.com/support/articles/how-do-i-workaround-vercel-s-4-kb-environment-variables-limit",
-      "audio": [],
-      "description": "The maximum allowed size of Environment Variables for a Deployment is 4KB and cannot be increased. This article provides a workaround by encrypting the required key-value pairs in a file and storing the encryption keys.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Vercel Documentation",
-      "video": [],
-      "favicon": {
-        "url": "https://assets.vercel.com/image/upload/front/favicon/vercel/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30157064,
     "title": "Where did Omicron come from? Three key theories",
     "url": "https://www.nature.com/articles/d41586-022-00215-2",
@@ -2466,21 +2847,28 @@
     "publisher": "Nature",
     "description": "The highly transmissible variant emerged with a host of unusual mutations. Now scientists are trying to work out how it evolved.",
     "by": "pseudolus",
-    "points": 26,
+    "points": 27,
     "comment_count": 19,
     "hn_item": {
-      "by": "rg111",
-      "descendants": 2,
-      "id": 30153326,
+      "by": "DiabloD3",
+      "descendants": 28,
+      "id": 30147507,
       "kids": [
-        30153891,
-        30158299
+        30148360,
+        30150693,
+        30149075,
+        30149590,
+        30148309,
+        30154454,
+        30148247,
+        30147747,
+        30150917
       ],
-      "score": 27,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
+      "score": 73,
+      "time": 1643634629,
+      "title": "VT100 Machine Emulator in JavaScript",
       "type": "story",
-      "url": "https://ar5iv.org/"
+      "url": "https://www.pcjs.org/machines/dec/vt100/"
     },
     "og_item": {
       "title": "Where did Omicron come from? Three key theories",
@@ -2518,21 +2906,28 @@
     "publisher": "TechCrunch",
     "description": "Today’s cars are dumb where they should be smart, and smart where they should be dumb. Enough already. Make a car that’s pretty much all dumb and watch it sell — because what automakers are giving people is so bad, they’ll pay more to have less of it. Cars now are like budget smar…",
     "by": "wrycoder",
-    "points": 497,
+    "points": 498,
     "comment_count": 574,
     "hn_item": {
-      "by": "rg111",
-      "descendants": 2,
-      "id": 30153326,
+      "by": "DiabloD3",
+      "descendants": 28,
+      "id": 30147507,
       "kids": [
-        30153891,
-        30158299
+        30148360,
+        30150693,
+        30149075,
+        30149590,
+        30148309,
+        30154454,
+        30148247,
+        30147747,
+        30150917
       ],
-      "score": 27,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
+      "score": 73,
+      "time": 1643634629,
+      "title": "VT100 Machine Emulator in JavaScript",
       "type": "story",
-      "url": "https://ar5iv.org/"
+      "url": "https://www.pcjs.org/machines/dec/vt100/"
     },
     "og_item": {
       "title": "Please make a dumb car – TechCrunch",
@@ -2561,6 +2956,65 @@
     }
   },
   {
+    "id": 30157398,
+    "title": "How do I work around Vercel's 4KB Environment Variables limit?",
+    "url": "https://vercel.com/support/articles/how-do-i-workaround-vercel-s-4-kb-environment-variables-limit",
+    "time": 1643678346,
+    "image": "https://og-image.vercel.app/How%20do%20I%20work%20around%20Vercel's%204KB%20Environment%20Variables%20limit%3F.png?theme=light\u0026md=1\u0026fontSize=75px\u0026images=https%3A%2F%2Fassets.vercel.com%2Fimage%2Fupload%2Ffront%2Fassets%2Fdesign%2Fzeit-black-triangle.svg",
+    "icon": "https://assets.vercel.com/image/upload/front/favicon/vercel/favicon.ico",
+    "publisher": "Vercel Documentation",
+    "description": "The maximum allowed size of Environment Variables for a Deployment is 4KB and cannot be increased. This article provides a workaround by encrypting the required key-value pairs in a file and storing the encryption keys.",
+    "by": "vortexo",
+    "points": 5,
+    "comment_count": 2,
+    "hn_item": {
+      "by": "DiabloD3",
+      "descendants": 28,
+      "id": 30147507,
+      "kids": [
+        30148360,
+        30150693,
+        30149075,
+        30149590,
+        30148309,
+        30154454,
+        30148247,
+        30147747,
+        30150917
+      ],
+      "score": 73,
+      "time": 1643634629,
+      "title": "VT100 Machine Emulator in JavaScript",
+      "type": "story",
+      "url": "https://www.pcjs.org/machines/dec/vt100/"
+    },
+    "og_item": {
+      "title": "How do I work around Vercel's 4KB Environment Variables limit?",
+      "type": "website",
+      "image": [
+        {
+          "url": "https://og-image.vercel.app/How%20do%20I%20work%20around%20Vercel's%204KB%20Environment%20Variables%20limit%3F.png?theme=light\u0026md=1\u0026fontSize=75px\u0026images=https%3A%2F%2Fassets.vercel.com%2Fimage%2Fupload%2Ffront%2Fassets%2Fdesign%2Fzeit-black-triangle.svg",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://vercel.com/support/articles/how-do-i-workaround-vercel-s-4-kb-environment-variables-limit",
+      "audio": [],
+      "description": "The maximum allowed size of Environment Variables for a Deployment is 4KB and cannot be increased. This article provides a workaround by encrypting the required key-value pairs in a file and storing the encryption keys.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Vercel Documentation",
+      "video": [],
+      "favicon": {
+        "url": "https://assets.vercel.com/image/upload/front/favicon/vercel/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30149213,
     "title": "Learn Elisp the Hard Way (2011)",
     "url": "https://github.com/hypernumbers/learn_elisp_the_hard_way",
@@ -2573,18 +3027,25 @@
     "points": 78,
     "comment_count": 21,
     "hn_item": {
-      "by": "rg111",
-      "descendants": 2,
-      "id": 30153326,
+      "by": "DiabloD3",
+      "descendants": 28,
+      "id": 30147507,
       "kids": [
-        30153891,
-        30158299
+        30148360,
+        30150693,
+        30149075,
+        30149590,
+        30148309,
+        30154454,
+        30148247,
+        30147747,
+        30150917
       ],
-      "score": 27,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
+      "score": 73,
+      "time": 1643634629,
+      "title": "VT100 Machine Emulator in JavaScript",
       "type": "story",
-      "url": "https://ar5iv.org/"
+      "url": "https://www.pcjs.org/machines/dec/vt100/"
     },
     "og_item": {
       "title": "GitHub - hypernumbers/learn_elisp_the_hard_way: A book about learning eLisp for customising Emacs the hard way - see the Gist https://gist.github.com/754568",
@@ -2613,58 +3074,6 @@
     }
   },
   {
-    "id": 30136479,
-    "title": "Socrates on the blessing of being refuted",
-    "url": "https://antigonejournal.com/2022/01/socrates-being-refuted/",
-    "time": 1643545027,
-    "image": "https://antigonejournal.com/wp-content/uploads/2022/01/HWDrops.png",
-    "icon": "https://i0.wp.com/antigonejournal.com/wp-content/uploads/2021/03/cropped-Ant.png?fit=192%2C192\u0026ssl=1",
-    "publisher": "Antigone",
-    "description": "ANDREW BEER The genuine pleasure of yielding to better arguments.",
-    "by": "AverilS",
-    "points": 127,
-    "comment_count": 61,
-    "hn_item": {
-      "by": "rg111",
-      "descendants": 2,
-      "id": 30153326,
-      "kids": [
-        30153891,
-        30158299
-      ],
-      "score": 27,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
-      "type": "story",
-      "url": "https://ar5iv.org/"
-    },
-    "og_item": {
-      "title": "Socrates on the Blessing of Being Refuted - Antigone",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://antigonejournal.com/wp-content/uploads/2022/01/HWDrops.png",
-          "secure_url": "",
-          "type": "",
-          "width": 1049,
-          "height": 539,
-          "alt": ""
-        }
-      ],
-      "url": "https://antigonejournal.com/2022/01/socrates-being-refuted/",
-      "audio": [],
-      "description": "ANDREW BEER The genuine pleasure of yielding to better arguments.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Antigone",
-      "video": [],
-      "favicon": {
-        "url": "https://i0.wp.com/antigonejournal.com/wp-content/uploads/2021/03/cropped-Ant.png?fit=192%2C192\u0026ssl=1"
-      }
-    }
-  },
-  {
     "id": 30141788,
     "title": "Fuck That Gator (2017)",
     "url": "https://www.buzzfeed.com/golianopoulos/fuck-that-gator",
@@ -2677,18 +3086,25 @@
     "points": 30,
     "comment_count": 7,
     "hn_item": {
-      "by": "rg111",
-      "descendants": 2,
-      "id": 30153326,
+      "by": "DiabloD3",
+      "descendants": 28,
+      "id": 30147507,
       "kids": [
-        30153891,
-        30158299
+        30148360,
+        30150693,
+        30149075,
+        30149590,
+        30148309,
+        30154454,
+        30148247,
+        30147747,
+        30150917
       ],
-      "score": 27,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
+      "score": 73,
+      "time": 1643634629,
+      "title": "VT100 Machine Emulator in JavaScript",
       "type": "story",
-      "url": "https://ar5iv.org/"
+      "url": "https://www.pcjs.org/machines/dec/vt100/"
     },
     "og_item": {
       "title": "Tommie Woodward's Internet-Famous Last Words",
@@ -2717,80 +3133,44 @@
     }
   },
   {
-    "id": 30156185,
-    "title": "NLnet Funded Projects",
-    "url": "https://nlnet.nl/project/",
-    "time": 1643670896,
-    "image": "",
-    "icon": "https://nlnet.nl/favicon3.ico",
-    "publisher": "nlnet.nl",
-    "description": "",
-    "by": "1vuio0pswjnm7",
-    "points": 8,
-    "comment_count": 1,
-    "hn_item": {
-      "by": "rg111",
-      "descendants": 2,
-      "id": 30153326,
-      "kids": [
-        30153891,
-        30158299
-      ],
-      "score": 27,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
-      "type": "story",
-      "url": "https://ar5iv.org/"
-    },
-    "og_item": {
-      "title": "NLnet; All projects",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon3.ico"
-      }
-    }
-  },
-  {
     "id": 30152714,
     "title": "HVM: A Parallel Functional Runtime",
     "url": "https://github.com/Kindelia/HVM",
     "time": 1643656542,
-    "image": "https://opengraph.githubassets.com/59c6970448f23fd85f76f920d66b745af084b17c0feb0df94859365fbc6868c4/Kindelia/HVM",
+    "image": "https://opengraph.githubassets.com/be8ec0fec9064d213175564234c9c1f6ecd5f28ff78f119b285b94f9168f5419/Kindelia/HVM",
     "icon": "https://github.githubassets.com/favicons/favicon.svg",
     "publisher": "GitHub",
     "description": "A massively parallel, optimal functional runtime in Rust - GitHub - Kindelia/HVM: A massively parallel, optimal functional runtime in Rust",
     "by": "LightMachine",
-    "points": 52,
+    "points": 53,
     "comment_count": 6,
     "hn_item": {
-      "by": "rg111",
-      "descendants": 2,
-      "id": 30153326,
+      "by": "DiabloD3",
+      "descendants": 28,
+      "id": 30147507,
       "kids": [
-        30153891,
-        30158299
+        30148360,
+        30150693,
+        30149075,
+        30149590,
+        30148309,
+        30154454,
+        30148247,
+        30147747,
+        30150917
       ],
-      "score": 27,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
+      "score": 73,
+      "time": 1643634629,
+      "title": "VT100 Machine Emulator in JavaScript",
       "type": "story",
-      "url": "https://ar5iv.org/"
+      "url": "https://www.pcjs.org/machines/dec/vt100/"
     },
     "og_item": {
       "title": "GitHub - Kindelia/HVM: A massively parallel, optimal functional runtime in Rust",
       "type": "object",
       "image": [
         {
-          "url": "https://opengraph.githubassets.com/59c6970448f23fd85f76f920d66b745af084b17c0feb0df94859365fbc6868c4/Kindelia/HVM",
+          "url": "https://opengraph.githubassets.com/be8ec0fec9064d213175564234c9c1f6ecd5f28ff78f119b285b94f9168f5419/Kindelia/HVM",
           "secure_url": "",
           "type": "",
           "width": 1200,
@@ -2812,6 +3192,56 @@
     }
   },
   {
+    "id": 30156185,
+    "title": "NLnet Funded Projects",
+    "url": "https://nlnet.nl/project/",
+    "time": 1643670896,
+    "image": "",
+    "icon": "https://nlnet.nl/favicon3.ico",
+    "publisher": "nlnet.nl",
+    "description": "",
+    "by": "1vuio0pswjnm7",
+    "points": 8,
+    "comment_count": 1,
+    "hn_item": {
+      "by": "DiabloD3",
+      "descendants": 28,
+      "id": 30147507,
+      "kids": [
+        30148360,
+        30150693,
+        30149075,
+        30149590,
+        30148309,
+        30154454,
+        30148247,
+        30147747,
+        30150917
+      ],
+      "score": 73,
+      "time": 1643634629,
+      "title": "VT100 Machine Emulator in JavaScript",
+      "type": "story",
+      "url": "https://www.pcjs.org/machines/dec/vt100/"
+    },
+    "og_item": {
+      "title": "NLnet; All projects",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon3.ico"
+      }
+    }
+  },
+  {
     "id": 30151963,
     "title": "Gains I'm seeing from my second brain tool",
     "url": "https://joeldare.com/gains-im-seeing-from-my-second-brain-tool.html",
@@ -2821,21 +3251,28 @@
     "publisher": "Joel Dare",
     "description": "",
     "by": "codazoda",
-    "points": 141,
+    "points": 142,
     "comment_count": 99,
     "hn_item": {
-      "by": "rg111",
-      "descendants": 2,
-      "id": 30153326,
+      "by": "DiabloD3",
+      "descendants": 28,
+      "id": 30147507,
       "kids": [
-        30153891,
-        30158299
+        30148360,
+        30150693,
+        30149075,
+        30149590,
+        30148309,
+        30154454,
+        30148247,
+        30147747,
+        30150917
       ],
-      "score": 27,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
+      "score": 73,
+      "time": 1643634629,
+      "title": "VT100 Machine Emulator in JavaScript",
       "type": "story",
-      "url": "https://ar5iv.org/"
+      "url": "https://www.pcjs.org/machines/dec/vt100/"
     },
     "og_item": {
       "title": "Gains I’m seeing from my second brain tool",
@@ -2867,18 +3304,25 @@
     "points": 116,
     "comment_count": 144,
     "hn_item": {
-      "by": "rg111",
-      "descendants": 2,
-      "id": 30153326,
+      "by": "DiabloD3",
+      "descendants": 28,
+      "id": 30147507,
       "kids": [
-        30153891,
-        30158299
+        30148360,
+        30150693,
+        30149075,
+        30149590,
+        30148309,
+        30154454,
+        30148247,
+        30147747,
+        30150917
       ],
-      "score": 27,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
+      "score": 73,
+      "time": 1643634629,
+      "title": "VT100 Machine Emulator in JavaScript",
       "type": "story",
-      "url": "https://ar5iv.org/"
+      "url": "https://www.pcjs.org/machines/dec/vt100/"
     },
     "og_item": {
       "title": "",
@@ -2910,18 +3354,25 @@
     "points": 12,
     "comment_count": 2,
     "hn_item": {
-      "by": "rg111",
-      "descendants": 2,
-      "id": 30153326,
+      "by": "DiabloD3",
+      "descendants": 28,
+      "id": 30147507,
       "kids": [
-        30153891,
-        30158299
+        30148360,
+        30150693,
+        30149075,
+        30149590,
+        30148309,
+        30154454,
+        30148247,
+        30147747,
+        30150917
       ],
-      "score": 27,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
+      "score": 73,
+      "time": 1643634629,
+      "title": "VT100 Machine Emulator in JavaScript",
       "type": "story",
-      "url": "https://ar5iv.org/"
+      "url": "https://www.pcjs.org/machines/dec/vt100/"
     },
     "og_item": {
       "title": "GitHub - InfuseAI/colab-xterm: Open a terminal in colab, including the free tier.",
@@ -2962,18 +3413,25 @@
     "points": 158,
     "comment_count": 102,
     "hn_item": {
-      "by": "rg111",
-      "descendants": 2,
-      "id": 30153326,
+      "by": "DiabloD3",
+      "descendants": 28,
+      "id": 30147507,
       "kids": [
-        30153891,
-        30158299
+        30148360,
+        30150693,
+        30149075,
+        30149590,
+        30148309,
+        30154454,
+        30148247,
+        30147747,
+        30150917
       ],
-      "score": 27,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
+      "score": 73,
+      "time": 1643634629,
+      "title": "VT100 Machine Emulator in JavaScript",
       "type": "story",
-      "url": "https://ar5iv.org/"
+      "url": "https://www.pcjs.org/machines/dec/vt100/"
     },
     "og_item": {
       "title": "The Boring Technology Checklist - Begin",
@@ -2993,58 +3451,6 @@
     }
   },
   {
-    "id": 30157233,
-    "title": "Reddit Enhancement Suite is now in maintenance mode",
-    "url": "https://old.reddit.com/r/RESAnnouncements/comments/sh83gx/announcement_life_of_reddit_enhancement_suite/",
-    "time": 1643677164,
-    "image": "https://b.thumbs.redditmedia.com/BXXHYLh1CKpNao3JGesnj2TdmCNKQ6toSbU_H_yirUQ.jpg",
-    "icon": "https://www.redditstatic.com/desktop2x/img/favicon/favicon-16x16.png",
-    "publisher": "reddit",
-    "description": "**TL;DR:TL;DR:** It’s not quite dead, Jim. But it is on ~~life support~~ maintenance mode. **TL;DR:** RES development has dwindled as the team...",
-    "by": "goplayoutside",
-    "points": 24,
-    "comment_count": 3,
-    "hn_item": {
-      "by": "rg111",
-      "descendants": 2,
-      "id": 30153326,
-      "kids": [
-        30153891,
-        30158299
-      ],
-      "score": 27,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
-      "type": "story",
-      "url": "https://ar5iv.org/"
-    },
-    "og_item": {
-      "title": "[Announcement] Life of Reddit Enhancement Suite",
-      "type": "",
-      "image": [
-        {
-          "url": "https://b.thumbs.redditmedia.com/BXXHYLh1CKpNao3JGesnj2TdmCNKQ6toSbU_H_yirUQ.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 140,
-          "height": 54,
-          "alt": ""
-        }
-      ],
-      "url": "",
-      "audio": [],
-      "description": "**TL;DR:TL;DR:** It’s not quite dead, Jim. But it is on ~~life support~~ maintenance mode. **TL;DR:** RES development has dwindled as the team...",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "reddit",
-      "video": [],
-      "favicon": {
-        "url": "//www.redditstatic.com/desktop2x/img/favicon/favicon-16x16.png"
-      }
-    }
-  },
-  {
     "id": 30149099,
     "title": "Google critiqued the practice of displaying ads above search results",
     "url": "https://twitter.com/krebs_adrian/status/1488173888068542466",
@@ -3057,18 +3463,25 @@
     "points": 307,
     "comment_count": 139,
     "hn_item": {
-      "by": "rg111",
-      "descendants": 2,
-      "id": 30153326,
+      "by": "DiabloD3",
+      "descendants": 28,
+      "id": 30147507,
       "kids": [
-        30153891,
-        30158299
+        30148360,
+        30150693,
+        30149075,
+        30149590,
+        30148309,
+        30154454,
+        30148247,
+        30147747,
+        30150917
       ],
-      "score": 27,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
+      "score": 73,
+      "time": 1643634629,
+      "title": "VT100 Machine Emulator in JavaScript",
       "type": "story",
-      "url": "https://ar5iv.org/"
+      "url": "https://www.pcjs.org/machines/dec/vt100/"
     },
     "og_item": {
       "title": "",
@@ -3097,21 +3510,28 @@
     "publisher": "reeshill.net",
     "description": "So The New York Times just bought Worldle. This is not surprising, but it\u0026rsquo;s definitely disappointing. Wordle is an uncommonly successful small project in a Web dominated by large corporate platforms, and its acquisition only leads us further in that direction.",
     "by": "333c",
-    "points": 33,
+    "points": 34,
     "comment_count": 30,
     "hn_item": {
-      "by": "rg111",
-      "descendants": 2,
-      "id": 30153326,
+      "by": "DiabloD3",
+      "descendants": 28,
+      "id": 30147507,
       "kids": [
-        30153891,
-        30158299
+        30148360,
+        30150693,
+        30149075,
+        30149590,
+        30148309,
+        30154454,
+        30148247,
+        30147747,
+        30150917
       ],
-      "score": 27,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
+      "score": 73,
+      "time": 1643634629,
+      "title": "VT100 Machine Emulator in JavaScript",
       "type": "story",
-      "url": "https://ar5iv.org/"
+      "url": "https://www.pcjs.org/machines/dec/vt100/"
     },
     "og_item": {
       "title": "The Death of Wordle",
@@ -3140,6 +3560,56 @@
     }
   },
   {
+    "id": 30157233,
+    "title": "Reddit Enhancement Suite is now in maintenance mode",
+    "url": "https://old.reddit.com/r/RESAnnouncements/comments/sh83gx/announcement_life_of_reddit_enhancement_suite/",
+    "time": 1643677164,
+    "image": "",
+    "icon": "https://old.reddit.com/favicon.ico",
+    "publisher": "old.reddit.com",
+    "description": "",
+    "by": "goplayoutside",
+    "points": 25,
+    "comment_count": 3,
+    "hn_item": {
+      "by": "DiabloD3",
+      "descendants": 28,
+      "id": 30147507,
+      "kids": [
+        30148360,
+        30150693,
+        30149075,
+        30149590,
+        30148309,
+        30154454,
+        30148247,
+        30147747,
+        30150917
+      ],
+      "score": 73,
+      "time": 1643634629,
+      "title": "VT100 Machine Emulator in JavaScript",
+      "type": "story",
+      "url": "https://www.pcjs.org/machines/dec/vt100/"
+    },
+    "og_item": {
+      "title": "Too Many Requests",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30147213,
     "title": "Textual for Windows (Python package for TUIs)",
     "url": "https://www.willmcgugan.com/blog/tech/post/textual-for-windows/",
@@ -3152,18 +3622,25 @@
     "points": 75,
     "comment_count": 10,
     "hn_item": {
-      "by": "rg111",
-      "descendants": 2,
-      "id": 30153326,
+      "by": "DiabloD3",
+      "descendants": 28,
+      "id": 30147507,
       "kids": [
-        30153891,
-        30158299
+        30148360,
+        30150693,
+        30149075,
+        30149590,
+        30148309,
+        30154454,
+        30148247,
+        30147747,
+        30150917
       ],
-      "score": 27,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
+      "score": 73,
+      "time": 1643634629,
+      "title": "VT100 Machine Emulator in JavaScript",
       "type": "story",
-      "url": "https://ar5iv.org/"
+      "url": "https://www.pcjs.org/machines/dec/vt100/"
     },
     "og_item": {
       "title": "Textual for Windows",
@@ -3192,45 +3669,61 @@
     }
   },
   {
-    "id": 30154188,
-    "title": "Regexes Are Cool and Good",
-    "url": "https://buttondown.email/hillelwayne/archive/regexes-are-cool-and-good/",
-    "time": 1643662495,
-    "image": "",
-    "icon": "https://buttondown.email/static/images/icons/icon@72.png",
-    "publisher": "buttondown.email",
-    "description": "Some people, when confronted with a problem, think “I know, I’ll use regular expressions.” Then they solve their problem, hooray! Regexes are great! I use...",
-    "by": "azhenley",
-    "points": 17,
+    "id": 30158622,
+    "title": "Teachers Are Quitting, and Companies Are Hot to Hire Them",
+    "url": "https://www.wsj.com/articles/teachers-are-quitting-and-companies-are-hot-to-hire-them-11643634181",
+    "time": 1643689621,
+    "image": "https://s.wsj.net/img/meta/wsj-social-share.png",
+    "icon": "https://s.wsj.net/img/meta/wsj_favicon.svg",
+    "publisher": "WSJ",
+    "description": "",
+    "by": "kungfudoi",
+    "points": 3,
     "comment_count": 1,
     "hn_item": {
-      "by": "rg111",
-      "descendants": 2,
-      "id": 30153326,
+      "by": "DiabloD3",
+      "descendants": 28,
+      "id": 30147507,
       "kids": [
-        30153891,
-        30158299
+        30148360,
+        30150693,
+        30149075,
+        30149590,
+        30148309,
+        30154454,
+        30148247,
+        30147747,
+        30150917
       ],
-      "score": 27,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
+      "score": 73,
+      "time": 1643634629,
+      "title": "VT100 Machine Emulator in JavaScript",
       "type": "story",
-      "url": "https://ar5iv.org/"
+      "url": "https://www.pcjs.org/machines/dec/vt100/"
     },
     "og_item": {
-      "title": "Regexes are Cool and Good • Buttondown",
-      "type": "",
-      "image": [],
-      "url": "",
+      "title": "Page Not Found",
+      "type": "website",
+      "image": [
+        {
+          "url": "https://s.wsj.net/img/meta/wsj-social-share.png",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://www.wsj.com/404",
       "audio": [],
-      "description": "Some people, when confronted with a problem, think “I know, I’ll use regular expressions.” Then they solve their problem, hooray! Regexes are great! I use...",
+      "description": "We can’t find the page you are looking for.",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "",
+      "site_name": "WSJ",
       "video": [],
       "favicon": {
-        "url": "/static/images/icons/icon@72.png"
+        "url": "https://s.wsj.net/img/meta/wsj_favicon.svg"
       }
     }
   },
@@ -3247,18 +3740,25 @@
     "points": 227,
     "comment_count": 171,
     "hn_item": {
-      "by": "rg111",
-      "descendants": 2,
-      "id": 30153326,
+      "by": "DiabloD3",
+      "descendants": 28,
+      "id": 30147507,
       "kids": [
-        30153891,
-        30158299
+        30148360,
+        30150693,
+        30149075,
+        30149590,
+        30148309,
+        30154454,
+        30148247,
+        30147747,
+        30150917
       ],
-      "score": 27,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
+      "score": 73,
+      "time": 1643634629,
+      "title": "VT100 Machine Emulator in JavaScript",
       "type": "story",
-      "url": "https://ar5iv.org/"
+      "url": "https://www.pcjs.org/machines/dec/vt100/"
     },
     "og_item": {
       "title": "GitHub - jscd/Boyfriend-Alert: A light based alert system",
@@ -3287,80 +3787,94 @@
     }
   },
   {
-    "id": 30150995,
-    "title": "Show HN: Practical Python Projects book now free to read online",
-    "url": "https://practicalpython.yasoob.me/toc.html",
-    "time": 1643650734,
+    "id": 30154188,
+    "title": "Regexes Are Cool and Good",
+    "url": "https://buttondown.email/hillelwayne/archive/regexes-are-cool-and-good/",
+    "time": 1643662495,
     "image": "",
-    "icon": "https://practicalpython.yasoob.me/toc.html/_static/favicon.png",
-    "publisher": "practicalpython.yasoob.me",
-    "description": "",
-    "by": "yasoob",
-    "points": 25,
-    "comment_count": 4,
+    "icon": "https://buttondown.email/static/images/icons/icon@72.png",
+    "publisher": "buttondown.email",
+    "description": "Some people, when confronted with a problem, think “I know, I’ll use regular expressions.” Then they solve their problem, hooray! Regexes are great! I use...",
+    "by": "azhenley",
+    "points": 17,
+    "comment_count": 1,
     "hn_item": {
-      "by": "rg111",
-      "descendants": 2,
-      "id": 30153326,
+      "by": "DiabloD3",
+      "descendants": 28,
+      "id": 30147507,
       "kids": [
-        30153891,
-        30158299
+        30148360,
+        30150693,
+        30149075,
+        30149590,
+        30148309,
+        30154454,
+        30148247,
+        30147747,
+        30150917
       ],
-      "score": 27,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
+      "score": 73,
+      "time": 1643634629,
+      "title": "VT100 Machine Emulator in JavaScript",
       "type": "story",
-      "url": "https://ar5iv.org/"
+      "url": "https://www.pcjs.org/machines/dec/vt100/"
     },
     "og_item": {
-      "title": "Table of Contents - Practical Python Projects",
+      "title": "Regexes are Cool and Good • Buttondown",
       "type": "",
       "image": [],
       "url": "",
       "audio": [],
-      "description": "",
+      "description": "Some people, when confronted with a problem, think “I know, I’ll use regular expressions.” Then they solve their problem, hooray! Regexes are great! I use...",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
       "site_name": "",
       "video": [],
       "favicon": {
-        "url": "_static/favicon.png"
+        "url": "/static/images/icons/icon@72.png"
       }
     }
   },
   {
-    "id": 30153326,
-    "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
-    "url": "https://ar5iv.org/",
-    "time": 1643658897,
-    "image": "https://ar5iv.org/assets/ar5iv_card.png",
-    "icon": "https://ar5iv.org/favicon.ico",
-    "publisher": "ar5iv",
-    "description": "ar5iv offers a modern web view for arXiv's preprints. An open community resource, on a quest to a full collection of high-quality documents.",
-    "by": "rg111",
-    "points": 27,
-    "comment_count": 2,
+    "id": 30147507,
+    "title": "VT100 Machine Emulator in JavaScript",
+    "url": "https://www.pcjs.org/machines/dec/vt100/",
+    "time": 1643634629,
+    "image": "https://www.pcjs.org/assets/img/logo-home.png",
+    "icon": "https://www.pcjs.org/assets/icons/favicon.ico",
+    "publisher": "pcjs.org",
+    "description": "Home of the original IBM PC emulator for browsers. PCjs offers a variety of online machine emulators written in JavaScript. Run DOS, Windows, OS/2 and other vintage PC applications in a web browser on your desktop computer, iPhone, or iPad. An assortment of microcomputers, minicomputers, terminal…",
+    "by": "DiabloD3",
+    "points": 73,
+    "comment_count": 28,
     "hn_item": {
-      "by": "rg111",
-      "descendants": 2,
-      "id": 30153326,
+      "by": "DiabloD3",
+      "descendants": 28,
+      "id": 30147507,
       "kids": [
-        30153891,
-        30158299
+        30148360,
+        30150693,
+        30149075,
+        30149590,
+        30148309,
+        30154454,
+        30148247,
+        30147747,
+        30150917
       ],
-      "score": 27,
-      "time": 1643658897,
-      "title": "Ar5iv.org: See Full ArXiv Papers in HTML5 Instead of PDF",
+      "score": 73,
+      "time": 1643634629,
+      "title": "VT100 Machine Emulator in JavaScript",
       "type": "story",
-      "url": "https://ar5iv.org/"
+      "url": "https://www.pcjs.org/machines/dec/vt100/"
     },
     "og_item": {
-      "title": "ar5iv – Articles from arXiv.org as responsive HTML5 web documents",
+      "title": "DEC VT100 Terminal",
       "type": "",
       "image": [
         {
-          "url": "https://ar5iv.org/assets/ar5iv_card.png",
+          "url": "https://www.pcjs.org/assets/img/logo-home.png",
           "secure_url": "",
           "type": "",
           "width": 0,
@@ -3368,16 +3882,16 @@
           "alt": ""
         }
       ],
-      "url": "https://ar5iv.org",
+      "url": "",
       "audio": [],
-      "description": "ar5iv offers a modern web view for arXiv's preprints. An open community resource, on a quest to a full collection of high-quality documents.",
+      "description": "Home of the original IBM PC emulator for browsers. PCjs offers a variety of online machine emulators written in JavaScript. Run DOS, Windows, OS/2 and other vintage PC applications in a web browser on your desktop computer, iPhone, or iPad. An assortment of microcomputers, minicomputers, terminals, programmable calculators, and arcade machines are available, along with an archive of historical software and documentation.",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "ar5iv",
+      "site_name": "",
       "video": [],
       "favicon": {
-        "url": "/favicon.ico"
+        "url": "/assets/icons/favicon.ico"
       }
     }
   }
