@@ -9,18 +9,20 @@
     "publisher": "jamessevedge.com",
     "description": "I was listening to the Tim Ferriss Show podcast episode #532 with Sheila Heen (Harvard Negotiation Project, co-author of Difficult Conversations: How To Discuss What Matters Most) and a specific story she told during the conversation really resonated with me. Below is the excerpt of that story in…",
     "by": "aseattledev1234",
-    "points": 239,
+    "points": 248,
     "comment_count": 46,
     "hn_item": {
-      "by": "quambene",
-      "descendants": 0,
-      "id": 30157464,
-      "kids": null,
-      "score": 4,
-      "time": 1643678852,
-      "title": "Ask HN: Google Play prevents continuous delivery",
+      "by": "yasoob",
+      "descendants": 3,
+      "id": 30150995,
+      "kids": [
+        30151478
+      ],
+      "score": 21,
+      "time": 1643650734,
+      "title": "Show HN: Practical Python Projects book now free to read online",
       "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30157464"
+      "url": "https://practicalpython.yasoob.me/toc.html"
     },
     "og_item": {
       "title": "Red Light Green Light",
@@ -29,46 +31,6 @@
       "url": "https://jamessevedge.com/articles/red-light-green-light/",
       "audio": [],
       "description": "I was listening to the Tim Ferriss Show podcast episode #532 with Sheila Heen (Harvard Negotiation Project, co-author of Difficult Conversations: How To Discuss What Matters Most) and a specific story she told during the conversation really resonated with me. Below is the excerpt of that story in her own words.\nIt reminds me, I sometimes tell this story about my eldest son. His name is Ben. He’s 22 now, but when he was about three, we were driving down the street.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30154830,
-    "title": "The GNU Name System",
-    "url": "https://lsd.gnunet.org/lsd0001/",
-    "time": 1643665065,
-    "image": "",
-    "icon": "https://lsd.gnunet.org/favicon.ico",
-    "publisher": "lsd.gnunet.org",
-    "description": "This document contains the GNU Name System (GNS) technical\n      specification.\n      GNS is a decentralized and censorship-resistant name\n      system that provides a privacy-enhancing alternative to the Domain\n      Name System (DNS).\n       \n       \n      This document defines t…",
-    "by": "simonpure",
-    "points": 146,
-    "comment_count": 53,
-    "hn_item": {
-      "by": "quambene",
-      "descendants": 0,
-      "id": 30157464,
-      "kids": null,
-      "score": 4,
-      "time": 1643678852,
-      "title": "Ask HN: Google Play prevents continuous delivery",
-      "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30157464"
-    },
-    "og_item": {
-      "title": "The GNU Name System",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "\n       \n      This document contains the GNU Name System (GNS) technical\n      specification.\n      GNS is a decentralized and censorship-resistant name\n      system that provides a privacy-enhancing alternative to the Domain\n      Name System (DNS).\n       \n       \n      This document defines the normative wire format of resource records,\n      resolution processes, cryptographic routines and security\n      considerations for use by implementers.\n      It is published here to inform readers about the function\n      of GNS, guide future GNS implementations, and ensure\n      interoperability among implementations including with the\n      pre-existing GNUnet implementation.\n       \n       \n      This specification was developed outside the IETF and does not have\n      IETF consensus.  It is published here to guide implementation of GNS\n      and to ensure interoperability among implementations.\n       \n    ",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
@@ -89,55 +51,59 @@
     "publisher": "onlinelibrary.wiley.com",
     "description": "",
     "by": "khaled_ismaeel",
-    "points": 31,
-    "comment_count": 10,
+    "points": 37,
+    "comment_count": 13,
     "hn_item": {
-      "by": "quambene",
-      "descendants": 0,
-      "id": 30157464,
-      "kids": null,
-      "score": 4,
-      "time": 1643678852,
-      "title": "Ask HN: Google Play prevents continuous delivery",
+      "by": "yasoob",
+      "descendants": 3,
+      "id": 30150995,
+      "kids": [
+        30151478
+      ],
+      "score": 21,
+      "time": 1643650734,
+      "title": "Show HN: Practical Python Projects book now free to read online",
       "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30157464"
+      "url": "https://practicalpython.yasoob.me/toc.html"
     },
     "og_item": null
   },
   {
-    "id": 30156551,
-    "title": "Yggdrasil P2P mesh E2EE IPv6 network",
-    "url": "https://yggdrasil-network.github.io/",
-    "time": 1643672889,
+    "id": 30154830,
+    "title": "The GNU Name System",
+    "url": "https://lsd.gnunet.org/lsd0001/",
+    "time": 1643665065,
     "image": "",
-    "icon": "https://yggdrasil-network.github.io/favicon.ico",
-    "publisher": "Yggdrasil Network",
-    "description": "End-to-end encrypted IPv6 networking to connect worlds",
-    "by": "jesprenj",
-    "points": 61,
-    "comment_count": 8,
+    "icon": "https://lsd.gnunet.org/favicon.ico",
+    "publisher": "lsd.gnunet.org",
+    "description": "This document contains the GNU Name System (GNS) technical\n      specification.\n      GNS is a decentralized and censorship-resistant name\n      system that provides a privacy-enhancing alternative to the Domain\n      Name System (DNS).\n       \n       \n      This document defines t…",
+    "by": "simonpure",
+    "points": 150,
+    "comment_count": 54,
     "hn_item": {
-      "by": "quambene",
-      "descendants": 0,
-      "id": 30157464,
-      "kids": null,
-      "score": 4,
-      "time": 1643678852,
-      "title": "Ask HN: Google Play prevents continuous delivery",
+      "by": "yasoob",
+      "descendants": 3,
+      "id": 30150995,
+      "kids": [
+        30151478
+      ],
+      "score": 21,
+      "time": 1643650734,
+      "title": "Show HN: Practical Python Projects book now free to read online",
       "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30157464"
+      "url": "https://practicalpython.yasoob.me/toc.html"
     },
     "og_item": {
-      "title": "Yggdrasil Network",
+      "title": "The GNU Name System",
       "type": "",
       "image": [],
-      "url": "https://yggdrasil-network.github.io/",
+      "url": "",
       "audio": [],
-      "description": "End-to-end encrypted IPv6 networking to connect worlds",
+      "description": "\n       \n      This document contains the GNU Name System (GNS) technical\n      specification.\n      GNS is a decentralized and censorship-resistant name\n      system that provides a privacy-enhancing alternative to the Domain\n      Name System (DNS).\n       \n       \n      This document defines the normative wire format of resource records,\n      resolution processes, cryptographic routines and security\n      considerations for use by implementers.\n      It is published here to inform readers about the function\n      of GNS, guide future GNS implementations, and ensure\n      interoperability among implementations including with the\n      pre-existing GNUnet implementation.\n       \n       \n      This specification was developed outside the IETF and does not have\n      IETF consensus.  It is published here to guide implementation of GNS\n      and to ensure interoperability among implementations.\n       \n    ",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "Yggdrasil Network",
+      "site_name": "",
       "video": [],
       "favicon": {
         "url": "/favicon.ico"
@@ -154,18 +120,20 @@
     "publisher": "pivotal.substack.com",
     "description": "How data businesses start, and how they keep going, and growing, and growing.",
     "by": "BOOSTERHIDROGEN",
-    "points": 14,
+    "points": 20,
     "comment_count": 0,
     "hn_item": {
-      "by": "quambene",
-      "descendants": 0,
-      "id": 30157464,
-      "kids": null,
-      "score": 4,
-      "time": 1643678852,
-      "title": "Ask HN: Google Play prevents continuous delivery",
+      "by": "yasoob",
+      "descendants": 3,
+      "id": 30150995,
+      "kids": [
+        30151478
+      ],
+      "score": 21,
+      "time": 1643650734,
+      "title": "Show HN: Practical Python Projects book now free to read online",
       "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30157464"
+      "url": "https://practicalpython.yasoob.me/toc.html"
     },
     "og_item": {
       "title": "The Economics of Data Businesses",
@@ -194,51 +162,44 @@
     }
   },
   {
-    "id": 30154781,
-    "title": "The New York Times buys Wordle",
-    "url": "https://www.nytimes.com/2022/01/31/business/media/new-york-times-wordle.html",
-    "time": 1643664880,
-    "image": "https://static01.nyt.com/images/2022/01/31/business/31tk/31tk-facebookJumbo.jpg",
-    "icon": "https://www.nytimes.com/vi-assets/static-assets/favicon-d2483f10ef688e6f89e23806b9700298.ico",
-    "publisher": "The New York Times",
-    "description": "The word game, released in October, has millions of daily users.",
-    "by": "lucis",
-    "points": 632,
-    "comment_count": 421,
+    "id": 30156551,
+    "title": "Yggdrasil P2P mesh E2EE IPv6 network",
+    "url": "https://yggdrasil-network.github.io/",
+    "time": 1643672889,
+    "image": "",
+    "icon": "https://yggdrasil-network.github.io/favicon.ico",
+    "publisher": "Yggdrasil Network",
+    "description": "End-to-end encrypted IPv6 networking to connect worlds",
+    "by": "jesprenj",
+    "points": 62,
+    "comment_count": 10,
     "hn_item": {
-      "by": "quambene",
-      "descendants": 0,
-      "id": 30157464,
-      "kids": null,
-      "score": 4,
-      "time": 1643678852,
-      "title": "Ask HN: Google Play prevents continuous delivery",
+      "by": "yasoob",
+      "descendants": 3,
+      "id": 30150995,
+      "kids": [
+        30151478
+      ],
+      "score": 21,
+      "time": 1643650734,
+      "title": "Show HN: Practical Python Projects book now free to read online",
       "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30157464"
+      "url": "https://practicalpython.yasoob.me/toc.html"
     },
     "og_item": {
-      "title": "The New York Times Buys Wordle",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://static01.nyt.com/images/2022/01/31/business/31tk/31tk-facebookJumbo.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://www.nytimes.com/2022/01/31/business/media/new-york-times-wordle.html",
+      "title": "Yggdrasil Network",
+      "type": "",
+      "image": [],
+      "url": "https://yggdrasil-network.github.io/",
       "audio": [],
-      "description": "The word game, released in October, has millions of daily users.",
+      "description": "End-to-end encrypted IPv6 networking to connect worlds",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "",
+      "site_name": "Yggdrasil Network",
       "video": [],
       "favicon": {
-        "url": "/vi-assets/static-assets/favicon-d2483f10ef688e6f89e23806b9700298.ico"
+        "url": "/favicon.ico"
       }
     }
   },
@@ -252,18 +213,20 @@
     "publisher": "GitHub",
     "description": "Easily manage wine prefixes in a new way. Run Windows software and games on Linux - GitHub - bottlesdevs/Bottles: Easily manage wine prefixes in a new way. Run Windows software and games on Linux",
     "by": "maydemir",
-    "points": 45,
+    "points": 50,
     "comment_count": 14,
     "hn_item": {
-      "by": "quambene",
-      "descendants": 0,
-      "id": 30157464,
-      "kids": null,
-      "score": 4,
-      "time": 1643678852,
-      "title": "Ask HN: Google Play prevents continuous delivery",
+      "by": "yasoob",
+      "descendants": 3,
+      "id": 30150995,
+      "kids": [
+        30151478
+      ],
+      "score": 21,
+      "time": 1643650734,
+      "title": "Show HN: Practical Python Projects book now free to read online",
       "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30157464"
+      "url": "https://practicalpython.yasoob.me/toc.html"
     },
     "og_item": {
       "title": "GitHub - bottlesdevs/Bottles: Easily manage wine prefixes in a new way. Run Windows software and games on Linux",
@@ -292,6 +255,57 @@
     }
   },
   {
+    "id": 30154781,
+    "title": "The New York Times buys Wordle",
+    "url": "https://www.nytimes.com/2022/01/31/business/media/new-york-times-wordle.html",
+    "time": 1643664880,
+    "image": "https://static01.nyt.com/images/2022/01/31/business/31tk/31tk-facebookJumbo.jpg",
+    "icon": "https://www.nytimes.com/vi-assets/static-assets/favicon-d2483f10ef688e6f89e23806b9700298.ico",
+    "publisher": "The New York Times",
+    "description": "The word game, released in October, has millions of daily users.",
+    "by": "lucis",
+    "points": 637,
+    "comment_count": 423,
+    "hn_item": {
+      "by": "yasoob",
+      "descendants": 3,
+      "id": 30150995,
+      "kids": [
+        30151478
+      ],
+      "score": 21,
+      "time": 1643650734,
+      "title": "Show HN: Practical Python Projects book now free to read online",
+      "type": "story",
+      "url": "https://practicalpython.yasoob.me/toc.html"
+    },
+    "og_item": {
+      "title": "The New York Times Buys Wordle",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://static01.nyt.com/images/2022/01/31/business/31tk/31tk-facebookJumbo.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://www.nytimes.com/2022/01/31/business/media/new-york-times-wordle.html",
+      "audio": [],
+      "description": "The word game, released in October, has millions of daily users.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/vi-assets/static-assets/favicon-d2483f10ef688e6f89e23806b9700298.ico"
+      }
+    }
+  },
+  {
     "id": 30156048,
     "title": "SimpleDB: A Basic RDBMS Built from Scratch",
     "url": "https://www.awelm.com/posts/simple-db/",
@@ -301,18 +315,20 @@
     "publisher": "awelm.com",
     "description": "My databases class at UCLA wasn’t very challenging so I never truly understood the internals of databases. This always bothered me so I vowed to build a simple database from scratch to learn the fundamentals.",
     "by": "hackthesystem",
-    "points": 73,
-    "comment_count": 15,
+    "points": 76,
+    "comment_count": 16,
     "hn_item": {
-      "by": "quambene",
-      "descendants": 0,
-      "id": 30157464,
-      "kids": null,
-      "score": 4,
-      "time": 1643678852,
-      "title": "Ask HN: Google Play prevents continuous delivery",
+      "by": "yasoob",
+      "descendants": 3,
+      "id": 30150995,
+      "kids": [
+        30151478
+      ],
+      "score": 21,
+      "time": 1643650734,
+      "title": "Show HN: Practical Python Projects book now free to read online",
       "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30157464"
+      "url": "https://practicalpython.yasoob.me/toc.html"
     },
     "og_item": {
       "title": "SimpleDB: A Basic RDBMS Built From Scratch",
@@ -341,18 +357,20 @@
     "publisher": "It's All Greek To Me",
     "description": "Every so often a news article will make the rounds of the internet – or, for that matter, a paper will be published in an academic journal – presenting a new ‘decipherment’ …",
     "by": "bigbillheck",
-    "points": 40,
-    "comment_count": 5,
+    "points": 42,
+    "comment_count": 6,
     "hn_item": {
-      "by": "quambene",
-      "descendants": 0,
-      "id": 30157464,
-      "kids": null,
-      "score": 4,
-      "time": 1643678852,
-      "title": "Ask HN: Google Play prevents continuous delivery",
+      "by": "yasoob",
+      "descendants": 3,
+      "id": 30150995,
+      "kids": [
+        30151478
+      ],
+      "score": 21,
+      "time": 1643650734,
+      "title": "Show HN: Practical Python Projects book now free to read online",
       "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30157464"
+      "url": "https://practicalpython.yasoob.me/toc.html"
     },
     "og_item": {
       "title": "A very short introduction to the undeciphered Aegean writing systems",
@@ -390,18 +408,20 @@
     "publisher": "them.",
     "description": "We could be getting even closer to stopping the spread of HIV/AIDS.",
     "by": "grawprog",
-    "points": 826,
-    "comment_count": 357,
+    "points": 829,
+    "comment_count": 359,
     "hn_item": {
-      "by": "quambene",
-      "descendants": 0,
-      "id": 30157464,
-      "kids": null,
-      "score": 4,
-      "time": 1643678852,
-      "title": "Ask HN: Google Play prevents continuous delivery",
+      "by": "yasoob",
+      "descendants": 3,
+      "id": 30150995,
+      "kids": [
+        30151478
+      ],
+      "score": 21,
+      "time": 1643650734,
+      "title": "Show HN: Practical Python Projects book now free to read online",
       "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30157464"
+      "url": "https://practicalpython.yasoob.me/toc.html"
     },
     "og_item": {
       "title": "Moderna’s HIV Vaccine Has Officially Begun Human Trials",
@@ -430,46 +450,6 @@
     }
   },
   {
-    "id": 30149370,
-    "title": "Show HN: Magistrate – Plaintext legal contracts for developers",
-    "url": "https://magistrate.khanna.law/",
-    "time": 1643644505,
-    "image": "",
-    "icon": "https://magistrate.khanna.law/static/favicon-32x32.png",
-    "publisher": "magistrate.khanna.law",
-    "description": "",
-    "by": "hkhanna",
-    "points": 230,
-    "comment_count": 89,
-    "hn_item": {
-      "by": "quambene",
-      "descendants": 0,
-      "id": 30157464,
-      "kids": null,
-      "score": 4,
-      "time": 1643678852,
-      "title": "Ask HN: Google Play prevents continuous delivery",
-      "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30157464"
-    },
-    "og_item": {
-      "title": "Plain text legal contracts for developers - Magistrate",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/static/favicon-32x32.png"
-      }
-    }
-  },
-  {
     "id": 30156923,
     "title": "Man found guilty of ‘grossly offensive’ tweet",
     "url": "https://news.stv.tv/west-central/man-found-guilty-of-grossly-offensive-captain-tom-tweet",
@@ -479,18 +459,20 @@
     "publisher": "STV News",
     "description": "Joseph Kelly found guilty of ‘grossly offensive’ message about Captain Sir Tom Moore.",
     "by": "leephillips",
-    "points": 123,
-    "comment_count": 120,
+    "points": 131,
+    "comment_count": 123,
     "hn_item": {
-      "by": "quambene",
-      "descendants": 0,
-      "id": 30157464,
-      "kids": null,
-      "score": 4,
-      "time": 1643678852,
-      "title": "Ask HN: Google Play prevents continuous delivery",
+      "by": "yasoob",
+      "descendants": 3,
+      "id": 30150995,
+      "kids": [
+        30151478
+      ],
+      "score": 21,
+      "time": 1643650734,
+      "title": "Show HN: Practical Python Projects book now free to read online",
       "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30157464"
+      "url": "https://practicalpython.yasoob.me/toc.html"
     },
     "og_item": {
       "title": "Man found guilty of ‘grossly offensive’ Captain Tom tweet",
@@ -519,331 +501,6 @@
     }
   },
   {
-    "id": 30118910,
-    "title": "Astronomers close in on new way to detect gravitational waves",
-    "url": "https://www.nature.com/articles/d41586-022-00170-y",
-    "time": 1643396549,
-    "image": "https://media.nature.com/lw1024/magazine-assets/d41586-022-00170-y/d41586-022-00170-y_20066414.jpg",
-    "icon": "https://www.nature.com/static/images/favicons/nature/favicon.ico",
-    "publisher": "Nature",
-    "description": "Several teams hope to use pulsars in the Milky Way to detect ripples in space-time made by distant supermassive black holes.",
-    "by": "pseudolus",
-    "points": 56,
-    "comment_count": 10,
-    "hn_item": {
-      "by": "quambene",
-      "descendants": 0,
-      "id": 30157464,
-      "kids": null,
-      "score": 4,
-      "time": 1643678852,
-      "title": "Ask HN: Google Play prevents continuous delivery",
-      "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30157464"
-    },
-    "og_item": {
-      "title": "Astronomers close in on new way to detect gravitational waves",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://media.nature.com/lw1024/magazine-assets/d41586-022-00170-y/d41586-022-00170-y_20066414.jpg",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://www.nature.com/articles/d41586-022-00170-y",
-      "audio": [],
-      "description": "Several teams hope to use pulsars in the Milky Way to detect ripples in space-time made by distant supermassive black holes.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/static/images/favicons/nature/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30129631,
-    "title": "Request bodies in GET requests",
-    "url": "https://evertpot.com/get-request-bodies/",
-    "time": 1643485054,
-    "image": "https://evertpot.com/assets/cover/flower.png",
-    "icon": "https://evertpot.com/assets/img/flower-icon.png",
-    "publisher": "evertpot.com",
-    "description": "",
-    "by": "treve",
-    "points": 160,
-    "comment_count": 111,
-    "hn_item": {
-      "by": "quambene",
-      "descendants": 0,
-      "id": 30157464,
-      "kids": null,
-      "score": 4,
-      "time": 1643678852,
-      "title": "Ask HN: Google Play prevents continuous delivery",
-      "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30157464"
-    },
-    "og_item": {
-      "title": "Request bodies in GET requests",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://evertpot.com/assets/cover/flower.png",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/assets/img/flower-icon.png"
-      }
-    }
-  },
-  {
-    "id": 30156479,
-    "title": "Fifth Browser",
-    "url": "https://github.com/clbr/fifth",
-    "time": 1643672513,
-    "image": "https://opengraph.githubassets.com/57d51c4f4419d7d36c1e3853d5bc357750859a2525cd9fb04668ba7f8807ecd6/clbr/fifth",
-    "icon": "https://github.githubassets.com/favicons/favicon.svg",
-    "publisher": "GitHub",
-    "description": "Fifth is a Linux-exclusive browser that carries the best features from Opera, as well as a few unique features that are likely to please Linux power users. It\u0026#39;s based on a custom Webkit port to...",
-    "by": "app4soft",
-    "points": 24,
-    "comment_count": 4,
-    "hn_item": {
-      "by": "quambene",
-      "descendants": 0,
-      "id": 30157464,
-      "kids": null,
-      "score": 4,
-      "time": 1643678852,
-      "title": "Ask HN: Google Play prevents continuous delivery",
-      "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30157464"
-    },
-    "og_item": {
-      "title": "GitHub - clbr/fifth: Fifth is a Linux-exclusive browser that carries the best features from Opera, as well as a few unique features that are likely to please Linux power users. It's based on a custom Webkit port to FLTK and comes licensed under the GPLv3.",
-      "type": "object",
-      "image": [
-        {
-          "url": "https://opengraph.githubassets.com/57d51c4f4419d7d36c1e3853d5bc357750859a2525cd9fb04668ba7f8807ecd6/clbr/fifth",
-          "secure_url": "",
-          "type": "",
-          "width": 1200,
-          "height": 600,
-          "alt": ""
-        }
-      ],
-      "url": "https://github.com/clbr/fifth",
-      "audio": [],
-      "description": "Fifth is a Linux-exclusive browser that carries the best features from Opera, as well as a few unique features that are likely to please Linux power users. It\u0026#39;s based on a custom Webkit port to...",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "GitHub",
-      "video": [],
-      "favicon": {
-        "url": "https://github.githubassets.com/favicons/favicon.svg"
-      }
-    }
-  },
-  {
-    "id": 30157307,
-    "title": "Crisis Text Line, from my perspective",
-    "url": "http://www.zephoria.org/thoughts/archives/2022/01/31/crisis-text-line-from-my-perspective.html",
-    "time": 1643677665,
-    "image": "",
-    "icon": "",
-    "publisher": "zephoria.org",
-    "description": "",
-    "by": "jbegley",
-    "points": 21,
-    "comment_count": 3,
-    "hn_item": {
-      "by": "quambene",
-      "descendants": 0,
-      "id": 30157464,
-      "kids": null,
-      "score": 4,
-      "time": 1643678852,
-      "title": "Ask HN: Google Play prevents continuous delivery",
-      "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30157464"
-    },
-    "og_item": {
-      "title": "Crisis Text Line, from my perspective￼ | danah boyd | apophenia",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30155295,
-    "title": "Pay attention to WebAssembly",
-    "url": "https://harshal.sheth.io/2022/01/31/webassembly.html",
-    "time": 1643666927,
-    "image": "",
-    "icon": "https://harshal.sheth.io/favicon.ico",
-    "publisher": "Harshal Sheth",
-    "description": "WebAssembly is at an inflection point. Over the next few years, I expect to see increased adoption of WebAssembly across the tech sphere, from containerization to plugin systems to serverless computing platforms. The following is a discussion of what WebAssembly is, what makes it a relevant techn…",
-    "by": "hsheth2",
-    "points": 157,
-    "comment_count": 101,
-    "hn_item": {
-      "by": "quambene",
-      "descendants": 0,
-      "id": 30157464,
-      "kids": null,
-      "score": 4,
-      "time": 1643678852,
-      "title": "Ask HN: Google Play prevents continuous delivery",
-      "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30157464"
-    },
-    "og_item": {
-      "title": "Pay attention to WebAssembly",
-      "type": "article",
-      "image": [],
-      "url": "https://harshal.sheth.io/2022/01/31/webassembly.html",
-      "audio": [],
-      "description": "WebAssembly is at an inflection point. Over the next few years, I expect to see increased adoption of WebAssembly across the tech sphere, from containerization to plugin systems to serverless computing platforms. The following is a discussion of what WebAssembly is, what makes it a relevant technology, and where it’s being used today. I’ll also describe some potentially high-impact applications and make some predictions about its future.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "Harshal Sheth",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30154265,
-    "title": "Smarking (YC W15) Is Hiring Head of Eng to digitize $655B parking industry",
-    "url": "https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567",
-    "time": 1643662823,
-    "image": "https://lever-client-logos.s3.amazonaws.com/dba6daed-b0b4-4edb-ae1e-e6866ce0411c-1466127457510.png",
-    "icon": "https://jobs.lever.co/favicon.ico",
-    "publisher": "jobs.lever.co",
-    "description": "Smarking is a leading provider of enterprise software and data technology solutions for the massively overlooked $655B global parking industry. This is an excellent position for a highly capable software engineer who's ready to take on bigger responsibilities, team wide leadership, and a leap of …",
-    "by": "sangwen",
-    "points": 1,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "quambene",
-      "descendants": 0,
-      "id": 30157464,
-      "kids": null,
-      "score": 4,
-      "time": 1643678852,
-      "title": "Ask HN: Google Play prevents continuous delivery",
-      "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30157464"
-    },
-    "og_item": {
-      "title": "Smarking - Head of Engineering",
-      "type": "",
-      "image": [
-        {
-          "url": "https://lever-client-logos.s3.amazonaws.com/dba6daed-b0b4-4edb-ae1e-e6866ce0411c-1466127457510.png",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 200,
-          "alt": ""
-        }
-      ],
-      "url": "https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567",
-      "audio": [],
-      "description": "Smarking is a leading provider of enterprise software and data technology solutions for the massively overlooked $655B global parking industry. This is an excellent position for a highly capable software engineer who's ready to take on bigger responsibilities, team wide leadership, and a leap of faith, to not only continue shipping codes and building amazing products and systems, but also lead and build a team of solid engineers to help scale cutting edge tech solutions from ground up for a massive and overlooked market . The Head of Engineering will report to the CEO directly, and join the management team to provide engineering leadership company wide.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
-    "id": 30150018,
-    "title": "Pyflow – Visual and modular block programming in Python",
-    "url": "https://github.com/Bycelium/PyFlow",
-    "time": 1643647446,
-    "image": "https://opengraph.githubassets.com/96c3e38131b6bc866ebf4d1352cddbb118f4b32a038745721a9fdc6974d6cad7/Bycelium/PyFlow",
-    "icon": "https://github.githubassets.com/favicons/favicon.svg",
-    "publisher": "GitHub",
-    "description": "An open-source tool for visual and modular block programing in python - GitHub - Bycelium/PyFlow: An open-source tool for visual and modular block programing in python",
-    "by": "amai",
-    "points": 171,
-    "comment_count": 80,
-    "hn_item": {
-      "by": "quambene",
-      "descendants": 0,
-      "id": 30157464,
-      "kids": null,
-      "score": 4,
-      "time": 1643678852,
-      "title": "Ask HN: Google Play prevents continuous delivery",
-      "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30157464"
-    },
-    "og_item": {
-      "title": "GitHub - Bycelium/PyFlow: An open-source tool for visual and modular block programing in python",
-      "type": "object",
-      "image": [
-        {
-          "url": "https://opengraph.githubassets.com/96c3e38131b6bc866ebf4d1352cddbb118f4b32a038745721a9fdc6974d6cad7/Bycelium/PyFlow",
-          "secure_url": "",
-          "type": "",
-          "width": 1200,
-          "height": 600,
-          "alt": ""
-        }
-      ],
-      "url": "https://github.com/Bycelium/PyFlow",
-      "audio": [],
-      "description": "An open-source tool for visual and modular block programing in python - GitHub - Bycelium/PyFlow: An open-source tool for visual and modular block programing in python",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "GitHub",
-      "video": [],
-      "favicon": {
-        "url": "https://github.githubassets.com/favicons/favicon.svg"
-      }
-    }
-  },
-  {
     "id": 30157426,
     "title": "The Death of Wordle",
     "url": "https://reeshill.net/posts/death-of-wordle/",
@@ -853,18 +510,20 @@
     "publisher": "reeshill.net",
     "description": "So The New York Times just bought Worldle. This is not surprising, but it\u0026rsquo;s definitely disappointing. Wordle is an uncommonly successful small project in a Web dominated by large corporate platforms, and its acquisition only leads us further in that direction.",
     "by": "333c",
-    "points": 11,
-    "comment_count": 4,
+    "points": 20,
+    "comment_count": 5,
     "hn_item": {
-      "by": "quambene",
-      "descendants": 0,
-      "id": 30157464,
-      "kids": null,
-      "score": 4,
-      "time": 1643678852,
-      "title": "Ask HN: Google Play prevents continuous delivery",
+      "by": "yasoob",
+      "descendants": 3,
+      "id": 30150995,
+      "kids": [
+        30151478
+      ],
+      "score": 21,
+      "time": 1643650734,
+      "title": "Show HN: Practical Python Projects book now free to read online",
       "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30157464"
+      "url": "https://practicalpython.yasoob.me/toc.html"
     },
     "og_item": {
       "title": "The Death of Wordle",
@@ -893,6 +552,192 @@
     }
   },
   {
+    "id": 30157307,
+    "title": "Crisis Text Line, from my perspective",
+    "url": "http://www.zephoria.org/thoughts/archives/2022/01/31/crisis-text-line-from-my-perspective.html",
+    "time": 1643677665,
+    "image": "",
+    "icon": "",
+    "publisher": "zephoria.org",
+    "description": "",
+    "by": "jbegley",
+    "points": 23,
+    "comment_count": 4,
+    "hn_item": {
+      "by": "yasoob",
+      "descendants": 3,
+      "id": 30150995,
+      "kids": [
+        30151478
+      ],
+      "score": 21,
+      "time": 1643650734,
+      "title": "Show HN: Practical Python Projects book now free to read online",
+      "type": "story",
+      "url": "https://practicalpython.yasoob.me/toc.html"
+    },
+    "og_item": {
+      "title": "Crisis Text Line, from my perspective￼ | danah boyd | apophenia",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30149370,
+    "title": "Show HN: Magistrate – Plaintext legal contracts for developers",
+    "url": "https://magistrate.khanna.law/",
+    "time": 1643644505,
+    "image": "",
+    "icon": "https://magistrate.khanna.law/static/favicon-32x32.png",
+    "publisher": "magistrate.khanna.law",
+    "description": "",
+    "by": "hkhanna",
+    "points": 231,
+    "comment_count": 89,
+    "hn_item": {
+      "by": "yasoob",
+      "descendants": 3,
+      "id": 30150995,
+      "kids": [
+        30151478
+      ],
+      "score": 21,
+      "time": 1643650734,
+      "title": "Show HN: Practical Python Projects book now free to read online",
+      "type": "story",
+      "url": "https://practicalpython.yasoob.me/toc.html"
+    },
+    "og_item": {
+      "title": "Plain text legal contracts for developers - Magistrate",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/static/favicon-32x32.png"
+      }
+    }
+  },
+  {
+    "id": 30129631,
+    "title": "Request bodies in GET requests",
+    "url": "https://evertpot.com/get-request-bodies/",
+    "time": 1643485054,
+    "image": "https://evertpot.com/assets/cover/flower.png",
+    "icon": "https://evertpot.com/assets/img/flower-icon.png",
+    "publisher": "evertpot.com",
+    "description": "",
+    "by": "treve",
+    "points": 163,
+    "comment_count": 113,
+    "hn_item": {
+      "by": "yasoob",
+      "descendants": 3,
+      "id": 30150995,
+      "kids": [
+        30151478
+      ],
+      "score": 21,
+      "time": 1643650734,
+      "title": "Show HN: Practical Python Projects book now free to read online",
+      "type": "story",
+      "url": "https://practicalpython.yasoob.me/toc.html"
+    },
+    "og_item": {
+      "title": "Request bodies in GET requests",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://evertpot.com/assets/cover/flower.png",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/assets/img/flower-icon.png"
+      }
+    }
+  },
+  {
+    "id": 30118910,
+    "title": "Astronomers close in on new way to detect gravitational waves",
+    "url": "https://www.nature.com/articles/d41586-022-00170-y",
+    "time": 1643396549,
+    "image": "https://media.nature.com/lw1024/magazine-assets/d41586-022-00170-y/d41586-022-00170-y_20066414.jpg",
+    "icon": "https://www.nature.com/static/images/favicons/nature/favicon.ico",
+    "publisher": "Nature",
+    "description": "Several teams hope to use pulsars in the Milky Way to detect ripples in space-time made by distant supermassive black holes.",
+    "by": "pseudolus",
+    "points": 56,
+    "comment_count": 11,
+    "hn_item": {
+      "by": "yasoob",
+      "descendants": 3,
+      "id": 30150995,
+      "kids": [
+        30151478
+      ],
+      "score": 21,
+      "time": 1643650734,
+      "title": "Show HN: Practical Python Projects book now free to read online",
+      "type": "story",
+      "url": "https://practicalpython.yasoob.me/toc.html"
+    },
+    "og_item": {
+      "title": "Astronomers close in on new way to detect gravitational waves",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://media.nature.com/lw1024/magazine-assets/d41586-022-00170-y/d41586-022-00170-y_20066414.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://www.nature.com/articles/d41586-022-00170-y",
+      "audio": [],
+      "description": "Several teams hope to use pulsars in the Milky Way to detect ripples in space-time made by distant supermassive black holes.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/static/images/favicons/nature/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30136835,
     "title": "New engine could save internal combustion from the scrap heap",
     "url": "https://www.motor1.com/news/563664/new-omega-combustion-engine-design/",
@@ -902,18 +747,20 @@
     "publisher": "Motor1.com",
     "description": "A new engine technology could reinvent the internal combustion engine for the future, capable of better efficiency and fewer emissions.",
     "by": "bobajeff",
-    "points": 58,
+    "points": 60,
     "comment_count": 58,
     "hn_item": {
-      "by": "quambene",
-      "descendants": 0,
-      "id": 30157464,
-      "kids": null,
-      "score": 4,
-      "time": 1643678852,
-      "title": "Ask HN: Google Play prevents continuous delivery",
+      "by": "yasoob",
+      "descendants": 3,
+      "id": 30150995,
+      "kids": [
+        30151478
+      ],
+      "score": 21,
+      "time": 1643650734,
+      "title": "Show HN: Practical Python Projects book now free to read online",
       "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30157464"
+      "url": "https://practicalpython.yasoob.me/toc.html"
     },
     "og_item": {
       "title": "This New Engine Could Save Internal Combustion From The Scrap Heap",
@@ -942,51 +789,239 @@
     }
   },
   {
-    "id": 30157263,
-    "title": "The Wondrous Wordplay of Lunar New Year Food",
-    "url": "https://www.atlasobscura.com/articles/lunar-new-year-food",
-    "time": 1643677350,
-    "image": "https://img.atlasobscura.com/y55R1GbfLm5fb3JiBA1TIOCjs12SGnJBY7qQHKGJC9s/rt:fit/w:600/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy81YTIzODNmYzUy/YTk5NjQwZjhfdGFu/Z3l1YW4uanBlZw.jpg",
-    "icon": "https://s3.amazonaws.com/atlas-dev/misc/icons/favicon.ico",
-    "publisher": "Atlas Obscura",
-    "description": "Layers of meaning surround the names of nearly every dish.",
-    "by": "wyrm",
-    "points": 11,
+    "id": 30154265,
+    "title": "Smarking (YC W15) Is Hiring Head of Eng to digitize $655B parking industry",
+    "url": "https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567",
+    "time": 1643662823,
+    "image": "https://lever-client-logos.s3.amazonaws.com/dba6daed-b0b4-4edb-ae1e-e6866ce0411c-1466127457510.png",
+    "icon": "https://jobs.lever.co/favicon.ico",
+    "publisher": "jobs.lever.co",
+    "description": "Smarking is a leading provider of enterprise software and data technology solutions for the massively overlooked $655B global parking industry. This is an excellent position for a highly capable software engineer who's ready to take on bigger responsibilities, team wide leadership, and a leap of …",
+    "by": "sangwen",
+    "points": 1,
     "comment_count": 0,
     "hn_item": {
-      "by": "quambene",
-      "descendants": 0,
-      "id": 30157464,
-      "kids": null,
-      "score": 4,
-      "time": 1643678852,
-      "title": "Ask HN: Google Play prevents continuous delivery",
+      "by": "yasoob",
+      "descendants": 3,
+      "id": 30150995,
+      "kids": [
+        30151478
+      ],
+      "score": 21,
+      "time": 1643650734,
+      "title": "Show HN: Practical Python Projects book now free to read online",
       "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30157464"
+      "url": "https://practicalpython.yasoob.me/toc.html"
     },
     "og_item": {
-      "title": "The Wondrous Wordplay of Lunar New Year Food",
-      "type": "article",
+      "title": "Smarking - Head of Engineering",
+      "type": "",
       "image": [
         {
-          "url": "https://img.atlasobscura.com/y55R1GbfLm5fb3JiBA1TIOCjs12SGnJBY7qQHKGJC9s/rt:fit/w:600/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy81YTIzODNmYzUy/YTk5NjQwZjhfdGFu/Z3l1YW4uanBlZw.jpg",
+          "url": "https://lever-client-logos.s3.amazonaws.com/dba6daed-b0b4-4edb-ae1e-e6866ce0411c-1466127457510.png",
           "secure_url": "",
           "type": "",
           "width": 0,
-          "height": 0,
+          "height": 200,
           "alt": ""
         }
       ],
-      "url": "http://www.atlasobscura.com/articles/lunar-new-year-food",
+      "url": "https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567",
       "audio": [],
-      "description": "Layers of meaning surround the names of nearly every dish.",
+      "description": "Smarking is a leading provider of enterprise software and data technology solutions for the massively overlooked $655B global parking industry. This is an excellent position for a highly capable software engineer who's ready to take on bigger responsibilities, team wide leadership, and a leap of faith, to not only continue shipping codes and building amazing products and systems, but also lead and build a team of solid engineers to help scale cutting edge tech solutions from ground up for a massive and overlooked market . The Head of Engineering will report to the CEO directly, and join the management team to provide engineering leadership company wide.",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "Atlas Obscura",
+      "site_name": "",
       "video": [],
       "favicon": {
-        "url": "https://s3.amazonaws.com/atlas-dev/misc/icons/favicon.ico"
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30156479,
+    "title": "Fifth Browser",
+    "url": "https://github.com/clbr/fifth",
+    "time": 1643672513,
+    "image": "https://opengraph.githubassets.com/57d51c4f4419d7d36c1e3853d5bc357750859a2525cd9fb04668ba7f8807ecd6/clbr/fifth",
+    "icon": "https://github.githubassets.com/favicons/favicon.svg",
+    "publisher": "GitHub",
+    "description": "Fifth is a Linux-exclusive browser that carries the best features from Opera, as well as a few unique features that are likely to please Linux power users. It\u0026#39;s based on a custom Webkit port to...",
+    "by": "app4soft",
+    "points": 25,
+    "comment_count": 4,
+    "hn_item": {
+      "by": "yasoob",
+      "descendants": 3,
+      "id": 30150995,
+      "kids": [
+        30151478
+      ],
+      "score": 21,
+      "time": 1643650734,
+      "title": "Show HN: Practical Python Projects book now free to read online",
+      "type": "story",
+      "url": "https://practicalpython.yasoob.me/toc.html"
+    },
+    "og_item": {
+      "title": "GitHub - clbr/fifth: Fifth is a Linux-exclusive browser that carries the best features from Opera, as well as a few unique features that are likely to please Linux power users. It's based on a custom Webkit port to FLTK and comes licensed under the GPLv3.",
+      "type": "object",
+      "image": [
+        {
+          "url": "https://opengraph.githubassets.com/57d51c4f4419d7d36c1e3853d5bc357750859a2525cd9fb04668ba7f8807ecd6/clbr/fifth",
+          "secure_url": "",
+          "type": "",
+          "width": 1200,
+          "height": 600,
+          "alt": ""
+        }
+      ],
+      "url": "https://github.com/clbr/fifth",
+      "audio": [],
+      "description": "Fifth is a Linux-exclusive browser that carries the best features from Opera, as well as a few unique features that are likely to please Linux power users. It\u0026#39;s based on a custom Webkit port to...",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "GitHub",
+      "video": [],
+      "favicon": {
+        "url": "https://github.githubassets.com/favicons/favicon.svg"
+      }
+    }
+  },
+  {
+    "id": 30155295,
+    "title": "Pay attention to WebAssembly",
+    "url": "https://harshal.sheth.io/2022/01/31/webassembly.html",
+    "time": 1643666927,
+    "image": "",
+    "icon": "https://harshal.sheth.io/favicon.ico",
+    "publisher": "Harshal Sheth",
+    "description": "WebAssembly is at an inflection point. Over the next few years, I expect to see increased adoption of WebAssembly across the tech sphere, from containerization to plugin systems to serverless computing platforms. The following is a discussion of what WebAssembly is, what makes it a relevant techn…",
+    "by": "hsheth2",
+    "points": 161,
+    "comment_count": 105,
+    "hn_item": {
+      "by": "yasoob",
+      "descendants": 3,
+      "id": 30150995,
+      "kids": [
+        30151478
+      ],
+      "score": 21,
+      "time": 1643650734,
+      "title": "Show HN: Practical Python Projects book now free to read online",
+      "type": "story",
+      "url": "https://practicalpython.yasoob.me/toc.html"
+    },
+    "og_item": {
+      "title": "Pay attention to WebAssembly",
+      "type": "article",
+      "image": [],
+      "url": "https://harshal.sheth.io/2022/01/31/webassembly.html",
+      "audio": [],
+      "description": "WebAssembly is at an inflection point. Over the next few years, I expect to see increased adoption of WebAssembly across the tech sphere, from containerization to plugin systems to serverless computing platforms. The following is a discussion of what WebAssembly is, what makes it a relevant technology, and where it’s being used today. I’ll also describe some potentially high-impact applications and make some predictions about its future.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Harshal Sheth",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30135651,
+    "title": "Ask HN: Programming and dyslexia",
+    "url": "https://news.ycombinator.com/item?id=30135651",
+    "time": 1643538790,
+    "image": "",
+    "icon": "https://news.ycombinator.com/favicon.ico",
+    "publisher": "Hacker News",
+    "description": "",
+    "by": "erikbye",
+    "points": 6,
+    "comment_count": 4,
+    "hn_item": {
+      "by": "yasoob",
+      "descendants": 3,
+      "id": 30150995,
+      "kids": [
+        30151478
+      ],
+      "score": 21,
+      "time": 1643650734,
+      "title": "Show HN: Practical Python Projects book now free to read online",
+      "type": "story",
+      "url": "https://practicalpython.yasoob.me/toc.html"
+    },
+    "og_item": {
+      "title": "Ask HN: Programming and dyslexia | Hacker News",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "favicon.ico"
+      }
+    }
+  },
+  {
+    "id": 30150018,
+    "title": "Pyflow – Visual and modular block programming in Python",
+    "url": "https://github.com/Bycelium/PyFlow",
+    "time": 1643647446,
+    "image": "https://opengraph.githubassets.com/bbece9122faf1c42524d76fbfc9b0f1b090a602c142e358599a15092caf944b8/Bycelium/PyFlow",
+    "icon": "https://github.githubassets.com/favicons/favicon.svg",
+    "publisher": "GitHub",
+    "description": "An open-source tool for visual and modular block programing in python - GitHub - Bycelium/PyFlow: An open-source tool for visual and modular block programing in python",
+    "by": "amai",
+    "points": 172,
+    "comment_count": 80,
+    "hn_item": {
+      "by": "yasoob",
+      "descendants": 3,
+      "id": 30150995,
+      "kids": [
+        30151478
+      ],
+      "score": 21,
+      "time": 1643650734,
+      "title": "Show HN: Practical Python Projects book now free to read online",
+      "type": "story",
+      "url": "https://practicalpython.yasoob.me/toc.html"
+    },
+    "og_item": {
+      "title": "GitHub - Bycelium/PyFlow: An open-source tool for visual and modular block programing in python",
+      "type": "object",
+      "image": [
+        {
+          "url": "https://opengraph.githubassets.com/bbece9122faf1c42524d76fbfc9b0f1b090a602c142e358599a15092caf944b8/Bycelium/PyFlow",
+          "secure_url": "",
+          "type": "",
+          "width": 1200,
+          "height": 600,
+          "alt": ""
+        }
+      ],
+      "url": "https://github.com/Bycelium/PyFlow",
+      "audio": [],
+      "description": "An open-source tool for visual and modular block programing in python - GitHub - Bycelium/PyFlow: An open-source tool for visual and modular block programing in python",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "GitHub",
+      "video": [],
+      "favicon": {
+        "url": "https://github.githubassets.com/favicons/favicon.svg"
       }
     }
   },
@@ -1000,18 +1035,20 @@
     "publisher": "Ask a Manager",
     "description": "A reader writes: This is a situation currently unfolding at my husband's office so I’m a very amused bystander and thought I’d get your opinion on this",
     "by": "amadeuspzs",
-    "points": 772,
-    "comment_count": 471,
+    "points": 774,
+    "comment_count": 474,
     "hn_item": {
-      "by": "quambene",
-      "descendants": 0,
-      "id": 30157464,
-      "kids": null,
-      "score": 4,
-      "time": 1643678852,
-      "title": "Ask HN: Google Play prevents continuous delivery",
+      "by": "yasoob",
+      "descendants": 3,
+      "id": 30150995,
+      "kids": [
+        30151478
+      ],
+      "score": 21,
+      "time": 1643650734,
+      "title": "Show HN: Practical Python Projects book now free to read online",
       "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30157464"
+      "url": "https://practicalpython.yasoob.me/toc.html"
     },
     "og_item": {
       "title": "the new hire who showed up is not the same person we interviewed",
@@ -1040,42 +1077,53 @@
     }
   },
   {
-    "id": 30135651,
-    "title": "Ask HN: Programming and dyslexia",
-    "url": "https://news.ycombinator.com/item?id=30135651",
-    "time": 1643538790,
-    "image": "",
-    "icon": "https://news.ycombinator.com/favicon.ico",
-    "publisher": "Hacker News",
-    "description": "",
-    "by": "erikbye",
-    "points": 5,
-    "comment_count": 2,
+    "id": 30157263,
+    "title": "The Wondrous Wordplay of Lunar New Year Food",
+    "url": "https://www.atlasobscura.com/articles/lunar-new-year-food",
+    "time": 1643677350,
+    "image": "https://img.atlasobscura.com/y55R1GbfLm5fb3JiBA1TIOCjs12SGnJBY7qQHKGJC9s/rt:fit/w:600/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy81YTIzODNmYzUy/YTk5NjQwZjhfdGFu/Z3l1YW4uanBlZw.jpg",
+    "icon": "https://s3.amazonaws.com/atlas-dev/misc/icons/favicon.ico",
+    "publisher": "Atlas Obscura",
+    "description": "Layers of meaning surround the names of nearly every dish.",
+    "by": "wyrm",
+    "points": 11,
+    "comment_count": 0,
     "hn_item": {
-      "by": "quambene",
-      "descendants": 0,
-      "id": 30157464,
-      "kids": null,
-      "score": 4,
-      "time": 1643678852,
-      "title": "Ask HN: Google Play prevents continuous delivery",
+      "by": "yasoob",
+      "descendants": 3,
+      "id": 30150995,
+      "kids": [
+        30151478
+      ],
+      "score": 21,
+      "time": 1643650734,
+      "title": "Show HN: Practical Python Projects book now free to read online",
       "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30157464"
+      "url": "https://practicalpython.yasoob.me/toc.html"
     },
     "og_item": {
-      "title": "Ask HN: Programming and dyslexia | Hacker News",
-      "type": "",
-      "image": [],
-      "url": "",
+      "title": "The Wondrous Wordplay of Lunar New Year Food",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://img.atlasobscura.com/y55R1GbfLm5fb3JiBA1TIOCjs12SGnJBY7qQHKGJC9s/rt:fit/w:600/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy81YTIzODNmYzUy/YTk5NjQwZjhfdGFu/Z3l1YW4uanBlZw.jpg",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "http://www.atlasobscura.com/articles/lunar-new-year-food",
       "audio": [],
-      "description": "",
+      "description": "Layers of meaning surround the names of nearly every dish.",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "",
+      "site_name": "Atlas Obscura",
       "video": [],
       "favicon": {
-        "url": "favicon.ico"
+        "url": "https://s3.amazonaws.com/atlas-dev/misc/icons/favicon.ico"
       }
     }
   },
@@ -1089,18 +1137,20 @@
     "publisher": "jpkoning.blogspot.com",
     "description": "Over the last five years Yemen has stumbled into a unique monetary situation. I initially wrote about Yemen's odd currency status two years ...",
     "by": "rwmj",
-    "points": 114,
+    "points": 116,
     "comment_count": 70,
     "hn_item": {
-      "by": "quambene",
-      "descendants": 0,
-      "id": 30157464,
-      "kids": null,
-      "score": 4,
-      "time": 1643678852,
-      "title": "Ask HN: Google Play prevents continuous delivery",
+      "by": "yasoob",
+      "descendants": 3,
+      "id": 30150995,
+      "kids": [
+        30151478
+      ],
+      "score": 21,
+      "time": 1643650734,
+      "title": "Show HN: Practical Python Projects book now free to read online",
       "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30157464"
+      "url": "https://practicalpython.yasoob.me/toc.html"
     },
     "og_item": {
       "title": "Yemen's bifurcated monetary system",
@@ -1129,46 +1179,6 @@
     }
   },
   {
-    "id": 30152268,
-    "title": "The unreasonable effectiveness of one-on-ones",
-    "url": "https://www.benkuhn.net/11/",
-    "time": 1643654866,
-    "image": "",
-    "icon": "https://www.benkuhn.net/favicon.ico",
-    "publisher": "benkuhn.net",
-    "description": "When I started dating my partner, I quickly noticed that grad school was making her very sad.\nThis was shortly after I’d started leading an engineering team at Wave, and so the “obvious” hypothesis to me was that the management (okay, “management”) one gets in graduate school is totally…",
-    "by": "sebg",
-    "points": 148,
-    "comment_count": 142,
-    "hn_item": {
-      "by": "quambene",
-      "descendants": 0,
-      "id": 30157464,
-      "kids": null,
-      "score": 4,
-      "time": 1643678852,
-      "title": "Ask HN: Google Play prevents continuous delivery",
-      "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30157464"
-    },
-    "og_item": {
-      "title": "The unreasonable effectiveness of one-on-ones",
-      "type": "",
-      "image": [],
-      "url": "https://www.benkuhn.net/11/",
-      "audio": [],
-      "description": "When I started dating my partner, I quickly noticed that grad school was making her very sad.\nThis was shortly after I’d started leading an engineering team at Wave, and so the “obvious” hypothesis to me was that the management (okay, “management”) one gets in graduate school is totally ineffective.\nMost graduate students, including Eve, start school right after college, i.e., without much clue about how to effectively do self-directed work.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "benkuhn.net",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30148364,
     "title": "The rising human cost of sports betting",
     "url": "https://www.nytimes.com/2022/01/31/sports/football/super-bowl-sports-betting.html",
@@ -1181,15 +1191,17 @@
     "points": 163,
     "comment_count": 250,
     "hn_item": {
-      "by": "quambene",
-      "descendants": 0,
-      "id": 30157464,
-      "kids": null,
-      "score": 4,
-      "time": 1643678852,
-      "title": "Ask HN: Google Play prevents continuous delivery",
+      "by": "yasoob",
+      "descendants": 3,
+      "id": 30150995,
+      "kids": [
+        30151478
+      ],
+      "score": 21,
+      "time": 1643650734,
+      "title": "Show HN: Practical Python Projects book now free to read online",
       "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30157464"
+      "url": "https://practicalpython.yasoob.me/toc.html"
     },
     "og_item": {
       "title": "The Rising Human Cost of Sports Betting",
@@ -1218,51 +1230,44 @@
     }
   },
   {
-    "id": 30156929,
-    "title": "Building a Cross-Platform Web and Mobile App from the Ground Up",
-    "url": "https://ambrook.com/blog/building-a-cross-platform-web-and-mobile-app-from-the-ground-up",
-    "time": 1643675060,
-    "image": "https://cdn.sanity.io/images/h6kk644c/production/90b5917ccea0609ca2fd9e399caef9c19cde237e-2000x1050.png",
-    "icon": "https://ambrook.com/img/favicon/favicon-196x196.png",
-    "publisher": "Ambrook",
-    "description": "\"Why can't we just write this code once and have it just work across Web, Android and iOS?\" As a mobile engineer who has spent both a significant portion of his career copying the exact same product from iOS to Android, I’ve asked myself this question many times..",
-    "by": "mfburnett",
-    "points": 29,
-    "comment_count": 7,
+    "id": 30152268,
+    "title": "The unreasonable effectiveness of one-on-ones",
+    "url": "https://www.benkuhn.net/11/",
+    "time": 1643654866,
+    "image": "",
+    "icon": "https://www.benkuhn.net/favicon.ico",
+    "publisher": "benkuhn.net",
+    "description": "When I started dating my partner, I quickly noticed that grad school was making her very sad.\nThis was shortly after I’d started leading an engineering team at Wave, and so the “obvious” hypothesis to me was that the management (okay, “management”) one gets in graduate school is totally…",
+    "by": "sebg",
+    "points": 149,
+    "comment_count": 142,
     "hn_item": {
-      "by": "quambene",
-      "descendants": 0,
-      "id": 30157464,
-      "kids": null,
-      "score": 4,
-      "time": 1643678852,
-      "title": "Ask HN: Google Play prevents continuous delivery",
+      "by": "yasoob",
+      "descendants": 3,
+      "id": 30150995,
+      "kids": [
+        30151478
+      ],
+      "score": 21,
+      "time": 1643650734,
+      "title": "Show HN: Practical Python Projects book now free to read online",
       "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30157464"
+      "url": "https://practicalpython.yasoob.me/toc.html"
     },
     "og_item": {
-      "title": "Building a Cross-Platform Web \u0026 Mobile App from the Ground Up | Ambrook",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://cdn.sanity.io/images/h6kk644c/production/90b5917ccea0609ca2fd9e399caef9c19cde237e-2000x1050.png",
-          "secure_url": "",
-          "type": "",
-          "width": 2000,
-          "height": 1050,
-          "alt": ""
-        }
-      ],
-      "url": "https://ambrook.com/blog/building-a-cross-platform-web-and-mobile-app-from-the-ground-up",
+      "title": "The unreasonable effectiveness of one-on-ones",
+      "type": "",
+      "image": [],
+      "url": "https://www.benkuhn.net/11/",
       "audio": [],
-      "description": "\"Why can't we just write this code once and have it just work across Web, Android and iOS?\" As a mobile engineer who has spent both a significant portion of his career copying the exact same product from iOS to Android, I’ve asked myself this question many times..",
+      "description": "When I started dating my partner, I quickly noticed that grad school was making her very sad.\nThis was shortly after I’d started leading an engineering team at Wave, and so the “obvious” hypothesis to me was that the management (okay, “management”) one gets in graduate school is totally ineffective.\nMost graduate students, including Eve, start school right after college, i.e., without much clue about how to effectively do self-directed work.",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "Ambrook",
+      "site_name": "benkuhn.net",
       "video": [],
       "favicon": {
-        "url": "/img/favicon/favicon-196x196.png"
+        "url": "/favicon.ico"
       }
     }
   },
@@ -1276,18 +1281,20 @@
     "publisher": "Oceana",
     "description": "Giant Pyrosomes are bioluminescent (light producing), giving rise to the common name, which comes from the Greek for fire (“pyro”) and body (“soma”). The light produced by Giant Pyrosomes is particularly bright and long lasting and is beautiful to witness. Because the individual tunicat…",
     "by": "integrale",
-    "points": 126,
-    "comment_count": 31,
+    "points": 127,
+    "comment_count": 32,
     "hn_item": {
-      "by": "quambene",
-      "descendants": 0,
-      "id": 30157464,
-      "kids": null,
-      "score": 4,
-      "time": 1643678852,
-      "title": "Ask HN: Google Play prevents continuous delivery",
+      "by": "yasoob",
+      "descendants": 3,
+      "id": 30150995,
+      "kids": [
+        30151478
+      ],
+      "score": 21,
+      "time": 1643650734,
+      "title": "Show HN: Practical Python Projects book now free to read online",
       "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30157464"
+      "url": "https://practicalpython.yasoob.me/toc.html"
     },
     "og_item": {
       "title": "Giant Pyrosome",
@@ -1316,6 +1323,57 @@
     }
   },
   {
+    "id": 30156929,
+    "title": "Building a Cross-Platform Web and Mobile App from the Ground Up",
+    "url": "https://ambrook.com/blog/building-a-cross-platform-web-and-mobile-app-from-the-ground-up",
+    "time": 1643675060,
+    "image": "https://cdn.sanity.io/images/h6kk644c/production/90b5917ccea0609ca2fd9e399caef9c19cde237e-2000x1050.png",
+    "icon": "https://ambrook.com/img/favicon/favicon-196x196.png",
+    "publisher": "Ambrook",
+    "description": "\"Why can't we just write this code once and have it just work across Web, Android and iOS?\" As a mobile engineer who has spent both a significant portion of his career copying the exact same product from iOS to Android, I’ve asked myself this question many times..",
+    "by": "mfburnett",
+    "points": 32,
+    "comment_count": 8,
+    "hn_item": {
+      "by": "yasoob",
+      "descendants": 3,
+      "id": 30150995,
+      "kids": [
+        30151478
+      ],
+      "score": 21,
+      "time": 1643650734,
+      "title": "Show HN: Practical Python Projects book now free to read online",
+      "type": "story",
+      "url": "https://practicalpython.yasoob.me/toc.html"
+    },
+    "og_item": {
+      "title": "Building a Cross-Platform Web \u0026 Mobile App from the Ground Up | Ambrook",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://cdn.sanity.io/images/h6kk644c/production/90b5917ccea0609ca2fd9e399caef9c19cde237e-2000x1050.png",
+          "secure_url": "",
+          "type": "",
+          "width": 2000,
+          "height": 1050,
+          "alt": ""
+        }
+      ],
+      "url": "https://ambrook.com/blog/building-a-cross-platform-web-and-mobile-app-from-the-ground-up",
+      "audio": [],
+      "description": "\"Why can't we just write this code once and have it just work across Web, Android and iOS?\" As a mobile engineer who has spent both a significant portion of his career copying the exact same product from iOS to Android, I’ve asked myself this question many times..",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "Ambrook",
+      "video": [],
+      "favicon": {
+        "url": "/img/favicon/favicon-196x196.png"
+      }
+    }
+  },
+  {
     "id": 30143099,
     "title": "Alien Aqueducts: The Maps of Martian Canals (2021)",
     "url": "https://publicdomainreview.org/collection/martian-canal-maps/",
@@ -1328,15 +1386,17 @@
     "points": 9,
     "comment_count": 0,
     "hn_item": {
-      "by": "quambene",
-      "descendants": 0,
-      "id": 30157464,
-      "kids": null,
-      "score": 4,
-      "time": 1643678852,
-      "title": "Ask HN: Google Play prevents continuous delivery",
+      "by": "yasoob",
+      "descendants": 3,
+      "id": 30150995,
+      "kids": [
+        30151478
+      ],
+      "score": 21,
+      "time": 1643650734,
+      "title": "Show HN: Practical Python Projects book now free to read online",
       "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30157464"
+      "url": "https://practicalpython.yasoob.me/toc.html"
     },
     "og_item": {
       "title": "Alien Aqueducts: The Maps of Martian Canals",
@@ -1374,18 +1434,20 @@
     "publisher": "jeffgeerling.com",
     "description": "",
     "by": "geerlingguy",
-    "points": 106,
+    "points": 107,
     "comment_count": 91,
     "hn_item": {
-      "by": "quambene",
-      "descendants": 0,
-      "id": 30157464,
-      "kids": null,
-      "score": 4,
-      "time": 1643678852,
-      "title": "Ask HN: Google Play prevents continuous delivery",
+      "by": "yasoob",
+      "descendants": 3,
+      "id": 30150995,
+      "kids": [
+        30151478
+      ],
+      "score": 21,
+      "time": 1643650734,
+      "title": "Show HN: Practical Python Projects book now free to read online",
       "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30157464"
+      "url": "https://practicalpython.yasoob.me/toc.html"
     },
     "og_item": {
       "title": "It's dire: Raspberry Pi availability tracker is launched | Jeff Geerling",
@@ -1414,18 +1476,20 @@
     "publisher": "meadhbh.hamrick.rocks",
     "description": "An overview of the IETF's Virtual Worlds Agent Region Protocol and it's development.",
     "by": "dingosity",
-    "points": 56,
+    "points": 57,
     "comment_count": 48,
     "hn_item": {
-      "by": "quambene",
-      "descendants": 0,
-      "id": 30157464,
-      "kids": null,
-      "score": 4,
-      "time": 1643678852,
-      "title": "Ask HN: Google Play prevents continuous delivery",
+      "by": "yasoob",
+      "descendants": 3,
+      "id": 30150995,
+      "kids": [
+        30151478
+      ],
+      "score": 21,
+      "time": 1643650734,
+      "title": "Show HN: Practical Python Projects book now free to read online",
       "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30157464"
+      "url": "https://practicalpython.yasoob.me/toc.html"
     },
     "og_item": {
       "title": "What is VWRAP?",
@@ -1454,18 +1518,20 @@
     "publisher": "leancrew.com",
     "description": "",
     "by": "ingve",
-    "points": 78,
+    "points": 79,
     "comment_count": 18,
     "hn_item": {
-      "by": "quambene",
-      "descendants": 0,
-      "id": 30157464,
-      "kids": null,
-      "score": 4,
-      "time": 1643678852,
-      "title": "Ask HN: Google Play prevents continuous delivery",
+      "by": "yasoob",
+      "descendants": 3,
+      "id": 30150995,
+      "kids": [
+        30151478
+      ],
+      "score": 21,
+      "time": 1643650734,
+      "title": "Show HN: Practical Python Projects book now free to read online",
       "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30157464"
+      "url": "https://practicalpython.yasoob.me/toc.html"
     },
     "og_item": {
       "title": "Reducing the size of large PDFs - All this",
@@ -1497,15 +1563,17 @@
     "points": 67,
     "comment_count": 29,
     "hn_item": {
-      "by": "quambene",
-      "descendants": 0,
-      "id": 30157464,
-      "kids": null,
-      "score": 4,
-      "time": 1643678852,
-      "title": "Ask HN: Google Play prevents continuous delivery",
+      "by": "yasoob",
+      "descendants": 3,
+      "id": 30150995,
+      "kids": [
+        30151478
+      ],
+      "score": 21,
+      "time": 1643650734,
+      "title": "Show HN: Practical Python Projects book now free to read online",
       "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30157464"
+      "url": "https://practicalpython.yasoob.me/toc.html"
     },
     "og_item": {
       "title": "Colin Woodbury",
@@ -1535,17 +1603,19 @@
     "description": "Called preprint servers, these free sites allow the public to read such studies before their formal publication. They are shifting how people approach new research, experts say.",
     "by": "bookofjoe",
     "points": 31,
-    "comment_count": 13,
+    "comment_count": 14,
     "hn_item": {
-      "by": "quambene",
-      "descendants": 0,
-      "id": 30157464,
-      "kids": null,
-      "score": 4,
-      "time": 1643678852,
-      "title": "Ask HN: Google Play prevents continuous delivery",
+      "by": "yasoob",
+      "descendants": 3,
+      "id": 30150995,
+      "kids": [
+        30151478
+      ],
+      "score": 21,
+      "time": 1643650734,
+      "title": "Show HN: Practical Python Projects book now free to read online",
       "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30157464"
+      "url": "https://practicalpython.yasoob.me/toc.html"
     },
     "og_item": {
       "title": "Online archives where scientists post their research spark information revolution",
@@ -1583,18 +1653,20 @@
     "publisher": "Pixie Labs Blog",
     "description": "In today's world full of microservices, gaining observability into the messages sent between services is critical to understanding and troubleshooting issues…",
     "by": "nserrino",
-    "points": 62,
+    "points": 64,
     "comment_count": 3,
     "hn_item": {
-      "by": "quambene",
-      "descendants": 0,
-      "id": 30157464,
-      "kids": null,
-      "score": 4,
-      "time": 1643678852,
-      "title": "Ask HN: Google Play prevents continuous delivery",
+      "by": "yasoob",
+      "descendants": 3,
+      "id": 30150995,
+      "kids": [
+        30151478
+      ],
+      "score": 21,
+      "time": 1643650734,
+      "title": "Show HN: Practical Python Projects book now free to read online",
       "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30157464"
+      "url": "https://practicalpython.yasoob.me/toc.html"
     },
     "og_item": {
       "title": "Observing HTTP/2 Traffic is Hard, but eBPF Can Help",
@@ -1635,15 +1707,17 @@
     "points": 101,
     "comment_count": 27,
     "hn_item": {
-      "by": "quambene",
-      "descendants": 0,
-      "id": 30157464,
-      "kids": null,
-      "score": 4,
-      "time": 1643678852,
-      "title": "Ask HN: Google Play prevents continuous delivery",
+      "by": "yasoob",
+      "descendants": 3,
+      "id": 30150995,
+      "kids": [
+        30151478
+      ],
+      "score": 21,
+      "time": 1643650734,
+      "title": "Show HN: Practical Python Projects book now free to read online",
       "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30157464"
+      "url": "https://practicalpython.yasoob.me/toc.html"
     },
     "og_item": {
       "title": "GitHub - Textualize/rich-cli: Rich-cli is a command line toolbox for fancy output in the terminal",
@@ -1672,51 +1746,44 @@
     }
   },
   {
-    "id": 30157398,
-    "title": "How do I work around Vercel's 4KB Environment Variables limit?",
-    "url": "https://vercel.com/support/articles/how-do-i-workaround-vercel-s-4-kb-environment-variables-limit",
-    "time": 1643678346,
-    "image": "https://og-image.vercel.app/How%20do%20I%20work%20around%20Vercel's%204KB%20Environment%20Variables%20limit%3F.png?theme=light\u0026md=1\u0026fontSize=75px\u0026images=https%3A%2F%2Fassets.vercel.com%2Fimage%2Fupload%2Ffront%2Fassets%2Fdesign%2Fzeit-black-triangle.svg",
-    "icon": "https://assets.vercel.com/image/upload/front/favicon/vercel/favicon.ico",
-    "publisher": "Vercel Documentation",
-    "description": "The maximum allowed size of Environment Variables for a Deployment is 4KB and cannot be increased. This article provides a workaround by encrypting the required key-value pairs in a file and storing the encryption keys.",
-    "by": "vortexo",
-    "points": 4,
-    "comment_count": 2,
+    "id": 30149864,
+    "title": "How to approach and prioritize technical debt",
+    "url": "https://leadership.garden/tips-on-prioritizing-tech-debt/",
+    "time": 1643646689,
+    "image": "",
+    "icon": "https://leadership.garden/favicon.ico",
+    "publisher": "leadership.garden",
+    "description": "",
+    "by": "ochronus",
+    "points": 83,
+    "comment_count": 40,
     "hn_item": {
-      "by": "quambene",
-      "descendants": 0,
-      "id": 30157464,
-      "kids": null,
-      "score": 4,
-      "time": 1643678852,
-      "title": "Ask HN: Google Play prevents continuous delivery",
+      "by": "yasoob",
+      "descendants": 3,
+      "id": 30150995,
+      "kids": [
+        30151478
+      ],
+      "score": 21,
+      "time": 1643650734,
+      "title": "Show HN: Practical Python Projects book now free to read online",
       "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30157464"
+      "url": "https://practicalpython.yasoob.me/toc.html"
     },
     "og_item": {
-      "title": "How do I work around Vercel's 4KB Environment Variables limit?",
-      "type": "website",
-      "image": [
-        {
-          "url": "https://og-image.vercel.app/How%20do%20I%20work%20around%20Vercel's%204KB%20Environment%20Variables%20limit%3F.png?theme=light\u0026md=1\u0026fontSize=75px\u0026images=https%3A%2F%2Fassets.vercel.com%2Fimage%2Fupload%2Ffront%2Fassets%2Fdesign%2Fzeit-black-triangle.svg",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://vercel.com/support/articles/how-do-i-workaround-vercel-s-4-kb-environment-variables-limit",
+      "title": "Please Wait... | Cloudflare",
+      "type": "",
+      "image": [],
+      "url": "",
       "audio": [],
-      "description": "The maximum allowed size of Environment Variables for a Deployment is 4KB and cannot be increased. This article provides a workaround by encrypting the required key-value pairs in a file and storing the encryption keys.",
+      "description": "",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "Vercel Documentation",
+      "site_name": "",
       "video": [],
       "favicon": {
-        "url": "https://assets.vercel.com/image/upload/front/favicon/vercel/favicon.ico"
+        "url": "/favicon.ico"
       }
     }
   },
@@ -1730,18 +1797,20 @@
     "publisher": "CNBC",
     "description": "Sony has agreed to acquire Bungie in a $3.6 billion deal, continuing January's torrid pace of video game consolidation",
     "by": "daveaiello",
-    "points": 277,
-    "comment_count": 237,
+    "points": 278,
+    "comment_count": 238,
     "hn_item": {
-      "by": "quambene",
-      "descendants": 0,
-      "id": 30157464,
-      "kids": null,
-      "score": 4,
-      "time": 1643678852,
-      "title": "Ask HN: Google Play prevents continuous delivery",
+      "by": "yasoob",
+      "descendants": 3,
+      "id": 30150995,
+      "kids": [
+        30151478
+      ],
+      "score": 21,
+      "time": 1643650734,
+      "title": "Show HN: Practical Python Projects book now free to read online",
       "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30157464"
+      "url": "https://practicalpython.yasoob.me/toc.html"
     },
     "og_item": {
       "title": "Sony to buy video game maker Bungie in $3.6 billion deal as industry consolidation heats up",
@@ -1770,46 +1839,6 @@
     }
   },
   {
-    "id": 30149864,
-    "title": "How to approach and prioritize technical debt",
-    "url": "https://leadership.garden/tips-on-prioritizing-tech-debt/",
-    "time": 1643646689,
-    "image": "",
-    "icon": "https://leadership.garden/favicon.ico",
-    "publisher": "leadership.garden",
-    "description": "",
-    "by": "ochronus",
-    "points": 81,
-    "comment_count": 40,
-    "hn_item": {
-      "by": "quambene",
-      "descendants": 0,
-      "id": 30157464,
-      "kids": null,
-      "score": 4,
-      "time": 1643678852,
-      "title": "Ask HN: Google Play prevents continuous delivery",
-      "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30157464"
-    },
-    "og_item": {
-      "title": "Please Wait... | Cloudflare",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30153547,
     "title": "Why Henry III's gold penny failed",
     "url": "http://jpkoning.blogspot.com/2022/01/why-henry-iiis-gold-penny-failed.html",
@@ -1819,18 +1848,20 @@
     "publisher": "jpkoning.blogspot.com",
     "description": "English gold penny minted by Henry III in 1257 A lucky metal detectorist just discovered  a Henry III gold penny , one of the first English ...",
     "by": "maxwell",
-    "points": 38,
+    "points": 39,
     "comment_count": 55,
     "hn_item": {
-      "by": "quambene",
-      "descendants": 0,
-      "id": 30157464,
-      "kids": null,
-      "score": 4,
-      "time": 1643678852,
-      "title": "Ask HN: Google Play prevents continuous delivery",
+      "by": "yasoob",
+      "descendants": 3,
+      "id": 30150995,
+      "kids": [
+        30151478
+      ],
+      "score": 21,
+      "time": 1643650734,
+      "title": "Show HN: Practical Python Projects book now free to read online",
       "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30157464"
+      "url": "https://practicalpython.yasoob.me/toc.html"
     },
     "og_item": {
       "title": "Why Henry III's gold penny failed",
@@ -1859,34 +1890,36 @@
     }
   },
   {
-    "id": 30157064,
-    "title": "Where did Omicron come from? Three key theories",
-    "url": "https://www.nature.com/articles/d41586-022-00215-2",
-    "time": 1643676138,
-    "image": "https://media.nature.com/lw1024/magazine-assets/d41586-022-00215-2/d41586-022-00215-2_20071876.jpg",
-    "icon": "https://www.nature.com/static/images/favicons/nature/favicon.ico",
-    "publisher": "Nature",
-    "description": "The highly transmissible variant emerged with a host of unusual mutations. Now scientists are trying to work out how it evolved.",
-    "by": "pseudolus",
-    "points": 18,
-    "comment_count": 11,
+    "id": 30157398,
+    "title": "How do I work around Vercel's 4KB Environment Variables limit?",
+    "url": "https://vercel.com/support/articles/how-do-i-workaround-vercel-s-4-kb-environment-variables-limit",
+    "time": 1643678346,
+    "image": "https://og-image.vercel.app/How%20do%20I%20work%20around%20Vercel's%204KB%20Environment%20Variables%20limit%3F.png?theme=light\u0026md=1\u0026fontSize=75px\u0026images=https%3A%2F%2Fassets.vercel.com%2Fimage%2Fupload%2Ffront%2Fassets%2Fdesign%2Fzeit-black-triangle.svg",
+    "icon": "https://assets.vercel.com/image/upload/front/favicon/vercel/favicon.ico",
+    "publisher": "Vercel Documentation",
+    "description": "The maximum allowed size of Environment Variables for a Deployment is 4KB and cannot be increased. This article provides a workaround by encrypting the required key-value pairs in a file and storing the encryption keys.",
+    "by": "vortexo",
+    "points": 4,
+    "comment_count": 2,
     "hn_item": {
-      "by": "quambene",
-      "descendants": 0,
-      "id": 30157464,
-      "kids": null,
-      "score": 4,
-      "time": 1643678852,
-      "title": "Ask HN: Google Play prevents continuous delivery",
+      "by": "yasoob",
+      "descendants": 3,
+      "id": 30150995,
+      "kids": [
+        30151478
+      ],
+      "score": 21,
+      "time": 1643650734,
+      "title": "Show HN: Practical Python Projects book now free to read online",
       "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30157464"
+      "url": "https://practicalpython.yasoob.me/toc.html"
     },
     "og_item": {
-      "title": "Where did Omicron come from? Three key theories",
-      "type": "article",
+      "title": "How do I work around Vercel's 4KB Environment Variables limit?",
+      "type": "website",
       "image": [
         {
-          "url": "https://media.nature.com/lw1024/magazine-assets/d41586-022-00215-2/d41586-022-00215-2_20071876.jpg",
+          "url": "https://og-image.vercel.app/How%20do%20I%20work%20around%20Vercel's%204KB%20Environment%20Variables%20limit%3F.png?theme=light\u0026md=1\u0026fontSize=75px\u0026images=https%3A%2F%2Fassets.vercel.com%2Fimage%2Fupload%2Ffront%2Fassets%2Fdesign%2Fzeit-black-triangle.svg",
           "secure_url": "",
           "type": "",
           "width": 0,
@@ -1894,16 +1927,16 @@
           "alt": ""
         }
       ],
-      "url": "https://www.nature.com/articles/d41586-022-00215-2",
+      "url": "https://vercel.com/support/articles/how-do-i-workaround-vercel-s-4-kb-environment-variables-limit",
       "audio": [],
-      "description": "The highly transmissible variant emerged with a host of unusual mutations. Now scientists are trying to work out how it evolved.",
+      "description": "The maximum allowed size of Environment Variables for a Deployment is 4KB and cannot be increased. This article provides a workaround by encrypting the required key-value pairs in a file and storing the encryption keys.",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "",
+      "site_name": "Vercel Documentation",
       "video": [],
       "favicon": {
-        "url": "/static/images/favicons/nature/favicon.ico"
+        "url": "https://assets.vercel.com/image/upload/front/favicon/vercel/favicon.ico"
       }
     }
   },
@@ -1920,15 +1953,17 @@
     "points": 55,
     "comment_count": 18,
     "hn_item": {
-      "by": "quambene",
-      "descendants": 0,
-      "id": 30157464,
-      "kids": null,
-      "score": 4,
-      "time": 1643678852,
-      "title": "Ask HN: Google Play prevents continuous delivery",
+      "by": "yasoob",
+      "descendants": 3,
+      "id": 30150995,
+      "kids": [
+        30151478
+      ],
+      "score": 21,
+      "time": 1643650734,
+      "title": "Show HN: Practical Python Projects book now free to read online",
       "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30157464"
+      "url": "https://practicalpython.yasoob.me/toc.html"
     },
     "og_item": {
       "title": "A couple renovating a 115-year-old building discovered two 60-foot-long hidden murals",
@@ -1957,34 +1992,36 @@
     }
   },
   {
-    "id": 30156979,
-    "title": "Show HN: Colab-xterm – Open a terminal in colab, including the free tier",
-    "url": "https://github.com/InfuseAI/colab-xterm",
-    "time": 1643675448,
-    "image": "https://repository-images.githubusercontent.com/453922569/80c5fe9d-97bc-478d-8190-39687aad800b",
-    "icon": "https://github.githubassets.com/favicons/favicon.svg",
-    "publisher": "GitHub",
-    "description": "Open a terminal in colab, including the free tier. - GitHub - InfuseAI/colab-xterm: Open a terminal in colab, including the free tier.",
-    "by": "popcornylu",
-    "points": 12,
-    "comment_count": 2,
+    "id": 30157064,
+    "title": "Where did Omicron come from? Three key theories",
+    "url": "https://www.nature.com/articles/d41586-022-00215-2",
+    "time": 1643676138,
+    "image": "https://media.nature.com/lw1024/magazine-assets/d41586-022-00215-2/d41586-022-00215-2_20071876.jpg",
+    "icon": "https://www.nature.com/static/images/favicons/nature/favicon.ico",
+    "publisher": "Nature",
+    "description": "The highly transmissible variant emerged with a host of unusual mutations. Now scientists are trying to work out how it evolved.",
+    "by": "pseudolus",
+    "points": 19,
+    "comment_count": 12,
     "hn_item": {
-      "by": "quambene",
-      "descendants": 0,
-      "id": 30157464,
-      "kids": null,
-      "score": 4,
-      "time": 1643678852,
-      "title": "Ask HN: Google Play prevents continuous delivery",
+      "by": "yasoob",
+      "descendants": 3,
+      "id": 30150995,
+      "kids": [
+        30151478
+      ],
+      "score": 21,
+      "time": 1643650734,
+      "title": "Show HN: Practical Python Projects book now free to read online",
       "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30157464"
+      "url": "https://practicalpython.yasoob.me/toc.html"
     },
     "og_item": {
-      "title": "GitHub - InfuseAI/colab-xterm: Open a terminal in colab, including the free tier.",
-      "type": "object",
+      "title": "Where did Omicron come from? Three key theories",
+      "type": "article",
       "image": [
         {
-          "url": "https://repository-images.githubusercontent.com/453922569/80c5fe9d-97bc-478d-8190-39687aad800b",
+          "url": "https://media.nature.com/lw1024/magazine-assets/d41586-022-00215-2/d41586-022-00215-2_20071876.jpg",
           "secure_url": "",
           "type": "",
           "width": 0,
@@ -1992,16 +2029,16 @@
           "alt": ""
         }
       ],
-      "url": "https://github.com/InfuseAI/colab-xterm",
+      "url": "https://www.nature.com/articles/d41586-022-00215-2",
       "audio": [],
-      "description": "Open a terminal in colab, including the free tier. - GitHub - InfuseAI/colab-xterm: Open a terminal in colab, including the free tier.",
+      "description": "The highly transmissible variant emerged with a host of unusual mutations. Now scientists are trying to work out how it evolved.",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "GitHub",
+      "site_name": "",
       "video": [],
       "favicon": {
-        "url": "https://github.githubassets.com/favicons/favicon.svg"
+        "url": "/static/images/favicons/nature/favicon.ico"
       }
     }
   },
@@ -2015,18 +2052,20 @@
     "publisher": "Porsche Newsroom",
     "description": "Achievement officially recognized by Guinness World Records™ –Taycan spends a total of less than 2.5 hours charging on a cross-country drive",
     "by": "brg1007",
-    "points": 13,
+    "points": 14,
     "comment_count": 4,
     "hn_item": {
-      "by": "quambene",
-      "descendants": 0,
-      "id": 30157464,
-      "kids": null,
-      "score": 4,
-      "time": 1643678852,
-      "title": "Ask HN: Google Play prevents continuous delivery",
+      "by": "yasoob",
+      "descendants": 3,
+      "id": 30150995,
+      "kids": [
+        30151478
+      ],
+      "score": 21,
+      "time": 1643650734,
+      "title": "Show HN: Practical Python Projects book now free to read online",
       "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30157464"
+      "url": "https://practicalpython.yasoob.me/toc.html"
     },
     "og_item": {
       "title": "Porsche Taycan breaks the Guinness World Records title for coast-to-coast charging",
@@ -2055,6 +2094,57 @@
     }
   },
   {
+    "id": 30156979,
+    "title": "Show HN: Colab-xterm – Open a terminal in colab, including the free tier",
+    "url": "https://github.com/InfuseAI/colab-xterm",
+    "time": 1643675448,
+    "image": "https://repository-images.githubusercontent.com/453922569/80c5fe9d-97bc-478d-8190-39687aad800b",
+    "icon": "https://github.githubassets.com/favicons/favicon.svg",
+    "publisher": "GitHub",
+    "description": "Open a terminal in colab, including the free tier. - GitHub - InfuseAI/colab-xterm: Open a terminal in colab, including the free tier.",
+    "by": "popcornylu",
+    "points": 12,
+    "comment_count": 2,
+    "hn_item": {
+      "by": "yasoob",
+      "descendants": 3,
+      "id": 30150995,
+      "kids": [
+        30151478
+      ],
+      "score": 21,
+      "time": 1643650734,
+      "title": "Show HN: Practical Python Projects book now free to read online",
+      "type": "story",
+      "url": "https://practicalpython.yasoob.me/toc.html"
+    },
+    "og_item": {
+      "title": "GitHub - InfuseAI/colab-xterm: Open a terminal in colab, including the free tier.",
+      "type": "object",
+      "image": [
+        {
+          "url": "https://repository-images.githubusercontent.com/453922569/80c5fe9d-97bc-478d-8190-39687aad800b",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://github.com/InfuseAI/colab-xterm",
+      "audio": [],
+      "description": "Open a terminal in colab, including the free tier. - GitHub - InfuseAI/colab-xterm: Open a terminal in colab, including the free tier.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "GitHub",
+      "video": [],
+      "favicon": {
+        "url": "https://github.githubassets.com/favicons/favicon.svg"
+      }
+    }
+  },
+  {
     "id": 30149800,
     "title": "Adblocking people and non-adblocking people experience a different web",
     "url": "https://imlefthanded.com/2022/adblocking-people-and-non-adblocking-people-experience-a-totally-different-web/",
@@ -2067,15 +2157,17 @@
     "points": 651,
     "comment_count": 724,
     "hn_item": {
-      "by": "quambene",
-      "descendants": 0,
-      "id": 30157464,
-      "kids": null,
-      "score": 4,
-      "time": 1643678852,
-      "title": "Ask HN: Google Play prevents continuous delivery",
+      "by": "yasoob",
+      "descendants": 3,
+      "id": 30150995,
+      "kids": [
+        30151478
+      ],
+      "score": 21,
+      "time": 1643650734,
+      "title": "Show HN: Practical Python Projects book now free to read online",
       "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30157464"
+      "url": "https://practicalpython.yasoob.me/toc.html"
     },
     "og_item": {
       "title": "Just a moment...",
@@ -2105,17 +2197,19 @@
     "description": "Make Your Makefiles Make Your Day!",
     "by": "JNRowe",
     "points": 60,
-    "comment_count": 32,
+    "comment_count": 33,
     "hn_item": {
-      "by": "quambene",
-      "descendants": 0,
-      "id": 30157464,
-      "kids": null,
-      "score": 4,
-      "time": 1643678852,
-      "title": "Ask HN: Google Play prevents continuous delivery",
+      "by": "yasoob",
+      "descendants": 3,
+      "id": 30150995,
+      "kids": [
+        30151478
+      ],
+      "score": 21,
+      "time": 1643650734,
+      "title": "Show HN: Practical Python Projects book now free to read online",
       "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30157464"
+      "url": "https://practicalpython.yasoob.me/toc.html"
     },
     "og_item": {
       "title": "Autodocumenting Makefiles",
@@ -2156,15 +2250,17 @@
     "points": 76,
     "comment_count": 21,
     "hn_item": {
-      "by": "quambene",
-      "descendants": 0,
-      "id": 30157464,
-      "kids": null,
-      "score": 4,
-      "time": 1643678852,
-      "title": "Ask HN: Google Play prevents continuous delivery",
+      "by": "yasoob",
+      "descendants": 3,
+      "id": 30150995,
+      "kids": [
+        30151478
+      ],
+      "score": 21,
+      "time": 1643650734,
+      "title": "Show HN: Practical Python Projects book now free to read online",
       "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30157464"
+      "url": "https://practicalpython.yasoob.me/toc.html"
     },
     "og_item": {
       "title": "GitHub - hypernumbers/learn_elisp_the_hard_way: A book about learning eLisp for customising Emacs the hard way - see the Gist https://gist.github.com/754568",
@@ -2202,18 +2298,20 @@
     "publisher": "Antigone",
     "description": "ANDREW BEER The genuine pleasure of yielding to better arguments.",
     "by": "AverilS",
-    "points": 125,
+    "points": 126,
     "comment_count": 61,
     "hn_item": {
-      "by": "quambene",
-      "descendants": 0,
-      "id": 30157464,
-      "kids": null,
-      "score": 4,
-      "time": 1643678852,
-      "title": "Ask HN: Google Play prevents continuous delivery",
+      "by": "yasoob",
+      "descendants": 3,
+      "id": 30150995,
+      "kids": [
+        30151478
+      ],
+      "score": 21,
+      "time": 1643650734,
+      "title": "Show HN: Practical Python Projects book now free to read online",
       "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30157464"
+      "url": "https://practicalpython.yasoob.me/toc.html"
     },
     "og_item": {
       "title": "Socrates on the Blessing of Being Refuted - Antigone",
@@ -2242,55 +2340,6 @@
     }
   },
   {
-    "id": 30141788,
-    "title": "Fuck That Gator (2017)",
-    "url": "https://www.buzzfeed.com/golianopoulos/fuck-that-gator",
-    "time": 1643581238,
-    "image": "https://img.buzzfeed.com/buzzfeed-static/static/2017-02/6/1/social_promotion/buzzfeed-prod-cron-01/facebook-social-promotion-25393-1486361110-1.jpg?crop=921:612;0,0%26downsize=1250:*",
-    "icon": "https://www.buzzfeed.com/static-assets/bf-bpage-ui/_next/static/images/favicon-496b7cee633e6a7dca162654e1bb39c9.ico",
-    "publisher": "BuzzFeed",
-    "description": "Tommie Woodward yelled, \"Fuck that gator!\" just before he was killed by one in Texas, and his death instantly became a national joke. For his family, grieving means having to rescue the person from the punchline.",
-    "by": "blending",
-    "points": 28,
-    "comment_count": 7,
-    "hn_item": {
-      "by": "quambene",
-      "descendants": 0,
-      "id": 30157464,
-      "kids": null,
-      "score": 4,
-      "time": 1643678852,
-      "title": "Ask HN: Google Play prevents continuous delivery",
-      "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30157464"
-    },
-    "og_item": {
-      "title": "Tommie Woodward's Internet-Famous Last Words",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2017-02/6/1/social_promotion/buzzfeed-prod-cron-01/facebook-social-promotion-25393-1486361110-1.jpg?crop=921:612;0,0%26downsize=1250:*",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://www.buzzfeed.com/golianopoulos/fuck-that-gator",
-      "audio": [],
-      "description": "Tommie Woodward yelled, \"Fuck that gator!\" just before he was killed by one in Texas, and his death instantly became a national joke. For his family, grieving means having to rescue the person from the punchline.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "BuzzFeed",
-      "video": [],
-      "favicon": {
-        "url": "/static-assets/bf-bpage-ui/_next/static/images/favicon-496b7cee633e6a7dca162654e1bb39c9.ico"
-      }
-    }
-  },
-  {
     "id": 30144101,
     "title": "Please make a dumb car",
     "url": "https://techcrunch.com/2022/01/29/please-make-a-dumb-car/",
@@ -2301,17 +2350,19 @@
     "description": "Today’s cars are dumb where they should be smart, and smart where they should be dumb. Enough already. Make a car that’s pretty much all dumb and watch it sell — because what automakers are giving people is so bad, they’ll pay more to have less of it. Cars now are like budget smar…",
     "by": "wrycoder",
     "points": 492,
-    "comment_count": 571,
+    "comment_count": 572,
     "hn_item": {
-      "by": "quambene",
-      "descendants": 0,
-      "id": 30157464,
-      "kids": null,
-      "score": 4,
-      "time": 1643678852,
-      "title": "Ask HN: Google Play prevents continuous delivery",
+      "by": "yasoob",
+      "descendants": 3,
+      "id": 30150995,
+      "kids": [
+        30151478
+      ],
+      "score": 21,
+      "time": 1643650734,
+      "title": "Show HN: Practical Python Projects book now free to read online",
       "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30157464"
+      "url": "https://practicalpython.yasoob.me/toc.html"
     },
     "og_item": {
       "title": "Please make a dumb car – TechCrunch",
@@ -2340,42 +2391,53 @@
     }
   },
   {
-    "id": 30156185,
-    "title": "NLnet Funded Projects",
-    "url": "https://nlnet.nl/project/",
-    "time": 1643670896,
-    "image": "",
-    "icon": "https://nlnet.nl/favicon3.ico",
-    "publisher": "nlnet.nl",
-    "description": "",
-    "by": "1vuio0pswjnm7",
-    "points": 6,
-    "comment_count": 1,
+    "id": 30141788,
+    "title": "Fuck That Gator (2017)",
+    "url": "https://www.buzzfeed.com/golianopoulos/fuck-that-gator",
+    "time": 1643581238,
+    "image": "https://img.buzzfeed.com/buzzfeed-static/static/2017-02/6/1/social_promotion/buzzfeed-prod-cron-01/facebook-social-promotion-25393-1486361110-1.jpg?crop=921:612;0,0%26downsize=1250:*",
+    "icon": "https://www.buzzfeed.com/static-assets/bf-bpage-ui/_next/static/images/favicon-496b7cee633e6a7dca162654e1bb39c9.ico",
+    "publisher": "BuzzFeed",
+    "description": "Tommie Woodward yelled, \"Fuck that gator!\" just before he was killed by one in Texas, and his death instantly became a national joke. For his family, grieving means having to rescue the person from the punchline.",
+    "by": "blending",
+    "points": 28,
+    "comment_count": 7,
     "hn_item": {
-      "by": "quambene",
-      "descendants": 0,
-      "id": 30157464,
-      "kids": null,
-      "score": 4,
-      "time": 1643678852,
-      "title": "Ask HN: Google Play prevents continuous delivery",
+      "by": "yasoob",
+      "descendants": 3,
+      "id": 30150995,
+      "kids": [
+        30151478
+      ],
+      "score": 21,
+      "time": 1643650734,
+      "title": "Show HN: Practical Python Projects book now free to read online",
       "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30157464"
+      "url": "https://practicalpython.yasoob.me/toc.html"
     },
     "og_item": {
-      "title": "NLnet; All projects",
-      "type": "",
-      "image": [],
-      "url": "",
+      "title": "Tommie Woodward's Internet-Famous Last Words",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2017-02/6/1/social_promotion/buzzfeed-prod-cron-01/facebook-social-promotion-25393-1486361110-1.jpg?crop=921:612;0,0%26downsize=1250:*",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://www.buzzfeed.com/golianopoulos/fuck-that-gator",
       "audio": [],
-      "description": "",
+      "description": "Tommie Woodward yelled, \"Fuck that gator!\" just before he was killed by one in Texas, and his death instantly became a national joke. For his family, grieving means having to rescue the person from the punchline.",
       "determiner": "",
       "locale": "",
       "locale_alternate": [],
-      "site_name": "",
+      "site_name": "BuzzFeed",
       "video": [],
       "favicon": {
-        "url": "/favicon3.ico"
+        "url": "/static-assets/bf-bpage-ui/_next/static/images/favicon-496b7cee633e6a7dca162654e1bb39c9.ico"
       }
     }
   },
@@ -2390,17 +2452,19 @@
     "description": "",
     "by": "codazoda",
     "points": 137,
-    "comment_count": 96,
+    "comment_count": 98,
     "hn_item": {
-      "by": "quambene",
-      "descendants": 0,
-      "id": 30157464,
-      "kids": null,
-      "score": 4,
-      "time": 1643678852,
-      "title": "Ask HN: Google Play prevents continuous delivery",
+      "by": "yasoob",
+      "descendants": 3,
+      "id": 30150995,
+      "kids": [
+        30151478
+      ],
+      "score": 21,
+      "time": 1643650734,
+      "title": "Show HN: Practical Python Projects book now free to read online",
       "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30157464"
+      "url": "https://practicalpython.yasoob.me/toc.html"
     },
     "og_item": {
       "title": "Gains I’m seeing from my second brain tool",
@@ -2420,11 +2484,53 @@
     }
   },
   {
+    "id": 30156185,
+    "title": "NLnet Funded Projects",
+    "url": "https://nlnet.nl/project/",
+    "time": 1643670896,
+    "image": "",
+    "icon": "https://nlnet.nl/favicon3.ico",
+    "publisher": "nlnet.nl",
+    "description": "",
+    "by": "1vuio0pswjnm7",
+    "points": 6,
+    "comment_count": 1,
+    "hn_item": {
+      "by": "yasoob",
+      "descendants": 3,
+      "id": 30150995,
+      "kids": [
+        30151478
+      ],
+      "score": 21,
+      "time": 1643650734,
+      "title": "Show HN: Practical Python Projects book now free to read online",
+      "type": "story",
+      "url": "https://practicalpython.yasoob.me/toc.html"
+    },
+    "og_item": {
+      "title": "NLnet; All projects",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon3.ico"
+      }
+    }
+  },
+  {
     "id": 30152714,
     "title": "HVM: A Parallel Functional Runtime",
     "url": "https://github.com/Kindelia/HVM",
     "time": 1643656542,
-    "image": "https://opengraph.githubassets.com/b090e7aa72c08470c0fce173fca6ba25c8e3a0fc5abd40a614b1815d71ed6c5b/Kindelia/HVM",
+    "image": "https://opengraph.githubassets.com/8bf940f318771bbdcb7d53078110b3acdba2ddca4eff67288528f958a7c28b77/Kindelia/HVM",
     "icon": "https://github.githubassets.com/favicons/favicon.svg",
     "publisher": "GitHub",
     "description": "A massively parallel, optimal functional runtime in Rust - GitHub - Kindelia/HVM: A massively parallel, optimal functional runtime in Rust",
@@ -2432,22 +2538,24 @@
     "points": 46,
     "comment_count": 6,
     "hn_item": {
-      "by": "quambene",
-      "descendants": 0,
-      "id": 30157464,
-      "kids": null,
-      "score": 4,
-      "time": 1643678852,
-      "title": "Ask HN: Google Play prevents continuous delivery",
+      "by": "yasoob",
+      "descendants": 3,
+      "id": 30150995,
+      "kids": [
+        30151478
+      ],
+      "score": 21,
+      "time": 1643650734,
+      "title": "Show HN: Practical Python Projects book now free to read online",
       "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30157464"
+      "url": "https://practicalpython.yasoob.me/toc.html"
     },
     "og_item": {
       "title": "GitHub - Kindelia/HVM: A massively parallel, optimal functional runtime in Rust",
       "type": "object",
       "image": [
         {
-          "url": "https://opengraph.githubassets.com/b090e7aa72c08470c0fce173fca6ba25c8e3a0fc5abd40a614b1815d71ed6c5b/Kindelia/HVM",
+          "url": "https://opengraph.githubassets.com/8bf940f318771bbdcb7d53078110b3acdba2ddca4eff67288528f958a7c28b77/Kindelia/HVM",
           "secure_url": "",
           "type": "",
           "width": 1200,
@@ -2469,46 +2577,6 @@
     }
   },
   {
-    "id": 30157233,
-    "title": "Reddit Enhancement Suite is now in maintenance mode",
-    "url": "https://old.reddit.com/r/RESAnnouncements/comments/sh83gx/announcement_life_of_reddit_enhancement_suite/",
-    "time": 1643677164,
-    "image": "",
-    "icon": "https://old.reddit.com/favicon.ico",
-    "publisher": "old.reddit.com",
-    "description": "",
-    "by": "goplayoutside",
-    "points": 16,
-    "comment_count": 1,
-    "hn_item": {
-      "by": "quambene",
-      "descendants": 0,
-      "id": 30157464,
-      "kids": null,
-      "score": 4,
-      "time": 1643678852,
-      "title": "Ask HN: Google Play prevents continuous delivery",
-      "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30157464"
-    },
-    "og_item": {
-      "title": "Too Many Requests",
-      "type": "",
-      "image": [],
-      "url": "",
-      "audio": [],
-      "description": "",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30151021,
     "title": "YouTube ranks “wholesome and funny” comments higher?",
     "url": "https://twitter.com/patrickc/status/1487982804784726018",
@@ -2518,18 +2586,20 @@
     "publisher": "Twitter",
     "description": "",
     "by": "ipsum2",
-    "points": 111,
+    "points": 112,
     "comment_count": 143,
     "hn_item": {
-      "by": "quambene",
-      "descendants": 0,
-      "id": 30157464,
-      "kids": null,
-      "score": 4,
-      "time": 1643678852,
-      "title": "Ask HN: Google Play prevents continuous delivery",
+      "by": "yasoob",
+      "descendants": 3,
+      "id": 30150995,
+      "kids": [
+        30151478
+      ],
+      "score": 21,
+      "time": 1643650734,
+      "title": "Show HN: Practical Python Projects book now free to read online",
       "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30157464"
+      "url": "https://practicalpython.yasoob.me/toc.html"
     },
     "og_item": {
       "title": "",
@@ -2549,6 +2619,48 @@
     }
   },
   {
+    "id": 30157233,
+    "title": "Reddit Enhancement Suite is now in maintenance mode",
+    "url": "https://old.reddit.com/r/RESAnnouncements/comments/sh83gx/announcement_life_of_reddit_enhancement_suite/",
+    "time": 1643677164,
+    "image": "",
+    "icon": "https://old.reddit.com/favicon.ico",
+    "publisher": "old.reddit.com",
+    "description": "",
+    "by": "goplayoutside",
+    "points": 16,
+    "comment_count": 2,
+    "hn_item": {
+      "by": "yasoob",
+      "descendants": 3,
+      "id": 30150995,
+      "kids": [
+        30151478
+      ],
+      "score": 21,
+      "time": 1643650734,
+      "title": "Show HN: Practical Python Projects book now free to read online",
+      "type": "story",
+      "url": "https://practicalpython.yasoob.me/toc.html"
+    },
+    "og_item": {
+      "title": "Too Many Requests",
+      "type": "",
+      "image": [],
+      "url": "",
+      "audio": [],
+      "description": "",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30154188,
     "title": "Regexes Are Cool and Good",
     "url": "https://buttondown.email/hillelwayne/archive/regexes-are-cool-and-good/",
@@ -2561,15 +2673,17 @@
     "points": 14,
     "comment_count": 0,
     "hn_item": {
-      "by": "quambene",
-      "descendants": 0,
-      "id": 30157464,
-      "kids": null,
-      "score": 4,
-      "time": 1643678852,
-      "title": "Ask HN: Google Play prevents continuous delivery",
+      "by": "yasoob",
+      "descendants": 3,
+      "id": 30150995,
+      "kids": [
+        30151478
+      ],
+      "score": 21,
+      "time": 1643650734,
+      "title": "Show HN: Practical Python Projects book now free to read online",
       "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30157464"
+      "url": "https://practicalpython.yasoob.me/toc.html"
     },
     "og_item": {
       "title": "Regexes are Cool and Good • Buttondown",
@@ -2601,15 +2715,17 @@
     "points": 157,
     "comment_count": 101,
     "hn_item": {
-      "by": "quambene",
-      "descendants": 0,
-      "id": 30157464,
-      "kids": null,
-      "score": 4,
-      "time": 1643678852,
-      "title": "Ask HN: Google Play prevents continuous delivery",
+      "by": "yasoob",
+      "descendants": 3,
+      "id": 30150995,
+      "kids": [
+        30151478
+      ],
+      "score": 21,
+      "time": 1643650734,
+      "title": "Show HN: Practical Python Projects book now free to read online",
       "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30157464"
+      "url": "https://practicalpython.yasoob.me/toc.html"
     },
     "og_item": {
       "title": "The Boring Technology Checklist - Begin",
@@ -2641,15 +2757,17 @@
     "points": 306,
     "comment_count": 139,
     "hn_item": {
-      "by": "quambene",
-      "descendants": 0,
-      "id": 30157464,
-      "kids": null,
-      "score": 4,
-      "time": 1643678852,
-      "title": "Ask HN: Google Play prevents continuous delivery",
+      "by": "yasoob",
+      "descendants": 3,
+      "id": 30150995,
+      "kids": [
+        30151478
+      ],
+      "score": 21,
+      "time": 1643650734,
+      "title": "Show HN: Practical Python Projects book now free to read online",
       "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30157464"
+      "url": "https://practicalpython.yasoob.me/toc.html"
     },
     "og_item": {
       "title": "",
@@ -2678,18 +2796,20 @@
     "publisher": "UMass Chan Medical School",
     "description": "UMass Chan Medical School researchers are embarking on a clinical trial of an mRNA vaccine by Moderna against the Epstein-Barr virus (EBV), a common cause of infectious mononucleosis. Katherine Luzuriaga, MD, is principal investigator for the study at UMass Chan.",
     "by": "drewcon",
-    "points": 29,
+    "points": 30,
     "comment_count": 3,
     "hn_item": {
-      "by": "quambene",
-      "descendants": 0,
-      "id": 30157464,
-      "kids": null,
-      "score": 4,
-      "time": 1643678852,
-      "title": "Ask HN: Google Play prevents continuous delivery",
+      "by": "yasoob",
+      "descendants": 3,
+      "id": 30150995,
+      "kids": [
+        30151478
+      ],
+      "score": 21,
+      "time": 1643650734,
+      "title": "Show HN: Practical Python Projects book now free to read online",
       "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30157464"
+      "url": "https://practicalpython.yasoob.me/toc.html"
     },
     "og_item": {
       "title": "Phase I clinical trial of Moderna mRNA vaccine for Epstein-Barr virus starting at UMass Chan",
@@ -2727,18 +2847,20 @@
     "publisher": "ar5iv",
     "description": "ar5iv offers a modern web view for arXiv's preprints. An open community resource, on a quest to a full collection of high-quality documents.",
     "by": "rg111",
-    "points": 21,
+    "points": 23,
     "comment_count": 1,
     "hn_item": {
-      "by": "quambene",
-      "descendants": 0,
-      "id": 30157464,
-      "kids": null,
-      "score": 4,
-      "time": 1643678852,
-      "title": "Ask HN: Google Play prevents continuous delivery",
+      "by": "yasoob",
+      "descendants": 3,
+      "id": 30150995,
+      "kids": [
+        30151478
+      ],
+      "score": 21,
+      "time": 1643650734,
+      "title": "Show HN: Practical Python Projects book now free to read online",
       "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30157464"
+      "url": "https://practicalpython.yasoob.me/toc.html"
     },
     "og_item": {
       "title": "ar5iv – Articles from arXiv.org as responsive HTML5 web documents",
@@ -2767,55 +2889,6 @@
     }
   },
   {
-    "id": 30154442,
-    "title": "Writing Better Release Notes",
-    "url": "https://simonwillison.net/2022/Jan/31/release-notes/",
-    "time": 1643663582,
-    "image": "https://avatars0.githubusercontent.com/u/9599?v=4\u0026s=200",
-    "icon": "https://simonwillison.net/favicon.ico",
-    "publisher": "simonwillison.net",
-    "description": "Release notes are an important part of the open source process. I’ve been thinking about these a lot recently, and I’ve assembled some thoughts on how to do a better …",
-    "by": "BerislavLopac",
-    "points": 14,
-    "comment_count": 1,
-    "hn_item": {
-      "by": "quambene",
-      "descendants": 0,
-      "id": 30157464,
-      "kids": null,
-      "score": 4,
-      "time": 1643678852,
-      "title": "Ask HN: Google Play prevents continuous delivery",
-      "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30157464"
-    },
-    "og_item": {
-      "title": "Writing better release notes",
-      "type": "article",
-      "image": [
-        {
-          "url": "https://avatars0.githubusercontent.com/u/9599?v=4\u0026s=200",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "http://simonwillison.net/2022/Jan/31/release-notes/",
-      "audio": [],
-      "description": "Release notes are an important part of the open source process. I’ve been thinking about these a lot recently, and I’ve assembled some thoughts on how to do a better …",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "",
-      "video": [],
-      "favicon": {
-        "url": "/favicon.ico"
-      }
-    }
-  },
-  {
     "id": 30147213,
     "title": "Textual for Windows (Python package for TUIs)",
     "url": "https://www.willmcgugan.com/blog/tech/post/textual-for-windows/",
@@ -2828,15 +2901,17 @@
     "points": 70,
     "comment_count": 10,
     "hn_item": {
-      "by": "quambene",
-      "descendants": 0,
-      "id": 30157464,
-      "kids": null,
-      "score": 4,
-      "time": 1643678852,
-      "title": "Ask HN: Google Play prevents continuous delivery",
+      "by": "yasoob",
+      "descendants": 3,
+      "id": 30150995,
+      "kids": [
+        30151478
+      ],
+      "score": 21,
+      "time": 1643650734,
+      "title": "Show HN: Practical Python Projects book now free to read online",
       "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30157464"
+      "url": "https://practicalpython.yasoob.me/toc.html"
     },
     "og_item": {
       "title": "Textual for Windows",
@@ -2865,6 +2940,57 @@
     }
   },
   {
+    "id": 30154442,
+    "title": "Writing Better Release Notes",
+    "url": "https://simonwillison.net/2022/Jan/31/release-notes/",
+    "time": 1643663582,
+    "image": "https://avatars0.githubusercontent.com/u/9599?v=4\u0026s=200",
+    "icon": "https://simonwillison.net/favicon.ico",
+    "publisher": "simonwillison.net",
+    "description": "Release notes are an important part of the open source process. I’ve been thinking about these a lot recently, and I’ve assembled some thoughts on how to do a better …",
+    "by": "BerislavLopac",
+    "points": 14,
+    "comment_count": 1,
+    "hn_item": {
+      "by": "yasoob",
+      "descendants": 3,
+      "id": 30150995,
+      "kids": [
+        30151478
+      ],
+      "score": 21,
+      "time": 1643650734,
+      "title": "Show HN: Practical Python Projects book now free to read online",
+      "type": "story",
+      "url": "https://practicalpython.yasoob.me/toc.html"
+    },
+    "og_item": {
+      "title": "Writing better release notes",
+      "type": "article",
+      "image": [
+        {
+          "url": "https://avatars0.githubusercontent.com/u/9599?v=4\u0026s=200",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "http://simonwillison.net/2022/Jan/31/release-notes/",
+      "audio": [],
+      "description": "Release notes are an important part of the open source process. I’ve been thinking about these a lot recently, and I’ve assembled some thoughts on how to do a better …",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "",
+      "video": [],
+      "favicon": {
+        "url": "/favicon.ico"
+      }
+    }
+  },
+  {
     "id": 30147507,
     "title": "VT100 Machine Emulator in JavaScript",
     "url": "https://www.pcjs.org/machines/dec/vt100/",
@@ -2877,15 +3003,17 @@
     "points": 73,
     "comment_count": 28,
     "hn_item": {
-      "by": "quambene",
-      "descendants": 0,
-      "id": 30157464,
-      "kids": null,
-      "score": 4,
-      "time": 1643678852,
-      "title": "Ask HN: Google Play prevents continuous delivery",
+      "by": "yasoob",
+      "descendants": 3,
+      "id": 30150995,
+      "kids": [
+        30151478
+      ],
+      "score": 21,
+      "time": 1643650734,
+      "title": "Show HN: Practical Python Projects book now free to read online",
       "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30157464"
+      "url": "https://practicalpython.yasoob.me/toc.html"
     },
     "og_item": {
       "title": "DEC VT100 Terminal",
@@ -2914,6 +3042,57 @@
     }
   },
   {
+    "id": 30146019,
+    "title": "Boyfriend-alert – A light based alert system",
+    "url": "https://github.com/jscd/Boyfriend-Alert",
+    "time": 1643619852,
+    "image": "https://opengraph.githubassets.com/9669002f25a53a364e9f7a257e736972b2280b4870821035752e70a36e1f3752/jscd/Boyfriend-Alert",
+    "icon": "https://github.githubassets.com/favicons/favicon.svg",
+    "publisher": "GitHub",
+    "description": "A light based alert system. Contribute to jscd/Boyfriend-Alert development by creating an account on GitHub.",
+    "by": "rgun",
+    "points": 226,
+    "comment_count": 170,
+    "hn_item": {
+      "by": "yasoob",
+      "descendants": 3,
+      "id": 30150995,
+      "kids": [
+        30151478
+      ],
+      "score": 21,
+      "time": 1643650734,
+      "title": "Show HN: Practical Python Projects book now free to read online",
+      "type": "story",
+      "url": "https://practicalpython.yasoob.me/toc.html"
+    },
+    "og_item": {
+      "title": "GitHub - jscd/Boyfriend-Alert: A light based alert system",
+      "type": "object",
+      "image": [
+        {
+          "url": "https://opengraph.githubassets.com/9669002f25a53a364e9f7a257e736972b2280b4870821035752e70a36e1f3752/jscd/Boyfriend-Alert",
+          "secure_url": "",
+          "type": "",
+          "width": 1200,
+          "height": 600,
+          "alt": ""
+        }
+      ],
+      "url": "https://github.com/jscd/Boyfriend-Alert",
+      "audio": [],
+      "description": "A light based alert system. Contribute to jscd/Boyfriend-Alert development by creating an account on GitHub.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "GitHub",
+      "video": [],
+      "favicon": {
+        "url": "https://github.githubassets.com/favicons/favicon.svg"
+      }
+    }
+  },
+  {
     "id": 30146965,
     "title": "The tonsillar evacuation hypothesis of yawning behaviour (1994)",
     "url": "http://baillement.com/dossier/tonsillar_hypothesis.html",
@@ -2926,15 +3105,17 @@
     "points": 9,
     "comment_count": 1,
     "hn_item": {
-      "by": "quambene",
-      "descendants": 0,
-      "id": 30157464,
-      "kids": null,
-      "score": 4,
-      "time": 1643678852,
-      "title": "Ask HN: Google Play prevents continuous delivery",
+      "by": "yasoob",
+      "descendants": 3,
+      "id": 30150995,
+      "kids": [
+        30151478
+      ],
+      "score": 21,
+      "time": 1643650734,
+      "title": "Show HN: Practical Python Projects book now free to read online",
       "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30157464"
+      "url": "https://practicalpython.yasoob.me/toc.html"
     },
     "og_item": {
       "title": "tonsillar_hypothesis",
@@ -2964,17 +3145,19 @@
     "description": "",
     "by": "movedx",
     "points": 20,
-    "comment_count": 14,
+    "comment_count": 16,
     "hn_item": {
-      "by": "quambene",
-      "descendants": 0,
-      "id": 30157464,
-      "kids": null,
-      "score": 4,
-      "time": 1643678852,
-      "title": "Ask HN: Google Play prevents continuous delivery",
+      "by": "yasoob",
+      "descendants": 3,
+      "id": 30150995,
+      "kids": [
+        30151478
+      ],
+      "score": 21,
+      "time": 1643650734,
+      "title": "Show HN: Practical Python Projects book now free to read online",
       "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30157464"
+      "url": "https://practicalpython.yasoob.me/toc.html"
     },
     "og_item": {
       "title": "LTT's “AdBlockers are piracy” is a tone deaf remark | Hacker News",
@@ -2994,104 +3177,6 @@
     }
   },
   {
-    "id": 30146019,
-    "title": "Boyfriend-alert – A light based alert system",
-    "url": "https://github.com/jscd/Boyfriend-Alert",
-    "time": 1643619852,
-    "image": "https://opengraph.githubassets.com/9669002f25a53a364e9f7a257e736972b2280b4870821035752e70a36e1f3752/jscd/Boyfriend-Alert",
-    "icon": "https://github.githubassets.com/favicons/favicon.svg",
-    "publisher": "GitHub",
-    "description": "A light based alert system. Contribute to jscd/Boyfriend-Alert development by creating an account on GitHub.",
-    "by": "rgun",
-    "points": 226,
-    "comment_count": 170,
-    "hn_item": {
-      "by": "quambene",
-      "descendants": 0,
-      "id": 30157464,
-      "kids": null,
-      "score": 4,
-      "time": 1643678852,
-      "title": "Ask HN: Google Play prevents continuous delivery",
-      "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30157464"
-    },
-    "og_item": {
-      "title": "GitHub - jscd/Boyfriend-Alert: A light based alert system",
-      "type": "object",
-      "image": [
-        {
-          "url": "https://opengraph.githubassets.com/9669002f25a53a364e9f7a257e736972b2280b4870821035752e70a36e1f3752/jscd/Boyfriend-Alert",
-          "secure_url": "",
-          "type": "",
-          "width": 1200,
-          "height": 600,
-          "alt": ""
-        }
-      ],
-      "url": "https://github.com/jscd/Boyfriend-Alert",
-      "audio": [],
-      "description": "A light based alert system. Contribute to jscd/Boyfriend-Alert development by creating an account on GitHub.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "GitHub",
-      "video": [],
-      "favicon": {
-        "url": "https://github.githubassets.com/favicons/favicon.svg"
-      }
-    }
-  },
-  {
-    "id": 30156191,
-    "title": "The next generation of terminal ergonomics: autocomplete",
-    "url": "https://github.com/withfig/autocomplete",
-    "time": 1643670925,
-    "image": "https://repository-images.githubusercontent.com/299482335/73b47831-7f71-40e1-8b61-40eaa4555bb0",
-    "icon": "https://github.githubassets.com/favicons/favicon.svg",
-    "publisher": "GitHub",
-    "description": "Fig adds autocomplete to your terminal. Contribute to withfig/autocomplete development by creating an account on GitHub.",
-    "by": "The_rationalist",
-    "points": 6,
-    "comment_count": 0,
-    "hn_item": {
-      "by": "quambene",
-      "descendants": 0,
-      "id": 30157464,
-      "kids": null,
-      "score": 4,
-      "time": 1643678852,
-      "title": "Ask HN: Google Play prevents continuous delivery",
-      "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30157464"
-    },
-    "og_item": {
-      "title": "GitHub - withfig/autocomplete: Fig adds autocomplete to your terminal.",
-      "type": "object",
-      "image": [
-        {
-          "url": "https://repository-images.githubusercontent.com/299482335/73b47831-7f71-40e1-8b61-40eaa4555bb0",
-          "secure_url": "",
-          "type": "",
-          "width": 0,
-          "height": 0,
-          "alt": ""
-        }
-      ],
-      "url": "https://github.com/withfig/autocomplete",
-      "audio": [],
-      "description": "Fig adds autocomplete to your terminal. Contribute to withfig/autocomplete development by creating an account on GitHub.",
-      "determiner": "",
-      "locale": "",
-      "locale_alternate": [],
-      "site_name": "GitHub",
-      "video": [],
-      "favicon": {
-        "url": "https://github.githubassets.com/favicons/favicon.svg"
-      }
-    }
-  },
-  {
     "id": 30147755,
     "title": "Polar bears move into abandoned Arctic weather station",
     "url": "https://www.theguardian.com/world/2022/jan/31/polar-bears-move-into-abandoned-arctic-weather-station-photo-essay",
@@ -3104,15 +3189,17 @@
     "points": 204,
     "comment_count": 47,
     "hn_item": {
-      "by": "quambene",
-      "descendants": 0,
-      "id": 30157464,
-      "kids": null,
-      "score": 4,
-      "time": 1643678852,
-      "title": "Ask HN: Google Play prevents continuous delivery",
+      "by": "yasoob",
+      "descendants": 3,
+      "id": 30150995,
+      "kids": [
+        30151478
+      ],
+      "score": 21,
+      "time": 1643650734,
+      "title": "Show HN: Practical Python Projects book now free to read online",
       "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30157464"
+      "url": "https://practicalpython.yasoob.me/toc.html"
     },
     "og_item": {
       "title": "Polar bears move into abandoned Arctic weather station – photo essay",
@@ -3141,30 +3228,83 @@
     }
   },
   {
-    "id": 30157464,
-    "title": "Ask HN: Google Play prevents continuous delivery",
-    "url": "https://news.ycombinator.com/item?id=30157464",
-    "time": 1643678852,
-    "image": "",
-    "icon": "https://news.ycombinator.com/favicon.ico",
-    "publisher": "Hacker News",
-    "description": "",
-    "by": "quambene",
-    "points": 4,
+    "id": 30156191,
+    "title": "The next generation of terminal ergonomics: autocomplete",
+    "url": "https://github.com/withfig/autocomplete",
+    "time": 1643670925,
+    "image": "https://repository-images.githubusercontent.com/299482335/73b47831-7f71-40e1-8b61-40eaa4555bb0",
+    "icon": "https://github.githubassets.com/favicons/favicon.svg",
+    "publisher": "GitHub",
+    "description": "Fig adds autocomplete to your terminal. Contribute to withfig/autocomplete development by creating an account on GitHub.",
+    "by": "The_rationalist",
+    "points": 7,
     "comment_count": 0,
     "hn_item": {
-      "by": "quambene",
-      "descendants": 0,
-      "id": 30157464,
-      "kids": null,
-      "score": 4,
-      "time": 1643678852,
-      "title": "Ask HN: Google Play prevents continuous delivery",
+      "by": "yasoob",
+      "descendants": 3,
+      "id": 30150995,
+      "kids": [
+        30151478
+      ],
+      "score": 21,
+      "time": 1643650734,
+      "title": "Show HN: Practical Python Projects book now free to read online",
       "type": "story",
-      "url": "https://news.ycombinator.com/item?id=30157464"
+      "url": "https://practicalpython.yasoob.me/toc.html"
     },
     "og_item": {
-      "title": "Ask HN: Google Play prevents continuous delivery | Hacker News",
+      "title": "GitHub - withfig/autocomplete: Fig adds autocomplete to your terminal.",
+      "type": "object",
+      "image": [
+        {
+          "url": "https://repository-images.githubusercontent.com/299482335/73b47831-7f71-40e1-8b61-40eaa4555bb0",
+          "secure_url": "",
+          "type": "",
+          "width": 0,
+          "height": 0,
+          "alt": ""
+        }
+      ],
+      "url": "https://github.com/withfig/autocomplete",
+      "audio": [],
+      "description": "Fig adds autocomplete to your terminal. Contribute to withfig/autocomplete development by creating an account on GitHub.",
+      "determiner": "",
+      "locale": "",
+      "locale_alternate": [],
+      "site_name": "GitHub",
+      "video": [],
+      "favicon": {
+        "url": "https://github.githubassets.com/favicons/favicon.svg"
+      }
+    }
+  },
+  {
+    "id": 30150995,
+    "title": "Show HN: Practical Python Projects book now free to read online",
+    "url": "https://practicalpython.yasoob.me/toc.html",
+    "time": 1643650734,
+    "image": "",
+    "icon": "https://practicalpython.yasoob.me/toc.html/_static/favicon.png",
+    "publisher": "practicalpython.yasoob.me",
+    "description": "",
+    "by": "yasoob",
+    "points": 21,
+    "comment_count": 3,
+    "hn_item": {
+      "by": "yasoob",
+      "descendants": 3,
+      "id": 30150995,
+      "kids": [
+        30151478
+      ],
+      "score": 21,
+      "time": 1643650734,
+      "title": "Show HN: Practical Python Projects book now free to read online",
+      "type": "story",
+      "url": "https://practicalpython.yasoob.me/toc.html"
+    },
+    "og_item": {
+      "title": "Table of Contents - Practical Python Projects",
       "type": "",
       "image": [],
       "url": "",
@@ -3176,7 +3316,7 @@
       "site_name": "",
       "video": [],
       "favicon": {
-        "url": "favicon.ico"
+        "url": "_static/favicon.png"
       }
     }
   }
