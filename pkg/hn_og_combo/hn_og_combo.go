@@ -3,6 +3,7 @@ package hn_og_combo
 import (
 	"encoding/json"
 	"fmt"
+	"html"
 	"log"
 	"net/url"
 	"strings"
@@ -39,11 +40,10 @@ func SaveTopStoriesToGCS(numStories int, verbose bool) (err error) {
 		err = fmt.Errorf("skipping Hacker News API returned less than 10 stories")
 		return
 	}
-	data, err := json.MarshalIndent(items, "", "  ")
+	data, err := json.Marshal(items)
 	if err != nil {
 		return
 	}
-
 	client := gcs.NewGCSClient("hncards")
 	err = client.Store(data, "hn_topstories.json")
 	return
@@ -82,7 +82,7 @@ func GetTopStories(numStories int, verbose bool) (items []Item, err error) {
 			item.OGItem = ogi
 		}
 
-		item.Description = ogi.Description
+		item.Description = html.UnescapeString(ogi.Description)
 		item.Icon = sanitizeURL(item.URL, ogi.Favicon.URL)
 
 		// Set image.
@@ -95,6 +95,11 @@ func GetTopStories(numStories int, verbose bool) (items []Item, err error) {
 
 		// Fix bad data.
 		correctData(&item)
+
+		// remove the HNItem and OGItem fields to reduce file size.
+		item.HNItem = nil
+		item.OGItem = nil
+
 		items = append(items, item)
 
 		if verbose {
@@ -165,6 +170,8 @@ func correctData(item *Item) {
 		item.Publisher = "Business Standard"
 	case "developer.apple.com":
 		item.Publisher = "Apple Developer"
+	case "duckduckgo.com":
+		item.Publisher = "DuckDuckGo"
 	case "ge.com":
 		item.Publisher = "GE"
 	case "hudsonreview.com":
@@ -195,9 +202,9 @@ func correctData(item *Item) {
 		item.Publisher = item.Publisher[:29] + "…"
 	}
 
-	// crop description at 300 characters
-	if len(item.Description) > 300 {
-		item.Description = item.Description[:297] + "…"
+	// crop description at 200 characters
+	if len(item.Description) > 200 {
+		item.Description = item.Description[:197] + "…"
 	}
 
 	// unset bad descriptions
