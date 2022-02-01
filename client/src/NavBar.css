@@ -12,7 +12,7 @@
   font-size: 20px;
   font-weight: 700;
   display: inline-block;
-  vertical-align: middle;
+  vertical-align: top;
 }
 #nav-logo {
   height: 30px;
@@ -23,4 +23,13 @@
 #nav-title a {
   color: inherit;
   text-decoration: none;
+}
+#nav-subtitle {
+  position: absolute;
+  top: 30px;
+  left: 64px;
+  font-size: 10px;
+  font-weight: 200;
+  color: #ffffff;
+  letter-spacing: 0.03rem;
 }

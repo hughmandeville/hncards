@@ -1,4 +1,4 @@
-import "./NavBar.css";
+import './NavBar.css';
 
 // NavBar - Render nav bar.
 const NavBar = props => (
@@ -7,8 +7,8 @@ const NavBar = props => (
     <div id="nav-title">
       <a href="https://news.ycombinator.com/news">Hacker News</a>
     </div>
+    <div id="nav-subtitle">an unofficial card based ui</div>
   </div>
 );
-
 
 export default NavBar;
