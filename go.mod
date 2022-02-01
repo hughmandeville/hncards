@@ -1,4 +1,4 @@
-module github.com/hughmandeville/hnui
+module github.com/hughmandeville/hncards
 
 go 1.17
 

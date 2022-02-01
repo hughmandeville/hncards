@@ -9,8 +9,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/hughmandeville/hnui/pkg/gcs"
-	hn "github.com/hughmandeville/hnui/pkg/hackernews"
+	"github.com/hughmandeville/hncards/pkg/gcs"
+	hn "github.com/hughmandeville/hncards/pkg/hackernews"
 	"github.com/otiai10/opengraph/v2"
 )
 

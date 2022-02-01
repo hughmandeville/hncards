@@ -8,7 +8,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/hughmandeville/hnui/pkg/hn_og_combo"
+	"github.com/hughmandeville/hncards/pkg/hn_og_combo"
 )
 
 const (

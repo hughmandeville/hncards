@@ -19,7 +19,7 @@ type GitHubController struct {
 	AccessToken string // GitHub Personal Access Token
 	Branch      string // Github branch (e.g. main)
 	Owner       string // owner of the GitHub repository (e.g. hughmandeville)
-	Repo        string // GitHub repository (e.g. hnui)
+	Repo        string // GitHub repository (e.g. hncards)
 }
 
 // Create an new GitHub controller.

@@ -2,7 +2,7 @@
 
 <https://hncards.com/> is an unofficial alternative web UI for [Hacker News](https://news.ycombinator.com/).
 
-[![Hacker News](hnui-ss.png)](https://hncards.com/)
+[![Hacker News](hncards-ss.png)](https://hncards.com/)
 
 ## Overview
 
@@ -12,7 +12,7 @@ The Go script gets the top stories from the [Hacker News API](https://github.com
 
 ## GitHub Pages
 
-This GitHub repo has GitHub Pages [setup with the custom domain](https://github.com/hughmandeville/hnui/settings/pages) hncard.com which is managed by [Google Domains](https://domains.google.com/registrar/hncards.com/dns).
+This GitHub repo has GitHub Pages [setup with the custom domain](https://github.com/hughmandeville/hncards/settings/pages) hncard.com which is managed by [Google Domains](https://domains.google.com/registrar/hncards.com/dns).
 
 Run `make gh-deploy` to deploy the React app to GitHub Pages.
 
@@ -22,7 +22,7 @@ make gh-deploy
 
 ## Running Locally
 
-Use `make run-node` to start up the React app on [port 3000](http://localhost:3000/hnui).
+Use `make run-node` to start up the React app on [port 3000](http://localhost:3000/).
 
 ```sh
 make run-node
