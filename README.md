@@ -1,4 +1,4 @@
-# Hacker News Cards: An Alternative UI
+# Hacker News Cards
 
 <https://hncards.com/> is an unofficial alternative web UI for [Hacker News](https://news.ycombinator.com/) that displays stories as cards.
 

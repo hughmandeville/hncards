@@ -1,4 +1,4 @@
-# Hacker News Alternative UI
+# Hacker News Cards
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
