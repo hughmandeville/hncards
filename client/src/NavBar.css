@@ -33,3 +33,7 @@
   color: #ffffff;
   letter-spacing: 0.117rem;
 }
+
+#nav h1 {
+  margin: 0;
+}
