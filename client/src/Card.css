@@ -42,12 +42,13 @@
   font-weight: 700;
   font-family: 'nyt-franklin', 'Roboto', 'Helvetica Neue', garamond, helvetica, sans serif;
   margin: 10px 20px;
+  word-break: break-word;
+  overflow-wrap: anywhere;
 }
 
 .title {
   font-size: 32px;
   margin: 20px 20px 30px;
-  overflow-wrap: anywhere;
 }
 
 .title-with-img {
