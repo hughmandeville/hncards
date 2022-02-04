@@ -3,7 +3,7 @@ module github.com/hughmandeville/hncards
 go 1.17
 
 require (
-	cloud.google.com/go/storage v1.19.0
+	cloud.google.com/go/storage v1.20.0
 	github.com/otiai10/opengraph/v2 v2.1.0
 )
 
@@ -24,7 +24,7 @@ require (
 	golang.org/x/xerrors v0.0.0-20200804184101-5ec99f83aff1 // indirect
 	google.golang.org/api v0.67.0 // indirect
 	google.golang.org/appengine v1.6.7 // indirect
-	google.golang.org/genproto v0.0.0-20220203182621-f4ae394cde3f // indirect
+	google.golang.org/genproto v0.0.0-20220204002441-d6cc3cc0770e // indirect
 	google.golang.org/grpc v1.44.0 // indirect
 	google.golang.org/protobuf v1.27.1 // indirect
 )
