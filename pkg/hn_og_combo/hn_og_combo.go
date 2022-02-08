@@ -202,9 +202,9 @@ func correctData(item *Item) {
 		item.Publisher = item.Publisher[:29] + "…"
 	}
 
-	// crop description at 200 characters
-	if len(item.Description) > 200 {
-		item.Description = item.Description[:197] + "…"
+	// crop description at 250 characters
+	if len(item.Description) > 250 {
+		item.Description = item.Description[:247] + "…"
 	}
 
 	// unset bad descriptions
